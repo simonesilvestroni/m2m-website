@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /_assets/?*
+Disallow: /files/?*
+Disallow: /epk
