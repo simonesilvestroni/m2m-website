@@ -5,3 +5,47 @@
 [13-Jun-2020 16:57:01 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/minutest/public_html/wp-content/themes/marquee-child/templates/parts/content.php on line 67
 [15-Jun-2020 02:03:19 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `m2m_options` WHERE `option_name` = '_transient_jetpack_sync_callables_await' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Sync\Sender->do_sync, Automattic\Jetpack\Sync\Sender->do_sync_and_set_delays, Automattic\Jetpack\Sync\Sender->do_sync_for_queue, do_action('jetpack_sync_before_send_queue_sync'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Sync\Modules\Callables->maybe_sync_callables, get_transient, delete_option
 [19-Jun-2020 17:27:38 UTC] Error checking in buffer: The buffer you checked in was not checked out
+[17-Jul-2020 17:57:23 UTC] Error checking in buffer: The buffer you checked in was not checked out
+[17-Jul-2020 21:28:02 UTC] Error checking in buffer: The buffer you checked in was not checked out
+[17-Jul-2020 22:02:11 UTC] Error checking in buffer: The buffer you checked in was not checked out
+[26-Jul-2020 15:09:50 UTC] Error checking in buffer: The buffer you checked in was not checked out
+[28-Jul-2020 15:46:56 UTC] Error checking in buffer: The buffer you checked in was not checked out
+[28-Jul-2020 15:46:56 UTC] Error checking in buffer: There are no checked out buffers
+[24-Aug-2020 19:48:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=52151 in /home/minutest/public_html/wp-includes/wp-db.php on line 2033
+[02-Sep-2020 00:38:22 UTC] PHP Warning:  Declaration of WP_CLI\Core\CoreUpgrader::download_package($package, $check_signatures = true) should be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = Array) in phar:///chroot/wp-cli/vendor/wp-cli/wp-cli/bin/wp-cli.phar/vendor/wp-cli/core-command/src/WP_CLI/Core/CoreUpgrader.php on line 163
+[06-Oct-2020 22:48:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Automattic\Jetpack\Connection\Utils::init_default_constants() in /home/minutest/public_html/wp-content/plugins/jetpack/vendor/automattic/jetpack-connection/src/class-client.php:26
+Stack trace:
+#0 /home/minutest/public_html/wp-content/plugins/jetpack/vendor/automattic/jetpack-connection/legacy/class-jetpack-ixr-client.php(61): Automattic\Jetpack\Connection\Client::remote_request(Array, '<?xml version="...')
+#1 /home/minutest/public_html/wp-content/plugins/jetpack/vendor/automattic/jetpack-sync/src/class-actions.php(373): Jetpack_IXR_Client->query('jetpack.syncAct...', Array)
+#2 /home/minutest/public_html/wp-includes/class-wp-hook.php(287): Automattic\Jetpack\Sync\Actions::send_data(Array, 'deflate-json-ar...', 1602024499.5301, 'sync', 0.010143995285034, 0.0031230449676514, 7, '5f7cf4337ec17')
+#3 /home/minutest/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#4 /home/minutest/public_html/wp-content/plugins/jetpack/vendor/automattic/jetpack-s in /home/minutest/public_html/wp-content/plugins/jetpack/vendor/automattic/jetpack-connection/src/class-client.php on line 26
+[30-Oct-2020 01:23:13 UTC] PHP Warning:  Declaration of WP_CLI\Core\CoreUpgrader::download_package($package, $check_signatures = true) should be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = Array) in phar:///chroot/wp-cli/vendor/wp-cli/wp-cli/bin/wp-cli.phar/vendor/wp-cli/core-command/src/WP_CLI/Core/CoreUpgrader.php on line 163
+[31-Oct-2020 00:58:42 UTC] PHP Warning:  Declaration of WP_CLI\Core\CoreUpgrader::download_package($package, $check_signatures = true) should be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = Array) in phar:///chroot/wp-cli/vendor/wp-cli/wp-cli/bin/wp-cli.phar/vendor/wp-cli/core-command/src/WP_CLI/Core/CoreUpgrader.php on line 163
+[02-Nov-2020 11:45:28 UTC] PHP Fatal error:  Uncaught Error: Class 'SiteGround_Optimizer\DNS_Prefetch\DNS_Prefetch' not found in /home/minutest/public_html/wp-content/plugins/sg-cachepress/core/Parser/Parser.php:61
+Stack trace:
+#0 [internal function]: SiteGround_Optimizer\Parser\Parser->run('', 9)
+#1 /home/minutest/public_html/wp-includes/functions.php(4673): ob_end_flush()
+#2 /home/minutest/public_html/wp-includes/class-wp-hook.php(287): wp_ob_end_flush_all('')
+#3 /home/minutest/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/minutest/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/minutest/public_html/wp-includes/load.php(1007): do_action('shutdown')
+#6 [internal function]: shutdown_action_hook()
+#7 {main}
+  thrown in /home/minutest/public_html/wp-content/plugins/sg-cachepress/core/Parser/Parser.php on line 61
+[10-Dec-2020 02:03:51 UTC] PHP Warning:  Declaration of WP_CLI\Core\CoreUpgrader::download_package($package, $check_signatures = true) should be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = Array) in phar:///chroot/wp-cli/vendor/wp-cli/wp-cli/bin/wp-cli.phar/vendor/wp-cli/core-command/src/WP_CLI/Core/CoreUpgrader.php on line 163
+[12-Dec-2020 11:22:36 UTC] Error checking in buffer: The buffer you checked in was not checked out
+[28-Jan-2021 06:49:06 UTC] Error checking in buffer: The buffer you checked in was not checked out
+[28-Jan-2021 06:49:06 UTC] Error checking in buffer: There are no checked out buffers
+[28-Jan-2021 06:49:06 UTC] Error checking in buffer: There are no checked out buffers
+[03-Feb-2021 20:18:01 UTC] Error checking in buffer: The buffer you checked in was not checked out
+[04-Feb-2021 12:06:06 UTC] Error checking in buffer: The buffer you checked in was not checked out
+[04-Feb-2021 13:49:32 UTC] Error checking in buffer: There are no checked out buffers
+[08-Feb-2021 22:56:03 UTC] Error checking in buffer: The buffer you checked in was not checked out
+[02-Mar-2021 21:51:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\Jetpack\Connection\Tokens' not found in /home/customer/www/minutestomidnight.co.uk/public_html/wp-content/plugins/jetpack/vendor/automattic/jetpack-connection/src/class-client.php:75
+Stack trace:
+#0 /home/customer/www/minutestomidnight.co.uk/public_html/wp-content/plugins/jetpack/vendor/automattic/jetpack-connection/src/class-client.php(26): Automattic\Jetpack\Connection\Client::build_signed_request(Array, '<?xml version="...')
+#1 /home/customer/www/minutestomidnight.co.uk/public_html/wp-content/plugins/jetpack/vendor/automattic/jetpack-connection/legacy/class-jetpack-ixr-client.php(70): Automattic\Jetpack\Connection\Client::remote_request(Array, '<?xml version="...')
+#2 /home/customer/www/minutestomidnight.co.uk/public_html/wp-content/plugins/jetpack/vendor/automattic/jetpack-sync/src/class-actions.php(409): Jetpack_IXR_Client->query('jetpack.syncAct...', Array)
+#3 /home/customer/www/minutestomidnight.co.uk/public_html/wp-includes/class-wp-hook.php(287): Automattic\Jetpack\S in /home/customer/www/minutestomidnight.co.uk/public_html/wp-content/plugins/jetpack/vendor/automattic/jetpack-connection/src/class-client.php on line 75
+[06-Jul-2021 21:52:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/customer/www/minutestomidnight.co.uk/public_html/wp-content/plugins/sg-security/core/Activity_Log/Activity_Log_Plugins.php on line 123
