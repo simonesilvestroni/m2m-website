@@ -1,2 +1,3 @@
-# m2m-website
-Minutes to Midnight public website
+# Minutes to Midnight website(s)
+
+Public website iterations.
