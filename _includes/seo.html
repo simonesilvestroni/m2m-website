@@ -1,0 +1,5 @@
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<link rel="canonical" href="{{ page.url |  replace:'index.html','' | absolute_url }}">
+{% include seo-og.html %}
+{% include seo-tw.html %}
+{% include seo-schema.html -%}

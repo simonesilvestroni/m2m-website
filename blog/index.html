@@ -1,0 +1,48 @@
+---
+layout: blog
+title: Blog
+date: '2021-11-06 14:11:45'
+last_modified_at: '2021-11-08 10:57:26'
+description: 'Description here'
+---
+<section class="h-feed">
+  {% for post in paginator.posts %}
+  {% if post %}
+  {% assign categories = post.categories %}
+  {% else %}
+  {% assign categories = page.categories %}
+  {% endif %}
+  {% include pattern-postblock.html %}
+  {% endfor -%}
+</section>
+
+<nav class="nav nav-paginator mb-5 d-flex justify-content-center" aria-label="Blog page navigation">
+  {%- assign lastPage = paginator.total_pages -%}
+  {%- assign secondToLast = lastPage | minus: 1 -%}
+  {%- assign firstPage = 1 -%}
+  {%- assign secondPage = firstPage | plus: 1 -%}
+  {%- unless paginator.page == firstPage %}
+  <div class="d-inline-block my-2 mx-2 lh-1">
+    <a class="pagination pagination-first text-decoration-none" href="{{ site.data.nav-site[2].link }}"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-bar-left" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M12.5 15a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5zM10 8a.5.5 0 0 1-.5.5H3.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L3.707 7.5H9.5a.5.5 0 0 1 .5.5z"/></svg>&nbsp;First</a>
+  </div>
+  {%- endunless -%}
+  {%- if paginator.previous_page %}{%- unless paginator.page == secondPage %}
+  <div class="d-inline-block my-2 mx-2 lh-1">
+    <a class="pagination pagination-previous text-decoration-none" href="{{ paginator.previous_page_path }}" rel="previous"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-short" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M12 8a.5.5 0 0 1-.5.5H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5a.5.5 0 0 1 .5.5z"/></svg>&nbsp;Previous</a>
+  </div>
+  {%- endunless -%}
+  {%- endif %}
+  <div class="d-inline-block my-2 mx-2 lh-1">
+    <span class="pagination pagination-counter m2m-serif text-decoration-none"><strong>Page&nbsp;{{ paginator.page }} of {{ paginator.total_pages }}</strong></span>
+  </div>
+  {% if paginator.next_page -%}{%- unless paginator.page == secondToLast -%}
+  <div class="d-inline-block my-2 mx-2 lh-1">
+    <a class="pagination pagination-next text-decoration-none" href="{{ paginator.next_page_path }}" rel="next">Next&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"/></svg></a>
+  </div>
+  {% endunless -%}{%- endif -%}
+  {%- unless paginator.page == lastPage -%}
+  <div class="d-inline-block my-2 mx-2 lh-1">
+    <a class="pagination pagination-last text-decoration-none" href="{{ site.data.nav-site[2].link }}page/{{ paginator.total_pages }}/">Last&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-bar-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M6 8a.5.5 0 0 0 .5.5h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 0 0-.708.708L12.293 7.5H6.5A.5.5 0 0 0 6 8zm-2.5 7a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5z"/></svg></a>
+  </div>
+  {% endunless -%}
+</nav>

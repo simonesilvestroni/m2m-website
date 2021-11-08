@@ -1,0 +1,10 @@
+// ------------------------------------------------ \\
+// $CUSTOM TYPOGRAPHY
+//
+// Loading local fonts for headings
+// ------------------------------------------------
+// Imported in `m2m.scss`
+// ------------------------------------------------ //
+
+#{$site-prefix}-sans  { font-family: $font-family-base }
+#{$site-prefix}-serif { font-family: $headings-font-family; }

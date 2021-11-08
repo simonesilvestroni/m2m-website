@@ -1,0 +1,2 @@
+{% capture includeMD %}{% include {{ page.title | downcase }}.md %}{% endcapture %}
+{{ includeMD | markdownify }}

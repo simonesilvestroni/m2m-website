@@ -1,0 +1,18 @@
+<section class="h-feed latest-posts my-5 pt-5">
+
+  <h3 class="p-name text-center display-5 m2m-mask-texture mb-3">Latest Posts</h3>
+
+  {%- assign recentPosts = site.posts -%}
+  {%- for post in recentPosts limit:site.brand.smd_latestposts_limit -%}
+  {% if post %}
+  {% assign categories = post.categories %}
+  {% else %}
+  {% assign categories = page.categories %}
+  {% endif %}
+  {% include pattern-postblock.html %}
+  {% endfor -%}
+  <div class="my-5 text-center">
+    <a class="btn btn-md btn-smd btn-m2m-cta fw-bold" href="{{ site.data.nav-site[2].link }}" title="Check out all the articles"><span class="small initialism">Read all the articles</span></a>
+  </div>
+
+</section>

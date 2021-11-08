@@ -1,0 +1,98 @@
+host: "localhost"
+url: "https://minutestomidnight.co.uk"
+baseurl: ""
+
+# SEO
+title: Minutes to Midnight
+tagline: Sound and Web Designer
+description: Minutes to Midnight is the moniker of music producer and frontend developer Simone Silvestroni.
+permalink: /:categories/:title/
+keywords:
+  sound design,
+  bass player,
+  game audio,
+  web development,
+  frontend
+timezone: Europe/Rome
+logo: /assets/images/silviamaggi-og-image.jpg
+author:
+  name: Simone Silvestroni
+  email: hello@minutestomidnight.co.uk
+
+# Brand
+brand:
+  smd_avatar_src: /assets/images/silviamaggi-avatar.png
+  smd_tagline: This is the tagline
+  smd_pitch: This is the pitch.
+  smd_latestposts_limit: 3
+
+exclude: 
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - build
+  - js
+  - sass
+include: ["_pages", "_redirects"]
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      is_post: true
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "collections"
+    values:
+      layout: "page"
+
+# Collections
+collections:
+  casestudies:
+    output: true
+    permalink: /portfolio/:path/
+  sideprojects:
+    output: true
+    permalink: /portfolio/:path/
+
+# Taxonomy
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: archive
+  permalinks:
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+  slug_mode: latin
+  date: 2021-08-15 13:45
+
+# Blog pagination
+paginate: 9
+paginate_path: "/blog/page/:num/"
+
+excerpt_separator: <!--more-->
+
+# Responsive images
+responsive_image:
+  template: _includes/pattern-responsive-image.html
+  sizes:
+    - width: 576
+    - width: 768
+    - width: 1200
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-responsive-image

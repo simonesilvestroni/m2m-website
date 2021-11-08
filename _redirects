@@ -1,0 +1,3 @@
+http://blog.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/blog/:splat 301!
+https://blog.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/blog/:splat 301!
+/old/ /new/ 301

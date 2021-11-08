@@ -1,0 +1,16 @@
+<article class="m2m-entry h-entry my-5 py-2">
+  {% for category in categories %}
+  <span class="p-category btn-label-smd btn-label-m2m-bg d-inline-block initialism fw-bold me-1 rounded"><strong>{{ category | upcase | replace:"-"," " }}</strong></span>
+  {% endfor %}
+  <h{% if page.url == '/' %}4{% else %}2{% endif %} class="{% if page.url == '/' %}h2 {% endif %}p-name fs-1 mt-2 mb-0">{{ post.title }}</h{% if page.url == '/' %}4{% else %}2{% endif %}>
+  <div class="post-meta mt-3">
+    {% include post-meta.html date=page %}{% if page.url == '/' %}&nbsp;/&nbsp;{% endif %}{% include pattern-readingtime.html content=post.content -%}
+  </div>
+  <div class="e-content">
+    <p class="p-summary mt-3">{{ post.excerpt | markdownify | strip_html }}</p>
+    <div class="mt-3">
+      <p><a class="u-url bi bi-chevron-right" href="{{ post.url }}" title="Read the entire post">Read the post</a> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/></svg></p>
+    </div>
+  </div>
+</article>
+<hr class="visually-hidden">

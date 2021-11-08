@@ -1,0 +1,12 @@
+- name: Search
+  link: /search/
+- name: RSS feed
+  link: /feed.xml
+- name: Archive
+  link: /archive/
+- name: Newsletter
+  link: /contact/
+- name: Privacy Policy
+  link: /privacy-policy/
+- name: Colophon
+  link: /colophon/

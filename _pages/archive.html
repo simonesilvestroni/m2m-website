@@ -1,0 +1,36 @@
+---
+layout: default
+title: Archive
+date: '2021-11-08 10:27:47'
+last_modified_at: '2021-11-08 10:27:41'
+permalink: /archive/
+---
+{% include site-breadcrumbs.html %}
+
+<h1 class="text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
+
+<h2 class="mb-5">Categories</h2>
+
+<ol class="list-unstyled list-inline">
+{% assign sorted_cats = site.categories | sort %}
+{% for category in sorted_cats %}
+{% assign c = category | first %}
+{% assign posts = category | last %}
+  <li class="list-inline-item mb-4 me-4">
+    <a class="btn btn-lg btn-label-smd btn-label-lg-smd btn-label-m2m-bg btn-label-m2m-link px-4 py-2" href="{{ site.url }}/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><strong>{{ c | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
+  </li>
+{% endfor %}
+</ol>
+
+<h2 class="mb-5 pt-4">Tags</h2>
+
+<ol class="list-unstyled list-inline">
+{% assign sorted_tags = site.tags | sort %}
+{% for tag in sorted_tags %}
+{% assign t = tag | first %}
+{% assign posts = tag | last %}
+  <li class="list-inline-item mb-4 me-4">
+    <a class="btn btn-lg btn-label-smd btn-label-lg-smd btn-label-m2m-bg btn-label-m2m-link px-4 py-2" href="{{ site.url }}/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><strong>{{ t | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
+  </li>
+{% endfor %}
+</ol>

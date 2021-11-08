@@ -1,0 +1,24 @@
+// @function m2m-color($type, $var, $i) {
+
+//   $custom-colors: (
+//     "background": #ebd5c9,
+//     "link": #98d1dd,
+//     "heading": #014c5d
+//   );
+
+//   $custom-vars: tint, shade;
+  
+//   $m2m-colors: ();
+
+//   @for $i from 1 to 9 {
+//     @each $type, $color in $custom-colors {
+//       @each $var in $custom-vars {
+//         $m2m-colors: (
+//           "#{type}-#{$var}-#{$i}0": #{$var}-color($color, #{$i}0#{"%"}),
+//         );
+//       }
+//     }
+//   }
+
+//   @return map-get($m2m-colors, $type, $var, $i);
+// }

@@ -1,0 +1,22 @@
+{% comment %} --- Categories --- {% endcomment %}
+{%- unless page.categories == empty -%}
+  {%- if post -%}
+  {%- assign categories = post.categories -%}
+  {%- else -%}
+  {%- assign categories = page.categories -%}
+  {%- endif -%}
+  <span class="d-block">
+    <span class="d-inline-block m2m-font-micro me-1">Filed under</span> {% for category in categories %}<a class="p-category text-decoration-none me-2 me-lg-1" href="{{ site.url }}/category/{{ category | slugify | append: '/' }}"><span class="btn btn-lg btn-label-smd btn-label-m2m-bg btn-label-m2m-link fw-bold m2m-font-micro"><strong>{{ category | upcase | replace:"-"," " }}</strong></span></a>{% endfor %}
+  </span>
+{%- endunless -%}
+{% comment %} --- Tags --- {% endcomment %}
+{%- unless page.tags == empty -%}
+  {%- if post -%}
+  {%- assign tags = post.tags -%}
+  {%- else -%}
+  {%- assign tags = page.tags -%}
+  {%- endif -%}
+  <span class="d-block">
+    <span class="d-inline-block m2m-font-micro me-1">Tagged</span> {% for tag in tags %}<a class="p-category me-2 text-decoration-none me-2 me-lg-1" href="{{ site.url }}/tag/{{ tag | slugify | append: '/' }}"><span class="btn btn-lg btn-label-smd btn-label-m2m-bg btn-label-m2m-link fw-bold m2m-font-micro"><strong>{{ tag | upcase }}</strong></span></a>{% unless forloop.last %}{% endunless %}{% endfor %}
+  </span>
+{%- endunless -%}

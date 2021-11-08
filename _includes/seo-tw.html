@@ -1,0 +1,6 @@
+<!-- Twitter integration -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.title }}" />
+<meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
+<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+<meta name="twitter:image" content="{% if page.featured-image %}{{ site.url }}/assets/images/{{ page.featured-image }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />

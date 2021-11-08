@@ -1,0 +1,24 @@
+---
+layout: default
+---
+{% include site-breadcrumbs.html %}
+
+<article class="h-entry m2m-entry">
+  <h1 class="p-name text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
+  <div class="post-meta m2m-translucent-bg my-4 px-3 py-2 rounded">
+  {%- include post-meta.html %}
+  {% include pattern-readingtime.html content=content -%}
+    <span class="post-taxonomy d-block">
+    {%- include post-taxonomy.html -%}
+    </span>
+    <a rel="author" class="p-author h-card visually-hidden" href="{{ site.url }}">Simone Silvestroni</a>
+    <a class="u-url h-card visually-hidden" href="{{ site.url }}{{ page.url }}">Permalink</a>
+  </div>
+<div class="e-content">
+  {{ content }}
+</div>
+{%- include pattern-responses.html -%}
+</article>
+
+{%- include post-navigation.html -%}
+{%- include pattern-relatedposts.html -%}

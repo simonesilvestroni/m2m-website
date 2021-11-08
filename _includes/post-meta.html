@@ -1,0 +1,8 @@
+{% if post %}
+{% assign date = post.date %}
+{% elsif page %}
+{% assign date = page.date %}
+{% endif %}
+<span class="d-inline-block m2m-font-micro fw-bold">
+  <time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date_to_string }}</time>
+</span>
