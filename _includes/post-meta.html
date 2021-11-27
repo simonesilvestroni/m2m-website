@@ -3,6 +3,6 @@
 {% elsif page %}
 {% assign date = page.date %}
 {% endif %}
-<span class="d-inline-block m2m-font-micro fw-bold">
-  <time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date_to_string }}</time>
+<span class="d-inline-block small fw-bold">
+  <time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated"><code>{{ date | date_to_string }}</code></time>
 </span>

@@ -93,7 +93,7 @@ $m2m-bg-colors: (
 );
 
 // Print all the utility classes
-#{$site-prefix} {
+.m2m {
   @include m2m-color($m2m-bg-colors, 'background-color', $separator: '-');
   @include m2m-color($m2m-colors, 'color', $separator: '-');
 }

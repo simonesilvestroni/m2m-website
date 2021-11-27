@@ -3,12 +3,12 @@
     "short_name": "Minutes to Midnight",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png?v=3e8yWWAJ0a",
+            "src": "/assets/images/favicons/android-chrome-192x192.png?v=3e8yWWAJ0a",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png?v=3e8yWWAJ0a",
+            "src": "/assets/images/favicons/android-chrome-512x512.png?v=3e8yWWAJ0a",
             "sizes": "512x512",
             "type": "image/png"
         }

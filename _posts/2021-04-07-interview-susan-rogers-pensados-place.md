@@ -1,0 +1,42 @@
+---
+title: 'Interview to Susan Rogers (Pensado’s Place)'
+date: '2021-04-07'
+last_modified_at: '2021-11-08 16:59:59'
+categories:
+  - 'Psychoacoustics'
+tags:
+  - susan rogers 
+  - dave pensado
+  - herb trawick
+  - berklee
+  - music listening
+  - music producer
+  - audio technician
+  - prince
+description: "I finally watched this amazing video interview with Susan Rogers, who had been sitting in my to-do list for a few weeks. The best interview in a long time."
+excerpt: "I watched this amazing video interview, probably the best one I’ve watched in a while."
+---
+<p class="lead">{{ page.excerpt }}</p>
+
+## Who is Susan Rogers
+
+> Susan Rogers holds a doctoral degree in experimental psychology from McGill University (2010). Prior to her science career, Susan was a multiplatinum-earning record producer, mixer, engineer, and audio technician.
+<br><br> 
+> She is best known for her work with **Prince** during his peak creative period (1983-1987) but production/engineering/mix credits also include David Byrne, Barenaked Ladies, Geggy Tah, Nil Lara, Robben Ford, Tricky, Michael Penn, Jeff Black, and many more.
+<br><br>
+> She is currently a Professor in the departments of Music Production & Engineering and Liberal Arts at [Berklee College of Music, Boston](https://www.berklee.edu/){:target="_blank" rel="noopener"}, where she teaches psychoacoustics, record production and analog recording techniques.
+
+{% include pattern-figure.html image="/assets/images/susan-rogers-sign-o-the-times-tour.jpeg" caption="Susan Rogers during Prince’s <em>Sign ‘O The Times</em> tour" width="1024" height="682" %}
+
+I’ve listened to her in awe. In particular, regarding two points:
+
+- The importance of using panning to make the most of our perception of music, by exploiting **the different way our brain processes sounds**. I love how both Pensado and Trawick reacted to it.
+- The crucial role that _non-musicians producers_ can have on the global vision of a song.
+
+I strongly advise you to watch the entire interview — it’s slightly 45 minutes, while the ‘core’ of the discussion is probably around half an hour.
+
+<br>
+
+Skip to around `3'08"` for the proper content to start.
+
+{% include pattern-video.html id="AJExXyVSdUs" %}

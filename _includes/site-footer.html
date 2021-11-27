@@ -5,24 +5,26 @@
     <div class="d-md-flex flex-nowrap flex-sm-wrap justify-content-md-between py-4">
       <div class="d-md-flex text-center mb-4 mb-md-0"><p class="mb-0 small">&copy; {{ site.time | date: '%Y' }} &ndash; {{ site.title }}</p></div>
       <div class="d-md-flex text-center align-items-md-end mt-5 mb-3 mt-md-0 mb-md-0 text-decoration-none">
-        <a class="btn btn-smd btn-sm px-3 py-2 fw-bold" href="{{ page.url }}#top" title="Go to the top of the page">Top&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-bar-up" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M3.646 11.854a.5.5 0 0 0 .708 0L8 8.207l3.646 3.647a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 0 0 0 .708zM2.4 5.2c0 .22.18.4.4.4h10.4a.4.4 0 0 0 0-.8H2.8a.4.4 0 0 0-.4.4z"/></svg></a>
+        <a class="btn btn-m2m btn-sm px-3 py-2 fw-bold" href="{{ page.url }}#top" title="Go to the top of the page">Top&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-bar-up" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M3.646 11.854a.5.5 0 0 0 .708 0L8 8.207l3.646 3.647a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 0 0 0 .708zM2.4 5.2c0 .22.18.4.4.4h10.4a.4.4 0 0 0 0-.8H2.8a.4.4 0 0 0-.4.4z"/></svg></a>
       </div>
     </div>
-    <!-- <div class="d-md-flex text-center mb-4">
+    {%- comment -%}
+    <div class="d-md-flex text-center mb-4">
       <p class="mb-0 small">
         <a href="https://xn--sr8hvo.ws/2%EF%B8%8F%E2%83%A3%F0%9F%8E%B7%E2%9B%8E/previous" target="_blank">←</a>
         An <strong>IndieWeb Webring</strong> 🕸💍
         <a href="https://xn--sr8hvo.ws/2%EF%B8%8F%E2%83%A3%F0%9F%8E%B7%E2%9B%8E/next" target="_blank">→</a>
       </p>
-    </div> -->
+    </div>    
+    {%- endcomment -%}
   </footer>  
 </div>
 {% if page.url contains 'search' or page.url contains '404.html' %}
-<script type="text/javascript" src="{{ site.url }}/assets/js/search-smd.js"></script>
+<script type="text/javascript" src="{{ site.url }}/assets/js/search-m2m.js"></script>
 <noscript>Please enable JavaScript to use the search form.</noscript>
 {% endif %}
-{% comment %}
+{%- comment -%}
 {%- if page.id -%}{%- unless page.url contains "/portfolio/" -%}
 <script type="text/javascript" src="{{ site.url }}/assets/js/webmention.min.js" async></script>
 {%- endunless -%}{%- endif -%}
-{% endcomment %}
+{%- endcomment -%}

@@ -1,7 +1,7 @@
 /*!
  * Custom CSS built on top of Bootstrap 5.x
- * Written by Silvia Maggi & Minutes to Midnight
- * No copyright 2021-22, Silvia Maggi.
+ * Written by Minutes to Midnight & Silvia Maggi
+ * No copyright 2021-22, Simone Silvestroni.
  * Dust texture on headings by PhotoshopSupply
  * https://www.photoshopsupply.com
  */
@@ -23,12 +23,10 @@
 // be found in _reboot.scss and _variables.scss
 // ------------------------------------------------ //
 
-// Website prefix
-$site-prefix: '.m2m';
-
 // Typography
 $enable-rfs: true;
-$headings-font-family: 'Noto Serif', serif;
+$headings-font-family: $font-family-base;
+$headings-font-weight: 900;
 $h1-font-size: 3.5rem;
 $h2-font-size: 2.25rem;
 $h3-font-size: 1.8rem;
@@ -106,7 +104,6 @@ $form-label-margin-bottom: .5rem;
 // ------------------------------------------------ //
 // Remove default colors
 $theme-colors: map-remove($theme-colors, "secondary", "info", "danger");
-
 
 // ------------------------------------------------ \\
 // $OPTIONAL Bootstrap components

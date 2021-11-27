@@ -5,7 +5,7 @@ date: '2021-11-08 10:27:47'
 last_modified_at: '2021-11-08 10:27:41'
 permalink: /archive/
 ---
-{% include site-breadcrumbs.html %}
+{% include breadcrumbs.html %}
 
 <h1 class="text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
 
@@ -17,7 +17,7 @@ permalink: /archive/
 {% assign c = category | first %}
 {% assign posts = category | last %}
   <li class="list-inline-item mb-4 me-4">
-    <a class="btn btn-lg btn-label-smd btn-label-lg-smd btn-label-m2m-bg btn-label-m2m-link px-4 py-2" href="{{ site.url }}/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><strong>{{ c | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
+    <a class="btn btn-lg btn-label-m2m btn-label-lg-m2m btn-label-m2m-bg btn-label-m2m-link px-4 py-2" href="{{ site.url }}/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><strong>{{ c | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
   </li>
 {% endfor %}
 </ol>
@@ -30,7 +30,7 @@ permalink: /archive/
 {% assign t = tag | first %}
 {% assign posts = tag | last %}
   <li class="list-inline-item mb-4 me-4">
-    <a class="btn btn-lg btn-label-smd btn-label-lg-smd btn-label-m2m-bg btn-label-m2m-link px-4 py-2" href="{{ site.url }}/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><strong>{{ t | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
+    <a class="btn btn-lg btn-label-m2m btn-label-lg-m2m btn-label-m2m-bg btn-label-m2m-link px-4 py-2" href="{{ site.url }}/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><strong>{{ t | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
   </li>
 {% endfor %}
 </ol>

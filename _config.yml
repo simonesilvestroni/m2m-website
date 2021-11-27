@@ -6,11 +6,13 @@ baseurl: ""
 title: Minutes to Midnight
 tagline: Sound and Web Designer
 description: Minutes to Midnight is the moniker of music producer and frontend developer Simone Silvestroni.
-permalink: /:categories/:title/
+permalink: /blog/:title/
 keywords:
   sound design,
   bass player,
   game audio,
+  music production,
+  web design,
   web development,
   frontend
 timezone: Europe/Rome
@@ -21,10 +23,59 @@ author:
 
 # Brand
 brand:
-  smd_avatar_src: /assets/images/silviamaggi-avatar.png
-  smd_tagline: This is the tagline
-  smd_pitch: This is the pitch.
-  smd_latestposts_limit: 3
+  m2m_avatar_src: /assets/images/m2m-avatar.jpg
+  m2m_tagline: Hi, Simone here
+  m2m_pitch: I&rsquo;m a trait-d&rsquo;union between creativity and logic.
+  m2m_latestposts_limit: 2
+
+# Skill set
+skills-audio:
+  - skill: mixing
+  - skill: mastering
+  - skill: foley
+  - skill: field recording
+  - skill: arrangement
+  - skill: audio signal flow
+  - skill: microphones
+  - skill: dialogue and vocals
+  - skill: editing
+  - skill: audio restoration
+  - skill: sound effects
+  - skill: wwise
+  - skill: fmod
+  - skill: alienbrain
+  - skill: instrumentalist
+  - skill: drum programming
+  - skill: drum replacement
+  - skill: composition
+  - skill: scoring
+skills-web:
+  - skill: jekyll
+  - skill: liquid
+  - skill: markdown
+  - skill: HTML 5
+  - skill: CSS 3
+  - skill: SASS
+  - skill: accessibility
+  - skill: usability
+  - skill: UX
+  - skill: UI
+  - skill: problem solving
+  - skill: netlify
+  - skill: git
+  - skill: svn
+  - skill: node.js
+  - skill: postCSS
+  - skill: YAML
+  - skill: capistrano
+  - skill: SSH
+  - skill: PHP
+  - skill: javascript
+  - skill: agile
+  - skill: gtd
+  - skill: sublime text
+  - skill: visual studio code
+  - skill: boostrap 5
 
 exclude: 
   - README.md
@@ -56,12 +107,9 @@ defaults:
 
 # Collections
 collections:
-  casestudies:
+  originalproductions:
     output: true
-    permalink: /portfolio/:path/
-  sideprojects:
-    output: true
-    permalink: /portfolio/:path/
+    permalink: /work/original-productions/:path/
 
 # Taxonomy
 jekyll-archives:
@@ -73,7 +121,7 @@ jekyll-archives:
     tag: '/tag/:name/'
     category: '/category/:name/'
   slug_mode: latin
-  date: 2021-08-15 13:45
+  date: 2021-11-16 23:27:11
 
 # Blog pagination
 paginate: 9

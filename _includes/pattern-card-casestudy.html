@@ -1,0 +1,20 @@
+<div class="col m2m-transition-opacity-03s">
+  <div class="card h-100 m2m-transition-border-03s">
+    <img src="/assets/images/{{ casestudy.title | replace: " ","-" | append: ".jpg" }}" alt="Cover of {{ casestudy.title }}" width="600" height="600">
+    <div class="card-body text-center">
+      {% if casestudy %}
+      {% assign categories = casestudy.categories %}
+      {% else %}
+      {% assign categories = page.categories %}
+      {% endif %}
+      {% for category in categories %}
+      <span class="p-category btn-label-m2m btn-label-m2m-bg d-inline-block initialism fw-bold me-1 rounded"><strong>{{ category | upcase | replace:"-"," " }}</strong></span>
+      {% endfor %}
+      <h4 class="m2m-sans text-uppercase h5 mt-2 mb-3">{{ casestudy.title }}</h4>
+      <p class="card-text text-start fs-6">{{ casestudy.excerpt | strip_html }}</p>
+    </div>
+    <div class="card-footer text-center pb-3">
+      <a class="stretched-link btn btn-md btn-m2m btn-m2m-cta text-decoration-none fw-bold" href="{{ casestudy.url }}" title="Read and listen to {{ casestudy.title }}"><span class="small initialism">About '{{ casestudy.title }}'</span></a>
+    </div>
+  </div>
+</div>

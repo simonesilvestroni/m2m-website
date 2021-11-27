@@ -29,11 +29,11 @@ main {}
 // ------------------------------------------------ \\
 // $LOGO
 // ------------------------------------------------ //
-@include media-breakpoint-down(md) {
-  .m2m-logo {
-    width: 200px;
-  } 
-}
+// @include media-breakpoint-down(md) {
+//   .m2m-logo {
+//     width: 200px;
+//   } 
+// }
 
 
 // ------------------------------------------------ \\
@@ -41,7 +41,7 @@ main {}
 // ------------------------------------------------ //
 
 h1 {
-  @extend #{$site-prefix}-mask-texture;
+  @extend .m2m-mask-texture;
 }
 
 // Search page result heading (component)
@@ -66,7 +66,6 @@ h4 {
     left: 0;
     right: 0;
     width: 100%;
-    font-family: $font-family-base;
     @include font-size($font-size-sm*0.80);
     text-transform: uppercase;
     padding: 0;
@@ -100,7 +99,6 @@ h4 {
   }
 
   @include font-size($font-size-lg*1.25);
-  font-family: $headings-font-family;
 
   ul {
     @include list-unstyled();
@@ -111,15 +109,15 @@ h4 {
   }
 }
 /* purgecss end ignore */
-#{$site-prefix}-current {
+.m2m-current {
   color: $link-d-40;
 }
-#{$site-prefix}-right-arrow::after {
+.m2m-right-arrow::after {
   display: inline-block;
   content: '\203a';
   padding-left: 2px;
 }
-#{$site-prefix}-left-arrow::before {
+.m2m-left-arrow::before {
   display: inline-block;
   content: '\2039';
   padding-right: 2px;
@@ -137,7 +135,7 @@ p {
   // Lead paragraphs
   &.lead {
     font-size: rfs-fluid-value(26px);
-    line-height: 1.3;
+    line-height: 1.3 !important;
     text-indent: 0;
     text-align: left !important;
     margin: $spacer*2 0 !important;
@@ -151,7 +149,7 @@ code {
 }
 
 // Font micro size
-#{$site-prefix}-font-micro {
+.m2m-font-micro {
   @include font-size($micro-font-size);
   line-height: 1.2;
 }
@@ -167,6 +165,7 @@ blockquote {
     width: 80%;
   }
   p {
+    @extend %m2m-serif;
     display: inline;
     text-indent: 0;
     &:first-child {
@@ -177,6 +176,7 @@ blockquote {
 
 // Blockquote cite
 cite {
+  font-family: $font-family-base;
   display: block;
   font-style: normal;
   text-indent: 0;
@@ -190,8 +190,8 @@ cite {
 
 // Links and hover (component as a utility class)
 %m2m-link,
-#{$site-prefix}-link {
-  @extend #{$site-prefix}-transition-txtdec-03s;
+.m2m-link {
+  @extend .m2m-transition-txtdec-03s;
   color: $link-color;
   text-decoration-line: underline;
   text-decoration-color: $link-decoration;
@@ -240,11 +240,11 @@ cite {
 
 // Default entry font size
 %m2m-entry-fs,
-#{$site-prefix}-entry-fs {
+.m2m-entry-fs {
   font-size: rfs-fluid-value(21px);
 }
 
-#{$site-prefix}-entry {
+.m2m-entry {
   // entry headings
   h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     color: $m2m-heading-color-base;
@@ -272,6 +272,7 @@ cite {
       text-indent: 0 !important;
       margin-top: $spacer*2;
     }
+
   }
 
   // Entry block link
@@ -291,19 +292,8 @@ cite {
     
     li {
       @extend %m2m-entry-fs;
-      // counter-increment: m2m-counter;
       line-height: 1.6;
       hyphens: auto;
-      // padding-left: $spacer*.5;
-      // &::before {
-      //   display: inline-block;
-      //   width: 1.5rem;
-      //   content: counter(m2m-counter) ".";
-      //   font-family: $headings-font-family;
-      //   font-weight: bold;
-      //   color: $link-d-20;
-      //   margin-left: -1.5rem;
-      // }
 
       ol {
         margin-top: 0;
@@ -381,7 +371,7 @@ cite {
     width: 800px;
   }
 }
-#{$site-prefix}-portfolio-quote {
+.m2m-portfolio-quote {
   width: rfs-fluid-value(350px) !important;
 }
 .layout-portfolio-content {
@@ -401,7 +391,7 @@ cite {
 // $ACCORDION
 // ------------------------------------------------ //
 
-#{$site-prefix}-accordion {
+.m2m-accordion {
  
   input {
     display: none;
@@ -457,27 +447,27 @@ cite {
     }
   }
 }
-input:checked + #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-title {
+input:checked + .m2m-accordion-box .m2m-accordion-box-title {
   background-color: $background-l-70;
   transition: background-color .3s ease-in-out;
 }
-input:checked + #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-title h4 {
+input:checked + .m2m-accordion-box .m2m-accordion-box-title h4 {
   color: $black;
   transition: color 1s ease-in-out;
 }
-input:checked + #{$site-prefix}-accordion-box {
+input:checked + .m2m-accordion-box {
   height: auto;
   border-bottom: 2px solid $background-l-10;
 }
-input:checked + #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-content,
-input:checked + #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-close {
+input:checked + .m2m-accordion-box .m2m-accordion-box-content,
+input:checked + .m2m-accordion-box .m2m-accordion-box-close {
   display: inline-block;
 }
-#{$site-prefix}-accordion-arrows #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-title {
+.m2m-accordion-arrows .m2m-accordion-box .m2m-accordion-box-title {
   padding-left: 2.75rem;
   width: 100%;
 }
-#{$site-prefix}-accordion-arrows #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-title:before {
+.m2m-accordion-arrows .m2m-accordion-box .m2m-accordion-box-title:before {
   position: absolute;
   display: block;
   content: '\203a';
@@ -487,7 +477,7 @@ input:checked + #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-clos
   color: $background-d-40;
   transition: all .2s ease-in-out;
 }
-input:checked + #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-title:before {
+input:checked + .m2m-accordion-box .m2m-accordion-box-title:before {
   transform: rotate(90deg);
   color: $black;
 }
@@ -506,7 +496,7 @@ input:checked + #{$site-prefix}-accordion-box #{$site-prefix}-accordion-box-titl
   }
 
   a {
-    @extend #{$site-prefix}-transition-txtdec-03s;
+    @extend .m2m-transition-txtdec-03s;
     text-decoration: solid underline $link-l-30 2px;
 
     &:hover {
@@ -535,7 +525,7 @@ figcaption  {
   width: 130px; 
   height: auto;
 }
-#{$site-prefix}-logo {
+.m2m-logo {
   svg {
     max-width: 100%;
   }
@@ -555,42 +545,16 @@ hr {
 // $IMAGEGALLERY
 // ------------------------------------------------ //
 
-.img-slide { 
-  max-height: 90vh;
+.m2m-img-gallery-thumb {
+  width: 160px;
+  height: 160px;
 }
-#{$site-prefix}-img-gallery-thumbs { 
-  cursor: pointer;
-}
-#{$site-prefix}-img-gallery-thumb {
-  width: 150px;
-  height: 150px;
-}
-#{$site-prefix}-image-gallery-caption {
-  width: 150px;
-}
-
-
-// ------------------------------------------------ \\
-// $MODAL
-// ------------------------------------------------ //
-
-#{$site-prefix}-modal-content { 
-  position: relative;
-}
-#{$site-prefix}-modal-header { 
-  position: absolute; 
-  top: 0; 
-  left: 0; 
-  width: 100%; 
-  z-index: 9000;
-}
-
 
 // ------------------------------------------------ \\
 // $LISTS
 // ------------------------------------------------ //
 
-#{$site-prefix}-ul {
+.m2m-ul {
   list-style-position: outside;
   margin: $spacer 0 $spacer*1.5 0;
   padding-left: $spacer*1.5;
@@ -624,10 +588,6 @@ hr {
     width: 100%;
   }
 }
-/* purgecss ignore */
-.twitter-tweet-rendered {
-  margin: $spacer*3 auto $spacer*4 auto !important;
-}
 
 
 // ------------------------------------------------ \\
@@ -644,7 +604,7 @@ hr {
 // $FOOTER
 // ------------------------------------------------ //
 
-#{$site-prefix}-footer-wrapper {
+.m2m-footer-wrapper {
   background: rgba($background-l-30, .2);
   flex-shrink: 0;
 }
@@ -664,7 +624,7 @@ hr {
 
 // Default button
 .btn-m2m {
-  @extend #{$site-prefix}-transition-bg-01s;
+  @extend .m2m-transition-bg-01s;
   color: $white;
   background-color: $heading-l-10;
 
@@ -676,6 +636,7 @@ hr {
 
 // Default call-to-action
 .btn-m2m-cta {
+  @extend .m2m-fw-black;
   background-color: $link-l-60 !important;
   color: $black;
   border-bottom: 2px solid $link-l-20;
@@ -712,7 +673,7 @@ hr {
 }
 // Label link
 .btn-label-m2m-link {
-  @extend #{$site-prefix}-transition-bg-03s;
+  @extend .m2m-transition-bg-03s;
   &:hover {
     color: $link-l-80 !important;
     background-color: $background-d-70;
@@ -724,24 +685,24 @@ hr {
 // $EFFECTS
 // ------------------------------------------------ //
 
-#{$site-prefix}-mask-texture {
+.m2m-mask-texture {
   -webkit-mask-image: url('/assets/images/heading-texture.png');
   mask-image: url('/assets/images/heading-texture.png');
 }
-#{$site-prefix}-unmask-texture {
+.m2m-unmask-texture {
   -webkit-mask-image: none !important;
   mask-image: none !important;
 }
 
 // Translucent BG
 // ------------------------------------------------ *
-#{$site-prefix}-translucent-bg {
+.m2m-translucent-bg {
   background: rgba($background-l-30, .3);
 }
 
 // Text shadow
 // ------------------------------------------------ *
-#{$site-prefix}-tx-shadow {
+.m2m-tx-shadow {
   text-shadow: 0px 0px 0px #fff, 0 0 0 #000, 0px 1px 1px #fff;
 }
 
@@ -760,7 +721,7 @@ hr {
 // * m2m-transition-opacity-01s
 // * m2m-transition-opacity-03s
 // ------------------------------------------------ *
-#{$site-prefix}-transition {
+.m2m-transition {
     // Background
     &-bg-01s:hover      { transition: background-color 0.1s ease-in !important; }
     &-bg-03s:hover      { transition: background-color 0.3s ease-in !important; }
@@ -784,20 +745,20 @@ hr {
 
 // Text rotation
 // ------------------------------------------------ *
-#{$site-prefix}-text-rotate {
+.m2m-text-rotate {
   transform: rotate(359deg);
 }
 
 // Letter spacing
 // ------------------------------------------------ *
-#{$site-prefix}-letter-spacing-w1 {
+.m2m-letter-spacing-w1 {
   letter-spacing: $letter-spacing-wide-1;
 }
 
 // Mark (highlights)
 // ------------------------------------------------ *
 mark {
-  &#{$site-prefix}-highlight {
+  &.m2m-highlight {
     display: inline-block;
     border-radius: 1.5rem 0.5rem 1.2rem 0.7rem;
     background-image: linear-gradient(-100deg, rgba(255,224,0,0.1), rgba(255,224,0,0.5) 95%, rgba(255,224,0,0.2));
@@ -806,471 +767,9 @@ mark {
 
 
 // ------------------------------------------------ \\
-// $MODAL
-// ------------------------------------------------ //
-
-// .modal-open      - body class for killing the scroll
-// .modal           - container to scroll within
-// .modal-dialog    - positioning shell for the actual modal
-// .modal-content   - actual modal w/ bg and corners and stuff
-
-/* purgecss start ignore */
-
-// Container that the modal scrolls within
-.modal {
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: $zindex-modal;
-  display: none;
-  width: 100%;
-  height: 100%;
-  overflow-x: hidden;
-  overflow-y: auto;
-  // Prevent Chrome on Windows from adding a focus outline. For details, see
-  // https://github.com/twbs/bootstrap/pull/10951.
-  outline: 0;
-  // We deliberately don't use `-webkit-overflow-scrolling: touch;` due to a
-  // gnarly iOS Safari bug: https://bugs.webkit.org/show_bug.cgi?id=158342
-  // See also https://github.com/twbs/bootstrap/issues/17695
-}
-
-// Shell div to position the modal with bottom padding
-.modal-dialog {
-  position: relative;
-  width: auto;
-  margin: $modal-dialog-margin;
-  // allow clicks to pass through for custom click handling to close modal
-  pointer-events: none;
-
-  // When fading in the modal, animate it to slide down
-  .modal.fade & {
-    @include transition($modal-transition);
-    transform: $modal-fade-transform;
-  }
-  .modal.show & {
-    transform: $modal-show-transform;
-  }
-
-  // When trying to close, animate focus to scale
-  .modal.modal-static & {
-    transform: $modal-scale-transform;
-  }
-}
-
-.modal-dialog-scrollable {
-  height: subtract(100%, $modal-dialog-margin * 2);
-
-  .modal-content {
-    max-height: 100%;
-    overflow: hidden;
-  }
-
-  .modal-body {
-    overflow-y: auto;
-  }
-}
-
-.modal-dialog-centered {
-  display: flex;
-  align-items: center;
-  min-height: subtract(100%, $modal-dialog-margin * 2);
-}
-
-// Actual modal
-.modal-content {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  width: 100%; // Ensure `.modal-content` extends the full width of the parent `.modal-dialog`
-  // counteract the pointer-events: none; in the .modal-dialog
-  color: $modal-content-color;
-  pointer-events: auto;
-  background-color: $modal-content-bg;
-  background-clip: padding-box;
-  border: $modal-content-border-width solid $modal-content-border-color;
-  @include border-radius($modal-content-border-radius);
-  @include box-shadow($modal-content-box-shadow-xs);
-  // Remove focus outline from opened modal
-  outline: 0;
-}
-
-// Modal background
-.modal-backdrop {
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: $zindex-modal-backdrop;
-  width: 100vw;
-  height: 100vh;
-  background-color: $modal-backdrop-bg;
-
-  // Fade for backdrop
-  &.fade { opacity: 0; }
-  &.show { opacity: $modal-backdrop-opacity; }
-}
-
-// Modal header
-// Top section of the modal w/ title and dismiss
-.modal-header {
-  display: flex;
-  flex-shrink: 0;
-  align-items: center;
-  justify-content: space-between; // Put modal header elements (title and dismiss) on opposite ends
-  padding: $modal-header-padding;
-  border-bottom: $modal-header-border-width solid $modal-header-border-color;
-  @include border-top-radius($modal-content-inner-border-radius);
-
-  .btn-close {
-    padding: ($modal-header-padding-y * .5) ($modal-header-padding-x * .5);
-    margin: ($modal-header-padding-y * -.5) ($modal-header-padding-x * -.5) ($modal-header-padding-y * -.5) auto;
-  }
-}
-
-// Title text within header
-.modal-title {
-  margin-bottom: 0;
-  line-height: $modal-title-line-height;
-}
-
-// Modal body
-// Where all modal content resides (sibling of .modal-header and .modal-footer)
-.modal-body {
-  position: relative;
-  // Enable `flex-grow: 1` so that the body take up as much space as possible
-  // when there should be a fixed height on `.modal-dialog`.
-  flex: 1 1 auto;
-  padding: $modal-inner-padding;
-}
-
-// Footer (for actions)
-.modal-footer {
-  display: flex;
-  flex-wrap: wrap;
-  flex-shrink: 0;
-  align-items: center; // vertically center
-  justify-content: flex-end; // Right align buttons with flex property because text-align doesn't work on flex items
-  padding: $modal-inner-padding - $modal-footer-margin-between * .5;
-  border-top: $modal-footer-border-width solid $modal-footer-border-color;
-  @include border-bottom-radius($modal-content-inner-border-radius);
-
-  // Place margin between footer elements
-  // This solution is far from ideal because of the universal selector usage,
-  // but is needed to fix https://github.com/twbs/bootstrap/issues/24800
-  > * {
-    margin: $modal-footer-margin-between * .5;
-  }
-}
-
-// Scale up the modal
-@include media-breakpoint-up(sm) {
-  // Automatically set modal's width for larger viewports
-  .modal-dialog {
-    max-width: $modal-md;
-    margin: $modal-dialog-margin-y-sm-up auto;
-  }
-
-  .modal-dialog-scrollable {
-    height: subtract(100%, $modal-dialog-margin-y-sm-up * 2);
-  }
-
-  .modal-dialog-centered {
-    min-height: subtract(100%, $modal-dialog-margin-y-sm-up * 2);
-  }
-
-  .modal-content {
-    @include box-shadow($modal-content-box-shadow-sm-up);
-  }
-
-  .modal-sm { max-width: $modal-sm; }
-}
-
-@include media-breakpoint-up(lg) {
-  .modal-lg,
-  .modal-xl {
-    max-width: $modal-lg;
-  }
-}
-
-@include media-breakpoint-up(xl) {
-  .modal-xl { max-width: $modal-xl; }
-}
-
-// scss-docs-start modal-fullscreen-loop
-@each $breakpoint in map-keys($grid-breakpoints) {
-  $infix: breakpoint-infix($breakpoint, $grid-breakpoints);
-  $postfix: if($infix != "", $infix + "-down", "");
-
-  @include media-breakpoint-down($breakpoint) {
-    .modal-fullscreen#{$postfix} {
-      width: 100vw;
-      max-width: none;
-      height: 100%;
-      margin: 0;
-
-      .modal-content {
-        height: 100%;
-        border: 0;
-        @include border-radius(0);
-      }
-
-      .modal-header {
-        @include border-radius(0);
-      }
-
-      .modal-body {
-        overflow-y: auto;
-      }
-
-      .modal-footer {
-        @include border-radius(0);
-      }
-    }
-  }
-}
-
-
-// ------------------------------------------------ \\
-// $CAROUSEL
-// ------------------------------------------------ //
-
-// Notes on the classes:
-//
-// 1. .carousel.pointer-event should ideally be pan-y (to allow for users to scroll vertically)
-//    even when their scroll action started on a carousel, but for compatibility (with Firefox)
-//    we're preventing all actions instead
-// 2. The .carousel-item-start and .carousel-item-end is used to indicate where
-//    the active slide is heading.
-// 3. .active.carousel-item is the current slide.
-// 4. .active.carousel-item-start and .active.carousel-item-end is the current
-//    slide in its in-transition state. Only one of these occurs at a time.
-// 5. .carousel-item-next.carousel-item-start and .carousel-item-prev.carousel-item-end
-//    is the upcoming slide in transition.
-
-.carousel {
-  position: relative;
-}
-
-.carousel.pointer-event {
-  touch-action: pan-y;
-}
-
-.carousel-inner {
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-  @include clearfix();
-}
-
-.carousel-item {
-  position: relative;
-  display: none;
-  float: left;
-  width: 100%;
-  margin-right: -100%;
-  backface-visibility: hidden;
-  @include transition($carousel-transition);
-}
-
-.carousel-item.active,
-.carousel-item-next,
-.carousel-item-prev {
-  display: block;
-}
-
-/* rtl:begin:ignore */
-.carousel-item-next:not(.carousel-item-start),
-.active.carousel-item-end {
-  transform: translateX(100%);
-}
-
-.carousel-item-prev:not(.carousel-item-end),
-.active.carousel-item-start {
-  transform: translateX(-100%);
-}
-
-/* rtl:end:ignore */
-
-
-//
-// Alternate transitions
-//
-
-.carousel-fade {
-  .carousel-item {
-    opacity: 0;
-    transition-property: opacity;
-    transform: none;
-  }
-
-  .carousel-item.active,
-  .carousel-item-next.carousel-item-start,
-  .carousel-item-prev.carousel-item-end {
-    z-index: 1;
-    opacity: 1;
-  }
-
-  .active.carousel-item-start,
-  .active.carousel-item-end {
-    z-index: 0;
-    opacity: 0;
-    @include transition(opacity 0s $carousel-transition-duration);
-  }
-}
-
-
-//
-// Left/right controls for nav
-//
-
-.carousel-control-prev,
-.carousel-control-next {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  z-index: 1;
-  // Use flex for alignment (1-3)
-  display: flex; // 1. allow flex styles
-  align-items: center; // 2. vertically center contents
-  justify-content: center; // 3. horizontally center contents
-  width: $carousel-control-width;
-  padding: 0;
-  color: $carousel-control-color;
-  text-align: center;
-  background: none;
-  border: 0;
-  opacity: $carousel-control-opacity;
-  @include transition($carousel-control-transition);
-
-  // Hover/focus state
-  &:hover,
-  &:focus {
-    color: $carousel-control-color;
-    text-decoration: none;
-    outline: 0;
-    opacity: $carousel-control-hover-opacity;
-  }
-}
-.carousel-control-prev {
-  left: 0;
-  background-image: if($enable-gradients, linear-gradient(90deg, rgba($black, .25), rgba($black, .001)), null);
-}
-.carousel-control-next {
-  right: 0;
-  background-image: if($enable-gradients, linear-gradient(270deg, rgba($black, .25), rgba($black, .001)), null);
-}
-
-// Icons for within
-.carousel-control-prev-icon,
-.carousel-control-next-icon {
-  display: inline-block;
-  width: $carousel-control-icon-width;
-  height: $carousel-control-icon-width;
-  background-repeat: no-repeat;
-  background-position: 50%;
-  background-size: 100% 100%;
-}
-
-/* rtl:options: {
-  "autoRename": true,
-  "stringMap":[ {
-    "name"    : "prev-next",
-    "search"  : "prev",
-    "replace" : "next"
-  } ]
-} */
-.carousel-control-prev-icon {
-  background-image: escape-svg($carousel-control-prev-icon-bg);
-}
-.carousel-control-next-icon {
-  background-image: escape-svg($carousel-control-next-icon-bg);
-}
-
-// Optional indicator pips/controls
-//
-// Add a container (such as a list) with the following class and add an item (ideally a focusable control,
-// like a button) with data-bs-target for each slide your carousel holds.
-
-.carousel-indicators {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: 2;
-  display: flex;
-  justify-content: center;
-  padding: 0;
-  // Use the .carousel-control's width as margin so we don't overlay those
-  margin-right: $carousel-control-width;
-  margin-bottom: 1rem;
-  margin-left: $carousel-control-width;
-  list-style: none;
-
-  [data-bs-target] {
-    box-sizing: content-box;
-    flex: 0 1 auto;
-    width: $carousel-indicator-width;
-    height: $carousel-indicator-height;
-    padding: 0;
-    margin-right: $carousel-indicator-spacer;
-    margin-left: $carousel-indicator-spacer;
-    text-indent: -999px;
-    cursor: pointer;
-    background-color: $carousel-indicator-active-bg;
-    background-clip: padding-box;
-    border: 0;
-    // Use transparent borders to increase the hit area by 10px on top and bottom.
-    border-top: $carousel-indicator-hit-area-height solid transparent;
-    border-bottom: $carousel-indicator-hit-area-height solid transparent;
-    opacity: $carousel-indicator-opacity;
-    @include transition($carousel-indicator-transition);
-  }
-
-  .active {
-    opacity: $carousel-indicator-active-opacity;
-  }
-}
-
-
-// Optional captions
-//
-//
-
-.carousel-caption {
-  position: absolute;
-  right: (100% - $carousel-caption-width) * .5;
-  bottom: $carousel-caption-spacer;
-  left: (100% - $carousel-caption-width) * .5;
-  padding-top: $carousel-caption-padding-y;
-  padding-bottom: $carousel-caption-padding-y;
-  color: $carousel-caption-color;
-  text-align: center;
-}
-
-// Dark mode carousel
-
-.carousel-dark {
-  .carousel-control-prev-icon,
-  .carousel-control-next-icon {
-    filter: $carousel-dark-control-icon-filter;
-  }
-
-  .carousel-indicators [data-bs-target] {
-    background-color: $carousel-dark-indicator-active-bg;
-  }
-
-  .carousel-caption {
-    color: $carousel-dark-caption-color;
-  }
-}
-
-/* purgecss end ignore */
-
-
-// ------------------------------------------------ \\
 // $GUESTBOOK
 // ------------------------------------------------ //
 
-#{$site-prefix}-guestbook-entry {
+.m2m-guestbook-entry {
   background: rgba($background-l-30, .3);
 }

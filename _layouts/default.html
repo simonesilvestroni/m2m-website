@@ -3,15 +3,18 @@
   <main>
     <div class="container-lg">
       <div class="row gx-md-5">
-        <div class="col-md-4">
+        <div class="col-md-5">
           {% include site-header.html %}
         </div>
-        <div class="col-md-8" id="m2m-content">
+        <div class="col-md-7" id="m2m-content">
           {{ content }}
         </div>
       </div>
     </div>
   </main>
-{% include site-footer.html -%}
+{% if page.url contains 'search' or page.url contains '404.html' %}
+<script type="text/javascript" src="{{ site.url }}/assets/js/search-m2m.js"></script>
+<noscript>Please enable JavaScript to use the search form.</noscript>
+{% endif %}
 </body>
 </html>

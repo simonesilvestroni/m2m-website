@@ -25,7 +25,7 @@
     "servefuture": "bundle exec jekyll serve --drafts --future --livereload",
     "start": "npm-run-all --parallel watch",
     "bundlewatch": "bundlewatch --config .bundlewatch.config.json",
-    "css-purge": "purgecss --css \"assets/css/smd.css\" --content \"_site/**/*.html\" --safelist active --output \"assets/css\"",
+    "css-purge": "purgecss --css \"assets/css/m2m.css\" --content \"_site/**/*.html\" --safelist active --output \"assets/css\"",
     "css": "npm-run-all css-compile css-prefix css-rtl css-minify",
     "css-compile": "sass --style expanded --source-map --embed-sources --no-error-css sass/:assets/css/",
     "css-rtl": "cross-env NODE_ENV=RTL postcss --config build/postcss.config.js --dir \"assets/css\" --ext \".rtl.css\" \"assets/css/*.css\" \"!assets/css/*.min.css\" \"!assets/css/*.rtl.css\"",
@@ -76,8 +76,8 @@
     "watch-css-dist": "nodemon --watch dist/css/ --ext css --ignore \"dist/css/*.rtl.*\" --exec \"npm run css-rtl\"",
     "watch-js-main": "nodemon --watch js/src/ --ext js --exec \"npm-run-all js-lint js-compile\""
   },
-  "style": "assets/css/smd.css",
-  "sass": "sass/smd.scss",
+  "style": "assets/css/m2m.css",
+  "sass": "sass/m2m.scss",
   "main": "dist/js/bootstrap.js",
   "module": "dist/js/bootstrap.esm.js",
   "repository": {

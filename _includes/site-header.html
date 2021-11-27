@@ -1,14 +1,16 @@
 <header class="site-header sticky-md-top pe-lg-5 pt-2 pt-md-4">
   <div class="h-card">
     <div class="visually-hidden">
-      <span class="p-name">Silvia Maggi</span>
-      <span class="p-org">Silvia Maggi Design</span>
-      {% include pattern-avatar.html alt="Silvia Maggi" width="120" height="120" %}
+      <span class="p-name">Simone Silvestroni</span>
+      <span class="p-org">Minutes to Midnight</span>
+      {% include pattern-avatar.html alt="Minutes to Midnight" width="120" height="120" %}
     </div>
     {% include site-logo.html %}
     <div class="m2m-mini-tagline d-none d-md-block mt-3">
-      <p class="p-note small">{{ site.brand.smd_pitch }}</p>
+      {% include header-info.html %}
+      {% include header-work.html %}
+      {% include header-contact.html %}
     </div>  
   </div>
-  <div class="d-none d-md-block mb-4">{%- include navigation-social.html %}</div>
+  <p class="mt-4 mb-0 small">Details about this website in the <a class="m2m-link" href="/colophon/"><strong>colophon</strong></a>.<br>&copy; {{ site.time | date: '%Y' }} {{ site.title }}&trade;</p>
 </header>

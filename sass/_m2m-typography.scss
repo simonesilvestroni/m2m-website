@@ -6,5 +6,9 @@
 // Imported in `m2m.scss`
 // ------------------------------------------------ //
 
-#{$site-prefix}-sans  { font-family: $font-family-base }
-#{$site-prefix}-serif { font-family: $headings-font-family; }
+.m2m-serif,
+%m2m-serif { font-family: 'Noto Serif', 'Georgia', serif !important; }
+
+.m2m-fw-black {
+  font-weight: 900 !important;
+}
