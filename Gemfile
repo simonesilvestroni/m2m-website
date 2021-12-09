@@ -11,7 +11,6 @@ gem "open_uri_redirections"
 group :jekyll_plugins do
   gem 'jekyll-sitemap', '~> 1.4'
   gem 'jekyll-feed', '~> 0.15.1'
-  gem 'jekyll-paginate', '~> 1.1.0'
   gem 'jekyll-archives', '~> 2.2.1'
   gem 'jekyll-responsive-image', '~> 1.6'
 end

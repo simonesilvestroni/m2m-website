@@ -24,3 +24,5 @@ excerpt: 'Stunning review by Nova Music Blog for <em>Skinny Kid</em>, the openin
 > <cite>— [**Nova Music**](https://novamusic.blog/featuring-video/minutes-to-midnight-skinny-kid/){:target="_blank" rel="noopener"}</cite>
 
 Thanks so much to Gabriele of _Nova Music Blog_, and [Christopher Carvalho](https://www.youtube.com/channel/UCFYW6EZMLLT0jIi0SJQeUiQ){:target="_blank" rel="noopener"} of Unlock Your Sound, for another awesome feature about my album [_After 1989_](/work/original-productions/after-1989/).
+
+<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>

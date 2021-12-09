@@ -37,3 +37,5 @@ The following is a playlist of the four songs played and discussed in the podcas
 {% include pattern-spotify.html id="4ea6J7vATyW23uD9HGjuYN" type="playlist" height="300" %}
 
 Thanks to [Christopher Carvalho](https://unlockyoursound.com/){:target="_blank" rel="noopener"} for this feature.
+
+<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>

@@ -1,0 +1,33 @@
+---
+layout: default
+---
+{% include breadcrumbs.html %}
+
+<article class="h-entry m2m-entry">
+  <h1 class="p-name text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
+  <div class="post-meta my-4">
+    {%- include post-meta.html %}
+    <a rel="author" class="p-author h-card visually-hidden" href="{{ site.url }}">Simone Silvestroni</a>
+    <a class="u-url h-card visually-hidden" href="{{ site.url }}{{ page.url }}">Permalink</a>
+  </div>
+  <div class="e-content">
+    <p class="lead">{{ page.excerpt }}</p>
+    {%- if page.toc == true -%}
+    <section class="container my-5 pb-4">
+      <div class="row">
+        <div class="col-lg-9 col-md-12 mx-auto border rounded py-4 px-4">
+          <p class="detached h4 m2m-letter-spacing-w1 text-center text-uppercase mt-0 mb-3">Table of contents</p>
+          {%- if page.toc-maxdepth == 2 -%}
+          {% include pattern-toc.html html=content sanitize=true class="inline_toc m2m-ul fw-bold" item_class="text-uppercase pb-1 fs-6" submenu_class="fw-normal" h_min=2 h_max=2 %}
+          {%- else -%}
+          {% include pattern-toc.html html=content sanitize=true class="inline_toc m2m-ul fw-bold" item_class="text-uppercase pb-1 fs-6" submenu_class="fw-normal" h_min=2 h_max=3 %}
+          {%- endif -%}
+        </div>
+      </div>
+    </section>
+    {%- endif -%}
+    {{ content }}
+  </div>
+  {%- include pattern-responses.html -%}
+</article>
+{%- include post-navigation.html -%}

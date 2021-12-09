@@ -1,0 +1,41 @@
+---
+layout: page
+title: 'Sound Design'
+date: '2021-11-08 10:49:23'
+last_modified_at: '2021-12-07 16:57:20'
+description: "My work as a producer, game audio specialist and audio editor."
+excerpt: "<strong>Creating and sculpting sound</strong> has always been a massive creative push. Heterogeneous collaborations, game audio, editing and restoration are a constant source of excitement."
+permalink: '/work/sound-design/'
+---
+<p class="lead">{{ page.excerpt }}</p>
+
+{% assign production = site.sounddesign | where: "type", "production" | reverse %}
+{% assign gameaudio = site.sounddesign | where: "type", "gameaudio" | reverse %}
+{% assign audioediting = site.sounddesign | where: "type", "audioediting" | reverse %}
+
+<section class="h-feed m2m-entry my-5 pb-3">
+  <h2 class="text-center text-uppercase my-5">Production</h2>
+  <div class="card-group pb-3">
+    <div class="row row-cols-1 row-cols-sm-2 g-4">
+    {% for casestudy in production %}
+    {% include pattern-card-casestudy.html %}
+    {% endfor %}
+    </div>
+  </div>
+  <h2 class="text-center text-uppercase my-5">Game Audio</h2>
+  <div class="card-group pb-3">
+    <div class="row row-cols-1 row-cols-sm-2 g-4">
+    {% for casestudy in gameaudio %}
+    {% include pattern-card-casestudy.html %}
+    {% endfor %}
+    </div>
+  </div>
+  <h2 class="text-center text-uppercase my-5">Audio Editing</h2>
+  <div class="card-group pb-3">
+    <div class="row row-cols-1 row-cols-sm-2 g-4">
+    {% for casestudy in audioediting %}
+    {% include pattern-card-casestudy.html %}
+    {% endfor %}
+    </div>
+  </div>
+</section>

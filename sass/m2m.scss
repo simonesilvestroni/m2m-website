@@ -51,6 +51,14 @@ $enable-shadows: false;
 $enable-gradients: false;
 $enable-negative-margins: true;
 
+// Image thumbs
+$thumbnail-padding:       .25rem;
+$thumbnail-bg:            transparent;
+$thumbnail-border-width:  0;
+$thumbnail-border-color:  $gray-300;
+$thumbnail-border-radius: 25rem;
+$thumbnail-box-shadow:    $box-shadow-sm;
+
 // M2M
 @import "m2m-functions";
 @import "m2m-mixins";
@@ -76,14 +84,6 @@ $table-striped-order: even;
 $table-striped-bg: rgba($background-d-90, $table-striped-bg-factor);
 $table-border-color: rgba($background-d-90, .15);
 $table-group-separator-color: $background-d-30;
-
-// Modal
-$modal-xl: 1280px;
-$modal-content-bg: $black;
-$btn-close-color: $white;
-$btn-close-opacity: .4;
-$btn-close-hover-opacity: 1;
-$btn-close-bg: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='white'><path d='M.293.293a1 1 0 011.414 0L8 6.586 14.293.293a1 1 0 111.414 1.414L9.414 8l6.293 6.293a1 1 0 01-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 01-1.414-1.414L6.586 8 .293 1.707a1 1 0 010-1.414z'/></svg>");
 
 // Cards
 $card-bg: rgba($background-l-30, .3);

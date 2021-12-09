@@ -6,11 +6,12 @@
       {% include pattern-avatar.html alt="Minutes to Midnight" width="120" height="120" %}
     </div>
     {% include site-logo.html %}
-    <div class="m2m-mini-tagline d-none d-md-block mt-3">
+    <div class="m2m-mini-tagline">
       {% include header-info.html %}
       {% include header-work.html %}
       {% include header-contact.html %}
     </div>  
   </div>
-  <p class="mt-4 mb-0 small">Details about this website in the <a class="m2m-link" href="/colophon/"><strong>colophon</strong></a>.<br>&copy; {{ site.time | date: '%Y' }} {{ site.title }}&trade;</p>
+  <p class="mt-4 mb-2 text-secondary small">&copy; {{ site.time | date: '%Y' }}. {{ site.title }}&trade; is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.</p>
+  <p class="text-uppercase"><a class="m2m-link" href="/colophon/" title="Details about this website"><span class="fs-6">Colophon</span></a>&nbsp;/&nbsp;<a class="m2m-link" href="/search/"><span class="fs-6">Search</span></a></p>
 </header>

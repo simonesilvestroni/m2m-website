@@ -3,26 +3,18 @@ layout: page
 title: 'Original productions'
 date: '2021-11-08 10:49:23'
 last_modified_at: '2021-11-08 10:49:29'
-description: "Here is my work as a composer for original productions."
-excerpt: "Besides my past work in the game industry and several collaborations, I published a 10-songs concept album at the end of 2019, the outtakes companion album, a single and the preview for the next 5-songs follow-up EP called <em>The Die Is Cast</em>."
+description: "My work as a composer for original productions."
+excerpt: "Beyond a stint as a game audio composer, <strong>I love telling stories with music</strong>. This is why my original productions mostly focus on the concept album as a format."
 permalink: '/work/original-productions/'
 ---
 <p class="lead">{{ page.excerpt }}</p>
 
-<p>I’ve been enjoying fruitful collaborations with great artists such as Gerald Duchene, Dan Ecclestone, Rachel Goodman, Paolo Clementi, Emilio Albertoni, Callum Gardner and Andy Bonnor.</p>
-
-{% assign caseStudies = site.originalproductions | sort: 'order' %}
-
-{% if post %}
-  {% assign categories = post.categories %}
-{% else %}
-  {% assign categories = page.categories %}
-{% endif %}
+{% assign originalproductions = site.originalproductions | reverse %}
 
 <section class="h-feed latest-posts m2m-entry my-5 pb-3">
   <div class="card-group">
     <div class="row row-cols-1 row-cols-sm-2 g-4">
-    {% for casestudy in caseStudies %}
+    {% for casestudy in originalproductions %}
     {% include pattern-card-casestudy.html %}
     {% endfor %}
     </div>

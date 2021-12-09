@@ -25,9 +25,7 @@ excerpt: 'Cheering crowds greet the President at Dallas airport. As the motorcad
 
 {% include pattern-video.html id="oTR5ZJQdRXM" %}
 
----
-
-Reviews by [Indie Buddie](http://www.indiebuddie.com/minutes-to-midnight-love-field-video-premiere/){:target="_blank" rel="noopener"} and [‘You Haven’t Heard This Music Yet’ podcast](https://www.youtube.com/watch?v=wb2hRjPuU6Y){:target="_blank" rel="noopener"}.
+<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>
 
 ## Credits
 

@@ -757,9 +757,9 @@ progress {
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #fff;
-  border: 1px solid #dee2e6;
-  border-radius: 0.25rem;
+  background-color: transparent;
+  border: 0 solid #dee2e6;
+  border-radius: 25rem;
   max-width: 100%;
   height: auto;
 }
@@ -5052,16 +5052,16 @@ textarea.form-control-lg {
   width: 1em;
   height: 1em;
   padding: 0.25em 0.25em;
-  color: #fff;
-  background: transparent url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='white'%3e%3cpath d='M.293.293a1 1 0 011.414 0L8 6.586 14.293.293a1 1 0 111.414 1.414L9.414 8l6.293 6.293a1 1 0 01-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 01-1.414-1.414L6.586 8 .293 1.707a1 1 0 010-1.414z'/%3e%3c/svg%3e") center/1em auto no-repeat;
+  color: #000;
+  background: transparent url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000'%3e%3cpath d='M.293.293a1 1 0 011.414 0L8 6.586 14.293.293a1 1 0 111.414 1.414L9.414 8l6.293 6.293a1 1 0 01-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 01-1.414-1.414L6.586 8 .293 1.707a1 1 0 010-1.414z'/%3e%3c/svg%3e") center/1em auto no-repeat;
   border: 0;
   border-radius: 0.25rem;
-  opacity: 0.4;
+  opacity: 0.5;
 }
 .btn-close:hover {
-  color: #fff;
+  color: #000;
   text-decoration: none;
-  opacity: 1;
+  opacity: 0.75;
 }
 .btn-close:focus {
   outline: 0;
@@ -10385,7 +10385,6 @@ cite {
 }
 @media (min-width: 1400px) {
   .m2m-entry p {
-    text-align: justify;
     line-height: 1.5;
   }
 }
@@ -10596,6 +10595,10 @@ picture {
   height: auto;
 }
 
+.m2m-logo {
+  height: 90px;
+  background: transparent url("/assets/images/bg-green-blob.svg") no-repeat center center;
+}
 .m2m-logo svg {
   max-width: 100%;
 }

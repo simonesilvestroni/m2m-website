@@ -24,6 +24,8 @@ To celebrate the first anniversary of [the release](/work/original-productions/a
 
 31 years ago East Germany opened the Berlin Wall, symbolising the end of decades of Cold War between East and West. This song depicts the starting point, the dark days of August 1961 when Berlin was cut in half. It’s also my homage to a brother, Michele, who played the drums in the song. I lost him around the same day, almost twenty years ago.
 
+<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>
+
 ## Credits
 
 ### Performers

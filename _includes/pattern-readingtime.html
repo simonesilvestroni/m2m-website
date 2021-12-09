@@ -1,5 +1,0 @@
-<span class="d-inline-block me-2 reading-time small" title="Estimated read time">
-    {%- assign words = include.content | strip_html | number_of_words -%}
-    {%- assign minutes = words | divided_by: 180 | plus: 1 -%}
-    <code>Reading time <strong>{{ minutes }} {% if minutes == 1 %}min{% else %}mins{%- endif -%}</strong></code>
-</span>

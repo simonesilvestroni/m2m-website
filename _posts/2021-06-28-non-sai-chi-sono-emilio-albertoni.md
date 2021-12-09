@@ -30,7 +30,9 @@ excerpt: "New single out today. Included in the new EP <em>Aperture</em>, <em>No
 
 The idea included an album of original songs and a companion EP of remixes of the same material, by friends and former collaborators. He asked us to choose a song to our liking and produce a remix together. We had complete creative freedom, and several months at our disposal. After listening in isolation to an early demo of the album, we both selected the same song: *Non so chi sei* (“I don’t know you”).
 
-Included in the new EP *Aperture*, *Non sai chi sono* is our remix, released on Bandcamp and other streaming platforms on June 28, 2021. Read the **full account of the production** in my [case study](/work/original-productions/non-sai-chi-sono/).
+Included in the new EP *Aperture*, *Non sai chi sono* is our remix, released on Bandcamp and other streaming platforms on June 28, 2021. 
+
+<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-productions/non-sai-chi-sono/">Read the <strong class="m2m-letter-spacing-w1">related case study</strong></a></p>
 
 ## Credits
 

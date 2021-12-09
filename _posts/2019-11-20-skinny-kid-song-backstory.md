@@ -13,8 +13,9 @@ tags:
   - concentration camp
   - sachsenhausen
   - world war ii
+  - popular
 description: "Read about how an arrangement for another band became the first single and lead song of Minutes to Midnight's concept album 'After 1989', 'Skinny Kid'."
-excerpt: 'How an arrangement for another band became the first single and lead song of my concept album <em>After 1989</em>.'
+excerpt: 'How an arrangement for another band became the first single from the concept album "<em>After 1989</em>".'
 ---
 <p class="lead">{{ page.excerpt }}</p>
 
@@ -64,7 +65,9 @@ _Skinny Kid_ was the first piece that I turned into a proper song when I refacto
 
 > _Skinny Kid_ is a tender delicate number as Simone expresses emotional and harrowing themes through a bitter, icy piano and tense progressive soundscapes. With a steady beat pounding through weaving guitars and ominous rumble on bass, the track projects images of isolation and loneliness by means of sinister chilling twinkles and tender vocals. The haunting backing vocals and lamenting pines on guitar have a chilling element as Simone portrays this harsh experience with sublime instrumentation and vivid musicianship. 
 > 
-> <cite>— [Indie Buddie](https://www.indiebuddie.com/minutes-to-midnight-skinny-kid-video-premiere/){:target="_blank" rel="noopener"}</cite>
+> <cite>— [**Indie Buddie**](https://www.indiebuddie.com/minutes-to-midnight-skinny-kid-video-premiere/){:target="_blank" rel="noopener"}</cite>
+
+<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>
 
 ## Credits
 

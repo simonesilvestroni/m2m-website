@@ -7,11 +7,64 @@ permalink: /archive/
 ---
 {% include breadcrumbs.html %}
 
+{% assign sounddesign = site.sounddesign | sort: 'date' | reverse %}
+{% assign originalproductions = site.originalproductions | sort: 'date' | reverse %}
+{% assign webdesign = site.webdesign | sort: 'date' | reverse %}
+
 <h1 class="text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
 
-<h2 class="mb-5">Categories</h2>
+<h2 class="fs-1">Case studies</h2>
 
-<ol class="list-unstyled list-inline">
+<h4 class="text-uppercase m2m-letter-spacing-w1 mb-2 fs-5">Sound design</h4>
+<ul class="list-group list-group-flush w-75 mb-5">
+  {% for casestudy in sounddesign %}
+  <li class="list-group-item py-1"><a class="fs-5" href="{{ casestudy.url }}" title="Read the case study '{{ casestudy.title }}'">{{ casestudy.title }} <span class="m2m-font-micro text-uppercase fw-bold"><strong>[{{ casestudy.type }} – {{ casestudy.date | date: "%Y" }}]</strong></span></a></li>
+  {% endfor %}
+</ul>
+
+<h4 class="text-uppercase m2m-letter-spacing-w1 mb-2 fs-5">Original productions</h4>
+<ul class="list-group list-group-flush w-75 mb-5">
+  {% for casestudy in originalproductions %}
+  <li class="list-group-item py-1"><a class="fs-5" href="{{ casestudy.url }}" title="Read the case study '{{ casestudy.title }}'">{{ casestudy.title }} <span class="m2m-font-micro text-uppercase fw-bold"><strong>[{{ casestudy.type }} – {{ casestudy.date | date: "%Y" }}]</strong></span></a></li>
+  {% endfor %}
+</ul>
+
+<h4 class="text-uppercase m2m-letter-spacing-w1 mb-2 fs-5">Web design</h4>
+<ul class="list-group list-group-flush w-75 mb-5">
+  {% for casestudy in webdesign %}
+  <li class="list-group-item py-1"><a class="fs-5" href="{{ casestudy.url }}" title="Read the case study '{{ casestudy.title }}'">{{ casestudy.title }} <span class="m2m-font-micro text-uppercase fw-bold"><strong>[{{ casestudy.type }} – {{ casestudy.date | date: "%Y" }}]</strong></span></a></li>
+  {% endfor %}
+</ul>
+
+<hr>
+
+<h2 class="fs-1">Blog</h2>
+<h3 class="mb-5 text-uppercase">Posts by year</h3>
+{% for post in site.posts %}
+{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+{% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+{% if forloop.first %}
+<div class="mb-5">
+  <h4 class="m2m-letter-spacing-w1 fs-5" id="{{ this_year }}-ref">{{ this_year }}</h4>
+  <ul class="list-group list-group-flush">
+{% endif %}
+    <li class="list-group-item py-1"><a class="fs-5" href="{{ post.url }}">{{ post.title }}</a></li>
+{% if forloop.last %}
+  </ul>
+</div>
+{% else %}
+  {% if this_year != next_year %}
+  </ul>
+</div>
+<div class="mb-5">
+  <h4 class="m2m-letter-spacing-w1 fs-5" id="{{ next_year }}-ref">{{ next_year }}</h4>
+  <ul class="list-group list-group-flush">
+  {% endif %}
+{% endif %}
+{% endfor %}
+
+<h3 class="mb-5 text-uppercase">Blog categories</h3>
+<ol class="list-unstyled list-inline w-100">
 {% assign sorted_cats = site.categories | sort %}
 {% for category in sorted_cats %}
 {% assign c = category | first %}
@@ -22,9 +75,8 @@ permalink: /archive/
 {% endfor %}
 </ol>
 
-<h2 class="mb-5 pt-4">Tags</h2>
-
-<ol class="list-unstyled list-inline">
+<h3 class="mt-0 mb-5 pt-4 text-uppercase">Blog tags</h3>
+<ol class="list-unstyled list-inline w-100">
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
 {% assign t = tag | first %}

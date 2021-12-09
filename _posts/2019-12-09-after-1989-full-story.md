@@ -1,6 +1,6 @@
 ---
 layout: page
-title: '&lsquo;After 1989: A Trip To Freedom&rsquo;: from Berlin to Berlin'
+title: 'A Trip To Freedom: from Berlin to Berlin'
 date: '2019-12-09 10:52:30'
 last_modified_at: '2021-11-17 11:39:35'
 categories:
@@ -15,13 +15,15 @@ tags:
   - sachsenhausen
   - world war ii
   - popular
-description: ""
-excerpt: 'During World War II a fascist squad deported my grandfather to Sachsenhausen, where he spent four years. He managed to escape weeks before the Nazi evacuated the camp. I retraced his steps going back to Berlin, and in the process, I wrote a concept album.'
+description: "A short chronicle of what I did to retrace my grandfather's steps in Sachsenhausen concentration camp."
+excerpt: "I went back to Berlin, retracing my grandfather's steps in Sachsenhausen concentration camp. In the process, I wrote a concept album."
 canonical: 'https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e'
 ---
 ### A real-life story of imprisonment and liberty, between two wars and three generations.
 
 <p class="lead">{{ page.excerpt }}</p>
+
+**Note**: this article was first [published on Medium](https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e){:target="_blank" rel="noopener"}.
 
 ## Roots
 
@@ -160,3 +162,5 @@ In the **summer of 1988**, I was reading a comic book, when my granddad went to 
 The car attracted my attention because it was the same model used by [Russel Oakes in the film _The Day After_](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwi41qbavojmAhVCzIUKHdJsD_MQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.imcdb.org%2Fv035046.html&psig=AOvVaw3ugOhsc-ohGHkicCLN2TNP&ust=1574878754570671){:target="_blank" rel="noopener"}. I checked the back and noticed the familiar white oval sticker with a “D” letter. Plenty of tourists from West Germany used to come to our seaside town for the holidays. An hour later, an elderly couple arrived. My granddad jumped up and walked straight towards them. He started shouting in **perfect German** to the guy, who was quite tall and looked sturdy to me. The man, which I estimated was around the same age as my grandpa, stood still, nodding, _without saying a single word_. After a full minute of **ranting and finger-pointing** towards them, the couple got in the Volvo and quietly left. Amazed by that performance, I approached my grandfather, who was finally able to open the little gate and welcome his customers. I asked, **“what did you tell him?”** His response was: “_he knows_”.
 
 {% include pattern-figure.html image="/assets/images/full-story-grandfather.jpg" caption="My grandfather, working outside his shop in the summer. Some of the objects visible on the crate came from Germany" width="2000" height="1410" %}
+
+<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>

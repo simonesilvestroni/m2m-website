@@ -1,16 +1,23 @@
 ---
-layout: page
+layout: casestudy
 title: 'After 1989 Demos'
 date: '2020-11-09 10:52:30'
 last_modified_at: '2021-11-17 11:40:27'
-categories: "2020"
-tags: 
-  - "case study"
-order: 4
+year: "2020"
+type: "Album"
+skillset: 
+  - "composition"
+  - "arrangement"
+  - "instrument"
+  - "production"
+  - "reason"
 description: "A companion to the concept album ’After 1989‘, ’Original Demos and Outtakes‘ is a rough and unpolished partial testimony of a different approach."
-excerpt: "A companion to the concept album, <em>Original Demos and Outtakes</em> is a rough and unpolished partial testimony of a different approach."
+excerpt: "A companion to the concept album released in 2019, <em>Original Demos and Outtakes</em> is a <strong>rough and unpolished</strong> partial testimony of a different approach."
+toc: true
+featimage: true
+permalink: '/work/original-productions/after-1989-demos/'
 ---
-<p class="lead">{{ page.excerpt }}</p>
+## Release
 
 {% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=2694261691/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom-original-demos-outtakes">After 1989: A Trip To Freedom (Original Demos &amp; Outtakes) by Minutes to Midnight</a></iframe>' %}
 
@@ -40,7 +47,7 @@ Trying to convey such a complex story through long instrumental pieces was naîv
 
 We recorded, arranged and roughly produced about 15 pieces of music, including the two songs. At the time I had plenty of material pre-produced with **Logic Pro**. A few ideas came from ancient drafts, including a piano theme from my game audio years which became _Nine Eleven_, later [morphed into the opening lead song](/blog/skinny-kid-song-backstory/) _Skinny Kid_. We listened to these old demos of mine, talked about potential new structure and arrangements, then simply started playing guitar and bass over some groove. All the recordings, audio and MIDI, had been done in **Reason 8**.
 
-My Warwick Thumb bass and Paolo's Fender Strat are both around thirty years old now, and they're prominently featured in the album. I didn't use many plugins to produce the rough mixes: I mostly relied on Reason's brilliant integrated rack: the **SSL-based mixer** with his familiar channel strip, the 1970s-sounding delay reminiscent of a _Binson Echorec_, and a couple of reverbs. The only exceptions were made for his electric guitar: we adopted a custom mix of **Line-6** and **Kuassa virtual amps**. It's still pretty effective, though I re-amped many tracks for the final album.
+My Warwick Thumb bass and Paolo's Fender Strat are both around thirty years old now, and they're prominently featured in the album. I didn't use many plugins to produce the rough mixes: I mostly relied on Reason's brilliant integrated rack: the **SSL-based mixer** with his familiar channel strip, the 1970s-sounding delay reminiscent of a _Roland Space Echo_, and a couple of reverbs. The only exceptions were made for his electric guitar: we adopted a custom mix of **Line-6** and **Kuassa virtual amps**. It's still pretty effective, though I re-amped many tracks for the final album.
 
 {% include pattern-figure.html image="/assets/images/reason-ssl.jpg" caption="SSL mixer in Reason" width="1024" height="629" %}
 

@@ -1,20 +1,28 @@
 ---
-layout: page
+layout: casestudy
 title: 'Non sai chi sono'
 date: '2021-06-28 10:51:22'
 last_modified_at: '2021-11-25 17:19:45'
-categories: "2021"
-tags: 
-  - "case study"
-order: 2
+year: "2021"
+type: "Single"
+skillset: 
+  - "production"
+  - "arrangement"
+  - "instrument"
+  - "mix"
+  - "master"
+  - "pro tools"
 description: "A brief recount of how Italian musician and producer Emilio Albertoni and I came to write, produce and release an amazing remix of a song written by our old friend and collaborator Gianluca Lo Presti, aka ‘Nevica’"
 excerpt: 'In January 2020, before the pandemic struck, Gianluca Lo Presti, aka ‘Nevica’, invited Emilio Albertoni and myself to remix a song of his for an upcoming project.'
+toc: true
+featimage: true
+permalink: '/work/original-productions/non-sai-chi-sono/'
 ---
-<p class="lead">{{ page.excerpt }}</p>
+## Release
 
 {% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2164870187/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/track/non-sai-chi-sono-remix">Non sai chi sono (remix) by Minutes to Midnight + Emilio Albertoni</a></iframe>' %}
 
-### Original version
+## Original version
 
 {% include pattern-spotify.html id="41XOwGHELQqt9DIwbl2LNA" height="80" %}
 
@@ -59,7 +67,7 @@ Emilio and I exchanged opinions about the rough mixes, efficiently collaborating
 > We strived to reach out to the core of the song — but also moving to a different territory — respectful of our different musical paths. Simone is outstanding at giving context to songs and laying down elegant credible bass lines. He built rhythmic parts, strenghtening and tying together the tension that I created with my guitars and synths.
 > <cite>&mdash; **Emilio Albertoni**</cite>
 
-### Credits
+## Credits
 
 **Emilio Albertoni** / Electric guitars, synths, fretted bass, drums  
 **Simone Silvestroni** / Fretless bass, drums, sound effects, mix, master  

@@ -1,14 +1,17 @@
+{%- assign page = casestudy -%}
 <div class="col m2m-transition-opacity-03s">
   <div class="card h-100 m2m-transition-border-03s">
+    {%- if page.featimage == true -%}
     <img src="/assets/images/{{ casestudy.title | replace: " ","-" | append: ".jpg" }}" alt="Cover of {{ casestudy.title }}" width="600" height="600">
+    {%- endif -%}
     <div class="card-body text-center">
-      {% if casestudy %}
-      {% assign categories = casestudy.categories %}
-      {% else %}
-      {% assign categories = page.categories %}
-      {% endif %}
-      {% for category in categories %}
-      <span class="p-category btn-label-m2m btn-label-m2m-bg d-inline-block initialism fw-bold me-1 rounded"><strong>{{ category | upcase | replace:"-"," " }}</strong></span>
+      {%- if casestudy -%}
+      {%- assign categories = casestudy.year -%}
+      {%- else -%}
+      {%- assign categories = page.categories -%}
+      {%- endif -%}
+      {%- for category in categories -%}
+      <mark class="m2m-highlight d-inline-block mb-2"><span class="p-category text-uppercase initialism fw-bold px-2"><strong>{{ category | upcase | replace:"-"," " }}</strong></span></mark>
       {% endfor %}
       <h4 class="m2m-sans text-uppercase h5 mt-2 mb-3">{{ casestudy.title }}</h4>
       <p class="card-text text-start fs-6">{{ casestudy.excerpt | strip_html }}</p>

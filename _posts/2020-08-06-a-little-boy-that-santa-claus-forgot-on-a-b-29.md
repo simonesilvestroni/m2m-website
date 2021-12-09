@@ -41,6 +41,8 @@ _A Little Boy That Santa Claus Forgot On A B-29_ is the second song from the con
 
 {% include pattern-video.html id="5M1XTw483Ew" %}
 
+<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>
+
 ## Credits
 
 ### Performers

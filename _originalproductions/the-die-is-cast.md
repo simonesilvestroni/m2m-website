@@ -1,16 +1,24 @@
 ---
-layout: page
+layout: casestudy
 title: 'The Die Is Cast'
 date: '2021-06-03 10:50:53'
 last_modified_at: '2021-11-08 10:50:56'
-categories: "2021"
-tags:
-  - "case study"
-order: 1
+year: "2021"
+type: "EP"
+skillset:
+  - "composition"
+  - "arrangement"
+  - "instrument"
+  - "production"
+  - "mix"
+  - "reaper"
 description: "My upcoming 5-songs album is an autobiographical rumination about migration in Europe in a time of populism. It’s going to be made of two remixes plus three original songs."
 excerpt: 'My <strong>upcoming 5-songs album</strong> is an autobiographical rumination about migration in Europe in a time of populism. It’s going to be made of two remixes plus three originals.'
+toc: true
+featimage: true
+permalink: '/work/original-productions/the-die-is-cast/'
 ---
-<p class="lead">{{ page.excerpt }}</p>
+## Release
 
 {% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=367059768/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/album/the-die-is-cast-ep-preview">The Die Is Cast (EP preview) by Minutes to Midnight + Antiquity</a></iframe>' %}
 

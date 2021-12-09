@@ -1,0 +1,22 @@
+---
+layout: page
+title: 'Web Design'
+date: '2021-11-08 10:49:23'
+last_modified_at: '2021-11-08 10:49:29'
+description: ""
+excerpt: "Introduction copy here."
+permalink: '/work/web-design/'
+---
+<p class="lead">{{ page.excerpt }}</p>
+
+{% assign webdesign = site.webdesign | reverse %}
+
+<section class="h-feed latest-posts m2m-entry my-5 pb-3">
+  <div class="card-group">
+    <div class="row row-cols-1 row-cols-sm-2 g-4">
+    {% for casestudy in webdesign %}
+    {% include pattern-card-casestudy.html %}
+    {% endfor %}
+    </div>
+  </div>
+</section>

@@ -1,8 +1,72 @@
-{% if post %}
-{% assign date = post.date %}
-{% elsif page %}
-{% assign date = page.date %}
-{% endif %}
-<span class="d-inline-block small fw-bold">
-  <time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated"><code>{{ date | date_to_string }}</code></time>
-</span>
+{%- if post -%}
+  {%- assign categories = post.categories -%}
+{%- else -%}
+  {%- assign categories = page.categories -%}
+{%- endif -%}
+<table class="table table-sm table-hover">
+  <tbody>
+    <tr class="post-taxonomy">
+      <td width="50">
+        <span class="m2m-font-micro text-uppercase me-1">{% if page.url contains '/work/' %}Year{% else %}Topic{% endif %}</span>
+      </td>
+      <td>
+      {% if page.url contains '/work/' %}
+        <span class="fw-bold text-uppercase m2m-font-micro d-inline-block"><strong>{{ page.date | date: "%Y" }}</strong></span>
+      {% endif %}
+      {%- for category in categories -%}
+        <a class="p-category text-decoration-none me-2 me-lg-1" href="{{ site.url }}/category/{{ category | slugify | append: '/' }}"><span class="btn btn-lg btn-label-m2m btn-label-m2m-bg btn-label-m2m-link fw-bold m2m-font-micro"><strong>{{ category | upcase | replace:"-"," " }}</strong></span></a>
+      {%- endfor -%}
+      </td>
+    </tr>
+    {% if page.url contains '/work/' %}
+    <tr>
+      <td width="50">
+        <span class="m2m-font-micro text-uppercase me-1">Type</span>
+      </td>
+      <td>
+        <span class="p-category">
+          <span class="fw-bold text-uppercase m2m-font-micro"><strong>{{ page.type }}</strong></span>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td width="50">
+        <span class="m2m-font-micro text-uppercase me-1">Skills</span>
+      </td>
+      <td>
+        <span class="p-category">
+          {%- for skill in page.skillset -%}
+          <span class="fw-bold text-uppercase m2m-font-micro"><strong>{{ skill }} </strong></span><span class="d-inline-block mx-1">/</span> 
+          {%- endfor -%}
+        </span>
+      </td>
+    </tr>
+    {%- endif -%}
+    <tr class="post-taxonomy">
+    {%- unless page.tags == empty -%}
+      {%- if post -%}
+        {%- assign tags = post.tags -%}
+      {%- else -%}
+        {%- assign tags = page.tags -%}
+      {%- endif -%}
+      <td>
+        <span class="d-inline-block m2m-font-micro text-uppercase me-1">Tags</span>
+      </td>
+      <td>
+        {% for tag in tags %}<a class="p-category me-2 text-decoration-none me-2 me-lg-1" href="{{ site.url }}/tag/{{ tag | slugify | append: '/' }}"><span class="btn btn-lg btn-label-m2m btn-label-m2m-bg btn-label-m2m-link fw-bold m2m-font-micro"><strong>{{ tag | upcase }}</strong></span></a>{% unless forloop.last %}{% endunless %}{% endfor %}
+      </td>
+    </tr>
+    <tr>
+      <td><span class="d-inline-block m2m-font-micro text-uppercase me-1">Date</span></td>
+      <td>
+        {%- if post -%}
+          {% assign date = post.date %}
+        {%- elsif page -%}
+          {% assign date = page.date %}
+        {%- endif -%}
+        <time class="dt-published m2m-font-micro fw-bold" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date_to_string }}</time>
+      </td>
+    </tr>
+    {%- endunless -%}
+  </tbody>
+</table>

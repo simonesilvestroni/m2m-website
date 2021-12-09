@@ -29,4 +29,4 @@ At the time, a song didn’t make the final cut. It was a piece divided in two s
 
 Both lyrics referenced the painful process of living in England through Brexit. *The Die Is Cast* is in fact an autobiographical **concept revolving around migration** in Europe, and how deceitful can be to idealize the place where you move to.
 
-<p class="detached">Read the full account of the production in the <a href="/work/original-productions/the-die-is-cast/">related case study</a>.</p>
+<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-productions/the-die-is-cast/">Read the <strong class="m2m-letter-spacing-w1">related case study</strong></a></p>

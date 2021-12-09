@@ -1,18 +1,21 @@
-<article class="m2m-entry h-entry mb-5 py-2">
+<article class="m2m-entry h-entry my-5">
   {% if post %}
-  {% assign categories = post.categories %}
+    {% assign categories = post.categories %}
   {% else %}
-  {% assign categories = page.categories %}
+    {% assign categories = page.categories %}
   {% endif %}
   {% for category in categories %}
-  <span class="p-category btn-label-m2m btn-label-m2m-bg d-inline-block initialism fw-bold me-1 rounded"><strong>{{ category | upcase | replace:"-"," " }}</strong></span>
+  <mark class="m2m-highlight d-inline-block mb-2"><span class="p-category text-uppercase initialism fw-bold px-2"><strong>{{ category | upcase | replace:"-"," " }}</strong></span></mark>
   {% endfor %}
-  <h2 class="p-name mt-2 mb-0"><a href="{{ post.url }}" title="Read the post">{{ post.title }}</a></h2>
-  <div class="post-meta mt-3">
-    {% include post-meta.html date=page %}&nbsp;/&nbsp;{% include pattern-readingtime.html content=post.content -%}
-  </div>
+  <h2 class="p-name h4 text-uppercase m2m-letter-spacing-w1 my-2"><a href="{{ post.url }}" title="Read the post">{{ post.title }}</a></h2>
+  {%- if post -%}
+    {% assign date = post.date %}
+  {%- elsif page -%}
+    {% assign date = page.date %}
+  {%- endif -%}
+  <p><span class="m2m-font-micro">🗓</span> <time class="dt-published m2m-font-micro" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date_to_string }}</time></p>
   <div class="e-content">
-    <p class="p-summary mt-3">{{ post.excerpt | markdownify | strip_html }}</p>
+    <p class="p-summary text-start mt-2">{{ post.excerpt | markdownify | strip_html }}</p>
   </div>
 </article>
 <hr class="visually-hidden">

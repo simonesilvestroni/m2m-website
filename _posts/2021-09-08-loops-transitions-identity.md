@@ -10,7 +10,6 @@ tags:
   - jekyll
   - web design
   - web standards
-  - case study
 description: "Following a process to recalibrate my self-identity after leaving social media, I’m going back to the roots and leave WordPress for Jekyll, joining IndieWeb."
 excerpt: "Following a process to recalibrate my self-identity after leaving social media, I’m going back to the roots, leaving WordPress for Jekyll and joining the IndieWeb."
 ---
