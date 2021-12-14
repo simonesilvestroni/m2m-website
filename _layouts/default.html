@@ -1,4 +1,4 @@
-{%- include site-head.html -%}
+{%- include site-head.html %}
 <body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
   <main>
     <div class="container-lg">
@@ -12,9 +12,9 @@
       </div>
     </div>
   </main>
-{% if page.url contains 'search' or page.url contains '404.html' %}
+{%- if page.url contains 'search' or page.url contains '404.html' -%}
 <script type="text/javascript" src="{{ site.url }}/assets/js/search-m2m.js"></script>
 <noscript>Please enable JavaScript to use the search form.</noscript>
-{% endif %}
+{%- endif %}
 </body>
 </html>

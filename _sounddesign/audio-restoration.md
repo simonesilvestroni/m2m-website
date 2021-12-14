@@ -4,7 +4,7 @@ title: 'Audio restoration'
 date: '2018-09-12'
 last_modified_at: '2021-12-07 17:00:42'
 year: "2020"
-type: "audioediting"
+type: "audio editing"
 skillset: 
   - "game audio"
   - "composition"
