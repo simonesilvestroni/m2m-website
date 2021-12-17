@@ -33,10 +33,8 @@ Ultimately, this preliminary work is all about finding out the best way to deliv
 
 The more technical aspect of the assessment is obtaining the source material. Sometimes clients send just a rough mix of the track in a single audio file. In this case, I need to have some information:
 
-<ul class="m2m-ul">
-  <li>The <strong>BPM</strong> of the song.</li>
-  <li>The <strong>SMPTE</strong> and <strong><code>fps</code> settings</strong> in their DAW project. I need to import the rough mix in my session and avoid audio drifting because of synchronisation issues.</li>
-</ul>
+- The **BPM** of the song.
+- The **SMPTE** and **`fps` settings** in their DAW project. I need to import the rough mix in my session and avoid audio drifting because of synchronisation issues.
 
 Depending on the client’s level of expertise, I might need to point out a few best practices. I email them a _how-to_ in PDF format, highlighting the fastest and best way to get their project to me.
 
@@ -44,11 +42,9 @@ Depending on the client’s level of expertise, I might need to point out a few 
 
 Since I’ve been working with Gerald for a while, we’ve already established a routine. He sends a **Logic Pro session**, with the following:
 
-<ul class="m2m-ul">
-  <li><strong>Markers</strong>. Although optional, it's a great visual help to quickly scan the song structure.</li>
-  <li>MIDI virtual instruments <strong>bounced to audio</strong>.</li>
-  <li>Audio rendered with all his <strong>plug-ins processing already applied</strong>.</li>
-</ul>
+- **Markers**. Although optional, it's a great visual help to quickly scan the song structure.
+- MIDI virtual instruments **bounced to audio**.
+- Audio rendered with all his **plug-ins processing already applied**.
 
 If the client has a test track for the bass, it’s sufficient a rough mix with and without it. However, the possibility of taking the volume of groups of instruments up or down is a great help. Typically, I might want to increase the level of drums and percussions, to help with my recording.
 

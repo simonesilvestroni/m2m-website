@@ -32,12 +32,10 @@ permalink: '/work/original-productions/after-1989/'
 
 On [Bandcamp](https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom){:target="_blank" rel="noopener"}, the album features:
 
-<ul class="m2m-ul">
-  <li>online streaming,</li>
-  <li>download in <strong>high-resolution audio</strong>,</li>
-  <li>a PDF booklet containing synopsis and lyrics (in English and Italian),</li>
-  <li>the beautiful <strong>limited edition CD</strong>.</li>
-</ul>
+- online streaming,
+- download in **high-resolution audio**,
+- a PDF booklet containing synopsis and lyrics (in English and Italian),
+- the beautiful **limited edition CD**.
 
 ## Complete video playlist
 
@@ -47,16 +45,14 @@ On [Bandcamp](https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-f
 
 _After 1989_ can also be found on:
 
-<ul class="m2m-ul">
-  <li><a href="https://open.spotify.com/album/6laoaYjYzB9LDqx8sUe2zv" target="_blank" rel="noopener"><strong>Spotify</strong></a></li>
-  <li><a href="https://music.apple.com/gb/album/after-1989-a-trip-to-freedom/1483027738?app=music&ign-mpt=uo%3D4" target="_blank" rel="noopener"><strong>Apple Music</strong></a></li>
-  <li><a href="https://music.youtube.com/playlist?list=OLAK5uy_kRJwq0brD8ECaWdhsEx-9BrfEleYQjPlI" target="_blank" rel="noopener"><strong>YouTube Music</strong></a></li>
-  <li><a href="https://music.amazon.com/albums/B07Z8HH5XL?tag=featurefmuk-21" target="_blank" rel="noopener"><strong>Amazon Music</strong></a></li>
-  <li><a href="https://tidal.com/browse/album/119837352" target="_blank" rel="noopener"><strong>Tidal</strong></a></li>
-  <li><a href="https://www.deezer.com/en/album/114431332" target="_blank" rel="noopener"><strong>Deezer</strong></a></li>
-  <li><a href="https://www.pandora.com/artist/minutes-to-midnight/after-1989-a-trip-to-freedom/ALzVZxbgvJ26zK6" target="_blank" rel="noopener"><strong>Pandora</strong></a></li>
-  <li><a href="https://soundcloud.com/minutes2mid/sets/after-1989-a-trip-to-freedom" target="_blank" rel="noopener"><strong>Soundcloud</strong></a></li>
-</ul>
+- **[Spotify](https://open.spotify.com/album/6laoaYjYzB9LDqx8sUe2zv)**
+- **[Apple Music](https://music.apple.com/gb/album/after-1989-a-trip-to-freedom/1483027738?app=music&ign-mpt=uo%3D4)**
+- **[YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_kRJwq0brD8ECaWdhsEx-9BrfEleYQjPlI)**
+- **[Amazon Music](https://music.amazon.com/albums/B07Z8HH5XL?tag=featurefmuk-21)**
+- **[Tidal](https://tidal.com/browse/album/119837352)**
+- **[Deezer](https://www.deezer.com/en/album/114431332)**
+- **[Pandora](https://www.pandora.com/artist/minutes-to-midnight/after-1989-a-trip-to-freedom/ALzVZxbgvJ26zK6)**
+- **[Soundcloud](https://soundcloud.com/minutes2mid/sets/after-1989-a-trip-to-freedom)**
 
 ## Production notes
 

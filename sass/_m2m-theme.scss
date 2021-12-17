@@ -132,6 +132,10 @@ p {
   }
 }
 
+em {
+  @extend %m2m-serif;
+}
+
 code {
   background-color: $white;
   padding: $spacer*0.1;
@@ -252,7 +256,7 @@ cite {
     &:not(.lead) {
       // First paragraph after interruption not indented
       & + p {
-        text-indent: $spacer*2;
+        text-indent: $spacer*3;
       }
     }
 
@@ -271,10 +275,7 @@ cite {
 
   // Entry block ordered lists
   ol {
-    // list-style: none;
-    // counter-reset: m2m-counter 0;
     margin-top: $spacer*1.5;
-    // padding-left: 1.3rem;
     @include media-breakpoint-up(md) {
       width: 80%;
     }
@@ -292,12 +293,11 @@ cite {
 
   // Entry block unordered lists
   ul {
-    margin: $spacer*1.5 0;
+    @extend %m2m-ul;
 
     li {
       @extend %m2m-entry-fs;
       line-height: 1.5;
-      margin: 0;
 
       ul {
         margin-top: 0;
@@ -376,100 +376,100 @@ cite {
 }
 
 
-// ------------------------------------------------ \\
-// $ACCORDION
-// ------------------------------------------------ //
+// // ------------------------------------------------ \\
+// // $ACCORDION
+// // ------------------------------------------------ //
 
-.m2m-accordion {
+// .m2m-accordion {
  
-  input {
-    display: none;
-  }
+//   input {
+//     display: none;
+//   }
 
-  &-box {
-    position: relative;
-    height: 3rem;
-    border-radius: 4px;
+//   &-box {
+//     position: relative;
+//     height: 3rem;
+//     border-radius: 4px;
 
-    &::before {
-      content: '';
-      position: absolute;
-      display: block;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      pointer-events: none;
-      border-bottom: 1px solid $background-l-20;
-    }
+//     &::before {
+//       content: '';
+//       position: absolute;
+//       display: block;
+//       top: 0;
+//       bottom: 0;
+//       left: 0;
+//       right: 0;
+//       pointer-events: none;
+//       border-bottom: 1px solid $background-l-20;
+//     }
 
-    &-title {
-      width: 100%;
-      height: 3rem;
-      line-height: 3rem;
-      padding: 0 1.5rem;
-      display: inline-block;
-      background-color: $background-l-60;
-      cursor: pointer;
-      user-select: none;
+//     &-title {
+//       width: 100%;
+//       height: 3rem;
+//       line-height: 3rem;
+//       padding: 0 1.5rem;
+//       display: inline-block;
+//       background-color: $background-l-60;
+//       cursor: pointer;
+//       user-select: none;
 
-      h4 {
-        line-height: 3rem;
-      }
-    }
+//       h4 {
+//         line-height: 3rem;
+//       }
+//     }
 
-    &-content {
-      width: 100%;
-      padding: 0.75rem 1.5rem 1.5rem 1.5rem;
-      display: none;
-      background: $white;
-    }
+//     &-content {
+//       width: 100%;
+//       padding: 0.75rem 1.5rem 1.5rem 1.5rem;
+//       display: none;
+//       background: $white;
+//     }
 
-    &-close {
-      position: absolute;
-      height: 3rem;
-      width: 100%;
-      top: 0;
-      left: 0;
-      cursor: pointer;
-      display: none;
-    }
-  }
-}
-input:checked + .m2m-accordion-box .m2m-accordion-box-title {
-  background-color: $background-l-70;
-  transition: background-color .3s ease-in-out;
-}
-input:checked + .m2m-accordion-box .m2m-accordion-box-title h4 {
-  color: $black;
-  transition: color 1s ease-in-out;
-}
-input:checked + .m2m-accordion-box {
-  height: auto;
-  border-bottom: 2px solid $background-l-10;
-}
-input:checked + .m2m-accordion-box .m2m-accordion-box-content,
-input:checked + .m2m-accordion-box .m2m-accordion-box-close {
-  display: inline-block;
-}
-.m2m-accordion-arrows .m2m-accordion-box .m2m-accordion-box-title {
-  padding-left: 2.75rem;
-  width: 100%;
-}
-.m2m-accordion-arrows .m2m-accordion-box .m2m-accordion-box-title:before {
-  position: absolute;
-  display: block;
-  content: '\203a';
-  font-size: 1.5rem;
-  left: 1.25rem;
-  top: -2px;
-  color: $background-d-40;
-  transition: all .2s ease-in-out;
-}
-input:checked + .m2m-accordion-box .m2m-accordion-box-title:before {
-  transform: rotate(90deg);
-  color: $black;
-}
+//     &-close {
+//       position: absolute;
+//       height: 3rem;
+//       width: 100%;
+//       top: 0;
+//       left: 0;
+//       cursor: pointer;
+//       display: none;
+//     }
+//   }
+// }
+// input:checked + .m2m-accordion-box .m2m-accordion-box-title {
+//   background-color: $background-l-70;
+//   transition: background-color .3s ease-in-out;
+// }
+// input:checked + .m2m-accordion-box .m2m-accordion-box-title h4 {
+//   color: $black;
+//   transition: color 1s ease-in-out;
+// }
+// input:checked + .m2m-accordion-box {
+//   height: auto;
+//   border-bottom: 2px solid $background-l-10;
+// }
+// input:checked + .m2m-accordion-box .m2m-accordion-box-content,
+// input:checked + .m2m-accordion-box .m2m-accordion-box-close {
+//   display: inline-block;
+// }
+// .m2m-accordion-arrows .m2m-accordion-box .m2m-accordion-box-title {
+//   padding-left: 2.75rem;
+//   width: 100%;
+// }
+// .m2m-accordion-arrows .m2m-accordion-box .m2m-accordion-box-title:before {
+//   position: absolute;
+//   display: block;
+//   content: '\203a';
+//   font-size: 1.5rem;
+//   left: 1.25rem;
+//   top: -2px;
+//   color: $background-d-40;
+//   transition: all .2s ease-in-out;
+// }
+// input:checked + .m2m-accordion-box .m2m-accordion-box-title:before {
+//   transform: rotate(90deg);
+//   color: $black;
+// }
 
 
 // ------------------------------------------------ \\
@@ -545,13 +545,14 @@ hr {
 // $LISTS
 // ------------------------------------------------ //
 
-.m2m-ul {
+.m2m-ul,
+%m2m-ul {
   list-style-position: outside;
   margin: $spacer 0 $spacer*1.5 0;
   padding-left: $spacer*1.5;
 
   li {
-    margin: .7rem 0;
+    margin: .35rem 0;
     &::marker {
       color: $link-d-20;
     }

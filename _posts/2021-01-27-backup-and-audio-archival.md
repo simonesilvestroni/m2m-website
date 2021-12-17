@@ -22,15 +22,11 @@ I believe audio archiving is a nice-to-have additional feature to offer to clien
 
 I’m constantly perfecting my backup and archive strategy, which includes both my work and personal data, and clients’. I rely on a proven [3-2-1 technique](https://www.backblaze.com/blog/the-3-2-1-backup-strategy/){:target="_blank" rel="noopener"}: three copies of everything at all times, two local and one off-site. Specifically:
 
-<ul class="m2m-ul">
-  <li>💽 Two sets of redundant RAID drives running daily backups on both OSes.</li>
-  <li>☁️ <a href="https://www.backblaze.com/cloud-backup.html#af9rjz" target="_blank" rel="noopener noreferrer">Backblaze</a> remote cloud backup.</li>
-</ul>
+- 💽 Two sets of redundant RAID drives running daily backups on both OSes.
+- ☁️ [Backblaze](https://www.backblaze.com/cloud-backup.html#af9rjz) remote cloud backup.
 
 For extra-redundancy and out of an abundance of precaution, I also run:
 
-<ul class="m2m-ul">
-  <li>A Time Machine drive with the default hourly setup for macOS.</li>
-  <li>A clone of my production SSD external drives on both OSes, so that I can be <em>instantly up and running</em> in case of malfunction.</li>
-  <li>A <strong>bootable clone</strong> of my entire internal drive, for both OSes.</li>
-</ul>
+- A Time Machine drive with the default hourly setup for macOS.
+- A clone of my production SSD external drives on both OSes, so that I can be _instantly up and running_ in case of malfunction.
+- A **bootable clone** of my entire internal drive, for both OSes.

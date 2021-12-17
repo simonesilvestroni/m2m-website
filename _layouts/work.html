@@ -11,7 +11,7 @@ layout: page
 
 <h3>Sound design skills</h3>
 
-<ul class="list-unstyled list-inline">
+<ul class="list-unstyled list-inline ps-0">
   {% for item in site.skills-audio -%}
   <li class="list-inline-item my-2 me-2">
     <span class="btn-label-m2m btn-label-m2m btn-label-m2m-bg initialism fs-6 rounded px-3 py-2"><strong>{{ item.skill }}</strong></span>
@@ -21,7 +21,7 @@ layout: page
 
 <h3>Web design skills</h3>
 
-<ul class="list-unstyled list-inline">
+<ul class="list-unstyled list-inline ps-0">
   {% for item in site.skills-web -%}
   <li class="list-inline-item my-2 me-2">
     <span class="btn-label-m2m btn-label-m2m btn-label-m2m-bg initialism fs-6 rounded px-3 py-2"><strong>{{ item.skill }}</strong></span>
@@ -30,17 +30,5 @@ layout: page
 </ul>
 
 <h2>Extended resume</h2>
-
-<nav class="m2m-accordion m2m-accordion-arrows mt-3 pt-3">
-  <input type="radio" name="accordion" id="m2m-accordion-1" class="visually-hidden" />
-  <div class="m2m-accordion-box">
-    <label class="m2m-accordion-box-title" for="m2m-accordion-1"><h3 class="h4 my-0">Table of contents</h3></label>
-    <label class="m2m-accordion-box-close" for="m2m-accordion-close"><span class="visually-hidden">Close table of contents</span></label>
-    <div class="m2m-accordion-box-content">
-      {% include pattern-toc.html html=content sanitize=true class="inline_toc m2m-ul" id="m2m-work-toc" h_min=2 h_max=4 %}
-    </div>
-  </div>
-  <input type="radio" name="accordion" id="m2m-accordion-close" class="visually-hidden" />
-</nav>
 
 {{ content }}

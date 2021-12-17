@@ -75,21 +75,17 @@ Since November 2019, I released a 10-songs concept album titled **_After 1989: A
 
 #### Certifications, courses &amp; memberships
 
-<ul class="m2m-ul">
-  <li><a href="https://www.berklee.edu/" target="_blank" rel="noopener">Berklee College Of Music</a> (audio master engineering, music production, electric bass), 2011-2016.</li>
-  <li><a href="https://training.apple.com/us/en/recognition" target="_blank" rel="noopener">Apple Pro Certified</a> for Logic Pro X 10.3, London, 2018.</li>
-  <li><a href="http://www.gdconf.com/" target="_blank" rel="noopener">Game Developer Conference</a>, San Jose (CA), 2002.</li>
-  <li><a href="https://www.audiogang.org/" target="_blank" rel="noopener">Game Audio Network Guild</a> bronze member, San Jose (CA), 2002.</li>
-  <li><a href="https://www.cpm.it/corsi-musica-milano" target="_blank" rel="noopener">Centre for Professional Music</a> diploma (bass, music theory, harmony &amp; arrangement), Milan, 1993-1995.</li>
-</ul>
+- [Berklee College Of Music](https://www.berklee.edu/) (audio master engineering, music production, electric bass), 2011-2016.
+- [Apple Pro Certified](https://training.apple.com/us/en/recognition) for Logic Pro X 10.3, London, 2018.
+- [Game Developer Conference](https://www.gdconf.com/), San Jose (California), 2002.
+- [Game Audio Network Guild](https://www.audiogang.org/) bronze member, San Jose (California), 2002.
+- [Centro Professione Musica](https://www.cpm.it/corsi-musica-milano) diploma (bass, music theory, harmony &amp; arrangement), Milan, 1993-1995.
 
 #### Publications
 
-<ul class="m2m-ul">
-  <li><em>Efficient Productivity for Music Professionals</em> (2020). Download the <a href="/work/project-management/">free ebook</a>.</li>
-  <li><em>A Trip to Freedom, from Berlin to Berlin</em>, published by <a href="https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e" target="_blank" rel="noopener">Lessons from History</a>, 2019.</li>
-  <li><em>Producing bass tracks remotely</em>, published by <a href="https://unlockyoursound.com/producing-bass-tracks-remotely/" target="_blank" rel="noopener">Unlock Your Sound</a>.</li>
-</ul>
+- _Efficient Productivity for Music Professionals_ (2020). Download the [free ebook](/work/project-management/).
+- _A Trip to Freedom, from Berlin to Berlin_, published by [Lessons from History](https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e), 2019.
+- _Producing bass tracks remotely_, published by [Unlock Your Sound](https://unlockyoursound.com/producing-bass-tracks-remotely/).
 
 #### Endorsements
 
@@ -133,16 +129,12 @@ After many years with Drupal and WordPress, I now switched to **static site gene
 
 #### Courses &amp; memberships
 
-<ul class="m2m-ul">
-  <li>Member of <a href="https://iwanet.org/" target="_blank" rel="noopener">IWA</a>.</li>
-  <li>PHP course in 2009, Milan.</li>
-</ul>
+- Member of [IWA](https://iwanet.org/).
+- PHP development course in 2009 with HTML.IT, Milan.
 
 #### Publications
 
-<ul class="m2m-ul">
-  <li><a href="https://medium.com/ui-farm/how-we-work-a-modern-workflow-for-the-multi-device-web-4e0dcb081b5b" target="_blank" rel="noopener">How we work: a modern workflow for the multi-device web</a>, technical review by Kara McCain.</li>
-</ul>
+_[How we work: a modern workflow for the multi-device web](https://medium.com/ui-farm/how-we-work-a-modern-workflow-for-the-multi-device-web-4e0dcb081b5b)_, technical review by Kara McCain.
 
 #### Endorsements
 

@@ -106,10 +106,8 @@ Plenty. Check out my [contact page](/contact/).
 
 Thanks for reading. I’ll probably will post a follow-up in a year or so. Although unlikely, I might end up changing my mind. For now, I’ve been experiencing several **few positive effects** already. I currently am:
 
-<ul class="m2m-ul">
-  <li>Reading multiple books at the same time.</li>
-  <li>Chewing through my ‘read later’ list like I haven’t done in years.</li>
-  <li>Feeling less burdened and way less angry.</li>
-  <li>Having deeper conversations with a group of people larger than my usual circle.</li>
-  <li>Extremely productive.</li>
-</ul>
+- Reading multiple books at the same time.
+- Chewing through my ‘read later’ list like I haven’t done in years.
+- Feeling less burdened and way less angry.
+- Having deeper conversations with a group of people larger than my usual circle.
+- Extremely productive.

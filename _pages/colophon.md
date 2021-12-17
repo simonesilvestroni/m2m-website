@@ -12,15 +12,13 @@ Designed and developed by Simone Silvestroni. <abbr title="Information Architect
 
 Developed from scratch using:
 
-<ul class="m2m-ul">
-  <li><a href="https://jekyllrb.com/" title="Read about Jekyll" target="_blank" rel="noopener">Jekyll 4</a></li>
-  <li><abbr title="Syntactically Awesome Style Sheets"><a href="https://sass-lang.com/" title="Read about SASS" target="_blank" rel="noopener">SASS</a></abbr></li>
-  <li><a href="https://getbootstrap.com/" title="Read about Bootstrap" target="_blank" rel="noopener">Bootstrap 5</a></li>
-  <li><a href="https://nodejs.org/" title="Read about Node.js" target="_blank" rel="noopener">Node.js</a></li>
-  <li><a href="https://github.com/" title="Read about GitHub" target="_blank" rel="noopener">GitHub</a></li>
-  <li>Javascript search module by <a href="https://github.com/daviddarnes" title="Read about David Darnes" target="_blank" rel="noopener">David Darnes</a></li>
-  <li>Deployed to <a href="https://www.netlify.com/" title="Read about Netflix" target="_blank" rel="noopener">Netlify</a></li>
-</ul>
+- [Jekyll 4](https://jekyllrb.com/)
+- <abbr title="Syntactically Awesome Style Sheets">[SASS](https://sass-lang.com/)</abbr>
+- [Bootstrap 5](https://getbootstrap.com/)
+- [Node.js](https://nodejs.org/)
+- [GitHub](https://github.com/)
+- Javascript search module by [David Darnes](https://github.com/daviddarnes)
+- Deployed to [Netlify](https://www.netlify.com/)
 
 ## Accessibility
 

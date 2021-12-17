@@ -47,38 +47,34 @@ Whenever I wanted to **offload CPU from Logic**, I tended to run Acid Pro or Cub
 
 #### HARDWARE
 
-<ul class="m2m-ul">
-  <li>Dell PC for audio editing and in-house audio middleware</li>
-  <li>Dell PC as a audio sample server</li>
-  <li>Custom made PC as a redundant daily backup</li>
-  <li>Mac G4, then G5 'cheesegrater'</li>
-  <li>Creamware Pulsar II sound cards</li>
-  <li>MOTU Midi Express XT MIDI interface</li>
-  <li>Roland JV-2080 synth module</li>
-  <li>Korg Trinity Pro synth keyboard</li>
-  <li>Korg Triton module</li>
-  <li>Novation A-station module</li>
-  <li>Fender Jazz bass</li>
-  <li>Sony PCM-R300 DAT Player Recorder Deck</li>
-  <li>Yamaha Klavinova digital piano</li>
-  <li>Yamaha 01W digital mixer</li>
-  <li>Yamaha NS-10</li>
-  <li>Sony surround speakers</li>
-  <li>Sony Playstation2 SDK kit</li>
-  <li>Xbox SDK kit</li>
-</ul>
+- Dell PC for audio editing and in-house audio middleware
+- Dell PC as a audio sample server
+- Custom made PC as a redundant daily backup
+- Mac G4, then G5 'cheesegrater'
+- Creamware Pulsar II sound cards
+- MOTU Midi Express XT MIDI interface
+- Roland JV-2080 synth module
+- Korg Trinity Pro synth keyboard
+- Korg Triton module
+- Novation A-station module
+- Fender Jazz bass
+- Sony PCM-R300 DAT Player Recorder Deck
+- Yamaha Klavinova digital piano
+- Yamaha 01W digital mixer
+- Yamaha NS-10
+- Sony surround speakers
+- Sony Playstation2 SDK kit
+- Xbox SDK kit
 
 #### SOFTWARE
 
-<ul class="m2m-ul">
-  <li>Emagic Logic Audio Platinum 5</li>
-  <li>Steinberg Cubase VST 4</li>
-  <li>BIAS Peak</li>
-  <li>SoundForge and Vegas Pro by Sonic Foundry</li>
-  <li>In-house MXE<sup>&reg;</sup> level editor & audio middleware</li>
-  <li>Xbox XACT audio middleware</li>
-  <li>Alienbrain assets manager</li>
-</ul>
+- Emagic Logic Audio Platinum 5
+- Steinberg Cubase VST 4
+- BIAS Peak
+- SoundForge and Vegas Pro by Sonic Foundry
+- In-house MXE<sup>&reg;</sup> level editor & audio middleware
+- Xbox XACT audio middleware
+- Alienbrain assets manager
 
 {% include pattern-figure.html image="/assets/images/playstos-studio-2.jpg" caption="Audio studio, 2003 (Xbox SDK visible at the top of the rack)" width="1200" height="900" %}
 
@@ -98,19 +94,17 @@ Despite having several sound effects libraries at my disposal, **I wanted to cre
 
 <p class="detached">The following teaser includes processed recordings of:</p>
 
-<ul class="m2m-ul">
-  <li>myself typing on a mechanical keyboard</li>
-  <li>several thunderstorm in Milan</li>
-  <li>many wooshes using belts and other artifacts</li>
-  <li>metal hits</li>
-  <li>wheeled chairs moved on irregular surfaces</li>
-  <li>multiple compressed air cans</li>
-  <li>colleagues making voices</li>
-  <li>newspapers moved around in the studio</li>
-  <li>cat collar with a ring</li>
-  <li>a number of Korg Trinity's synth presets</li>
-  <li>a colleague imitating his own dog</li>
-</ul>
+- myself typing on a mechanical keyboard
+- several thunderstorm in Milan
+- many wooshes using belts and other artifacts
+- metal hits
+- wheeled chairs moved on irregular surfaces
+- multiple compressed air cans
+- colleagues making voices
+- newspapers moved around in the studio
+- cat collar with a ring
+- a number of Korg Trinity's synth presets
+- a colleague imitating his own dog
 
 The editing and the final authoring were made with **Sound Forge**, **Vegas Pro** and **Logic Audio Platinum**.
 

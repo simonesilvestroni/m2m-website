@@ -37,14 +37,12 @@ I enhanced the piano progression, added a tom roll in anticipation for the choru
 
 Since I wrote the song during different time frames, it went through a diverse set of software and tools.
 
-<ul class="m2m-ul">
-  <li>Piano track recorded using a Yamaha Clavinova on Cubase VST 4.</li>
-  <li>First original arrangement created in Logic Pro 7.</li>
-  <li>First version of <em>Nine Eleven</em> was written with Reason.</li>
-  <li>Refactored as <em>Skinny Kid</em>, produced using Logic Pro X.</li>
-  <li>Piano and drums are from XLN’s Addictive Keys and Addictive Drums.</li>
-  <li>Mixed using a multi-buss template inspired by Michael Brauer’s <a href="https://brauerizing.wordpress.com/2014/03/19/brauerizing-a-how-to-guide/" target="_blank" rel="noopener noreferrer">mix technique</a>.</li>
-</ul>
+- Piano track recorded using a Yamaha Clavinova on Cubase VST 4.
+- First original arrangement created in Logic Pro 7.
+- First version of _Nine Eleven_ was written with Reason.
+- Refactored as _Skinny Kid_, produced using Logic Pro X.
+- Piano and drums are from XLN’s Addictive Keys and Addictive Drums.
+- Mixed using a multi-buss template inspired by Michael Brauer’s [mix technique](https://brauerizing.wordpress.com/2014/03/19/brauerizing-a-how-to-guide/).
 
 ## Demo
 

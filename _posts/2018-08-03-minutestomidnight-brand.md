@@ -38,10 +38,8 @@ The logo that stood up, and almost immediately seemed apt, was her **re-interpre
 
 Having sorted name and logo, these were the next steps:
 
-<ul class="m2m-ul">
-  <li><strong>Trademarked</strong> name, logo and logotype with the <a href="https://www.gov.uk/topic/intellectual-property/trade-marks" target="_blank" rel="noopener noreferrer">Intellectual Property Office</a>.</li>
-  <li>Exported multiple versions of the logo (different media, format, size and colour contrast), depending on the intended destination.</li>
-  <li>Chose a set of <strong>typefaces</strong> and extended the brand guidelines to documentation, email, signature etcetera.</li>
-  <li>Set a common minimalistic colour palette.</li>
-  <li>Chose a set of digital tools that are reliable, easy to use, fast and accessible from anywhere, <strong>no matter what device</strong> is in use.</li>
-</ul>
+- **Trademarked** name, logo and logotype with the [Intellectual Property Office](https://www.gov.uk/topic/intellectual-property/trade-marks).
+- Exported multiple versions of the logo (different media, format, size and colour contrast), depending on the intended destination.
+- Chose a set of **typefaces** and extended the brand guidelines to documentation, email, signature etcetera.
+- Set a common minimalistic colour palette.
+- Chose a set of digital tools that are reliable, easy to use, fast and accessible from anywhere, **no matter what device** is in use.

@@ -7,8 +7,9 @@
  * https://www.photoshopsupply.com
  */
 .m2m-serif,
-blockquote p {
-  font-family: "Noto Serif", "Georgia", serif !important;
+blockquote p,
+em {
+  font-family: "Georgia", serif !important;
 }
 
 .m2m-fw-black, .btn-m2m-cta {
@@ -207,7 +208,7 @@ blockquote p {
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
   --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --bs-font-monospace: Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
 }
 
@@ -397,7 +398,7 @@ pre,
 code,
 kbd,
 samp {
-  font-family: var(--bs-font-monospace);
+  font-family: Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   font-size: 1em;
   direction: ltr /* rtl:ignore */;
   unicode-bidi: bidi-override;
@@ -10389,7 +10390,7 @@ cite {
   }
 }
 .m2m-entry p:not(.lead) + p {
-  text-indent: 2rem;
+  text-indent: 3rem;
 }
 .m2m-entry p.detached {
   text-indent: 0 !important;
@@ -10410,12 +10411,8 @@ cite {
 .m2m-entry ol li ol {
   margin-top: 0;
 }
-.m2m-entry ul {
-  margin: 1.5rem 0;
-}
 .m2m-entry ul li {
   line-height: 1.5;
-  margin: 0;
 }
 .m2m-entry ul li ul {
   margin-top: 0;
@@ -10478,95 +10475,6 @@ cite {
   line-height: 2 !important;
 }
 
-.m2m-accordion input {
-  display: none;
-}
-.m2m-accordion-box {
-  position: relative;
-  height: 3rem;
-  border-radius: 4px;
-}
-.m2m-accordion-box::before {
-  content: "";
-  position: absolute;
-  display: block;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  pointer-events: none;
-  border-bottom: 1px solid #efddd4;
-}
-.m2m-accordion-box-title {
-  width: 100%;
-  height: 3rem;
-  line-height: 3rem;
-  padding: 0 1.5rem;
-  display: inline-block;
-  background-color: #f7eee9;
-  cursor: pointer;
-  user-select: none;
-}
-.m2m-accordion-box-title h4, .m2m-accordion-box-title .h4 {
-  line-height: 3rem;
-}
-.m2m-accordion-box-content {
-  width: 100%;
-  padding: 0.75rem 1.5rem 1.5rem 1.5rem;
-  display: none;
-  background: #fff;
-}
-.m2m-accordion-box-close {
-  position: absolute;
-  height: 3rem;
-  width: 100%;
-  top: 0;
-  left: 0;
-  cursor: pointer;
-  display: none;
-}
-
-input:checked + .m2m-accordion-box .m2m-accordion-box-title {
-  background-color: #f9f2ef;
-  transition: background-color 0.3s ease-in-out;
-}
-
-input:checked + .m2m-accordion-box .m2m-accordion-box-title h4, input:checked + .m2m-accordion-box .m2m-accordion-box-title .h4 {
-  color: #000;
-  transition: color 1s ease-in-out;
-}
-
-input:checked + .m2m-accordion-box {
-  height: auto;
-  border-bottom: 2px solid #edd9ce;
-}
-
-input:checked + .m2m-accordion-box .m2m-accordion-box-content,
-input:checked + .m2m-accordion-box .m2m-accordion-box-close {
-  display: inline-block;
-}
-
-.m2m-accordion-arrows .m2m-accordion-box .m2m-accordion-box-title {
-  padding-left: 2.75rem;
-  width: 100%;
-}
-
-.m2m-accordion-arrows .m2m-accordion-box .m2m-accordion-box-title:before {
-  position: absolute;
-  display: block;
-  content: "›";
-  font-size: 1.5rem;
-  left: 1.25rem;
-  top: -2px;
-  color: #8d8079;
-  transition: all 0.2s ease-in-out;
-}
-
-input:checked + .m2m-accordion-box .m2m-accordion-box-title:before {
-  transform: rotate(90deg);
-  color: #000;
-}
-
 .breadcrumb-item {
   letter-spacing: -0.25px;
 }
@@ -10617,15 +10525,18 @@ hr:not([size]) {
   height: 160px;
 }
 
-.m2m-ul {
+.m2m-ul,
+.m2m-entry ul {
   list-style-position: outside;
   margin: 1rem 0 1.5rem 0;
   padding-left: 1.5rem;
 }
-.m2m-ul li {
-  margin: 0.7rem 0;
+.m2m-ul li,
+.m2m-entry ul li {
+  margin: 0.35rem 0;
 }
-.m2m-ul li::marker {
+.m2m-ul li::marker,
+.m2m-entry ul li::marker {
   color: #7aa7b1;
 }
 
