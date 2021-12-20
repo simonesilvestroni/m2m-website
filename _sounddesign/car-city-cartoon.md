@@ -19,7 +19,7 @@ permalink: '/work/sound-design/car-city-cartoon/'
 ---
 ## Releases
 
-The following are a couple of episodes containing my sound design.
+These are a few episodes featuring my sound design.
 
 {% include pattern-video.html id="LLH6DfooMLg" title="Car City: Tom the Tow Truck" %}
 
@@ -101,7 +101,3 @@ Once all the edits requested in the feedback were completed and a sign-off was o
 Payments would be sent on the same day each month following the upload of an invoice on Scale3, outlining all the signed-off tasks within that timeframe.
 
 The release of episodes on YouTube had a schedule that was outside my scope, but were never too far away: usually a couple of weeks after my delivery.
-
-## Outcome
-
-I enjoyed dealing with a well organized remote project like _Car City_, and if it wasn't for the fact that the job couldn't live side-by-side with my **Wwise learning programme** (and a subsequent [international move](/blog/back-to-the-future-leaving-the-uk/)), I would probably be still doing it.

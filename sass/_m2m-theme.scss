@@ -254,9 +254,8 @@ cite {
     }
 
     &:not(.lead) {
-      // First paragraph after interruption not indented
       & + p {
-        text-indent: $spacer*3;
+        text-indent: $spacer*2.5;
       }
     }
 

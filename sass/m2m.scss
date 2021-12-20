@@ -105,7 +105,7 @@ $form-label-margin-bottom: .5rem;
 // $CUSTOM - Colors
 // ------------------------------------------------ //
 // Remove default colors
-$theme-colors: map-remove($theme-colors, "secondary", "info", "danger");
+$theme-colors: map-remove($theme-colors, "secondary", "info");
 
 // ------------------------------------------------ \\
 // $OPTIONAL Bootstrap components
