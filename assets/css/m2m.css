@@ -10438,6 +10438,12 @@ cite {
   text-decoration-color: #586568;
 }
 
+.m2m-link-hover:hover {
+  text-decoration-line: underline;
+  text-decoration-color: #b8d7dd;
+  text-decoration-thickness: 3px;
+}
+
 /* purgecss start ignore */
 .page-page-not-found a[href^="/tag/"],
 .page-search a[href^="/tag/"] {
@@ -10591,10 +10597,6 @@ picture {
 
 .m2m-logo {
   height: 90px;
-  background: transparent url("/assets/images/bg-green-blob.svg") no-repeat center center;
-}
-.m2m-logo svg {
-  max-width: 100%;
 }
 
 hr {
@@ -10627,7 +10629,6 @@ hr:not([size]) {
 }
 
 .iframe-container {
-  margin: 3rem 0;
   padding-top: 56.25%;
   overflow: hidden;
   position: relative;

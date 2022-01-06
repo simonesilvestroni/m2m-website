@@ -4,6 +4,7 @@ title: 'Silvia Maggi Design'
 date: '2021-09-26'
 last_modified_at: '2021-12-08 16:10:07'
 year: "2021"
+type: "web design"
 skillset: 
  - skill
 description: "Description."

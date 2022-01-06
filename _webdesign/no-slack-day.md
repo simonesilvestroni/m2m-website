@@ -4,6 +4,7 @@ title: 'No Slack Day'
 date: '2021-08-26'
 last_modified_at: '2021-12-08 16:08:44'
 year: "2021"
+type: "web dev"
 skillset: 
  - skill
 description: "Description."

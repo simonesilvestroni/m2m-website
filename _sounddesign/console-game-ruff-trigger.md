@@ -249,3 +249,7 @@ Even though I kept working with audio, I turned my interest to web design. What 
 In 2017 I wrote an autobiographical concept album where a few songs were made of [unused music](/blog/skinny-kid-song-backstory/) from the Playstos years. Initially conceived as a theatrical piece, it rekindled my passion for audio-visual narration prompting me to **go back to game audio**.
 
 While I updated my skills by studying Wwise, FMOD and their relation with major game engines, I got to work as a [sound designer for Paris-based Amuse Animations](/work/sound-design/car-city-cartoon/).
+
+<div class="text-center my-5 py-5">
+  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/contact/" title="Hire me"><span class="text-uppercase fs-4">🔗 <strong>Hire me</strong></span></a>
+</div>

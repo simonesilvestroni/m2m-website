@@ -62,3 +62,7 @@ Mastered by Ian Shepherd.
 <p class="detached small">
   <sup>&copy;</sup> Dan Ecclestone 2018.
 </p>
+
+<div class="text-center my-5 py-5">
+  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/contact/" title="Hire me"><span class="text-uppercase fs-4">🔗 <strong>Hire me</strong></span></a>
+</div>

@@ -13,8 +13,6 @@
 html {
   border-top: 0.3rem solid gray-700;
 }
-body {}
-main {}
 
 
 // ------------------------------------------------ \\
@@ -195,6 +193,11 @@ cite {
     color: $link-hover-color;
     text-decoration-color: $link-hover-decoration;
   }
+}
+.m2m-link-hover:hover {
+  text-decoration-line: underline;
+  text-decoration-color: #b8d7dd;
+  text-decoration-thickness: 3px;
 }
 // Tag & cats results link in search page + 404 page
 /* purgecss start ignore */
@@ -515,10 +518,6 @@ figcaption  {
 }
 .m2m-logo {
   height: 90px;
-  background: transparent url('/assets/images/bg-green-blob.svg') no-repeat center center;
-  svg {
-    max-width: 100%;
-  }
 }
 
 // Horizontal line spacer
@@ -565,7 +564,6 @@ hr {
 
 // Responsive iframe
 .iframe-container {
-  margin: ($spacer * 3) 0;
   padding-top: 56.25%; // 16:9 aspect ratio
   overflow: hidden;
   position: relative;

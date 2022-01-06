@@ -11,7 +11,7 @@
       </td>
       <td>
       {% if page.url contains '/work/' %}
-        <span class="fw-bold text-uppercase m2m-font-micro d-inline-block"><strong>{{ page.date | date: "%Y" }}</strong></span>
+        <span class="fw-bold text-uppercase m2m-font-micro d-inline-block"><strong>{{ page.year }}</strong></span>
       {% endif %}
       {%- for category in categories -%}
         <a class="p-category text-decoration-none me-2 me-lg-1" href="{{ site.url }}/category/{{ category | slugify | append: '/' }}"><span class="btn btn-lg btn-label-m2m btn-label-m2m-bg btn-label-m2m-link fw-bold m2m-font-micro"><strong>{{ category | upcase | replace:"-"," " }}</strong></span></a>

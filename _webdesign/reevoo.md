@@ -4,6 +4,7 @@ title: 'Reevoo'
 date: '2017-09-26'
 last_modified_at: '2021-12-08 16:11:56'
 year: "2017"
+type: "web dev"
 skillset: 
  - skill
 description: "Description."

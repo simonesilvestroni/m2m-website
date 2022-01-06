@@ -13,76 +13,82 @@ permalink: /archive/
 
 <h1 class="text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
 
-<h2 class="fs-1">Case studies</h2>
+<h2 class="fs-1 pb-3">Case studies</h2>
 
-<h4 class="text-uppercase m2m-letter-spacing-w1 mb-2 fs-5">Sound design</h4>
-<ul class="list-group list-group-flush w-75 mb-5">
+<section class="h-feed">
+  <h4 class="text-uppercase m2m-letter-spacing-w1 mb-4 fs-5">Sound design</h4>
+  <ul class="list-unstyled mb-5">
   {% for casestudy in sounddesign %}
-  <li class="list-group-item py-1"><a class="fs-5" href="{{ casestudy.url }}" title="Read the case study '{{ casestudy.title }}'">{{ casestudy.title }} <span class="m2m-font-micro text-uppercase fw-bold"><strong>[{{ casestudy.type }} – {{ casestudy.date | date: "%Y" }}]</strong></span></a></li>
+    <li class="py-1"><a class="m2m-link-hover fs-5" href="{{ casestudy.url }}" title="Read the case study '{{ casestudy.title }}'"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-link-45deg" viewBox="0 0 16 16"><path d="M4.715 6.542 3.343 7.914a3 3 0 1 0 4.243 4.243l1.828-1.829A3 3 0 0 0 8.586 5.5L8 6.086a1.002 1.002 0 0 0-.154.199 2 2 0 0 1 .861 3.337L6.88 11.45a2 2 0 1 1-2.83-2.83l.793-.792a4.018 4.018 0 0 1-.128-1.287z"/><path d="M6.586 4.672A3 3 0 0 0 7.414 9.5l.775-.776a2 2 0 0 1-.896-3.346L9.12 3.55a2 2 0 1 1 2.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372a3 3 0 1 0-4.243-4.243L6.586 4.672z"/></svg> <em class="fs-5">{{ casestudy.year }}</em> <mark class="m2m-highlight d-inline-block fs-6 mx-1 mb-2"><span class="p-category text-uppercase initialism fw-bold px-2"><strong>{{ casestudy.type }}</strong></span></mark> {{ casestudy.title }} <span class="m2m-font-micro text-uppercase fw-bold"></span></a></li>
   {% endfor %}
-</ul>
+  </ul>
+</section>
 
-<h4 class="text-uppercase m2m-letter-spacing-w1 mb-2 fs-5">Original productions</h4>
-<ul class="list-group list-group-flush w-75 mb-5">
+<section class="h-feed">
+  <h4 class="text-uppercase m2m-letter-spacing-w1 mb-4 fs-5">Original productions</h4>
+  <ul class="list-unstyled mb-5">
   {% for casestudy in originalproductions %}
-  <li class="list-group-item py-1"><a class="fs-5" href="{{ casestudy.url }}" title="Read the case study '{{ casestudy.title }}'">{{ casestudy.title }} <span class="m2m-font-micro text-uppercase fw-bold"><strong>[{{ casestudy.type }} – {{ casestudy.date | date: "%Y" }}]</strong></span></a></li>
+    <li class="py-1"><a class="m2m-link-hover fs-5" href="{{ casestudy.url }}" title="Read the case study '{{ casestudy.title }}'"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-link-45deg" viewBox="0 0 16 16"><path d="M4.715 6.542 3.343 7.914a3 3 0 1 0 4.243 4.243l1.828-1.829A3 3 0 0 0 8.586 5.5L8 6.086a1.002 1.002 0 0 0-.154.199 2 2 0 0 1 .861 3.337L6.88 11.45a2 2 0 1 1-2.83-2.83l.793-.792a4.018 4.018 0 0 1-.128-1.287z"/><path d="M6.586 4.672A3 3 0 0 0 7.414 9.5l.775-.776a2 2 0 0 1-.896-3.346L9.12 3.55a2 2 0 1 1 2.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372a3 3 0 1 0-4.243-4.243L6.586 4.672z"/></svg> <em class="fs-5">{{ casestudy.year }}</em> <mark class="m2m-highlight d-inline-block fs-6 mx-1 mb-2"><span class="p-category text-uppercase initialism fw-bold px-2"><strong>{{ casestudy.type }}</strong></span></mark> {{ casestudy.title }} <span class="m2m-font-micro text-uppercase fw-bold"></span></a></li>
   {% endfor %}
-</ul>
+  </ul>
+</section>
 
-<h4 class="text-uppercase m2m-letter-spacing-w1 mb-2 fs-5">Web design</h4>
-<ul class="list-group list-group-flush w-75 mb-5">
+<section class="h-feed">
+  <h4 class="text-uppercase m2m-letter-spacing-w1 mb-4 fs-5">Web design</h4>
+  <ul class="list-unstyled mb-5">
   {% for casestudy in webdesign %}
-  <li class="list-group-item py-1"><a class="fs-5" href="{{ casestudy.url }}" title="Read the case study '{{ casestudy.title }}'">{{ casestudy.title }} <span class="m2m-font-micro text-uppercase fw-bold"><strong>[{{ casestudy.type }} – {{ casestudy.date | date: "%Y" }}]</strong></span></a></li>
+    <li class="py-1"><a class="m2m-link-hover fs-5" href="{{ casestudy.url }}" title="Read the case study '{{ casestudy.title }}'"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-link-45deg" viewBox="0 0 16 16"><path d="M4.715 6.542 3.343 7.914a3 3 0 1 0 4.243 4.243l1.828-1.829A3 3 0 0 0 8.586 5.5L8 6.086a1.002 1.002 0 0 0-.154.199 2 2 0 0 1 .861 3.337L6.88 11.45a2 2 0 1 1-2.83-2.83l.793-.792a4.018 4.018 0 0 1-.128-1.287z"/><path d="M6.586 4.672A3 3 0 0 0 7.414 9.5l.775-.776a2 2 0 0 1-.896-3.346L9.12 3.55a2 2 0 1 1 2.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372a3 3 0 1 0-4.243-4.243L6.586 4.672z"/></svg> <em class="fs-5">{{ casestudy.year }}</em> <mark class="m2m-highlight d-inline-block fs-6 mx-1 mb-2"><span class="p-category text-uppercase initialism fw-bold px-2"><strong>{{ casestudy.type }}</strong></span></mark>{{ casestudy.title }} <span class="m2m-font-micro text-uppercase fw-bold"></span></a></li>
   {% endfor %}
-</ul>
-
-<hr>
+  </ul>
+</section>
 
 <h2 class="fs-1">Blog</h2>
 <h3 class="mb-5 text-uppercase">Posts by year</h3>
-{% for post in site.posts %}
-{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-{% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-{% if forloop.first %}
-<div class="mb-5">
-  <h4 class="m2m-letter-spacing-w1 fs-5" id="{{ this_year }}-ref">{{ this_year }}</h4>
-  <ul class="list-group list-group-flush">
-{% endif %}
-    <li class="list-group-item py-1"><a class="fs-5" href="{{ post.url }}">{{ post.title }}</a></li>
-{% if forloop.last %}
-  </ul>
-</div>
-{% else %}
-  {% if this_year != next_year %}
+<section class="h-feed">
+{%- for post in site.posts -%}
+{%- capture this_year -%}{{ post.date | date: "%Y" }}{%- endcapture -%}
+{%- capture next_year -%}{{ post.previous.date | date: "%Y" }}{%- endcapture -%}
+{%- if forloop.first -%}
+  <div class="mb-5">
+    <h4 class="m2m-letter-spacing-w1 fs-5" id="{{ this_year }}-ref">{{ this_year }}</h4>
+    <ul class="list-unstyled">
+{%- endif -%}
+      <li class="py-1"><a class="m2m-link-hover fs-5" href="{{ post.url }}"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-link-45deg" viewBox="0 0 16 16"><path d="M4.715 6.542 3.343 7.914a3 3 0 1 0 4.243 4.243l1.828-1.829A3 3 0 0 0 8.586 5.5L8 6.086a1.002 1.002 0 0 0-.154.199 2 2 0 0 1 .861 3.337L6.88 11.45a2 2 0 1 1-2.83-2.83l.793-.792a4.018 4.018 0 0 1-.128-1.287z"/><path d="M6.586 4.672A3 3 0 0 0 7.414 9.5l.775-.776a2 2 0 0 1-.896-3.346L9.12 3.55a2 2 0 1 1 2.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372a3 3 0 1 0-4.243-4.243L6.586 4.672z"/></svg> {{ post.title }}</a></li>
+{%- if forloop.last -%}
+    </ul>
+  </div>
+</section>
+{%- else -%}
+{%- if this_year != next_year -%}
   </ul>
 </div>
 <div class="mb-5">
   <h4 class="m2m-letter-spacing-w1 fs-5" id="{{ next_year }}-ref">{{ next_year }}</h4>
-  <ul class="list-group list-group-flush">
-  {% endif %}
-{% endif %}
-{% endfor %}
+  <ul class="list-unstyled">
+{%- endif -%}
+{%- endif -%}
+{%- endfor -%}
 
 <h3 class="mb-5 text-uppercase">Blog categories</h3>
-<ol class="list-unstyled list-inline w-100">
-{% assign sorted_cats = site.categories | sort %}
-{% for category in sorted_cats %}
-{% assign c = category | first %}
-{% assign posts = category | last %}
+<ol class="list-unstyled list-inline">
+{%- assign sorted_cats = site.categories | sort -%}
+{%- for category in sorted_cats -%}
+{%- assign c = category | first -%}
+{%- assign posts = category | last -%}
   <li class="list-inline-item mb-4 me-4">
     <a class="btn btn-lg btn-label-m2m btn-label-lg-m2m btn-label-m2m-bg btn-label-m2m-link px-4 py-2" href="{{ site.url }}/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><strong>{{ c | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
   </li>
-{% endfor %}
+{%- endfor -%}
 </ol>
 
 <h3 class="mt-0 mb-5 pt-4 text-uppercase">Blog tags</h3>
-<ol class="list-unstyled list-inline w-100">
-{% assign sorted_tags = site.tags | sort %}
-{% for tag in sorted_tags %}
-{% assign t = tag | first %}
-{% assign posts = tag | last %}
+<ol class="list-unstyled list-inline">
+{%- assign sorted_tags = site.tags | sort -%}
+{%- for tag in sorted_tags -%}
+{%- assign t = tag | first -%}
+{%- assign posts = tag | last -%}
   <li class="list-inline-item mb-4 me-4">
     <a class="btn btn-lg btn-label-m2m btn-label-lg-m2m btn-label-m2m-bg btn-label-m2m-link px-4 py-2" href="{{ site.url }}/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><strong>{{ t | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
   </li>
-{% endfor %}
+{%- endfor -%}
 </ol>
