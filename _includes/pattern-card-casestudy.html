@@ -1,8 +1,8 @@
 {%- assign page = casestudy -%}
 <div class="col m2m-transition-opacity-03s">
   <div class="card h-100 m2m-transition-border-03s">
-    {%- if page.featimage == true -%}
-    <img src="/assets/images/{{ casestudy.title | replace: " ","-" | append: ".jpg" }}" alt="Cover of {{ casestudy.title }}" width="600" height="600">
+    {%- if casestudy.featimage == true -%}
+    <img class="w-100" src="/assets/images/thumb-{{ casestudy.title | downcase | replace: " ","-" | append: ".jpg" }}" alt="{{ casestudy.title }}" width="350" height="350">
     {%- endif -%}
     <div class="card-body text-center">
       {%- if casestudy -%}
@@ -14,10 +14,16 @@
       <mark class="m2m-highlight d-inline-block mb-2"><span class="p-category text-uppercase initialism fw-bold px-2"><strong>{{ category | upcase }}</strong></span></mark>
       {% endfor %}
       <h4 class="m2m-sans text-uppercase h5 mt-2 mb-3">{{ casestudy.title }}</h4>
-      <p class="card-text text-start fs-6">{{ casestudy.excerpt | strip_html }}</p>
+      <p class="card-text text-start fs-6">
+        {%- if page.url contains '/work/web-design/' -%}
+          {{ casestudy.description | strip_html }}
+        {%- else -%}
+          {{ casestudy.excerpt | strip_html }}
+        {%- endif -%}
+      </p>
     </div>
     <div class="card-footer text-center pb-3">
-      <a class="stretched-link btn btn-md btn-m2m btn-m2m-cta text-decoration-none fw-bold" href="{{ casestudy.url }}" title="Read and listen to {{ casestudy.title }}"><span class="small initialism">About '{{ casestudy.title }}'</span></a>
+      <a class="stretched-link btn btn-md btn-m2m btn-m2m-cta text-decoration-none fw-bold" href="{{ casestudy.url }}" title="Check out {{ casestudy.title }}"><span class="small initialism">About '{{ casestudy.title }}'</span></a>
     </div>
   </div>
 </div>

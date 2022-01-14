@@ -27,6 +27,6 @@ A marvellous review by Secret Eclectic about my song [_13 Days_](https://minutes
 
 ## A concept album in the streaming era
 
-Happy to see how my choice to publish a [concept album](/work/original-productions/after-1989/) in the streaming era, did not get lost on more detail-oriented listeners:
+Happy to see how my choice to publish a [concept album](/work/original-music-productions/after-1989/) in the streaming era, did not get lost on more detail-oriented listeners:
 
 > Here, in Secret Eclectic we often ask artists what they would change in the music industry. An answer we often get is that bands, for reasons that relate to promotion, no longer release full albums. Minutes to Midnight released a full album. A concept album. We recommend listening to it in its entirety.

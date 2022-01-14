@@ -64,7 +64,7 @@ skills-web:
   - skill: netlify
   - skill: git
   - skill: svn
-  - skill: node.js
+  - skill: node
   - skill: postCSS
   - skill: YAML
   - skill: capistrano
@@ -109,7 +109,7 @@ defaults:
 collections:
   originalproductions:
     output: true
-    permalink: /work/original-productions/:path/
+    permalink: /work/original-music-productions/:path/
   sounddesign:
     output: true
     permalink: /work/sound-design/:path/

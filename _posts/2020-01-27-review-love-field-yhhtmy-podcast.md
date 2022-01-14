@@ -38,4 +38,4 @@ The following is a playlist of the four songs played and discussed in the podcas
 
 Thanks to [Christopher Carvalho](https://unlockyoursound.com/){:target="_blank" rel="noopener"} for this feature.
 
-<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>
+<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-music-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>

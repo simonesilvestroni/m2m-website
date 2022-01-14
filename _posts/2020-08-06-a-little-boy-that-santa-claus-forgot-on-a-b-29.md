@@ -35,13 +35,13 @@ Now a fugitive, he’s running away from imprisonment with a fellow Soviet inmat
 
 ## A glimpse of something
 
-_A Little Boy That Santa Claus Forgot On A B-29_ is the second song from the concept album [_After 1989: A Trip To Freedom_](/work/original-productions/after-1989/). It plays around the two events. A glimpse of hope for the two tired men running away in Central Europe, a horrific wasteland in Japan. The nuclear era was born.
+_A Little Boy That Santa Claus Forgot On A B-29_ is the second song from the concept album [_After 1989: A Trip To Freedom_](/work/original-music-productions/after-1989/). It plays around the two events. A glimpse of hope for the two tired men running away in Central Europe, a horrific wasteland in Japan. The nuclear era was born.
 
 ## ‘Little Boy’ official video
 
 {% include pattern-video.html id="5M1XTw483Ew" %}
 
-<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>
+<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-music-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>
 
 ## Credits
 

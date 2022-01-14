@@ -26,7 +26,7 @@ excerpt: "I watched this amazing video interview, probably the best one I’ve w
 <br><br>
 > She is currently a Professor in the departments of Music Production & Engineering and Liberal Arts at [Berklee College of Music, Boston](https://www.berklee.edu/){:target="_blank" rel="noopener"}, where she teaches psychoacoustics, record production and analog recording techniques.
 
-{% include pattern-figure.html image="/assets/images/susan-rogers-sign-o-the-times-tour.jpeg" caption="Susan Rogers during Prince’s <em>Sign ‘O The Times</em> tour" width="1024" height="682" %}
+{% include pattern-figure.html image="/assets/images/susan-rogers-sign-o-the-times-tour.jpg" caption="Susan Rogers during Prince’s <em>Sign ‘O The Times</em> tour" width="1024" height="682" %}
 
 I’ve listened to her in awe. In particular, regarding two points:
 

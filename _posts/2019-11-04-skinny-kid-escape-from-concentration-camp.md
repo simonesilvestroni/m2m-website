@@ -18,7 +18,7 @@ excerpt: 'I’m on the S-Bahn 1 from Berlin to Oranienburg. Sachsenhausen camp, 
 ---
 <p class="lead">{{ page.excerpt }}</p>
 
-_Skinny Kid_ is the first single from the concept album [_After 1989: A Trip To Freedom_](/work/original-productions/after-1989/), released 9 November 2019.
+_Skinny Kid_ is the first single from the concept album [_After 1989: A Trip To Freedom_](/work/original-music-productions/after-1989/), released 9 November 2019.
 
 ## Synopsis
 

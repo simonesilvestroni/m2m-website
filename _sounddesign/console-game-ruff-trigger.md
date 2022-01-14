@@ -202,7 +202,7 @@ My first day was entirely filled with the 8-hours workshop _Using DirectMusic fo
 
 Beyond the [first unveiling of **Steam**](https://www.gamespot.com/articles/gdc-2002-valve-unveils-steam/1100-2857298/) by Valve on the 22<sup>nd</sup>, I took part in the historical event for the game audio industry the day before: **the foundation of the [Game Audio Network Guild](https://www.audiogang.org/)**, with Tommy Tallarico, Brian Schmidt, Thomas Dolby and many others. I still have my bronze member certification. The end of that same day was highlighted by _Using a Live Orchestra in Game Soundtracks_ with **Michael Giacchino** and others.
 
-{% include pattern-figure.html image="/assets/images/gdc-2002-locator-badge.jpg" caption="GDC 2002: Conference locator and my entrance badge" width="884" height="1194" %}
+{% include pattern-figure.html image="/assets/images/gdc-2002-locator-badge.jpg" caption="GDC 2002: Conference locator and my entrance badge" width="758" height="1024" %}
 
 The culmination was the keynote given by [Martin O'Donnell](https://en.wikipedia.org/wiki/Martin_O'Donnell), audio director for Bungie on Saturday the 23<sup>rd</sup>. I experienced **_The Audio Production for Halo_** in a room absolutely packed. Besides the technical aspects of him showing production screenshots and actual tricks, along with praises to Microsoft for letting him work on a Mac, I remember filling half a journal with notes about how **sound can empower a non-linear story**.
 
@@ -249,6 +249,17 @@ Even though I kept working with audio, I turned my interest to web design. What 
 In 2017 I wrote an autobiographical concept album where a few songs were made of [unused music](/blog/skinny-kid-song-backstory/) from the Playstos years. Initially conceived as a theatrical piece, it rekindled my passion for audio-visual narration prompting me to **go back to game audio**.
 
 While I updated my skills by studying Wwise, FMOD and their relation with major game engines, I got to work as a [sound designer for Paris-based Amuse Animations](/work/sound-design/car-city-cartoon/).
+
+## Reviews
+
+> When passion goes beyond working duties… here’s Simone. Addiction and reliability are two great details you can't easily find nowadays in a professional and he gets both.
+> <cite>— **Jean Claude Nouchy**, [Houdini FX technical director and trainer](http://www.visualcortexlab.com/showreel/)</cite>
+
+> Great co-worker! Very careful, serious and responsible, never superficial. Good webmaster with wide knowledge of the Apple world, the Adobe software and all that’s connected to audio engineering. Highly recommended.
+> <cite>— **Daniele Pieroni**, [Senior Game Developer Relations Engineer at Intel Corporation](https://www.linkedin.com/in/danielepieroni/)</cite>
+
+> Simone is a very talented web designer and audio composer. He pays a lot of attention to quality and detail, and he’s always willing to improve his wide array of skills. Definitely a pleasure to work with.
+> <cite>— **Michele Sandroni**, [Technical Artist at Bosch Rexroth AG](https://www.linkedin.com/in/michelesandroni/){:target="_blank" rel="noopener"}</cite>
 
 <div class="text-center my-5 py-5">
   <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/contact/" title="Hire me"><span class="text-uppercase fs-4">🔗 <strong>Hire me</strong></span></a>

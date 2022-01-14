@@ -20,7 +20,7 @@ excerpt: "How REAPER improved my music workflow, part 2: customization, communit
 ---
 <p class="lead">{{ page.excerpt }}</p>
 
-In **[part 1](/daw-from-logic-to-pro-tools-to-reaper-part-1/)** I discussed:
+In **[part 1](/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)** I discussed:
 
 1.  Cost
 2.  Multi-platform
@@ -34,7 +34,7 @@ What can be customized: pretty much everything, down to the look & feel. Like [i
 
 This is a huge one for me. REAPER has a [scripting engine](https://www.reaper.fm/sdk/reascript/reascript.php){:target="_blank" rel="noopener"}. It’s a DAW that can be **manipulated through programming**, whether it’s Python, Lua, or its own open source language (EEL). Even without being a coder, a lot can still be achieved. Plenty can be done with the myriad of stock commands (_actions_), shortcuts and mouse modifiers alone, not to mention the possibility of creating multi-layered **custom actions** (basically: macros).
 
-{% include pattern-figure.html image="/assets/images/reaper-m2m-custom-actions.jpg" caption="The actions window, featuring my current custom macros at the top" width="1568" height="692" %}
+{% include pattern-figure.html image="/assets/images/daw-reaper-custom-actions.png" caption="The actions window, featuring my current custom macros at the top" width="768" height="339" %}
 
 **REAPER is fast**, it reacts quickly, and allows access to each and every function by hitting the `?` shortcut, which opens the **actions list**.
 
@@ -42,7 +42,7 @@ This is a huge one for me. REAPER has a [scripting engine](https://www.reaper.fm
 
 Personal example: through the creation of custom actions, I embedded some of my most used workflows from Logic and Pro Tools. I even **applied the same keyboard shortcuts** in several cases, so that I didn’t have to “rewire” my muscle memory. Custom toolbars can be created as well. As opposed to the always-on main toolbar, which holds frequently used commands, I recall a **floating toolbar** with a shortcut. It has actions and macros — in the form of buttons — that I only need sometimes. Once I’m done, it hides with the escape key. I’m scratching the surface here, the possibilities are endless.
 
-{% include pattern-figure.html image="/assets/images/reaper-custom-toolbar.jpg" caption="A floating toolbar I created, containing some of my custom actions" width="982" height="176" %}
+{% include pattern-figure.html image="/assets/images/daw-reaper-custom-toolbar.png" caption="A floating toolbar I created, containing some of my custom actions" width="768" height="138" %}
 
 After less than two weeks using REAPER, I have, among other things:
 
@@ -78,7 +78,7 @@ By hitting a single key, I create fades that would apply from/to my current mous
 
 The repository for all custom themes — as well as extensions, scripts and more — is the [REAPER stash](https://stash.reaper.fm/). Talking about aesthetics, I’m not a fan of the many themes that recreate the GUI of other DAWs. While I like the design called _Smooth_, I settled with the default theme for v6.
 
-{% include pattern-figure.html image="/assets/images/reaper-m2m-session.jpg" caption="REAPER running the theme Smooth v6" width="1920" height="1200" %}
+{% include pattern-figure.html image="/assets/images/daw-reaper-session.jpg" caption="REAPER running the theme Smooth v6" width="768" height="480" %}
 
 Incredibly detailed and well crafted, it was created for free by a guy who only asks to be [supported on Bandcamp](https://forum.cockos.com/showthread.php?p=2219276){:target="_blank" rel="noopener"}, where he published a slightly bizarre but captivating sci-fi concept. Which brings me to the next benefit. Cockos is [made of two programmers and a few collaborators](http://cockos.com/team.php){:target="_blank" rel="noopener"}. Remarkably, they’ve managed to create **a product that is actually close to their customers**. They run a thriving [forum](https://forum.cockos.com/forumdisplay.php?f=20){:target="_blank" rel="noopener"} where, besides looking for help and support, people who use REAPER can offer ideas for new features or suggestions about fixing something that’s not ideal. As someone aptly wrote in the forum:
 
@@ -90,7 +90,7 @@ Being **open to third-party interventions**, the obvious brilliant result is tha
 
 A few months ago, I bought a USB/MIDI controller, the **X-Touch One**. It’s got a single motorized fader and a few added possibilities. Well built and cheaper than its competitor, the Fader Port by Presonus.
 
-{% include pattern-figure.html image="/assets/images/xtouch-one.jpg" caption="Behringer X-Touch One" width="1280" height="1228" %}
+{% include pattern-figure.html image="/assets/images/xtouch-one.jpg" caption="Behringer X-Touch One" width="768" height="737" %}
 
 Like other tools who adopts the Mackie protocol though, the X-Touch One handles 8 tracks at a time, despite being built for just one. The resulting problem is that **I couldn’t change track in the DAW and immediately see it reflected in the controller**. Having to use its physical buttons to move up or down my tracks was so frustratingly slow that I ended up using it within Pro Tools as a mere automation helper, rather than **a quick mixing tool as I intended**.
 
@@ -111,7 +111,7 @@ I had decided a while back to settle on [a very few third-party plug-ins](/uses/
 
 ___
 
-In **[part 3](https://minutestomidnight.co.uk/daw-from-logic-to-pro-tools-to-reaper-part-3/)** I’ll be discussing:
+In **[part 3](/blog/daw-from-logic-to-pro-tools-to-reaper-part-3/)** I’ll be discussing:
 
 7.  Open architecture & development cycle
 8.  Efficiency

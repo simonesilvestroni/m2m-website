@@ -29,32 +29,34 @@ excerpt: "In the past twelve months I’ve managed to revolutionize my music sof
 2.  Multi-platform
 3.  A different workflow
 
-##### Part 2
+##### [Part 2](/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/)
 
 4.  Customization
 5.  Community
 6.  Stock plug-ins
 
-##### Part 3
+##### [Part 3](/blog/daw-from-logic-to-pro-tools-to-reaper-part-3/)
 
 7.  Open architecture & development cycle
 8.  Efficiency
 
----
+<div class="alert alert-warning my-5" role="alert">
+  <p class="fs-6">⚠️ <strong class="text-uppercase">Disclaimer</strong> — This article reflects my own personal opinions, which are related to how I use a DAW. It’s not meant to judge any of these software. As a matter of fact, I still own and like both Logic and Pro Tools, for their own peculiarities. This is not a tutorial.</p>
+</div>
 
-**DISCLAIMER** — This article reflects my own personal opinions, which are related to how I use a DAW. It’s not meant to judge any of these software. As a matter of fact, I still own and like both Logic and Pro Tools, for their own peculiarities. This is not a tutorial.
-
----
+## Logic
 
 After starting out with Cubase in 1995 and using it until v4, I moved to eMagic’s Logic in 2002. Transitioned to Apple’s [Logic Pro X](https://www.apple.com/logic-pro/){:target="_blank" rel="noopener"} a bit late, I stayed there until last year. All in all, **it’s been 18 years with Logic**.
 
-{% include pattern-figure.html image="/assets/images/logic-platinum.jpeg" caption="2002: Logic Audio Platinum 5" width="1280" height="969" %}
+{% include pattern-figure.html image="/assets/images/daw-logic-platinum.jpg" caption="2002: Logic Audio Platinum 5" width="768" height="581" %}
+
+## Pro Tools
 
 I used plenty of other audio software over time, especially during my years as a game sound designer, and had always known how **Logic was never the best choice for post-production**. Indeed, after a problematic job last year, I finally jumped ship and paid Avid for 12 months of [Pro Tools subscription](https://shop.avid.com/ccrz__ProductDetails?viewState=DetailView&sku=DYNA20000&isCSRFlow=true&portalUser=&store=shop&cclcl=it){:target="_blank" rel="noopener"}. Despite being already familiar with the program, it substantially changed my workflow for the better.
 
-I see it as a near-perfect computer metaphor for someone who **learned the craft in the analog world**. The management of the I/O, the way it handles sends and returns, and above all, the powerful and fast audio editing. Yet, there’s something about it that always felt awkward to me. I didn’t enjoy its distinct lack of personalization, the difficult compatibility, and the **unpredictability software-wise**. Too many random crashes and obscure error messages that never quite stood up to its price.
+I see it as a brilliant computer metaphor for someone who **learned the craft in the analog world**. The management of the I/O, the way it handles sends and returns, and above all, the powerful and fast audio editing. Yet, there’s something about it that always felt awkward to me. I didn’t enjoy its distinct lack of personalization, the difficult compatibility, and the **unpredictability software-wise**. Too many random crashes and obscure error messages that never quite stood up to its price.
 
-{% include pattern-figure.html image="/assets/images/daw-pro-tools-error.png" caption="Pro Tools error message" width="1218" height="556" %}
+{% include pattern-figure.html image="/assets/images/daw-protools-error.png" caption="Pro Tools error message" width="768" height="258" %}
 
 Now, with my subscription about to expire, and irritated by the idea of another hefty payment during a harsh pandemic, I decided to jump ship, again.
 
@@ -109,7 +111,7 @@ I know, Apple isn’t charging for Logic updates (so far), likely because they m
 
 Since the **video game industry** is understandably bent towards Windows, it’s clear to me why a multi-platform capability is one of many reasons why REAPER became a standard. Given how easy is to **export and re-import all the settings and customizations**, I can easily keep my REAPER versions on macOS and Windows in perfect sync.
 
-{% include pattern-figure.html image="/assets/images/daw-reaper-preferences.jpg" caption="Import and export REAPER’s configuration" width="1438" height="960" %}
+{% include pattern-figure.html image="/assets/images/daw-reaper-preferences.jpg" caption="Import and export REAPER’s configuration" width="768" height="513" %}
 
 ### Tracks
 
@@ -141,15 +143,15 @@ It’s a different metaphor, and it leads to a _whole new workflow_. It’s beco
 
 There are several ways to **manipulate the signal flow** in REAPER. Each one serves a purpose depending on the situation. For instance, clicking the route icon in a track the following appears:
 
-{% include pattern-figure.html image="/assets/images/daw-reaper-routing-track.jpg" caption="The routing window from a track in REAPER" width="1416" height="536" %}
+{% include pattern-figure.html image="/assets/images/daw-reaper-routing-track.png" caption="The routing window from a track in REAPER" width="768" height="291" %}
 
 For **sends and returns**, I can either use the basic routing window pictured above, or drag the route icon from one track onto another: the cursor changes into a patch cable, symbolizing the connection.
 
-{% include pattern-figure.html image="/assets/images/daw-reaper-drag-send.jpg" caption="Create a send from one track to another by dragging the route icon (“IO” in my skin) to a track" width="1339" height="1206" %}
+{% include pattern-figure.html image="/assets/images/daw-reaper-drag-send.png" caption="Create a send from one track to another by dragging the route icon (“IO” in my skin) to a track" width="768" height="692" %}
 
 I can also select **multiple tracks** at once, hold SHIFT and drag from the same icon to re-route them all. Technically, all these actions create a bus/aux, but again, I don’t have to worry about it. I usually assign a custom color to my busses so that they’re easily recognizable to me, and work it out later. The fastest way to create a bus is to **create a folder**. It’s as easy as clicking the folder icon in the track: the ones below will indent and be instantly re-routed. Once a folder is created, a “shadow region” is generated at the top level, so that when the folder is collapsed its content is still visible.
 
-{% include pattern-figure.html image="/assets/images/reaper-folder.jpg" caption="A folder in REAPER, with its <em>shadow region</em>" width="2476" height="590" %}
+{% include pattern-figure.html image="/assets/images/daw-reaper-folder.png" caption="A folder in REAPER, with its <em>shadow region</em>" width="768" height="183" %}
 
 The **routing matrix** window can be used to apply elaborated signal flows to the whole song. As an example, I always send my mix to four groups (see: [Brauerizing](https://brauerizing.wordpress.com/)) depending on the material; these A to D groups feed a mix bus where I apply my top-level processing. Finally, it goes to the master output, where there are only meter readings. In addition, I have my external DAC for headphones, routed to output 7-8 of my interface. I can do all this _in seconds_, as demonstrated by Kenny Gioia in the following video:
 
@@ -159,11 +161,11 @@ The **routing matrix** window can be used to apply elaborated signal flows to th
 
 Similarly to Pro Tools, I can group tracks together, for mixing or editing. However, REAPER supports _temporary groups_ too, as Logic does. Select multiple tracks, **quickly manipulate them** — volume, pan, solo, mute, etc — and unselect to go back to normal. It works in the track panel as well as in the mixer, and it’s awesome. Same as for the routing, there is a **grouping matrix** window, where more complex connections can be applied quickly to the entire project.
 
-{% include pattern-figure.html image="/assets/images/daw-reaper-grouping-matrix.jpg" caption="REAPER grouping matrix" width="1442" height="838" %}
+{% include pattern-figure.html image="/assets/images/daw-reaper-grouping-matrix.png" caption="REAPER grouping matrix" width="768" height="466" %}
 
 ___
 
-In **[part 2](https://minutestomidnight.co.uk/daw-from-logic-to-pro-tools-to-reaper-part-2/)**, I’ll be discussing:
+In **[part 2](/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/)**, I’ll be discussing:
 
 4.  Customization
 5.  Community

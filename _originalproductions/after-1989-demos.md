@@ -15,7 +15,7 @@ description: "A companion to the concept album ’After 1989‘, ’Original Dem
 excerpt: "A companion to the concept album released in 2019, <em>Original Demos and Outtakes</em> is a <strong>rough and unpolished</strong> partial testimony of a different approach."
 toc: true
 featimage: true
-permalink: '/work/original-productions/after-1989-demos/'
+permalink: '/work/original-music-productions/after-1989-demos/'
 ---
 ## Release
 
@@ -23,7 +23,7 @@ permalink: '/work/original-productions/after-1989-demos/'
 
 ## Production notes
 
-The previous incarnation of the [concept album](/work/original-productions/after-1989/) was mostly instrumental, supported by a vast array of strings and a convoluted almost-silent narration. A vast amount of material had accumulated during the years, as the core of the concept shifted a few times along with a change of collaborators.
+The previous incarnation of the [concept album](/work/original-music-productions/after-1989/) was mostly instrumental, supported by a vast array of strings and a convoluted almost-silent narration. A vast amount of material had accumulated during the years, as the core of the concept shifted a few times along with a change of collaborators.
 
 ### Narration and theatrical idea
 

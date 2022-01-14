@@ -18,7 +18,9 @@ To start a direct conversation or ask for advice, I'm reachable on [**Telegram**
 
 <div class="d-flex justify-content-center my-5">{%- include navigation-social.html %}</div>
 
-<p class="small"><strong>What about the usual social media?</strong> While I had never opened accounts with TikTok and Snapchat, in the summer of 2020 <a href="/blog/escape-from-social-media/">I deleted</a> my Twitter, Reddit, Facebook, Instagram and WhatsApp.</p>
+<div class="alert alert-warning" role="alert">
+  <p class="fs-6">⚠️ <strong class="text-uppercase">What about the usual social media?</strong> While I had never opened accounts with TikTok and Snapchat, in the summer of 2020 <a href="/blog/escape-from-social-media/">I deleted</a> my Twitter, Reddit, Facebook, Instagram and WhatsApp.</p>
+</div>
 
 ## Newsletter
 

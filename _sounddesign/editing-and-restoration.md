@@ -16,14 +16,14 @@ skillset:
   - "iZotope RX"
   - "Soundtoys"
 description: "A selection of work where I enjoyed combining technical prowess and creativity: editing, restoration, drum replacing, noise removal and more."
-excerpt: "A selection of work where I enjoyed combining <strong>technical prowess and creativity</strong>: editing, restoration, drum replacing, noise removal and more."
+excerpt: "A selection of work where I enjoyed combining <strong>technical prowess and creativity</strong>: vocal transformation, editing, restoration, drum replacing, noise removal and more."
 toc: true
 featimage: false
 permalink: '/work/sound-design/editing-and-restoration/'
 ---
 ## Vocal transformation
 
-After the [demo stage of my album](/work/original-productions/after-1989-demos/) _After 1989_, I scrapped a song called _Niemandsland_, featuring a marvellous vocal performance by Rachel Goodman. Since its lyrics were critical for the concept, I repurposed them in the new lead single _Skinny Kid_. 
+After the [demo stage of my album](/work/original-music-productions/after-1989-demos/) _After 1989_, I scrapped a song called _Niemandsland_, featuring a marvellous vocal performance by Rachel Goodman. Since its lyrics were critical for the concept, I repurposed them in the new lead single _Skinny Kid_. 
 
 Despite **the two songs having different tonality and tempo**, I decided to salvage Rachel's parts as backing vocals and counterpoint to Dan Ecclestone's lead.
 
@@ -115,3 +115,11 @@ I love both **historical speeches and restoring audio**. This famous eulogy give
 <div class="text-center my-5 py-5">
   <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/contact/" title="Hire me"><span class="text-uppercase fs-4">🔗 <strong>Hire me</strong></span></a>
 </div>
+
+## Reviews
+
+> Simone is a gifted musician, producer and all round creative, with every project we have worked on being greatly improved by his talents. Impressive technical proficiency with various DAW’s (ProTools, Wavelab, RX) as well as the creative knowledge to craft with them what ever is required for the project. When working with Simone, his precise and detailed manor make him an excellent addition to any project or team.
+> <cite>— **Chris Pavey**, [Chris Pavey Mastering](https://chrispaveymastering.com){:target="_blank" rel="noopener"}</cite>
+
+> In the band I started, Simone was the most involved with regards to arrangement and dynamics. Using his fretless bass, he completely switched the mood of any given part. Simone and I have been working on my new releases, and it’s been an incredibly worthwhile experience. It’s great to have him with me to lead the production side and also to influence the arrangement. I’m really happy to have a producer that understands completely my process as a songwriter.
+> <cite>— **Callum Gardner**, [Singer-songwriter](https://callumgardnerofficial.com/)</cite>

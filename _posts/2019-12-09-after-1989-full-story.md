@@ -19,11 +19,16 @@ description: "A short chronicle of what I did to retrace my grandfather's steps 
 excerpt: "I went back to Berlin, retracing my grandfather's steps in Sachsenhausen concentration camp. In the process, I wrote a concept album."
 canonical: 'https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e'
 ---
+{% include pattern-figure.html image="/assets/images/full-story-featured.jpg" width="1024" height="683" %}
+
 ### A real-life story of imprisonment and liberty, between two wars and three generations.
 
 <p class="lead">{{ page.excerpt }}</p>
 
-**Note**: this article was first [published on Medium](https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e){:target="_blank" rel="noopener"}.
+<div class="alert alert-warning" role="alert">
+  <p class="fs-6">⚠️ <strong class="text-uppercase">Note</strong> — this article was first <a href="https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e">published on Medium</a>
+  </p>
+</div>
 
 ## Roots
 
@@ -41,11 +46,11 @@ He wasn’t a Jew: the reason for his abduction was exclusively **due to politic
 
 All the inmates wore an upside-down **red triangle**, with the initial of the country of origin, sewn on the infamous white and blue striped clothes.
 
-{% include pattern-figure.html image="/assets/images/full-story-jacket.jpeg" caption="Prisoner’s Uniform with Red Triangle of Political Enemy - Majdanek Concentration Camp - Lublin, Poland. Photo: Adam Jones, Ph.D." width="1400" height="1866" %}
+{% include pattern-figure.html image="/assets/images/full-story-jacket.jpg" caption="Prisoner’s Uniform with Red Triangle of Political Enemy - Majdanek Concentration Camp - Lublin, Poland. Photo: Adam Jones, Ph.D." width="768" height="1024" %}
 
 A **skilled shoemaker**, the SS kept him in the _konzentrationslager_ working on military boots. Each new pair had to be “tested” by other inmates, forced to walk for hours on a concrete strip, close to the camp entrance. The guards often forced the prisoners to wear smaller sizes, which made their feet swell and the walk an agony. The strip is still there.
 
-{% include pattern-figure.html image="/assets/images/full-story-shoe-track.jpeg" caption="Shoe-testing track" width="1400" height="1050" %}
+{% include pattern-figure.html image="/assets/images/full-story-shoe-track.jpg" caption="Shoe-testing track" width="1024" height="768" %}
 
 > Wave upon wave  
 > of Faceless strangers  
@@ -89,19 +94,19 @@ We went to **Prague, Dresden and Berlin**, before visiting a few towns in West G
 > Naked sign of time  
 > <cite>— _Berlin 91_</cite>
 
-{% include pattern-figure.html image="/assets/images/full-story-berlin-bvg.jpeg" caption="My travel card in Berlin, 1991" width="1400" height="1050" %}
+{% include pattern-figure.html image="/assets/images/full-story-berlin-bvg.jpg" caption="My travel card in Berlin, 1991" width="1024" height="768" %}
 
 One late afternoon we went for a walk around **East Berlin**. Lots of Trabant parked around, a very few shops: the differences with the western side was striking. In the evening we stopped at a small fast-food, where we had bratwürst and chips.
 
 The owner was the only person there, so he decided to sit with us for a chat. We spent an hour listening to him passionately complaining about the changes they were incurring with the **dissolution of the** [**DDR**](https://en.wikipedia.org/wiki/East_Germany){:target="_blank" rel="noopener"}, and his fears of this seismic shift in what looked like an uncertain future. He even cried at the end, which caught us off guard. Right before we left, he patiently suggested a quick way for us to go back to **West Berlin**, because in his opinion that area of the Eastern side was not safe for youngsters at such a late hour.
 
-{% include pattern-figure.html image="/assets/images/full-story-wall91.jpeg" caption="Us in Berlin, summer 1991. Photo: Ornella Domenicali" width="1182" height="784" %}
+{% include pattern-figure.html image="/assets/images/full-story-wall91.jpg" caption="Us in Berlin, summer 1991. Photo: Ornella Domenicali" width="1024" height="679" %}
 
 ## Chasing ghosts
 
 It took me two decades to finally find the will to go to the bottom of this story. For years, I painstakingly collected pieces of information: small details that each one of us in the family might have heard, from private conversations with him or elsewhere. **The endpoint** was always Sachsenhausen. My father showed me **several artifacts** his dad brought home after the journey back from Germany. A spoon (pictured below), a plate with a swastika on the bottom and several tins and bowls.
 
-{% include pattern-figure.html image="/assets/images/full-story-spoon.jpg" caption="The spoon my grandfather brought home from Sachsenhausen" width="1400" height="788" %}
+{% include pattern-figure.html image="/assets/images/full-story-spoon.jpg" caption="The spoon my grandfather brought home from Sachsenhausen" width="1024" height="576" %}
 
 I went **back to Berlin** in 2011, a few months before I moved to the UK. It was a completely different beast, compared to my memories from two decades earlier. The fascination stayed with me for a while and didn’t wane until a few years later. I visited several times in the last eight years. More recently, I’ve filed requests for information: the first with the people responsible for the archives at the camp; later with the [**International Tracing Service**](https://arolsen-archives.org/en/){:target="_blank" rel="noopener"} in Germany.
 
@@ -109,7 +114,7 @@ The responses arrived within 24 months. This I received from the Gedenkstätte u
 
 > <code>I inform you that no documents have been found in our archives. Most of the files of the administration of concentration camp Sachsenhausen were destroyed by the SS before the evacuation of the camp. Among those were nearly all of prisoners’ files with exact personal data and photographs of the prisoners. Those records which have survived are kept in various archives, mainly in archives of the Russian Federation.</code>
 
-{% include pattern-figure.html image="/assets/images/full-story-todesmarsch.jpeg" caption="This plaque was erected by the Communist GDR government, to commemorate the Death March undertaken by the prisoners of the Sachsenhausen concentration camp under the Nazi government. The GDR placed emphasis on political prisoners over the other groups held at Sachsenhausen (Jews, Jehovah’s Witnesses, Homosexuals); hence the pictured prisoners are wearing red triangles (the symbol for political prisoners, particularly communists)." width="1400" height="933" %}
+{% include pattern-figure.html image="/assets/images/full-story-todesmarsch.jpg" caption="This plaque was erected by the Communist GDR government, to commemorate the Death March undertaken by the prisoners of the Sachsenhausen concentration camp under the Nazi government. The GDR placed emphasis on political prisoners over the other groups held at Sachsenhausen (Jews, Jehovah’s Witnesses, Homosexuals); hence the pictured prisoners are wearing red triangles (the symbol for political prisoners, particularly communists)." width="1024" height="682" %}
 
 ## Liberation
 
@@ -121,11 +126,11 @@ In my mind, the tannoy system calling each subsequent station was like reading a
 
 We saw there **the very same artifacts** he brought back with him: the spoon, the plate, the tin cans, and the wooden last he used to make. My family still own a few of them, and the ones found at the camp look identical. As a kid, I used to play with them in the courtyard.
 
-{% include pattern-figure.html image="/assets/images/full-story-cast.jpeg" caption="Wooden last found in July 2006 during renovation work in the former prisoner’s kitchen" width="1400" height="1050" %}
+{% include pattern-figure.html image="/assets/images/full-story-cast.jpg" caption="Wooden last found in July 2006 during renovation work in the former prisoner’s kitchen" width="1024" height="768" %}
 
 To find **the same familiar objects** I’ve had in my house for so long, in what is now a memorial and a museum, was horrific. Walking around the concentration camp and see the barracks, the medical facilities, the execution trench, the gallows, the ovens, was a challenging task. Yet, I still can’t fathom what his days could have been like, back then. Even the food, which is something he described in detail, matched with what is represented at the museum.
 
-{% include pattern-figure.html image="/assets/images/full-story-spoon-original.jpeg" caption="A spoon exhibited at Sachsenhausen" width="1399" height="1866" %}
+{% include pattern-figure.html image="/assets/images/full-story-spoon-original.jpg" caption="A spoon exhibited at Sachsenhausen" width="768" height="1024" %}
 
 In hindsight, I now understand why some of the objects he kept throughout the odyssey of travelling from Berlin to Italy — with the War still ravaging Europe — were **tins, bowls and a spoon**. From the description at the Museum:
 
@@ -161,6 +166,8 @@ In the **summer of 1988**, I was reading a comic book, when my granddad went to 
 
 The car attracted my attention because it was the same model used by [Russel Oakes in the film _The Day After_](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwi41qbavojmAhVCzIUKHdJsD_MQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.imcdb.org%2Fv035046.html&psig=AOvVaw3ugOhsc-ohGHkicCLN2TNP&ust=1574878754570671){:target="_blank" rel="noopener"}. I checked the back and noticed the familiar white oval sticker with a “D” letter. Plenty of tourists from West Germany used to come to our seaside town for the holidays. An hour later, an elderly couple arrived. My granddad jumped up and walked straight towards them. He started shouting in **perfect German** to the guy, who was quite tall and looked sturdy to me. The man, which I estimated was around the same age as my grandpa, stood still, nodding, _without saying a single word_. After a full minute of **ranting and finger-pointing** towards them, the couple got in the Volvo and quietly left. Amazed by that performance, I approached my grandfather, who was finally able to open the little gate and welcome his customers. I asked, **“what did you tell him?”** His response was: “_he knows_”.
 
-{% include pattern-figure.html image="/assets/images/full-story-grandfather.jpg" caption="My grandfather, working outside his shop in the summer. Some of the objects visible on the crate came from Germany" width="2000" height="1410" %}
+{% include pattern-figure.html image="/assets/images/full-story-grandfather.jpg" caption="My grandfather working outside his shop in the summer. Some of the objects visible on the crate came from Germany" width="1024" height="722" %}
 
-<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>
+<div class="text-center my-5 py-5">
+  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/original-music-productions/after-1989/" title="Read the case study about the album"><span class="text-uppercase fs-4">🔗 <strong class="ps-1">Read the case study</strong></span></a>
+</div>

@@ -13,10 +13,10 @@ skillset:
   - "mix"
   - "logic pro"
 description: "‘After 1989’ is a concept album based on the story of how a young man escaped Germany in 1945, while his grandson made the other way round, looking for answers that he could only find in 2017."
-excerpt: "30 years after the fall of the Berlin Wall, a real-life tale of imprisonment and liberty."
+excerpt: "30 years after the fall of the Berlin Wall, a real-life tale of imprisonment and liberty: how a grandfather escaped hell during WWII while the grandson retraced his steps."
 toc: true
 featimage: true
-permalink: '/work/original-productions/after-1989/'
+permalink: '/work/original-music-productions/after-1989/'
 ---
 ## The story
 
@@ -56,7 +56,7 @@ _After 1989_ can also be found on:
 
 ## Production notes
 
-Mid 2017: after [completing the demos](/work/original-productions/after-1989-demos/) using Propellerhead's Reason, my friend and music partner Paolo left the project and the country. Following the end of such a long-term professional relationship, I decided to take some time and focus on graduating as a **master engineer at Berklee**. I then spent most of 2018 working as a mix engineer and producer for clients in the UK and the US, including [performing in a dozen of live concerts](/blog/live-shows/) around the south of England.
+Mid 2017: after [completing the demos](/work/original-music-productions/after-1989-demos/) using Propellerhead's Reason, my friend and music partner Paolo left the project and the country. Following the end of such a long-term professional relationship, I decided to take some time and focus on graduating as a **master engineer at Berklee**. I then spent most of 2018 working as a mix engineer and producer for clients in the UK and the US, including [performing in a dozen of live concerts](/blog/live-shows/) around the south of England.
 
 At the end of the year, as the 30th anniversary of the fall of the Berlin Wall was approaching, I found myself alone with a project I've been working on for a long time. Surprisingly, this gave me a decisive push towards **revising the whole concept**. Even before Paolo left, I'd been unhappy about the creative direction for a while, so at the start of 2019 I drafted a new synopsis with a simpler set of songs and started putting together a new group of collaborators.
 
@@ -140,7 +140,7 @@ At the time, I chose **CD Baby** for digital distribution. As a member of PRS an
 > <cite>— [**IndieRepublik Berlin**](https://indierepublik.com/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/){:target="_blank" rel="noopener"}</cite>
 
 <div class="mt-4 pt-3 text-center">
-  <a class="btn btn-lg btn-m2m btn-m2m-cta" href="/work/original-productions/after-1989-reviews/" title="Read all the reviews"><span class="small initialism">Read all the reviews</span></a>
+  <a class="btn btn-lg btn-m2m btn-m2m-cta" href="/work/original-music-productions/after-1989-reviews/" title="Read all the reviews"><span class="small initialism">Read all the reviews</span></a>
 </div>
 
 ## Credits

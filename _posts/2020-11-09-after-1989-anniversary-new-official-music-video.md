@@ -16,7 +16,7 @@ excerpt: "A year ago today, on the 30th anniversary of the fall of the Berlin Wa
 ---
 <p class="lead">{{ page.excerpt }}</p>
 
-To celebrate the first anniversary of [the release](/work/original-productions/after-1989/), I published the 5th official video from the album, on my [YouTube channel](https://www.youtube.com/channel/UCXO3ZbalCLwCZwHk_UkDBHg){:target="_blank" rel="noopener"}. The song is _The Logic_.
+To celebrate the first anniversary of [the release](/work/original-music-productions/after-1989/), I published the 5th official video from the album, on my [YouTube channel](https://www.youtube.com/channel/UCXO3ZbalCLwCZwHk_UkDBHg){:target="_blank" rel="noopener"}. The song is _The Logic_.
 
 {% include pattern-video.html id="r9NyAYXOnyk" %}
 
@@ -24,7 +24,7 @@ To celebrate the first anniversary of [the release](/work/original-productions/a
 
 31 years ago East Germany opened the Berlin Wall, symbolising the end of decades of Cold War between East and West. This song depicts the starting point, the dark days of August 1961 when Berlin was cut in half. It’s also my homage to a brother, Michele, who played the drums in the song. I lost him around the same day, almost twenty years ago.
 
-<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>
+<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-music-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>
 
 ## Credits
 

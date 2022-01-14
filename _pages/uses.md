@@ -1,55 +1,14 @@
 ---
-layout: page
+layout: uses
 title: 'What I use'
 date: '2021-11-08 10:54:03'
 last_modified_at: '2021-11-08 10:54:06'
 description: "All the info and specifics of the equipment I use."
+excerpt: 'Following an idea by <a href="https://wesbos.com/uses" target="_blank" rel="noreferrer noopener">Wes Bos</a>, here’s any info about the specifics of the equipment I use. Unlike Wes, I don’t use affiliate links, so whatever the product, find it at your preferred retailer.'
 permalink: '/uses/'
+toc: true
 ---
-<p class="lead">
-Following an idea by <a href="https://wesbos.com/uses" target="_blank" rel="noreferrer noopener">Wes Bos</a>, here’s any info about the specifics of the equipment I use. Unlike Wes, I don’t use affiliate links, so whatever the product, find it at your preferred retailer.
-</p>
-
-`Last update:` 2021-11-15
-
----
-
-**Table of Contents**
-
-<!-- MarkdownTOC -->
-
-- Hardware
-  - Workstation
-  - Instruments
-  - Audio interface
-  - Speakers and headphones
-  - Controllers
-  - Recorder and microphones
-  - eReader
-  - Mobile device
-- Software
-  - Operating system
-  - Digital Audio Workstation
-  - Audio editor
-  - Audio software instruments
-  - Audio processing plug-ins
-  - Game audio
-  - Audio accessories
-  - Text editors and terminal
-  - Internet and communication
-  - Image manipulation
-  - Office and Desktop publishing
-  - RSS reader
-  - Task management
-  - Messaging
-  - Music player
-  - Video player
-  - Utilities
-  - Cloud sync
-  - Backup
-  - Update policy
-
-<!-- /MarkdownTOC -->
+Last update: <kbd>2022-01-12 15:55:06</kbd>
 
 ## Hardware
 
@@ -237,4 +196,4 @@ I mentioned above how **I’m opposed to updates for the sake of it**. It means 
 
 Brilliant examples come from [Cockos Incorporated](https://cockos.com/){:target="_blank" rel="noopener"} (makers of Reaper) and [Sublime HQ Pty Ltd](https://www.sublimehq.com/){:target="_blank" rel="noopener"} (makers of Sublime Text). It’s likely not a coincidence that both companies have three to four employees. They *actually use* what they’re selling, therefore they can understand their users. Small entities with a decent and well thought business model, that doesn’t rip off customers and can move swiftly if needed. That’s the only kind I’m interested in. I’m more than happy to pay for their products, because I know I’ll be listened to.
 
-As another example, I **stopped caring about Logic updates** ever since Apple had decided to tie them to their insane and arbitrarily idiotic yearly cycle of forced OS “upgrades”. I’ve decided to stick to macOS Mojave, a 3+ years old system and this means I can’t have the [new Logic version](https://www.apple.com/logic-pro/specs/){:target="_blank" rel="noopener"}, which requires last year’s OS as a minimum. **Planned obsolescence** brought by a multi-trillion-dollar company is not my cup of tea 🖕.
+As another example, I **stopped caring about Logic updates** ever since Apple had decided to tie them to their insane and arbitrarily idiotic yearly cycle of forced OS “upgrades”. I’ve decided to stick to macOS Mojave, a 3+ years old system and this means I can’t have the [new Logic version](https://www.apple.com/logic-pro/specs/){:target="_blank" rel="noopener"}, which requires last year’s OS as a minimum. **Planned obsolescence** brought by a multi-trillion-dollar company is not my cup of tea.

@@ -14,11 +14,33 @@ Developed from scratch using:
 
 - [Jekyll 4](https://jekyllrb.com/)
 - <abbr title="Syntactically Awesome Style Sheets">[SASS](https://sass-lang.com/)</abbr>
+- [PostCSS](https://postcss.org/)
 - [Bootstrap 5](https://getbootstrap.com/)
-- [Node.js](https://nodejs.org/)
+- [Node](https://nodejs.org/)
 - [GitHub](https://github.com/)
 - Javascript search module by [David Darnes](https://github.com/daviddarnes)
 - Deployed to [Netlify](https://www.netlify.com/)
+
+## Performance
+
+<table class="table mt-4 mb-5">
+  <thead>
+    <tr class="table-dark">
+      <th scope="col" class="align-top text-center text-uppercase fw-bold"><strong>Code validation</strong></th>
+      <th scope="col" class="align-top text-center text-uppercase fw-bold"><strong>Google score</strong></th>
+      <th scope="col" class="align-top text-center text-uppercase fw-bold"><strong>Speed index</strong></th>
+      <th scope="col" class="align-top text-center text-uppercase fw-bold"><strong>Page weight</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="text-center fs-3">✅ <a href="https://validator.w3.org/nu/?doc=https%3A%2F%minutestomidnight.co.uk%2F" target="_blank" rel="noopener">valid</a></td>
+      <td class="text-center fs-3">100</td>
+      <td class="text-center fs-3 fw-bold">0.7 seconds</td>
+      <td class="text-center fs-3">407 kb</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Accessibility
 
@@ -28,16 +50,6 @@ Developed from scratch using:
 ## Sustainability
 
 Only `0.20g of CO2` is produced every time someone visits the homepage. Cleaner than `85%` of [web pages tested](https://www.websitecarbon.com/website/minutestomidnight-co-uk/ "Visit Website carbon"){:target="_blank" rel="noopener"}.
-
-## Performance
-
-- ✅ Valid markup code for <abbr title="World Wide Web Consortium">W3C</abbr> on [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%minutestomidnight.co.uk%2F){:target="_blank" rel="noopener"}.
-
-- ✅ [Pagespeed benchmark](https://developers.google.com/speed/pagespeed/insights/?url=minutestomidnight.co.uk){:target="_blank" rel="noopener"} score: `100`.
-- ✅ [GTmetrix](#) performance report:
-
-    - Grade: `A (100% performance, 99% structure)`
-    - Fully loaded time: `748 milliseconds`
 
 ## Copyright
 

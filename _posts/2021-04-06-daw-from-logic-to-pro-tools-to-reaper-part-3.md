@@ -20,7 +20,7 @@ excerpt: "How REAPER improved my music workflow, part 3: open architecture, deve
 ---
 <p class="lead">{{ page.excerpt }}</p>
 
-In [**part 1**](/daw-from-logic-to-pro-tools-to-reaper-part-1/) & [**part 2**](/daw-from-logic-to-pro-tools-to-reaper-part-2/) I discussed:
+In [**part 1**](/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/) & [**part 2**](/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/) I discussed:
 
 1.  Cost
 2.  Multi-platform
@@ -37,7 +37,7 @@ Dan Worrall’s series also confirmed the **agile** way the software is maintain
 
 In a video about **ReaComp** (stock compressor plug-in), he pointed out a slight defect in the range of a slider. This is what happened, just **a week later**:
 
-{% include pattern-figure.html image="/assets/images/dan-worrall-reaper-comp.jpg" caption="REAPER compressor received a prompt update after a minor defect was pointed out on YouTube" width="1280" height="925" %}
+{% include pattern-figure.html image="/assets/images/dan-worrall-reaper-comp.jpg" caption="REAPER compressor received a prompt update after a minor defect was pointed out on YouTube" width="768" height="555" %}
 
 Updates and fixes are relased regularly. This allowed me to safely upgrade my MacBook Pro to **macOS 11.2 Big Sur**, without worrying about compatibility: all my third-party plug-ins and audio interface drivers were already supported for some time.
 
@@ -127,7 +127,13 @@ It’s an unbelieavably **powerful, fast and flexible piece of software**, I reg
 
 #### Bonus: other software
 
-I still fire up Logic for its virtual instruments, especially for pure sound design. I do plan to try **REAPER and Logic (or Reason) in sync**: if the ventilation system of my machine doesn’t catch fire, I’d like to have the opportunity. For anything related to restoration, advanced audio editing and clean-up I set [iZotope RX](https://www.izotope.com/en/products/rx.html){:target="_blank" rel="noopener"} as my **default external editor**. The workflow is: `right-click on an audio region → edit in external editor → fix it in RX → save it and go back to REAPER` → done.
+I still fire up Logic for its virtual instruments, especially for pure sound design. I do plan to try **REAPER and Logic (or Reason) in sync**: if the ventilation system of my machine doesn’t catch fire, I’d like to have the opportunity. For anything related to restoration, advanced audio editing and clean-up I set [iZotope RX](https://www.izotope.com/en/products/rx.html){:target="_blank" rel="noopener"} as my **default external editor**. The workflow is:
+
+1. <kbd>right-click on an audio region</kbd>
+2. <kbd>edit in external editor</kbd>
+3. <kbd>fix it in RX</kbd>
+4. <kbd>save it and go back to REAPER</kbd>
+5. <kbd>done</kbd>
 
 ---
 

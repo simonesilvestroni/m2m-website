@@ -14,11 +14,11 @@ excerpt: 'The process to create name and logo for my freelance business. My bran
 ---
 <p class="lead">{{ page.excerpt }}</p>
 
-I didn’t leave [the company I co-founded](http://uifarm.co.uk/){:target="_blank" rel="noopener"} and co-directed for five years out of some form of frustration. Rather, I wanted also to pursue (once again) my other passion: _music_. Name and logo were my first steps into establishing my brand presence.
+I didn’t leave [the company I co-founded](https://web.archive.org/web/20180314165034/http://uifarm.co.uk/){:target="_blank"} and co-directed for five years out of some form of frustration. Rather, I wanted also to pursue (once again) my other passion: _music_. Name and logo were my first steps into establishing my brand presence.
 
 ## Roots
 
-Last year I started writing and producing a **theatrical concept** called [_After 1989_](/work/original-productions/after-1989/). Besides the music, what I wanted most was to tell a story, both personal and collective. I’ve decided to go down a similar path, establishing a connection between my work activity and my story. It was the foundation for Minutes to Midnight’s name and logo.
+Last year I started writing and producing a **theatrical concept** called [_After 1989_](/work/original-music-productions/after-1989/). Besides the music, what I wanted most was to tell a story, both personal and collective. I’ve decided to go down a similar path, establishing a connection between my work activity and my story. It was the foundation for Minutes to Midnight’s name and logo.
 
 I was born during the early 1970s **in Italy**, a country at the forefront of what Churchill called the _iron curtain_. This carried features like having a family who endured World War II, or spending my first two decades in the undeclared conflict that went down to history as _Cold War_. The **fear of a looming military exchange** marked my whole upbringing, to a point when the idea of running to a _fallout shelter_ was considered normal.
 

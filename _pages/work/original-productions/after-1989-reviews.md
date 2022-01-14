@@ -13,9 +13,9 @@ tags:
   - "reviews"
   - "case study"
 description: "A collection in-depth analysis and reviews gathered from Bandcamp, music blogs, podcasts and social media."
-excerpt: 'This page collects <strong>three in-depth analysis</strong> of <a href="/work/original-productions/after-1989/"><em>After 1989</em></a>, written by Rosa Nadine Xochimilco Sánchez, IndieRepublik (Berlin) and Angry Baby, followed by <strong>reviews</strong> gathered from Bandcamp, music blogs, podcasts and social media.'
+excerpt: 'This page collects <strong>three in-depth analysis</strong> of <a href="/work/original-music-productions/after-1989/"><em>After 1989</em></a>, written by Rosa Nadine Xochimilco Sánchez, IndieRepublik (Berlin) and Angry Baby, followed by <strong>reviews</strong> gathered from Bandcamp, music blogs, podcasts and social media.'
 toc: true
-permalink: '/work/original-productions/after-1989-reviews/'
+permalink: '/work/original-music-productions/after-1989-reviews/'
 ---
 ## In-depth reviews
 

@@ -16,7 +16,7 @@ description: "My upcoming 5-songs album is an autobiographical rumination about 
 excerpt: 'My <strong>upcoming 5-songs album</strong> is an autobiographical rumination about migration in Europe in a time of populism. It’s going to be made of two remixes plus three originals.'
 toc: true
 featimage: true
-permalink: '/work/original-productions/the-die-is-cast/'
+permalink: '/work/original-music-productions/the-die-is-cast/'
 ---
 ## Release
 

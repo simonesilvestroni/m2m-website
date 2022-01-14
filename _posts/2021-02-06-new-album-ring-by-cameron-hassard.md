@@ -16,7 +16,7 @@ excerpt: "<em>Rings</em> is the debut album from Berlin-based recording artist a
 ---
 <p class="lead">{{ page.excerpt }}</p>
 
-It’s Saturday, time for some new music. I’ve been following the online magazine **Indierepublik** (formerly <em>Indie Berlin</em>) for a while now, even from before they wrote a [really good review for _After 1989_](/work/original-productions/after-1989/). They caught my attention with an [article they published](https://www.indierepublik.com/music/cameron-hassard-releases-his-debut-mini-album-rings-and-it-packs-a-punch/){:target="_blank" rel="noopener"} a couple of days ago, a review for the new album by **Cameron Hassard**, titled _Rings_.
+It’s Saturday, time for some new music. I’ve been following the online magazine **Indierepublik** (formerly <em>Indie Berlin</em>) for a while now, even from before they wrote a [really good review for _After 1989_](/work/original-music-productions/after-1989/). They caught my attention with an [article they published](https://www.indierepublik.com/music/cameron-hassard-releases-his-debut-mini-album-rings-and-it-packs-a-punch/){:target="_blank" rel="noopener"} a couple of days ago, a review for the new album by **Cameron Hassard**, titled _Rings_.
 
 > Cameron Hassard’s smouldering yet poetic vocals guide you through his sometimes ethereal, sometimes groovy, sometimes dark tunes.
 > 

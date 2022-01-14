@@ -11,7 +11,9 @@ layout: default
     <a class="u-url h-card visually-hidden" href="{{ site.url }}{{ page.url }}">Permalink</a>
   </div>
   <div class="e-content">
+    {%- unless page.url contains '/work/web-design/' -%}
     <p class="lead">{{ page.excerpt }}</p>
+    {%- endunless -%}
     {%- if page.toc == true -%}
     <section class="container my-5 pb-4">
       <div class="row">

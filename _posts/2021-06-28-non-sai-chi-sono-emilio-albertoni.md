@@ -32,7 +32,7 @@ The idea included an album of original songs and a companion EP of remixes of th
 
 Included in the new EP *Aperture*, *Non sai chi sono* is our remix, released on Bandcamp and other streaming platforms on June 28, 2021. 
 
-<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-productions/non-sai-chi-sono/">Read the <strong class="m2m-letter-spacing-w1">related case study</strong></a></p>
+<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-music-productions/non-sai-chi-sono/">Read the <strong class="m2m-letter-spacing-w1">related case study</strong></a></p>
 
 ## Credits
 

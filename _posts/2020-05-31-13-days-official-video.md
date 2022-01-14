@@ -27,7 +27,7 @@ excerpt: '1962. Kennedy announces proof of a build-up of Soviet missiles in Cuba
 
 {% include pattern-video.html id="v-B88EtXr9Q" %}
 
-<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>
+<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-music-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>
 
 ## Credits
 

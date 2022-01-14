@@ -16,7 +16,7 @@ description: "A brief recount of how Italian musician and producer Emilio Albert
 excerpt: 'In January 2020, before the pandemic struck, Gianluca Lo Presti, aka ‘Nevica’, invited Emilio Albertoni and myself to remix a song of his for an upcoming project.'
 toc: true
 featimage: true
-permalink: '/work/original-productions/non-sai-chi-sono/'
+permalink: '/work/original-music-productions/non-sai-chi-sono/'
 ---
 ## Release
 
