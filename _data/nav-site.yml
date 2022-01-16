@@ -1,6 +1,8 @@
-- name: Info
-  link: /
+- name: About
+  link: /about/
 - name: Work
   link: /work/
+- name: Blog
+  link: /blog/
 - name: Contact
   link: /contact/

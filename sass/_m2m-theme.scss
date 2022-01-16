@@ -10,9 +10,26 @@
 // ------------------------------------------------ \\
 // $GENERAL
 // ------------------------------------------------ //
-html {
-  border-top: 0.3rem solid gray-700;
+// html {
+//   border-top: 0.3rem solid gray-700;
+// }
+body {
+  background: transparent url(/assets/images/watercolor.png) no-repeat top center;
 }
+
+
+// ------------------------------------------------ \\
+// $LAYOUT
+// ------------------------------------------------ //
+
+.m2m-site-header {
+  background: rgba($background-l-80, 0.7);
+
+  @include media-breakpoint-up(md) {
+    min-height: 100vh;
+  }
+}
+
 
 
 // ------------------------------------------------ \\
@@ -49,57 +66,29 @@ h4 {
 // ------------------------------------------------ //
 
 /* purgecss start ignore */
-.navigation-main {
-  @include media-breakpoint-down(md) {
-    position: fixed;
-    z-index: 9000;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    width: 100%;
-    @include font-size($font-size-sm*0.80);
-    text-transform: uppercase;
-    padding: 0;
-    border-top: 4px solid $background-l-20;
-    background-color: $white;
-    ul {
-      @include list-unstyled();
-      margin: 0;
-      padding: 0;
-    }
-    li {
-      display: inline-block;
-      width: 25%;
-      margin-right: -4px !important;
-      padding: 0;
-      border-left: 1px solid $background-l-30;
-      &:first-child {
-        border-left: 0;
-      }
-    }
-    a {
-      display: block;
-      color: $background-d-70;
-      padding: $spacer*0.75 0;
-      width: 100%;
-      &:hover {
-        color: $background-d-50;
-        background-color: $background-l-80;
-      }
-    }
-  }
+.nav-small {
+  display: block;
+  margin: $spacer auto;
+  text-align: center;
+  background-color: $background-d-10;
 
-  @include font-size($font-size-lg*1.25);
-
-  ul {
-    @include list-unstyled();
-  }
-
-  a {
+  li {
     display: inline-block;
+    padding: 0 4px;
+  }
+
+  @include media-breakpoint-up(md) {
+    display: none;
+  }
+}
+.nav-large {
+  display: none;
+  @include media-breakpoint-up(md) {
+    display: block;
   }
 }
 /* purgecss end ignore */
+
 .m2m-current {
   color: $link-d-40;
 }
@@ -174,6 +163,7 @@ cite {
   font-family: $font-family-base;
   display: block;
   font-style: normal;
+  font-weight: 700;
   text-indent: 0;
   margin-top: $spacer*0.5;
 }
@@ -189,17 +179,18 @@ cite {
   @extend .m2m-transition-txtdec-03s;
   color: $link-color;
   text-decoration-line: underline;
-  text-decoration-color: $link-decoration;
-  text-decoration-thickness: 4px;
+  // text-decoration-color: $link-decoration;
+  // text-decoration-thickness: 4px;
 
   &:hover {
     color: $link-hover-color;
     text-decoration-color: $link-hover-decoration;
+    text-decoration-thickness: 3px;
   }
 }
 .m2m-link-hover:hover {
-  text-decoration-line: underline;
-  text-decoration-color: #b8d7dd;
+  // text-decoration-line: underline;
+  // text-decoration-color: $link-hover-color;
   text-decoration-thickness: 3px;
 }
 // Tag & cats results link in search page + 404 page
@@ -542,6 +533,7 @@ hr {
   height: 160px;
 }
 
+
 // ------------------------------------------------ \\
 // $LISTS
 // ------------------------------------------------ //
@@ -593,24 +585,6 @@ hr {
 
 
 // ------------------------------------------------ \\
-// $FOOTER
-// ------------------------------------------------ //
-
-.m2m-footer-wrapper {
-  background: rgba($background-l-30, .2);
-  flex-shrink: 0;
-}
-.m2m-footer-wrapper nav a {
-  &:first-child {
-    padding-left: 0 !important;
-  }
-  &:last-child {
-    padding-right: 0 !important;
-  }
-}
-
-
-// ------------------------------------------------ \\
 // $BUTTONS
 // ------------------------------------------------ //
 
@@ -618,7 +592,7 @@ hr {
 .btn-m2m {
   @extend .m2m-transition-bg-01s;
   color: $white;
-  background-color: $heading-l-10;
+  background-color: $heading-l-50;
 
   &:hover {
     color: $white;
@@ -631,11 +605,13 @@ hr {
   @extend .m2m-fw-black;
   background-color: $link-l-60 !important;
   color: $black;
-  border-bottom: 2px solid $link-l-20;
+  border-bottom: 4px solid $link-l-20;
+  border-right: 2px solid $link-l-20;
 
   &:hover {
     background-color: $link-d-60 !important;
-    border-bottom: 2px solid transparent;
+    border-bottom: 4px solid transparent;
+    border-right: 2px solid transparent;
     text-shadow: none;
   }
 }
@@ -755,13 +731,4 @@ mark {
     border-radius: 1.5rem 0.5rem 1.2rem 0.7rem;
     background-image: linear-gradient(-100deg, rgba(255,224,0,0.1), rgba(255,224,0,0.5) 95%, rgba(255,224,0,0.2));
   }
-}
-
-
-// ------------------------------------------------ \\
-// $GUESTBOOK
-// ------------------------------------------------ //
-
-.m2m-guestbook-entry {
-  background: rgba($background-l-30, .3);
 }

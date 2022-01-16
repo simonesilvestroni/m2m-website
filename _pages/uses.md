@@ -63,7 +63,7 @@ Since I ditched the iPhone, an almost 3-year-old **Redmi Note 7 Pro** by Xiaomi 
 
 ### Operating system
 
-As a **system-agnostic** I either use macOS, Windows or Linux, depending on the task. I’m both interested in experimentation and [*opposed to updates for the sake of it*](#updates-policy), therefore, I use what I think it’s the best for me. Right now it’s macOS Mojave 10.14.6 and Windows 11. I have a series of Linux live dongles: Ubuntu, Kali and a few others.
+As a **system-agnostic** I either use macOS, Windows or Linux, depending on the task. I’m both interested in experimentation and [*opposed to updates for the sake of it*](#update-policy), therefore, I use what I think it’s the best for me. Right now it’s macOS Mojave 10.14.6 and Windows 11. I have a series of Linux live dongles: Ubuntu, Kali and a few others.
 
 ### Digital Audio Workstation
 

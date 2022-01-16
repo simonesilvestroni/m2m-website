@@ -22,7 +22,7 @@ excerpt: "I watched this amazing video interview, probably the best one I’ve w
 
 > Susan Rogers holds a doctoral degree in experimental psychology from McGill University (2010). Prior to her science career, Susan was a multiplatinum-earning record producer, mixer, engineer, and audio technician.
 <br><br> 
-> She is best known for her work with **Prince** during his peak creative period (1983-1987) but production/engineering/mix credits also include David Byrne, Barenaked Ladies, Geggy Tah, Nil Lara, Robben Ford, Tricky, Michael Penn, Jeff Black, and many more.
+> She is best known for her work with **Prince** during his peak creative period (1983-1987) but production, engineering, mix credits also include David Byrne, Barenaked Ladies, Geggy Tah, Nil Lara, Robben Ford, Tricky, Michael Penn, Jeff Black, and many more.
 <br><br>
 > She is currently a Professor in the departments of Music Production & Engineering and Liberal Arts at [Berklee College of Music, Boston](https://www.berklee.edu/){:target="_blank" rel="noopener"}, where she teaches psychoacoustics, record production and analog recording techniques.
 
@@ -33,10 +33,6 @@ I’ve listened to her in awe. In particular, regarding two points:
 - The importance of using panning to make the most of our perception of music, by exploiting **the different way our brain processes sounds**. I love how both Pensado and Trawick reacted to it.
 - The crucial role that _non-musicians producers_ can have on the global vision of a song.
 
-I strongly advise you to watch the entire interview — it’s slightly 45 minutes, while the ‘core’ of the discussion is probably around half an hour.
-
-<br>
-
-Skip to around `3'08"` for the proper content to start.
+I strongly advise you to watch the entire interview — it’s slightly 45 minutes, while the ‘core’ of the discussion is probably around half an hour. Skip to around `3'08"` for the proper content to start.
 
 {% include pattern-video.html id="AJExXyVSdUs" %}

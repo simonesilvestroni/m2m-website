@@ -1,17 +1,19 @@
 {%- include site-head.html %}
 <body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
-  <main>
-    <div class="container-lg">
-      <div class="row gx-md-5">
-        <div class="col-md-5">
-          {% include site-header.html %}
-        </div>
-        <div class="col-md-7" id="m2m-content">
+  <main class="m2m-main" id="m2m-main">
+    <div class="row m2m-main-container">
+      <div class="col-md-4 m2m-site-header">
+        {% include site-header.html %}
+      </div>
+      <div class="col-md-8" id="m2m-content">
+        <div class="container px-md-5">
           {{ content }}
         </div>
       </div>
     </div>
   </main>
+  {% include site-footer.html %}
+<script type="text/javascript" src="{{ site.url }}/assets/js/dom-m2m-min.js"></script>
 {%- if page.url contains 'search' or page.url contains '404.html' -%}
 <script type="text/javascript" src="{{ site.url }}/assets/js/search-m2m.js"></script>
 <noscript>Please enable JavaScript to use the search form.</noscript>

@@ -8,8 +8,11 @@ sitemap: false
 permalink: /404.html
 ---
 {% include breadcrumbs.html %}
-<h1>{{ page.title }}</h1>
-<p class="lead">There seems to be nothing here.</p>  
-<img class="img-fluid d-block mx-auto my-4" src="/assets/images/404-vincent.png" alt="Vincent Vega confused" width="331" height="248">
-<p>You can go back to the <a href="/" title="go back to the Homepage">Homepage</a>, or search for something using the form below.</p>
-{% include pattern-search.html %}
+<article class="m2m-entry mb-5">
+  <h1>{{ page.title }}</h1>
+  {% include pattern-figure.html image="/assets/images/zed.png" width="1024" height="375" %}
+  <p class="lead">
+    <kbd>Not found!</kbd> Go back to the <a href="/" title="go back to the Homepage">homepage</a>, or search:
+  </p>
+  {% include pattern-search.html %}
+</article>

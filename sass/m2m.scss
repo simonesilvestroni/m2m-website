@@ -23,6 +23,11 @@
 // be found in _reboot.scss and _variables.scss
 // ------------------------------------------------ //
 
+@import "m2m-functions";
+@import "m2m-mixins";
+@import "m2m-typography";
+@import "m2m-palette";
+
 // Typography
 $enable-rfs: true;
 $headings-font-family: $font-family-base;
@@ -46,6 +51,7 @@ $blockquote-font-size: $lead-font-size;
 $code-color: #9E1F5E;
 $font-family-monospace: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 $font-family-code: $font-family-monospace;
+$kbd-bg: $heading-d-20;
 
 // Effects
 $enable-transitions: true;
@@ -53,26 +59,12 @@ $enable-shadows: false;
 $enable-gradients: false;
 $enable-negative-margins: true;
 
-// Image thumbs
-$thumbnail-padding:       .25rem;
-$thumbnail-bg:            transparent;
-$thumbnail-border-width:  0;
-$thumbnail-border-color:  $gray-300;
-$thumbnail-border-radius: 25rem;
-$thumbnail-box-shadow:    $box-shadow-sm;
-
-// M2M
-@import "m2m-functions";
-@import "m2m-mixins";
-@import "m2m-typography";
-@import "m2m-palette";
-
 // Links
-$link-color: $link-d-70;
-$link-decoration: $m2m-link-color-base;
-$link-shade-percentage: 20%;
-$link-hover-color: tint-color($link-color, $link-shade-percentage);
-$link-hover-decoration: tint-color($link-color, $link-shade-percentage);
+// $link-color: $link-d-70;
+// $link-decoration: $link-d-20;
+// $link-shade-percentage: 20%;
+// $link-hover-color: tint-color($link-color, $link-shade-percentage);
+// $link-hover-decoration: tint-color($link-color, $link-shade-percentage);
 
 // Navigation
 $nav-link-color: $link-color;

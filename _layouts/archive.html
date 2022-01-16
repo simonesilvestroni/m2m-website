@@ -3,10 +3,14 @@ layout: default
 ---
 {% include breadcrumbs.html %}
 
-<h1 class="text-center text-md-start mt-4 mt-md-0">{%- if page.type == "tag" -%}Tag: {% else -%}Category: {% endif %}{{ page.title | upcase }}</h1>
+<div class="h-entry m2m-entry">
 
-<section class="blogroll">
-{% for post in page.posts %}
-  {% include pattern-postblock.html %}
-{% endfor %}
-</section>
+  <h1 class="text-center text-md-start mt-4 mt-md-0">{%- if page.type == "tag" -%}Tag: {% else -%}Category: {% endif %}{{ page.title | upcase }}</h1>
+
+  <section class="blogroll" id="m2m-content">
+  {% for post in page.posts %}
+    {% include pattern-postblock.html %}
+  {% endfor %}
+  </section>
+
+</div>
