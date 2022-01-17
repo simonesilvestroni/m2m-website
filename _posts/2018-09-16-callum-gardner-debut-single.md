@@ -26,7 +26,7 @@ There was another highlight that evening. The opening act was a young singer-son
 
 > Sometimes things really do happen for a reason. It’s those coincidences that put you in a situation that just would never have happened otherwise. I was filling in last minute for a solo act opening at _Nambucca_ after a friend had kindly waved my name over to an independent promoter. Two people I was introduced to during that show went on to join my musical journey, and we are still in collaboration to this day.
 > 
-> <cite>— <strong>Callum Gardner</strong></cite>
+> <cite>— Callum Gardner</cite>
 
 We got in touch and started chatting. After a year or so, he asked me to be part of his new band. There was a **debut single** ready to produce and live gigs already planned.
 
@@ -36,7 +36,7 @@ We met at the SAE Studio in London to record the bass track for _Commit to the L
 
 > _Commit to the List_ was written at a very important time for me. I’d moved to London and was eager to make some waves within touching distance of the Thames. It’s still the opening song for my live shows today and went through quite a journey from pen & paper to mix & master.
 > 
-> <cite>— <strong>Callum Gardner</strong></cite>
+> <cite>— Callum Gardner</cite>
 
 ## Going live
 

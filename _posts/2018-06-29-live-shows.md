@@ -40,27 +40,27 @@ excerpt: 'A comprehensive list of the live shows I performed around England as a
   <tbody>
     <tr>
       <td>29 June</td>
-      <td><a href="https://nottinghillartsclub.com/" target="_blank" rel="noopener noreferrer">Notting Hill Arts Club</a>, <strong>London</strong></td>
+      <td><a href="https://nottinghillartsclub.com/" target="_blank" rel="noopener noreferrer">Notting Hill Arts Club</a>, London</td>
       <td><a href="https://flic.kr/p/2mK84As" target="_blank" rel="noopener noreferrer">Photo</a> (Flickr), <a href="https://youtu.be/pXi5-hiRKuM" target="_blank" rel="noopener noreferrer">Video</a> (YouTube)</td>
     </tr>
     <tr>
       <td>12 May</td>
-      <td><a href="https://www.dartmusicfestival.co.uk/" target="_blank" rel="noopener noreferrer"><strong>Dartmouth</strong> Music Festival</a>, (2<sup>nd</sup> set)</td>
+      <td><a href="https://www.dartmusicfestival.co.uk/" target="_blank" rel="noopener noreferrer">Dartmouth Music Festival</a>, (2<sup>nd</sup> set)</td>
       <td><a href="https://flic.kr/p/2mKcHVK" target="_blank" rel="noopener noreferrer">Photo</a> (Flickr)</td>
     </tr>
     <tr>
       <td>12 May</td>
-      <td><a href="https://www.dartmusicfestival.co.uk/" target="_blank" rel="noopener noreferrer"><strong>Dartmouth</strong> Music Festival</a>, (1<sup>st</sup> set), Royal Castle Hotel</td>
+      <td><a href="https://www.dartmusicfestival.co.uk/" target="_blank" rel="noopener noreferrer">Dartmouth Music Festival</a>, (1<sup>st</sup> set), Royal Castle Hotel</td>
       <td><a href="https://flic.kr/p/2mK9AiQ" target="_blank" rel="noopener noreferrer">Photo</a> (Flickr)</td>
     </tr>
     <tr>
       <td>6 April</td>
-      <td><a href="http://www.troubadourlondon.com/" target="_blank" rel="noopener noreferrer">The Trobadour</a>, <strong>London</strong></td>
+      <td><a href="http://www.troubadourlondon.com/" target="_blank" rel="noopener noreferrer">The Trobadour</a>, London</td>
       <td><a href="https://flic.kr/p/2mKbGDs" target="_blank" rel="noopener noreferrer">Photo</a> (Flickr)</td>
     </tr>
     <tr>
       <td>24 February</td>
-      <td><a href="https://www.colourshoxton.com/" target="_blank" rel="noopener noreferrer">Colours Hoxton</a>, <strong>London</strong></td>
+      <td><a href="https://www.colourshoxton.com/" target="_blank" rel="noopener noreferrer">Colours Hoxton</a>, London</td>
       <td><a href="https://flic.kr/p/2mKbKB6" target="_blank" rel="noopener noreferrer">Photo</a> (Flickr)</td>
     </tr>
   </tbody>
@@ -79,42 +79,42 @@ excerpt: 'A comprehensive list of the live shows I performed around England as a
   <tbody>
    <tr>
       <td>16 December</td>
-      <td><a href="https://www.theworldsend.co.uk/" target="_blank" rel="noopener noreferrer">The World's End</a>, <strong>London</strong></td>
+      <td><a href="https://www.theworldsend.co.uk/" target="_blank" rel="noopener noreferrer">The World's End</a>, London</td>
       <td><a href="https://flic.kr/p/2mK8mx3" target="_blank" rel="noopener noreferrer">Photo</a> (Flickr)</td>
     </tr>
     <tr>
       <td>6 October</td>
-      <td><a href="http://www.troubadourlondon.com/" target="_blank" rel="noopener noreferrer">The Trobadour</a>, <strong>London</strong></td>
+      <td><a href="http://www.troubadourlondon.com/" target="_blank" rel="noopener noreferrer">The Trobadour</a>, London</td>
       <td>—</td>
     </tr>
     <tr>
       <td>29 September</td>
-      <td><a href="https://www.theworldsend.co.uk/" target="_blank" rel="noopener noreferrer">The World's End</a>, <strong>London</strong></td>
+      <td><a href="https://www.theworldsend.co.uk/" target="_blank" rel="noopener noreferrer">The World's End</a>, London</td>
       <td><a href="https://flic.kr/p/2mK4o1s" target="_blank" rel="noopener noreferrer">Photo</a> (Flickr)</td>
     </tr>
     <tr>
       <td>27 August</td>
-      <td><a href="https://www.victoriousfestival.co.uk/" target="_blank" rel="noopener noreferrer">Victorious Festival</a>, <strong>Portsmouth</strong></td>
+      <td><a href="https://www.victoriousfestival.co.uk/" target="_blank" rel="noopener noreferrer">Victorious Festival</a>, Portsmouth</td>
       <td><a href="https://flic.kr/s/aHsmX7Lc4Y" target="_blank" rel="noopener noreferrer">Photo album</a> (Flickr)</td>
     </tr>
     <tr>
       <td>13 August</td>
-      <td><a href="http://www.thefinsbury.co.uk/" target="_blank" rel="noopener noreferrer">The Finsbury</a>, <strong>London</strong></td>
+      <td><a href="http://www.thefinsbury.co.uk/" target="_blank" rel="noopener noreferrer">The Finsbury</a>, London</td>
       <td><a href="https://flic.kr/p/2mK4x4h" target="_blank" rel="noopener noreferrer">Photo</a> (Flickr)</td>
     </tr>
     <tr>
       <td>19 July</td>
-      <td><a href="https://www.strongroombar.com/" target="_blank" rel="noopener noreferrer">Strongroom</a>, <strong>London</strong></td>
+      <td><a href="https://www.strongroombar.com/" target="_blank" rel="noopener noreferrer">Strongroom</a>, London</td>
       <td><a href="https://flic.kr/p/2mK9ZXo" target="_blank" rel="noopener noreferrer">Photo</a> (Flickr), <a href="https://youtu.be/VqOZbBRU-H8" target="_blank" rel="noopener noreferrer">Video</a> (YouTube)</td>
     </tr>
     <tr>
       <td>1 July</td>
-      <td><a href="http://www.fosstival.co.uk/" target="_blank" rel="noopener noreferrer">Fosstival</a>, <strong>Selborne</strong></td>
+      <td><a href="http://www.fosstival.co.uk/" target="_blank" rel="noopener noreferrer">Fosstival</a>, Selborne</td>
       <td><a href="https://flic.kr/p/2mKdgiQ" target="_blank" rel="noopener noreferrer">Photo</a> (Flickr)</td>
     </tr>
     <tr>
       <td>5 May</td>
-      <td><a href="https://www.centuryclub.co.uk/" target="_blank" rel="noopener noreferrer">Century Club</a>, <strong>London</strong></td>
+      <td><a href="https://www.centuryclub.co.uk/" target="_blank" rel="noopener noreferrer">Century Club</a>, London</td>
       <td><a href="https://www.flickr.com/photos/minutes2midnight/albums/72157720151491876" target="_blank" rel="noopener noreferrer">Photo album</a> (Flickr)</td>
     </tr>
   </tbody>

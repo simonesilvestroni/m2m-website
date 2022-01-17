@@ -11,8 +11,8 @@ permalink: '/work/'
 
 <section class="h-feed m2m-entry my-5 pb-3">
   <div class="card-group pb-3">
-    <div class="row row-cols-1 g-5">
-      <div class="col m2m-transition-opacity-03s">
+    <div class="row row-cols-1">
+      <div class="col mb-5 m2m-transition-opacity-03s">
         <div class="card h-100 pt-2 pb-3 px-3 m2m-transition-border-03s">
           <div class="card-body text-center">
             <h2 class="h1 pt-0 mt-0">Sound Design</h2>
@@ -23,7 +23,7 @@ permalink: '/work/'
           </div>
         </div>
       </div>
-      <div class="col m2m-transition-opacity-03s">
+      <div class="col mb-5 m2m-transition-opacity-03s">
         <div class="card h-100 pt-2 pb-3 px-3 m2m-transition-border-03s">
           <div class="card-body text-center">
             <h2 class="h1 mt-0">Web Design</h2>
@@ -54,11 +54,9 @@ permalink: '/work/'
 Here's a selection of the [**27 recommendations** I received on LinkedIn](https://www.linkedin.com/in/minutes2mid/).
 
 > What’s always impressed me about Simone is his attention to detail, which he demonstrates in every area of his work. Not only is he a prolific producer and bassist, but he easily comprehends and executes on the most abstract concepts across tech, audio, marketing, branding, and visual arts. When you work with Simone, everything is down, documented, and organised, which makes it very easy to work with him directly or in the context of a team.
-> <cite>— **Christopher Carvalho**, [Unlock Your Sound](https://unlockyoursound.com/){:target="_blank" rel="noopener"}</cite>
+> <cite>— Christopher Carvalho, [Unlock Your Sound](https://unlockyoursound.com/){:target="_blank" rel="noopener"}</cite>
 
 > My experience of working with Simone has always been very positive and enjoyable. Simone always takes a pragmatic and investigative approach to finding solutions for our needs and has very friendly and helpful attitude. His attention to detail makes him always deliver perfect coded products, saving us time and concerns on the web projects he develops.
-> <cite>— **Gabriele Rosati**, [UX and interaction design manager at UniCredit](https://www.linkedin.com/in/rosati/){:target="_blank" rel="noopener"}</cite>
+> <cite>— Gabriele Rosati, [UX and interaction design manager at UniCredit](https://www.linkedin.com/in/rosati/){:target="_blank" rel="noopener"}</cite>
 
-<div class="text-center my-5 py-5">
-  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/contact/" title="Hire me"><span class="text-uppercase fs-4">🔗 <strong>Hire me</strong></span></a>
-</div>
+{% include pattern-button-hire.html %}

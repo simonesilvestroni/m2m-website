@@ -7,7 +7,7 @@ description: 'Content.'
 permalink: '/about/'
 ---
 <p class="lead">
-  Minutes to Midnight is my online brand name. After 9 years in the UK, I’m currently freelancing in Milan. I’ve been keeping a <a class="fw-bold" href="/blog/"><strong>blog</strong></a> since 2002. Find everything through the <a class="fw-bold" href="/archive/"><strong>archives</strong></a>.
+  Minutes to Midnight is my online brand name. After 9 years in the UK, I’m currently freelancing in Milan. I’ve been keeping a <a href="/blog/"><strong>blog</strong></a> since 2002. Find everything through the <a href="/archive/"><strong>archives</strong></a>.
 </p>
 
 ## The brand: why Minutes to Midnight?

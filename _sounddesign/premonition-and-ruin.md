@@ -47,7 +47,7 @@ A year later, I ended up producing the band’s follow-up album [_From The Count
 ## Review
 
 > Simone mixed my band’s latest two albums. I worked closely with him during this process, using his Trello-based methodology to help sequence the work. Each song appeared as a series of tasks to be completed, checked and commented on. As a result, we were able to manage our time smoothly and efficiently. Creative ideas flowed back and forth. I’m looking forward to involving him in the next recordings!
-> <cite>— **Dan Ecclestone**, [Ember Rev](https://emberrev.bandcamp.com/)</cite>
+> <cite>— Dan Ecclestone, [Ember Rev](https://emberrev.bandcamp.com/)</cite>
 
 ## Credits
 
@@ -68,6 +68,4 @@ Mastered by Ian Shepherd.
   <sup>&copy;</sup> Dan Ecclestone 2018.
 </p>
 
-<div class="text-center my-5 py-5">
-  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/contact/" title="Hire me"><span class="text-uppercase fs-4">🔗 <strong>Hire me</strong></span></a>
-</div>
+{% include pattern-button-hire.html %}

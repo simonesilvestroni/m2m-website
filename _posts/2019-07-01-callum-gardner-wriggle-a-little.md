@@ -16,7 +16,7 @@ excerpt: 'The new single by singer-songwriter and multi-instrumentalist Callum G
 
 > <em>Wriggle a Little</em> describe the mental and physical struggle of a lonely introspective creative, looking for longevity and purpose in their work. The music and groove represents that bread trail of small successes—that momentum we all crave to prove we’re on the right track.
 > 
-> <cite>— <strong>Callum Gardner</strong></cite>
+> <cite>— Callum Gardner</cite>
 
 ## On Bandcamp
 

@@ -35,7 +35,7 @@ Gianluca asked us to choose a song to our liking and **produce a remix together*
 Then Covid arrived, wreaking havoc to everyone’s lives and projects. After a few months, and several chats between Emilio and I, we agreed he would start **drafting ideas in Logic** and send them over. I would then see his direction and decide how to interact with my own production.
 
 > I’ve been collaborating with Gianluca for twenty years, somehow picking up Simone’s baton right after he left Ravenna in the mid-Nineties. When we met last year, in a foggy wintry night, we couldn’t possibly know that a global pandemic was around the corner, nor that we would have worked together remotely, despite ironically living so close.
-> <cite>&mdash; **Emilio Albertoni**</cite>
+> <cite>&mdash; Emilio Albertoni</cite>
 
 {% include pattern-figure.html image="/assets/images/loto-studio.jpg" caption="Gianluca Lo Presti’s Loto studio, where Emilio and I used to work" width="1080" height="667" %}
 
@@ -48,7 +48,7 @@ I almost immediately decided to do a couple of things: first, write the bass par
 We wanted to make this a **dialogue**, where the original song and our remix approached the father-son relationship from different point of views.
 
 > We listened to the song at lenght, making an effort to understand its feelings, and this was arguably the most relevant technique we applied.
-> <cite>&mdash; **Emilio Albertoni**</cite>
+> <cite>&mdash; Emilio Albertoni</cite>
 
 ## Production notes
 
@@ -65,7 +65,7 @@ The spoken words of Gianluca’s father — **recorded by himself on tape** at t
 Emilio and I exchanged opinions about the rough mixes, efficiently collaborating to the editing until we both felt the song was complete. I then **mixed and mastered**. After starting the work in Logic, both the mix and the master were done in **Pro Tools**.
 
 > We strived to reach out to the core of the song — but also moving to a different territory — respectful of our different musical paths. Simone is outstanding at giving context to songs and laying down elegant credible bass lines. He built rhythmic parts, strenghtening and tying together the tension that I created with my guitars and synths.
-> <cite>&mdash; **Emilio Albertoni**</cite>
+> <cite>&mdash; Emilio Albertoni</cite>
 
 ## Credits
 

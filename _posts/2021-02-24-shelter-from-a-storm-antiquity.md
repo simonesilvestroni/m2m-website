@@ -29,7 +29,7 @@ Crafted by [Gerald](https://sessions.antiquity-music.com/track/shelter-from-a-st
 
 > I’m really digging this one. His style reminds me of Paul Webb from Talk Talk. No needless notes. Great tone and feel. Good work, brother.
 > 
-> <cite>— [**Leland Sklar**](https://en.wikipedia.org/wiki/Leland_Sklar){:target="_blank" rel="noopener"}</cite>
+> <cite>— [Leland Sklar](https://en.wikipedia.org/wiki/Leland_Sklar){:target="_blank" rel="noopener"}</cite>
 
 ## Production notes
 
@@ -41,7 +41,7 @@ I’ve asked the guys to let me know their feelings about **the process** that l
 > 
 > Since it has been finished, it has slowly grown on me. Like a child, you don’t know what you have created till it’s grown up.
 > 
-> <cite>— <strong>Gerald Duchene</strong></cite>
+> <cite>— Gerald Duchene</cite>
 
 > This song proved to be a really positive turning point for Gerald and I, having worked together on last year’s ’The Experience’ album. Despite having worked together effortlessly, a number of recent tunes hadn’t worked out quite as well and we were unsure how to proceed.
 > 
@@ -49,7 +49,7 @@ I’ve asked the guys to let me know their feelings about **the process** that l
 > 
 > With more heads came a real flow of ideas and all involved agreed: this is probably our finest yet.
 > 
-> <cite>— <strong>Dan Ecclestone</strong></cite>
+> <cite>— Dan Ecclestone</cite>
 
 > It’s always a good day in the studio when an Antiquity track is on the speakers, _Shelter From A Storm_ was no exception! The track already had so much life and vibrance to it in the mix, it was clear from the outset that no massive moves where needed from myself.
 > 
@@ -57,7 +57,7 @@ I’ve asked the guys to let me know their feelings about **the process** that l
 > 
 > That level of energy and sense of urgency that permeates the song needed to translate into the finished master. Respecting the detail but maintaining and enhancing the ‘punch’ was the path I walked with _Shelter From A Storm_.
 > 
-> <cite>— <strong>Chris Pavey</strong></cite>
+> <cite>— Chris Pavey</cite>
 
 ## Official video
 

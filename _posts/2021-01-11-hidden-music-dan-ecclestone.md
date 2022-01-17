@@ -21,7 +21,7 @@ A 6-songs vocals-driven delicate and powerful album, _Hidden Music_ is another b
 
 > I realised these six songs worked together both lyrically and musically after three albums with Ember Rev but these songs were conceived at and for the piano and wouldn’t work if reconfigured for different instruments. Also, I had little desire to perform live such intensely personal downtempo ruminations on family, fatherhood, status anxiety and the memory of ambition. So it became this: a solo album of music for headphones, music for contemplation, music that is, and has been for many years, hidden.
 > 
-> <cite>— <strong>Dan Ecclestone</strong></cite>
+> <cite>— Dan Ecclestone</cite>
 
 ## Video: _Approaching Silence_
 

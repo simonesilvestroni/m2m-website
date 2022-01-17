@@ -21,7 +21,7 @@ Angry Baby has been sharing new music from outstanding independent musicians for
 
 > Throughout _After 1989_, Simone uses archive material to accentuate the music and narrative, and the commentary speaks to our collective experiences of the last sixty years. Yet, you remain aware that the album is also a personal journey and one family’s history – the story and the music will stay with you long after the music finishes.
 > 
-> <cite>— [**Angry Baby**](http://www.angrybaby.co.uk/minutes-to-midnight-after-1989-a-trip-to-freedom/){:target="_blank" rel="noopener"}</cite>
+> <cite>— [Angry Baby](http://www.angrybaby.co.uk/minutes-to-midnight-after-1989-a-trip-to-freedom/){:target="_blank" rel="noopener"}</cite>
 
 Thanks so much to Jane and Deb from _Angry Baby_ for this album review. And thanks to [Christopher Carvalho](https://www.youtube.com/channel/UCFYW6EZMLLT0jIi0SJQeUiQ){:target="_blank" rel="noopener"} of Unlock Your Sound for another awesome feature about my album [_After 1989_](work/original-music-productions/after-1989/).
 

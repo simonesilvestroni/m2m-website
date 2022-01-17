@@ -112,14 +112,12 @@ I love both **historical speeches and restoring audio**. This famous eulogy give
   <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695948973%3Fsecret_token%3Ds-zaojZ&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 </div>
 
-<div class="text-center my-5 py-5">
-  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/contact/" title="Hire me"><span class="text-uppercase fs-4">🔗 <strong>Hire me</strong></span></a>
-</div>
+{% include pattern-button-hire.html %}
 
 ## Reviews
 
 > Simone is a gifted musician, producer and all round creative, with every project we have worked on being greatly improved by his talents. Impressive technical proficiency with various DAW’s (ProTools, Wavelab, RX) as well as the creative knowledge to craft with them what ever is required for the project. When working with Simone, his precise and detailed manor make him an excellent addition to any project or team.
-> <cite>— **Chris Pavey**, [Chris Pavey Mastering](https://chrispaveymastering.com){:target="_blank" rel="noopener"}</cite>
+> <cite>— Chris Pavey, [Chris Pavey Mastering](https://chrispaveymastering.com){:target="_blank" rel="noopener"}</cite>
 
 > In the band I started, Simone was the most involved with regards to arrangement and dynamics. Using his fretless bass, he completely switched the mood of any given part. Simone and I have been working on my new releases, and it’s been an incredibly worthwhile experience. It’s great to have him with me to lead the production side and also to influence the arrangement. I’m really happy to have a producer that understands completely my process as a songwriter.
-> <cite>— **Callum Gardner**, [Singer-songwriter](https://callumgardnerofficial.com/)</cite>
+> <cite>— Callum Gardner, [Singer-songwriter](https://callumgardnerofficial.com/)</cite>

@@ -134,10 +134,10 @@ At the time, I chose **CD Baby** for digital distribution. As a member of PRS an
 ## Reviews
 
 > Minutes to Midnight’s album is magical and haunting, giving the listener a way to both experience and reconcile the horrors and joys of the past. A journey of choices and consequences, a path of emotional growth. It is at once rock opera, gothic melancholy, family legend, and historical account, all blending together to create an album unlike any other.
-> <cite>— [**Rosa Nadine Sanchéz Xochimilco**](https://minutestomidnight.co.uk/after-1989-a-trip-to-freedom/after-1989-in-depth-review/), author</cite>
+> <cite>— [Rosa Nadine Sanchéz Xochimilco](/work/original-music-productions/after-1989-reviews/), author</cite>
 
 > The direct and immersive narrative allows history to speak for itself without being preachy or forced. The artist gives us a unique perspective of an outsider who manages to observe a great deal of pain without being directly subjected to it. Its themes are timely and human, and effortlessly connect with a modern audience. _After 1989_ is an immersive and interesting experiment in storytelling that will leave listeners meditating on its heavy themes.
-> <cite>— [**IndieRepublik Berlin**](https://indierepublik.com/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/){:target="_blank" rel="noopener"}</cite>
+> <cite>— [IndieRepublik Berlin](https://indierepublik.com/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/){:target="_blank" rel="noopener"}</cite>
 
 <div class="mt-4 pt-3 text-center">
   <a class="btn btn-lg btn-m2m btn-m2m-cta" href="/work/original-music-productions/after-1989-reviews/" title="Read all the reviews"><span class="small initialism">Read all the reviews</span></a>
@@ -227,50 +227,50 @@ Original sound effects recording, editing and historical samples restoration by 
 <br>
 Original sounds recorded in Berlin between 2017 and 2019 and Cambridge in 2019. All historical sound effects are in the public domain.
 
-<table class="table caption-top mt-4 mb-5">
-  <caption class="text-center text-uppercase"><strong>List of sound effects</strong></caption>
+<table class="table table-striped caption-top mt-4 mb-5">
+  <caption class="text-center text-uppercase fw-bold"><strong>List of sound effects</strong></caption>
   <tr>
-    <th><code>ALL SONGS</code></th>
+    <th width="190"><kbd>ALL SONGS</kbd></th>
     <td>Tannoy system of the S-Bahn 1 train from Central Berlin to Oranienburg (recorded in 2019).</td>
   </tr>
   <tr>
-    <th><code>Skinny Kid</code></th>
+    <th><kbd>Skinny Kid</kbd></th>
     <td>BBC radio announcement (April 1945).</td>
   </tr>
   <tr>
-    <th><code>'Little Boy'</code></th>
+    <th><kbd>'Little Boy'</kbd></th>
     <td>Harry Truman, TV speech (August 1945).</td>
   </tr>
   <tr>
-    <th><code>The Logic</code></th>
+    <th><kbd>The Logic</kbd></th>
     <td>John F. Kennedy, TV speech (December 1961); East German soldier screaming.</td>
   </tr>
   <tr>
-    <th><code>13 Days</code></th>
+    <th><kbd>13 Days</kbd></th>
     <td>John F. Kennedy, TV speech (October 1962); Adlai Stevenson, United Nations speech (October 1962).</td>
   </tr>
   <tr>
-    <th><code>Unter Den Linden</code></th>
+    <th><kbd>Unter Den Linden</kbd></th>
     <td>John F. Kennedy speech in Berlin (June 1963).</td>
   </tr>
   <tr>
-    <th><code>Love Field</code></th>
+    <th><kbd>Love Field</kbd></th>
     <td>Dallas radio live report from Love Field airport; Dallas police (November 1963).</td>
   </tr>
   <tr>
-    <th><code>Requiem</code></th>
+    <th><kbd>Requiem</kbd></th>
     <td>Robert F. Kennedy eulogy for Martin Luther King, Indianapolis (April 1968).</td>
   </tr>
   <tr>
-    <th><code>The Day Before</code></th>
+    <th><kbd>The Day Before</kbd></th>
     <td>Children in a playground, Cambridge, UK (2019).</td>
   </tr>
   <tr>
-    <th><code>Berlin 91</code></th>
+    <th><kbd>Berlin 91</kbd></th>
     <td>Berlin Wall Memorial (2017).</td>
   </tr>
   <tr>
-    <th><code>Sachsenhausen</code></th>
+    <th><kbd>Sachsenhausen</kbd></th>
     <td>Birds and cars passing by, Oranienburg (2019).</td>
   </tr>
 </table>

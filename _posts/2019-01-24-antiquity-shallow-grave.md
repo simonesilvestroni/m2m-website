@@ -27,7 +27,7 @@ Also, I love when I’m presented with a proper challenge. As a songwriter, Gera
 
 > If you feel safe in the area that you’re working in, you’re not working in the right area. Always go a little further, into the water than you feel capable of being in. Go a little bit out of your depth. And when you feel that your feet are not quite touching the bottom, you’re just about in the right place to do something exciting.
 > 
-> <cite>— <strong>David Bowie</strong></cite>
+> <cite>— David Bowie</cite>
 
 ## Credits
 

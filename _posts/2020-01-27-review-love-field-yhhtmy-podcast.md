@@ -22,7 +22,7 @@ A podcast exploring unheard music, which we feel is as good if not better than t
 
 > It really impacted me, I listened to the entire album which is something I rarely do with submissions.
 > 
-> <cite>— <strong>YHHTMY</strong></cite>
+> <cite>— YHHTMY</cite>
 
 ## Listen to the Episode
 

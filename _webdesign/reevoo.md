@@ -46,7 +46,7 @@ permalink: '/work/web-design/reevoo/'
 
 <h2 class="text-center text-uppercase">Client review</h2>
 
-> I had the pleasure of working with UI Farm, as we re-built our corporate website using WordPress while making it responsive. From the very get go, UI Farm were extremely professional and proactive with the build process and worked with us closely as requirements evolved. This ability to adapt changes in an agile manner is a key aspect that differentiates them from other firms. The new website was launched on time and was perfect on all devices, all in all testament to a job well done.<cite>—<strong>Deepak Janakiraman</strong>, Reevoo C.P.O.</cite>
+> I had the pleasure of working with UI Farm, as we re-built our corporate website using WordPress while making it responsive. From the very get go, UI Farm were extremely professional and proactive with the build process and worked with us closely as requirements evolved. This ability to adapt changes in an agile manner is a key aspect that differentiates them from other firms. The new website was launched on time and was perfect on all devices, all in all testament to a job well done.<cite>—Deepak Janakiraman, Reevoo C.P.O.</cite>
 
 <div class="text-center my-5 py-5">
   <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="https://www.reevoo.com" title="Visit the live website"><span class="text-uppercase fs-4"><strong>Visit the live website</strong></span></a>

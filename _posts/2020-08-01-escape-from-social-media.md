@@ -34,7 +34,7 @@ I’m **redirecting my attention and time** to something more productive and ful
 
 > The thought process was all about: how do we consume as much of your time and conscious attention as possible? This means we had to give you a dopamine hit every once in a while.
 > 
-> <cite>— **Sean Parker**, former _Facebook_ president</cite>
+> <cite>— Sean Parker, former _Facebook_ president</cite>
 
 ### Hate
 

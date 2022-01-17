@@ -60,11 +60,11 @@ $enable-gradients: false;
 $enable-negative-margins: true;
 
 // Links
-// $link-color: $link-d-70;
-// $link-decoration: $link-d-20;
-// $link-shade-percentage: 20%;
-// $link-hover-color: tint-color($link-color, $link-shade-percentage);
-// $link-hover-decoration: tint-color($link-color, $link-shade-percentage);
+$link-color: $link-d-50;
+$link-decoration: $link-d-20;
+$link-shade-percentage: 30%;
+$link-hover-color: tint-color($link-color, $link-shade-percentage);
+$link-hover-decoration: tint-color($link-color, $link-shade-percentage);
 
 // Navigation
 $nav-link-color: $link-color;
@@ -96,8 +96,14 @@ $form-label-margin-bottom: .5rem;
 // ------------------------------------------------ \\
 // $CUSTOM - Colors
 // ------------------------------------------------ //
-// Remove default colors
-$theme-colors: map-remove($theme-colors, "secondary", "info");
+// Create my map
+$m2m-custom-colors: (
+  "background": $background,
+  "heading": $heading,
+  "link": $link
+);
+// Merge the maps
+$theme-colors: map-merge($theme-colors, $m2m-custom-colors);
 
 // ------------------------------------------------ \\
 // $OPTIONAL Bootstrap components
@@ -130,7 +136,7 @@ $theme-colors: map-remove($theme-colors, "secondary", "info");
 @import "bootstrap/tooltip";
 @import "bootstrap/popover";
 @import "bootstrap/spinners";
-@import "bootstrap/offcanvas";
+@import "bootstrap/utilities";
 
 // Helpers
 @import "bootstrap/helpers";

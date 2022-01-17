@@ -40,7 +40,7 @@ These two songs, even if written by someone else, prefectly encapsulate those da
 
 > _When I first heard the original recordings of these songs, I knew there was something there. Simone and I were pretty much simpatico and on the same page right from the start of our work on these tunes. We’ve been working together for awhile now and it seems like we have comfortably fallen into this new sound. I’m very proud of the work we did on these two great songs by Dan. I think they are the products of careful thoughtful musicianship._
 > 
-> <cite>&mdash; **Gerald Duchene**</cite>
+> <cite>&mdash; Gerald Duchene</cite>
 
 ## Production notes
 

@@ -102,6 +102,4 @@ Payments would be sent on the same day each month following the upload of an inv
 
 The release of episodes on YouTube had a schedule that was outside my scope, but were never too far away: usually a couple of weeks after my delivery.
 
-<div class="text-center my-5 py-5">
-  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/contact/" title="Hire me"><span class="text-uppercase fs-4">🔗 <strong>Hire me</strong></span></a>
-</div>
+{% include pattern-button-hire.html %}
