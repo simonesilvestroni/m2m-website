@@ -2,13 +2,14 @@
 <body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
   <main class="m2m-main" id="m2m-main">
     <div class="row gx-0 m2m-main-container">
-      <div class="col-md-4 m2m-site-header">
-        {% include site-header.html %}
-      </div>
       <div class="col-md-8" id="m2m-content">
         <div class="container gx-3 gx-md-5">
+          {% include site-logo.html %}
           {{ content }}
         </div>
+      </div>
+      <div class="m2m-site-header col-md-4">
+        {% include site-header.html %}
       </div>
     </div>
   </main>

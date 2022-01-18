@@ -7,15 +7,15 @@
   {% for category in categories %}
   <mark class="m2m-highlight d-inline-block mb-2"><span class="p-category text-uppercase initialism fw-bold px-2"><strong>{{ category | upcase | replace:"-"," " }}</strong></span></mark>
   {% endfor %}
-  <h2 class="p-name h4 text-uppercase m2m-letter-spacing-w1 my-2"><a class="m2m-link" href="{{ post.url }}" title="Read the post">{{ post.title }}</a></h2>
+  <h2 class="p-name h4 text-uppercase m2m-letter-spacing-w1 my-3"><a class="m2m-link" href="{{ post.url }}" title="Read the post">{{ post.title }}</a></h2>
   {%- if post -%}
     {% assign date = post.date %}
   {%- elsif page -%}
     {% assign date = page.date %}
   {%- endif -%}
-  <p><span class="m2m-font-micro">🗓</span> <time class="dt-published m2m-font-micro" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date_to_string }}</time></p>
-  <div class="e-content">
-    <p class="p-summary text-start mt-2">{{ post.excerpt | markdownify | strip_html }}</p>
+  <p class="fs-5 mb-3"><span class="m2m-font-micro">🗓</span> <time class="dt-published m2m-font-micro" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date_to_string }}</time></p>
+  <div class="e-content w-75">
+    <p class="p-summary text-start lh-sm mt-2">{{ post.excerpt | markdownify | strip_html }}</p>
   </div>
 </article>
 <hr class="visually-hidden">
