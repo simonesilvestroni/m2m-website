@@ -2,7 +2,7 @@
 
   <h3 class="mt-0 mb-4 py-2">See also</h3>
 
-  <ul class="m2m-ul" id="related-posts-list">
+  <ul class="list-group list-group-flush ps-0" id="related-posts-list">
 
   {%- assign maxRelated = 3 -%}
   {%- assign minCommonTags =  1 -%}
@@ -25,7 +25,9 @@
 
     {%- if sameTagCount >= minCommonTags -%}
    
-    <li class="fs-5"><a href="{{ post.url }}" title="Read: {{ post.title }}">{{ post.title }}</a></li>
+    <li class="list-group-item fs-5 my-0 ps-0 pb-3">
+      <span class="fs-6 pe-1">🔗</span> <a href="{{ post.url }}" title="Read: {{ post.title }}">{{ post.title }}</a>
+    </li>
 
     {%- assign maxRelatedCounter = maxRelatedCounter | plus: 1 --%}
 

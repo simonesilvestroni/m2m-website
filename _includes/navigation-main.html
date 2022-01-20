@@ -1,33 +1,21 @@
 <div id="navigation-main">
   {% comment %}
   // ------------------------------------------------ \\
-  // Navigation on small devices
-  // ------------------------------------------------ //
-  {% endcomment %}
-  <ul class="nav nav-small justify-content-center" aria-label="Navigation">
-    {% for item in site.data.nav-site -%}
-    <li class="nav-item">
-      <a class="nav-link fs-6 text-uppercase fw-bold{% if page.url contains item.link %} m2m-current{% endif %}" href="{{ item.link }}"><strong>{{ item.name }}</strong></a>
-    </li>
-    {% endfor -%}
-  </ul>
-  {% comment %}
-  // ------------------------------------------------ \\
   // Navigation on large devices
   // ------------------------------------------------ //
   {% endcomment %}
   <ul class="nav nav-large flex-column mb-0" aria-label="Navigation">
     <li class="nav-item mb-4">
       <span class="d-block fs-4 text-uppercase m2m-letter-spacing-w1 fw-bold"><strong>About</strong></span>
-      <span class="fs-5"><a class="m2m-link fw-bold" href="/about/"><strong>Minutes to Midnight</strong></a> is my online brand name. After 9 years in the UK, I&rsquo;m currently freelancing in Milan. I&rsquo;ve been keeping a <a class="m2m-link fw-bold" href="/blog/"><strong>blog</strong></a> since 2002. Find everything through the <a class="m2m-link fw-bold" href="/archive/"><strong><strong>archive</strong></strong></a>.</span>
+      <span class="fs-5"><a class="fw-bold{% if page.url contains '/about/' %} m2m-current{% endif %}" href="/about/"><strong>Minutes to Midnight</strong></a> is my online brand name. After 9 years in the UK, I&rsquo;m currently freelancing in Milan. I&rsquo;ve been keeping a <a class="fw-bold{% if page.url contains '/blog/' %} m2m-current{% endif %}" href="/blog/"><strong>blog</strong></a> since 2002. Find everything through the <a class="fw-bold{% if page.url contains '/archive/' %} m2m-current{% endif %}" href="/archive/"><strong>archive</strong></a>.</span>
     </li>
     <li class="nav-item mb-4">
-      <span class="d-block fs-4 text-uppercase m2m-letter-spacing-w1 fw-bold" href="#"><strong>Work</strong></span>
-      <span class="fs-5">As a cross-disciplinary polymath, I’ve been juggling between design and audio since the early 1990s. Check out my <a class="m2m-link fw-bold" href="/work/"><strong>work</strong></a> as a sound and web designer.</span>
+      <span class="d-block fs-4 text-uppercase m2m-letter-spacing-w1 fw-bold"><strong>Work</strong></span>
+      <span class="fs-5">As a cross-disciplinary polymath, I’ve been juggling between design and audio since the early 1990s. Check out my <a class="fw-bold{% if page.url contains '/work/' %} m2m-current{% endif %}" href="/work/"><strong>work</strong></a> as a sound and web designer.</span>
     </li>
     <li class="nav-item mb-4">
-      <span class="d-block fs-4 text-uppercase m2m-letter-spacing-w1 fw-bold" href="#"><strong>Contact</strong></span>
-      <span class="fs-5">Interested in hiring me for your next project, or just want to connect? <a class="m2m-link fw-bold" href="/contact/"><strong>Get in touch</strong></a>, including through (some) social media and my irregular newsletter.</span>
+      <span class="d-block fs-4 text-uppercase m2m-letter-spacing-w1 fw-bold"><strong>Contact</strong></span>
+      <span class="fs-5">Interested in hiring me for your next project, or just want to connect? <a class="fw-bold{% if page.url contains '/contact/' %} m2m-current{% endif %}" href="/contact/"><strong>Get in touch</strong></a>, including through (some) social media and my irregular newsletter.</span>
     </li>
   </ul>
 </div>

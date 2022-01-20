@@ -21,10 +21,29 @@ body {
 // ------------------------------------------------ //
 
 .m2m-site-header {
-  background-color: rgba($background-d-60, 0.3);
+  background-color: rgba($heading-d-90, 0.5);
 
   @include media-breakpoint-up(md) {
     min-height: 100vh;
+  }
+}
+
+#m2m-footer {
+
+  .m2m-current {
+    color: white !important;
+  }
+
+  @include media-breakpoint-up(md) {
+    color: $background-l-50;
+
+    .m2m-link {
+      color: $background-l-50 !important;
+
+      &:hover {
+        color: white !important;
+      }
+    }
   }
 }
 
@@ -63,19 +82,36 @@ h4 {
 // ------------------------------------------------ //
 
 /* purgecss start ignore */
+#navigation-main {
+  color: white;
+
+  a {
+    background-color: rgba($link-l-40, 0.8);
+    padding: 0 4px;
+    border-radius: 3px;
+
+    &:hover {
+      background-color: rgba($link-d-80, 0.8);
+      color: white !important;
+    }
+  }
+}
+.m2m-current {
+  background-color: $background-d-80 !important;
+  color: $link-l-90 !important;
+}
 .nav-small {
-  display: block;
-  margin: $spacer auto;
-  text-align: center;
-  background-color: $background-d-10;
 
   li {
     display: inline-block;
-    padding: 0 4px;
+    margin: 2px 1px;
   }
 
-  @include media-breakpoint-up(md) {
-    display: none;
+  .nav-link {
+    color: white;
+    background-color: rgba($background-d-60, .6);
+    padding: $spacer/2.5 $spacer;
+    border-radius: 4px;
   }
 }
 .nav-large {
@@ -86,9 +122,6 @@ h4 {
 }
 /* purgecss end ignore */
 
-.m2m-current {
-  color: $link-d-40;
-}
 .m2m-right-arrow::after {
   display: inline-block;
   content: '\203a';
@@ -611,12 +644,12 @@ hr {
   @extend .m2m-transition-bg-01s;
   color: $white;
   text-decoration: none !important;
-  background-color: $heading-l-50;
+  background-color: $heading-d-30;
 
   &:hover {
     color: $white !important;
     text-decoration: none !important;
-    background-color: $heading-d-20;
+    background-color: $heading;
   }
 }
 
@@ -729,8 +762,8 @@ hr {
     // Borders
     &-border-01s        { border: 3px solid transparent; }
     &-border-03s        { border: 3px solid transparent; }
-    &-border-01s:hover  { border: 3px solid $background-l-20; transition: border 0.1s ease-in !important; }
-    &-border-03s:hover  { border: 3px solid $background-l-20; transition: border 0.3s ease-in !important; }
+    &-border-01s:hover  { border: 3px solid $background-d-20; transition: border 0.1s ease-in !important; }
+    &-border-03s:hover  { border: 3px solid $background-d-20; transition: border 0.3s ease-in !important; }
 }
 
 // Text rotation

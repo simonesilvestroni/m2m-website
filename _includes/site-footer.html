@@ -1,6 +1,6 @@
 <footer class="text-center text-md-start py-4" id="m2m-footer">
   <p class="small my-2">&copy; {{ site.time | date: '%Y' }} {{ site.title }}&trade;</p>
   <p class="fs-5 mb-0">
-    <a class="m2m-link fw-bold" href="/colophon/" title="Details about this website"><strong>Colophon</strong></a>&nbsp;<strong>&middot;</strong>&nbsp;<a class="m2m-link fw-bold" href="/search/"><strong>Search</strong></a>&nbsp;<strong>&middot;</strong>&nbsp;<a class="m2m-link fw-bold" href="/privacy-policy/" title="Privacy policy"><strong>Privacy policy</strong></a>
+    <a class="m2m-link px-1 py-1 fw-bold{% if page.url contains '/colophon/' %} m2m-current rounded{% endif %}" href="/colophon/" title="Details about this website"><strong>Colophon</strong></a>&nbsp;<strong>&middot;</strong>&nbsp;<a class="m2m-link px-1 py-1 fw-bold{% if page.url contains '/search/' %} m2m-current rounded{% endif %}" href="/search/"><strong>Search</strong></a>&nbsp;<strong>&middot;</strong>&nbsp;<a class="m2m-link fw-bold px-1 py-1{% if page.url contains '/privacy-policy/' %} m2m-current rounded{% endif %}" href="/privacy-policy/" title="Privacy policy"><strong>Privacy</strong></a>
   </p>
 </footer>
