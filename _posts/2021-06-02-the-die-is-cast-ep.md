@@ -25,8 +25,10 @@ excerpt: "New mini EP released today, in collaboration with Antiquity. Introduci
 
 During the initial phase of writing my next album, I had the idea of working on a remix of two songs by Cambridge-based band [Ember Rev](https://emberrev.bandcamp.com/){:target="_blank" rel="noopener"}. In 2018, together with their songwriter Dan Ecclestone, I worked as a co-producer and mixer for their second album, _Premonition And Ruin_.
 
-At the time, a song didn’t make the final cut. It was a piece divided in two short parts, bookending the album, that I always liked. I remember telling Dan — somewhat jokingly — that I would sooner or later want to use it. _Land Of Kings_ is my interpretation of part 2. [_Papillon_](https://emberrev.bandcamp.com/track/papillon){:target="_blank" rel="noopener"} is the fourth song in the album, and my absolute favorite of the entire Ember Rev catalog.
+At the time, a song that I liked didn’t make the final cut. It was a piece divided in two short parts, bookending the album. I remember telling Dan — somewhat jokingly — that I would sooner or later want to use it. _Land Of Kings_ is my interpretation of that. [_Papillon_](https://emberrev.bandcamp.com/track/papillon){:target="_blank" rel="noopener"} is my absolute favorite of the entire Ember Rev catalog.
 
 Both lyrics referenced the painful process of living in England through Brexit. *The Die Is Cast* is in fact an autobiographical **concept revolving around migration** in Europe, and how deceitful can be to idealize the place where you move to.
 
-<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-music-productions/the-die-is-cast/">Read the <strong class="m2m-letter-spacing-w1">related case study</strong></a></p>
+<div class="text-center my-5 py-3">
+  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/original-music-productions/the-die-is-cast/" title="Read the case study"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the case study</strong></span></a>
+</div>

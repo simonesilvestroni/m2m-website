@@ -16,15 +16,13 @@ excerpt: "A year ago today, on the 30th anniversary of the fall of the Berlin Wa
 ---
 <p class="lead">{{ page.excerpt }}</p>
 
-To celebrate the first anniversary of [the release](/work/original-music-productions/after-1989/), I published the 5th official video from the album, on my [YouTube channel](https://www.youtube.com/channel/UCXO3ZbalCLwCZwHk_UkDBHg){:target="_blank" rel="noopener"}. The song is _The Logic_.
+To celebrate the first anniversary of the release, I published the 5th official video from the album, on my [YouTube channel](https://www.youtube.com/channel/UCXO3ZbalCLwCZwHk_UkDBHg){:target="_blank" rel="noopener"}. The song is _The Logic_.
 
 {% include pattern-video.html id="r9NyAYXOnyk" %}
 
 ## Where Were You in November 1989?
 
 31 years ago East Germany opened the Berlin Wall, symbolising the end of decades of Cold War between East and West. This song depicts the starting point, the dark days of August 1961 when Berlin was cut in half. It’s also my homage to a brother, Michele, who played the drums in the song. I lost him around the same day, almost twenty years ago.
-
-<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-music-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>
 
 ## Credits
 
@@ -43,3 +41,7 @@ To celebrate the first anniversary of [the release](/work/original-music-product
 **Management** / Christopher Carvalho, [Unlock Your Sound](https://unlockyoursound.com/){:target="_blank" rel="noopener"} Ltd.
 
 <p class="detached"><mark class="m2m-highlight small"><strong>Released</strong>: November 9, 2020</mark></p>
+
+<div class="text-center my-5 py-3">
+  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/original-music-productions/after-1989/" title="Read the album case study"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the album case study</strong></span></a>
+</div>

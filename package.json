@@ -1,9 +1,9 @@
 {
   "name": "bootstrap",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
-  "version": "5.0.2",
+  "version": "5.1.3",
   "config": {
-    "version_short": "5.0"
+    "version_short": "5.1"
   },
   "keywords": [
     "css",
@@ -23,6 +23,10 @@
     "serve": "bundle exec jekyll serve --livereload",
     "servedraft": "bundle exec jekyll serve --drafts --livereload",
     "servefuture": "bundle exec jekyll serve --drafts --future --livereload",
+    "m2m-build-css": "npm-run-all css-compile css-purge css-prefix-main css-minify-main",
+    "m2m-build-js": "npm-run-all js-compile-standalone js-minify-standalone",
+    "m2m-build-all": "npm-run-all css-compile css-purge css-prefix-main css-minify-main js-compile-standalone js-minify-standalone",
+    "m2m-watch": "sass --watch sass:assets/css",
     "start": "npm-run-all --parallel watch",
     "bundlewatch": "bundlewatch --config .bundlewatch.config.json",
     "css-purge": "purgecss --css \"assets/css/m2m.css\" --content \"_site/**/*.html\" --safelist active --output \"assets/css\"",
@@ -38,10 +42,6 @@
     "css-prefix": "npm-run-all --parallel css-prefix-*",
     "css-prefix-main": "postcss --config build/postcss.config.js --replace \"assets/css/*.css\" \"!assets/css/*.rtl*.css\" \"!assets/css/*.min.css\"",
     "css-prefix-examples": "postcss --config build/postcss.config.js --replace \"site/content/**/*.css\"",
-    "m2m-build-css": "npm-run-all css-compile css-purge css-prefix-main css-minify-main",
-    "m2m-build-js": "npm-run-all js-compile-standalone js-minify-standalone",
-    "m2m-build-all": "npm-run-all css-compile css-purge css-prefix-main css-minify-main js-compile-standalone js-minify-standalone",
-    "m2m-watch": "sass --watch sass:assets/css",
     "js": "npm-run-all js-compile js-minify",
     "js-compile": "npm-run-all --parallel js-compile-*",
     "js-compile-standalone": "rollup --environment BUNDLE:false --config build/rollup.config.js --sourcemap",

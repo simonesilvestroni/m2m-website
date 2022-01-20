@@ -14,8 +14,6 @@ excerpt: 'London-based singer-songwriter Callum Gardner’s new single, ‘Hang 
 ---
 <p class="lead">{{ page.excerpt }}</p>
 
-I’m happy to announce Callum Gardner’s new single, _Hang Loose_. 
-
 ## On Bandcamp
 
 {% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1148436830/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/hang-loose">Hang Loose by Callum Gardner</a></iframe>' %}
@@ -30,7 +28,7 @@ I’m happy to announce Callum Gardner’s new single, _Hang Loose_.
 
 ---
 
-🎥 Watch a teaser of _Hang Loose_ [performed live at the Strongroom](/live-shows/), in London.
+🎥 Watch a teaser of _Hang Loose_ [performed live at the Strongroom](https://youtu.be/VqOZbBRU-H8), in London.
 
 ## Production notes
 

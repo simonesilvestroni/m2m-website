@@ -14,7 +14,7 @@ tags:
   - open source 
   - muse group
 description: "The company behind MuseScore has announced the acquisition of the well known FOSS audio editor, Audacity."
-excerpt: "The company behind MuseScore has announced the acquisition of the well known FOSS audio editor, Audacity."
+excerpt: "The company behind <em>MuseScore</em> has announced the acquisition of the well known FOSS audio editor, <em>Audacity</em>."
 ---
 <p class="lead">{{ page.excerpt }}</p>
 

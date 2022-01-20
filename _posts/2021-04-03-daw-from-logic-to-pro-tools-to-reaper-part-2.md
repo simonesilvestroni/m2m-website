@@ -28,15 +28,17 @@ In **[part 1](/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)** I discussed
 
 ## Benefit 4: Customization
 
-What can be customized: pretty much everything, down to the look & feel. Like [its creator](https://en.wikipedia.org/wiki/Justin_Frankel){:target="_blank" rel="noopener"}‘s first successful software, **Winamp**, REAPER supports themes. Suffice to say, there are plenty of excellent (and awful) skins out there, though it’s not my main interest.
+### Themes
+
+Pretty much everything can be customized, down to the look & feel. Like [its creator](https://en.wikipedia.org/wiki/Justin_Frankel){:target="_blank" rel="noopener"}‘s first successful software, **Winamp**, REAPER supports themes. Though it’s not my main interest, there are plenty of excellent (and awful) [skins](https://stash.reaper.fm/tag/Themes) out there.
 
 ### Scripts & macros
 
-This is a huge one for me. REAPER has a [scripting engine](https://www.reaper.fm/sdk/reascript/reascript.php){:target="_blank" rel="noopener"}. It’s a DAW that can be **manipulated through programming**, whether it’s Python, Lua, or its own open source language (EEL). Even without being a coder, a lot can still be achieved. Plenty can be done with the myriad of stock commands (_actions_), shortcuts and mouse modifiers alone, not to mention the possibility of creating multi-layered **custom actions** (basically: macros).
+This is a huge one for me. REAPER has a [scripting engine](https://www.reaper.fm/sdk/reascript/reascript.php). It’s a DAW that can be **manipulated through programming**, whether it’s Python, Lua, or its own open source language (EEL). Even without being a coder, a lot can still be achieved with the myriad of stock commands (_actions_), shortcuts and mouse modifiers alone, not to mention the possibility of creating multi-layered **custom actions** (basically: macros).
 
 {% include pattern-figure.html image="/assets/images/daw-reaper-custom-actions.png" caption="The actions window, featuring my current custom macros at the top" width="768" height="339" %}
 
-**REAPER is fast**, it reacts quickly, and allows access to each and every function by hitting the `?` shortcut, which opens the **actions list**.
+**REAPER is fast** and allows access to each and every function by hitting the <kbd>?</kbd> shortcut, which opens the **actions list**.
 
 ### Making the DAW work my way
 
@@ -46,49 +48,53 @@ Personal example: through the creation of custom actions, I embedded some of my 
 
 After less than two weeks using REAPER, I have, among other things:
 
-#### Custom [screensets](https://reaperblog.net/2020/05/how-to-use-screensets-in-reaper-2/){:target="_blank" rel="noopener"}
+<h4 class="text-uppercase">Custom screensets</h4>
 
-Multiple windows setup, to efficiently **manage different stages of production**.
+Multiple [windows setup](https://reaperblog.net/2020/05/how-to-use-screensets-in-reaper-2/){:target="_blank" rel="noopener"}, to efficiently **manage different stages of production**.
 
-#### Master channel strip
+<h4 class="text-uppercase">Master channel strip</h4>
 
 Always visible, **docked to the left** of the arrange window for a quick check.
 
-#### Volume and pitch clip gain
+<h4 class="text-uppercase">Volume and pitch clip gain</h4>
 
 Easily available on each item, for fast and creative editing.
 
-#### Custom shortcuts
+<h4 class="text-uppercase">Custom shortcuts</h4>
 
 They mimick the ones I got used to in Pro Tools or Logic.
 
-#### Track manager & media explorer
+<h4 class="text-uppercase">Track manager & media explorer</h4>
 
-Shortcuts for showing/hiding these immensely useful windows, as docked sidebars.
+Shortcuts for showing/hiding these useful windows, as docked sidebars.
 
-#### Custom floating toolbar
+<h4 class="text-uppercase">Custom floating toolbar</h4>
 
 A simple keystroke that allows to perform multiple tasks at the push of a button (the icons and the labels are customizable).
 
-#### Quick and efficient custom actions
+<h4 class="text-uppercase">Quick and efficient custom actions</h4>
 
 By hitting a single key, I create fades that would apply from/to my current mouse cursor position, without placing the playhead first. Also: explode a stereo file in two mono tracks, and viceversa.
 
-### Themes
+### Look & feel
 
-The repository for all custom themes — as well as extensions, scripts and more — is the [REAPER stash](https://stash.reaper.fm/). Talking about aesthetics, I’m not a fan of the many themes that recreate the GUI of other DAWs. While I like the design called _Smooth_, I settled with the default theme for v6.
+The repository for all custom themes — as well as extensions, scripts and more — is the [REAPER stash](https://stash.reaper.fm/). Talking about aesthetics, I’m not a fan of the many themes trying to recreate the GUI of other DAWs. I keep alternating a design called _Smooth_ with the default theme for v6.
 
 {% include pattern-figure.html image="/assets/images/daw-reaper-session.jpg" caption="REAPER running the theme Smooth v6" width="768" height="480" %}
 
-Incredibly detailed and well crafted, it was created for free by a guy who only asks to be [supported on Bandcamp](https://forum.cockos.com/showthread.php?p=2219276){:target="_blank" rel="noopener"}, where he published a slightly bizarre but captivating sci-fi concept. Which brings me to the next benefit. Cockos is [made of two programmers and a few collaborators](http://cockos.com/team.php){:target="_blank" rel="noopener"}. Remarkably, they’ve managed to create **a product that is actually close to their customers**. They run a thriving [forum](https://forum.cockos.com/forumdisplay.php?f=20){:target="_blank" rel="noopener"} where, besides looking for help and support, people who use REAPER can offer ideas for new features or suggestions about fixing something that’s not ideal. As someone aptly wrote in the forum:
+Incredibly detailed and well crafted, _Smooth_ was created for free by a guy who only asks to be [supported on Bandcamp](https://forum.cockos.com/showthread.php?p=2219276){:target="_blank" rel="noopener"}, where he published a slightly bizarre but captivating sci-fi concept. Which brings me to the next benefit. 
+
+## Benefit 5: community
+
+Cockos is [made of two programmers and a few collaborators](http://cockos.com/team.php){:target="_blank" rel="noopener"}. Remarkably, they’ve managed to create **a product that is actually close to their customers**. They run a thriving [forum](https://forum.cockos.com/forumdisplay.php?f=20){:target="_blank" rel="noopener"} where, besides looking for help and support, people who use REAPER can offer ideas for new features or suggestions about fixing something that’s not ideal. As someone aptly wrote in the forum:
 
 > Cockos is like a family-owned small business. They’re amazingly talented and hard working to compete with other DAW companies that hire whole slews of programmers and graphic designers.
 
-Being **open to third-party interventions**, the obvious brilliant result is that many talented people can create plug-ins, skins and extensions. With such an architecture, REAPER doesn’t depend on a centralized, slow and distant big corporation. Besides the mentioned Stash, [ReaPack](https://reapack.com/){:target="_blank" rel="noopener"} and the [SWS/S&M extension](https://www.sws-extension.org/){:target="_blank" rel="noopener"} are other amazing places where to find brilliant add-ons. These are **open source** projects, hosted on Github.
+Being **open to third-party interventions**, the obvious brilliant result is that many talented people can create plug-ins, skins and extensions. With such an architecture, REAPER doesn’t depend on a centralized, slow and distant big corporation. Besides the mentioned Stash, [ReaPack](https://reapack.com/){:target="_blank" rel="noopener"} and the [SWS/S&M extension](https://www.sws-extension.org/){:target="_blank" rel="noopener"} are other amazing places where to find brilliant add-ons. These are all **open source** projects hosted on Github.
 
-### A personal experience: X-Touch One by Behringer
+### A personal experience: X-Touch One
 
-A few months ago, I bought a USB/MIDI controller, the **X-Touch One**. It’s got a single motorized fader and a few added possibilities. Well built and cheaper than its competitor, the Fader Port by Presonus.
+A few months ago, I bought a USB/MIDI controller, the **X-Touch One** by Behringer. It’s got a single motorized fader and a few added possibilities. Well built and cheaper than its competitor, Presonus' Fader Port.
 
 {% include pattern-figure.html image="/assets/images/xtouch-one.jpg" caption="Behringer X-Touch One" width="768" height="737" %}
 
@@ -96,7 +102,7 @@ Like other tools who adopts the Mackie protocol though, the X-Touch One handles 
 
 On a Gearspace thread, plenty of producers were complaining about the same issue. Even someone from Behringer was involved. At a certain point, a user pointed out that in the REAPER’s forum there was a solution, specific to that DAW. That’s how I found CSI, **a custom-created extension for external controllers**. Again: it’s open source and hosted on Github.
 
-Downloaded for free, I [installed and configured it in minutes](https://github.com/GeoffAWaddington/reaper_csurf_integrator/wiki/Installation){:target="_blank" rel="noopener"}. Now, when I select a track with the mouse in REAPER, that same track is automatically reflected in X-Touch One, ready to be worked fast with fader, pan, solo, mute and more. This **spirit of community** and the admirable level of flexibility are impossible to find within corporate-made software.
+Downloaded for free, I [installed it and configured in minutes](https://github.com/GeoffAWaddington/reaper_csurf_integrator/wiki/Installation){:target="_blank" rel="noopener"}. Now, when I select a track with the mouse in REAPER, that same track is automatically reflected in X-Touch One, ready to be worked fast with fader, pan, solo, mute and more. This **spirit of community** and the admirable level of flexibility are impossible to find within corporate-made software.
 
 ## Benefit 6: Stock plug-ins
 
@@ -105,7 +111,7 @@ The question of stock plug-ins is a neverending debate in the music production b
 - are stock plug-ins okay to use?
 - can I use them to produce good music or shall I buy the commercial ones?
 
-I had decided a while back to settle on [a very few third-party plug-ins](/uses/), and learn them in depth. I was using Logic at the time, and my intent was to be as **platform agnostic** as possible. Now that I’ve experimented with Cockos’ native FXs, I can safely say that I don’t need anything new for the foreseeable future. My existing commercial plug-ins, plus the REAPER integrated arsenal, is more than enough. On the topic, there’s also a video series by the great Dan Worrall.
+I had decided a while back to settle on [very few third-party plug-ins](/uses/), and learn them in depth. I was using Logic at the time, and my intent was to be as **platform agnostic** as possible. Now that I’ve experimented with Cockos’ native FXs, I can safely say that I don’t need anything new for the foreseeable future. My existing commercial plug-ins, plus the REAPER integrated arsenal, is more than enough. On the topic, there’s also a video series by the great Dan Worrall.
 
 {% include pattern-video.html id="3OoVnTO3AB4" %}
 

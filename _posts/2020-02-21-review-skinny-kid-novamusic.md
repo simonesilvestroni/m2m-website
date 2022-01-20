@@ -23,6 +23,8 @@ excerpt: 'Stunning review by Nova Music Blog for <em>Skinny Kid</em>, the openin
 > Deep and viscerally touching, <em>Skinny Kid</em> is a dark-colored narration where lyrics and music form a full-bodied and delicate sound balance, through which Minutes to Midnight makes us perceive, with mastery and in all its entirety, the bitter harshness, despair and oppression of the album theme. One of the most beautiful discoveries of this early 2020.
 > <cite>— [Nova Music](https://novamusic.blog/featuring-video/minutes-to-midnight-skinny-kid/){:target="_blank" rel="noopener"}</cite>
 
-Thanks so much to Gabriele of _Nova Music Blog_, and [Christopher Carvalho](https://www.youtube.com/channel/UCFYW6EZMLLT0jIi0SJQeUiQ){:target="_blank" rel="noopener"} of Unlock Your Sound, for another awesome feature about my album [_After 1989_](/work/original-music-productions/after-1989/).
+Thanks so much to Gabriele of _Nova Music Blog_, and [Christopher Carvalho](https://www.youtube.com/channel/UCFYW6EZMLLT0jIi0SJQeUiQ){:target="_blank" rel="noopener"} of Unlock Your Sound, for another awesome feature about my album _After 1989_.
 
-<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-music-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>
+<div class="text-center my-5 py-3">
+  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/original-music-productions/after-1989/" title="Read the album case study"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the album case study</strong></span></a>
+</div>

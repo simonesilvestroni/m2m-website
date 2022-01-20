@@ -4,7 +4,7 @@ title: 'Work'
 date: '2021-11-08 10:30:38'
 last_modified_at: '2021-11-08 10:30:40'
 description: "As a cross-disciplinary polymath, I’ve been juggling between design and audio since the early 1990s. Here is some of my work as a sound and web designer."
-excerpt: 'In 1995, while interning as an editor, I graduated as a <strong>bass player</strong>. Switched a few years later from the publishing industry to <strong>web design</strong>. After spending the following decades working as a <strong>game audio designer</strong> and a front-end developer between Italy and the UK, I gained a diploma at Berklee, specializing in music production, especially <strong>mixing</strong>. Here is a detailed list of the <a href="/uses/">equipment I use</a>.'
+excerpt: 'In 1995, while interning as an editor, I graduated as a <strong>bass player</strong>. Switched a few years later from the publishing industry to <strong>web design</strong>. After spending the following decades working as a <strong>game audio designer</strong> and a front-end developer between Italy and the UK, I gained a diploma at Berklee, specializing in music production, <strong>mixing</strong> above all.'
 permalink: '/work/'
 ---
 <p class="lead">{{ page.excerpt }}</p>
@@ -49,9 +49,13 @@ permalink: '/work/'
   </div>
 </section>
 
+## Equipment
+
+Here is a detailed list of <a href="/uses/">everything I use</a>, software and hardware.
+
 ## Endorsements
 
-Here's a selection of the [**27 recommendations** I received on LinkedIn](https://www.linkedin.com/in/minutes2mid/).
+A representative selection of the [**27 recommendations** I received on LinkedIn](https://www.linkedin.com/in/minutes2mid/).
 
 > What’s always impressed me about Simone is his attention to detail, which he demonstrates in every area of his work. Not only is he a prolific producer and bassist, but he easily comprehends and executes on the most abstract concepts across tech, audio, marketing, branding, and visual arts. When you work with Simone, everything is down, documented, and organised, which makes it very easy to work with him directly or in the context of a team.
 > <cite>— Christopher Carvalho, [Unlock Your Sound](https://unlockyoursound.com/){:target="_blank" rel="noopener"}</cite>

@@ -9,14 +9,14 @@ permalink: '/work/original-music-productions/'
 ---
 <p class="lead">{{ page.excerpt }}</p>
 
-<p>Over the last few years, I released a 10-songs autobiographical album titled <em>After 1989: A Trip To Freedom</em>, the single remix <em>Non sai chi sono</em> with Italian artist and producer Emilio Albertoni, and a preview of my next EP called <em>The Die Is Cast</em>.</p>
+<p>Over the last few years, I released a 10-songs autobiographical album titled <em>After 1989: A Trip To Freedom</em>, the single remix <em>Non sai chi sono</em> with Italian artist-producer Emilio Albertoni and a preview of my next EP called <em>The Die Is Cast</em>.</p>
 
-{% assign originalproductions = site.originalproductions | reverse %}
+{% assign originalmusicproductions = site.originalmusicproductions | reverse %}
 
 <section class="h-feed latest-posts m2m-entry my-5 pb-3">
   <div class="card-group">
     <div class="row row-cols-1 row-cols-sm-2 g-4">
-    {% for casestudy in originalproductions %}
+    {% for casestudy in originalmusicproductions %}
     {% include pattern-card-casestudy.html %}
     {% endfor %}
     </div>

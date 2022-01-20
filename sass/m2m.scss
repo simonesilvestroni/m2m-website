@@ -72,6 +72,8 @@ $nav-link-hover-color: $link-d-40;
 $nav-link-font-weight: bold;
 $nav-link-padding-x: 0.5rem;
 $nav-link-padding-x: 0;
+$breadcrumb-divider: quote("→");
+$list-group-bg: transparent;
 
 // Tables
 $table-striped-order: even;
@@ -99,6 +101,7 @@ $form-label-margin-bottom: .5rem;
 // Create my map
 $m2m-custom-colors: (
   "background": $background,
+  "background-d-10": $background-d-10,
   "heading": $heading,
   "link": $link
 );
@@ -124,19 +127,18 @@ $theme-colors: map-merge($theme-colors, $m2m-custom-colors);
 @import "bootstrap/nav";
 @import "bootstrap/navbar";
 @import "bootstrap/card";
-@import "bootstrap/accordion";
+// @import "bootstrap/accordion";
 @import "bootstrap/breadcrumb";
-@import "bootstrap/pagination";
+// @import "bootstrap/pagination";
 @import "bootstrap/badge";
 @import "bootstrap/alert";
 @import "bootstrap/progress";
 @import "bootstrap/list-group";
 @import "bootstrap/close";
 @import "bootstrap/toasts";
-@import "bootstrap/tooltip";
-@import "bootstrap/popover";
+// @import "bootstrap/tooltip";
+// @import "bootstrap/popover";
 @import "bootstrap/spinners";
-@import "bootstrap/utilities";
 
 // Helpers
 @import "bootstrap/helpers";

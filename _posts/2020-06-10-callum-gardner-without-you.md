@@ -10,11 +10,15 @@ tags:
   - indie
   - singer-songwriter
 description: "Singer-songwriter Callum Gardner's new single, Without You, is out now. Bass and production by Minutes to Midnight."
-excerpt: 'Callum Gardner’s new single, <em>Without You</em>, is out now. Produced by Minutes to Midnight, creative direction SR Creative.'
+excerpt: 'Callum Gardner’s new single, <em>Without You</em>, is out now. Full production and bass by Minutes to Midnight.'
 ---
 <p class="lead">{{ page.excerpt }}</p>
 
-Like the previous singles, [_Hang Loose_](/callum-gardner-hang-loose/) and [_Wriggle A Little_](/callum-gardner-wriggle-a-little/), I recorded and produced the single, along with playing my Fender Jazz [fretless bass](https://soundbetter.com/profiles/206552-minutes-to-midnight){:target="_blank" rel="noopener"}.
+Like the previous singles, [_Hang Loose_](/blog/callum-gardner-hang-loose/) and [_Wriggle A Little_](/blog/callum-gardner-wriggle-a-little/), I recorded and produced the single, along with playing my Fender Jazz [fretless bass](https://soundbetter.com/profiles/206552-minutes-to-midnight){:target="_blank" rel="noopener"}.
+
+## On Bandcamp
+
+{% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3806119580/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/without-you">Without You by Callum Gardner</a></iframe>' %}
 
 ## On Spotify
 

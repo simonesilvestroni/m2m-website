@@ -14,7 +14,7 @@ tags:
   - audio technician
   - prince
 description: "I finally watched this amazing video interview with Susan Rogers, who had been sitting in my to-do list for a few weeks. The best interview in a long time."
-excerpt: "I watched this amazing video interview, probably the best one I’ve watched in a while."
+excerpt: "I watched this amazing video interview, arguably the best one in a while."
 ---
 <p class="lead">{{ page.excerpt }}</p>
 
@@ -26,7 +26,7 @@ excerpt: "I watched this amazing video interview, probably the best one I’ve w
 <br><br>
 > She is currently a Professor in the departments of Music Production & Engineering and Liberal Arts at [Berklee College of Music, Boston](https://www.berklee.edu/){:target="_blank" rel="noopener"}, where she teaches psychoacoustics, record production and analog recording techniques.
 
-{% include pattern-figure.html image="/assets/images/susan-rogers-sign-o-the-times-tour.jpg" caption="Susan Rogers during Prince’s <em>Sign ‘O The Times</em> tour" width="1024" height="682" %}
+{% include pattern-figure.html image="/assets/images/susan-rogers-sign-o-the-times-tour.jpg" caption="Susan Rogers during Prince’s &ldquo;Sign &rsquo;O The Times&rdquo; tour" width="1024" height="682" %}
 
 I’ve listened to her in awe. In particular, regarding two points:
 

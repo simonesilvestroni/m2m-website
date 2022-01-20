@@ -25,8 +25,8 @@ canonical: 'https://medium.com/lessons-from-history/a-trip-to-freedom-from-berli
 
 <p class="lead">{{ page.excerpt }}</p>
 
-<div class="mx-auto text-center">
-  <p class="d-inline-block alert alert-warning fs-6" role="alert">ℹ️ this article was first <a href="https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e" target="_blank">published on Medium</a>.</p>
+<div class="mx-auto text-center mt-5">
+  <p class="d-inline-block alert alert-background-d-10 fs-6" role="alert">ℹ️ this article was first <a href="https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e" target="_blank">published on Medium</a>.</p>
 </div>
 
 ## Roots

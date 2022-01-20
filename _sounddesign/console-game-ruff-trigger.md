@@ -89,7 +89,7 @@ Working closely with the audio programmer, I **implemented an adaptive soundtrac
 #### Examples
 
 <div class="alert alert-warning" role="alert">
-  <p class="fs-6">⚠️ <strong class="text-uppercase">Warning</strong> — The following songs are demos <strong>rendered in their linear versions</strong>. They don't reflect their original behavior in the gameplay, where each song had distinct instrument layers that were activated or deactivated following cues from the game engine. As they're the original demos, <strong>they aren't properly mixed nor mastered</strong>.</p>
+  <p class="fs-5"><kbd class="fw-bold">Warning</kbd> — The following songs are demos <strong>rendered in their linear versions</strong>. They don&rsquo;t reflect their original behavior in the gameplay, where each song had distinct instrument layers that were activated or deactivated following cues from the game engine. As they&rsquo;re the original demos, <strong>they aren&rsquo;t properly mixed nor mastered</strong>.</p>
 </div>
 
 <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 mt-4 mb-5">
@@ -218,7 +218,7 @@ During my stint at Playstos I happened to **manage the work of five people**. Th
 
 ### Politics and lack of a major publisher
 
-In 2003 the company internal dynamics changed. Despite being built three years before around a concept of friendship, growing difficulties started to show. The **lack of interest shown by high-level publishers** eroded confidence and soured the relationships between colleagues. Later, the first layoffs increased an already gloomy atmosphere.
+In 2003 the company internal dynamics changed. Despite being built three years earlier around a concept of friendship, growing difficulties started to strain internal dynamics. The **lack of interest shown by high-level publishers** eroded confidence while the first layoffs soured the relationships between colleagues.
 
 To appeal to smaller publishers, the game _had to change_. New hirings with higher levels of experience in the industry arrived and were given full discretionary powers. A few of us who were there since the beginning didn't take it too lightly and left.
 

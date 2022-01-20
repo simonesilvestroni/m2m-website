@@ -19,4 +19,6 @@ excerpt: 'How I co-produced ‘Premonition and Ruin’, a superb concept album a
 
 {% include pattern-spotify.html id="74g82zqqXhiaWmH7czHIVk" type="album" height="280" %}
 
-🔗 Read [the full **case study**](/work/sound-design/premonition-and-ruin/).
+<div class="text-center my-5">
+  <a class="btn btn-md btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/sound-design/premonition-and-ruin/" title="Read the full case study"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the full case study</strong></span></a>
+</div>

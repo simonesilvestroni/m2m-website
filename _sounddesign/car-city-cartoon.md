@@ -39,13 +39,13 @@ HR contacted me through [SoundLister](https://soundlister.com/portfolio/simone-s
 
 ## Onboarding
 
-Straightforward process: sign up for an account on Scale3, join their Slack, read a single induction document explaining the procedure from start to delivery, along with a **set of specifications** and how to file an invoice.
+Straightforward process: sign up for an account on their own online production management platform called _Scale3_, join their Slack, read a single induction document explaining the procedure from start to delivery, along with a **set of specifications** and how to file an invoice.
 
 ## Project management
 
-The company adopts **agile processes**, based on their own online production management platform called _Scale3_, to ensure a steady production schedule.
+The company adopts **agile processes** based on Scale3, to ensure a steady production schedule.
 
-The job started before the pandemic and continued during the first lockdowns in Europe. I **interacted with the project manager** using Scale3 and Slack. All the episodes of _Car City_ in production were listed in the system, along with features such as state of completion, deadlines and the required documentation.
+The job started before the pandemic and continued during the first lockdowns in Europe. I **interacted with the project manager** using Slack. All the episodes of _Car City_ in production were listed in the system, along with features such as state of completion, deadlines and the required documentation.
 
 ## Cloud storage
 
@@ -98,7 +98,7 @@ Once all the edits requested in the feedback were completed and a sign-off was o
 
 ## Payment & Release
 
-Payments would be sent on the same day each month following the upload of an invoice on Scale3, outlining all the signed-off tasks within that timeframe.
+Payments would be sent each month on the same day following the upload of an invoice on Scale3, outlining all the signed-off tasks within that timeframe.
 
 The release of episodes on YouTube had a schedule that was outside my scope, but were never too far away: usually a couple of weeks after my delivery.
 

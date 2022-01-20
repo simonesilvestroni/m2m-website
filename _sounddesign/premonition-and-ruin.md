@@ -22,19 +22,19 @@ permalink: '/work/sound-design/premonition-and-ruin/'
 
 ## Backstory
 
-I met Ember Rev's singer, multi-instrumentalist and songwriter Dan Ecclestone in Cambridge through [**Ian Shepherd**](https://productionadvice.co.uk/), a friend of his. I was looking for a singer and liked his Bowie-esque timbre and approach to vocals.
+I met Ember Rev's singer, multi-instrumentalist and songwriter Dan Ecclestone in Cambridge through [Ian Shepherd](https://productionadvice.co.uk/), a friend of his. I was looking for a singer and liked his Bowie-esque timbre and approach to vocals.
 
-We discussed our upcoming projects over a beer and agreed on a reciprocal collaboration. He pitched his band's next project as substantially more rock than their first album. Ian Shepherd was on board as a **master engineer**.
+We discussed our upcoming projects over a beer and agreed on a reciprocal collaboration. He pitched his band's next project as substantially more rock than their first album. Ian was on board as a **master engineer**.
 
 Subtitled “a remainer’s lament for the European ideal”, _Premonition and Ruin_ is an exceptional album, filled with original songs, beautifully written and arranged. Furthermore, I was excited about working with the **accordion**. It doesn’t happen often, and I love the instrument.
 
 ## Production notes
 
-### Mixing _Premonition and Ruin_
+### Mix
 
 When I started mixing the first song, _England’s Finest Hour_, I thought right away of spicing the accordion up, in a &ldquo;Gotan Project&rdquo; sort of style. I worked on the sound and the flow of the delay effect, ending up adding a strange electronic feel to the instrument. Logic’s automation allowed me to achieve a nice fluctuating movement.
 
-For the first time, I've used my version of [**Michael Brauer**'s multi-bus compression](https://brauerizing.wordpress.com/). Dan enjoyed my creative approach to mixing to the point of giving me **credits as a co-producer**.
+For the first time, I've used my version of [Michael Brauer's multi-bus compression](https://brauerizing.wordpress.com/). Dan enjoyed my creative approach to mixing to the point of giving me **credits as a co-producer**.
 
 ### Workflow
 
@@ -42,7 +42,7 @@ I **added the project to my Trello boards** and added Dan as a contributor. We b
 
 ## Follow-ups
 
-A year later, I ended up producing the band’s follow-up album [_From The Country To The City To The Sea_](https://emberrev.bandcamp.com/album/from-the-country-to-the-city-to-the-sea-2), as well as Dan’s debut solo album [_Hidden Music_](/hidden-music-dan-ecclestone/) in January 2021.
+A year later, I ended up producing the band’s follow-up album [_From The Country To The City To The Sea_](https://emberrev.bandcamp.com/album/from-the-country-to-the-city-to-the-sea-2), as well as Dan’s debut solo album [_Hidden Music_](/blog/hidden-music-dan-ecclestone/) in January 2021.
 
 ## Review
 
@@ -52,9 +52,9 @@ A year later, I ended up producing the band’s follow-up album [_From The Count
 ## Credits
 
 **Dan Ecclestone** / Vocals, guitar, ukulele  
-**Accordion** / Chris Peckham  
-**Bass** / Dom Hall-Smith  
-**Drums** / Ian Pickering  
+**Chris Peckham** / Accordion  
+**Dom Hall-Smith** / Bass  
+**Ian Pickering** / Drums  
 <br>
 —  
 Written and produced by Dan Ecclestone.  

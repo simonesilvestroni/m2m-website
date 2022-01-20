@@ -107,7 +107,7 @@ defaults:
 
 # Collections
 collections:
-  originalproductions:
+  originalmusicproductions:
     output: true
     permalink: /work/original-music-productions/:path/
   sounddesign:

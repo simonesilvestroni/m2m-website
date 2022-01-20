@@ -283,6 +283,7 @@ cite {
   // Entry block ordered lists
   ol {
     margin-top: $spacer*1.5;
+    margin-bottom: $spacer*1.5;
     @include media-breakpoint-up(md) {
       width: 80%;
     }
@@ -501,8 +502,7 @@ cite {
   }
 }
 .breadcrumb-border {
-  border: 2px solid $heading-l-70;
-  border-radius: 4px;
+  border-bottom: 2px solid $heading-l-70;
 }
 
 
@@ -653,10 +653,9 @@ hr {
 .btn-label-m2m {
   font-size: rfs-fluid-value(11px);
   color: $link-d-70;
-  padding: 0 $spacer*0.25;
 }
 .btn-label-lg-m2m {
-  font-size: rfs-fluid-value(18px);
+  font-size: rfs-fluid-value(16px);
 }
 // Label background
 .btn-label-m2m-bg {

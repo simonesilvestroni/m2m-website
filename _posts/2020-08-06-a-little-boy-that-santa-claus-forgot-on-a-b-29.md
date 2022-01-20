@@ -31,17 +31,15 @@ excerpt: '75 years ago, while two young men escaped from Sachsenhausen concentra
 
 **April, same year** — Two men escape from a concentration camp called [Sachsenhausen](https://www.sachsenhausen-sbg.de/en/){:target="_blank" rel="noopener"}, built in the town of Oranienburg, north of Berlin. One of them, who had spent four years there, **was my grandfather**.
 
-Now a fugitive, he’s running away from imprisonment with a fellow Soviet inmate. They have to steal from German citizens, for food, protection and to go unnoticed during the day. They tie themselves to tree branches at night. The skinny kid came back home, mostly walking, [from Berlin to Italy](https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e){:target="_blank" rel="noopener"}.
+Now a fugitive, he’s running away from imprisonment with a fellow Soviet inmate. They have to steal from German citizens, for food, protection and to go unnoticed during the day. They tie themselves to tree branches at night. The skinny kid came back home, mostly walking, [from Berlin to Italy](/blog/after-1989-full-story/).
 
 ## A glimpse of something
 
-_A Little Boy That Santa Claus Forgot On A B-29_ is the second song from the concept album [_After 1989: A Trip To Freedom_](/work/original-music-productions/after-1989/). It plays around the two events. A glimpse of hope for the two tired men running away in Central Europe, a horrific wasteland in Japan. The nuclear era was born.
+_A Little Boy That Santa Claus Forgot On A B-29_ is the second song from the concept album _After 1989: A Trip To Freedom_. It plays around the two events. A glimpse of hope for the two tired men running away in Central Europe, a horrific wasteland in Japan. The nuclear era was born.
 
 ## ‘Little Boy’ official video
 
 {% include pattern-video.html id="5M1XTw483Ew" %}
-
-<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-music-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>
 
 ## Credits
 
@@ -77,3 +75,7 @@ The contrast between the Christmas carol-like music of the final section, and th
 Here is the demo of the song, at the time **entirely played by Paolo Clementi** with the acoustic viola. We recorded dozen of tracks, while he played the solo on top of these layers. Both the solo and the final viola riff made it to the final version.
 
 {% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2694261691/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=793443290/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom-original-demos-outtakes">After 1989: A Trip To Freedom (Original Demos &amp; Outtakes) by Minutes to Midnight</a></iframe>' %}
+
+<div class="text-center my-5 py-3">
+  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/original-music-productions/after-1989/" title="Read the album case study"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the album case study</strong></span></a>
+</div>

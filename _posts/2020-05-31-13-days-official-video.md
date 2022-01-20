@@ -17,7 +17,7 @@ excerpt: '1962. Kennedy announces proof of a build-up of Soviet missiles in Cuba
 ---
 <p class="lead">{{ page.excerpt }}</p>
 
-**October 1962, the Cuban Crisis** — President Kennedy goes live on TV, announcing he has proof of a build-up of Soviet missiles in Cuba. The threat of a pre-emptive strike to America is real. The level of military readiness is set one step from a global nuclear war. _13 Days_ is a single from the concept album [_After 1989: A Trip To Freedom_](/work/original/productions/after-1989/), released 9 November 2019.
+**October 1962, the Cuban Crisis** — President Kennedy goes live on TV, announcing he has proof of a build-up of Soviet missiles in Cuba. The threat of a pre-emptive strike to America is real. The level of military readiness is set one step from a global nuclear war. _13 Days_ is a single from the concept album [_After 1989: A Trip To Freedom_](/work/original-music-productions/after-1989/), released 9 November 2019.
 
 ---
 
@@ -26,8 +26,6 @@ excerpt: '1962. Kennedy announces proof of a build-up of Soviet missiles in Cuba
 ## Video
 
 {% include pattern-video.html id="v-B88EtXr9Q" %}
-
-<p class="detached text-uppercase fs-5">🔗 <a href="/work/original-music-productions/after-1989/">Read the <strong class="m2m-letter-spacing-w1">case study about <em>After 1989</em></strong></a></p>
 
 ## Credits
 
@@ -50,3 +48,7 @@ excerpt: '1962. Kennedy announces proof of a build-up of Soviet missiles in Cuba
 **Original 2020 footage** / [Silvia Maggi](https://silviamaggidesign.com/){:target="_blank" rel="noopener"}, Cambridge (UK), and [Andy Bonnor](https://linktr.ee/Andia){:target="_blank" rel="noopener"}, Mikkeli (Finland).  
 **Repertoire** / National Archives, United States Air Force, Cuban missile crisis footage by [David G. Coleman](https://historyinpieces.com/){:target="_blank" rel="noopener"}, Prelinger Archive.
 
+
+<div class="text-center my-5 py-3">
+  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/original-music-productions/after-1989/" title="Read the album case study"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the album case study</strong></span></a>
+</div>

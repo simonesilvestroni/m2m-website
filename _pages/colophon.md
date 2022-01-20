@@ -15,7 +15,7 @@ Developed from scratch using:
 - [Jekyll 4](https://jekyllrb.com/)
 - <abbr title="Syntactically Awesome Style Sheets">[SASS](https://sass-lang.com/)</abbr>
 - [PostCSS](https://postcss.org/)
-- [Bootstrap 5](https://getbootstrap.com/)
+- [Bootstrap 5.1](https://getbootstrap.com/)
 - [Node](https://nodejs.org/)
 - [GitHub](https://github.com/)
 - Javascript search module by [David Darnes](https://github.com/daviddarnes)

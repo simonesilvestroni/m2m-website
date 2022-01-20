@@ -11,7 +11,6 @@ tags:
   - music producer
   - music production
   - new york
-  - case study
 description: "The new single by Antiquity, 'Shelter From A Storm' is my new bass recording and co-production, together with Gerald Duchene."
 excerpt: "The new single by Antiquity, <em>Shelter From A Storm</em> is my new bass recording and co-production, together with Gerald Duchene."
 ---
@@ -25,7 +24,7 @@ Bandcamp is the best way to ensure independent artists can continue producing gr
 
 ## Recording music under a storm
 
-Crafted by [Gerald](https://sessions.antiquity-music.com/track/shelter-from-a-storm){:target="_blank" rel="noopener"}, while an actual storm was battering New York, this new song immediately captured my imagination. When he said “it’s calling for your bass”, I agreed. Recorded with a very few takes, cleaned up in half an hour, it’s unquestionably my best [bass recording](/work/) yet. Gerald also received this magnificent endorsement by **Leland Sklar** (bassist with Phil Collins, Toto and many more), which makes me immensely proud:
+Crafted by [Gerald](https://sessions.antiquity-music.com/track/shelter-from-a-storm){:target="_blank" rel="noopener"}, while an actual storm was battering New York, this new song immediately captured my imagination. When he said “it’s calling for your bass”, I agreed. Recorded with a very few takes, cleaned up in half an hour, it’s unquestionably my best [bass recording](/work/sound-design/) yet. Gerald also received this magnificent endorsement by **Leland Sklar** (bassist with Phil Collins, Toto and many more), which makes me immensely proud:
 
 > I’m really digging this one. His style reminds me of Paul Webb from Talk Talk. No needless notes. Great tone and feel. Good work, brother.
 > 
@@ -33,7 +32,7 @@ Crafted by [Gerald](https://sessions.antiquity-music.com/track/shelter-from-a-st
 
 ## Production notes
 
-I’ve had the pleasure to **co-produce the single**, working with [Dan Ecclestone](/hidden-music-dan-ecclestone/) on his vocal parts, helping create what seems to be our most powerful release to date. Gerald completed the mix, [Chris Pavey](https://chrispaveymastering.com/){:target="_blank" rel="noopener"} of CPM mastered.
+I’ve had the pleasure to **co-produce the single**, working with [Dan Ecclestone](/blog/hidden-music-dan-ecclestone/) on his vocal parts, helping create what seems to be our most powerful release to date. Gerald completed the mix, [Chris Pavey](https://chrispaveymastering.com/){:target="_blank" rel="noopener"} of CPM mastered.
 
 I’ve asked the guys to let me know their feelings about **the process** that lead to this gem of a song. These are their impressions.
 

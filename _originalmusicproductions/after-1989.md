@@ -20,10 +20,10 @@ permalink: '/work/original-music-productions/after-1989/'
 ---
 ## The story
 
-<p class="lead fs-2"><strong>Three decades after the fall of the Berlin Wall</strong>, <em>After 1989</em> is the tale of how a young man escaped Germany in 1945, while his grandson made the other way round, looking for answers that he could only find in 2017.</p>
+**Three decades after the fall of the Berlin Wall**, _After 1989_ is the tale of how a young man escaped a concentration camp in 1945, while his grandson made the other way round, looking for answers that he could only find in 2017.
 
 <div class="my-5 pb-4 text-center">
-  <a class="btn btn-lg btn-m2m btn-m2m-cta" href="/blog/after-1989-full-story/" title="Read the full story"><span class="small text-uppercase">Read the full story</span></a>
+  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/blog/after-1989-full-story/" title="Read the full story"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the full story</strong></span></a>
 </div>
 
 ## Release
@@ -56,7 +56,7 @@ _After 1989_ can also be found on:
 
 ## Production notes
 
-Mid 2017: after [completing the demos](/work/original-music-productions/after-1989-demos/) using Propellerhead's Reason, my friend and music partner Paolo left the project and the country. Following the end of such a long-term professional relationship, I decided to take some time and focus on graduating as a **master engineer at Berklee**. I then spent most of 2018 working as a mix engineer and producer for clients in the UK and the US, including [performing in a dozen of live concerts](/blog/live-shows/) around the south of England.
+Mid 2017: after I [completed the demos](/work/original-music-productions/after-1989-demos/) using Propellerhead's Reason, my friend and music partner Paolo left the project. I decided to take some time and focus on graduating as a **master engineer at Berklee**. I then spent most of 2018 working as a mix engineer and producer for clients in the UK and the US, including [performing in a dozen of live concerts](/blog/live-shows/) around the south of England.
 
 At the end of the year, as the 30th anniversary of the fall of the Berlin Wall was approaching, I found myself alone with a project I've been working on for a long time. Surprisingly, this gave me a decisive push towards **revising the whole concept**. Even before Paolo left, I'd been unhappy about the creative direction for a while, so at the start of 2019 I drafted a new synopsis with a simpler set of songs and started putting together a new group of collaborators.
 
@@ -64,9 +64,9 @@ The renewed project touched the same story but **changed the perspective**. No t
 
 ### New band
 
-To efficiently convey the new storyline, my first decision was to abandon the idea of an instrumental album. I wanted songs, as in _music and lyrics_, therefore finding a lead singer was paramount. Since **Rachel Goodman** couldn't be available for a full album, I [met **Dan Ecclestone**](/blog/ember-rev-premonition-and-ruin/) in Cambridge and agreed on working together on our respective albums. I then involved **Gerald Duchene** to help with guitars and saxophone, **Andy Bonnor** on drums and **Callum Gardner** on acoustic guitar and backing vocals.
+To efficiently convey the new storyline, my first decision was to abandon the idea of an instrumental album. I wanted songs, as in _music and lyrics_, therefore finding a lead singer was paramount. Since **Rachel Goodman** couldn't be available for a full album, I [met Dan Ecclestone](/blog/ember-rev-premonition-and-ruin/) in Cambridge and agreed on working together on our respective albums. I then involved **Gerald Duchene** to help with guitars and saxophone, **Andy Bonnor** on drums and **Callum Gardner** on acoustic guitar and backing vocals.
 
-Even though I initially considered scraping Paolo's contributions, I ended up keeping his amazing work on half of the songs, including several of his arrangements and his **beautiful viola**.
+Even though I initially considered scraping Paolo's contributions, I ended up keeping his amazing work on half of the songs, including several of his arrangements, a few guitar solos and his **beautiful viola**.
 
 ### Tracklist
 
@@ -84,19 +84,19 @@ All in all I had come up with **a complete new demo** in a relatively short time
 
 ### Collaboration
 
-While Dan and I were both in Cambridge and Callum lived in nearby London, working with other collaborators wasn't difficult at all. These days it's easy to master a <abbr title="Digital Audio Workstation">DAW</abbr> and used a shared cloud disk space. Gerald is a Logic Pro user so working with him was substantially straightforward. Everyone else had to **render their stems** using the correct formats and hand them over. I basically applied the same process when I had to import my own audio and MIDI tracks from the Reason demos.
+While Dan and I were both in Cambridge and Callum lived in nearby London, working with other collaborators wasn't difficult either. These days it's easy to master a <abbr title="Digital Audio Workstation">DAW</abbr> and use a shared cloud disk space. Gerald is a Logic Pro user so working with him was substantially straightforward. Everyone else had to **render their stems** using the correct formats and hand them over. I basically applied the same process when I had to import my own audio and MIDI tracks from the Reason demos.
 
 Overall, _After 1989_ was recorded in Ravenna and Milan (**Italy**), London and Cambridge (**UK**), Aiken and New York (**United States**), Mikkeli (**Finland**), Berlin (**Germany**).
 
 ### Mix and master
 
-Once all the recordings were done, the next phase was edit, polish and mix. I employed a technique borrowed from **Andrew Scheps**: work on three songs at the same time. This way I could focus on the big picture, exchanging methods between different pieces as I moved along.
+The next phase was edit, polish and mix. I employed a technique borrowed from **Andrew Scheps**: work on three songs at the same time. This way I could focus on the big picture, exchanging methods between different pieces as I moved along.
 
-I also eagerly dived more deeply into [**Michael Brauer**'s multi-bus compression](https://brauerizing.wordpress.com/){:target="_blank" rel="noopener"} technique, which I already experimented with in previous productions. More powerful and even better refined, today it's still a staple in my templates.
+I also eagerly dived more deeply into [Michael Brauer's multi-bus compression](https://brauerizing.wordpress.com/){:target="_blank" rel="noopener"} technique, which I already experimented with in previous productions. More powerful and even better refined, today it's still a staple in my templates.
 
-{% include pattern-figure.html image="/assets/images/multi-bus-brauer.png" caption="My current multi-bus setup in REAPER" width="420" height="687" %}
+{% include pattern-figure.html image="/assets/images/multi-bus-brauer.png" caption="My current multi-bus tracks in REAPER" width="420" height="687" %}
 
-In a nutshell: instead of applying a single mix bus compressor, the multi-bus methodology requires sending different instruments, **grouped by function and frequency range**, to four different set of compressors. I route piano and other synths to bus A, drums and bass to bus B, guitars, certain strings and synths to bus C, sound effects plus reverbs and delays to bus D. This way, the compressors act on specific settings without squashing material that they're not suited for. A thorough [**calibration**](https://youtu.be/M0akUKhkok0){:target="_blank" rel="noopener"} is required before starting to apply any routing.
+In a nutshell: instead of applying a single mix bus compressor, the multi-bus methodology requires sending different instruments, **grouped by function and frequency range**, to four different set of compressors. I route piano and other synths to bus A, drums and bass to bus B, guitars, certain strings and synths to bus C, sound effects plus reverbs and delays to bus D. This way, the compressors act on specific settings without squashing material that they're not suited for. A thorough [calibration](https://youtu.be/M0akUKhkok0){:target="_blank" rel="noopener"} is required before starting to apply any routing.
 
 Once the mix was complete, I engaged with renowned master engineer **Ian Shepherd** (co-author of the famous _Loudness penalty_ website and organizer of Dynamic Range Day), who perfected it all.
 
@@ -104,32 +104,32 @@ Once the mix was complete, I engaged with renowned master engineer **Ian Shepher
 
 As a long-term project, it's hard to write down an exaustive list of all the software used by myself and my collaborators.
 
-<table class="table mt-4 mb-5">
+<table class="table table-striped my-5">
   <tr>
-    <th><code>DAWs</code></th>
-    <td>Reason, Logic Pro X, Pro Tools, Ableton, Cubase.</td>
+    <th class="text-end"><kbd>DAWs</kbd></th>
+    <td>Reason, Logic Pro X, Pro Tools, Ableton Live, Cubase.</td>
   </tr>
   <tr>
-    <th><code>Editors</code></th>
+    <th class="text-end"><kbd>Editors</kbd></th>
     <td>iZotope RX, Wavelab, DSP Quattro, Triumph.</td>
   </tr>
   <tr>
-    <th><code>VST</code></th>
+    <th class="text-end"><kbd>VST</kbd></th>
     <td>Waves, Soundtoys, iZotope Ozone Advanced, Klanghelm, Voxengo.</td>
   </tr>
   <tr>
-    <th><code>VSTi</code></th>
+    <th class="text-end"><kbd>VSTi</kbd></th>
     <td>Addictive Drums, Addictive Keys, Alchemy, EastWest Hollywood Strings.</td>
   </tr>
 </table>
 
-Fun fact: the very first version of the song _The Logic_ was written in Italian in 1995, using **Cubasis Pro v1.0 and QY20 by Yamaha**.
+Fun fact: the very first version of the song _The Logic_ was written in Italian in 1995, using **Cubasis Pro v1.0 and a QY20 by Yamaha**.
 
 ### Release
 
-**Christopher Carvalho** of Unlock Your Sound, manager for _After 1989_, massively helped with the release campaign, including on social media and music submission websites. A proper word-of-mouth was key, especially with the selling of the [limited edition CD](https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom). I basically sold most copies by meeting with people and talk to them about the album.
+**Christopher Carvalho** of Unlock Your Sound, manager for _After 1989_, massively helped with the release campaign, including on social media and music submission websites. A proper word-of-mouth was key, especially with the selling of the [limited edition CD](https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom). I sold most copies by meeting with people and discussing the album.
 
-At the time, I chose **CD Baby** for digital distribution. As a member of PRS and PPL in the UK, I also went to CD Baby for publishing rights. Personally speaking, this is **a choice that I'd hardly repeat** in the future.
+At the time, I chose **CD Baby** for digital distribution. As a member of PRS and PPL in the UK, I also went to CD Baby for publishing rights.
 
 ## Reviews
 
@@ -139,8 +139,8 @@ At the time, I chose **CD Baby** for digital distribution. As a member of PRS an
 > The direct and immersive narrative allows history to speak for itself without being preachy or forced. The artist gives us a unique perspective of an outsider who manages to observe a great deal of pain without being directly subjected to it. Its themes are timely and human, and effortlessly connect with a modern audience. _After 1989_ is an immersive and interesting experiment in storytelling that will leave listeners meditating on its heavy themes.
 > <cite>— [IndieRepublik Berlin](https://indierepublik.com/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/){:target="_blank" rel="noopener"}</cite>
 
-<div class="mt-4 pt-3 text-center">
-  <a class="btn btn-lg btn-m2m btn-m2m-cta" href="/work/original-music-productions/after-1989-reviews/" title="Read all the reviews"><span class="small initialism">Read all the reviews</span></a>
+<div class="my-5 pb-4 text-center">
+  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/original-music-productions/after-1989-reviews/" title="Read all the reviews"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read all the reviews</strong></span></a>
 </div>
 
 ## Credits
@@ -153,6 +153,8 @@ Guitar solos by **Paolo Clementi**, except for _Skinny Kid_ by **Gerald Duchene*
 Sax solos by **Gerald Duchene**.  
 Piano solo in _The Day Before_ by **Dan Ecclestone**.  
 Viola theme in _Berlin 91_ by **Paolo Clementi**.
+
+### Performers
 
 <h4 class="text-uppercase">Skinny Kid</h4>
 
@@ -222,69 +224,74 @@ Viola theme in _Berlin 91_ by **Paolo Clementi**.
 **Callum Gardner** / Acoustic guitars  
 **Simone Silvestroni** / Fretless bass, drums  
 
-<br>
-Original sound effects recording, editing and historical samples restoration by **Simone Silvestroni**.  
-<br>
-Original sounds recorded in Berlin between 2017 and 2019 and Cambridge in 2019. All historical sound effects are in the public domain.
+### Sound effects
+
+Original sound effects recording, editing and historical samples restoration by Simone Silvestroni. Original sounds recorded in Berlin between 2017 and 2019 and Cambridge in 2019. All historical sound effects are in the public domain.
 
 <table class="table table-striped caption-top mt-4 mb-5">
   <caption class="text-center text-uppercase fw-bold"><strong>List of sound effects</strong></caption>
   <tr>
-    <th width="190"><kbd>ALL SONGS</kbd></th>
+    <th class="text-end" width="190"><kbd>ALL SONGS</kbd></th>
     <td>Tannoy system of the S-Bahn 1 train from Central Berlin to Oranienburg (recorded in 2019).</td>
   </tr>
   <tr>
-    <th><kbd>Skinny Kid</kbd></th>
+    <th class="text-end"><kbd>Skinny Kid</kbd></th>
     <td>BBC radio announcement (April 1945).</td>
   </tr>
   <tr>
-    <th><kbd>'Little Boy'</kbd></th>
+    <th class="text-end"><kbd>'Little Boy'</kbd></th>
     <td>Harry Truman, TV speech (August 1945).</td>
   </tr>
   <tr>
-    <th><kbd>The Logic</kbd></th>
+    <th class="text-end"><kbd>The Logic</kbd></th>
     <td>John F. Kennedy, TV speech (December 1961); East German soldier screaming.</td>
   </tr>
   <tr>
-    <th><kbd>13 Days</kbd></th>
+    <th class="text-end"><kbd>13 Days</kbd></th>
     <td>John F. Kennedy, TV speech (October 1962); Adlai Stevenson, United Nations speech (October 1962).</td>
   </tr>
   <tr>
-    <th><kbd>Unter Den Linden</kbd></th>
+    <th class="text-end"><kbd>Unter Den Linden</kbd></th>
     <td>John F. Kennedy speech in Berlin (June 1963).</td>
   </tr>
   <tr>
-    <th><kbd>Love Field</kbd></th>
+    <th class="text-end"><kbd>Love Field</kbd></th>
     <td>Dallas radio live report from Love Field airport; Dallas police (November 1963).</td>
   </tr>
   <tr>
-    <th><kbd>Requiem</kbd></th>
+    <th class="text-end"><kbd>Requiem</kbd></th>
     <td>Robert F. Kennedy eulogy for Martin Luther King, Indianapolis (April 1968).</td>
   </tr>
   <tr>
-    <th><kbd>The Day Before</kbd></th>
+    <th class="text-end"><kbd>The Day Before</kbd></th>
     <td>Children in a playground, Cambridge, UK (2019).</td>
   </tr>
   <tr>
-    <th><kbd>Berlin 91</kbd></th>
+    <th class="text-end"><kbd>Berlin 91</kbd></th>
     <td>Berlin Wall Memorial (2017).</td>
   </tr>
   <tr>
-    <th><kbd>Sachsenhausen</kbd></th>
+    <th class="text-end"><kbd>Sachsenhausen</kbd></th>
     <td>Birds and cars passing by, Oranienburg (2019).</td>
   </tr>
 </table>
 
-Recorded, produced and mixed by **Minutes to Midnight** at the Garden Room, Cambridge, UK.  
-Mastered by [**Ian Shepherd**](https://en.wikipedia.org/wiki/Ian_Shepherd){:target="_blank" rel="noopener"}.  
-Photography and cover photo digital retouch by [**Silvia Maggi**](https://silviamaggidesign.com){:target="_blank" rel="noopener"}, Berlin, Oranienburg, 2017-2019.  
-Cover photo by **Dan Budnik**: "An elderly woman, standing at the Berlin Wall, West sector, with hands raised, waiting to see her East Berlin friends and relatives (1961)".    
-CD photo by [**Adam Jones**](https://www.flickr.com/people/adam_jones){:target="_blank" rel="noopener"}: “Prisoner's Uniform with Red Triangle of Political Enemy: Majdanek Concentration Camp, Lublin, Poland”.  
-Sleeve design by **Simone Silvestroni**.  
-Management by **Christopher Carvalho**, [Unlock Your Sound Ltd](https://unlockyoursound.com){:target="_blank" rel="noopener"}.  
-<br>
+### Production
+
+Recorded, produced and mixed by Minutes to Midnight at the Garden Room, Cambridge, UK.  
+Mastered by [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd){:target="_blank" rel="noopener"}.  
+Management by Christopher Carvalho, [Unlock Your Sound Ltd](https://unlockyoursound.com){:target="_blank" rel="noopener"}.  
+
+### Design
+
+Sleeve design by Simone Silvestroni.  
+Photography and cover photo digital retouch by [Silvia Maggi](https://silviamaggidesign.com){:target="_blank" rel="noopener"}, Berlin, Oranienburg, 2017-2019.  
+Cover photo by Dan Budnik: _An elderly woman, standing at the Berlin Wall, West sector, with hands raised, waiting to see her East Berlin friends and relatives_ (1961).    
+CD photo by [Adam Jones](https://www.flickr.com/people/adam_jones){:target="_blank" rel="noopener"}: _Prisoner's Uniform with Red Triangle of Political Enemy: Majdanek Concentration Camp, Lublin, Poland_.  
+
+### Thanks
+
 I wish to thank my wife, my core family and close friends, all present and past performers and professionals involved, and Julie McCrae. Always grateful for the continuous support and help.
-<br>
 
 <p class="detached"><mark class="m2m-highlight">Album released <strong>November 9, 2019</strong>.</mark></p>
 

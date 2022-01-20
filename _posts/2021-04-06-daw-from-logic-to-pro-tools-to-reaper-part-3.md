@@ -29,29 +29,25 @@ In [**part 1**](/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/) & [**part 2
 5.  Community
 6.  Stock plug-ins
 
-___
-
 ## Benefit 7: Open architecture & development cycle
 
-Dan Worrall’s series also confirmed the **agile** way the software is maintained, with maximum attention to its community.
+Updates and fixes are relased regularly. [Dan Worrall’s video series](https://youtu.be/3OoVnTO3AB4) also confirmed the **agile** way the software is maintained, with maximum attention to its community.
 
 In a video about **ReaComp** (stock compressor plug-in), he pointed out a slight defect in the range of a slider. This is what happened, just **a week later**:
 
 {% include pattern-figure.html image="/assets/images/dan-worrall-reaper-comp.jpg" caption="REAPER compressor received a prompt update after a minor defect was pointed out on YouTube" width="768" height="555" %}
 
-Updates and fixes are relased regularly. This allowed me to safely upgrade my MacBook Pro to **macOS 11.2 Big Sur**, without worrying about compatibility: all my third-party plug-ins and audio interface drivers were already supported for some time.
-
 ## Benefit 8: Efficiency
 
-The last point would need a whole other slew of posts to be properly explained. I’m going to make a simple list of the main aspects, explaining the major improvements that REAPER brought to **my personal workflow**:
+The last point would need a whole other slew of posts to be properly explained. I’m going to make a simple list of the main aspects, explaining the major improvements that REAPER brought to **my personal workflow**.
 
 ### Speed
 
-The newest version opens in about 4.5 seconds on my 6-year-old machine. Rendering, editing and pretty much everything I do in REAPER is lightning fast.
+The newest version opens in about **4.5 seconds on my 6-year-old laptop**. Rendering, editing and pretty much everything I do in REAPER is lightning fast.
 
 ### Light-weight
 
-The single executable .app on macOS is 130 megabytes. Logic is 2 gigabytes, while Pro Tools is around 3.5 gigabytes.
+The installer is around 15 megabytes, while the single executable application on macOS is 130 megabytes. Logic is 2 gigabytes, while Pro Tools is around 3.5 gigabytes.
 
 ### Sub-projects
 
@@ -59,7 +55,7 @@ A project can include entire other projects, allowing to divide big sessions in 
 
 ### Render Matrix
 
-Add many regions to a render queue, which can be taken care of later. Also: _render presets_, great for exporting mono/stereo versions.
+Add many regions to a render queue, which can be taken care of later. Also: _render presets_, great for exporting mono/stereo versions with a multitude of different customizations.
 
 ### Powerful batch editor
 
@@ -83,11 +79,11 @@ Open multiple full-on sessions, each in its tab, and switch back and forth. Copy
 
 ### Quick built-in edits
 
-Reverse, normalize, loudness normalize, you name it.
+Reverse, peak normalize, loudness normalize, you name it.
 
 ### Actions list
 
-Open it with the keystroke `?`, filter all the actions by typing in the search box and find anything in seconds. The list includes Cockos’ own scripts, third-party add-ons and all the personal custom-created ones.
+Open it with the keystroke <kbd>?</kbd> then filter by typing in the search box and find anything in seconds. The list includes Cockos’ own scripts, third-party add-ons and all the personal custom-created ones.
 
 ### Markers and regions
 
@@ -125,9 +121,9 @@ I currently use REAPER for almost everything:
 
 It’s an unbelieavably **powerful, fast and flexible piece of software**, I regret not having tried it sooner.
 
-#### Bonus: other software
+### Bonus: other software
 
-I still fire up Logic for its virtual instruments, especially for pure sound design. I do plan to try **REAPER and Logic (or Reason) in sync**: if the ventilation system of my machine doesn’t catch fire, I’d like to have the opportunity. For anything related to restoration, advanced audio editing and clean-up I set [iZotope RX](https://www.izotope.com/en/products/rx.html){:target="_blank" rel="noopener"} as my **default external editor**. The workflow is:
+I still fire up Logic for its virtual instruments, especially for pure sound design. I do plan to try **REAPER and Logic (or Reason) in sync**: if the ventilation system of my machine doesn’t catch fire, I’d like to have the opportunity. For anything related to restoration, advanced audio editing and clean-up I set [iZotope RX](https://www.izotope.com/en/products/rx.html){:target="_blank" rel="noopener"} as my **default external editor**. In this case, the workflow is:
 
 1. <kbd>right-click on an audio region</kbd>
 2. <kbd>edit in external editor</kbd>

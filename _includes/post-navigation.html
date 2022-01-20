@@ -4,15 +4,19 @@
 
     <div class="w-50 border-end pe-2 text-end">
       {% if page.previous.url %}{% unless page.previous.hidden %}
-      <div class="mb-1"><span class="btn-label-m2m btn-label-m2m-bg m2m-left-arrow d-inline-block initialism fw-bold rounded">PREV</span></div>
-      <a class="text-decoration-none m2m-serif fs-5 m2m-transition-color-03s fw-bold" href="{{ site.url }}{{ page.previous.url }}">{{ page.previous.title }}</a>
+      <a class="d-block text-decoration-none fs-5 m2m-transition-color-03s fw-bold" href="{{ site.url }}{{ page.previous.url }}">
+        <div><span class="btn-label-lg-m2m btn-label-m2m-bg d-inline-block rounded fw-bold mb-2 px-2 py-1">← <strong>PREV</strong></span></div>
+        <span class="m2m-serif">{{ page.previous.title }}</span>
+      </a>
       {% endunless %}{% endif %}
     </div>
 
     <div class="w-50 border-start ps-2">
       {% if page.next.url %}{% unless page.next.hidden %}
-      <div class="mb-1"><span class="btn-label-m2m btn-label-m2m-bg m2m-right-arrow d-inline-block initialism fw-bold me-1 rounded">NEXT</span></div>
-      <a class="text-end text-decoration-none m2m-serif fs-5 m2m-transition-color-03s fw-bold" href="{{ site.url }}{{ page.next.url }}">{{ page.next.title }}</a>
+      <a class="d-block text-decoration-none fs-5 m2m-transition-color-03s fw-bold" href="{{ site.url }}{{ page.next.url }}">
+        <div><span class="btn-label-lg-m2m btn-label-m2m-bg d-inline-block rounded fw-bold mb-2 px-2 py-1"><strong>NEXT</strong> →</span></div>
+        <span class="m2m-serif">{{ page.next.title }}</span>
+      </a>
       {% endunless %}{% endif %}
     </div>
 
