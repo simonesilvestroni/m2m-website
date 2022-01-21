@@ -14,7 +14,7 @@
         <span class="text-uppercase m2m-font-micro d-inline-block"><strong>{{ page.year }}</strong></span>
       {% endif %}
       {%- for category in categories -%}
-        <a class="p-category" href="{{ site.url }}/category/{{ category | slugify | append: '/' }}"><span class="text-uppercase m2m-font-micro"><strong>{{ category | upcase | replace:"-"," " }}</strong></span></a>
+        <a class="p-category" href="/category/{{ category | slugify | append: '/' }}"><span class="text-uppercase m2m-font-micro"><strong>{{ category | upcase | replace:"-"," " }}</strong></span></a>
       {%- endfor -%}
       </td>
     </tr>
@@ -57,7 +57,7 @@
         <span class="d-inline-block m2m-font-micro text-uppercase me-1"><strong>Tags</strong></span>
       </th>
       <td>
-        {% for tag in tags %}<a class="p-category text-uppercase m2m-font-micro" href="{{ site.url }}/tag/{{ tag | slugify | append: '/' }}"><strong>{{ tag | upcase }}</strong></a>{% unless forloop.last %} <span class="d-inline-block">&middot;</span> {% endunless %}{% endfor %}
+        {% for tag in tags %}<a class="p-category text-uppercase m2m-font-micro" href="/tag/{{ tag | slugify | append: '/' }}"><strong>{{ tag | upcase }}</strong></a>{% unless forloop.last %} <span class="d-inline-block">&middot;</span> {% endunless %}{% endfor %}
       </td>
     </tr>
     <tr>

@@ -12,7 +12,7 @@
       {% for post in featured reversed limit:3 %}
         <div class="col m2m-transition-opacity-03s">
           <div class="card h-100 m2m-transition-border-03s">
-            <img class="card-img-top" src="{{ site.url }}/assets/images/highlights/highlighted-{%- if postFeat -%}{{ post.featured-image }}{%- elsif caseFeat -%}{{ casestudy.featured-image }}{%- endif -%}" alt="{%- if postFeat -%}{{ post.featured-image-alt }}{%- elsif caseFeat -%}{{ casestudy.featured-image-alt }}{%- endif -%}" width="300" height="169">
+            <img class="card-img-top" src="/assets/images/highlights/highlighted-{%- if postFeat -%}{{ post.featured-image }}{%- elsif caseFeat -%}{{ casestudy.featured-image }}{%- endif -%}" alt="{%- if postFeat -%}{{ post.featured-image-alt }}{%- elsif caseFeat -%}{{ casestudy.featured-image-alt }}{%- endif -%}" width="300" height="169">
             <div class="card-body">
               <h3 class="h4 mb-3">{%- if postFeat -%}{{ post.title }}{%- elsif caseFeat -%}{{ casestudy.title }}{%- endif -%}</h3>
               <div class="post-meta mb-3">

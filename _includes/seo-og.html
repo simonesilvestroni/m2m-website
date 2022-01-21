@@ -5,9 +5,9 @@
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="{{ site.title }}" />
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-<meta property="og:image" content="{% if page.featured-image %}{{ site.url }}/assets/images/{{ page.featured-image }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
+<meta property="og:image" content="{% if page.featured-image %}/assets/images/{{ page.featured-image }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
 <!-- LinkedIn -->
 <meta prefix="og: https://ogp.me/ns#" property="og:title" content="{% if page.url == "/" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ page.title }} - {{ site.title }} {{ site.tagline }}{% endif %}" />
 <meta prefix="og: https://ogp.me/ns#" property="og:type" content="website" />
-<meta prefix="og: https://ogp.me/ns#" property="og:image" content="{% if page.featured-image %}{{ site.url }}/assets/images/{{ page.featured-image }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
+<meta prefix="og: https://ogp.me/ns#" property="og:image" content="{% if page.featured-image %}/assets/images/{{ page.featured-image }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
 <meta prefix="og: https://ogp.me/ns#" property="og:url" content="{{ page.url | prepend: site.url }}" />
