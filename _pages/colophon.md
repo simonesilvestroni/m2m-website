@@ -19,7 +19,7 @@ Developed from scratch using:
 - [Node](https://nodejs.org/)
 - [GitHub](https://github.com/)
 - Javascript search module by [David Darnes](https://github.com/daviddarnes)
-- Deployed to [Netlify](https://www.netlify.com/)
+- Deployment: [![Netlify Status](https://api.netlify.com/api/v1/badges/d2941475-cc56-4e5c-98c9-e16845e6cbea/deploy-status)](https://app.netlify.com/sites/minutestomidnight/deploys)
 
 ## Performance
 
@@ -36,8 +36,8 @@ Developed from scratch using:
     <tr>
       <td class="text-center fs-3">✅ <a href="https://validator.w3.org/nu/?doc=https%3A%2F%minutestomidnight.co.uk%2F" target="_blank" rel="noopener">valid</a></td>
       <td class="text-center fs-3">100</td>
-      <td class="text-center fs-3 fw-bold">0.7 seconds</td>
-      <td class="text-center fs-3">407 kb</td>
+      <td class="text-center fs-3 fw-bold">0.46 seconds</td>
+      <td class="text-center fs-3">126 kb</td>
     </tr>
   </tbody>
 </table>
