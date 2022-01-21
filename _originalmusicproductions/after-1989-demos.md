@@ -69,7 +69,7 @@ Not mixed nor mastered.
 <br><br>
 Cover photo by Dan Budnik "An elderly woman, standing at the Berlin Wall, West sector, with hands raised, waiting to see her East Berlin friends and relatives (1961)". Cover photo digital retouch by [Silvia Maggi](https://silviamaggidesign.com){:target="_blank" rel="noopener"}.
 <br>
-<p class="detached"><mark class="m2m-highlight">Album released <strong>April 30, 2020</strong>.</mark></p>
+<p class="detached"><mark class="m2m-highlight small">Album released <strong>April 30, 2020</strong>.</mark></p>
 
 <p class="detached small">
   <sup>&copy;</sup> 2016 Music for <em>Unter Den Linden (Outtake Intro)</em> Paolo Clementi.<br>

@@ -60,8 +60,9 @@ $enable-gradients: false;
 $enable-negative-margins: true;
 
 // Links
-$link-color: $link-d-50;
-$link-decoration: $link-d-20;
+// $link-color: $link-d-50;
+$link-color: $heading-d-30;
+$link-decoration: $link-d-10;
 $link-shade-percentage: 30%;
 $link-hover-color: tint-color($link-color, $link-shade-percentage);
 $link-hover-decoration: tint-color($link-color, $link-shade-percentage);

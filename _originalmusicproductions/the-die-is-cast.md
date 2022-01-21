@@ -38,7 +38,7 @@ Then, the most pantomimic four years came and went, and all I could see is ‘Ru
 
 These two songs, even if written by someone else, prefectly encapsulate those days in June 2016. I spoke with [Gerald Duchene](https://sessions.antiquity-music.com/){:target="_blank" rel="noopener"}, long-time collaborator and friend of mine, about the idea of working together at these remixes. We both love a challenge, so off we went.
 
-> _When I first heard the original recordings of these songs, I knew there was something there. Simone and I were pretty much simpatico and on the same page right from the start of our work on these tunes. We’ve been working together for awhile now and it seems like we have comfortably fallen into this new sound. I’m very proud of the work we did on these two great songs by Dan. I think they are the products of careful thoughtful musicianship._
+> When I first heard the original recordings of these songs, I knew there was something there. Simone and I were pretty much simpatico and on the same page right from the start of our work on these tunes. We’ve been working together for awhile now and it seems like we have comfortably fallen into this new sound. I’m very proud of the work we did on these two great songs by Dan. I think they are the products of careful thoughtful musicianship.
 > 
 > <cite>&mdash; Gerald Duchene</cite>
 
@@ -79,7 +79,7 @@ _Papillon_ produced by Simone Silvestroni and Gerald Duchene.
 _Land Of Kings_ produced by Simone Silvestroni.  
 Mixed and mastered by Simone Silvestroni.
 
-<p class="detached"><mark class="m2m-highlight">EP preview released <strong>June 3, 2021</strong>.</mark></p>
+<p class="detached"><mark class="m2m-highlight small">EP preview released <strong>June 3, 2021</strong>.</mark></p>
 
 <p class="detached small">
   <sup>&copy;</sup> 2018 Music and lyrics Dan Ecclestone.<br>

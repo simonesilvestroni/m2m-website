@@ -293,7 +293,7 @@ CD photo by [Adam Jones](https://www.flickr.com/people/adam_jones){:target="_bla
 
 I wish to thank my wife, my core family and close friends, all present and past performers and professionals involved, and Julie McCrae. Always grateful for the continuous support and help.
 
-<p class="detached"><mark class="m2m-highlight">Album released <strong>November 9, 2019</strong>.</mark></p>
+<p class="detached"><mark class="m2m-highlight small">Album released <strong>November 9, 2019</strong>.</mark></p>
 
 <p class="detached small">
   <sup>&copy;</sup> 2019 Music and lyrics Simone Silvestroni. All rights reserved.<br>

@@ -21,7 +21,7 @@ body {
 // ------------------------------------------------ //
 
 .m2m-site-header {
-  background-color: rgba($heading-d-90, 0.5);
+  background-color: rgba(black, 0.55);
 
   @include media-breakpoint-up(md) {
     min-height: 100vh;
@@ -206,14 +206,13 @@ cite {
 // Links and hover (component as a utility class)
 %m2m-link,
 .m2m-link {
-  @extend .m2m-transition-txtdec-03s;
   color: $link-color !important;
   text-decoration-line: underline;
   text-decoration-thickness: 2px;
   text-decoration-color: $link-decoration !important;
 
   &:hover {
-    color: $link-hover-color;
+    color: $link-hover-color !important;
     text-decoration-line: underline;
     text-decoration-color: $link-hover-decoration;
     text-decoration-thickness: 3px;
@@ -222,7 +221,6 @@ cite {
 .m2m-link-hover:hover {
   text-decoration-line: underline;
   text-decoration-thickness: 3px;
-  // text-decoration-color: $link-hover-color;
 }
 %m2m-link-entry,
 .m2m-link-entry {
@@ -657,10 +655,10 @@ hr {
 .btn-m2m-cta {
   @extend .m2m-fw-black;
   text-decoration: none !important;
-  background-color: $link-l-60 !important;
-  color: $heading !important;
-  border-bottom: 4px solid $link-l-20;
-  border-right: 2px solid $link-l-20;
+  background-color: $link-l-30 !important;
+  color: $heading-d-30 !important;
+  border-bottom: 4px solid $link-d-10;
+  border-right: 2px solid $link-d-10;
 
   &:hover {
     color: $white !important;
@@ -750,7 +748,7 @@ hr {
     &-bg-03s:hover      { transition: background-color 0.3s ease-in !important; }
     // Text color
     &-color-01s:hover   { transition: color 0.1s ease-in !important; }
-    &-color-03s:hover   { transition: color 0.3s ease-in !important; }
+    &:hover   { transition: color 0.3s ease-in !important; }
     // Text-decoration
     &-txtdec-01s:hover  { transition: text-decoration-color 0.1s ease-in !important; }
     &-txtdec-03s:hover  { transition: text-decoration-color 0.3s ease-in !important; }
