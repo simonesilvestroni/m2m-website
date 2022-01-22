@@ -112,8 +112,10 @@ h4 {
   }
 
   .nav-link {
+    font-size: 0.85rem;
     color: black;
-    background-color: rgba($background-d-10, .3);
+    border: 2px solid rgba($background-d-40, .5);
+    border-bottom-width: 4px;
     border-radius: 4px;
   }
 }

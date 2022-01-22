@@ -10,7 +10,7 @@ function handleDeviceChange(e) {
 }
 handleDeviceChange(largeDevice);
 
-// Related posts & Webmentions
+// Related posts
 if(document.body.classList.contains('layout-post')){
   function removeIfEmptyChild(childId, fatherId) {
     const child = document.getElementById(childId)
@@ -20,5 +20,4 @@ if(document.body.classList.contains('layout-post')){
     }
   }
   removeIfEmptyChild("related-posts-list", "related-posts")
-  removeIfEmptyChild("webmentions", "webmentions-cont")
 }

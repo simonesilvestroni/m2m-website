@@ -1112,26 +1112,6 @@ progress {
   border-color: #f2f2e6;
 }
 
-@-webkit-keyframes progress-bar-stripes {
-  0% {
-    background-position-x: 1rem;
-  }
-}
-
-@keyframes progress-bar-stripes {
-  0% {
-    background-position-x: 1rem;
-  }
-}
-.progress {
-  display: flex;
-  height: 1rem;
-  overflow: hidden;
-  font-size: 0.75rem;
-  background-color: #e9ecef;
-  border-radius: 0.25rem;
-}
-
 .list-group {
   display: flex;
   flex-direction: column;
@@ -1185,37 +1165,6 @@ progress {
   border-bottom-width: 0;
 }
 
-@-webkit-keyframes spinner-border {
-  to {
-    transform: rotate(360deg) /* rtl:ignore */;
-  }
-}
-
-@keyframes spinner-border {
-  to {
-    transform: rotate(360deg) /* rtl:ignore */;
-  }
-}
-
-@-webkit-keyframes spinner-grow {
-  0% {
-    transform: scale(0);
-  }
-  50% {
-    opacity: 1;
-    transform: none;
-  }
-}
-
-@keyframes spinner-grow {
-  0% {
-    transform: scale(0);
-  }
-  50% {
-    opacity: 1;
-    transform: none;
-  }
-}
 .clearfix::after {
   display: block;
   clear: both;
@@ -1382,10 +1331,6 @@ progress {
 
 .me-3 {
   margin-right: 1rem !important;
-}
-
-.me-4 {
-  margin-right: 1.5rem !important;
 }
 
 .mb-0 {
@@ -1713,8 +1658,10 @@ body {
   margin: 2px 1px;
 }
 .nav-small .nav-link {
+  font-size: 0.85rem;
   color: black;
-  background-color: rgba(211, 211, 171, 0.3);
+  border: 2px solid rgba(140, 140, 114, 0.5);
+  border-bottom-width: 4px;
   border-radius: 4px;
 }
 
