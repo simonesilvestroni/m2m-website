@@ -71,4 +71,4 @@ As they say in their homepage, IndieWeb is a people-focused alternative to the _
 
 > Berners-Lee felt that the Internet was in need of repair and conceived the Solid project as a first step to fix it, as a way to give individual users full control over the usage of their data.
 
-Silvia’s [new website is ready](https://silviamaggidesign.com/design/brand-new-website/){:rel="in-reply-to"}. Mine will follow suit. Onward and upward.
+Silvia’s [new website is ready](https://silviamaggidesign.com/design/brand-new-website/){:class="u-like-of"}. Mine will follow suit. Onward and upward.
