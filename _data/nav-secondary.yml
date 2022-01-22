@@ -1,0 +1,8 @@
+- name: Archive
+  link: /archive/
+- name: Colophon
+  link: /colophon/
+- name: Search
+  link: /search/
+- name: Privacy
+  link: /privacy-policy/

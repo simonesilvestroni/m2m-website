@@ -1,6 +1,8 @@
 <footer class="text-center text-md-start py-4" id="m2m-footer">
   <p class="small my-2">&copy; {{ site.time | date: '%Y' }} {{ site.title }}&trade;</p>
-  <p class="fs-5 mb-0">
-    <a class="m2m-link px-1 py-1 fw-bold{% if page.url contains '/colophon/' %} m2m-current rounded{% endif %}" href="/colophon/" title="Details about this website"><strong>Colophon</strong></a> / <a class="m2m-link px-1 py-1 fw-bold{% if page.url contains '/search/' %} m2m-current rounded{% endif %}" href="/search/"><strong>Search</strong></a> / <a class="m2m-link fw-bold px-1 py-1{% if page.url contains '/privacy-policy/' %} m2m-current rounded{% endif %}" href="/privacy-policy/" title="Privacy policy"><strong>Privacy</strong></a>
-  </p>
+  <nav class="nav-secondary mb-0" role="navigation">
+    {% for item in site.data.nav-secondary -%}
+    <a class="m2m-link fw-bold{% if page.url contains item.link %} m2m-current rounded{% endif %}" href="{{ item.link }}" title="Go to: {{ item.name }}"><strong>{{ item.name }}</strong></a>
+    {% endfor -%}
+  </nav>
 </footer>

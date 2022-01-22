@@ -193,7 +193,7 @@ I stopped using iCloud, OneDrive, Google Drive (or whatever they call it now) lo
 
 ### Backup
 
-[Carbon Copy Cloner](https://bombich.com/) on macOS, **Acronis True Image** on Windows. Following a strict [3-2-1 rule](/blog/backup-and-audio-archival/), Backblaze is my off-site backup solution. Between current projects, past archives, personal data and backups, there are around 15 terabytes of storage.
+[Carbon Copy Cloner](https://bombich.com/) on macOS, **Acronis True Image** on Windows. Following a strict [3-2-1 rule](/blog/backup-and-audio-archival/), Backblaze is my current off-site backup solution, about to be replaced by [Arq](https://www.arqbackup.com/pricing/). Between current projects, past archives, personal data and backups, there are around 15 terabytes of storage.
 
 ### Update policy
 

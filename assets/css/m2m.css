@@ -19,6 +19,10 @@ em {
   color: #d7d7be;
 }
 
+.card-footer {
+  border-top: none !important;
+}
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -965,7 +969,7 @@ progress {
   word-wrap: break-word;
   background-color: rgba(236, 236, 197, 0.3);
   background-clip: border-box;
-  border: 0 solid rgba(0, 0, 0, 0.125);
+  border: 3px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
 }
 .card > hr {
@@ -1006,7 +1010,7 @@ progress {
 
 .card-footer {
   padding: 0.5rem 1rem;
-  border-top: 0 solid rgba(0, 0, 0, 0.125);
+  border-top: 3px solid rgba(0, 0, 0, 0.125);
 }
 .card-footer:last-child {
   border-radius: 0 0 calc(0.25rem - 1px) calc(0.25rem - 1px);
@@ -1408,11 +1412,6 @@ progress {
   margin-left: 0.25rem !important;
 }
 
-.px-1 {
-  padding-right: 0.25rem !important;
-  padding-left: 0.25rem !important;
-}
-
 .px-2 {
   padding-right: 0.5rem !important;
   padding-left: 0.5rem !important;
@@ -1605,6 +1604,10 @@ progress {
     display: inline-block !important;
   }
 
+  .d-md-block {
+    display: block !important;
+  }
+
   .d-md-none {
     display: none !important;
   }
@@ -1679,8 +1682,13 @@ body {
   }
 }
 
-.w-18 {
-  width: 18%;
+.w-16 {
+  width: 32%;
+}
+@media (min-width: 768px) {
+  .w-16 {
+    width: 16%;
+  }
 }
 #navigation-main {
   color: white;
@@ -1705,18 +1713,27 @@ body {
   margin: 2px 1px;
 }
 .nav-small .nav-link {
-  color: white;
-  background-color: rgba(94, 94, 76, 0.6);
-  padding: 0.4rem 1rem;
+  color: black;
+  background-color: rgba(211, 211, 171, 0.3);
   border-radius: 4px;
 }
 
-.nav-large {
-  display: none;
+.nav-secondary {
+  font-size: 1rem;
+}
+.nav-secondary a {
+  display: inline-block;
+  padding: 2px 6px;
 }
 @media (min-width: 768px) {
-  .nav-large {
-    display: block;
+  .nav-secondary {
+    font-size: 1.2rem;
+  }
+  .nav-secondary a {
+    margin-right: 2px;
+  }
+  .nav-secondary a::last-child {
+    margin-right: 0;
   }
 }
 

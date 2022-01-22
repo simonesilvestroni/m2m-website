@@ -55,8 +55,12 @@ body {
 // .ms-n5 {
 //   margin-left: rfs-fluid-value(-120px);
 // }
-.w-18 {
-  width: 18%;
+.w-16 {
+  width: 32%;
+
+  @include media-breakpoint-up(md) {
+    width: 16%;
+  }
 }
 
 
@@ -108,16 +112,28 @@ h4 {
   }
 
   .nav-link {
-    color: white;
-    background-color: rgba($background-d-60, .6);
-    padding: $spacer/2.5 $spacer;
+    color: black;
+    background-color: rgba($background-d-10, .3);
     border-radius: 4px;
   }
 }
-.nav-large {
-  display: none;
+.nav-secondary {
+  font-size: 1rem;
+  
+  a {
+    display: inline-block;
+    padding: 2px 6px;
+  }
+
   @include media-breakpoint-up(md) {
-    display: block;
+    font-size: 1.2rem;
+
+    a {
+      margin-right: 2px;
+      &::last-child {
+        margin-right: 0;
+      }
+    }
   }
 }
 /* purgecss end ignore */

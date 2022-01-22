@@ -7,7 +7,7 @@
   <ul class="nav nav-small justify-content-center" aria-label="Navigation">
     {% for item in site.data.nav-site -%}
     <li class="nav-item mx-1">
-      <a class="nav-link fs-6 text-uppercase fw-bold{% if page.url contains item.link %} m2m-current{% endif %}" href="{{ item.link }}"><strong>{{ item.name }}</strong></a>
+      <a class="nav-link fs-6 text-uppercase fw-bold px-2 py-1{% if page.url contains item.link %} m2m-current{% endif %}" href="{{ item.link }}"><strong>{{ item.name }}</strong></a>
     </li>
     {% endfor -%}
   </ul>
