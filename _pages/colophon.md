@@ -23,24 +23,26 @@ Developed from scratch using:
 
 ## Performance
 
-<table class="table mt-4 mb-5">
-  <thead>
-    <tr class="table-dark">
-      <th scope="col" class="align-top text-center text-uppercase fw-bold"><strong>Code validation</strong></th>
-      <th scope="col" class="align-top text-center text-uppercase fw-bold"><strong>Google score</strong></th>
-      <th scope="col" class="align-top text-center text-uppercase fw-bold"><strong>Speed index</strong></th>
-      <th scope="col" class="align-top text-center text-uppercase fw-bold"><strong>Page weight</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="text-center fs-3">✅ <a href="https://validator.w3.org/nu/?doc=https%3A%2F%minutestomidnight.co.uk%2F" target="_blank" rel="noopener">valid</a></td>
-      <td class="text-center fs-3">100</td>
-      <td class="text-center fs-3 fw-bold">0.46 seconds</td>
-      <td class="text-center fs-3">126 kb</td>
-    </tr>
-  </tbody>
-</table>
+<div class="table-responsive">
+  <table class="table mt-4 mb-5">
+    <thead>
+      <tr class="table-dark">
+        <th scope="col" class="align-top text-center text-uppercase fw-bold"><strong>Code validation</strong></th>
+        <th scope="col" class="align-top text-center text-uppercase fw-bold"><strong>Google score</strong></th>
+        <th scope="col" class="align-top text-center text-uppercase fw-bold"><strong>Speed index</strong></th>
+        <th scope="col" class="align-top text-center text-uppercase fw-bold"><strong>Page weight</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="text-center fs-3">✅ <a href="https://validator.w3.org/nu/?doc=https%3A%2F%minutestomidnight.co.uk%2F" target="_blank" rel="noopener">valid</a></td>
+        <td class="text-center fs-3">100</td>
+        <td class="text-center fs-3 fw-bold">0.46 seconds</td>
+        <td class="text-center fs-3">126 kb</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## Accessibility
 
