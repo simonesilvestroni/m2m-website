@@ -21,7 +21,7 @@ I’m fairly used to loops in life. Being a digital polymath, I spent my life [w
 
 ## Back to the roots
 
-Following a process to recalibrate my self-identity after [leaving social media](/blog/escape-from-social-media/){:class="u-repost-of"}, I came to know a whole lot of the web that I didn’t suspect still existed. People who happily maintain a blog, who keep up to date with other websites through newsletters and [RSS](https://aboutfeeds.com/){:target="_blank" rel="noopener"} like I do. Authors researching the best way to get out of the _silo-like_ online mentality that dominated the last decade.
+Following a process to recalibrate my self-identity after [leaving social media]({{ site.url }}/blog/escape-from-social-media/){:class="u-repost-of"}, I came to know a whole lot of the web that I didn’t suspect still existed. People who happily maintain a blog, who keep up to date with other websites through newsletters and [RSS](https://aboutfeeds.com/){:target="_blank" rel="noopener"} like I do. Authors researching the best way to get out of the _silo-like_ online mentality that dominated the last decade.
 
 Instead of going on complaining about how the web has been hijacked by advertising and surveillance capitalism, I decided to do something. Together with [Silvia](https://silviamaggidesign.com/){:target="_blank" rel="noopener"}, we started a complete refactor of our online presence.
 
