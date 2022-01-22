@@ -131,6 +131,10 @@ jekyll-archives:
 
 excerpt_separator: <!--more-->
 
+# Webmentions
+webmentions:
+  username: minutestomidnight.co.uk
+
 # Responsive images
 responsive_image:
   template: _includes/pattern-responsive-image.html
@@ -145,3 +149,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-archives
   - jekyll-responsive-image
+  - jekyll-webmention_io

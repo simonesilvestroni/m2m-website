@@ -8,7 +8,7 @@ permalink: '/contact/'
 ---
 ## Hire me
 
-I’m available for hire: [reach out via email](mailto:hello@minutestomidnight.co.uk) and let me know what do you need help with. We’ll take it from there. 
+I’m available for hire: [reach out via email](mailto:hello@minutestomidnight.co.uk){:rel="me"} and let me know what do you need help with. We’ll take it from there. 
 
 If you need bass tracks or production, it's possible to hire me through [SoundBetter](https://soundbetter.com/profiles/206552-minutes-to-midnight){:target="_blank" rel="noopener"}, a safe and secure platform to hire freelance musicians.
 
