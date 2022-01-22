@@ -51,7 +51,7 @@ Developed from scratch using:
 
 ## Sustainability
 
-Only `0.07g of CO2` is produced every time someone visits the homepage. Cleaner than `93%` of [web pages tested](https://www.websitecarbon.com/website/minutestomidnight-co-uk/ "Visit Website carbon"){:target="_blank" rel="noopener"}.
+Only `0.07g of CO2` is produced every time someone visits the homepage. Cleaner than `93%` of [web pages tested](https://www.websitecarbon.com/website/minutestomidnight-co-uk/ "Visit Website carbon"){:target="_blank" rel="noopener"}. The website is running on sustainable energy.
 
 ## Copyright
 
