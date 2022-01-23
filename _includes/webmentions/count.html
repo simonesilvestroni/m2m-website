@@ -1,2 +1,2 @@
 {% capture webmention_types %}{{ types | join: ',' }}{% endcapture %}
-<p>Responses: <kbd class="webmention-count"{% unless webmention_types=="" %} data-webmention-types="{{ webmention_types }}"{% endunless %}><strong>{{ count }}</strong></kbd></p>
+<p class="fs-5 detached">Responses: <kbd class="webmention-count"{% unless webmention_types=="" %} data-webmention-types="{{ webmention_types }}"{% endunless %}><strong>{{ count }}</strong></kbd></p>
