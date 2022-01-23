@@ -366,49 +366,6 @@ cite {
 
 
 // ------------------------------------------------ \\
-// $WEBMENTIONS
-// ------------------------------------------------ //
-
-/* purgecss start ignore */
-#webmentions,
-.webmentions {
-  position: relative;
-  z-index: 100;
-  line-height: 1.2;
-  margin-bottom: 3rem;
-  width: 75%;
-  @include media-breakpoint-down(md) {
-    width: 100%;
-  }
-  ul {
-    @include list-unstyled();
-    margin: 0;
-    padding: 0;
-
-    li {
-      margin-bottom: 1rem;
-
-      &.reaction-reply {
-        margin-left: .75rem;
-        padding-left: 1rem;
-        border-left: 2px solid #f3eae5;
-      }
-    }
-  }
-  a {
-    &.reaction {
-      text-decoration: none;
-
-      img {
-        @extend .visually-hidden;
-      }
-    }
-  }
-}
-/* purgecss end ignore */
-
-
-// ------------------------------------------------ \\
 // $PORTFOLIO
 // ------------------------------------------------ //
 .container-portfolio {
