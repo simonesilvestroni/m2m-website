@@ -134,6 +134,16 @@ excerpt_separator: <!--more-->
 # Webmentions
 webmentions:
   username: minutestomidnight.co.uk
+  templates:
+    bookmarks: _includes/webmentions/bookmarks.html
+    count: _includes/webmentions/count.html
+    likes: _includes/webmentions/likes.html
+    links: _includes/webmentions/links.html
+    posts: _includes/webmentions/posts.html
+    replies: _includes/webmentions/replies.html
+    reposts: _includes/webmentions/reposts.html
+    rsvps: _includes/webmentions/rsvps.html
+    webmentions: _includes/webmentions/webmentions.html
 
 # Responsive images
 responsive_image:
