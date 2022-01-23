@@ -13,6 +13,16 @@ tags:
   - new york
 description: "The new single by Antiquity, 'Shelter From A Storm' is my new bass recording and co-production, together with Gerald Duchene."
 excerpt: "The new single by Antiquity, <em>Shelter From A Storm</em> is my new bass recording and co-production, together with Gerald Duchene."
+comments:
+  - comment:
+    author: 'Silvia Maggi'
+    href: 'https://silviamaggidesign.com'
+    response: "Great track, I love it! Amazing work, all of you."
+  - comment:
+    reply: true
+    author: 'Minutes to Midnight'
+    href: 'https://minutestomidnight.co.uk'
+    response: "Thank you 🙂"
 ---
 <p class="lead">{{ page.excerpt }}</p>
 

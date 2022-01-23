@@ -13,6 +13,11 @@ tags:
   - song review
 description: "Secret Eclectic review for my song '13 Days'. A London-based website, they're a team of people who love supporting emerging acts."
 excerpt: 'Secret Eclectic is a London-based website founded by a team of people who follow the arts worldwide. They love supporting emerging acts or people who deserve more recognition.'
+comments:
+  - comment:
+    author: 'Silvia Maggi'
+    href: 'https://silviamaggidesign.com'
+    response: "What a great review, a pleasure to read."
 ---
 <p class="lead">{{ page.excerpt }}</p>
 

@@ -8,12 +8,12 @@ excerpt: 'I&rsquo;ve been keeping a blog, across different websites, since 2002.
 ---
 <p class="lead">{{ page.excerpt }}</p>
 
-<h2 class="text-center text-uppercase my-5">4 most popular posts</h2>
+<h2 class="text-center text-uppercase my-5">Popular posts</h2>
 
-{% assign popular = site.posts | where: "tags", "popular" | limit: 4 %}
+{% assign popular = site.posts | where: "tags", "popular" %}
 <div class="card-group mb-5">
-  <div class="row row-cols-1 row-cols-sm-2 g-4">
-  {%- for post in popular -%}
+  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3">
+  {%- for post in popular limit:3 -%}
     {%- include pattern-card-post.html -%}
   {%- endfor -%}
   </div>

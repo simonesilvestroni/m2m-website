@@ -17,6 +17,29 @@ tags:
   - remix
 description: "New single out. Included in the new EP 'Aperture' by Italian artist Nevica, 'Non sai chi sono' is the remix by Emilio Albertoni and Minutes to Midnight."
 excerpt: "New single out today. Included in the new EP <em>Aperture</em>, <em>Non sai chi sono</em> is the remix of an original song by Italian artist and producer Nevica, aka Gianluca Lo Presti."
+comments:
+  - comment:
+    author: 'Gerald Duchene'
+    href: 'http://gravatar.com/thelastlegblog'
+    response: "Well done sir."
+  - comment:
+    reply: true
+    author: 'Minutes to Midnight'
+    href: 'https://minutestomidnight.co.uk'
+    response: "Thanks G! "
+  - comment:
+    author: 'Christopher Carvalho'
+    href: 'https://unlockyoursound.com'
+    response: "Congrats on the release! "
+  - comment:
+    author: 'Silvia Maggi'
+    href: 'https://silviamaggidesign.com'
+    response: "Great work and story! "
+  - comment:
+    reply: true
+    author: 'Minutes to Midnight'
+    href: 'https://minutestomidnight.co.uk'
+    response: "Cheers Chris and Silvia! "
 ---
 <p class="lead">{{ page.excerpt }}</p>
 
