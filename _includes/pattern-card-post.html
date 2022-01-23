@@ -10,7 +10,6 @@
       <mark class="m2m-highlight d-inline-block mb-2"><span class="p-category text-uppercase initialism fw-bold px-2"><strong>{{ category | upcase | replace:"-"," " }}</strong></span></mark>
       {% endfor %}
       <h4 class="m2m-sans text-uppercase my-3">{{ post.title }}</h4>
-      <p class="card-text text-start fs-5 lh-sm">{{ post.excerpt | strip_html }}</p>
     </div>
     <div class="card-footer text-center pb-3">
       <a class="stretched-link btn btn-md btn-m2m btn-m2m-cta text-decoration-none fw-bold" href="{{ post.url }}" title="Read: {{ post.title }}"><span class="small initialism"><strong>Read the post</strong></span></a>
