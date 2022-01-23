@@ -5,14 +5,6 @@
     <img class="w-100" src="/assets/images/thumb-{{ casestudy.title | downcase | replace: " ","-" | append: ".jpg" }}" alt="{{ casestudy.title }}" width="350" height="350">
     {%- endif -%}
     <div class="card-body text-center">
-      {%- if casestudy -%}
-      {%- assign categories = casestudy.year -%}
-      {%- else -%}
-      {%- assign categories = page.categories -%}
-      {%- endif -%}
-      {%- for category in categories -%}
-      <mark class="m2m-highlight d-inline-block mb-2"><span class="p-category text-uppercase initialism fw-bold px-2"><strong>{{ category | upcase }}</strong></span></mark>
-      {% endfor %}
       <h4 class="m2m-sans text-uppercase my-3">{{ casestudy.title }}</h4>
       <p class="card-text text-start fs-5 lh-sm">
         {%- if page.url contains '/work/web-design/' -%}
@@ -23,7 +15,7 @@
       </p>
     </div>
     <div class="card-footer text-center pb-3">
-      <a class="stretched-link btn btn-md btn-m2m btn-m2m-cta text-decoration-none fw-bold" href="{{ casestudy.url }}" title="Check out {{ casestudy.title }}"><span class="small initialism"><strong>About '{{ casestudy.title }}'</strong></span></a>
+      <a class="stretched-link btn btn-md btn-m2m btn-m2m-cta text-decoration-none fw-bold" href="{{ casestudy.url }}" title="Check out {{ casestudy.title }}"><span class="fs-6 initialism"><strong>Read the case study</strong></span></a>
     </div>
   </div>
 </div>

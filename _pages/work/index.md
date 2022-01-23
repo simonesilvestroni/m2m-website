@@ -19,7 +19,7 @@ permalink: '/work/'
             <p class="card-text text-start"><strong>Recording and sculpting sound</strong> has always been a massive creative push. Heterogeneous collaborations, game audio, editing and restoration are a constant source of excitement.</p>
           </div>
           <div class="card-footer text-center">
-            <a class="stretched-link btn btn-lg btn-m2m btn-m2m-cta text-decoration-none fw-bold" href="/work/sound-design/"><span class="small initialism">About <strong>SOUND DESIGN</strong></span></a>
+            <a class="stretched-link btn btn-lg btn-m2m btn-m2m-cta text-decoration-none fw-bold" href="/work/sound-design/"><span class="fs-5 initialism"><strong>Sound design works</strong></span></a>
           </div>
         </div>
       </div>
@@ -30,7 +30,7 @@ permalink: '/work/'
             <p class="card-text text-start"><strong>Designing and coding for the web</strong> is my parallel skill. A digital evolution of a past experience with the printed page, I strive for exceptional minimalism and optimization.</p>
           </div>
           <div class="card-footer text-center">
-            <a class="stretched-link btn btn-lg btn-m2m btn-m2m-cta text-decoration-none fw-bold" href="/work/web-design/"><span class="small initialism">About <strong>WEB DESIGN</strong></span></a>
+            <a class="stretched-link btn btn-lg btn-m2m btn-m2m-cta text-decoration-none fw-bold" href="/work/web-design/"><span class="fs-5 initialism"><strong>Web design works</strong></span></a>
           </div>
         </div>
       </div>
@@ -41,7 +41,7 @@ permalink: '/work/'
             <p class="card-text text-start">Beyond a stint as a game audio composer, <strong>I love telling stories with music</strong>. This is why my original productions mostly focus on the concept album as a format.</p>
           </div>
           <div class="card-footer text-center">
-            <a class="stretched-link btn btn-lg btn-m2m btn-m2m-cta text-decoration-none fw-bold" href="/work/original-music-productions/"><span class="small initialism">About <strong>ORIGINAL MUSIC PRODUCTIONS</strong></span></a>
+            <a class="stretched-link btn btn-lg btn-m2m btn-m2m-cta text-decoration-none fw-bold" href="/work/original-music-productions/"><span class="fs-5 initialism"><strong>Original production works</strong></span></a>
           </div>
         </div>
       </div>
