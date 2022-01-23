@@ -14,6 +14,16 @@ tags:
   - world war ii  
 description: "Despite the developer's effort, Google refused to publish the game 'Attentat 1942' on their Play Store in Germany, France, Austria and Russia."
 excerpt: 'Article by Game Developer (formerly Gamasutra) about the release of the videogame <em>Attentat 1942</em>. Google refused to publish the game on their Play Store in Germany, France, Austria and Russia.'
+comments:
+  - comment:
+    author: 'Jarilissima'
+    href: 'http://jarilissima.wordpress.com'
+    response: "Google is feeling more and more like an overprotective, controlling parent.  WWII is heartbreaking, yes very much so, but important to learn about.  Thanks for sharing."
+  - comment:
+    reply: true
+    author: 'Minutes to Midnight'
+    href: 'https://minutestomidnight.co.uk'
+    response: "Yeah, I don't even fully understand their reasoning, to be honest. The company's due diligence with the German authorities was exceptional. I agree with you about WWII, I have a personal involvement with the event so I can fully relate. Thanks."
 ---
 <p class="lead">{{ page.excerpt }}</p>
 

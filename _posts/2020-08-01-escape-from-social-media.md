@@ -21,6 +21,34 @@ tags:
   - popular
 description: "Finally, I’m leaving social media, Facebook, Twitter, Instagram, WhatsApp, Reddit, redirecting my attention and my time to something more productive."
 excerpt: 'Like plenty others, I’m finally leaving social media, and by that I mean Facebook, Twitter, Instagram, WhatsApp, Pinterest and Reddit. This post is a personal point of view, it’s not intended as an exhaustive analysis on what is going on with social media, nor am I trying to convince anybody. I’m just <strong>redirecting my attention and my time</strong> to something more productive.'
+comments:
+  - comment:
+    author: 'Chiara'
+    href: 'mailto:chiaraeglialtri@gmail.com'
+    response: "I’ve been thinking about leaving Social Media for years, but I’ve not made that crucial step yet because most of my relationships are based on deep connections through Social Media platforms.<br>Anyway, in the last months I took many social media breaks and I’m going to take a new one in a few days. I felt the strong urge to improve my productivity and my mental health, taking a break from hate speech-posts helped me a lot. I share your feelings, I don’t know if I’ll leave Social Media but I’ll keep taking breaks every once in a while."
+  - comment:
+    reply: true
+    author: 'Minutes to Midnight'
+    href: 'https://minutestomidnight.co.uk'
+    response: "That’s one way to approach the problem that I’ve taken into serious consideration for a while. I think what gave me the final nudge was the feeling “if social media is all there is between us, there really is little to nothing”. But that’s valid for me, I agree it’s very personal. Thanks for sharing your point of view, I can fully relate to this."
+  - comment:
+    author: 'AndiA'
+    href: 'https://www.inyourdreams.fi'
+    response: "Good move! Take back control of your own time. Hats off. I’ve had recent success on Twitter, connected very well with a few enlightened musos there.. Refreshing to say the least. And this little oasis of ppl turn Socialmedia on its head..not out for self.. But prefer to support each other. Fb on the other hand.. Use less and less. I always have a book or 2 on the go too. .now reading books on direct marketing.. Now I know all about it! And am applying it. No need to fall for those marketing experts/courses that promise all sorts for.. Not 10,000, not 1000, not 99, but 37$. Never fell for them anyway. See you in your blogs."
+  - comment:
+    reply: true
+    author: 'Minutes to Midnight'
+    href: 'https://minutestomidnight.co.uk'
+    response: "Yeah, I should have pointed out that I’m aware and fully understand that many people are quite happy with their social media engagement. In my case, I can’t unsee the behaviour manipulation, the way algorithms shift everything away from real interactions. Or, simply put, I’m not able to create a space for myself there that’s safe enough. I get involved and worked up with politics, and that’s probably the top reason why social media isn’t really for me."
+  - comment:
+    author: 'Marty G'
+    href: 'https://www.parttimeproducer.com'
+    response: "Hi Simone, I wanted to say hi and ask how your social media leaving has been since August? I’m conscious we’ve not spoken but that is my doing as I’m finding unless people are on social media then I don’t make the effort to get in touch. I guess I’m having a similar conundrum you had earlier in the year. Maybe I need to review my reliance on the platforms too. Hope you are well anyway, I’ll catch you on WhatsApp soon. Martin."
+  - comment:
+    reply: true
+    author: 'Minutes to Midnight'
+    href: 'https://minutestomidnight.co.uk'
+    response: "Hey Martin, glad to hear from you :) Leaving social media turned out to be the best choice I could do. Everything that I was anticipating just got real in a few weeks. I got plenty of time for activities that I was neglecting, and, especially valuable to me, I decreased my rage. This happened by simply not being exposed to the waves of arseholes that are constantly pushed and rewarded by every social network out there. I managed to sell all our furniture, move country and settle back in Europe, during a global pandemic. I wrote an ebook, co-produced and mixed a new song and recorded a few bass tracks. Last but not least, I started having direct and more meaningful conversations, which I guess is the biggest prize. What you just said, <em>unless people are on social media, then I don't make the effort to get in touch</em> is the key to your conundrum.<br>Social media aren't people, they aren't made for people, their goal was never to facilitate people getting in touch, it's clear as day. Their business model was, and still is, the same as when they started. Suck up as much time as they can from people's lives, get their data, sell them, turn people into a live audience they can feed to their real customers: companies and corporations who use these networks as an advertising platform. They're compelled to perpetuate this system as long as they can, therefore, as time goes by, social media will be distancing itself from that <em>connecting people</em> fake mantra they sold so well.<br>My antidote was to get email addresses, phone numbers where possible, but especially subscribing to email newsletters and blogs that interested me. I get all the information I truly need from there. If I used to follow musicians on Twitter or elsewhere, I now get their updates from either newsletters or Bandcamp, or blog/website if they have one. It's pretty much what we all did before social media, and I can't fathom why people are still convinced that centralizing all communications through a powerful cloud computer governed by an algorithm is a good idea. I hope we'll catch up soon. Simone"
 ---
 <p class="lead">{{ page.excerpt }}</p>
 
