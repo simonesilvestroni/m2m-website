@@ -18,6 +18,7 @@ tags:
 description: "A short chronicle of what I did to retrace my grandfather's steps in Sachsenhausen concentration camp."
 excerpt: "I went back to Berlin, retracing my grandfather's steps in Sachsenhausen concentration camp. In the process, I wrote a concept album."
 canonical: 'https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e'
+syndicate: 'https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e'
 ---
 {% include pattern-figure.html image="/assets/images/full-story-featured.jpg" width="1024" height="683" %}
 
@@ -170,4 +171,3 @@ The car attracted my attention because it was the same model used by [Russel Oak
 <div class="text-center my-5 py-5">
   <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/original-music-productions/after-1989/" title="Read the case study about the album"><span class="text-uppercase fs-4">🔗 <strong class="ps-1">Read the case study</strong></span></a>
 </div>
-<span class="visually-hidden"><a rel="syndication" class="u-syndication" href="{{ page.canonical }}">{{ page.canonical }}</a></span>
