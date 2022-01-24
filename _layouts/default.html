@@ -21,8 +21,8 @@
 <noscript>Please enable JavaScript to use the search form, or use the one below.</noscript>
 {%- endif -%}
 {% if page.url contains '/blog/' %}
-{% webmentions_js %}
-{% endif %}
+<script src="/assets/js/webmention.min.js"></script>
+{% endif -%}
 <div class="visually-hidden">
   <div class="h-card">
     <span class="p-name">Simone Silvestroni</span>

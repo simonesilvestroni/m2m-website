@@ -1178,7 +1178,8 @@ progress {
   }
 }
 
-.visually-hidden,
+.visually-hidden, #webmentions a.reaction img,
+.webmentions a.reaction img,
 .visually-hidden-focusable:not(:focus):not(:focus-within) {
   position: absolute !important;
   width: 1px !important;
@@ -1841,6 +1842,41 @@ cite {
 .m2m-entry ul li ul {
   margin-top: 0;
   margin-bottom: 0;
+}
+#webmentions,
+.webmentions {
+  position: relative;
+  z-index: 100;
+  line-height: 1.2;
+  margin-bottom: 3rem;
+  width: 75%;
+}
+@media (max-width: 767.98px) {
+  #webmentions,
+.webmentions {
+    width: 100%;
+  }
+}
+#webmentions ul,
+.webmentions ul {
+  padding-left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#webmentions ul li,
+.webmentions ul li {
+  margin-bottom: 1rem;
+}
+#webmentions ul li.reaction-reply,
+.webmentions ul li.reaction-reply {
+  margin-left: 0.75rem;
+  padding-left: 1rem;
+  border-left: 2px solid #f3eae5;
+}
+#webmentions a.reaction,
+.webmentions a.reaction {
+  text-decoration: none;
 }
 
 .inline_toc li {

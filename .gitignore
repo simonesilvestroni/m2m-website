@@ -5,7 +5,6 @@ node_modules/
 .jekyll-cache/
 assets/css/smd.css
 assets/css/smd.css.map
-assets/js/webmention.js
 .jekyll-metadata
 Gemfile.lock
 package-lock.json
