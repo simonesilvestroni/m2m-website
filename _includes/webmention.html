@@ -1,0 +1,4 @@
+<div class="mt-5">
+  <mark class="m2m-highlight d-inline-block px-3"><span class="fw-bold text-uppercase fs-4">{% if page.webmention_type == 'like' %}🌟 <strong class="ps-1">Like of:</strong>{% elsif page.webmention_type == 'repost' %}🔁 <strong class="ps-1">Repost of:</strong>{% elsif page.webmention_type == 'reply' %}↪️ <strong class="ps-1">Reply to:</strong>{% endif %}</span></mark> <span><a class="ps-2 fs-4{% if page.webmention_type == 'like' %} u-like-of{% elsif page.webmention_type == 'repost' %} u-repost-of{% endif %}" href="{{ page.webmention_url }}"{% if page.webmention_type == 'reply' %} rel="in-reply-to"{% endif %}>{{ page.webmention_url }}</a></span>
+</div>
+<p class="e-content detached lead">{{ page.excerpt }}</p>

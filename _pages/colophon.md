@@ -24,7 +24,7 @@ Developed from scratch using:
 ## Performance
 
 <div class="table-responsive">
-  <table class="table mt-4">
+  <table class="table">
     <thead>
       <tr class="table-dark">
         <th scope="col" class="align-top text-center fw-bold"><strong>Markup</strong></th>
@@ -36,9 +36,9 @@ Developed from scratch using:
     <tbody>
       <tr>
         <td class="text-center fs-3">✅ <a href="https://validator.w3.org/nu/?doc=https%3A%2F%minutestomidnight.co.uk%2F" target="_blank" rel="noopener">valid</a></td>
-        <td class="text-center fs-3"><a href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fminutestomidnight.co.uk%2F" target="_blank" rel="noopener">100</a></td>
-        <td class="text-center fs-3 fw-bold">0.4s</td>
-        <td class="text-center fs-3">126 kb</td>
+        <td class="text-center fs-3"><a href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fminutestomidnight.co.uk%2F" target="_blank" rel="noopener"><code>100</code></a></td>
+        <td class="text-center fs-3 fw-bold"><code>0.4 sec</code></td>
+        <td class="text-center fs-3"><code>166 kb</code></td>
       </tr>
     </tbody>
   </table>
@@ -46,8 +46,9 @@ Developed from scratch using:
 
 ## Accessibility
 
-✅ No accessibility errors for 
+- ✅ **No errors** for 
 <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> detected on [WAVE](https://wave.webaim.org/report#/https://minutestomidnight.co.uk/){:target="_blank" rel="noopener"}.
+- ✅ **`100`** on [Google Lighthouse](https://web.dev/measure/){:target="_blank"}
 
 ## Sustainability
 
