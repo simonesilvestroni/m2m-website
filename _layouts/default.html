@@ -5,7 +5,7 @@
       <div class="col-md-8" id="m2m-content">
         <div class="container gx-3 gx-md-5">
           {% include site-logo.html %}
-          {% include navigation-main-small.html %}
+          {% include navigation-main-small.html -%}
           {{ content }}
         </div>
       </div>
@@ -15,11 +15,14 @@
     </div>
   </main>
   {% include site-footer.html %}
-<script type="text/javascript" src="/assets/js/dom-m2m-min.js"></script>
+<script src="/assets/js/dom-m2m-min.js"></script>
 {%- if page.url contains 'search' or page.url contains '404.html' -%}
-<script type="text/javascript" src="/assets/js/search-m2m.js"></script>
+<script src="/assets/js/search-m2m.js"></script>
 <noscript>Please enable JavaScript to use the search form, or use the one below.</noscript>
-{%- endif %}
+{%- endif -%}
+{% if page.url contains '/blog/' %}
+{% webmentions_js %}
+{% endif %}
 <div class="visually-hidden">
   <div class="h-card">
     <span class="p-name">Simone Silvestroni</span>

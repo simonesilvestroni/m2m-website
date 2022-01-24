@@ -134,6 +134,8 @@ excerpt_separator: <!--more-->
 # Webmentions
 webmentions:
   username: minutestomidnight.co.uk
+  js:
+    destination: /assets/js/
   templates:
     bookmarks: _includes/webmentions/bookmarks.html
     count: _includes/webmentions/count.html
