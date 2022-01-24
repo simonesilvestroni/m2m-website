@@ -1849,13 +1849,21 @@ cite {
   z-index: 100;
   line-height: 1.2;
   margin-bottom: 3rem;
-  width: 75%;
 }
 @media (max-width: 767.98px) {
   #webmentions,
 .webmentions {
     width: 100%;
   }
+}
+#webmentions h2, #webmentions .h2, #webmentions .list-result h4, .list-result #webmentions h4, #webmentions .list-result .h4, .list-result #webmentions .h4,
+.webmentions h2,
+.webmentions .h2,
+.webmentions .list-result h4,
+.list-result .webmentions h4,
+.webmentions .list-result .h4,
+.list-result .webmentions .h4 {
+  text-align: center;
 }
 #webmentions ul,
 .webmentions ul {

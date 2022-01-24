@@ -376,9 +376,11 @@ cite {
   z-index: 100;
   line-height: 1.2;
   margin-bottom: 3rem;
-  width: 75%;
   @include media-breakpoint-down(md) {
     width: 100%;
+  }
+  h2 {
+    text-align: center;
   }
   ul {
     @include list-unstyled();
