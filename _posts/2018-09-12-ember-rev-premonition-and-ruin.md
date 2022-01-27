@@ -13,8 +13,6 @@ tags:
 description: "How I co-produced 'Premonition and Ruin', a superb concept album by Ember Rev around 'a lament for the European ideal', beautifully written and arranged."
 excerpt: 'How I co-produced ‘Premonition and Ruin’, a superb concept album around <em>a lament for the European ideal</em>.'
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 ## The album on Spotify
 
 {% include pattern-spotify.html id="74g82zqqXhiaWmH7czHIVk" type="album" height="280" %}

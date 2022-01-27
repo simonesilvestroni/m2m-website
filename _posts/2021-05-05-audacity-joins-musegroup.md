@@ -16,8 +16,6 @@ tags:
 description: "The company behind MuseScore has announced the acquisition of the well known FOSS audio editor, Audacity."
 excerpt: "The company behind <em>MuseScore</em> has announced the acquisition of the well known FOSS audio editor, <em>Audacity</em>."
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 As stated on their website:
 
 > [Audacity](https://www.audacityteam.org/){:target="_blank" rel="noopener"} is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Developed by a group of volunteers as open source.

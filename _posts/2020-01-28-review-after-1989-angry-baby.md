@@ -13,8 +13,6 @@ tags:
 description: "Another amazing album review about my album 'After 1989': Angry Baby wade every week through great new indie music tracks to find the best gems."
 excerpt: 'Another amazing album review. Angry Baby wade every week through great new indie music tracks to find the best gems.'
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 ## About Angry Baby
 
 Angry Baby has been sharing new music from outstanding independent musicians for a while now and we have amassed a collection of great tunes for you to enjoy. All you have to do is pop your email address in the box and a bumper collection of music will be on it’s way to you. The music comes from outstanding artists that you may not have heard before. With a mix of rock, pop, folk… you name it… there’s bound to be something new that floats your musical boat, and all for free!

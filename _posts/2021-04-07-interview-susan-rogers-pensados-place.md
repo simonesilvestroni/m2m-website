@@ -16,8 +16,6 @@ tags:
 description: "I finally watched this amazing video interview with Susan Rogers, who had been sitting in my to-do list for a few weeks. The best interview in a long time."
 excerpt: "I watched this amazing video interview, arguably the best one in a while."
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 ## Who is Susan Rogers
 
 > Susan Rogers holds a doctoral degree in experimental psychology from McGill University (2010). Prior to her science career, Susan was a multiplatinum-earning record producer, mixer, engineer, and audio technician.

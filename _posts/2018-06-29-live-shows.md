@@ -18,8 +18,6 @@ tags:
 description: "A comprehensive list of the live shows I performed around England as a bass player, between 2017 and 2018, with Callum Gardner and his band."
 excerpt: 'A comprehensive list of the live shows I performed around England as a bass player, between 2017 and 2018, with Callum Gardner and his band.'
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 ## Band line-up
 
 **Callum Gardner** / lead vocals, acoustic guitar  

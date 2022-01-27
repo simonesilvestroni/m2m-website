@@ -24,8 +24,6 @@ comments:
     href: 'https://minutestomidnight.co.uk'
     response: "Thank you 🙂"
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 ## On Bandcamp
 
 Bandcamp is the best way to ensure independent artists can continue producing great records, providing music lovers with a great listening experience, in high quality audio.

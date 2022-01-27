@@ -15,8 +15,6 @@ tags:
 description: "New mini EP released today, in collaboration with Antiquity. Introducing the topics of my next concept album, 'The Die is Cast'."
 excerpt: "New mini EP released today, in collaboration with Antiquity. Introducing the topics of my next concept album, <em>The Die is Cast</em>."
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 ## On Bandcamp
 
 {% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=367059768/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/album/the-die-is-cast-ep-preview">The Die Is Cast (EP preview) by Minutes to Midnight + Antiquity</a></iframe>' %}

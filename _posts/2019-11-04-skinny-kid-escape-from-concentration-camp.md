@@ -16,8 +16,6 @@ tags:
 description: "I'm on the S-Bahn 1 from Berlin to Oranienburg. A few miles away, the concentration camp where my grandfather was held prisoner by the Nazi."
 excerpt: 'I’m on the S-Bahn 1 from Berlin to Oranienburg. Sachsenhausen camp, where my grandfather was held prisoner by the Nazi, is a few miles away.'
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 _Skinny Kid_ is the first single from the concept album [_After 1989: A Trip To Freedom_](/work/original-music-productions/after-1989/), released 9 November 2019.
 
 ## Synopsis

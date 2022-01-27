@@ -18,8 +18,6 @@ tags:
 description: "Over the last year I've managed to revolutionize my workflow, twice. Here's part 3 of my account of how I migrated DAW, from Logic to Pro Tools, and finally to REAPER."
 excerpt: "How REAPER improved my music workflow, part 3: open architecture, development cycle, efficiency."
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 In [**part 1**](/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/) & [**part 2**](/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/) I discussed:
 
 1.  Cost

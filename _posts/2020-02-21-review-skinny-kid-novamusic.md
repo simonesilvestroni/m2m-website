@@ -14,8 +14,6 @@ tags:
 description: "Stunning review by Nova Music Blog for the single 'Skinny Kid', taken from the album 'After 1989' released on the 30th of the fall of the Berlin Wall."
 excerpt: 'Stunning review by Nova Music Blog for <em>Skinny Kid</em>, the opening single from the album <em>After 1989</em>.'
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 ## About Nova Music
 
 **NOVA MUSIC blog** is about music, from novice to emerging groups to it artists — singers, songwriters, and bands too. It’s about sharing knowledge about talented musicians, their music, and their stories. They feature descriptive, engaging and thought-provoking articles, that will help artists get their music some exposure and enhance their press kits. Reviews, feature, interviews, and many more, to allow a wider audience to discovery new talented, rising stars of the music scene.

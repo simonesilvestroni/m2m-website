@@ -13,8 +13,6 @@ tags:
 description: "A bass track I produced for yet another stunning track by Gerald Duchene of Antiquity. Arguably, one of my most sumptuous fretless bass ever."
 excerpt: 'Another stunning track by Gerald Duchene, where I produced one of my most sumptuous fretless bass tracks ever.'
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 ## On Bandcamp
 
 {% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}

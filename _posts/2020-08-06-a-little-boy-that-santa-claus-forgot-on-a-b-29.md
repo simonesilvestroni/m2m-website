@@ -19,8 +19,6 @@ tags:
 description: "75 years ago, while two young men escaped from Sachsenhausen concentration camp, the US nuked Hiroshima with a bomb named Little Boy."
 excerpt: '75 years ago, while two young men escaped from Sachsenhausen concentration camp in Berlin, the United States nuked a city for the first time in history.'
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 ## Japan, 75 years ago
 
 **6 August 1945** — At 8:15 am (Hiroshima time) an atomic bomb called _Little Boy_, the first ever to be dropped on a populated city, took less than 50 seconds to fall from the _Enola Gay_ to the city. The _B-29_ stayed over the target area for two minutes and was ten miles away when the bomb detonated.

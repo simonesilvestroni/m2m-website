@@ -17,8 +17,6 @@ tags:
 description: "Read about how an arrangement for another band became the first single and lead song of Minutes to Midnight's concept album 'After 1989', 'Skinny Kid'."
 excerpt: 'How an arrangement for another band became the first single from the concept album "<em>After 1989</em>".'
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 ## Origin
 
 Back in 2009, I was the bassist for a trio in the Milan area. The band was about to present, in the form of live concerts, a CD that we published a few months earlier. Several songs on the album featured sketchy electric guitars on their own, with no rhythm. I revamped one of those by adding bass, a reference drum track, a few keyboard parts. It became a full-fledged song.

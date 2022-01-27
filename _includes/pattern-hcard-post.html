@@ -17,4 +17,7 @@
   <a href="{{ site.url }}{{ page.url }}" class="u-url">
     <time class="dt-published" datetime="{{ date | date_to_xmlschema }}">{{ date | date: "%-d %B %Y" }}</time>
   </a>
+  {%- if page.syndicate %}
+  <span><a rel="syndication" class="u-syndication" href="{{ page.syndicate }}">{{ page.syndicate }}</a></span>
+  {% endif -%}
 </span>

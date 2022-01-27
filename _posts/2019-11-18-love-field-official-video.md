@@ -17,8 +17,6 @@ tags:
 description: "Cheering crowds greet the President at Dallas airport, 'Love Field'. As the motorcade cuts through the city, I stand still while everything changes."
 excerpt: 'Cheering crowds greet the President at Dallas airport. As the motorcade cuts through the city, I stand still while everything changes.'
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 **Dallas, November 1963** — Warm weather and cheering crowds greet the President when he lands at Love Field airport. As the motorcade cuts through the city, I fantasise about waving at Jack and Jackie, or leaning over the window of a sixth floor, or being Abraham Zapruder, standing still while everything changes.
 
 ## Official music video

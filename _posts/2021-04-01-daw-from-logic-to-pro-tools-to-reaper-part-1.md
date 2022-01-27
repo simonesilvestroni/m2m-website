@@ -19,8 +19,6 @@ tags:
 description: "Over the last year I've managed to revolutionize my workflow, twice. Here's part 3 of my account of how I migrated DAW, from Logic to Pro Tools, and finally to REAPER."
 excerpt: "In the past twelve months I’ve managed to revolutionize my music software workflow, twice. Here’s part 1 of a brief account of my switch."
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 <div class="mx-auto">
   <p class="d-inline-block alert alert-background-d-10" role="alert">
     <kbd class="fw-bold">TL;DR</kbd> — In this series, I describe the 8 major <strong>benefits that REAPER brought to my music production workflow</strong>, and how they pushed me toward a full switch from Pro Tools.

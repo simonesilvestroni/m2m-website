@@ -13,8 +13,6 @@ tags:
 description: "Following my principle of trying to get out of my comfort zone, I helped the promising young artist Method Sinik with the production of his recent EP."
 excerpt: 'Following my principle of trying to get out of my comfort zone, I helped the promising young artist Method Sinik with the production of his recent EP.'
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 ## On Spotify
 
 {% include pattern-spotify.html id="3Ydz49mYSfJ122pCf9PQrd" height="80" %}

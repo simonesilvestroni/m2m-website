@@ -14,8 +14,6 @@ tags:
 description: "YHHTMY podcast selected Minutes to Midnight's song 'Love Field' from the album 'After 1989' for their latest episode."
 excerpt: 'Minutes to Midnight song <em>Love Field</em> was selected for the latest episode of the podcast <em>You haven’t heard this music yet</em>.'
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 ## About YHHTMY
 
 A podcast exploring unheard music, which we feel is as good if not better than that of the mainstream. With challenges laughs and banter along the way.

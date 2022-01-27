@@ -12,8 +12,6 @@ tags:
 description: "How I got to know Callum Gardner, and started collaborating on his debut single and other new songs. I now co-produce and play the fretless bass in his band."
 excerpt: 'How Callum and I met, got to know each other and start collaborating on new songs. I now co-produce his material and play the fretless bass in the band.'
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 ## On Spotify
 
 {% include pattern-spotify.html id="4e2PTyfPfvw9WunM9nG0nT" height="80" %}

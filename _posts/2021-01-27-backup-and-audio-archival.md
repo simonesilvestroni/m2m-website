@@ -12,8 +12,6 @@ tags:
 description: "Backup and audio archival: a quick explanation of my strategy for saving and preserving sound material, both for personal use and for my clients."
 excerpt: "A quick explanation of my strategy for saving and preserving audio material, both for personal use and for my clients."
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 ## Why offer audio archival to clients?
 
 I believe audio archiving is a nice-to-have additional feature to offer to clients. Think about **future potential re-mixing or re-mastering**, for instance. Audio stems from each session can be carefully filed to multiple sources, to guarantee the **preservation of the material** for years to come. Please note that I don’t offer _full sessions archives_, as that’s unrealistic.

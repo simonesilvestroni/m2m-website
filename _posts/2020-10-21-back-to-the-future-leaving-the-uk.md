@@ -14,8 +14,6 @@ tags:
 description: "I spent the last month and a half leaving the UK. There were two lingering monsters: a global pandemic and a massive feeling of betrayal."
 excerpt: 'I spent the last month and a half leaving the UK. Besides moving house, city and country, we were followed by two lingering monsters: a global pandemic and a <strong>massive feeling of betrayal</strong>.'
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 ## Going to live in the UK
 
 My wife and I left our native Italy almost ten years ago, having had enough of two decades of sterile and polarizing populism driven by the rightwing tycoon Silvio Berlusconi. **Berlin was our original target**, but when a realistic job offer arrived from London we chose the quick and easy way.

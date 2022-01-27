@@ -19,8 +19,6 @@ comments:
     href: 'https://silviamaggidesign.com'
     response: "What a great review, a pleasure to read."
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 > The song exists between two worlds. The inner and the outer. It starts in the outer world where the spoken samples and the lyrics get us in the mood and captures the tense of crisis from an external point of view. Then the song transfers us into the inner world, we are no longer an outsider but on the contrary, we are in the heart of the scene, where ”Helen stares at the window”. This change does not only happen through the lyrics. It is the chord progression, the melodies, the whole song itself, that moves between these two parallel worlds. 
 > <cite>— [Secret Eclectic](https://secreteclectic.com/2020/08/02/minutes-to-midnight-13-days/){:target="_blank" rel="noopener"}</cite>
 

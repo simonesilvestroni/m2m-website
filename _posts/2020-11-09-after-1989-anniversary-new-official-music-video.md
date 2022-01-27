@@ -14,8 +14,6 @@ tags:
 description: "New music video, to celebrate the first anniversary of my debut solo album, 'After 1989: A Trip to Freedom'."
 excerpt: "A year ago today, on the 30th anniversary of the fall of the Berlin Wall, I published my debut solo album, <em>After 1989: A Trip to Freedom</em>."
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 To celebrate the first anniversary of the release, I published the 5th official video from the album, on my [YouTube channel](https://www.youtube.com/channel/UCXO3ZbalCLwCZwHk_UkDBHg){:target="_blank" rel="noopener"}. The song is _The Logic_.
 
 {% include pattern-video.html id="r9NyAYXOnyk" %}
