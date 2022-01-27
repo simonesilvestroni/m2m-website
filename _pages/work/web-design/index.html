@@ -7,17 +7,14 @@ description: "Designing and coding for the web is my parallel skill. A digital e
 excerpt: "Designing and coding for the web is my parallel skill. A digital evolution of a past experience with the printed page, my main focus is on exceptional optimization for <strong>usability and sustainability</strong>."
 permalink: '/work/web-design/'
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 <p>To maximize an efficient online experience, I switched from Drupal and WordPress to <a href="https://jamstack.org/">JAMstack</a>. By using <strong>static site generators and headless CMSes</strong>, all my recent websites rank <code>100</code> with Pagespeed.</p>
 
 {% assign webdesign = site.webdesign | reverse %}
 
-<h2 class="text-center text-uppercase">Selected case studies</h2>
-
-<section class="h-feed latest-posts m2m-entry my-5 pb-3">
+<section class="h-feed m2m-entry my-5 pb-3">
+  <h2 class="p-name text-center text-uppercase">Selected case studies</h2>
   <div class="card-group">
-    <div class="row row-cols-1 row-cols-sm-2 g-4">
+    <div class="h-feed row row-cols-1 row-cols-sm-2 g-4">
     {% for casestudy in webdesign %}
     {% include pattern-card-casestudy.html %}
     {% endfor %}

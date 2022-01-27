@@ -1,4 +1,4 @@
-<article class="m2m-entry h-entry my-5">
+<article class="h-entry m2m-entry my-5">
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
@@ -13,7 +13,10 @@
   {%- elsif page -%}
     {% assign date = page.date %}
   {%- endif -%}
-  <p class="fs-5 mb-3"><span class="m2m-font-micro pe-1">🗓</span> <time class="dt-published m2m-font-micro" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time></p>
+  <p class="fs-5 mb-3">
+    <span class="visually-hidden">By <span class="p-author h-card">Simone Silvestroni</span></span>
+    <span class="m2m-font-micro pe-1">🗓</span> <time class="dt-published m2m-font-micro" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time>
+  </p>
   <div class="e-content w-75">
     <p class="p-summary text-start lh-sm mt-2">{{ post.excerpt | markdownify | strip_html }}</p>
   </div>

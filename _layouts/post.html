@@ -3,18 +3,52 @@ layout: default
 ---
 {% include breadcrumbs.html %}
 
-<article class="m2m-entry h-entry">
-  <h1 class="p-name text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
+{%- if page.webmention == true %}
+
+<article class="m2m-entry">
+  <h1 class="text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
   <div class="post-meta my-4">
     {%- include post-meta.html %}
-    <a rel="author" class="p-author h-card visually-hidden" href="{{ site.url }}">Simone Silvestroni</a>
-    <img class="u-photo visually-hidden" src="{{ site.url }}/assets/images/minutestomidnight-avatar-uphoto.png" alt="Minutes to Midnight's avatar" width="56" height="56">
-    <a class="u-url h-card visually-hidden" href="{{ site.url}}{{ page.url }}">Permalink</a>
   </div>
-  <div class="{% unless page.webmention == true %} e-content{% endunless %}">
-    {{ content }}
+  <div class="h-entry alert alert-background-d-10 mt-5">
+    {% include pattern-hcard-post.html %}
+    <p>
+      {%- if page.webmention_type == 'like' %}
+      🧡 <strong class="ps-1">A like of</strong>
+      {%- elsif page.webmention_type == 'repost' %}
+      🔄 <strong class="ps-1">A repost of</strong>
+      {%- elsif page.webmention_type == 'reply' %}
+      ↪️ <strong class="ps-1">In reply to</strong>
+      {% endif -%}
+      <a class="{% if page.webmention_type == 'like' %}u-like-of{% elsif page.webmention_type == 'repost' %}u-repost-of{% elsif page.webmention_type == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.webmention_url }}">
+        {{ page.webmention_comment }}
+      </a>
+    </p>
+    <p class="e-content detached fs-2 lh-sm">{{ page.excerpt }}</p>
+  </div>
+  <div class="mt-5">
+  {{ content }}
   </div>
 {%- include pattern-relatedposts.html -%}
 {%- include pattern-responses.html -%}
 </article>
 {%- include post-navigation.html -%}
+
+{%- else -%}
+
+<article class="h-entry m2m-entry">
+  <h1 class="p-name text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
+  <div class="post-meta my-4">
+    {%- include post-meta.html %}
+    {% include pattern-hcard-post.html %}
+  </div>
+  <p class="p-summary lead">{{ page.excerpt }}</p>
+  <div class="e-content mt-5">
+  {{ content }}
+  </div>
+{%- include pattern-relatedposts.html -%}
+{%- include pattern-responses.html -%}
+</article>
+{%- include post-navigation.html -%}
+
+{% endif -%}

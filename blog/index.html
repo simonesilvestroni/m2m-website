@@ -6,22 +6,19 @@ last_modified_at: '2021-11-08 10:57:26'
 description: "I've been keeping a blog since 2002. The current incarnation is devoid of most personal material, focusing more on my work."
 excerpt: 'I&rsquo;ve been keeping a blog, across different websites, since 2002. The current incarnation is devoid of most personal material and focused on my work. Follow new posts through <a href="/feed.xml"><strong>RSS</strong></a>.'
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
-<h2 class="text-center text-uppercase my-5">Popular posts</h2>
-
-{% assign popular = site.posts | where: "tags", "popular" %}
-<div class="card-group mb-5">
-  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3">
-  {%- for post in popular limit:3 -%}
-    {%- include pattern-card-post.html -%}
-  {%- endfor -%}
+<section class="h-feed" id="blog-popular-posts">
+  <h2 class="p-name text-center text-uppercase my-5">Popular posts</h2>
+  {% assign popular = site.posts | where: "tags", "popular" %}
+  <div class="card-group mb-5">
+    <div class="h-feed row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3">
+    {%- for post in popular limit:3 -%}
+      {%- include pattern-card-post.html -%}
+    {%- endfor -%}
+    </div>
   </div>
-</div>
-
-<h2 class="text-center text-uppercase mt-5 pt-3">All the posts</h2>
-
-<section class="h-feed">
+</section>
+<section class="h-feed" id="blog-all-posts">
+  <h2 class="p-name text-center text-uppercase mt-5 pt-3">All the posts</h2>
   {% for post in site.posts %}
   {% if post %}
   {% assign categories = post.categories %}

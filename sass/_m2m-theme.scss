@@ -29,12 +29,14 @@ body {
 }
 
 #m2m-footer {
+  background-color: $background-l-70;
 
   .m2m-current {
     color: white !important;
   }
 
   @include media-breakpoint-up(md) {
+    background-color: transparent;
     color: $background-l-50;
 
     .m2m-link {
@@ -804,4 +806,35 @@ mark {
     border-radius: 1.5rem 0.5rem 1.2rem 0.7rem;
     background-image: linear-gradient(-100deg, rgba(255,224,0,0.1), rgba(255,224,0,0.5) 95%, rgba(255,224,0,0.2));
   }
+}
+
+
+// ------------------------------------------------ \\
+// $512 club
+// ------------------------------------------------ //
+
+.kb-club a {
+  text-decoration: none;
+  color: #212121;
+  font-weight: bold;
+  padding: .25rem 0;
+  font-family: sans-serif;
+  transition: .4s;
+  background-color: #fff176;
+}
+
+.kb-club a:hover {
+  color: white;
+  background: #212121;
+}
+
+.kb-club-bg,
+.kb-club-no-bg {
+  border: 2px solid #fbc02d;
+  padding: .25rem .5rem;
+}
+
+.kb-club-bg {
+  background: #fbc02d;
+  color: #212121;
 }

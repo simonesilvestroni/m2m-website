@@ -23,59 +23,7 @@ author:
 
 # Brand
 brand:
-  m2m_avatar_src: /assets/images/minutestomidnight-avatar.png
-  m2m_tagline: Hi, Simone here
   m2m_pitch: I&rsquo;m a liaison between creativity and logic.
-  m2m_latestposts_limit: 2
-
-# Skill set
-skills-audio:
-  - skill: mixing
-  - skill: mastering
-  - skill: foley
-  - skill: field recording
-  - skill: arrangement
-  - skill: audio signal flow
-  - skill: microphones
-  - skill: dialogue and vocals
-  - skill: editing
-  - skill: audio restoration
-  - skill: sound effects
-  - skill: wwise
-  - skill: fmod
-  - skill: alienbrain
-  - skill: instrumentalist
-  - skill: drum programming
-  - skill: drum replacement
-  - skill: composition
-  - skill: scoring
-skills-web:
-  - skill: jekyll
-  - skill: liquid
-  - skill: markdown
-  - skill: HTML 5
-  - skill: CSS 3
-  - skill: SASS
-  - skill: accessibility
-  - skill: usability
-  - skill: UX
-  - skill: UI
-  - skill: problem solving
-  - skill: netlify
-  - skill: git
-  - skill: svn
-  - skill: node
-  - skill: postCSS
-  - skill: YAML
-  - skill: capistrano
-  - skill: SSH
-  - skill: PHP
-  - skill: javascript
-  - skill: agile
-  - skill: gtd
-  - skill: sublime text
-  - skill: visual studio code
-  - skill: boostrap 5
 
 exclude: 
   - README.md
@@ -122,7 +70,7 @@ jekyll-archives:
   enabled:
     - categories
     - tags
-  layout: archive
+  layout: cats-tags
   permalinks:
     category: '/category/:name/'
     tag: '/tag/:name/'

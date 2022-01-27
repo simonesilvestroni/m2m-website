@@ -18,10 +18,9 @@ description: "Minutes to Midnight's new redesigned website is easier to navigate
 excerpt: "4 months after Silvia's announcement, here is Minutes to Midnight's new redesigned website. Easier to navigate and straight to the point, I finally have full control over my code and my online presence."
 webmention: true
 webmention_url: 'https://silviamaggidesign.com/design/brand-new-website/'
+webmention_comment: '<em>Brand new website</em> by Silvia Maggi'
 webmention_type: reply
 ---
-{% include webmention.html %}
-
 ## Platform
 
 In this case, **redesign means overhaul**. While the previous version had been running on WordPress since its debut, I'm now on [JAMstack](https://jamstack.org/what-is-jamstack/). Specifically: **Jekyll** as a static site generator and **Netlify** for deployment. All the code, whether dynamic or static, is handwritten by myself. The design has been created together with Silvia Maggi. After a full re-organization of the information architecture I've also refactored most of the content, focusing on newly created **case studies**.
@@ -32,7 +31,7 @@ More technical details in the [colophon](/colophon/).
 
 ### Decentralized conversations
 
-The website is now part of [Indieweb](https://indieweb.org/), therefore it's capable of sending and receiving [webmentions](https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet/), a web standard for replying, liking and reposting other people's posts on their websites. Since the decision to **renounce to an external comment system**, I've also added two more ways to reply: _Comment Parade_ allows webmentions from people whose sites aren't part of Indieweb; moreover, it's possible to reply via email. All the info are in the **responses** block near the bottom [👇](#responses).
+The website is now part of [Indieweb](https://indieweb.org/), therefore it's capable of sending and receiving [webmentions](https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet/), a web standard for replying, liking and reposting other people's posts on their websites. Since the decision to **renounce to an external comment system**, I've also added two more ways to reply: _Comment Parade_ allows webmentions from people whose sites aren't part of Indieweb; moreover, it's possible to reply via email. All the info are in the **comments** block near the bottom [👇](#comments).
 
 ### Small web
 
@@ -64,7 +63,9 @@ The fight against a bloated web is a crusade I've been part of for a long time. 
 
 The homepage is now `166 kb` uncompressed and loads in **less than half a second**. I'm in the process of being added to the [512kb club](https://512kb.club/faq).
 
-I don't load pointless Javascript and I don't run anything that's exclusively dependent on it. The [search functionality](/search/) has an **accessible alternative** shown directly in the page and the other script is doing trivial DOM manipulation in the less possible expensive way.
+### Accessibility
+
+Besides being [fully validated](/colophon/#accessibility), the site doesn't have Javascript doing things that can be achieved otherwise. I don't run essential functionality that's exclusively dependent on it. The [search engine](/search/) has an HTML alternative shown directly in the page and the other scripts are doing webmentions and trivial DOM manipulation in the less possible expensive way. The website is fully accessible with Javascript turned off.
 
 ### Tracking and surveillance
 

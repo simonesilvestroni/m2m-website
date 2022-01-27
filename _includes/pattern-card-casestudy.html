@@ -5,8 +5,8 @@
     <img class="w-100" src="/assets/images/thumb-{{ casestudy.title | downcase | replace: " ","-" | append: ".jpg" }}" alt="{{ casestudy.title }}" width="350" height="350">
     {%- endif -%}
     <div class="card-body text-center">
-      <h4 class="m2m-sans text-uppercase my-3">{{ casestudy.title }}</h4>
-      <p class="card-text text-start fs-5 lh-sm">
+      <h4 class="p-name m2m-sans text-uppercase my-3">{{ casestudy.title }}</h4>
+      <p class="p-summary card-text text-start fs-5 lh-sm">
         {%- if page.url contains '/work/web-design/' -%}
           {{ casestudy.description | strip_html }}
         {%- else -%}
@@ -15,7 +15,7 @@
       </p>
     </div>
     <div class="card-footer text-center pb-3">
-      <a class="stretched-link btn btn-md btn-m2m btn-m2m-cta text-decoration-none fw-bold" href="{{ casestudy.url }}" title="Check out {{ casestudy.title }}"><span class="fs-6 initialism"><strong>Read the case study</strong></span></a>
+      <a class="u-url stretched-link btn btn-md btn-m2m btn-m2m-cta text-decoration-none fw-bold" href="{{ casestudy.url }}" title="Check out {{ casestudy.title }}"><span class="fs-6 initialism"><strong>Read the case study</strong></span></a>
     </div>
   </div>
 </div>

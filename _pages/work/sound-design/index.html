@@ -7,65 +7,63 @@ description: "My work as a producer, game audio specialist and audio editor."
 excerpt: "<strong>Recording and sculpting sound</strong> has always been a massive creative push. Collaborating as a bassist or producer, game audio or editing and restoration are a constant source of excitement."
 permalink: '/work/sound-design/'
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 {% assign production = site.sounddesign | where: "type", "production" | reverse %}
 {% assign gameaudio = site.sounddesign | where: "type", "game audio" | reverse %}
 {% assign audioediting = site.sounddesign | where: "type", "audio editing" | reverse %}
 
-<section class="h-feed m2m-entry my-5 pb-3">
-  
-  <h2 class="fs-1 text-center text-uppercase mt-5">Bass & Production</h2>
-
-  <div class="card-group pb-5">
-    <div class="row row-cols-1 row-cols-sm-2 g-4">
-    {% for casestudy in production %}
-    {% include pattern-card-casestudy.html %}
-    {% endfor %}
+<section class="h-entry m2m-entry my-5 pb-1">
+  <h2 class="p-name fs-1 text-center text-uppercase mt-5">Bass & Production</h2>
+  <div class="p-summary">
+    <p class="detached"><kbd>Bass</kbd> — Initially self-taught, I had private tuition before enrolling for the CPM music institute in Milan where I graduated with Stefano Cerri and Nicoletta Caselli. Been <strong>playing bass</strong> between Italy, the UK and with US-based acts, both <a href="/blog/live-shows/">live</a> and <a href="/work/sound-design/producing-bass-remotely/">in the studio</a>.</p>
+    <p class="detached"><kbd>Production</kbd> — Started in the late 1990s, I started producing properly when I graduated at Berklee. <strong>Specialized in mixing</strong>, I strive to realize the artist's vision, adding creativity and delivering on time. I worked on albums and singles in different countries for many artists.</p>
+  </div>
+  <div class="h-feed">
+    <h3 class="p-name text-center text-uppercase">Selected case studies</h3>
+    <div class="card-group mt-5">
+      <div class="row row-cols-1 row-cols-sm-2 g-4">
+        {% for casestudy in production %}
+        {% include pattern-card-casestudy.html %}
+        {% endfor %}
+      </div>
     </div>
   </div>
-  
-  <p>Initially self-taught, I had private tuition before enrolling for the CPM music institute in Milan where I graduated with Stefano Cerri and Nicoletta Caselli. Been <strong>playing bass</strong> between Italy, the UK and with US-based acts, both <a href="/blog/live-shows/">live</a> and <a href="/work/sound-design/producing-bass-remotely/">in the studio</a>.</p>
-
-  <blockquote>
-    <p>I’m really digging this. His style reminds me of Paul Webb from Talk Talk. No needless notes. Great tone and feel. Good work.
-    <cite>— <a href="https://en.wikipedia.org/wiki/Leland_Sklar">Leland Sklar</a></cite></p>
-  </blockquote>
-
-  <h3 class="text-center text-uppercase">Bass playlist</h3>
-
-  {% include pattern-spotify.html id="1EC2Hm0xSywc5pITPMhuIA" type="playlist" height="380" %}
-  
-  <p class="detached">Producing music since the 1990s, I properly focused on it over the last decade when I graduated at Berklee. <strong>Specialized in mixing</strong>, I strive to realize the artist's vision, adding creativity and delivering on time. I produced albums and singles in different countries with artists like Gerald Duchene, Mally Harpaz, Ember Rev, Ciara Clifford, Dan Ecclestone, Callum Gardner and more.</p>
-
-  <h3 class="text-center text-uppercase">Production playlists</h3>
-
-  {% include pattern-spotify.html id="6yRM57FJ9JKONDAXaLBAdx" type="playlist" height="380" %}
-
-  {% include pattern-spotify.html id="2IqnJFtKWrnI6JPVjkXHif" type="playlist" height="330" %}
-
-  <h2 class="fs-1 text-center text-uppercase my-5">Game Audio</h2>
-
-  <p>I used to be the audio team leader for the game company Playstos Entertainment, with a title shipped at the end of the 2000s. I was in charge of directing the soundtrack, creating and editing the sound effects while co-ordinating a team of 2 sound designers and 2 audio programmers.</p>
-
-  <div class="card-group mt-5 pb-3">
-    <div class="row row-cols-1 row-cols-sm-2 g-4">
-    {% for casestudy in gameaudio %}
-    {% include pattern-card-casestudy.html %}
-    {% endfor %}
-    </div>
+  <div class="e-content">
+    <h3 class="text-center text-uppercase">Bass playlist</h3>
+    {% include pattern-spotify.html id="1EC2Hm0xSywc5pITPMhuIA" type="playlist" height="380" %}
+    <h3 class="text-center text-uppercase">Production playlists</h3>
+    {% include pattern-spotify.html id="6yRM57FJ9JKONDAXaLBAdx" type="playlist" height="380" %}
+    {% include pattern-spotify.html id="2IqnJFtKWrnI6JPVjkXHif" type="playlist" height="330" %}
   </div>
+</section>
 
-  <h2 class="fs-1 text-center text-uppercase my-5">Audio Editing</h2>
-
-  <div class="card-group pb-3">
-    <div class="row row-cols-1 row-cols-sm-2 g-4">
-    {% for casestudy in audioediting %}
-    {% include pattern-card-casestudy.html %}
-    {% endfor %}
-    </div>
+<section class="h-entry m2m-entry my-5 pb-3">
+  <h2 class="p-name fs-1 text-center text-uppercase my-5">Game Audio</h2>
+  <p class="p-summary">I used to be the audio team leader for the game company Playstos Entertainment, with a title shipped at the end of the 2000s. I was in charge of directing the soundtrack, creating and editing the sound effects while co-ordinating a team of 2 sound designers and 2 audio programmers.</p>
+  <div class="h-feed">
+    <h3 class="p-name text-center text-uppercase">Selected case studies</h3>
+    <div class="card-group mt-5 pb-3">
+      <div class="row row-cols-1 row-cols-sm-2 g-4">
+      {% for casestudy in gameaudio %}
+      {% include pattern-card-casestudy.html %}
+      {% endfor %}
+      </div>
+    </div>    
   </div>
+</section>
 
+<section class="h-entry">
+  <h2 class="p-name fs-1 text-center text-uppercase my-5">Audio Editing</h2>
+  <p class="p-summary">A selection of work where I enjoyed combining technical prowess and creativity: vocal transformation, editing, restoration, drum replacing, noise removal and more.</p>
+  <div class="h-feed">
+    <h3 class="p-name text-center text-uppercase">Selected case studies</h3>
+    <div class="card-group pb-3">
+      <div class="row row-cols-1 row-cols-sm-2 g-4">
+      {% for casestudy in audioediting %}
+      {% include pattern-card-casestudy.html %}
+      {% endfor %}
+      </div>
+    </div>  
+  </div>
 </section>
 
 <h2>Certifications, courses &amp; memberships</h2>
@@ -85,5 +83,11 @@ permalink: '/work/sound-design/'
   <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">📒</span> <em>A Trip to Freedom, from Berlin to Berlin</em>, published by <a href="https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e">Lessons from History</a>, 2019.</li>
   <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">📒</span> <em>Producing bass tracks remotely</em>, published by <a href="https://unlockyoursound.com/producing-bass-tracks-remotely/">Unlock Your Sound</a>.</li>
 </ul>
+
+<h2>Press photos</h2>
+
+<div><a data-flickr-embed="true" href="https://www.flickr.com/photos/minutes2midnight/albums/72157720154705598" title="Press photos 2019"><img src="https://live.staticflickr.com/65535/50881464353_bea9fd20d6_b.jpg" width="1024" height="768" alt="Press photos 2019"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
+
+<p class="detached text-center"><mark class="m2m-highlight small"><small class="px-3"><strong>All photos by</strong> <a href="https://silviamaggidesign.com" target="_blank" rel="noopener">Silvia Maggi</a></small></mark></p>
 
 {% include pattern-button-hire.html %}

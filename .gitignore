@@ -1,11 +1,9 @@
 .DS_Store
-_site/
-node_modules/
-.sass-cache/
 .jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+_site/
 assets/css/smd.css
 assets/css/smd.css.map
-.jekyll-metadata
-Gemfile.lock
-package-lock.json
 local_netlify.rb
+node_modules/

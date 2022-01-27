@@ -8,8 +8,6 @@ excerpt: 'Following an idea by <a href="https://wesbos.com/uses" target="_blank"
 permalink: '/uses/'
 toc: true
 ---
-Last update: <kbd>2022-01-21 15:17:32</kbd>
-
 ## HARDWARE
 
 As I’ve been working entirely in the box for years, I don’t own analog outboard anymore.
@@ -202,3 +200,7 @@ I mentioned above how **I’m opposed to updates for the sake of it**. It means 
 Brilliant examples come from [Cockos Incorporated](https://cockos.com/) (makers of Reaper) and [Sublime HQ Pty Ltd](https://www.sublimehq.com/) (makers of Sublime Text). It’s likely not a coincidence that both companies have three to four employees. They *actually use* what they’re selling, therefore they can understand their users. Small entities with a decent and well thought business model that doesn’t rip off customers and can move swiftly if needed. That’s the only kind I’m interested in. I’m more than happy to pay for their products, because I know I’ll be listened to.
 
 As another example, I **stopped caring about Logic updates** ever since Apple had decided to tie them to their insane and arbitrarily idiotic yearly cycle of forced OS “upgrades”. I’ve decided to stick to macOS Mojave, a 3+ years old system and this means I can’t have the [new Logic version](https://www.apple.com/logic-pro/specs/){:target="_blank" rel="noopener"}, which requires last year’s OS as a minimum. **Planned obsolescence** brought by a multi-trillion-dollar company is not my cup of tea.
+
+---
+
+Last update: <kbd>2022-01-21 15:17:32</kbd>

@@ -1,14 +1,12 @@
 <div id="navigation-main-small" class="d-block d-md-none mt-4 py-3">
-  {% comment %}
+  {%- comment -%}
   // ------------------------------------------------ \\
   // Navigation on small devices
   // ------------------------------------------------ //
-  {% endcomment %}
+  {%- endcomment %}
   <ul class="nav nav-small justify-content-center" aria-label="Navigation">
     {% for item in site.data.nav-site -%}
-    <li class="nav-item mx-1">
-      <a class="nav-link text-uppercase fw-bold px-2 py-2{% if page.url contains item.link %} m2m-current{% endif %}" href="{{ item.link }}"><strong>{{ item.name }}</strong></a>
-    </li>
+    <li class="nav-item mx-1"><a class="nav-link text-uppercase fw-bold px-2 py-2{% if page.url contains item.link %} m2m-current{% endif %}" href="{{ item.link }}"><strong>{{ item.name }}</strong></a></li>
     {% endfor -%}
   </ul>
 </div>
