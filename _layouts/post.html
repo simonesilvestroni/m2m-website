@@ -11,8 +11,7 @@ layout: default
     {%- include post-meta.html %}
   </div>
   <div class="h-entry alert alert-background-d-10 mt-5">
-    {% include pattern-hcard-post.html %}
-    <p>
+    <p class="p-name">
       {%- if page.webmention_type == 'like' %}
       🧡 <strong class="ps-1">A like of</strong>
       {%- elsif page.webmention_type == 'repost' %}
@@ -24,7 +23,8 @@ layout: default
         {{ page.webmention_comment }}
       </a>
     </p>
-    <p class="p-name e-content detached fs-2 lh-sm">{{ page.excerpt }}</p>
+    <p class="e-content detached fs-2 lh-sm">{{ page.excerpt }}</p>
+    {% include pattern-hcard-post.html %}
   </div>
   <div class="mt-5">
   {{ content }}

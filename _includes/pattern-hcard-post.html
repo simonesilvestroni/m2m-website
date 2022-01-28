@@ -1,9 +1,8 @@
-<span class="h-card visually-hidden">
-  <a rel="author" class="p-author h-card" href="{{ site.url }}">Simone Silvestroni</a>
-  <img class="u-photo" src="{{ site.url }}/assets/images/minutestomidnight-avatar-uphoto.png" width="32" height="32">
-  <a class="u-url" href="{{ site.url }}{{ page.url }}" title="Permalink">
-    <time class="dt-published" datetime="{{ date | date_to_xmlschema }}">{{ date | date: "%-d %B %Y" }}</time>
-  </a>
+<p class="p-author h-card detached small">
+  <span class="pe-2"><img class="u-photo" src="{{ site.url }}/assets/images/minutestomidnight-avatar-uphoto.png" width="32" height="32"></span> 
+  <a rel="author" class="u-uid" href="{{ site.url }}"><strong>Simone Silvestroni</strong></a>
+  <a class="u-url px-2" href="{{ site.url }}{{ page.url }}" title="Permalink">Permalink: <em>{{ page.title }}</em></a>
+  <time class="dt-published" datetime="{{ date | date_to_xmlschema }}">{{ date | date: "%-d %B %Y" }}</time>
   {%- if page.syndicate %}
   <span><a rel="syndication" class="u-syndication" href="{{ page.syndicate }}">{{ page.syndicate }}</a></span>
   {% endif -%}
@@ -17,4 +16,4 @@
   <data rel="me" value="https://github.com/minutes2midnight/"></data>
   <data rel="me" value="https://www.flickr.com/photos/minutes2midnight/"></data>
   <data rel="me" value="https://oreganodangereux.wordpress.com"></data>
-</span>
+</p>
