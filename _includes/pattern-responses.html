@@ -13,8 +13,9 @@
     </ul>
   </div>
   {% endif %}
-  <div class="px-3">
-    <div id="webmentions"></div>
+  <div>
+    <h2 class="text-center mb-3">Responses</h2>
+    {% webmentions page.url %}
   </div>
   <p class="fs-5 mb-3">If you&rsquo;ve written a response to this post <strong>send me your URL</strong>:</p>
   <form class="mention-form" method="post" action="https://webmention.io/minutestomidnight.co.uk/webmention">
