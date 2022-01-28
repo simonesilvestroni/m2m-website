@@ -4,8 +4,8 @@
    <a rel="author" class="u-uid" href="{{ site.url }}"><strong>Simone Silvestroni</strong></a>
   </span>  
   <a class="u-url px-2" href="{{ site.url }}{{ page.url }}" title="Permalink">Permalink: <em>{{ page.title }}</em></a>
-  <time class="dt-published" datetime="{{ date | date_to_xmlschema }}">{{ date | date: "%-d %B %Y" }}</time>
-  {%- if page.syndicate %}
+  <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
+  {% if page.syndicate %}
   <span><a rel="syndication" class="u-syndication" href="{{ page.syndicate }}">{{ page.syndicate }}</a></span>
   {% endif -%}
   <data class="p-org" value="Minutes to Midnight"></data>
