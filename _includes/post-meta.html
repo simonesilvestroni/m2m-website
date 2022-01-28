@@ -10,7 +10,7 @@
         <span class="m2m-font-micro text-uppercase me-1"><strong>{% if page.url contains '/work/' %}Year{% else %}Topic{% endif %}</strong></span>
       </th>
       <td>
-      {% if page.url contains '/work/' %}
+      {%- if page.url contains '/work/' %}
         <span class="text-uppercase m2m-font-micro d-inline-block"><strong>{{ page.year }}</strong></span>
       {% endif %}
       {%- for category in categories -%}
@@ -18,8 +18,8 @@
       {%- endfor -%}
       </td>
     </tr>
-    {% if page.url contains '/work/' %}
-    {% unless page.type == false %}
+    {%- if page.url contains '/work/' %}
+    {%- unless page.type == false %}
     <tr>
       <th class="text-end" width="50">
         <span class="m2m-font-micro text-uppercase me-1"><strong>Type</strong></span>
@@ -30,8 +30,8 @@
         </span>
       </td>
     </tr>
-    {% endunless %}
-    {% unless page.skills == false %}
+    {%- endunless %}
+    {%- unless page.skills == false %}
     <tr>
       <th class="text-end" width="50">
         <span class="m2m-font-micro text-uppercase me-1"><strong>Skills</strong></span>
