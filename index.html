@@ -3,49 +3,51 @@ title: Minutes to Midnight - Sound & web designer
 date: 2021-11-06 13:41:57
 last_modified_at: 2021-11-06 13:42:07
 ---
-<div class="intro my-5">
-  <div class="row gx-0">
-    <div class="col-md-11 mx-auto">
-      <div class="row gx-0 d-flex align-items-center">
-        <div class="col-12 col-md-3 d-flex justify-content-center justify-content-md-end">
-          <img class="avatar" src="/assets/images/minutestomidnight-avatar.png" alt="Portrait of Simone Silvestroni" width="128" height="128">
-        </div>
-        <div class="col-12 col-md-9">
-          <h1 class="fs-1 text-center text-md-start px-3 mt-3 mt-md-0 mb-0">{{ site.brand.m2m_pitch }}</h1>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="mt-4 mb-2 mb-md-4">
-  <div class="m2m-entry">
-    <p class="fs-2"><code class="me-1">Hi! Simone here.</code> A digital polymath, I&rsquo;ve been working as a <span class="fw-bold"><strong>sound and web designer</strong></span> for more than 25 years. As a team player or independent, I bring:</p>
-    <div class="my-4">
-      <div class="row gx-1 gy-4 align-items-center">
-        <div class="col-12 col-sm-4 text-center fs-1">
-          <div class="text-center fs-1">⚒</div>
-          <div class="text-center fs-4 fw-bold text-uppercase lh-sm"><strong>attention to details</strong></div>
-        </div>
-        <div class="col-12 col-sm-4 text-center fs-1">
-          <div class="text-center fs-1">👨🏻‍💻</div>
-          <div class="text-center fs-4 fw-bold text-uppercase lh-sm"><strong>problem-solving</strong></div>
-        </div>
-        <div class="col-12 col-sm-4 text-center fs-1">
-          <div class="text-center fs-1">⏱</div>
-          <div class="text-center fs-4 fw-bold text-uppercase lh-sm"><strong>on-time delivery</strong></div>
+<div class="h-entry">
+  <div class="intro my-5">
+    <div class="row gx-0">
+      <div class="col-md-11 mx-auto">
+        <div class="row gx-0 d-flex align-items-center">
+          <div class="col-12 col-md-3 d-flex justify-content-center justify-content-md-end">
+            <img class="avatar" src="/assets/images/minutestomidnight-avatar.png" alt="Portrait of Simone Silvestroni" width="128" height="128">
+          </div>
+          <div class="col-12 col-md-9">
+            <h1 class="fs-1 text-center text-md-start px-3 mt-3 mt-md-0 mb-0">{{ site.brand.m2m_pitch }}</h1>
+          </div>
         </div>
       </div>
     </div>
   </div>
+  <div class="mt-4 mb-2 mb-md-4">
+    <div class="m2m-entry">
+      <p class="fs-2"><code class="me-1">Hi! Simone here.</code> A digital polymath, I&rsquo;ve been working as a <span class="fw-bold"><strong>sound and web designer</strong></span> for more than 25 years. As a team player or independent, I bring:</p>
+      <div class="my-4">
+        <div class="row gx-1 gy-4 align-items-center">
+          <div class="col-12 col-sm-4 text-center fs-1">
+            <div class="text-center fs-1">⚒</div>
+            <div class="text-center fs-4 fw-bold text-uppercase lh-sm"><strong>attention to details</strong></div>
+          </div>
+          <div class="col-12 col-sm-4 text-center fs-1">
+            <div class="text-center fs-1">👨🏻‍💻</div>
+            <div class="text-center fs-4 fw-bold text-uppercase lh-sm"><strong>problem-solving</strong></div>
+          </div>
+          <div class="col-12 col-sm-4 text-center fs-1">
+            <div class="text-center fs-1">⏱</div>
+            <div class="text-center fs-4 fw-bold text-uppercase lh-sm"><strong>on-time delivery</strong></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="text-center my-5 pt-3">
+    <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/" title="See my work"><span class="text-uppercase fs-4">🔗 <strong class="ps-1">See my work</strong></span></a>
+  </div>
+  <div class="text-center my-5 py-1">
+    <hr>
+    {%- assign recentPosts = site.posts -%}
+    {%- for post in recentPosts limit:1 -%}
+    <p class="fs-4"><mark class="m2m-highlight d-inline-block initialism px-2 me-1"><strong>UPDATE</strong></mark> Latest blog post: <a class="m2m-link" href="{{ post.url }}" title="Read the post"><strong>{{ post.title }}</strong></a>
+    {% endfor -%}
+  </div>
+  {% include pattern-hcard-pages.html %}
 </div>
-<div class="text-center my-5 pt-3">
-  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/" title="See my work"><span class="text-uppercase fs-4">🔗 <strong class="ps-1">See my work</strong></span></a>
-</div>
-<div class="text-center my-5 py-1">
-  <hr>
-  {%- assign recentPosts = site.posts -%}
-  {%- for post in recentPosts limit:1 -%}
-  <p class="fs-4"><mark class="m2m-highlight d-inline-block initialism px-2 me-1"><strong>UPDATE</strong></mark> Latest blog post: <a class="m2m-link" href="{{ post.url }}" title="Read the post"><strong>{{ post.title }}</strong></a>
-  {% endfor -%}
-</div>
-{% include pattern-hcard-pages.html %}
