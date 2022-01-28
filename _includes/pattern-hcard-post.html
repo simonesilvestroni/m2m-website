@@ -1,10 +1,10 @@
-<p class="detached small">
-  <span class="p-author h-card">
+<span class="d-block mt-4">
+  <span class="p-author h-card fs-5">
    <span class="pe-2"><img class="u-photo" src="{{ site.url }}/assets/images/minutestomidnight-avatar-uphoto.png" width="32" height="32"></span>
    <a rel="author" class="u-uid" href="{{ site.url }}"><strong>Simone Silvestroni</strong></a>
   </span>
-  <a class="u-url px-2" href="{{ site.url }}{{ page.url }}" title="Permalink">Permalink: <em>{{ page.title }}</em></a>
-  <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
+  <a class="u-url fs-5 px-2" href="{{ site.url }}{{ page.url }}" title="Permalink">Permalink: <em>{{ page.title }}</em></a>
+  <time class="dt-published fs-5" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
   {% if page.syndicate %}
   <span><a rel="syndication" class="u-syndication" href="{{ page.syndicate }}">{{ page.syndicate }}</a></span>
   {% endif -%}
@@ -18,4 +18,4 @@
   <data rel="me" value="https://github.com/minutes2midnight/"></data>
   <data rel="me" value="https://www.flickr.com/photos/minutes2midnight/"></data>
   <data rel="me" value="https://oreganodangereux.wordpress.com"></data>
-</p>
+</span>
