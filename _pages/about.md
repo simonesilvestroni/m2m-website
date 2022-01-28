@@ -3,13 +3,10 @@ layout: page
 title: About
 date: '2022-01-14 16:54:43'
 last_modified_at: '2022-01-14 16:54:56'
-description: 'Content.'
+description: 'Minutes to Midnight is my online brand name. After 9 years in the UK, I’m currently freelancing in Milan. I’ve been keeping a blog since 2002. Find everything through the archives.'
+excerpt: 'Minutes to Midnight is my online brand name. After 9 years in the UK, I’m currently freelancing in Milan. I’ve been keeping a <a href="/blog/"><strong>blog</strong></a> since 2002. Find everything through the <a href="/archive/"><strong>archives</strong></a>.'
 permalink: '/about/'
 ---
-<p class="lead">
-  Minutes to Midnight is my online brand name. After 9 years in the UK, I’m currently freelancing in Milan. I’ve been keeping a <a href="/blog/"><strong>blog</strong></a> since 2002. Find everything through the <a href="/archive/"><strong>archives</strong></a>.
-</p>
-
 ## The brand: why Minutes to Midnight?
 
 I didn’t leave [the company I co-founded](https://web.archive.org/web/20180314165034/http://uifarm.co.uk/) and co-directed for five years out of some form of frustration. Rather, I wanted to pursue both my passions: **music and web**. Name and logo were my first steps into establishing some brand presence.

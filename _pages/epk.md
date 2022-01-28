@@ -3,12 +3,11 @@ layout: page
 title: 'Electronic Press Kit'
 date: '2019-11-08 10:28:19'
 last_modified_at: '2021-11-18 18:12:31'
+excerpt: '<strong>30 years after the Berlin Wall</strong>, the tale of how a young escaped Germany in 1945, while his grandson made the other way round, looking for answers that he could only find in 2017.'
 robots: 'noindex,follow'
 sitemap: false
 permalink: '/epk/'
 ---
-<p class="lead"><strong>30 years after the Berlin Wall</strong>, the tale of how a young escaped Germany in 1945, while his grandson made the other way round, looking for answers that he could only find in 2017.</p>
-
 {% include pattern-video.html id="q148xmdgHrY" %}
 
 [Minutes to Midnight](/about/), music producer currently based in Milan (Italy), launched in 2019 a music project specifically to tell a real-life tale of imprisonment and liberty. [*After 1989: A Trip To Freedom*](/work/original-music-productions/after-1989/) tells the story from his perspective as a grandson, who has only recently uncovered answers to how his grandfather managed to escape Germany in 1945. A modern-day attempt at storytelling, the album is a glimpse into hope.

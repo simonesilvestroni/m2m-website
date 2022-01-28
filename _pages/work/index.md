@@ -7,8 +7,6 @@ description: "As a cross-disciplinary polymath, I’ve been juggling between des
 excerpt: 'In 1995, while interning as an editor, I graduated as a <strong>bass player</strong>. Switched a few years later from the publishing industry to <strong>web design</strong>. After spending the following decades working as a <strong>game audio designer</strong> and a front-end developer between Italy and the UK, I gained a diploma at Berklee, specializing in music production, <strong>mixing</strong> above all.'
 permalink: '/work/'
 ---
-<p class="lead">{{ page.excerpt }}</p>
-
 <section class="h-feed m2m-entry my-5 pb-3">
   <div class="card-group pb-3">
     <div class="row row-cols-1">
