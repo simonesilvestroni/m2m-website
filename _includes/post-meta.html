@@ -37,11 +37,9 @@
         <span class="m2m-font-micro text-uppercase me-1"><strong>Skills</strong></span>
       </th>
       <td>
-        <span class="p-category">
-          {%- for skill in page.skillset -%}
-          <span class="text-uppercase m2m-font-micro"><strong>{{ skill }}</strong></span>{% unless forloop.last %} <span class="d-inline-block">&middot;</span> {% endunless %}
-          {%- endfor -%}
-        </span>
+        {%- for skill in page.skillset -%}
+        <span class="p-category text-uppercase m2m-font-micro"><strong>{{ skill }}</strong></span>{% unless forloop.last %} <span class="d-inline-block">&middot;</span> {% endunless %}
+        {%- endfor -%}
       </td>
     </tr>
     {% endunless %}

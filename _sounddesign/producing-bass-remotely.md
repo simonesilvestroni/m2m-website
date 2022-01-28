@@ -6,11 +6,11 @@ last_modified_at: '2021-12-07 17:00:42'
 year: "2020"
 type: "production"
 skillset: 
-  - "production"
   - "instrumentalist"
   - "bass"
   - "mix"
   - "pro tools"
+  - "logic pro x"
 description: "Producing bass remotely."
 excerpt: "In this case study, I expose a process for producing <strong>effective bass tracks</strong> for clients based in a different city or country."
 toc: true
