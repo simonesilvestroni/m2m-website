@@ -87,14 +87,9 @@ responsive_image:
     - width: 768
     - width: 1200
 
-webmentions:
-  username: minutestomidnight.co.uk
-  cache_bad_uris_for: 5
-
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-archives
   - jekyll-responsive-image
-  - jekyll-webmention_io
