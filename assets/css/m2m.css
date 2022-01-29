@@ -1469,7 +1469,7 @@ progress {
   font-size: calc(1.275rem + 0.3vw) !important;
 }
 
-.fs-5 {
+.fs-5, .comments li {
   font-size: 1.25rem !important;
 }
 

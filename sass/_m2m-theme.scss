@@ -409,6 +409,9 @@ cite {
     }
   }
 }
+.comments li {
+  @extend .fs-5;
+}
 /* purgecss end ignore */
 
 
