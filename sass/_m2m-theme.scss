@@ -404,7 +404,8 @@ cite {
       text-decoration: none;
 
       img {
-        @extend .visually-hidden;
+        width: 24px;
+        height: 24px;
       }
     }
   }
