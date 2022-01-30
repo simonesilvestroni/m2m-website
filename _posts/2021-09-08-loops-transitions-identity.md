@@ -12,6 +12,10 @@ tags:
   - web standards
 description: "Following a process to recalibrate my self-identity after leaving social media, I’m going back to the roots and leave WordPress for Jekyll, joining IndieWeb."
 excerpt: "Following a process to recalibrate my self-identity after leaving social media, I’m going back to the roots, leaving WordPress for Jekyll and joining the IndieWeb."
+webmention: true
+webmention_url: 'https://minutestomidnight.co.uk/blog/escape-from-social-media/'
+webmention_comment: '&lsquo;Escape from social media&rsquo; by Minutes to Midnight'
+webmention_type: reply
 ---
 Milan is the city where I spent 15 years before emigrating to the UK. It’s where I kickstarted my work life, met great people and became an adult. I find it slightly funny how, over the last couple of years, I’ve been studying to — hopefully — go back to an audio videogame career, ending up moving back to where it all started.
 
