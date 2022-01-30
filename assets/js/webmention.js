@@ -153,7 +153,7 @@ A more detailed example:
    * @type {Record<MentionType, string>}
    */
   const reactEmoji = {
-    // "in-reply-to": "💬",
+    "in-reply-to": "",
     "like-of": "❤️",
     "repost-of": "🔄",
     "bookmark-of": "⭐️",
@@ -234,7 +234,7 @@ A more detailed example:
         href="${r[mentionSource]}"
       >
         ${authorPhoto}
-        ${(reactEmoji[r['wm-property']] )}
+        ${(reactEmoji[r['wm-property']] || '💥')}
         ${rsvp}
       </a>
     `;
