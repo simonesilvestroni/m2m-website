@@ -1654,7 +1654,7 @@ body {
 .m2m-current {
   background-color: #2f2f26 !important;
   color: #fbfbf9 !important;
-  padding: 0 4px;
+  padding: 0 4px !important;
 }
 
 .nav-small li {
@@ -1674,12 +1674,14 @@ body {
 }
 .nav-secondary a {
   display: inline-block;
+  padding: 2px 6px;
 }
 @media (min-width: 768px) {
   .nav-secondary {
     font-size: 1.2rem;
   }
   .nav-secondary a {
+    padding: 0;
     margin-right: 8px;
   }
   .nav-secondary a::last-child {
