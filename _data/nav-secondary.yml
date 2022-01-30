@@ -2,7 +2,9 @@
   link: /archive/
 - name: Colophon
   link: /colophon/
-- name: Search
-  link: /search/
+- name: Equipment
+  link: /uses/
 - name: Privacy
   link: /privacy-policy/
+- name: 🔍
+  link: /search/

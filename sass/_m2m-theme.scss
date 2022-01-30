@@ -105,6 +105,7 @@ h4 {
 .m2m-current {
   background-color: $background-d-80 !important;
   color: $link-l-90 !important;
+  padding: 0 4px;
 }
 .nav-small {
 
@@ -126,14 +127,14 @@ h4 {
   
   a {
     display: inline-block;
-    padding: 2px 6px;
+    // padding: 2px 6px;
   }
 
   @include media-breakpoint-up(md) {
     font-size: 1.2rem;
 
     a {
-      margin-right: 2px;
+      margin-right: 8px;
       &::last-child {
         margin-right: 0;
       }
