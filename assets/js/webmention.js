@@ -148,21 +148,6 @@ A more detailed example:
   };
 
   /**
-   * Maps a reaction to an emoji.
-   *
-   * @type {Record<MentionType, string>}
-   */
-  const reactEmoji = {
-    "in-reply-to": "💬",
-    "like-of": "❤️",
-    "repost-of": "🔄",
-    "bookmark-of": "⭐️",
-    "mention-of": "💬",
-    "rsvp": "📅",
-    "follow-of": "🐜"
-  };
-
-  /**
    * @typedef RSVPEmoji
    * @type {"yes"|"no"|"interested"|"maybe"|null}
    */
@@ -234,7 +219,6 @@ A more detailed example:
         href="${r[mentionSource]}"
       >
         ${authorPhoto}
-        ${(reactEmoji[r['wm-property']] || '💥')}
         ${rsvp}
       </a>
     `;
