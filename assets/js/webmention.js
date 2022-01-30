@@ -234,7 +234,7 @@ A more detailed example:
         href="${r[mentionSource]}"
       >
         ${authorPhoto}
-        ${(reactEmoji[r['wm-property']] || '💥')}
+        ${(reactEmoji[r['wm-property']] || '')}
         ${rsvp}
       </a>
     `;
