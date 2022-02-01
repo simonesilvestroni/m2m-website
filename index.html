@@ -12,11 +12,31 @@ last_modified_at: 2021-11-06 13:42:07
             <img class="avatar" src="/assets/images/minutestomidnight-avatar.png" alt="Portrait of Simone Silvestroni" width="128" height="128">
           </div>
           <div class="col-12 col-md-9">
-            <h1 class="p-name fs-1 text-center text-md-start px-3 mt-3 mt-md-0 mb-0">{{ site.brand.m2m_pitch }}</h1>
+            <h1 class="fs-1 text-center text-md-start px-3 mt-3 mt-md-0 mb-0"><span class="visually-hidden">Minutes to Midnight </span>{{ site.brand.m2m_pitch }}</h1>
           </div>
         </div>
       </div>
     </div>
+  </div>
+  <div class="visually-hidden">
+    <span class="p-author h-card">
+      <img class="u-photo" src="{{ site.url }}/assets/images/minutestomidnight-avatar-uphoto.png" alt="Minutes to Midnight" width="48" height="48">
+      <a class="p-name" href="{{ site.url }}" rel="author"><strong>Simone Silvestroni</strong></a>
+      <a class="u-url" href="{{ site.url }}{{ page.url }}">{{ site.url }}{{ page.url }}</a>
+      <p class="p-note">A digital polymath, I've been working as a sound and web designer for more than 25 years.</p>
+      <p class="p-org">Minutes to Midnight</p>
+      <p class="u-email"><a href="mailto:contact@minutestomidnight.co.uk">contact@minutestomidnight.co.uk</a></p>
+      <p class="p-locality">Milan</p>
+      <p class="p-country-name">Italy</p>
+    </span>
+    <a rel="me" href="https://github.com/minutes2midnight/">Github</a>
+    <a rel="me" href="https://www.linkedin.com/in/minutes2mid/">LinkedIn</a>
+    <a rel="me" href="https://minutestomidnight.bandcamp.com/">Bandcamp</a>
+    <a rel="me" href="https://soundcloud.com/minutes2mid">Soundcloud</a>
+    <a rel="me" href="https://open.spotify.com/artist/250igOmtd9HCpGyXDWUcl9?si=d9t8bLC2QfG8iT1R3y9CAw">Spotify</a>
+    <a rel="me" href="https://www.youtube.com/channel/UCXO3ZbalCLwCZwHk_UkDBHg/">YouTube</a>
+    <a rel="me" href="https://www.flickr.com/photos/minutes2midnight/">Flickr</a>
+    <a rel="me" href="https://oreganodangereux.wordpress.com">WordPress</a>
   </div>
   <div class="mt-4 mb-2 mb-md-4">
     <div class="e-content m2m-entry">
@@ -49,5 +69,4 @@ last_modified_at: 2021-11-06 13:42:07
     <p class="fs-4"><mark class="m2m-highlight d-inline-block initialism px-2 me-1"><strong>UPDATE</strong></mark> Latest blog post: <a class="m2m-link" href="{{ post.url }}" title="Read the post"><strong>{{ post.title }}</strong></a>
     {% endfor -%}
   </div>
-  {% include pattern-hcard-pages.html %}
 </div>
