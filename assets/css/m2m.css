@@ -1375,6 +1375,11 @@ progress {
   padding-left: 1.5rem !important;
 }
 
+.px-5 {
+  padding-right: 3rem !important;
+  padding-left: 3rem !important;
+}
+
 .py-1 {
   padding-top: 0.25rem !important;
   padding-bottom: 0.25rem !important;
