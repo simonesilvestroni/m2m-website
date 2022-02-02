@@ -55,7 +55,7 @@ My Warwick Thumb bass and Paolo's Fender Strat are both around thirty years old 
 
 The first version of _The Logic_ was in Italian. I've decided not to add it to _Demos_ because I couldn't find a proper version. Several other instrumental tracks were dropped because they were either not written by me and/or didn't really fit the concept.
 
-I also dropped the second full-fledged song, _Niemandsland_. Paolo wrote the music, while the amazing Rachel Goodman sung my lyrics. A few sections of Rach's performance were later [repurposed in _Skinny Kid_](/work/sound-design/editing-and-restoration/#vocal-transformation). The two songs don't share much, therefore I had to put down hours of work in order to salvage her effort and make it fit a completely different set of chords at a faster tempo. **Flex Time** and **Flex Pitch** from Logic Pro X helped me quite a lot with the task.
+I also dropped the second full-fledged song, _Niemandsland_. Paolo wrote the music, while the amazing Rachel Goodman sung my lyrics. A few sections of Rach's performance were later [repurposed in _Skinny Kid_](/work/sound-design/vocal-editing/). The two songs don't share much, therefore I had to put down hours of work in order to salvage her effort and make it fit a completely different set of chords at a faster tempo. **Flex Time** and **Flex Pitch** from Logic Pro X helped me quite a lot with the task.
 
 ## Credits
 
@@ -67,7 +67,7 @@ Recorded in Milan, London and Cambridge. Produced by Simone Silvestroni at the G
 <br><br>
 Not mixed nor mastered.
 <br><br>
-Cover photo by Dan Budnik "An elderly woman, standing at the Berlin Wall, West sector, with hands raised, waiting to see her East Berlin friends and relatives (1961)". Cover photo digital retouch by [Silvia Maggi](https://silviamaggidesign.com){:target="_blank" rel="noopener"}.
+Cover photo by Dan Budnik "An elderly woman, standing at the Berlin Wall, West sector, with hands raised, waiting to see her East Berlin friends and relatives (1961)". Cover photo digital retouch by [Silvia Maggi](https://silviamaggidesign.com).
 <br>
 <p class="detached"><mark class="m2m-highlight small">Album released <strong>April 30, 2020</strong>.</mark></p>
 

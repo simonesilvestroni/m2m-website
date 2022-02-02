@@ -24,7 +24,7 @@ permalink: '/work/original-music-productions/the-die-is-cast/'
 
 ## Backstory
 
-In 2018, together with Dan Ecclestone, songwriter for Cambridge-based band Ember Rev, I worked as a co-producer and mixer for their second album, [*Premonition And Ruin*](https://emberrev.bandcamp.com/album/premonition-and-ruin){:target="_blank" rel="noopener"}. A song that I really liked didn’t make the final cut, a piece divided in two short parts, which bookended the album. *Land Of Kings* is my interpretation of it. *Papillon*, the fourth song, is my absolute favorite of their entire catalog.
+In 2018, together with Dan Ecclestone, songwriter for Cambridge-based band Ember Rev, I worked as a co-producer and mixer for their second album, [*Premonition And Ruin*](/work/sound-design/premonition-and-ruin/). A song that I really liked didn’t make the final cut, a piece divided in two short parts, which bookended the album. *Land Of Kings* is my interpretation of it. *Papillon*, the fourth song, is my absolute favorite of their entire catalog.
 
 Both lyrics referenced the painful process of living in England through Brexit. *The Die Is Cast* is in fact an autobiographical **concept revolving around migration** in Europe, and how deceitful can be to idealize the place where you move to.
 
