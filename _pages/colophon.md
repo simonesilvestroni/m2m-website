@@ -6,7 +6,7 @@ last_modified_at: '2021-11-08 10:27:31'
 description: "Technical details about the website"
 permalink: '/colophon/'
 ---
-Developed by Simone Silvestroni, designed with Silvia Maggi. <abbr title="Information Architecture">IA</abbr> and photography by [Silvia Maggi](https://silviamaggidesign.com/ "Go to Silvia Maggi website"){:target="_blank" rel="noopener"}. Logo glyph by [Saskia Robertson](/about/). Check the post [Website redesign](/blog/website-redesign/) for a more philosophical analysis.
+Developed by Simone Silvestroni, designed with Silvia Maggi. Information architecture and photography by [Silvia Maggi](https://silviamaggidesign.com/ "Go to Silvia Maggi website"){:target="_blank" rel="noopener"}. Logo glyph by [Saskia Robertson](/about/). Check the post [Website redesign](/blog/website-redesign/) for a more philosophical analysis.
 
 ## Tools
 
@@ -57,7 +57,9 @@ Only `0.07g of CO2` is produced every time someone visits the homepage. Cleaner 
 
 ## Copyright
 
-Unless explicitly stated, all contents of this website (copy, images, files, interface, branding and code) are copyright of Minutes to Midnight. If you wish to reshare or use my content, please attribute it to me.
+The **text content** of this website is [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). It means you are free to share — copy and redistribute the material in any medium or format, adapt — remix, transform, and build upon the material for any purpose, even commercially.
+
+Everything connected to Minutes to Midnight's **branding and published music** is strictly copyrighted by Simone Silvestroni.
 
 ## Trademark
 
