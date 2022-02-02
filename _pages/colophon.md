@@ -14,10 +14,11 @@ Developed from scratch using:
 
 - [Jekyll 4](https://jekyllrb.com/)
 - [Markdown (extended)](https://www.markdownguide.org/getting-started/)
-- <abbr title="Syntactically Awesome Style Sheets">[SASS](https://sass-lang.com/)</abbr>
+- [SASS](https://sass-lang.com/)
 - [PostCSS](https://postcss.org/)
 - [Bootstrap 5.1](https://getbootstrap.com/)
-- [Node](https://nodejs.org/)
+- Vanilla javascript (DOM manipulation only)
+- [Node](https://nodejs.org/) (for building purposes)
 - [GitHub](https://github.com/)
 - Javascript search module by [David Darnes](https://github.com/daviddarnes)
 - Deployment: [![Netlify Status](https://api.netlify.com/api/v1/badges/d2941475-cc56-4e5c-98c9-e16845e6cbea/deploy-status)](https://app.netlify.com/sites/minutestomidnight/deploys)
