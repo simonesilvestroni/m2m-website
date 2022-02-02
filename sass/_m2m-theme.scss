@@ -95,20 +95,22 @@ h4 {
   color: white;
 
   a {
-    background-color: rgba($link-l-40, 0.8);
-    padding: 0 4px;
-    border-radius: 3px;
+    color: $link-l-90;
+    text-decoration-line: underline;
+    text-decoration-thickness: 4px;
+    text-decoration-color: rgba($link-decoration, 0.5) !important;
 
     &:hover {
-      background-color: rgba($link-d-80, 0.8);
+      @extend .m2m-transition-bg-01s;
       color: white !important;
+      background-color: rgba($link-d-80, 0.8);
     }
   }
 }
 .m2m-current {
   background-color: $background-d-80 !important;
   color: $link-l-90 !important;
-  padding: 0 4px !important;
+  text-decoration: none !important;
 }
 .nav-small {
 

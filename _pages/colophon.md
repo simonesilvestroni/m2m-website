@@ -12,7 +12,7 @@ Developed by Simone Silvestroni, designed with Silvia Maggi. Information archite
 
 Developed from scratch using:
 
-- [Jekyll 4](https://jekyllrb.com/)
+- [Jekyll 4.2.1](https://jekyllrb.com/)
 - [Markdown (extended)](https://www.markdownguide.org/getting-started/)
 - [SASS](https://sass-lang.com/)
 - [PostCSS](https://postcss.org/)

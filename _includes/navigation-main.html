@@ -1,21 +1,10 @@
 <div id="navigation-main">
-  {%- comment -%}
-  // ------------------------------------------------ \\
-  // Navigation on large devices
-  // ------------------------------------------------ //
-  {%- endcomment %}
   <ul class="nav flex-column mb-0" aria-label="Navigation">
+  {% for item in site.data.nav-site -%}
     <li class="nav-item mb-4">
-      <span class="d-block fs-4 text-uppercase m2m-letter-spacing-w1 fw-bold mb-2"><strong>About</strong></span>
-      <span class="fs-5"><a class="fw-bold{% if page.url contains '/about/' %} m2m-current{% endif %}" href="/about/"><strong>Minutes to Midnight</strong></a> is my online brand name. Left the UK in 2020, I&rsquo;m freelancing in Milan. I&rsquo;ve been keeping a <a class="fw-bold{% if page.url contains '/blog/' %} m2m-current{% endif %}" href="/blog/"><strong>blog</strong></a> since 2002.</span>
+      <a class="fs-4 text-uppercase m2m-letter-spacing-w1 fw-bold{% if page.url contains item.link %} m2m-current{% endif %}" href="{{ item.link }}"><strong>{{ item.name }}</strong></a>
+      <span class="fs-5 pt-2 lh-sm d-block">{{ item.desc }}</span>
     </li>
-    <li class="nav-item mb-4">
-      <span class="d-block fs-4 text-uppercase m2m-letter-spacing-w1 fw-bold mb-2"><strong>Work</strong></span>
-      <span class="fs-5">A cross-disciplinary polymath, I’ve been juggling between design and audio. Check out my <a class="fw-bold{% if page.url contains '/work/' %} m2m-current{% endif %}" href="/work/"><strong>work</strong></a> as a sound and web designer.</span>
-    </li>
-    <li class="nav-item mb-4">
-      <span class="d-block fs-4 text-uppercase m2m-letter-spacing-w1 fw-bold mb-2"><strong>Contact</strong></span>
-      <span class="fs-5">Hire me for your next project or just <a class="fw-bold{% if page.url contains '/contact/' %} m2m-current{% endif %}" href="/contact/"><strong>get in touch</strong></a>, including through (some) social media and my irregular newsletter.</span>
-    </li>
+  {% endfor -%}
   </ul>
 </div>

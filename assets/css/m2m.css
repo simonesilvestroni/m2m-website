@@ -1661,19 +1661,22 @@ body {
   color: white;
 }
 #navigation-main a {
-  background-color: rgba(231, 231, 216, 0.8);
-  padding: 0 4px;
-  border-radius: 3px;
+  color: #fbfbf9;
+  -webkit-text-decoration-line: underline;
+  text-decoration-line: underline;
+  text-decoration-thickness: 4px;
+  -webkit-text-decoration-color: rgba(194, 194, 171, 0.5) !important;
+  text-decoration-color: rgba(194, 194, 171, 0.5) !important;
 }
 #navigation-main a:hover {
-  background-color: rgba(43, 43, 38, 0.8);
   color: white !important;
+  background-color: rgba(43, 43, 38, 0.8);
 }
 
 .m2m-current {
   background-color: #2f2f26 !important;
   color: #fbfbf9 !important;
-  padding: 0 4px !important;
+  text-decoration: none !important;
 }
 
 .nav-small li {
@@ -2049,7 +2052,7 @@ hr:not([size]) {
   text-shadow: 0px 0px 0px #fff, 0 0 0 #000, 0px 1px 1px #fff;
 }
 
- .btn-m2m:hover {
+ #navigation-main a:hover, .btn-m2m:hover {
   transition: background-color 0.1s ease-in !important;
 }
  .btn-label-m2m-link:hover {

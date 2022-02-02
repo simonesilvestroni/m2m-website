@@ -1,8 +1,12 @@
 - name: About
   link: /about/
+  desc: Left the UK in 2020, I&rsquo;m currently freelancing in Milan.
 - name: Work
   link: /work/
+  desc: 'Case studies: sound &amp; web design, original music.'
 - name: Blog
   link: /blog/
+  desc: Articles, notes and social interactions.
 - name: Contact
   link: /contact/
+  desc: Hire me, get in touch or subscribe to the newsletter.
