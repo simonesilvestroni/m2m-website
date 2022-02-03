@@ -1671,6 +1671,8 @@ body {
 #navigation-main a:hover {
   color: white !important;
   background-color: rgba(43, 43, 38, 0.8);
+  -webkit-text-decoration-color: rgba(43, 43, 38, 0.8) !important;
+  text-decoration-color: rgba(43, 43, 38, 0.8) !important;
 }
 
 .m2m-current {
