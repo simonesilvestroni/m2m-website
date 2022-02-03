@@ -10,16 +10,17 @@ permalink: '/contact/'
 
 I’m available for hire: [reach out via email](mailto:hello@minutestomidnight.co.uk){:rel="me"} and let me know what do you need help with. We’ll take it from there. 
 
-If you need bass tracks or production, it's possible to hire me through [SoundBetter](https://soundbetter.com/profiles/206552-minutes-to-midnight){:target="_blank" rel="noopener"}, a safe and secure platform to hire freelance musicians.
+If you need bass tracks or production, it's possible to hire me through [SoundBetter](https://soundbetter.com/profiles/206552-minutes-to-midnight), a safe and secure platform to hire freelance musicians.
 
 ## Get in touch
 
-To start a direct conversation or ask for advice, I'm reachable on [Telegram](https://t.me/minutes2midnight){:target="_blank" rel="noopener"}. It&rsquo;s also possible to follow me on the following platforms:
+To start a direct conversation or ask for advice, I'm reachable on [Telegram](https://t.me/minutes2midnight). It&rsquo;s also possible to follow me on the following platforms:
 
 <div class="d-flex justify-content-center my-5">{%- include navigation-social.html %}</div>
 
-<div class="alert alert-background-d-10" role="alert">
-  <p class="fs-5"><kbd class="fw-bold">What about the usual social media?</kbd> — While I had never opened accounts with TikTok and Snapchat, in the summer of 2020 <a href="/blog/escape-from-social-media/">I deleted</a> my Twitter, Reddit, Facebook, Instagram and WhatsApp.</p>
+<div class="alert alert-background-d-10 px-4 py-4" role="alert">
+  <p class="text-center"><mark class="m2m-highlight text-center fw-bold px-2"><strong>What about the usual social media?</strong></mark></p>
+  <p class="detached">In the summer of 2020 <a href="/blog/escape-from-social-media/">I deleted</a> my Twitter, Reddit, Facebook, Instagram and WhatsApp.</p>
 </div>
 
 ## Newsletter

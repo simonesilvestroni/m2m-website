@@ -15,7 +15,7 @@ skillset:
  - git
 description: "Silvia Maggi is a UX designer striving to create meaningful digital experiences."
 excerpt: false
-summary: 'Silvia Maggi is a UX designer striving to create meaningful digital experiences. As her main focus is on <strong>accessibility, usability and sustainability</strong>, my input on adopting Jekyll and optimizing through Node scripts such as autoprefixer and postCSS, ensured great results.'
+summary: 'Silvia Maggi is a UX designer striving to create meaningful digital experiences. As her main focus is on <strong>accessibility, usability and sustainability</strong>, my input on adopting Jekyll and optimizing through Node modules such as purgeCSS ensured great results.'
 toc: false
 featimage: true
 permalink: '/work/web-design/silvia-maggi-design/'

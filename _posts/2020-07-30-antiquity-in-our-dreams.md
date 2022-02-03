@@ -15,13 +15,9 @@ excerpt: '<em>In Our Dreams</em> is out now. Written, produced and mixed by Gera
 ---
 I always enjoy being a part of [Gerald’s fabulous songs](/tag/antiquity/). This one was particularly exciting to work on, since I rarely have the chance to play bass in songs where drums are nowhere to be seen (or heard). I believe the result is stunning.
 
-## On Bandcamp
+## Release
 
 {% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=984842794/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/in-our-dreams">In Our Dreams by Antiquity</a></iframe>' %}
-
-## On Spotify
-
-{% include pattern-spotify.html id="7f68qtOMpeLwCRsZoA1zwG" height="80" %}
 
 ## Official Video
 
