@@ -3,8 +3,8 @@ layout: page
 title: About
 date: '2022-01-14 16:54:43'
 last_modified_at: '2022-01-14 16:54:56'
-description: 'Minutes to Midnight is my online brand name. After 9 years in the UK, I’m currently freelancing in Milan. I’ve been keeping a blog since 2002. Find everything through the archives.'
-excerpt: 'Minutes to Midnight is my online brand name. After 9 years in the UK, I’m currently freelancing in Milan. I’ve been keeping a <a href="/blog/"><strong>blog</strong></a> since 2002. Find everything through the <a href="/archive/"><strong>archives</strong></a>.'
+description: 'Minutes to Midnight is my online brand name. After 9 years in the UK, I’m currently freelancing in Milan. I’ve been keeping a blog since 2002. Find everything through the archive.'
+excerpt: 'Minutes to Midnight is my online brand name. After 9 years in the UK, I’m currently freelancing in Milan. I’ve been keeping a <a href="/blog/"><strong>blog</strong></a> since 2002. Find everything through the <a href="/archive/"><strong>archive</strong></a>.'
 permalink: '/about/'
 ---
 ## Why Minutes to Midnight?
@@ -19,10 +19,8 @@ Being born in the early Seventies **in Italy**, a country at the forefront of wh
 
 ### War and peace
 
-The expression _Minutes to midnight_ is a reference to the [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock){:target="_blank" rel="noopener"}, a symbol which have represented the likelihood of a human-made global catastrophe since the start of the atomic age.
+The expression _Minutes to midnight_ is a reference to the [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock){:target="_blank" rel="noopener"}, a symbol which have represented the likelihood of a human-made global catastrophe since the start of the atomic age. Thus, the logo is derivative of the radiation symbol combined with the glyph used in fallout shelter signs.
 
-Designer Saskia Robertson came up with a monochromatic logo which was a **re-interpretation of the radiation symbol** combined with the peace glyph.
+{% include pattern-figure-cols.html image1="/assets/images/fallout-shelter.jpg" alt1="Fallout shelter symbol" width1="200" height1="283" image2="/assets/images/radiation-symbol.png" alt2="Radiation symbol" width2="283" height2="283" caption="Inspiration symbols" %}
 
-{% include pattern-figure-cols.html image1="/assets/images/fallout-shelter.jpg" image2="/assets/images/peace-glyph.png" alt="Inspiration symbols" caption="Inspiration symbols" width="200" height="283" %}
-
-{% include pattern-figure.html image="/assets/images/minutestomidnight-logo-2018.png" caption="The logo" width="290" height="300" %}
+{% include pattern-figure.html image="/assets/images/minutestomidnight-logo.png" width="550" height="170" caption="The final logo" %}

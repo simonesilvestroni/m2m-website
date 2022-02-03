@@ -40,6 +40,5 @@ Like the previous singles, [_Hang Loose_](/blog/callum-gardner-hang-loose/) and 
 
 Music and lyrics / **Callum Gardner**  
 Production / **Minutes to Midnight**  
-Artwork & video **SR Creative**  
 
 <p class="detached"><mark class="m2m-highlight small"><strong>Released</strong>: May 29, 2020</mark></p>

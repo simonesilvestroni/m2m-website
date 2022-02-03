@@ -6,7 +6,7 @@ last_modified_at: '2021-11-08 10:27:31'
 description: "Technical details about the website"
 permalink: '/colophon/'
 ---
-Developed by Simone Silvestroni, designed with Silvia Maggi. Information architecture and photography by [Silvia Maggi](https://silviamaggidesign.com/ "Go to Silvia Maggi website"){:target="_blank" rel="noopener"}. Logo glyph by [Saskia Robertson](/about/). Check the post [Website redesign](/blog/website-redesign/) for a more philosophical analysis.
+Developed by Simone Silvestroni, designed with Silvia Maggi. Information architecture and photography by [Silvia Maggi](https://silviamaggidesign.com/ "Go to Silvia Maggi website"){:target="_blank" rel="noopener"}. Check the post [Website redesign](/blog/website-redesign/) for a more philosophical analysis.
 
 ## Tools
 

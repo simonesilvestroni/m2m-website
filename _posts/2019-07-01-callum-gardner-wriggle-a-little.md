@@ -42,6 +42,5 @@ I went to the band’s home, an old police station in Central London, to record 
 
 Music, lyrics, production / **Callum Gardner**  
 Production, mix and master / **Minutes to Midnight**  
-Artwork & video / **SR Creative**  
 
 <p class="detached"><mark class="m2m-highlight small"><strong>Released</strong>: June 15, 2019</mark></p>

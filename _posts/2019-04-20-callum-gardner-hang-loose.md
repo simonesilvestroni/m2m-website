@@ -49,6 +49,5 @@ Besides recording and producing the song, I worked as a bassist, contributing to
 
 **Music, lyrics, production** / Callum Gardner  
 **Production, mix, master** / Minutes to Midnight  
-**Artwork** / SR Creative
 
 <p class="detached"><mark class="m2m-highlight small"><strong>Released</strong>: April 19, 2019</mark></p>
