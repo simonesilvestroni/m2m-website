@@ -19,9 +19,9 @@ permalink: '/work/sound-design/producing-bass-remotely/'
 ---
 ## Release
 
-The following analysis is based on my work for [Antiquity](https://sessions.antiquity-music.com/), and their recent single _The Far Side Of The Sun_. They are **based in New York**. At the time of the collaboration I had been living in the UK.
+The following analysis is based on my work for [Antiquity](https://antiquity-music.com/), and their recent single _The Far Side Of The Sun_. They are **based in New York**. At the time of the collaboration I had been living in the UK.
 
-{% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
+{% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://antiquitysessions1.bandcamp.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
 
 ## Stage 1: Assessment
 
