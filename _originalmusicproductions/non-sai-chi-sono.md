@@ -20,11 +20,7 @@ permalink: '/work/original-music-productions/non-sai-chi-sono/'
 ---
 ## Release
 
-{% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2164870187/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/track/non-sai-chi-sono-remix">Non sai chi sono (remix) by Minutes to Midnight + Emilio Albertoni</a></iframe>' %}
-
-## Original version
-
-{% include pattern-spotify.html id="41XOwGHELQqt9DIwbl2LNA" height="80" %}
+{% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2164870187/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/track/non-sai-chi-sono-remix">Non sai chi sono (remix) by Minutes to Midnight + Emilio Albertoni</a></iframe>' %}
 
 ## Backstory
 
@@ -66,6 +62,10 @@ Emilio and I exchanged opinions about the rough mixes, efficiently collaborating
 
 > We strived to reach out to the core of the song — but also moving to a different territory — respectful of our different musical paths. Simone is outstanding at giving context to songs and laying down elegant credible bass lines. He built rhythmic parts, strenghtening and tying together the tension that I created with my guitars and synths.
 > <cite>&mdash; Emilio Albertoni</cite>
+
+## Original version
+
+{% include pattern-spotify.html id="41XOwGHELQqt9DIwbl2LNA" height="80" %}
 
 ## Credits
 

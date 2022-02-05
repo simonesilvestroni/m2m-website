@@ -20,7 +20,7 @@ permalink: '/work/original-music-productions/the-die-is-cast/'
 ---
 ## Release
 
-{% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=367059768/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/album/the-die-is-cast-ep-preview">The Die Is Cast (EP preview) by Minutes to Midnight + Antiquity</a></iframe>' %}
+{% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 360px; height: 535px;" src="https://bandcamp.com/EmbeddedPlayer/album=367059768/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/album/the-die-is-cast-ep-preview">The Die Is Cast (EP preview) by Minutes to Midnight + Antiquity</a></iframe>' %}
 
 ## Backstory
 
