@@ -5,7 +5,6 @@ last_modified_at: '2021-11-14 17:44:39'
 categories:
   - 'Music release'
 tags:
-  - callum gardner
   - independent music
   - indie
   - trap
