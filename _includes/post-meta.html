@@ -38,7 +38,7 @@
       </th>
       <td>
         {%- for skill in page.skillset -%}
-        <span class="p-category text-uppercase m2m-font-micro"><strong>{{ skill }}</strong></span>{% unless forloop.last %} <span class="d-inline-block">&middot;</span> {% endunless %}
+        <span class="p-category text-uppercase m2m-font-micro"><strong>{{ skill }}</strong></span>{% unless forloop.last %} <span class="d-inline-block">&middot;</span>{% endunless %}
         {%- endfor -%}
       </td>
     </tr>
@@ -55,7 +55,7 @@
         <span class="d-inline-block m2m-font-micro text-uppercase me-1"><strong>Tags</strong></span>
       </th>
       <td>
-        {% for tag in tags %}<a class="p-category text-uppercase m2m-font-micro" href="/tag/{{ tag | slugify | append: '/' }}"><strong>{{ tag | upcase }}</strong></a>{% unless forloop.last %} <span class="d-inline-block">&middot;</span> {% endunless %}{% endfor %}
+        {% for tag in tags %}<a class="p-category text-uppercase m2m-font-micro" href="/tag/{{ tag | slugify | append: '/' }}"><strong>{{ tag | upcase }}</strong></a>{% unless forloop.last %} <span class="d-inline-block">&middot;</span>{% endunless %}{% endfor %}
       </td>
     </tr>
     <tr>
