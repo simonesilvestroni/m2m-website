@@ -2,8 +2,6 @@
  * Custom CSS built on top of Bootstrap 5.x
  * Written by Minutes to Midnight & Silvia Maggi
  * No copyright 2021-22, Simone Silvestroni.
- * Dust texture on headings by PhotoshopSupply
- * https://www.photoshopsupply.com
  */
 
 
@@ -23,7 +21,7 @@
 // be found in _reboot.scss and _variables.scss
 // ------------------------------------------------ //
 
-@import "m2m-functions";
+// @import "m2m-functions";
 @import "m2m-mixins";
 @import "m2m-typography";
 @import "m2m-palette";
@@ -60,7 +58,6 @@ $enable-gradients: false;
 $enable-negative-margins: true;
 
 // Links
-// $link-color: $link-d-50;
 $link-color: $heading-d-30;
 $link-decoration: $link-d-10;
 $link-shade-percentage: 30%;
@@ -130,10 +127,8 @@ $theme-colors: map-merge($theme-colors, $m2m-custom-colors);
 @import "bootstrap/breadcrumb";
 @import "bootstrap/badge";
 @import "bootstrap/alert";
-// @import "bootstrap/progress";
 @import "bootstrap/list-group";
 @import "bootstrap/close";
-// @import "bootstrap/spinners";
 
 // Helpers
 @import "bootstrap/helpers";
