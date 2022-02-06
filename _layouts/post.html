@@ -14,9 +14,9 @@ layout: default
     <p>{% if page.webmention_type == 'like' %}🧡 <strong class="ps-1">A like of</strong> {% elsif page.webmention_type == 'repost' %}🔄 <strong class="ps-1">A repost of</strong> {% elsif page.webmention_type == 'reply' %}↪️ <strong class="ps-1">In reply to</strong> {% endif %}<a class="{% if page.webmention_type == 'like' %}u-like-of{% elsif page.webmention_type == 'repost' %}u-repost-of{% elsif page.webmention_type == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.webmention_url }}">{{ page.webmention_comment }}</a></p>
     <p class="p-name detached fs-2 lh-sm">{{ page.excerpt }}</p>
     {% include pattern-hcard-post.html %}
-  </div>
-  <div class="e-content mt-5">
-  {{ content }}
+    <div class="e-content mt-5">
+      {{ content }}
+    </div>
   </div>
 {%- include pattern-relatedposts.html -%}
 {%- include pattern-responses.html -%}
