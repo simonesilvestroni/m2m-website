@@ -16,10 +16,10 @@ tags:
   - sustainability
 description: "Minutes to Midnight's new redesigned website is easier to navigate and straight to the point. Built with JAMstack on Netlify."
 excerpt: "4 months after Silvia's announcement, here is Minutes to Midnight's new redesigned website. Easier to navigate and straight to the point, I finally have full control over my code and my online presence."
-webmention: true
-webmention_url: 'https://silviamaggidesign.com/design/brand-new-website/'
-webmention_comment: '&lsquo;<em>Brand new website</em>&rsquo; by Silvia Maggi'
-webmention_type: reply
+mention: true
+mentionReplyUrl: 'https://silviamaggidesign.com/design/brand-new-website/'
+mentionReplyTitle: '&lsquo;<em>Brand new website</em>&rsquo; by Silvia Maggi'
+mentionType: reply
 ---
 ## Platform
 

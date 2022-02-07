@@ -21,10 +21,10 @@ tags:
   - popular
 description: "Finally, I’m leaving social media, Facebook, Twitter, Instagram, WhatsApp, Reddit, redirecting my attention and my time to something more productive."
 excerpt: 'Like plenty others, I’m finally leaving social media, and by that I mean Facebook, Twitter, Instagram, WhatsApp, Pinterest and Reddit. This post is a personal point of view, it’s not intended as an exhaustive analysis on what is going on with social media, nor am I trying to convince anybody. I’m just <strong>redirecting my attention and my time</strong> to something more productive.'
-webmention: true
-webmention_url: 'https://silviamaggidesign.com/personal/life-off-social-media/'
-webmention_comment: '&lsquo;Life off social media, six months in&rsquo; by Silvia Maggi'
-webmention_type: like
+mention: true
+mentionReplyUrl: 'https://silviamaggidesign.com/personal/life-off-social-media/'
+mentionReplyTitle: '&lsquo;Life off social media, six months in&rsquo; by Silvia Maggi'
+mentionType: like
 comments:
   - comment:
     author: 'Chiara'
