@@ -14,7 +14,7 @@ permalink: '/work/'
         <div class="card h-100 pt-2 pb-3 px-3 m2m-transition-border-03s">
           <div class="card-body text-center">
             <h2 class="h1 pt-0 mt-0">Sound Design</h2>
-            <p class="card-text text-start"><strong>Recording and sculpting sound</strong> has always been a massive creative push. Heterogeneous collaborations, game audio, editing and restoration are a constant source of excitement.</p>
+            <p class="card-text text-start"><strong>Recording and sculpting sound</strong> has always been a massive creative push. Collaborating as a bassist or producer, game audio or editing and restoration are a constant source of excitement.</p>
           </div>
           <div class="card-footer text-center">
             <a class="stretched-link btn btn-lg btn-m2m btn-m2m-cta text-decoration-none fw-bold" href="/work/sound-design/"><span class="fs-5 initialism"><strong>Sound design works</strong></span></a>
