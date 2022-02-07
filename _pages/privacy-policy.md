@@ -6,7 +6,7 @@ last_modified_at: '2021-11-08 10:30:02'
 description: "This is the privacy policy for Minutes to Midnight's website. I do not collect any personal data about visitors."
 permalink: '/privacy-policy/'
 ---
-<div class="alert alert-background-d-10 px-5 py-5">
+<div class="alert alert-background-d-10 px-3 py-3 px-md-5 py-md-5">
 	<p class="fs-2"><a href="{{ site.url }}">{{ site.url }}</a> is built with <a href="https://jekyllrb.com/" title="Jekyll website">Jekyll</a>, a static web generator.</p>
 	<ul class="mb-0">
 		<li class="fs-2">It doesn&rsquo;t collect personal data.</li>
