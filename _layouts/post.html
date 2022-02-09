@@ -12,6 +12,7 @@ layout: default
   </div>
   <div class="h-entry mt-5">
     <div class="visually-hidden">
+      <span>{% include pattern-hcard-post.html %}</span>
       {%- if post -%}
       {%- assign categories = post.categories -%}
       {%- else -%}
