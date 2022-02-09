@@ -29,6 +29,10 @@ I only send one when I actually have updates to share, mostly about **releases**
 
 {% include pattern-newsletter-sub.html %}
 
-## Subscribe to blog posts
+## Follow updates
 
-To get to know when I post in the [blog](/blog/), subscribe to the [RSS feed](/feed.xml).
+To get to know when I post new [articles](/blog/) or [notes](/notes/), subscribe to the feeds:
+
+- [**Blog** feed](/feed.xml)
+- [**Notes** feed](/notes.xml)
+- [**Telegram** updates channel](https://t.me/M2Mupdates)

@@ -4,7 +4,7 @@ title: 'Notes'
 date: '2022-02-08 18:06:49'
 last_modified_at: '2022-02-08 18:06:53'
 description: ""
-excerpt: 'Notes are short thoughts and simple status messages, similar to tweets. Follow new notes through a specific <a href="/notes.xml">RSS feed</a>.'
+excerpt: 'Notes are short thoughts and simple status messages, similar to tweets. Follow new notes through a specific <a href="/notes.xml">RSS feed</a> or my <a href="https://t.me/M2Mupdates">updates channel on Telegram</a>.'
 permalink: '/notes/'
 ---
 {%- assign notes = site.notes | reverse -%}
@@ -14,7 +14,7 @@ permalink: '/notes/'
     {%- for note in notes -%}
     {%- assign tags = note.tags -%}
     <li class="list-group-item my-0 ps-0">
-      <span class="initialism pe-1">🗒</span> <a href="{{ note.url }}"><time class="dt-published" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %B %Y" }}</time></a> &ndash; <span class="p-category text-uppercase small fw-bold px-2"><code>#{{ tags[0] | upcase }}</code></span>
+      <span class="initialism pe-1">🗒</span> <a href="{{ note.url }}"><time class="dt-published pe-1" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %B %Y" }}</time></a> &ndash; <span class="p-category text-uppercase small fw-bold ps-1"><code>#{{ tags[0] | upcase }}</code></span>
     </li>
     {%- endfor -%}
   </ul>
