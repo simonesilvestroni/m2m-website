@@ -16,7 +16,7 @@ If you need bass tracks or production, it's possible to hire me through [SoundBe
 
 To start a direct conversation or ask for advice, I'm reachable on [Telegram](https://t.me/minutes2midnight). It&rsquo;s also possible to follow me on the following platforms:
 
-<div class="d-flex justify-content-center my-5">{%- include navigation-social.html %}</div>
+<div class="d-flex justify-content-center my-5">{%- include site-nav-social.html %}</div>
 
 <div class="alert alert-background-d-10 px-4 py-4" role="alert">
   <p class="text-center"><mark class="m2m-highlight text-center fw-bold px-2"><strong>What about the usual social media?</strong></mark></p>

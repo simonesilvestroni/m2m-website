@@ -4,7 +4,7 @@ title: 'What I use'
 date: '2021-11-08 10:54:03'
 last_modified_at: '2021-11-08 10:54:06'
 description: "All the info and specifics of the equipment I use."
-excerpt: 'Following an idea by <a href="https://wesbos.com/uses" target="_blank" rel="noreferrer noopener">Wes Bos</a>, here’s any info about the specifics of the equipment I use. Unlike Wes, I don’t use affiliate links, so whatever the product, find it at your preferred retailer.'
+excerpt: 'Specifics about the equipment I use. I don’t use affiliate links, so whatever the product, find it at your preferred retailer.'
 permalink: '/uses/'
 toc: true
 ---

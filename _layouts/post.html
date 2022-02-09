@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% include breadcrumbs.html %}
+{% include pattern-breadcrumbs.html %}
 
 {%- if page.mention == true %}
 
@@ -12,7 +12,7 @@ layout: default
   </div>
   <div class="h-entry mt-5">
     <div class="visually-hidden">
-      <span>{% include pattern-hcard-post.html %}</span>
+      <span>{% include hcard-post.html %}</span>
       {%- if post -%}
       {%- assign categories = post.categories -%}
       {%- else -%}
@@ -28,7 +28,7 @@ layout: default
     <div class="alert alert-background-d-10">
       <p>{% if page.mentionType == 'like' %}🧡 <strong class="ps-1">A like of</strong> {% elsif page.mentionType == 'repost' %}🔄 <strong class="ps-1">A repost of</strong> {% elsif page.mentionType == 'reply' %}↪️ <strong class="ps-1">In reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></p>
       <p class="p-name detached fs-2 lh-sm">{{ page.excerpt }}</p>
-      {% include pattern-hcard-post.html %}
+      {% include hcard-post.html %}
     </div>
     <div class="e-content mt-5">
       {{ content }}
@@ -45,7 +45,7 @@ layout: default
   <h1 class="p-name text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
   <div class="post-meta my-4">
     {%- include post-meta.html %}
-    <span class="visually-hidden">{% include pattern-hcard-post.html %}</span>
+    <span class="visually-hidden">{% include hcard-post.html %}</span>
   </div>
   <p class="p-summary lead">{{ page.excerpt }}</p>
   <div class="e-content mt-5">

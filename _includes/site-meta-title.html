@@ -1,3 +1,4 @@
+<title>
 {%- assign notes = site.notes -%}
 {%- if page.url == "/" -%}
 {{ site.title | append: ' – ' }}{{ site.tagline }}
@@ -10,3 +11,4 @@
 {%- else -%}
 {{ page.title | append: ' – ' }}{{ site.title }}
 {%- endif -%}
+</title>
