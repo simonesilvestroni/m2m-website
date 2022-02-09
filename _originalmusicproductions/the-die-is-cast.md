@@ -1,5 +1,4 @@
 ---
-layout: casestudy
 title: 'The Die Is Cast'
 date: '2021-06-03 10:50:53'
 last_modified_at: '2021-11-08 10:50:56'

@@ -1,0 +1,41 @@
+---
+layout: default
+---
+{%- assign notes = site.notes %}
+
+{% include breadcrumbs.html %}
+
+{%- if page.mention == true %}
+<article class="m2m-entry">
+  <h1 class="h3 text-center text-md-start mt-4 mt-md-0">{{ page.date | date: "%-d %B %Y" }}</h1>
+  <div class="h-entry mt-3">
+    <div class="alert alert-background-d-10">
+      <p>{% if page.mentionType == 'like' %}🧡 <strong class="ps-1">A like of</strong> {% elsif page.mentionType == 'repost' %}🔄 <strong class="ps-1">A repost of</strong> {% elsif page.mentionType == 'reply' %}↪️ <strong class="ps-1">In reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></p>
+      <p class="p-name detached fs-2 lh-sm">{{ page.excerpt }}</p>
+      {% include pattern-hcard-note.html %}
+    </div>
+    <div class="e-content mt-3">
+      <p class="lead lh-sm">{{ page.excerpt }}</p>
+      {{ content }}
+      <mark class="m2m-highlight d-inline-block mb-2"><span class="p-category text-uppercase fs-5 fw-bold px-2"><strong>#{{ page.tags[0] | upcase }}</strong></span></mark>
+    </div>
+  </div>
+{%- include pattern-responses.html -%}
+</article>
+{%- include post-navigation.html -%}
+{%- else -%}
+<article class="h-entry m2m-entry">
+  <h1 class="h3 text-center text-md-start mt-4 mt-md-0">{{ page.date | date: "%-d %B %Y" }}</h1>
+  <div class="e-content mt-3">
+    <p class="lead lh-sm">{{ page.excerpt }}</p>
+    {{ content }}
+    <mark class="m2m-highlight d-inline-block mb-2"><span class="p-category text-uppercase fs-5 fw-bold px-2"><strong>#{{ page.tags[0] | upcase }}</strong></span></mark>
+    <div class="visually-hidden">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
+    </div>
+    {% include pattern-hcard-note.html %}
+  </div>
+{%- include pattern-responses.html -%}
+</article>
+{%- include post-navigation.html -%}
+{% endif -%}

@@ -1,5 +1,4 @@
 ---
-layout: casestudy
 title: 'Mixing Premonition and ruin'
 date: '2018-09-12'
 last_modified_at: '2021-12-07 17:00:42'

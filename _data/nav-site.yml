@@ -6,7 +6,10 @@
   desc: 'Case studies: sound &amp; web design, original music.'
 - name: Blog
   link: /blog/
-  desc: Articles, notes and social interactions.
+  desc: Articles, interviews, press releases.
+- name: Notes
+  link: /notes/
+  desc: Notes and status messages.
 - name: Contact
   link: /contact/
   desc: Hire me, get in touch or subscribe to the newsletter.

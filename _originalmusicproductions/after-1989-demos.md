@@ -1,5 +1,4 @@
 ---
-layout: casestudy
 title: 'After 1989 Demos'
 date: '2020-11-09 10:52:30'
 last_modified_at: '2021-11-17 11:40:27'

@@ -1,5 +1,4 @@
 ---
-layout: casestudy
 title: 'Ruff Trigger console game'
 date: '2007-05-12'
 last_modified_at: '2021-12-07 17:00:42'

@@ -1,5 +1,4 @@
 ---
-layout: casestudy
 title: 'Reevoo'
 date: '2017-09-26'
 last_modified_at: '2022-01-12 16:51:57'

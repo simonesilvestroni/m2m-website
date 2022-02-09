@@ -1,5 +1,4 @@
 ---
-layout: casestudy
 title: 'Silvia Maggi Design'
 date: '2021-09-26'
 last_modified_at: '2022-01-12 16:51:40'

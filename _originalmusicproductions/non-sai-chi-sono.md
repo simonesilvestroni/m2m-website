@@ -1,5 +1,4 @@
 ---
-layout: casestudy
 title: 'Non sai chi sono'
 date: '2021-06-28 10:51:22'
 last_modified_at: '2021-11-25 17:19:45'

@@ -1,5 +1,4 @@
 ---
-layout: casestudy
 title: 'Vocal editing'
 date: '2020-09-16'
 last_modified_at: '2022-01-27 12:39:54'

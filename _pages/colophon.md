@@ -56,6 +56,8 @@ Developed from scratch using:
 
 Only `0.07g of CO2` is produced every time someone visits the homepage. Cleaner than `93%` of [web pages tested](https://www.websitecarbon.com/website/minutestomidnight-co-uk/ "Visit Website carbon"){:target="_blank" rel="noopener"}. The website is running on sustainable energy.
 
+<p class="detached">Member of: <a href="https://512kb.club"><img src="https://512kb.club/assets/images/orange-team.svg" alt="512kb Orange Team" /></a></p>
+
 ## Copyright
 
 The **text content** of this website is [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). It means you are free to share — copy and redistribute the material in any medium or format, adapt — remix, transform, and build upon the material for any purpose, even commercially.

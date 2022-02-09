@@ -1,5 +1,4 @@
 ---
-layout: casestudy
 title: 'No Slack Day'
 date: '2021-08-26'
 last_modified_at: '2022-01-12 16:51:52'

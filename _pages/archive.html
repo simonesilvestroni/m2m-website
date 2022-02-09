@@ -74,7 +74,7 @@ permalink: /archive/
   {%- assign c = category | first -%}
   {%- assign posts = category | last -%}
     <li class="list-inline-item mb-4 me-3">
-      <a class="p-name u-url btn btn-lg btn-label-m2m btn-label-lg-m2m btn-label-m2m-bg btn-label-m2m-link px-2 py-2" href="/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><strong>{{ c | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
+      <a class="p-name u-url m2m-link px-2 py-2" href="/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><strong>{{ c | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
     </li>
   {%- endfor -%}
   </ol>  
@@ -88,7 +88,7 @@ permalink: /archive/
   {%- assign t = tag | first -%}
   {%- assign posts = tag | last -%}
     <li class="list-inline-item mb-4 me-3">
-      <a class="p-name u-url btn btn-lg btn-label-m2m btn-label-lg-m2m btn-label-m2m-bg btn-label-m2m-link px-2 py-2" href="/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><strong>{{ t | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
+      <a class="p-name u-url m2m-link px-2 py-2" href="/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><strong>{{ t | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
     </li>
   {%- endfor -%}
   </ol>

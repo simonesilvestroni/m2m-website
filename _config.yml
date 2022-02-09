@@ -52,6 +52,26 @@ defaults:
       type: "collections"
     values:
       layout: "page"
+  - scope:
+      path: ""
+      type: "webdesign"
+    values:
+      layout: "casestudy"
+  - scope:
+      path: ""
+      type: "sounddesign"
+    values:
+      layout: "casestudy"
+  - scope:
+      path: ""
+      type: "originalmusicproductions"
+    values:
+      layout: "casestudy"
+  - scope:
+      path: ""
+      type: "notes"
+    values:
+      layout: "note"
 
 # Collections
 collections:
@@ -64,8 +84,11 @@ collections:
   webdesign:
     output: true
     permalink: /work/web-design/:path/
+  notes:
+    output: true
+    permalink: /notes/:path/
 
-# Taxonomy
+# Archives
 jekyll-archives:
   enabled:
     - categories
@@ -75,7 +98,6 @@ jekyll-archives:
     category: '/category/:name/'
     tag: '/tag/:name/'
   slug_mode: latin
-  date: 2021-11-16 23:27:11
 
 excerpt_separator: <!--more-->
 

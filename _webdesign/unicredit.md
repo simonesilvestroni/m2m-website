@@ -1,5 +1,4 @@
 ---
-layout: casestudy
 title: 'UniCredit'
 date: '2016-09-26'
 last_modified_at: '2022-01-12 16:52:06'
