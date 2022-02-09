@@ -1,20 +1,21 @@
+{%- assign note = site.notes -%}
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <link rel="canonical" href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url |  replace:'index.html','' | absolute_url }}{% endif %}">
 <!-- Open graph -->
-<meta property="og:title" content="{% if page.url == "/" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ page.title }} - {{ site.title }} {{ site.tagline }}{% endif %}" />
+<meta property="og:title" content="{%- include site-meta-title.html -%}" />
 <meta property="og:url" content="{{ page.url | prepend: site.url }}" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="{{ site.title }}" />
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% elsif note.description %}{{ note.description }}{% else %}{{ site.description }}{% endif %}" />
 <meta property="og:image" content="{% if page.featured-image %}/assets/images/{{ page.featured-image }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
 <!-- LinkedIn -->
-<meta prefix="og: https://ogp.me/ns#" property="og:title" content="{% if page.url == "/" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ page.title }} - {{ site.title }} {{ site.tagline }}{% endif %}" />
+<meta prefix="og: https://ogp.me/ns#" property="og:title" content="{%- include site-meta-title.html -%}" />
 <meta prefix="og: https://ogp.me/ns#" property="og:type" content="website" />
 <meta prefix="og: https://ogp.me/ns#" property="og:image" content="{% if page.featured-image %}/assets/images/{{ page.featured-image }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
 <meta prefix="og: https://ogp.me/ns#" property="og:url" content="{{ page.url | prepend: site.url }}" />
 <!-- Twitter integration -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ page.title }}" />
+<meta name="twitter:title" content="{%- include site-meta-title.html -%}" />
 <meta name="twitter:url" content="{{ page.url }}" />
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% elsif note.description %}{{ note.description }}{% else %}{{ site.description }}{% endif %}" />
 <meta name="twitter:image" content="{% if page.featured-image %}/assets/images/{{ page.featured-image }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
@@ -25,10 +26,10 @@
   {% if page.is_post -%}
   "@type": "BlogPosting",{% else %}"@type": "WebSite",
   {%- endif %}
-  "name": "{% if page.url == "/" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ page.title }} - {{ site.title }} {{ site.tagline }}{% endif %}",
-  "headline": "{% if page.url == "/" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ page.title }} - {{ site.title }} {{ site.tagline }}{% endif %}",
+  "name": "{%- include site-meta-title.html -%}",
+  "headline": "{%- include site-meta-title.html %} {{ site.tagline }}",
   "url": "{{ site.url }}{{ page.url }}",
-  "description": "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}",
+  "description": "{% if page.description %}{{ page.description }}{% elsif note.description %}{{ note.description }}{% else %}{{ site.description }}{% endif %}",
   "keywords": "{% if page.tags %}{{ page.tags | join: ',' }}{% else %}{{ site.keywords }}{% endif %}",
   {%- assign tagArchive = page.type | where: 'post.type', 'tag' -%}
   {% unless tagArchive %}
