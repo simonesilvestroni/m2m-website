@@ -11,8 +11,8 @@ skillset:
   - "production"
   - "mix"
   - "reaper"
-description: "My upcoming 5-songs album is an autobiographical rumination about migration in Europe in a time of populism. It’s going to be made of two remixes plus three original songs."
-excerpt: 'My <strong>upcoming 5-songs album</strong> is an autobiographical rumination about migration in Europe in a time of populism. It’s going to be made of two remixes plus three originals.'
+description: "My upcoming 5-songs album is an autobiographical rumination about migration in Europe in a time of populism. This EP is an appetizer."
+excerpt: 'My <strong>upcoming 5-songs album</strong> is an autobiographical rumination about migration in Europe in a time of populism. This EP is an appetizer.'
 toc: true
 featimage: true
 permalink: '/work/original-music-productions/the-die-is-cast/'
@@ -23,15 +23,13 @@ permalink: '/work/original-music-productions/the-die-is-cast/'
 
 ## Backstory
 
-In 2018, together with Dan Ecclestone, songwriter for Cambridge-based band Ember Rev, I worked as a co-producer and mixer for their second album, [*Premonition And Ruin*](/work/sound-design/premonition-and-ruin/). A song that I really liked didn’t make the final cut, a piece divided in two short parts, which bookended the album. *Land Of Kings* is my interpretation of it. *Papillon*, the fourth song, is my absolute favorite of their entire catalog.
+In 2018, together with Dan Ecclestone, songwriter for Cambridge-based band Ember Rev, I worked as a co-producer and mixer for their second album, [*Premonition And Ruin*](/work/sound-design/premonition-and-ruin/). A song didn’t make the cut: *Land Of Kings* is my interpretation of it. Together with *Papillon*, they reference the painful process of living in England through Brexit.
 
-Both lyrics referenced the painful process of living in England through Brexit. *The Die Is Cast* is in fact an autobiographical **concept revolving around migration** in Europe, and how deceitful can be to idealize the place where you move to.
-
-I had been living in the UK for five years when Brexit happened. What was going on was the exact opposite of what I loved about my adopted country. I remember the night of the referendum: I was up in front of the TV, watching my idea of the UK — England in particular — **crumble before my eyes**.
+I had been living in the UK for five years when the referendum took place. That night I was up in front of the TV, watching my idea of the UK — England in particular — **crumble before my eyes**.
 
 {% include pattern-video.html id="SAn9Dw_srPA" %}
 
-At five in the morning, right after **the BBC declared the result**, I stood alone in the garden. It was sunny, a good fresh smell in the air. Gobsmacked and incapable of thinking clearly, I felt like when a partner leaves without an explanation, betraying all their principles in the meanwhile.
+At five in the morning, right after **the BBC declared the result**, I stood alone in the garden. It was sunny, a good fresh smell in the air. Gobsmacked and incapable of thinking clearly, I felt betrayed.
 
 Then, the most pantomimic four years came and went, and all I could see is ‘Rule Britannia’, which looked so out of touch with the world at large. [My wife and I left the UK](/blog/back-to-the-future-leaving-the-uk/), and our good friends there, last September. I haven’t yet come to terms with the seismic change.
 

@@ -23,11 +23,11 @@ permalink: '/work/original-music-productions/non-sai-chi-sono/'
 
 ## Backstory
 
-January 2020. On my last visit to my hometown before the pandemic struck, an old friend and former music partner, [Gianluca Lo Presti](https://open.spotify.com/artist/0ugkXokPU3KaXX3X9BFes7){:target="_blank" rel="noopener"}, invited **Emilio Albertoni** and myself to dinner. He had recently lost his father, and a new album dedicated to reflecting on their time together was in the works. The idea included an album of original songs, and a **companion EP of remixes** of the same material, done by friends and former collaborators.
+January 2020, an old friend and former music partner, [Gianluca Lo Presti](https://open.spotify.com/artist/0ugkXokPU3KaXX3X9BFes7){:target="_blank" rel="noopener"}, had recently lost his father. A new album dedicated to reflecting on their time together was in the works. The idea included a companion EP of remixes, done by friends and former collaborators.
 
-Gianluca asked us to choose a song to our liking and **produce a remix together**. We had complete creative freedom, and several months at our disposal. After listening, in isolation, to an early demo of the album, we both selected the same song: _Non so chi sei_ (“I don’t know you”). Looked like we already were on the same page.
+Gianluca asked us to choose a song to our liking and **produce a remix together**. We had complete creative freedom, and several months at our disposal. After listening, in isolation, to an early demo of the album, Emilio and I selected the same song: _Non so chi sei_ (“I don’t know you”).
 
-Then Covid arrived, wreaking havoc to everyone’s lives and projects. After a few months, and several chats between Emilio and I, we agreed he would start **drafting ideas in Logic** and send them over. I would then see his direction and decide how to interact with my own production.
+Then Covid arrived. After a few months and several chats, we agreed Emilio would start **drafting ideas in Logic** and send them over. I would then see his direction and decide how to interact with my own production.
 
 > I’ve been collaborating with Gianluca for twenty years, somehow picking up Simone’s baton right after he left Ravenna in the mid-Nineties. When we met last year, in a foggy wintry night, we couldn’t possibly know that a global pandemic was around the corner, nor that we would have worked together remotely, despite ironically living so close.
 > <cite>&mdash; Emilio Albertoni</cite>
