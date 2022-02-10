@@ -11,6 +11,7 @@
 <!-- LinkedIn -->
 <meta prefix="og: https://ogp.me/ns#" property="og:title" content="{%- include site-meta-title.html -%}" />
 <meta prefix="og: https://ogp.me/ns#" property="og:type" content="website" />
+<meta prefix="og: https://ogp.me/ns#" property="og:description" content="{% if page.description %}{{ page.description }}{% elsif note.description %}{{ note.description }}{% else %}{{ site.description }}{% endif %}" />
 <meta prefix="og: https://ogp.me/ns#" property="og:image" content="{% if page.featured-image %}/assets/images/{{ page.featured-image }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
 <meta prefix="og: https://ogp.me/ns#" property="og:url" content="{{ page.url | prepend: site.url }}" />
 <!-- Twitter integration -->
