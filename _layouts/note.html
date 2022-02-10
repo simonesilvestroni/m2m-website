@@ -22,10 +22,9 @@ layout: default
 {%- include post-navigation.html -%}
 {% else %}
 <article class="h-entry m2m-entry mb-5">
-  <h1 class="h3 text-center text-md-start mt-4 mt-md-0">{{ page.date | date: "%-d %B %Y" }}</h1>
+  <h1 class="h3 text-center text-md-start mt-4 mt-md-0">{{ page.date | date: "%-d %B %Y" }}<code class="p-category ps-2">#{{ page.tags[0] | upcase }}</code></h1>
   <div class="e-content p-name mt-3">
     {{ content }}
-    <mark class="m2m-highlight d-inline-block mb-2"><span class="p-category text-uppercase fs-5 fw-bold px-2"><strong>#{{ page.tags[0] | upcase }}</strong></span></mark>
     <div class="visually-hidden">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
     </div>
