@@ -29,8 +29,8 @@ layout: default
     <div class="visually-hidden">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
     </div>
-    {% include hcard-note.html %}
   </div>
+  {% include hcard-note.html %}
 {%- include pattern-responses.html -%}
 </article>
 {%- if notes.size > 1 %}
