@@ -385,7 +385,6 @@ cite {
   position: relative;
   z-index: 100;
   line-height: 1.2;
-  margin-bottom: 3rem;
   @include media-breakpoint-down(md) {
     width: 100%;
   }
@@ -394,7 +393,7 @@ cite {
   }
   ul {
     @include list-unstyled();
-    margin: 0;
+    margin: 0 0 3rem 0;
     padding: 0;
 
     li {
