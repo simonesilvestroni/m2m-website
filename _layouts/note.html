@@ -1,11 +1,9 @@
 ---
 layout: default
 ---
-{%- assign notes = site.notes %}
-
 {% include pattern-breadcrumbs.html %}
-
-{%- if page.mention == true %}
+{%- assign notes = site.notes -%}
+{% if page.mention == true %}
 <article class="m2m-entry">
   <h1 class="h3 text-center text-md-start mt-4 mt-md-0">{{ page.date | date: "%-d %B %Y" }}</h1>
   <div class="h-entry mt-3">
@@ -23,7 +21,7 @@ layout: default
 {%- include pattern-responses.html -%}
 </article>
 {%- include post-navigation.html -%}
-{%- else -%}
+{% else %}
 <article class="h-entry m2m-entry">
   <h1 class="h3 text-center text-md-start mt-4 mt-md-0">{{ page.date | date: "%-d %B %Y" }}</h1>
   <div class="e-content mt-3">
@@ -37,5 +35,7 @@ layout: default
   </div>
 {%- include pattern-responses.html -%}
 </article>
-{%- include post-navigation.html -%}
+{%- if notes.size > 1 %}
+{% include post-navigation.html %}  
+{%- endif -%}
 {% endif -%}
