@@ -60,7 +60,7 @@ Only `0.07g of CO2` is produced every time someone visits the homepage. Cleaner 
 
 ## Copyright
 
-The **text content** of this website is [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). It means you are free to share — copy and redistribute the material in any medium or format, adapt — remix, transform, and build upon the material for any purpose, even commercially.
+The **text content** of this website is [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). It means you are free to share — copy and redistribute the material in any medium or format, adapt — remix, transform, and build upon the material for any purpose, even commercially. You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
 Everything connected to Minutes to Midnight's **branding and published music** is strictly copyrighted by Simone Silvestroni.
 
