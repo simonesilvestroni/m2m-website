@@ -7,6 +7,7 @@ categories:
 tags:
   - concept album
   - independent music
+  - music review
   - history
   - cold war
   - world war ii

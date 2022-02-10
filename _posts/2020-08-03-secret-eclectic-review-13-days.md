@@ -10,7 +10,7 @@ tags:
   - cuban missile crisis
   - jfk
   - music video
-  - song review
+  - music review
 description: "Secret Eclectic review for my song '13 Days'. A London-based website, they're a team of people who love supporting emerging acts."
 excerpt: 'Secret Eclectic is a London-based website founded by a team of people who follow the arts worldwide. They love supporting emerging acts or people who deserve more recognition.'
 comments:

@@ -7,6 +7,7 @@ type: "game audio"
 skillset:
   - "sound design"
   - "sound effects"
+  - "editing"
   - "mix"
   - "master"
   - "logic pro"

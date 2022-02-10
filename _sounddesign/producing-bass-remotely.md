@@ -5,9 +5,10 @@ last_modified_at: '2021-12-07 17:00:42'
 year: "2020"
 type: "production"
 skillset: 
-  - "instrumentalist"
   - "bass"
+  - "recording"
   - "mix"
+  - "editing"
   - "pro tools"
   - "logic pro x"
 description: "Producing bass remotely."

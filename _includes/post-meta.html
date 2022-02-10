@@ -22,21 +22,21 @@
       {%- unless page.type == false %}
       <tr>
         <th width="50">
-          <span class="text-uppercase me-1">Type</span>
+          <span class="me-1">Type</span>
         </th>
         <td>
-          <span class="p-category text-uppercase"><code><strong>{{ page.type }}</strong></code></span>
+          <span class="p-category text-uppercase fw-bold"><strong>{{ page.type }}</strong></span>
         </td>
       </tr>
       {%- endunless %}
       {%- unless page.skills == false %}
       <tr>
         <th width="50">
-          <span class="text-uppercase me-1">Skills</span>
+          <span class="me-1">Skills</span>
         </th>
         <td>
           {%- for skill in page.skillset -%}
-          <span class="p-category text-uppercase"><code><strong>{{ skill }}</strong></code></span>{% unless forloop.last %} <span class="d-inline-block">&middot;</span> {% endunless %}
+          <span class="p-category text-uppercase fw-bold"><strong>{{ skill }}</strong></span>{% unless forloop.last %} <span class="d-inline-block">&middot;</span> {% endunless %}
           {%- endfor -%}
         </td>
       </tr>
@@ -68,7 +68,7 @@
           {%- elsif page -%}
             {% assign date = page.date %}
           {%- endif -%}
-          <time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated"><strong>{{ date | date: "%-d %B %Y" }}</strong></time>
+          <time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time>
         </td>
       </tr>
       {%- endunless -%}

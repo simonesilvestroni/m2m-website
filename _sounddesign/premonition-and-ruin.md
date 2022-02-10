@@ -5,8 +5,8 @@ last_modified_at: '2021-12-07 17:00:42'
 year: "2018"
 type: "production"
 skillset: 
-  - "production"
   - "mix"
+  - "editing"
   - "logic pro"
   - "project management"
 description: "How I co-produced 'Premonition and Ruin', a superb concept album by Ember Rev around 'a lament for the European ideal', beautifully written and arranged."
