@@ -2,7 +2,7 @@
 <div class="alert alert-background-d-10 mt-5" role="alert" id="comments">
   <p class="fs-5">Use <a href="https://indieweb.org/Webmention">webmentions</a> to respond to this post, or <a href="mailto:contact@minutestomidnight.co.uk?subject={{ page.title | uri_escape }}" title="Reply to this post"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-reply-fill" viewBox="0 0 16 16"><path d="M5.921 11.9 1.353 8.62a.719.719 0 0 1 0-1.238L5.921 4.1A.716.716 0 0 1 7 4.719V6c1.5 0 6 0 7 8-2.5-4.5-7-4-7-4v1.281c0 .56-.606.898-1.079.62z"/></svg> <strong>reply via email</strong></a>.</p>
   <details class="mt-4">
-    <summary class="fs-4 fw-bold pb-4"><strong>Comments &amp; reactions</strong></summary>
+    <summary class="fs-4 fw-bold"><strong>Comments &amp; reactions</strong></summary>
     {% if page.comments %}
     <h2 class="mb-3">Comments</h2>
     <div>
@@ -16,7 +16,7 @@
     </div>
     {% endif -%}
     <div id="webmentions"></div>
-    <p class="fs-5 mb-3">If you&rsquo;ve written a response to this post <strong>send me your URL</strong>:</p>
+    <p class="fs-5 mt-4 mb-3">If you&rsquo;ve written a response to this post <strong>send me your URL</strong>:</p>
     <form class="mention-form" method="post" action="https://webmention.io/minutestomidnight.co.uk/webmention">
       <fieldset class="form-group">
         <div class="row">
@@ -31,7 +31,7 @@
         </div>        
       </fieldset>
     </form>
-    <h2 class="mb-3">Anonymous comments</h2>
+    <h2 class="mt-4 mb-3">Anonymous comments</h2>
     <p class="fs-5">If your website isn't part of Indieweb, you can send a comment through <a href="https://commentpara.de">Comment Parade</a>.</p>
   </details>
 </div>

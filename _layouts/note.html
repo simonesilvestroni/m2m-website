@@ -4,7 +4,7 @@ layout: default
 {% include pattern-breadcrumbs.html %}
 {%- assign notes = site.notes -%}
 {% if page.mention == true %}
-<article class="m2m-entry">
+<article class="m2m-entry mb-5">
   <h1 class="h3 text-center text-md-start mt-4 mt-md-0">{{ page.date | date: "%-d %B %Y" }}</h1>
   <div class="h-entry mt-3">
     <div class="alert alert-background-d-10">
@@ -13,7 +13,6 @@ layout: default
       {% include hcard-note.html %}
     </div>
     <div class="e-content mt-3">
-      <p class="lead lh-sm">{{ page.excerpt }}</p>
       {{ content }}
       <mark class="m2m-highlight d-inline-block mb-2"><span class="p-category text-uppercase fs-5 fw-bold px-2"><strong>#{{ page.tags[0] | upcase }}</strong></span></mark>
     </div>
@@ -22,10 +21,9 @@ layout: default
 </article>
 {%- include post-navigation.html -%}
 {% else %}
-<article class="h-entry m2m-entry">
+<article class="h-entry m2m-entry mb-5">
   <h1 class="h3 text-center text-md-start mt-4 mt-md-0">{{ page.date | date: "%-d %B %Y" }}</h1>
   <div class="e-content mt-3">
-    <p class="lead lh-sm">{{ page.excerpt }}</p>
     {{ content }}
     <mark class="m2m-highlight d-inline-block mb-2"><span class="p-category text-uppercase fs-5 fw-bold px-2"><strong>#{{ page.tags[0] | upcase }}</strong></span></mark>
     <div class="visually-hidden">

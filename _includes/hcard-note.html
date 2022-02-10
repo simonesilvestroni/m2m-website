@@ -4,7 +4,8 @@
     <img class="u-photo pe-2" src="{{ site.url }}/assets/images/minutestomidnight-avatar-uphoto.png" alt="Minutes to Midnight's avatar" width="48" height="48">
     <a class="p-name small" href="{{ site.url }}" rel="author"><strong>Simone Silvestroni</strong></a>
   </span>
-  <a class="u-url u-uid small px-2" href="{{ site.url }}{{ page.url }}" title="Permalink">↗︎ Permalink</a>
+  <a class="u-url u-uid visually-hidden" href="{{ site.url }}{{ page.url }}" title="Permalink">↗︎ Permalink</a>
+  {%- include pattern-socialshare.html -%}
   {% if page.syndicate %}
   <span><a rel="syndication" class="u-syndication" href="{{ page.syndicate }}">{{ page.syndicate }}</a></span>
   {% endif -%}
