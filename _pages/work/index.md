@@ -25,7 +25,7 @@ permalink: '/work/'
     <div class="row row-cols-1 row-cols-md-2 gx-4 gy-4">
       {% for section in page.work %}
         <div class="col m2m-transition-opacity-03s">
-        <div class="card h-100 pt-2 pb-3 px-3 m2m-transition-border-03s">
+        <div class="card h-100 pt-2 pb-3 px-3 m2m-transition-opacity-03s">
           <div class="card-body text-center">
             <h2 class="h1 fs-3 text-uppercase mt-0">{{ section.title }}</h2>
             <p class="fs-5 card-text text-start">{{ section.desc }}</p>

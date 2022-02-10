@@ -14,14 +14,11 @@ If you need bass tracks or production, it's possible to hire me through [SoundBe
 
 ## Get in touch
 
-To start a direct conversation or ask for advice, I'm reachable on [Telegram](https://t.me/minutes2midnight). It&rsquo;s also possible to follow me on the following platforms:
+To start a direct conversation or ask for advice, I'm reachable on [Telegram](https://t.me/minutes2midnight).
+
+While [I'm not](/blog/escape-from-social-media/) on Twitter, Facebook, Instagram, WhatsApp or Reddit, it&rsquo;s possible to follow me on the following platforms:
 
 <div class="d-flex justify-content-center my-5">{%- include site-nav-social.html %}</div>
-
-<div class="alert alert-background-d-10 px-4 py-4" role="alert">
-  <p class="text-center"><mark class="m2m-highlight text-center fw-bold px-2"><strong>What about the usual social media?</strong></mark></p>
-  <p class="detached">In the summer of 2020 <a href="/blog/escape-from-social-media/">I deleted</a> my Twitter, Reddit, Facebook, Instagram and WhatsApp.</p>
-</div>
 
 ## Newsletter
 
