@@ -4,6 +4,6 @@
 {%- if page.robots %}
 <meta name="robots" content="{{ page.robots }}" />
 {% endif %}
-{% include site-meta-title.html %}
+<title>{% include site-meta-title.html %}</title>
 {% feed_meta %}
 <link type="application/atom+xml" rel="alternate" href="{{ site.url }}/notes.xml" title="Minutes to Midnight's Notes and status messages" />
