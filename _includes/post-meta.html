@@ -3,74 +3,75 @@
 {%- else -%}
   {%- assign categories = page.categories -%}
 {%- endif -%}
-<table class="table table-hover">
-  <tbody>
-    <tr class="post-taxonomy">
-      <th class="text-end" width="50">
-        <span class="m2m-font-micro text-uppercase me-1"><strong>{% if page.url contains '/work/' %}Year{% else %}Topic{% endif %}</strong></span>
-      </th>
-      <td>
-      {%- if page.url contains '/work/' %}
-        <span class="text-uppercase m2m-font-micro d-inline-block"><strong>{{ page.year }}</strong></span>
-      {% endif %}
-      {%- for category in categories -%}
-        <a class="p-category" href="/category/{{ category | slugify | append: '/' }}"><span class="text-uppercase m2m-font-micro"><strong>{{ category | upcase | replace:"-"," " }}</strong></span></a>
-      {%- endfor -%}
-      </td>
-    </tr>
-    {%- if page.url contains '/work/' %}
-    {%- unless page.type == false %}
-    <tr>
-      <th class="text-end" width="50">
-        <span class="m2m-font-micro text-uppercase me-1"><strong>Type</strong></span>
-      </th>
-      <td>
-        <span class="p-category">
-          <span class="text-uppercase m2m-font-micro"><strong>{{ page.type }}</strong></span>
-        </span>
-      </td>
-    </tr>
-    {%- endunless %}
-    {%- unless page.skills == false %}
-    <tr>
-      <th class="text-end" width="50">
-        <span class="m2m-font-micro text-uppercase me-1"><strong>Skills</strong></span>
-      </th>
-      <td>
-        {%- for skill in page.skillset -%}
-        <span class="p-category text-uppercase m2m-font-micro"><strong>{{ skill }}</strong></span>{% unless forloop.last %} <span class="d-inline-block">&middot;</span>{% endunless %}
+<div class="my-5 py-2">
+  <table class="table table-borderless table-hover mb-0">
+    <tbody>
+      {% unless page.url contains '/work/' %}
+      <tr class="post-taxonomy">
+        <th width="50">
+          <span class="text-uppercase">Topic</span>
+        </th>
+        <td>
+        {%- for category in categories -%}
+          <a class="p-category" href="/category/{{ category | slugify | append: '/' }}"><span class="text-uppercase">{{ category | upcase | replace:"-"," " }}</span></a>
         {%- endfor -%}
-      </td>
-    </tr>
-    {% endunless %}
-    {%- endif -%}
-    <tr class="post-taxonomy">
-    {%- unless page.tags == empty -%}
-      {%- if post -%}
-        {%- assign tags = post.tags -%}
-      {%- else -%}
-        {%- assign tags = page.tags -%}
+        </td>
+      </tr>
+      {% endunless %}
+      {%- if page.url contains '/work/' %}
+      {%- unless page.type == false %}
+      <tr>
+        <th width="50">
+          <span class="text-uppercase me-1">Type</span>
+        </th>
+        <td>
+          <span class="p-category text-uppercase"><code><strong>{{ page.type }}</strong></code></span>
+        </td>
+      </tr>
+      {%- endunless %}
+      {%- unless page.skills == false %}
+      <tr>
+        <th width="50">
+          <span class="text-uppercase me-1">Skills</span>
+        </th>
+        <td>
+          {%- for skill in page.skillset -%}
+          <span class="p-category text-uppercase"><code><strong>{{ skill }}</strong></code></span>{% unless forloop.last %} <span class="d-inline-block">&middot;</span> {% endunless %}
+          {%- endfor -%}
+        </td>
+      </tr>
+      {% endunless %}
       {%- endif -%}
-      <th class="text-end">
-        <span class="d-inline-block m2m-font-micro text-uppercase me-1"><strong>Tags</strong></span>
-      </th>
-      <td>
-        {% for tag in tags %}<a class="p-category text-uppercase m2m-font-micro" href="/tag/{{ tag | slugify | append: '/' }}"><strong>{{ tag | upcase }}</strong></a>{% unless forloop.last %} <span class="d-inline-block">&middot;</span> {% endunless %}{% endfor %}
-      </td>
-    </tr>
-    <tr>
-      <th class="text-end">
-        <span class="d-inline-block m2m-font-micro text-uppercase me-1"><strong>Date</strong></span>
-      </th>
-      <td>
+      {% unless page.url contains '/work/' %}
+      <tr class="post-taxonomy">
+      {%- unless page.tags == empty -%}
         {%- if post -%}
-          {% assign date = post.date %}
-        {%- elsif page -%}
-          {% assign date = page.date %}
+          {%- assign tags = post.tags -%}
+        {%- else -%}
+          {%- assign tags = page.tags -%}
         {%- endif -%}
-        <time class="dt-published m2m-font-micro" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated"><strong>{{ date | date: "%-d %B %Y" }}</strong></time>
-      </td>
-    </tr>
-    {%- endunless -%}
-  </tbody>
-</table>
+        <th>
+          <span class="d-inline-block text-uppercase me-1">Tags</span>
+        </th>
+        <td>
+          {% for tag in tags %}<a class="p-category text-uppercase" href="/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase | prepend: '<small>#</small>' }}</a>{% unless forloop.last %} <span class="d-inline-block">&middot;</span> {% endunless %}{% endfor %}
+        </td>
+      </tr>
+      {% endunless %}
+      <tr>
+        <th>
+          <span class="d-inline-block text-uppercase me-1">Date</span>
+        </th>
+        <td>
+          {%- if post -%}
+            {% assign date = post.date %}
+          {%- elsif page -%}
+            {% assign date = page.date %}
+          {%- endif -%}
+          <time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated"><strong>{{ date | date: "%-d %B %Y" }}</strong></time>
+        </td>
+      </tr>
+      {%- endunless -%}
+    </tbody>
+  </table>
+</div>
