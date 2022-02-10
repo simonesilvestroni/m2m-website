@@ -25,11 +25,9 @@ layout: default
       <span class="p-category">{{ tag | upcase }}</span>
       {% endfor %}
     </div>
-    <div class="alert alert-background-d-10">
-      <p>{% if page.mentionType == 'like' %}🧡 <strong class="ps-1">A like of</strong> {% elsif page.mentionType == 'repost' %}🔄 <strong class="ps-1">A repost of</strong> {% elsif page.mentionType == 'reply' %}↪️ <strong class="ps-1">In reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></p>
-      <p class="p-name detached fs-2 lh-sm">{{ page.excerpt }}</p>
-      {% include hcard-post.html %}
-    </div>
+    <span class="fs-5">{% if page.mentionType == 'like' %}🧡 <strong class="ps-1">A like of</strong> {% elsif page.mentionType == 'repost' %}🔄 <strong class="ps-1">A repost of</strong> {% elsif page.mentionType == 'reply' %}↪️ <strong class="ps-1">In reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></span>
+    <p class="p-name lead">{{ page.excerpt }}</p>
+    <span class="visually-hidden">{%- include hcard-post.html -%}</span>
     <div class="e-content mt-5">
       {{ content }}
     </div>
