@@ -4,10 +4,9 @@ title: Colophon
 date: '2021-11-08 10:27:27'
 last_modified_at: '2021-11-08 10:27:31'
 description: "Technical details about the website"
+excerpt: 'Developed by Simone Silvestroni, designed with <a href="https://silviamaggidesign.com/" title="Go to Silvia Maggi website">Silvia Maggi</a>, who also provided information architecture and photography. Check the post <a href="/blog/website-redesign/"><em>Website redesign</em></a> for a more philosophical analysis.'
 permalink: '/colophon/'
 ---
-Developed by Simone Silvestroni, designed with Silvia Maggi. Information architecture and photography by [Silvia Maggi](https://silviamaggidesign.com/ "Go to Silvia Maggi website"){:target="_blank" rel="noopener"}. Check the post [Website redesign](/blog/website-redesign/) for a more philosophical analysis.
-
 ## Tools
 
 Developed from scratch using:
@@ -15,20 +14,19 @@ Developed from scratch using:
 - [Jekyll 4.2.1](https://jekyllrb.com/)
 - [Markdown (extended)](https://www.markdownguide.org/getting-started/)
 - [SASS](https://sass-lang.com/)
-- [PostCSS](https://postcss.org/)
 - [Bootstrap 5.1](https://getbootstrap.com/)
-- Vanilla javascript (DOM manipulation only)
-- [Node](https://nodejs.org/) (for building purposes)
+- [PostCSS](https://postcss.org/)
+- Vanilla javascript for DOM manipulation and the [search module](https://github.com/daviddarnes/jekyll-search-js)
+- [Node](https://nodejs.org/) for building purposes
 - [GitHub](https://github.com/)
-- Javascript search module by [David Darnes](https://github.com/daviddarnes)
 - Deployment: [![Netlify Status](https://api.netlify.com/api/v1/badges/d2941475-cc56-4e5c-98c9-e16845e6cbea/deploy-status)](https://app.netlify.com/sites/minutestomidnight/deploys)
 
 ## Performance
 
 <div class="table-responsive">
-  <table class="table">
+  <table class="table table-striped">
     <thead>
-      <tr class="table-dark">
+      <tr>
         <th scope="col" class="align-top text-center fw-bold"><strong>Markup</strong></th>
         <th scope="col" class="align-top text-center fw-bold"><strong>Google score</strong></th>
         <th scope="col" class="align-top text-center fw-bold"><strong>Speed index</strong></th>
