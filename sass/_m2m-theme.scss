@@ -552,6 +552,14 @@ cite {
 .breadcrumb-item {
   letter-spacing: $letter-spacing-shrink;
 
+  + .breadcrumb-item {
+    &::before {
+      font-size: 150%;
+      font-weight: 300;
+      line-height: 80%;
+    }
+  }
+
   &:last-child {
     color: $gray-700;
   }
@@ -564,9 +572,6 @@ cite {
       text-decoration-color: $link-hover-decoration;
     }
   }
-}
-.breadcrumb-border {
-  border-bottom: 2px solid $heading-l-70;
 }
 
 
