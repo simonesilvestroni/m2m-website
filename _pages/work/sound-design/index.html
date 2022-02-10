@@ -2,78 +2,66 @@
 layout: page
 title: 'Sound Design'
 date: '2021-11-08 10:49:23'
-last_modified_at: '2021-12-07 16:57:20'
+last_modified_at: '2022-02-10 18:24:24'
 description: "My work as a producer, game audio specialist and audio editor."
 excerpt: "<strong>Recording and sculpting sound</strong> has always been a massive creative push. Collaborating as a bassist or producer, game audio or editing and restoration are a constant source of excitement."
 permalink: '/work/sound-design/'
 ---
-{% assign production = site.sounddesign | where: "type", "production" | reverse %}
-{% assign gameaudio = site.sounddesign | where: "type", "game audio" | reverse %}
-{% assign audioediting = site.sounddesign | where: "type", "audio editing" | reverse %}
-
-<section class="h-entry m2m-entry my-5 pb-1">
-  <h2 class="p-name fs-1 text-center text-uppercase mt-5">Bass & Production</h2>
-  <div class="p-summary">
-    <p class="detached"><kbd>Bass</kbd> — Initially self-taught, I had private tuition before enrolling for the CPM music institute in Milan where I graduated with Stefano Cerri and Nicoletta Caselli. Been <strong>playing bass</strong> between Italy, the UK and with US-based acts, both <a href="/blog/live-shows/">live</a> and <a href="/work/sound-design/producing-bass-remotely/">in the studio</a>.</p>
-    <p class="detached"><kbd>Production</kbd> — Started in the late 1990s, I started producing properly when I graduated at Berklee. <strong>Specialized in mixing</strong>, I strive to realize the artist's vision, adding creativity and delivering on time. I worked on albums and singles in different countries for many artists.</p>
-  </div>
+<section class="m2m-entry my-5 pb-1">
+  <h2 class="fs-1 text-center text-uppercase mt-5">Bass & Production: case studies</h2>
   <div class="h-feed">
-    <h3 class="p-name text-center text-uppercase">Selected case studies</h3>
     <div class="card-group mt-5">
       <div class="row row-cols-1 row-cols-sm-2 g-4">
-        {% for casestudy in production %}
+        {%- assign production = site.sounddesign | where: "type", "production" | reverse -%}
+        {%- for casestudy in production %}
         {% include card-casestudy.html %}
         {% endfor %}
       </div>
     </div>
   </div>
-  <div class="e-content">
-    <h3 class="text-center text-uppercase">Bass playlist</h3>
-    {% include pattern-spotify.html id="1EC2Hm0xSywc5pITPMhuIA" type="playlist" height="380" %}
-    <h3 class="text-center text-uppercase">Production playlists</h3>
-    {% include pattern-spotify.html id="6yRM57FJ9JKONDAXaLBAdx" type="playlist" height="380" %}
-    {% include pattern-spotify.html id="2IqnJFtKWrnI6JPVjkXHif" type="playlist" height="330" %}
-  </div>
+  <h3 class="text-center text-uppercase">Bass playlist</h3>
+  {% include pattern-spotify.html id="1EC2Hm0xSywc5pITPMhuIA" type="playlist" height="380" %}
+  <h3 class="text-center text-uppercase">Production playlists</h3>
+  {% include pattern-spotify.html id="6yRM57FJ9JKONDAXaLBAdx" type="playlist" height="380" %}
+  {% include pattern-spotify.html id="2IqnJFtKWrnI6JPVjkXHif" type="playlist" height="330" %}
 </section>
 
-<section class="h-entry m2m-entry my-5 pb-3">
-  <h2 class="p-name fs-1 text-center text-uppercase my-5">Game Audio</h2>
-  <p class="p-summary">I used to be the audio team leader for the game company Playstos Entertainment, with a title shipped at the end of the 2000s. I was in charge of directing the soundtrack, creating and editing the sound effects while co-ordinating a team of 2 sound designers and 2 audio programmers.</p>
+<section class="m2m-entry my-5 pb-3">
+  <h2 class="fs-1 text-center text-uppercase my-5">Game Audio: case studies</h2>  
   <div class="h-feed">
-    <h3 class="p-name text-center text-uppercase">Selected case studies</h3>
     <div class="card-group mt-5 pb-3">
       <div class="row row-cols-1 row-cols-sm-2 g-4">
-      {% for casestudy in gameaudio %}
+      {%- assign gameaudio = site.sounddesign | where: "type", "game audio" | reverse -%}
+      {%- for casestudy in gameaudio %}
       {% include card-casestudy.html %}
-      {% endfor %}
+      {% endfor -%}
       </div>
     </div>    
   </div>
 </section>
 
-<section class="h-entry">
-  <h2 class="p-name fs-1 text-center text-uppercase my-5">Audio Editing</h2>
-  <p class="p-summary">A selection of work where I enjoyed combining technical prowess and creativity: vocal transformation, editing, restoration, drum replacing, noise removal and more.</p>
+<section class="m2m-entry my-5 pb-3">
+  <h2 class="fs-1 text-center text-uppercase my-5">Audio Editing: case studies</h2>
   <div class="h-feed">
-    <h3 class="p-name text-center text-uppercase">Selected case studies</h3>
     <div class="card-group pb-3">
       <div class="row row-cols-1 row-cols-sm-2 g-4">
-      {% for casestudy in audioediting %}
+      {%- assign audioediting = site.sounddesign | where: "type", "audio editing" | reverse -%}
+      {%- for casestudy in audioediting %}
       {% include card-casestudy.html %}
-      {% endfor %}
+      {% endfor -%}
       </div>
     </div>  
   </div>
 </section>
 
-<h2>Certifications, courses &amp; memberships</h2>
+<h2>Certifications, courses and memberships</h2>
 
 <ul class="list-group list-group-flush ps-0">
-  <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">🏛</span> <a href="https://www.berklee.edu/">Berklee College Of Music</a> (audio master engineering, music production, electric bass), 2011-2016.</li>
-  <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">🏛</span> <a href="https://training.apple.com/us/en/recognition">Apple Pro Certified</a> for Logic Pro X 10.3, London, 2018.</li>
-  <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">🏛</span> <a href="https://www.gdconf.com/">Game Developer Conference</a>, San Jose (California), 2002.</li>
-  <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">🏛</span> <a href="https://www.audiogang.org/">Game Audio Network Guild</a> bronze member, San Jose (California), 2002.</li>
-  <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">🏛</span> <a href="https://www.cpm.it/corsi-musica-milano">Centro Professione Musica</a> diploma (bass, music theory, harmony &amp; arrangement), Milan, 1993-1995.</li>
+  {%- for cert in site.certifications.sound %}
+  <li class="list-group-item my-0 ps-0 pb-3">
+    <span class="pe-1">🏛</span> <a href="{{ cert.href }}">{{ cert.name }}</a> {{ cert.desc }}.
+  </li>
+  {% endfor -%}
 </ul>
 
 <h2>Publications</h2>

@@ -25,6 +25,29 @@ author:
 brand:
   m2m_pitch: I&rsquo;m a liaison between creativity and logic.
 
+# Work certifications
+certifications:
+  sound:
+    - name: 'Berklee College Of Music'
+      href: 'https://www.berklee.edu/'
+      desc: '(audio master engineering, music production, electric bass), 2011-2016'
+    - name: 'Apple Pro Certified'
+      href: 'https://training.apple.com/us/en/recognition'
+      desc: 'Logic Pro X 10.3, London, 2018'
+    - name: 'Game Developer Conference'
+      href: 'https://www.gdconf.com/'
+      desc: 'San Jose (California), 2002'
+    - name: 'Game Audio Network Guild'
+      href: 'https://www.audiogang.org/'
+      desc: 'bronze member, San Jose (California), 2002'
+    - name: 'Centro Professione Musica'
+      href: 'https://www.cpm.it/corsi-musica-milano'
+      desc: 'diploma (bass, music theory, harmony &amp; arrangement), Milan, 1993-1995'
+  web:
+    - name: 'Member of <a href="https://iwanet.org/">IWA</a>'
+    - name: 'Nielsen Norman Group UX Conference, 2010, London'
+    - name: 'PHP development course by HTML.IT, 2009, Milan'
+
 exclude: 
   - README.md
   - package.json

@@ -70,9 +70,9 @@ permalink: '/work/web-design/'
 <h2>Courses &amp; memberships</h2>
 
 <ul class="list-group list-group-flush ps-0">
-  <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">🏛</span> Member of <a href="https://iwanet.org/">IWA</a>.</li>
-  <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">🏛</span> Nielsen Norman Group UX Conference, 2010, London.</li>
-  <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">🏛</span> PHP development course by HTML.IT, 2009, Milan.</li>
+  {%- for cert in site.certifications.web %}
+  <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">🏛</span> {{ cert.name }}.</li>
+  {% endfor -%}
 </ul>
 
 <h2>Publications</h2>
