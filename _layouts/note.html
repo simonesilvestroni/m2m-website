@@ -23,7 +23,7 @@ layout: default
 {% else %}
 <article class="h-entry m2m-entry mb-5">
   <h1 class="h3 text-center text-md-start mt-4 mt-md-0">{{ page.date | date: "%-d %B %Y" }}</h1>
-  <div class="e-content mt-3">
+  <div class="e-content p-name mt-3">
     {{ content }}
     <mark class="m2m-highlight d-inline-block mb-2"><span class="p-category text-uppercase fs-5 fw-bold px-2"><strong>#{{ page.tags[0] | upcase }}</strong></span></mark>
     <div class="visually-hidden">
