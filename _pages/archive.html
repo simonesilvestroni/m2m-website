@@ -74,7 +74,7 @@ permalink: /archive/
   {%- assign c = category | first -%}
   {%- assign posts = category | last -%}
     <li class="list-inline-item mb-4 me-4">
-      <a class="p-name u-url m2m-link" href="/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><strong>{{ c | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
+      <a class="p-name u-url m2m-link fs-5" href="/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><strong>{{ c | upcase }}</strong> <sup><kbd>{{ posts | size }}</kbd></sup></a>
     </li>
   {%- endfor -%}
   </ol>  
@@ -88,7 +88,7 @@ permalink: /archive/
   {%- assign t = tag | first -%}
   {%- assign posts = tag | last -%}
     <li class="list-inline-item mb-4 me-4">
-      <a class="p-name u-url m2m-link" href="/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><strong>{{ t | upcase }}</strong> <sup>{{ posts | size }}</sup></a>
+      <a class="p-name u-url m2m-link fs-5" href="/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><strong>{{ t | upcase }}</strong> <sup><kbd>{{ posts | size }}</kbd></sup></a>
     </li>
   {%- endfor -%}
   </ol>

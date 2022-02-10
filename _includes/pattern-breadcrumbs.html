@@ -5,7 +5,7 @@
       <li class="breadcrumb-item text-uppercase"><a class="m2m-link-entry" href="/"><strong>Home</strong></a></li>
     {%- for crumb in crumbs offset: 1 %}
       {% if forloop.last -%}
-      <li class="breadcrumb-item"><strong>{{ page.title }}</strong></li>
+      <li class="breadcrumb-item text-uppercase"><strong>{{ page.title }}</strong></li>
       {%- else -%}
       {%- unless page.url contains '/page/' -%}
       <li class="breadcrumb-item text-uppercase">
