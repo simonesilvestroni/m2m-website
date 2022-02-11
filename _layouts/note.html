@@ -5,7 +5,7 @@ layout: default
 {%- assign notes = site.notes -%}
 {% if page.mention == true %}
 <article class="m2m-entry mb-5">
-  <h1 class="h3 text-center text-md-start mt-4 mt-md-0">{{ page.date | date: "%-d %B %Y" }}</h1>
+  <h1 class="h3 text-center text-md-start mt-4 mt-md-0">{{ page.date | date: "%-d %B %Y" }} <code class="p-category ps-2">#{{ page.tags[0] | upcase }}</code></h1>
   <div class="h-entry mt-3">
     <div class="alert alert-background-d-10">
       <p>{% if page.mentionType == 'like' %}🧡 <strong class="ps-1">A like of</strong> {% elsif page.mentionType == 'repost' %}🔄 <strong class="ps-1">A repost of</strong> {% elsif page.mentionType == 'reply' %}↪️ <strong class="ps-1">In reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></p>
@@ -22,7 +22,7 @@ layout: default
 {%- include post-navigation.html -%}
 {% else %}
 <article class="h-entry m2m-entry mb-5">
-  <h1 class="h3 text-center text-md-start mt-4 mt-md-0">{{ page.date | date: "%-d %B %Y" }}<code class="p-category ps-2">#{{ page.tags[0] | upcase }}</code></h1>
+  <h1 class="h3 text-center text-md-start mt-4 mt-md-0">{{ page.date | date: "%-d %B %Y" }} <code class="p-category ps-2">#{{ page.tags[0] | upcase }}</code></h1>
   <div class="e-content p-name mt-3">
     {{ content }}
     <div class="visually-hidden">

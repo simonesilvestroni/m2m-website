@@ -63,13 +63,13 @@ last_modified_at: 2021-11-06 13:42:07
     <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/" title="See my work"><span class="text-uppercase fs-4">🔗 <strong class="ps-1">See my work</strong></span></a>
   </div>
   <div class="h-feed text-center my-5 pt-4 pb-1">
-    {%- assign recentPosts = site.posts -%}
-    {%- assign recentNotes = site.notes -%}
+    {%- assign recentPosts = site.posts | sort: 'date' | reverse -%}
+    {%- assign recentNotes = site.notes | sort: 'date' | reverse -%}
     {%- for post in recentPosts limit:1 -%}
     <p class="fs-5"><mark class="m2m-highlight d-inline-block fw-bold initialism px-2 me-1"><strong>UPDATE</strong></mark> Latest blog post: <a class="m2m-link" href="{{ post.url }}" title="Read the post"><strong>{{ post.title }}</strong></a></p>
     {% endfor -%}
     {%- for note in recentNotes limit:1 -%}
-    <p class="fs-5"><mark class="m2m-highlight d-inline-block fw-bold initialism px-2 me-1"><strong>UPDATE</strong></mark> Latest status message: <a class="m2m-link" href="{{ note.url }}" title="Read the post"><strong>{{ note.date | date: "%-d %B %Y" }}</strong></a></p>
+    <p class="fs-5"><mark class="m2m-highlight d-inline-block fw-bold initialism px-2 me-1"><strong>UPDATE</strong></mark> Latest status message: <a class="m2m-link" href="{{ note.url }}" title="Read the post"><strong>{{ note.date | date: "%-d %B %Y" }}</strong> <code class="p-category ps-2">#{{ note.tags[0] | upcase }}</code></a></p>
     {% endfor -%}
   </div>
 </div>
