@@ -2,17 +2,20 @@
 layout: page
 title: 'Sound Design'
 date: '2021-11-08 10:49:23'
-last_modified_at: '2022-02-10 18:24:24'
+last_modified_at: '2022-02-12 18:59:39'
 description: "My work as a producer, game audio specialist and audio editor."
 excerpt: "<strong>Sculpting sound</strong> has always been a massive creative push. Whether creating the foundation with the bass, realizing an artist's vision by producing and mixing, recording in the field for game audio and up to editing and restoration, sound design is a constant source of excitement."
 permalink: '/work/sound-design/'
 ---
+{%- assign production = site.sounddesign | where: "type", "production" | reverse -%}
+{%- assign gameaudio = site.sounddesign | where: "type", "game audio" | reverse -%}
+{%- assign audioediting = site.sounddesign | where: "type", "audio editing" | reverse -%}
+
 <section class="m2m-entry my-5 pb-1">
   <h2 class="h1 fs-2 text-center text-uppercase mt-5">Bass & Production: case studies</h2>
   <div class="h-feed">
     <div class="card-group mt-5">
       <div class="row row-cols-1 row-cols-sm-2 g-4">
-        {%- assign production = site.sounddesign | where: "type", "production" | reverse -%}
         {%- for casestudy in production %}
         {% include card-casestudy.html %}
         {% endfor %}
@@ -31,7 +34,6 @@ permalink: '/work/sound-design/'
   <div class="h-feed">
     <div class="card-group mt-5 pb-3">
       <div class="row row-cols-1 row-cols-sm-2 g-4">
-      {%- assign gameaudio = site.sounddesign | where: "type", "game audio" | reverse -%}
       {%- for casestudy in gameaudio %}
       {% include card-casestudy.html %}
       {% endfor -%}
@@ -45,7 +47,6 @@ permalink: '/work/sound-design/'
   <div class="h-feed">
     <div class="card-group pb-3">
       <div class="row row-cols-1 row-cols-sm-2 g-4">
-      {%- assign audioediting = site.sounddesign | where: "type", "audio editing" | reverse -%}
       {%- for casestudy in audioediting %}
       {% include card-casestudy.html %}
       {% endfor -%}

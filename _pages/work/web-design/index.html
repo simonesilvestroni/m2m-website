@@ -5,9 +5,23 @@ date: '2021-11-08 10:49:23'
 last_modified_at: '2022-01-06 17:27:37'
 description: "Designing and coding for the web is my parallel skill. A digital evolution of a past experience with the printed page, my main focus is on exceptional optimization for usability and sustainability."
 excerpt: 'Designing and coding for the web is my parallel skill. A digital evolution of a past experience with the printed page, my main focus is on exceptional optimization for <strong>usability and sustainability</strong>.<br>To maximize an efficient online experience, I switched from WordPress to <a href="https://jamstack.org/">JAMstack</a>. By using <strong>static site generators with headless CMS</strong>, all my recent websites rank <code>100</code> with Pagespeed.'
+endorsements:
+  - name: 'Neil Kenneth Palmer'
+    role: 'vice president of product development at C6 Marketing'
+    url: 'https://www.linkedin.com/in/neil-k-palmer/'
+    quote: 'Simply put, Simone is one of the finest, and most passionate front-end developers that I have every come across. His knowledge on UI and UX is vast and combine this with his front-end development skills, he is one of the finest front end developers out there. It was a pleasure to manage and work with Simone and I hope to get the chance again in the future.'
+  - name: 'Michelle Anderson'
+    role: 'staff engineer at Deliveroo'
+    url: 'https://www.linkedin.com/in/michelledangeranderson/'
+    quote: 'Simone was an integral member of our team. His passion for the web and careful and persistent work ethic meant that he delivered consistently above expectations. His initiative is impressive. His experience makes him an expert in his field; has a firm understanding of front end web. With his sharp sense of humor, he would make a wonderful addition to any web team!'
+  - name: 'Alessandra Farabegoli'
+    role: 'Digital Strategist'
+    url: 'https://www.linkedin.com/in/alebegoli/'
+    quote: 'Simone loves standards and usability, and he combines creativity and logic, a rare gift in the same person. He is competent and reliable, and he can work very well in a team.'
 permalink: '/work/web-design/'
 ---
-{% assign webdesign = site.webdesign | reverse %}
+{%- assign webdesign = site.webdesign | reverse -%}
+{%- assign endorsements = page.endorsements | reverse -%}
 
 <section class="h-feed m2m-entry my-5 pb-3">
   <h2 class="p-name text-center text-uppercase">Selected case studies</h2>
@@ -81,19 +95,11 @@ permalink: '/work/web-design/'
 
 <h2>Reviews</h2>
 
+{% for endorsement in endorsements reversed %}
 <blockquote>
-  <p>Simply put, Simone is one of the finest, and most passionate front-end developers that I have every come across. His knowledge on UI and UX is vast and combine this with his front-end development skills, he is one of the finest front end developers out there. It was a pleasure to manage and work with Simone and I hope to get the chance again in the future.
-  <cite>— Neil Palmer, <a href="https://www.linkedin.com/in/neil-k-palmer/">Founder at UI Farm</a></cite></p>
+  <p>{{ endorsement.quote }}
+  <cite>&mdash; {{ endorsement.name }}, <a href="{{ endorsement.url }}">{{ endorsement.role }}</a></cite></p>
 </blockquote>
-
-<blockquote>
-  <p>Simone was an integral member of our team. His passion for the web and careful and persistent work ethic meant that he delivered consistently above expectations. His initiative is impressive. His experience makes him an expert in his field; has a firm understanding of front end web. With his sharp sense of humor, he would make a wonderful addition to any web team!
-  <cite>— Michelle Anderson, <a href="https://www.linkedin.com/in/michelledangeranderson/">Staff engineer at Deliveroo</a></cite></p>
-</blockquote>
-
-<blockquote>
-  <p>Simone loves standards and usability, and he combines creativity and logic, a rare gift in the same person. He is competent and reliable, and he can work very well in a team.
-  <cite>— Alessandra Farabegoli, <a href="https://www.linkedin.com/in/alebegoli/">Digital Strategist</a></cite></p>
-</blockquote>
+{% endfor %}
 
 {% include pattern-button-hire.html %}
