@@ -5,41 +5,11 @@ date: '2021-11-08 10:49:23'
 last_modified_at: '2022-01-06 17:27:37'
 description: "Designing and coding for the web is my parallel skill. A digital evolution of a past experience with the printed page, my main focus is on exceptional optimization for usability and sustainability."
 excerpt: 'Designing and coding for the web is my parallel skill. A digital evolution of a past experience with the printed page, my main focus is on exceptional optimization for <strong>usability and sustainability</strong>.<br>To maximize an efficient online experience, I switched from WordPress to <a href="https://jamstack.org/">JAMstack</a>. By using <strong>static site generators with headless CMS</strong>, all my recent websites rank <code>100</code> with Pagespeed.'
-resume:
-  - year: '1993'
-    description: 'Started out as a proofreader, later evolved to desktop publisher learning the craft with renown editor Paola Varani for <em>RCS (Rizzoli)</em>.'
-  - year: '1998'
-    description: 'Deployed the first official website of a well-known historic <a href="https://web.archive.org/web/20010808100700/http://fc.retecivica.milano.it/rcmweb/libdonne/">feminist bookstore in Milan</a>.'
-  - year: '2000-2005'
-    description: 'Designed and developed my <a href="https://web.archive.org/web/20031208185857/http://www.playstos.com:80/index.html">game company’s website</a>.'
-  - year: '2005-2007'
-    description: 'Freelancing as a web designer and sound designer in Milan.'
-  - year: '2007-2011'
-    description: 'Landed a permanent job as a front-end developer for a company now part of <em>Accenture</em>, working for massive clients such as <em>UniCredit</em>.'
-  - year: '2011-2012'
-    description: 'Moved to the UK after being hired for the same role by the online gaming company <em>Bodog</em> in London.'
-  - year: '2012-2017'
-    description: '<a href="https://web.archive.org/web/20161021065339/http://uifarm.co.uk/team/">Co-founded</a> the web firm <em>UI Farm</em> in London. We designed, developed and deployed advanced multi-device solutions for small to large companies, including <em>Reevoo</em>, <em>Not On The High Street</em>, <em>UniCredit</em> and <em>Elite Model Management (New York)</em>.'
-  - year: '2017-today'
-    description: 'Kick-started <em>Minutes to Midnight</em> in Cambridge. Embracing my wider skill set, I focused on both audio, music and web design. My main focus is <strong>ethic and sustainable design</strong>, obtained through a relentless optimization of the web stack.'
-endorsements:
-  - name: 'Neil Kenneth Palmer'
-    role: 'vice president of product development at C6 Marketing'
-    url: 'https://www.linkedin.com/in/neil-k-palmer/'
-    quote: 'Simply put, Simone is one of the finest, and most passionate front-end developers that I have every come across. His knowledge on UI and UX is vast and combine this with his front-end development skills, he is one of the finest front end developers out there. It was a pleasure to manage and work with Simone and I hope to get the chance again in the future.'
-  - name: 'Michelle Anderson'
-    role: 'staff engineer at Deliveroo'
-    url: 'https://www.linkedin.com/in/michelledangeranderson/'
-    quote: 'Simone was an integral member of our team. His passion for the web and careful and persistent work ethic meant that he delivered consistently above expectations. His initiative is impressive. His experience makes him an expert in his field; has a firm understanding of front end web. With his sharp sense of humor, he would make a wonderful addition to any web team!'
-  - name: 'Alessandra Farabegoli'
-    role: 'Digital Strategist'
-    url: 'https://www.linkedin.com/in/alebegoli/'
-    quote: 'Simone loves standards and usability, and he combines creativity and logic, a rare gift in the same person. He is competent and reliable, and he can work very well in a team.'
 permalink: '/work/web-design/'
 ---
 {%- assign webdesign = site.webdesign | reverse -%}
-{%- assign endorsements = page.endorsements -%}
-{%- assign cvs = page.resume -%}
+{%- assign endorsements = site.endorsements.web -%}
+{%- assign cvs = site.resume.web -%}
 
 <section class="h-feed m2m-entry my-5 pb-3">
   <h2 class="p-name text-center text-uppercase">Selected case studies</h2>
@@ -51,9 +21,7 @@ permalink: '/work/web-design/'
     </div>
   </div>
 </section>
-
 <h2>Brief resume</h2>
-
 <div class="table-responsive">
   <table class="table table-striped mt-4 mb-5">
     <thead>
@@ -63,35 +31,28 @@ permalink: '/work/web-design/'
       </tr>
     </thead>
     <tbody>
-      {% for cv in cvs %}
+      {%- for cv in cvs %}
       <tr>
         <td class="text-end"><mark class="m2m-highlight d-inline-block mb-2"><span class="fw-bold px-2"><strong>{{ cv.year }}</strong></span></mark></td>
         <td>{{ cv.description }}</td>
       </tr>
-      {% endfor %}
+      {%- endfor -%}
     </tbody>
   </table>
 </div>
-
 <h2>Courses &amp; memberships</h2>
-
 <ul class="list-group list-group-flush ps-0">
   {%- for cert in site.certifications.web %}
   <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">🏛</span> {{ cert.name }}.</li>
-  {% endfor -%}
+  {%- endfor -%}
 </ul>
-
 <h2>Publications</h2>
-
 <p><span class="pe-1">📒</span> <a href="https://medium.com/ui-farm/how-we-work-a-modern-workflow-for-the-multi-device-web-4e0dcb081b5b"><em>How we work: a modern workflow for the multi-device web</em></a>, technical review by Kara McCain.</p>
-
 <h2>Reviews</h2>
-
-{% for endorsement in endorsements %}
+{%- for endorsement in endorsements %}
 <blockquote>
   <p>{{ endorsement.quote }}
   <cite>&mdash; {{ endorsement.name }}, <a href="{{ endorsement.url }}">{{ endorsement.role }}</a></cite></p>
 </blockquote>
-{% endfor %}
-
+{%- endfor -%}
 {% include pattern-button-hire.html %}
