@@ -15,19 +15,19 @@ layout: default
   <p class="p-summary lead">{{ page.summary }}</p>
   {% else %}
   <p class="p-summary lead">{{ page.excerpt }}</p>
-  {% endif %}
+  {% endif -%}
   <div class="e-content">
     {%- if page.url contains '/work/web-design/' %}
-    {% if page.featimage == true %}
+    {%- if page.featimage == true %}
       {% include pattern-figure-featured.html image=featimage-url width='1024' height=featimage-height %}
-    {% endif %}
-    {% endif %}
-    {% if page.performance == true %}
-      {% include pattern-performance.html %}  
-    {% endif %}
-    {% if page.toc == true %}
+    {% endif -%}
+    {% endif -%}
+    {%- if page.performance == true %}
+      {%- include pattern-performance.html -%}  
+    {% endif -%}
+    {%- if page.toc == true %}
       {% include pattern-toc.html html=content sanitize=true class="inline_toc" id="toc" h_min=2 h_max=3 %}
-    {% endif %}
+    {% endif -%}
     {{ content }}
     {% if page.site-is-live == true %}
     <div class="text-center my-5 py-5">
