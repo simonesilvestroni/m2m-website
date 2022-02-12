@@ -5,6 +5,23 @@ date: '2021-11-08 10:49:23'
 last_modified_at: '2022-01-06 17:27:37'
 description: "Designing and coding for the web is my parallel skill. A digital evolution of a past experience with the printed page, my main focus is on exceptional optimization for usability and sustainability."
 excerpt: 'Designing and coding for the web is my parallel skill. A digital evolution of a past experience with the printed page, my main focus is on exceptional optimization for <strong>usability and sustainability</strong>.<br>To maximize an efficient online experience, I switched from WordPress to <a href="https://jamstack.org/">JAMstack</a>. By using <strong>static site generators with headless CMS</strong>, all my recent websites rank <code>100</code> with Pagespeed.'
+resume:
+  - year: '1993'
+    description: 'Started out as a proofreader, later evolved to desktop publisher learning the craft with renown editor Paola Varani for <em>RCS (Rizzoli)</em>.'
+  - year: '1998'
+    description: 'Deployed the first official website of a well-known historic <a href="https://web.archive.org/web/20010808100700/http://fc.retecivica.milano.it/rcmweb/libdonne/">feminist bookstore in Milan</a>.'
+  - year: '2000-2005'
+    description: 'Designed and developed my <a href="https://web.archive.org/web/20031208185857/http://www.playstos.com:80/index.html">game company’s website</a>.'
+  - year: '2005-2007'
+    description: 'Freelancing as a web designer and sound designer in Milan.'
+  - year: '2007-2011'
+    description: 'Landed a permanent job as a front-end developer for a company now part of <em>Accenture</em>, working for massive clients such as <em>UniCredit</em>.'
+  - year: '2011-2012'
+    description: 'Moved to the UK after being hired for the same role by the online gaming company <em>Bodog</em> in London.'
+  - year: '2012-2017'
+    description: '<a href="https://web.archive.org/web/20161021065339/http://uifarm.co.uk/team/">Co-founded</a> the web firm <em>UI Farm</em> in London. We designed, developed and deployed advanced multi-device solutions for small to large companies, including <em>Reevoo</em>, <em>Not On The High Street</em>, <em>UniCredit</em> and <em>Elite Model Management (New York)</em>.'
+  - year: '2017-today'
+    description: 'Kick-started <em>Minutes to Midnight</em> in Cambridge. Embracing my wider skill set, I focused on both audio, music and web design. My main focus is <strong>ethic and sustainable design</strong>, obtained through a relentless optimization of the web stack.'
 endorsements:
   - name: 'Neil Kenneth Palmer'
     role: 'vice president of product development at C6 Marketing'
@@ -21,7 +38,8 @@ endorsements:
 permalink: '/work/web-design/'
 ---
 {%- assign webdesign = site.webdesign | reverse -%}
-{%- assign endorsements = page.endorsements | reverse -%}
+{%- assign endorsements = page.endorsements -%}
+{%- assign cvs = page.resume -%}
 
 <section class="h-feed m2m-entry my-5 pb-3">
   <h2 class="p-name text-center text-uppercase">Selected case studies</h2>
@@ -45,38 +63,12 @@ permalink: '/work/web-design/'
       </tr>
     </thead>
     <tbody>
+      {% for cv in cvs %}
       <tr>
-        <td class="text-end"><mark class="m2m-highlight d-inline-block mb-2"><span class="fw-bold px-2"><strong>1993</strong></span></mark></td>
-        <td>Started out as a proofreader, later evolved to desktop publisher learning the craft with renown editor Paola Varani for <em>RCS (Rizzoli)</em>.</td>
+        <td class="text-end"><mark class="m2m-highlight d-inline-block mb-2"><span class="fw-bold px-2"><strong>{{ cv.year }}</strong></span></mark></td>
+        <td>{{ cv.description }}</td>
       </tr>
-      <tr>
-        <td class="text-end"><mark class="m2m-highlight d-inline-block mb-2"><span class="fw-bold px-2"><strong>1998</strong></span></mark></td>
-        <td>Deployed the first official website of a well-known historic <a href="https://web.archive.org/web/20010808100700/http://fc.retecivica.milano.it/rcmweb/libdonne/">feminist bookstore in Milan</a>.</td>
-      </tr>
-      <tr>
-        <td class="text-end"><mark class="m2m-highlight d-inline-block mb-2"><span class="fw-bold px-2"><strong>2000-2005</strong></span></mark></td>
-        <td>Designed and developed my <a href="https://web.archive.org/web/20031208185857/http://www.playstos.com:80/index.html">game company’s website</a>.</td>
-      </tr>
-      <tr>
-        <td class="text-end"><mark class="m2m-highlight d-inline-block mb-2"><span class="fw-bold px-2"><strong>2005-2007</strong></span></mark></td>
-        <td>Freelancing as a web designer and sound designer in Milan.</td>
-      </tr>
-      <tr>
-        <td class="text-end"><mark class="m2m-highlight d-inline-block mb-2"><span class="fw-bold px-2"><strong>2007-2011</strong></span></mark></td>
-        <td>Landed a permanent job as a front-end developer for a company now part of <em>Accenture</em>, working for massive clients such as <em>UniCredit</em>.</td>
-      </tr>
-      <tr>
-        <td class="text-end"><mark class="m2m-highlight d-inline-block mb-2"><span class="fw-bold px-2"><strong>2011-2012</strong></span></mark></td>
-        <td>Moved to the UK after being hired for the same role by the online gaming company <em>Bodog</em> in London.</td>
-      </tr>
-      <tr>
-        <td class="text-end"><mark class="m2m-highlight d-inline-block mb-2"><span class="fw-bold px-2"><strong>2012-2017</strong></span></mark></td>
-        <td><a href="https://web.archive.org/web/20161021065339/http://uifarm.co.uk/team/">Co-founded</a> the web firm <em>UI Farm</em> in London. We designed, developed and deployed advanced multi-device solutions for small to large companies, including <em>Reevoo</em>, <em>Not On The High Street</em>, <em>UniCredit</em> and <em>Elite Model Management (New York)</em>.</td>
-      </tr>
-      <tr>
-        <td class="text-end"><mark class="m2m-highlight d-inline-block mb-2"><span class="fw-bold px-2"><strong>2017-today</strong></span></mark></td>
-        <td>Kick-started <em>Minutes to Midnight</em> in Cambridge. Embracing my wider skill set, I focused on both audio, music and web design. My main focus is <strong>ethic and sustainable design</strong>, obtained through a relentless optimization of the web stack.</td>
-      </tr>
+      {% endfor %}
     </tbody>
   </table>
 </div>
@@ -95,7 +87,7 @@ permalink: '/work/web-design/'
 
 <h2>Reviews</h2>
 
-{% for endorsement in endorsements reversed %}
+{% for endorsement in endorsements %}
 <blockquote>
   <p>{{ endorsement.quote }}
   <cite>&mdash; {{ endorsement.name }}, <a href="{{ endorsement.url }}">{{ endorsement.role }}</a></cite></p>
