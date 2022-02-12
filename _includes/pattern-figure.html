@@ -1,4 +1,4 @@
 <figure class="{{ include.class | default: 'my-5 text-center' }}">
   <img loading="lazy" class="mx-auto" src="{{ include.image }}" alt="{{ include.alt | default: include.caption }}" {{ include.width ? include.width | prepend: 'width="' | append: '"' }} {{ include.height ? include.height | prepend: 'height="' | append: '"' }}>
-  {% if include.caption %}<figcaption class="p-name mt-3 caption">{{ include.caption }}</figcaption>{% endif %}
+  {% if include.caption %}<figcaption class="p-name mt-3 caption">{{ include.caption }}</figcaption>{% endif -%}
 </figure>

@@ -11,9 +11,9 @@ layout: default
       <div class="col-lg-9 col-md-12 mx-auto bg-white bg-opacity-75 border rounded py-4 px-4">
         <p class="detached h4 m2m-letter-spacing-w1 text-center text-uppercase mt-0 mb-3">Table of contents</p>
         {%- if page.toc-maxdepth == 2 -%}
-        {% include pattern-toc.html html=content sanitize=true class="inline_toc m2m-ul fw-bold" item_class="text-uppercase pb-1 fs-6" submenu_class="fw-normal" h_min=2 h_max=2 %}
+        {% include site-toc.html html=content sanitize=true class="inline_toc fw-bold" item_class="text-uppercase pb-1 fs-6" submenu_class="fw-normal" h_min=2 h_max=2 %}
         {%- else -%}
-        {% include pattern-toc.html html=content sanitize=true class="inline_toc m2m-ul fw-bold" item_class="text-uppercase pb-1 fs-6" submenu_class="fw-normal" h_min=2 h_max=3 %}
+        {% include site-toc.html html=content sanitize=true class="inline_toc fw-bold" item_class="text-uppercase pb-1 fs-6" submenu_class="fw-normal" h_min=2 h_max=3 %}
         {%- endif -%}
       </div>
     </div>

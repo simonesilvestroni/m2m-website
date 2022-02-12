@@ -7,19 +7,19 @@
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="{{ site.title }}" />
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% elsif note.description %}{{ note.description }}{% else %}{{ site.description }}{% endif %}" />
-<meta property="og:image" content="{% if page.featured-image %}/assets/images/{{ page.featured-image }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
+<meta property="og:image" content="{% if page.featimage %}{{ site.url }}{{ page.featimage-url }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
 <!-- LinkedIn -->
 <meta prefix="og: https://ogp.me/ns#" property="og:title" content="{%- include site-meta-title.html -%}" />
 <meta prefix="og: https://ogp.me/ns#" property="og:type" content="website" />
 <meta prefix="og: https://ogp.me/ns#" property="og:description" content="{% if page.description %}{{ page.description }}{% elsif note.description %}{{ note.description }}{% else %}{{ site.description }}{% endif %}" />
-<meta prefix="og: https://ogp.me/ns#" property="og:image" content="{% if page.featured-image %}/assets/images/{{ page.featured-image }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
+<meta prefix="og: https://ogp.me/ns#" property="og:image" content="{% if page.featimage %}{{ site.url }}{{ page.featimage-url }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
 <meta prefix="og: https://ogp.me/ns#" property="og:url" content="{{ page.url | prepend: site.url }}" />
 <!-- Twitter integration -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{%- include site-meta-title.html -%}" />
 <meta name="twitter:url" content="{{ page.url }}" />
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% elsif note.description %}{{ note.description }}{% else %}{{ site.description }}{% endif %}" />
-<meta name="twitter:image" content="{% if page.featured-image %}/assets/images/{{ page.featured-image }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
+<meta name="twitter:image" content="{% if page.featimage %}{{ site.url }}{{ page.featimage-url }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
 <!-- Schema -->
 <script type="application/ld+json">
 {
@@ -52,12 +52,12 @@
     "https://github.com/minutes2midnight/",
     "https://www.flickr.com/photos/minutes2midnight/"
   ],
-  {%- if page.featured-image %}
+  {%- if page.featimage %}
   "image": {
     "@type": "ImageObject",
-    "width": "1200",
-    "height": "500",
-    "url": "{{ site.url }}/assets/images/{{ page.featured-image }}"
+    "width": "1024",
+    "height": "765",
+    "url": "{{ site.url }}{{ page.featimage-url }}"
   }
   {% else %}
   "image": {

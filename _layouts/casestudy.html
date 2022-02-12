@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{%- assign featimage-url = page.featimage-url -%}
+
 {% include pattern-breadcrumbs.html %}
 <article class="h-entry m2m-entry">
   <h1 class="p-name text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
@@ -8,25 +10,28 @@ layout: default
     {%- include post-meta.html %}
     <span class="visually-hidden">{% include hcard-post.html %}</span>
   </div>
-  {%- unless page.url contains '/work/web-design/' -%}
+  <h2 class="text-center text-uppercase">Summary</h2>
+  {%- if page.url contains '/work/web-design/' %}
+  <p class="p-summary lead">{{ page.summary }}</p>
+  {% else %}
   <p class="p-summary lead">{{ page.excerpt }}</p>
-  {%- endunless -%}
-  {%- if page.toc == true -%}
-  <section class="container my-5 pb-4">
-    <div class="row">
-      <div class="col-lg-9 col-md-12 mx-auto border bg-white bg-opacity-75 rounded py-4 px-4">
-        <p class="detached h4 m2m-letter-spacing-w1 text-center text-uppercase mt-0 mb-3">Table of contents</p>
-        {%- if page.toc-maxdepth == 2 -%}
-        {% include pattern-toc.html html=content sanitize=true class="inline_toc m2m-ul fw-bold" item_class="text-uppercase pb-1 fs-6" submenu_class="fw-normal" h_min=2 h_max=2 %}
-        {%- else -%}
-        {% include pattern-toc.html html=content sanitize=true class="inline_toc m2m-ul fw-bold" item_class="text-uppercase pb-1 fs-6" submenu_class="fw-normal" h_min=2 h_max=3 %}
-        {%- endif -%}
-      </div>
-    </div>
-  </section>
-  {%- endif -%}
+  {% endif %}
   <div class="e-content">
-  {{ content }}
+    {% if page.featimage == true %}
+      {% include pattern-figure-featured.html image=featimage-url width='1024' height=featimage-height %}
+    {% endif %}
+    {% if page.performance == true %}
+      {% include pattern-performance.html %}  
+    {% endif %}
+    {% if page.toc == true %}
+      {% include pattern-toc.html html=content sanitize=true class="inline_toc" id="toc" h_min=2 h_max=3 %}
+    {% endif %}
+    {{ content }}
+    {% if page.site-is-live == true %}
+    <div class="text-center my-5 py-5">
+      <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="{{ page.live-url }}" title="Visit the live website"><span class="text-uppercase fs-4"><strong>Visit the live website</strong></span></a>
+    </div>
+    {% endif %}
   </div>
 </article>
 {%- include post-navigation.html -%}
