@@ -13,7 +13,7 @@ skillset:
 description: "A companion to the concept album ’After 1989‘, ’Original Demos and Outtakes‘ is a rough and unpolished partial testimony of a different approach."
 excerpt: "A companion to the concept album released in 2019, <em>Original Demos and Outtakes</em> is a <strong>rough and unpolished</strong> partial testimony of a different approach."
 toc: true
-featimage: false
+featimage: true
 permalink: '/work/original-music-productions/after-1989-demos/'
 ---
 ## Release

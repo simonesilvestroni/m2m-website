@@ -14,7 +14,7 @@ skillset:
 description: "‘After 1989’ is a concept album based on the story of how a young man escaped Germany in 1945, while his grandson made the other way round, looking for answers that he could only find in 2017."
 excerpt: "30 years after the fall of the Berlin Wall, a real-life tale of imprisonment and liberty: how a grandfather escaped hell during WWII while the grandson retraced his steps."
 toc: true
-featimage: false
+featimage: true
 permalink: '/work/original-music-productions/after-1989/'
 ---
 ## The story

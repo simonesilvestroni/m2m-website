@@ -17,8 +17,10 @@ layout: default
   <p class="p-summary lead">{{ page.excerpt }}</p>
   {% endif %}
   <div class="e-content">
+    {%- if page.url contains '/work/web-design/' %}
     {% if page.featimage == true %}
       {% include pattern-figure-featured.html image=featimage-url width='1024' height=featimage-height %}
+    {% endif %}
     {% endif %}
     {% if page.performance == true %}
       {% include pattern-performance.html %}  

@@ -14,7 +14,7 @@ skillset:
 description: "My upcoming 5-songs album is an autobiographical rumination about migration in Europe in a time of populism. This EP is an appetizer."
 excerpt: 'My <strong>upcoming 5-songs album</strong> is an autobiographical rumination about migration in Europe in a time of populism. This EP is an appetizer.'
 toc: true
-featimage: false
+featimage: true
 permalink: '/work/original-music-productions/the-die-is-cast/'
 ---
 ## Release
