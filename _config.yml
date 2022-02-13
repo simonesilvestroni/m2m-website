@@ -83,14 +83,15 @@ certifications:
     - name: 'Nielsen Norman Group UX Conference, 2010, London'
     - name: 'PHP development course by HTML.IT, 2009, Milan'
 
-exclude: 
+exclude:
   - node_modules/
   - build/
   - sass/
   - README.md
   - package.json
   - package-lock.json
-include: ["_pages"]
+
+include: ["_pages", "_redirects"]
 
 # Defaults
 defaults:
