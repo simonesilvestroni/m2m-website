@@ -266,14 +266,14 @@ cite {
 /* purgecss start ignore */
 .page-page-not-found,
 .page-search { 
-  a[href^="/tag/"] {
+  a[href*="/tag/"] {
     text-transform: capitalize;
     &::before {
-      content: 'Tag Archive: ';
+      content: 'Tag archive: ';
     }
   }
-  a[href^="/category/"]::before {
-    content: 'Category Archive: ';
+  a[href*="/category/"]::before {
+    content: 'Category archive: ';
   }
 }
 /* purgecss end ignore */

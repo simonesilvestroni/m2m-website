@@ -89,7 +89,6 @@ exclude:
   - package-lock.json
   - node_modules
   - build
-  - js
   - sass
 include: ["_pages", "_redirects"]
 

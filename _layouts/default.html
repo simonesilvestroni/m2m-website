@@ -17,8 +17,22 @@
 {% include site-footer.html %}
 <script src="/assets/js/dom-m2m-min.js"></script>
 {%- if page.url contains 'search' or page.url contains '404.html' -%}
-<script src="/assets/js/search-m2m.js"></script>
-<noscript>Please enable JavaScript to use the search form, or use the one below.</noscript>
+{%- if jekyll.environment == "production" -%}
+<script src="/assets/js/search-m2m-min.js"></script>
+{% else -%}
+<script src="/assets/js/fetch.js"></script>
+<script src="/assets/js/search.js"></script>
+{%- endif -%}
+<script type="text/javascript">
+  const search = new jekyllSearch(
+    '/assets/js/search.json',
+    '#search',
+    '#list',
+    ''
+  );
+  search.init();
+</script>
+<noscript>Please enable JavaScript to use the search functionality, or use the form below.</noscript>
 {%- endif -%}
 {% if page.url contains '/blog/' %}
 <script src="/assets/js/webmention.min.js" async></script>
