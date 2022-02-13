@@ -15,7 +15,11 @@
   </div>
 </main>
 {% include site-footer.html %}
+{%- if jekyll.environment == "production" %}
 <script src="/assets/js/dom-m2m.min.js"></script>
+{% else %}
+<script src="/assets/js/dom-m2m.js"></script>
+{% endif -%}
 {%- if page.url contains 'search' or page.url contains '404.html' -%}
 {%- if jekyll.environment == "production" %}
 <script src="/assets/js/search-m2m.min.js"></script>
@@ -35,7 +39,11 @@
 <noscript>Please enable JavaScript to use the search functionality, or use the form below.</noscript>
 {%- endif -%}
 {% if page.url contains '/blog/' %}
+{%- if jekyll.environment == "production" %}
 <script src="/assets/js/webmention.min.js" async></script>
+{% else %}
+<script src="/assets/js/webmention.js" async></script>
+{% endif -%}
 <noscript>I use client-side JavaScript to render the webmentions. If you do not wish to enable JavaScript, that's OK, but you won't see any webmention I've received — sorry.</noscript>
 {% endif -%}
 </body>
