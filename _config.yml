@@ -84,13 +84,13 @@ certifications:
     - name: 'PHP development course by HTML.IT, 2009, Milan'
 
 exclude: 
+  - node_modules/
+  - build/
+  - sass/
   - README.md
   - package.json
   - package-lock.json
-  - node_modules
-  - build
-  - sass
-include: ["_pages", "_redirects"]
+include: ["_pages"]
 
 # Defaults
 defaults:

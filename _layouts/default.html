@@ -15,14 +15,14 @@
   </div>
 </main>
 {% include site-footer.html %}
-<script src="/assets/js/dom-m2m-min.js"></script>
+<script src="/assets/js/dom-m2m.min.js"></script>
 {%- if page.url contains 'search' or page.url contains '404.html' -%}
-{%- if jekyll.environment == "production" -%}
-<script src="/assets/js/search-m2m-min.js"></script>
-{% else -%}
+{%- if jekyll.environment == "production" %}
+<script src="/assets/js/search-m2m.min.js"></script>
+{% else %}
 <script src="/assets/js/fetch.js"></script>
 <script src="/assets/js/search.js"></script>
-{%- endif -%}
+{% endif -%}
 <script type="text/javascript">
   const search = new jekyllSearch(
     '/assets/js/search.json',
