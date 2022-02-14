@@ -1,5 +1,5 @@
 ---
-title: 'New album &lsquo;Rings&rsquo; by Cameron Hassard'
+title: 'New album ‘Rings’ by Cameron Hassard'
 date: '2021-02-06'
 last_modified_at: '2021-11-08 21:29:01'
 categories:

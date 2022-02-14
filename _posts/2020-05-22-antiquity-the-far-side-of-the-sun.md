@@ -1,5 +1,5 @@
 ---
-title: '&lsquo;The Far Side Of The Sun&rsquo; by Antiquity'
+title: '‘The Far Side Of The Sun’ by Antiquity'
 date: '2020-05-22'
 last_modified_at: '2021-11-12 19:53:59'
 categories:

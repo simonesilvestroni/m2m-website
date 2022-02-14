@@ -1,5 +1,5 @@
 ---
-title: '&lsquo;Without You&rsquo; by Callum Gardner'
+title: '‘Without You’ by Callum Gardner'
 date: '2020-06-10'
 last_modified_at: '2021-11-12 18:12:23'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Angry Baby album review: &lsquo;After 1989&rsquo;'
+title: 'Angry Baby album review: ‘After 1989’'
 date: '2020-01-28'
 last_modified_at: '2021-11-12 22:21:10'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: '&lsquo;Skinny Kid&rsquo; video: escape from a concentration camp'
+title: '‘Skinny Kid’ video: escape from a concentration camp'
 date: '2019-11-04'
 last_modified_at: '2021-11-13 13:29:01'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Despite gov’t approval, Google rejects &lsquo;Attentat 1942&rsquo; from Google Play Store in Germany'
+title: 'Despite gov’t approval, Google rejects ‘Attentat 1942’ from Google Play Store in Germany'
 date: '2020-07-21'
 last_modified_at: '2021-11-12 15:34:41'
 categories:

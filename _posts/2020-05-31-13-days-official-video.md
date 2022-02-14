@@ -1,5 +1,5 @@
 ---
-title: '&lsquo;13 Days&rsquo; official video: the Cuban crisis'
+title: '‘13 Days’ official video: the Cuban crisis'
 date: '2020-05-31'
 last_modified_at: '2021-11-12 18:29:23'
 categories:

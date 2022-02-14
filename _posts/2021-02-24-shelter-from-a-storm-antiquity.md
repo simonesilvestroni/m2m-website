@@ -1,5 +1,5 @@
 ---
-title: '&lsquo;Shelter From A Storm&rsquo; by Antiquity'
+title: '‘Shelter From A Storm’ by Antiquity'
 date: '2021-02-24'
 last_modified_at: '2021-11-08 20:00:10'
 categories:

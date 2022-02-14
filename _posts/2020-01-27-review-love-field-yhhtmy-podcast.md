@@ -1,5 +1,5 @@
 ---
-title: '&lsquo;Love Field&rsquo; reviewed on YHHTMY podcast'
+title: '‘Love Field’ reviewed on YHHTMY podcast'
 date: '2020-01-27'
 last_modified_at: '2021-11-12 22:26:40'
 categories:

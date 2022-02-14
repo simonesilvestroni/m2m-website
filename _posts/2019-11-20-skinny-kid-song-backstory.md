@@ -1,5 +1,5 @@
 ---
-title: '&lsquo;Skinny Kid&rsquo; song backstory'
+title: '‘Skinny Kid’ song backstory'
 date: '2019-11-20'
 last_modified_at: '2021-11-12 22:33:14'
 categories:

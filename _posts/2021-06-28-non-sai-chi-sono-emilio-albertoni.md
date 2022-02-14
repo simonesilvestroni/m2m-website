@@ -1,5 +1,5 @@
 ---
-title: '&lsquo;Non sai chi sono&rsquo;, remix by Emilio Albertoni and Minutes to Midnight out today'
+title: '‘Non sai chi sono’, remix by Emilio Albertoni and Minutes to Midnight out today'
 date: '2021-06-28'
 last_modified_at: '2021-11-08 15:25:48'
 categories: 

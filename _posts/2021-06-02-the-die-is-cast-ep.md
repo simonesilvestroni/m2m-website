@@ -1,5 +1,5 @@
 ---
-title: '&lsquo;The Die is Cast&rsquo;: EP preview'
+title: '‘The Die is Cast’: EP preview'
 date: '2021-06-02'
 last_modified_at: '2021-11-08 16:25:14'
 categories:
