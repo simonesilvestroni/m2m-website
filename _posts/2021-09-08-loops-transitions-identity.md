@@ -39,13 +39,13 @@ After removing social media from my equation, the next move is to **get out of W
 
 Lack of control is the key: the fact that it’s been _built by someone else_. The code isn’t mine, I can’t fully grasp what’s going on at all times — even when I develop my own themes or plug-ins from scratch, it’s not enough.
 
-## Static Web Generators
+## Static web generators
 
 I’ve been toying for a while with the idea of redesigning my website with a [static web generator](https://jamstack.org/generators/){:target="_blank" rel="noopener"}: now it’s the time. Last month I’ve developed and delivered a super-nice landing page. My first paid job as a web designer in years, and all I had to use was [Jekyll](https://jekyllrb.com/){:target="_blank" rel="noopener"}, Bootstrap and GitHub. No clunky local environment, **no hosting fees** (GitHub Pages is free, including a custom mapped domain). A smooth sailing from beginning to end. 100% benchmark on [Pagespeed](https://developers.google.com/speed/pagespeed/insights/){:target="_blank" rel="noopener"} on both desktop and mobile, and less than 400 milliseconds in loading time.
 
 That was it. Despite still having a full year of hosting with SiteGround, before a hefty renewal is due, the die was cast. Silvia was unhappy too with her current customization of WordPress, and shared all my irritations with the platform. We decided to start with her online portfolio and blog.
 
-## HTML, Markdown, CSS, Javascript, Git
+## HTML, markdown, CSS, javascript, git
 
 This is what we’re using. It feels essential, stripped down to the core, super **fast and efficient**. GitHub is the control version, which will serve as a deployment platform towards [Netlify](https://netlify.com/){:target="_blank" rel="noopener"}, which will be our (free) hosting.
 
