@@ -2,6 +2,13 @@ host: "localhost"
 url: "https://minutestomidnight.co.uk"
 baseurl: ""
 
+# Feeds
+feed:
+  posts_limit: 20
+  collections:
+    notes:
+      path: "/notes.xml"
+
 # SEO
 title: Minutes to Midnight
 tagline: Sound and Web Designer
