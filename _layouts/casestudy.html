@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-{%- assign featimage-url = page.featimage-url -%}
-
 {% include pattern-breadcrumbs.html %}
 <article class="h-entry m2m-entry">
   <h1 class="p-name text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
@@ -19,7 +17,10 @@ layout: default
   <div class="e-content">
     {%- if page.url contains '/work/web-design/' %}
     {%- if page.featimage == true %}
-      {% include pattern-figure-featured.html image=featimage-url width='1024' height=featimage-height %}
+      {% responsive_image_block %}
+        path: assets/images/{{ page.title | slugify | append: '.jpg' }}
+        alt: {{ page.title }}
+      {% endresponsive_image_block %}
     {% endif -%}
     {% endif -%}
     {%- if page.performance == true %}
