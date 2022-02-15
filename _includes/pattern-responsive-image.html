@@ -1,10 +1,12 @@
 {%- comment %}
 Render your responsive images using <img srcset>, with the largest resized image used as a fallback.
-
 Usage:
-
   {% responsive_image path: '/assets/images/imagename.jpg' %}
-
+or, for featured images:
+  {% responsive_image_block %}
+    path: assets/images/{{ page.title | slugify | append: '.jpg' }}
+    alt: {{ page.title }}
+  {% endresponsive_image_block %}
 {% endcomment -%}
 {%- assign largest = resized | sort: 'width' | last -%}
 {%- capture srcset -%}

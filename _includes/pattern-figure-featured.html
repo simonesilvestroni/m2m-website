@@ -1,4 +1,0 @@
-<figure class="{{ include.class | default: 'my-5 text-center' }}">
-  <img class="u-featured mx-auto" src="{{ site.url }}{{ page.featimage-url }}" alt="{{ include.alt | default: page.title }}" {{ include.width ? include.width | prepend: 'width="' | append: '"' }} {{ include.height ? include.height | prepend: 'height="' | append: '"' }}>
-  {% if include.caption %}<figcaption class="mt-3 caption">{{ include.caption }}</figcaption>{% endif -%}
-</figure>
