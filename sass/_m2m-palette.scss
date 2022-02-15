@@ -22,6 +22,10 @@ $m2m-bg-color-base: $background;
 $m2m-heading-color-base: $heading;
 $m2m-link-color-base: $link;
 
+// Dark mode
+$body-bg-dark: $gray-900;
+$body-color-dark: $gray-100;
+
 // Map for colors
 $m2m-colors: (
   heads: (
@@ -159,18 +163,3 @@ $link-d-60: shade-color($link, 60%);
 $link-d-70: shade-color($link, 70%);
 $link-d-80: shade-color($link, 80%);
 $link-d-90: shade-color($link, 90%);
-
-// Bootstrap default map + available tints
-// $success: ;
-// $warning: ;
-// $white:    #fff;
-// $gray-100: #f8f9fa;
-// $gray-200: #e9ecef;
-// $gray-300: #dee2e6;
-// $gray-400: #ced4da;
-// $gray-500: #adb5bd;
-// $gray-600: #6c757d;
-// $gray-700: #495057;
-// $gray-800: #343a40;
-// $gray-900: #212529;
-// $black:    #000;

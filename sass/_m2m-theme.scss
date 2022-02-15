@@ -13,6 +13,10 @@
 body {
   background: transparent url(/assets/images/watercolor.png) no-repeat top right;
   background-attachment: fixed;
+
+  // @media (prefers-color-scheme: dark) {
+  //   background: $body-bg-dark url(/assets/images/watercolor-dark.png) no-repeat top right;
+  // }
 }
 
 
