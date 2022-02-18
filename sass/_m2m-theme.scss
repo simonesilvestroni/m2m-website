@@ -6,6 +6,7 @@
 // * Imported in `m2m.scss`
 // ------------------------------------------------ //
 
+/* purgecss start ignore */
 
 // ------------------------------------------------ \\
 // $GENERAL
@@ -94,7 +95,6 @@ h4 {
 // $NAVIGATION
 // ------------------------------------------------ //
 
-/* purgecss start ignore */
 #navigation-main {
   color: white;
 
@@ -152,7 +152,6 @@ h4 {
     }
   }
 }
-/* purgecss end ignore */
 
 .m2m-right-arrow::after {
   display: inline-block;
@@ -267,7 +266,6 @@ cite {
   }
 }
 // Tag & cats results link in search page + 404 page
-/* purgecss start ignore */
 .page-page-not-found,
 .page-search { 
   a[href*="/tag/"] {
@@ -280,7 +278,6 @@ cite {
     content: 'Category archive: ';
   }
 }
-/* purgecss end ignore */
 .previous-next-post-links {
   a {
     line-height: 1.3;
@@ -383,7 +380,6 @@ cite {
 // $WEBMENTIONS
 // ------------------------------------------------ //
 
-/* purgecss start ignore */
 #webmentions,
 .webmentions {
   position: relative;
@@ -424,7 +420,6 @@ cite {
 .comments li {
   @extend .fs-5;
 }
-/* purgecss end ignore */
 
 
 // ------------------------------------------------ \\
@@ -610,16 +605,6 @@ hr {
 
 
 // ------------------------------------------------ \\
-// $IMAGEGALLERY
-// ------------------------------------------------ //
-
-.m2m-img-gallery-thumb {
-  width: 160px;
-  height: 160px;
-}
-
-
-// ------------------------------------------------ \\
 // $LISTS
 // ------------------------------------------------ //
 
@@ -707,11 +692,6 @@ hr {
     border-right: 2px solid transparent;
     text-shadow: none;
   }
-}
-
-// Modal close button
-.btn-close {
-  background-color: $black;
 }
 
 
@@ -824,34 +804,4 @@ mark {
     background-image: linear-gradient(-100deg, rgba(255,224,0,0.1), rgba(255,224,0,0.5) 95%, rgba(255,224,0,0.2));
   }
 }
-
-
-// ------------------------------------------------ \\
-// $512 club
-// ------------------------------------------------ //
-
-.kb-club a {
-  text-decoration: none;
-  color: #212121;
-  font-weight: bold;
-  padding: .25rem 0;
-  font-family: sans-serif;
-  transition: .4s;
-  background-color: #fff176;
-}
-
-.kb-club a:hover {
-  color: white;
-  background: #212121;
-}
-
-.kb-club-bg,
-.kb-club-no-bg {
-  border: 2px solid #fbc02d;
-  padding: .25rem .5rem;
-}
-
-.kb-club-bg {
-  background: #fbc02d;
-  color: #212121;
-}
+/* purgecss end ignore */

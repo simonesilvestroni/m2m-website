@@ -1,0 +1,103 @@
+// ------------------------------------------------ \\
+// $M2M-MODAL
+//
+// Custom pure CSS modal window
+// ------------------------------------------------ //
+
+/* purgecss start ignore */
+.m2m-modal-container {
+  position: relative;
+  width: 100%;
+  [type="checkbox"]:checked,
+  [type="checkbox"]:not(:checked) {
+    @extend .visually-hidden;
+  }
+}
+.m2m-modal-btn:checked + label,
+.m2m-modal-btn:not(:checked) + label {
+  position: relative;
+  transition: all 200ms linear;
+  justify-content: center;
+  text-align: center;
+  align-self: center;
+  cursor: pointer;
+}
+.m2m-modal-btn:checked + label:after,
+.m2m-modal-btn:not(:checked) + label:after {
+  position: fixed;
+  content: '❌';
+  z-index: 11000;
+  top: 4px;
+  right: 4px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 1rem;
+  text-align: center;
+  background-color: $white;
+  border-radius: 10em;
+  transition: all 200ms linear;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(20px);
+
+  @include media-breakpoint-up(md) {
+    font-size: 1.25rem;
+    width: 48px;
+    height: 48px;
+    line-height: 48px;
+    top: 12px;
+    right: 12px;
+  }
+}
+.m2m-modal-btn:checked + label:hover:after,
+.m2m-modal-btn:not(:checked) + label:hover:after {
+  background-color: $background-l-20;
+}
+.m2m-modal-btn:checked + label:after {
+  transition: opacity 300ms 300ms ease, transform 300ms 300ms ease, background-color 250ms linear, color 250ms linear;
+  opacity: 0.9;
+  pointer-events: auto;
+  transform: translateY(0);
+}
+.m2m-modal {
+  margin: 0 auto;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10000;
+  overflow-x: hidden;
+  background-color: rgba($black,.8);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 220ms 500ms ease;
+}
+.m2m-modal-btn:checked ~ .m2m-modal {
+  pointer-events: auto;
+  opacity: 1;
+  transition: all 300ms ease-in-out;
+}
+.m2m-modal-wrap {
+  width: 95vw;
+  height: 95vh;
+  margin: auto;
+  border-radius: 4px;
+  overflow: hidden;
+  background-color: #000;
+  align-self: center;
+  opacity: 0;
+  transform: scale(0.6);
+  transition: opacity 250ms 250ms ease, transform 300ms 250ms ease;
+}
+.m2m-modal-wrap img {
+  width: auto;
+  max-height: 78vh;
+  margin: 0 auto;
+}
+.m2m-modal-btn:checked ~ .m2m-modal .m2m-modal-wrap {
+  opacity: 1;
+  transform: scale(1);
+  transition: opacity 250ms 500ms ease, transform 350ms 500ms ease;
+}
+/* purgecss end ignore */

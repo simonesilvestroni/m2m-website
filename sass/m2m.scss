@@ -73,6 +73,11 @@ $nav-link-padding-x: 0;
 $breadcrumb-divider: quote("/");
 $list-group-bg: transparent;
 
+// Image gallery
+$m2m-gallery-thumb-w: 160px;
+$m2m-gallery-thumb-h: 160px;
+$m2m-gallery-thumb-caption: 160px;
+
 // Tables
 $table-striped-order: even;
 $table-striped-bg: rgba($background-d-90, $table-striped-bg-factor);
@@ -187,3 +192,6 @@ $theme-colors: map-merge($theme-colors, $m2m-custom-colors);
 // $CUSTOM theme
 // ------------------------------------------------ //
 @import "m2m-theme";
+@import "m2m-imagegallery";
+@import "m2m-modal";
+@import "m2m-carousel";
