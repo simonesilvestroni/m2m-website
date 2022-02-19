@@ -33,13 +33,9 @@ permalink: '/epk/'
 
 <h2 class="text-center">Press photos</h2>
 
-<p class="text-center">Use the arrows over the picture to navigate through the photogallery.</p>
+<p class="text-center"><mark class="m2m-highlight small"><small class="px-3"><strong>Photography by</strong> <a href="https://silviamaggidesign.com">Silvia Maggi</a></small></mark></p>
 
-<div class="mt-5">
-  <a data-flickr-embed="true" href="https://www.flickr.com/photos/minutes2midnight/albums/72157720154705598" title="Press photos 2019"><img src="https://live.staticflickr.com/65535/50881464353_bea9fd20d6_b.jpg" width="1024" height="768" alt="Press photos 2019"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
-
-<p class="detached text-center"><mark class="m2m-highlight small"><small class="px-3"><strong>All photos by</strong> <a href="https://silviamaggidesign.com" target="_blank" rel="noopener">Silvia Maggi</a></small></mark></p>
+{% include pattern-imagegallery.html folder="/assets/images/gallery-press/" id="1" %}
 
 ---
 
