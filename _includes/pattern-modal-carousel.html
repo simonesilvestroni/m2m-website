@@ -28,7 +28,7 @@
             {%- assign imgCaption = filenameparts | last | replace: image.extname,'' | replace: 'thumb-', '' | replace: 'a_','' | replace: 'b_','' | replace: 'c_','' | replace: 'd_','' | replace: 'e_','' | replace: 'f_','' | replace: 'g_','' | replace: 'h_','' | replace: 'i_','' | replace: 'l_','' | replace: 'm_','' | replace: 'n_','' | replace: 'o_','' | replace: 'p_','' | replace: 'q_','' | replace: 'r_','' | replace: 's_','' | replace: 't_','' | replace: 'u_','' | replace: 'v_','' | replace: 'z_','' | replace: '-',' ' | replace: '_',' ' -%}
             {%- unless image.path contains 'thumb-' -%}
             <li class="m2m-carousel-scroll-item-outer">
-              <div id="{{ include.name }}-{%- increment slideId -%}" class="m2m-carousel-scroll-item">
+              <div id="{{ imgCaption | slugify }}-{%- increment slideId -%}" class="m2m-carousel-scroll-item">
                 <img src="{{ image.path }}" alt="{{ imgCaption | capitalize }}">
               </div>
             </li>
@@ -52,7 +52,7 @@
             {%- assign slideId = 0 -%}
             {%- assign slideNavId = 0 -%}
             {%- assign slideNav = 0 -%}
-            <a href="#{{ include.name }}-{%- increment slideNavId -%}">
+            <a href="#{{ imgCaption | slugify }}-{%- increment slideNavId -%}">
               <img class="mx-auto d-block" src="{{ galleryPath }}{{ imageNavPath }}" alt="{{ imgCaption | capitalize }}" title="Click to view {{ imgCaption | capitalize }}" width="120" height="120">
             </a>
             {%- endunless -%}
