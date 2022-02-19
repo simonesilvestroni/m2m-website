@@ -27,8 +27,6 @@ Before releasing the theatrical concept [_After 1989_](/work/original-music-prod
 
 The expression _Minutes to midnight_ is a reference to the [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock){:target="_blank" rel="noopener"}. The logo is derivative of the radiation symbol combined with the glyph used in fallout shelter signs.
 
-{% include pattern-figure-cols.html image1="/assets/images/fallout-shelter.jpg" alt1="Fallout shelter symbol" width1="200" height1="283" image2="/assets/images/radiation-symbol.png" alt2="Radiation symbol" width2="283" height2="283" caption="Inspiration symbols" %}
-
 ## Website
 
 All the details about this website are in the blog post [Website redesign](/blog/website-redesign/) and the [Colophon](/colophon/) page.
