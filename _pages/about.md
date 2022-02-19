@@ -3,8 +3,8 @@ layout: page
 title: About
 date: '2022-01-14 16:54:43'
 last_modified_at: '2022-01-14 16:54:56'
-description: 'Minutes to Midnight is my online brand name. After 9 years in the UK, I’m currently freelancing in Milan (Italy). I’ve been keeping a blog since 2002. Find everything through the archive.'
-excerpt: 'Hey, my name is Simone and I’m from Italy. First a bass player and editor, I later became a full-stack web and sound designer. Minutes to Midnight is my online brand name. After 9 years in the UK, I’m currently freelancing in Milan. I’ve been keeping a <a href="/blog/">blog</a> since 2002. Check out my <a href="/work/">audio and web work</a>, or find everything through the <a href="/archive/">archive</a>.'
+description: 'Minutes to Midnight is my brand name. After 9 years in the UK, I’m currently freelancing in Milan (Italy). I’ve been keeping a blog since 2002. Find everything through the archive.'
+excerpt: 'Hey, my name is Simone and I’m from Italy. First a bass player and editor, I later became a full-stack web and sound designer. Minutes to Midnight is my brand name. After 9 years in the UK, I’m currently freelancing in Milan. I’ve been keeping a <a href="/blog/">blog</a> since 2002. Check out my <a href="/work/">audio and web work</a>, or find everything through the <a href="/archive/">archive</a>.'
 permalink: '/about/'
 ---
 ## Why audio and web?
@@ -19,7 +19,7 @@ Both in sound and web design, I'm passionate about **minimalism and optimization
 
 ## Other interests
 
-I'm an avid reader, constantly eager to know the latest about the audio and tech industries. I've always loved to lose myself in history essays and dystopian novels.
+I'm an avid reader, constantly eager to know the latest about the audio and tech industries. I've always loved to lose myself in history essays and dystopian novels. Trivia: I have a longstanding ~~obsession~~ passion for typography.
 
 ## Name and logo
 
@@ -29,7 +29,7 @@ The expression _Minutes to midnight_ is a reference to the [Doomsday Clock](http
 
 ## Website
 
-All the details about this website are in the blog post [Website redesign](/blog/website-redesign/) and the [Colophon](/colophon/) page.
+All the details about this website are in the post [Website redesign](/blog/website-redesign/) and the [Colophon](/colophon/).
 
 ## Press photos
 
