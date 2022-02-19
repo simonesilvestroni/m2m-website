@@ -92,7 +92,6 @@ certifications:
 
 exclude:
   - node_modules/
-  - build/
   - sass/
   - README.md
   - package.json
