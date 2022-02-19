@@ -35,7 +35,7 @@ permalink: '/epk/'
 
 <p class="text-center"><mark class="m2m-highlight small"><small class="px-3"><strong>Photography by</strong> <a href="https://silviamaggidesign.com">Silvia Maggi</a></small></mark></p>
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-press/" id="1" %}
+{% include pattern-imagegallery.html folder="/assets/images/gallery-press/" name="press-photos" id="1" %}
 
 ---
 
