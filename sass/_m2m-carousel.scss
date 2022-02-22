@@ -16,15 +16,20 @@
 }
 
 .m2m-carousel-scroll {
+  @media (prefers-reduced-motion: no-preference) {
+    scroll-behavior: smooth;
+    @-moz-document url-prefix() {
+      scroll-behavior: auto;
+    }
+  }
   display: flex;
   overflow-y: hidden;
   width: 100%;
   height: calc(100% - 160px);
-  -webkit-overflow-scrolling: touch;
-  scrollbar-width: none;
-  scroll-behavior: smooth;
   margin: 0;
   padding: 0;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
 }
 
 .m2m-carousel-scroll::-webkit-scrollbar {
@@ -84,7 +89,6 @@
     text-decoration: none;
     z-index: 1;
     margin: 0 0.5rem;
-    transition: box-shadow 0.5s;
 
     &:hover {
       opacity: 0.7;

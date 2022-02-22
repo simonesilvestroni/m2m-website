@@ -11,6 +11,11 @@
 // ------------------------------------------------ \\
 // $GENERAL
 // ------------------------------------------------ //
+html {
+  @media (prefers-reduced-motion: no-preference) {
+    scroll-behavior: smooth;
+  }
+}
 body {
   background: transparent url(/assets/images/watercolor.png) no-repeat top right;
   background-attachment: fixed;

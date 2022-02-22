@@ -14,7 +14,10 @@ or, for featured images:
   /{{ i.path }} {{ i.width }}w,
 {%- endfor -%}
 {%- endcapture -%}
-<figure class="{{ include.class | default: 'my-5 text-center' }}">
-  <img class="u-featured mx-auto" loading="auto" src="/{{ largest.path }}" alt="Homepage of {{ alt }}" srcset="{{ srcset | strip_newlines }} /{{ path }} {{ original.width }}w">
-  {% if include.caption %}<figcaption class="p-name mt-3 caption">{{ include.caption }}</figcaption>{% endif -%}
+{% assign captionLabel = post.featimage-caption %}
+<figure class="{% if margin-nil %}my-{{ margin-nil }} {% else %}my-5 {% endif %}text-center">
+  <img class="{% if class %}{{ class }} {% endif %}mx-auto" loading="auto" src="/{{ largest.path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }} /{{ path }} {{ original.width }}w">
+  {% if caption-true %}
+  <figcaption class="mt-3 caption">{{ caption }}</figcaption>
+  {% endif %}
 </figure>

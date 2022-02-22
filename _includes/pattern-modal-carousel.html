@@ -29,7 +29,13 @@
             {%- unless image.path contains 'thumb-' -%}
             <li class="m2m-carousel-scroll-item-outer">
               <div id="{{ imgCaption | slugify }}-{%- increment slideId -%}" class="m2m-carousel-scroll-item">
-                <img src="{{ image.path }}" alt="{{ imgCaption | capitalize }}">
+                {%- assign respFileNamePart = filenameparts | last -%}
+                {%- assign respImgPath = respFileNamePart | prepend: galleryPath | remove_first: "/" -%}
+                {% responsive_image_block %}
+                  path: {{ respImgPath }}
+                  alt: {{ imgCaption | capitalize }}
+                  margin-nil: 0
+                {% endresponsive_image_block %}
               </div>
             </li>
             {%- endunless -%}
