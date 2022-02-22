@@ -2,7 +2,7 @@
 layout: uses
 title: 'What I use'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2021-11-08 10:54:06'
+last_modified_at: '2022-02-22 21:36:09'
 description: "All the info and specifics of the equipment I use."
 excerpt: 'Specifics about the equipment I use. I don’t use affiliate links, so whatever the product, find it at your preferred retailer.'
 permalink: '/uses/'
@@ -61,7 +61,7 @@ Since I ditched the iPhone, a 3-year-old **Redmi Note 7 Pro** by Xiaomi is all I
 
 As a **system-agnostic**, I either work with macOS, Windows or Linux, depending on the task. I’m interested in experimentation but [opposed to updates for the sake of it](#update-policy), therefore I use what I think it’s the best for me. Right now it’s:
 
-- **macOS** Mojave 10.14.6
+- **macOS** Big Sur 11.6.4
 - **Windows** 10
 - **Pop_OS** (by System76)
 
@@ -199,8 +199,8 @@ I mentioned above how **I’m opposed to updates for the sake of it**. It means 
 
 Brilliant examples come from [Cockos Incorporated](https://cockos.com/) (makers of Reaper) and [Sublime HQ Pty Ltd](https://www.sublimehq.com/) (makers of Sublime Text). It’s likely not a coincidence that both companies have three to four employees. They *actually use* what they’re selling, therefore they can understand their users. Small entities with a decent and well thought business model that doesn’t rip off customers and can move swiftly if needed. That’s the only kind I’m interested in. I’m more than happy to pay for their products, because I know I’ll be listened to.
 
-As another example, I **stopped caring about Logic updates** ever since Apple had decided to tie them to their insane and arbitrarily idiotic yearly cycle of forced OS “upgrades”. I’ve decided to stick to macOS Mojave, a 3+ years old system and this means I can’t have the [new Logic version](https://www.apple.com/logic-pro/specs/){:target="_blank" rel="noopener"}, which requires last year’s OS as a minimum. **Planned obsolescence** brought by a multi-trillion-dollar company is not my cup of tea.
+As another example, I now **completely ignore Logic updates** ever since Apple had decided to tie them to their insane and arbitrarily idiotic yearly cycle of forced OS “upgrades”. I’ve decided to stick to any OS that works for me, which might well be a few years old. Any [new Logic version](https://www.apple.com/logic-pro/specs/) requires last year’s OS as a minimum. **Planned obsolescence** brought by a multi-trillion-dollar company is not my cup of tea.
 
 ---
 
-Last update: <kbd>2022-01-21 15:17:32</kbd>
+Last update: <kbd>{{ page.last_modified_at }}</kbd>
