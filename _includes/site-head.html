@@ -10,6 +10,9 @@
 {% else -%}
 <link rel="stylesheet" href="/assets/css/m2m.css">
 {%- endif %}
+{% unless page.redirection %}
+{%- include site-seo.html -%}
+{% endunless %}
 <!-- IndieWeb -->
 <link rel="dns-prefetch" href="https://webmention.io">
 <link rel="preconnect" href="https://webmention.io">
@@ -20,10 +23,6 @@
 <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
 <link rel="microsub" href="https://aperture.p3k.io/microsub/725">
 <link rel="micropub" href="https://minutestomidnight.co.uk/micropub">
-<!-- /IndieWeb -->
-{% unless page.redirection %}
-{%- include site-seo.html -%}
-{% endunless %}
 <!-- favicons -->
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" href="/assets/images/favicons/favicon.svg" type="image/svg+xml">
