@@ -17,7 +17,7 @@
 <!-- Twitter integration -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{%- include site-meta-title.html -%}" />
-<meta name="twitter:url" content="{{ page.url }}" />
+<meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% elsif note.description %}{{ note.description }}{% else %}{{ site.description }}{% endif %}" />
 <meta name="twitter:image" content="{% if page.featimage %}{{ site.url }}{{ page.featimage-url }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
 <!-- Schema -->
@@ -59,7 +59,7 @@
     "height": "765",
     "url": "{{ site.url }}{{ page.featimage-url }}"
   }
-  {% else %}
+  {%- else %}
   "image": {
     "@type": "ImageObject",
     "width": "1200",

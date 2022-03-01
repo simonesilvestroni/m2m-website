@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="/assets/css/m2m.min.css">
 {% else -%}
 <link rel="stylesheet" href="/assets/css/m2m.css">
-{%- endif %}
+{%- endif -%}
 {% unless page.redirection %}
 {%- include site-seo.html -%}
 {% endunless %}
@@ -24,8 +24,8 @@
 <link rel="microsub" href="https://aperture.p3k.io/microsub/725">
 <link rel="micropub" href="https://minutestomidnight.co.uk/micropub">
 <!-- favicons -->
-<link rel="icon" href="/favicon.ico" sizes="any">
-<link rel="icon" href="/assets/images/favicons/favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/apple-touch-icon.png">
-<link rel="manifest" href="/assets/images/favicons/site.webmanifest">
+<link rel="icon" href="{{ site.url }}/favicon.ico" sizes="any">
+<link rel="icon" href="{{ site.url }}/assets/images/favicons/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/assets/images/favicons/apple-touch-icon.png">
+<link rel="manifest" href="{{ site.url }}/assets/images/favicons/site.webmanifest">
 </head>
