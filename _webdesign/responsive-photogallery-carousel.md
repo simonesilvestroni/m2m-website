@@ -340,4 +340,14 @@ Both our dev environments benefited from significant improvements:
 }
 ```
 
-To check the new module with a page containing multiple photo galleries, click the button below and enjoy beautiful photos taken by Silvia in Bordeaux:
+## Full source code
+
+Check out my public gists for the three files:
+
+- [Image gallery pattern](https://gist.github.com/minutes2midnight/efde884cc347e468016d641d536d2d6f)
+- [Modal window and carousel](https://gist.github.com/minutes2midnight/287bcde4e7dd2e19213a6fad3b3cbf71)
+- [SASS code](https://gist.github.com/minutes2midnight/5047040a91d46dfa71b6156203cb1d07)
+
+## Example: multiple galleries
+
+To check the new module within a real-world page containing **multiple photo galleries**, click the button below and enjoy beautiful photos taken by Silvia in Bordeaux:
