@@ -6,16 +6,19 @@ last_modified_at: '2021-11-08 10:57:26'
 description: "I've been keeping a blog since 2002. The current version is devoid of most personal material, focusing more on my work."
 excerpt: 'I&rsquo;ve been keeping a blog since 2002. The current version is devoid of most personal material and focused on my work. Follow new posts through the <a href="/feed.xml">RSS feed</a> or my <a href="https://t.me/M2Mupdates">updates channel on Telegram</a>. I also publish short status messages as <a href="/notes/">notes</a>.'
 ---
-<section class="h-feed" id="blog-popular-posts">
-  <h2 class="p-name text-center text-uppercase my-5">Popular posts</h2>
+<section class="h-feed m2m-entry" id="blog-popular-posts">
+  <h2 class="p-name text-center text-uppercase mt-5">Popular posts</h2>
   {% assign popular = site.posts | where: "tags", "popular" %}
-  <div class="card-group mb-5">
-    <div class="h-feed row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3">
+  <ul class="h-feed list-group list-group-flush mt-0 ps-0">
     {%- for post in popular limit:3 -%}
-      {%- include card-post.html -%}
+    {% if post %}
+    {% assign categories = post.categories %}
+    {% else %}
+    {% assign categories = page.categories %}
+    {% endif %}
+    <li class="list-group-item my-0 ps-0"><span class="initialism pe-1">🗒</span> <a class="p-name u-url" href="{{ post.url }}">{{ post.title }}</a>{%- for category in categories -%}<span class="p-category text-uppercase initialism fw-bold px-2"><strong><code>#{{ category | upcase | replace:"-"," " }}</code></strong></span>{% endfor %}</li>
     {%- endfor -%}
-    </div>
-  </div>
+  </ul>
 </section>
 <section class="h-feed" id="blog-all-posts">
   <h2 class="p-name text-center text-uppercase mt-5 pt-3">All the posts</h2>
