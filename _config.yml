@@ -112,6 +112,10 @@ defaults:
     values:
       layout: "default"
   - scope:
+      path: "assets/images"
+    values:
+      image: true
+  - scope:
       path: ""
       type: "collections"
     values:

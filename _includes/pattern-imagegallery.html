@@ -1,6 +1,6 @@
 <section class="m2m-image-gallery my-5 pt-3" id="gallery-{{ include.id }}">
   <div class="d-flex flex-wrap justify-content-center m2m-img-gallery-thumbs">
-    {%- for image in site.static_files -%}
+    {%- for image in site.static_files | where: "image", true -%}
     {%- capture galleryPath -%}{{ include.folder }}{%- endcapture -%}
     {%- if image.path contains galleryPath -%}
     {%- assign filenameparts = image.path | split: "/" -%}

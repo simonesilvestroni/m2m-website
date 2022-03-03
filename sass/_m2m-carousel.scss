@@ -67,7 +67,6 @@
     scroll-snap-align: center;
   }
 }
-
 @supports not (scroll-snap-align: start) {
   .m2m-carousel-scroll {
     scroll-snap-type: mandatory;

@@ -198,6 +198,23 @@ code {
   border-radius: 3px;
 }
 
+pre {
+  font-size: rfs-fluid-value(16px);
+  color: $pre-color;
+  margin: $spacer*2.5 0;
+  padding: $spacer*1.5;
+  background: rgba($background-l-50, 0.5);
+  border-radius: 9px;
+  @include media-breakpoint-up(lg) {
+    width: 90%;
+  }
+
+  code {
+    background-color: transparent;
+    color: $black;
+  }
+}
+
 // Font micro size
 .m2m-font-micro {
   @include font-size($micro-font-size);
@@ -809,4 +826,112 @@ mark {
     background-image: linear-gradient(-100deg, rgba(255,224,0,0.1), rgba(255,224,0,0.5) 95%, rgba(255,224,0,0.2));
   }
 }
+
+
+// ------------------------------------------------ \\
+// $SYNTAX HIGHLIGHT
+// ------------------------------------------------ //
+
+.highlight {
+
+  table td { 
+    padding: 5px;
+  }
+  table pre { 
+    margin: 0;
+  }
+  .cm,
+  .c1 {
+    color: #999988;
+    font-style: italic;
+  }
+  .cp {
+    color: #999999;
+    font-weight: bold;
+  }
+  .cs {
+    color: #999999;
+    font-weight: bold;
+    font-style: italic;
+  }
+  .err {
+    color: #a61717;
+    background-color: #e3d2d2;
+  }
+  .gd {
+    color: $black;
+    background-color: #ffdddd;
+  }
+  .ge {
+    color: $black;
+    font-style: italic;
+  }
+  .gr,
+  .gt { color: #aa0000; }
+  .gh { color: #999999; }
+  .gi { color: #000000; background-color: #ddffdd;
+  }
+  .go { color: #888888; }
+  .gp { color: #555555; }
+  .gs { font-weight: bold; }
+  .gu { color: #aaaaaa; }
+  .kc,
+  .kd,
+  .kn,
+  .kp,
+  .kr,
+  .k,
+  .kv,
+  .sa,
+  .ow,
+  .o { color: $black; font-weight: bold; }
+  .c, 
+  .ch,
+  .cd,
+  .cpf { color: #999988; font-style: italic; }
+  .kt  { color: #445588; font-weight: bold; }
+  .mf,
+  .mh,
+  .il,
+  .mi,
+  .mo,
+  .m,
+  .mb,
+  .mx { color: #009999; }
+  .sb,
+  .sc,
+  .sd,
+  .s2,
+  .se,
+  .sh,
+  .si,
+  .sx,
+  .s1,
+  .s,
+  .dl { color: #d14; }
+  .sr { color: #009926; }
+  .na { color: #008080; }
+  .bp { color: #999999; }
+  .nb { color: #0086B3; }
+  .nc { color: #445588; font-weight: bold; }
+  .no { color: #008080; }
+  .nd { color: #3c5d5d; font-weight: bold; }
+  .ni { color: #800080; }
+  .ne,
+  .nl,
+  .nf,
+  .fm { color: #990000; font-weight: bold; }
+  .nn { color: #555555; }
+  .nt { color: #000080; }
+  .ss { color: #990073; }
+  .vc,
+  .vg,
+  .vi,
+  .nv,
+  .vm { color: #008080; }
+  .w { color: #bbbbbb; }
+}
+// .highlight , .highlight  {
+//   color: #d14;
+// }
 /* purgecss end ignore */
