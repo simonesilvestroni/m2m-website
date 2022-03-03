@@ -18,7 +18,7 @@ mentionType: reply
 ---
 **At the beginning of August 2020** I [deleted all my social media accounts](/blog/escape-from-social-media/), except for YouTube. So, how has it been?
 
-I never intended to make a living solely through the music I write: my work in sound design and production is in a different business. Had I read Steve’s post in 2019, it would have pushed me to consider a few things. Today I don’t judge people who’s still juggling with social media networks, yet I see any lucubration about how to stay in mainstream social media and save the soul as *plain weird*. I suppose once you’re out you can’t really understand why anyone would want to continue staying locked in — like an ex-smoker.
+I never intended to make a living solely through the music I write: my work in sound design and production is in a different business. Had I read Steve’s post in 2019, it would have pushed me to consider a few things. Today I don’t judge people that are still juggling with social networks, yet I see any lucubration about how to stay in mainstream social media and save the soul as *plain weird*. I suppose once you’re out you can’t really understand why anyone would want to continue staying locked in — like an ex-smoker.
 
 Having lived through the full experience of being engulfed in social networks, I know what Steve’s talking about. However, after leaving pretty much *everything* in the last couple of years — including Apple's walled garden and the post-Brexit UK — **I’ve never felt more liberated** and light-weight.
 
@@ -26,21 +26,20 @@ Having lived through the full experience of being engulfed in social networks, I
 
 <ul class="h-feed list-group list-group-flush mt-0 ps-0">
   <li class="list-group-item my-0 ps-0">⏳ I suddenly gained what still seems like an insane amount of free time.</li>
-  <li class="list-group-item my-0 ps-0">🔎 The <em>non free</em> time morphed into something way more productive and focused.</li>
-  <li class="list-group-item my-0 ps-0">📚 I started reading again properly, without interruptions.</li>
-  <li class="list-group-item my-0 ps-0">🏃 I caught up with many things I’d been leaving behind because I didn’t feel like I had the time or the required focus.</li>
-  <li class="list-group-item my-0 ps-0">📈 My work has massively improved.</li>
-  <li class="list-group-item my-0 ps-0">🎧 I learned to use Pro Tools, then after a few months I <a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/">ditched it for REAPER</a>.
+  <li class="list-group-item my-0 ps-0">📈 My work has massively improved, becoming more productive and focused.</li>
+  <li class="list-group-item my-0 ps-0">📚 I started reading again without interruptions.</li>
+  <li class="list-group-item my-0 ps-0">🏃 I caught up with things I’d been leaving behind because I didn’t feel like I had the time or the required focus.</li>
+  <li class="list-group-item my-0 ps-0">🎧 I learned to use Pro Tools, then after a few months I ditched it <a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/">and learned REAPER</a>.
 </li>
-  <li class="list-group-item my-0 ps-0">🎮 I learned Wwise and FMOD (videogame audio authoring).</li>
-  <li class="list-group-item my-0 ps-0">👨🏻‍💻 I learned new web dev technologies, migrating two websites from WordPress to Jekyll and from a traditional hosting to Netlify, saving lots of money in the process.</li>
+  <li class="list-group-item my-0 ps-0">🎮 I studied Wwise and FMOD (videogame audio authoring).</li>
+  <li class="list-group-item my-0 ps-0">👨🏻‍💻 I expanded my knowledge of new web dev technologies, migrating two websites from WordPress to Jekyll and from a traditional hosting to Netlify, saving money in the process.</li>
 </ul>
 
-Above all, I stopped knowing whatever tech CEO billionaire do or say, while I’ve been **following savvy people who writes about facts**, productivity and tech whilst keeping a critical eye on all things related to the so-called “surveillance capitalism”.
+Above all, I stopped knowing whatever CEO billionaire do or say, while I’ve been **following savvy people who write about facts**, productivity and tech whilst keeping a critical eye on all things related to the so-called “surveillance capitalism”.
 
 ## Audience
 
-I totally understand the argument about having an audience and an amplifier, and I get people when they tell me they can’t leave a particular social network because of the relationships they built there. My escape **pushed me to actually speak to people** with whom I hanged around on those networks. I got in touch, asked for their emails and sometimes their phone numbers.
+I totally understand the argument about having an audience and an amplifier, and I get people when they tell me they can’t leave a particular social network because of the relationships they built there. My escape **pushed me to actually speak to the people** I used to hung around on those networks. I got in touch, asked for their emails and sometimes their phone numbers.
 
 I now talk to them asynchronously and it feels genuine, real. We have stuff to discuss about, without the usual *oh yeah, I saw it earlier on Facebook*. I nurtured my email newsletter and stayed in touch with a larger amount of people than expected through either email, newsletters, RSS and sometimes Telegram or Signal. Finally, if my contacts came from [Bandcamp](https://music.minutestomidnight.co.uk/), I followed them there. The vast majority of people who left social media reports the very same conclusions.
 
