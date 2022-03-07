@@ -11,11 +11,11 @@ work:
     cta: Sound design works
     href: /work/sound-design/
   - title: Web design
-    desc: '<strong>Designing and coding for the web</strong> is my parallel skill. A digital evolution of a past experience with the printed page, I strive for exceptional minimalism and optimization.'
+    desc: '<strong>Designing and coding for the web</strong> is my parallel skill. A digital evolution of a past experience with the printed page, I strive for exceptional optimization.'
     cta: Web design works
     href: /work/web-design/
   - title: Original music
-    desc: 'Beyond a stint as a game audio composer, <strong>I love telling stories with music</strong>. This is why my original productions mostly focus on the concept album as a format.'
+    desc: '<strong>I love telling stories with music</strong>. This is why, beyond a stint as a game audio composer, my original productions mostly focus on the concept album as a format.'
     cta: Published original music
     href: /work/original-music-productions/
 permalink: '/work/'

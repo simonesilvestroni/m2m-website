@@ -180,6 +180,7 @@ p {
 
   // Lead paragraphs
   &.lead {
+    @extend %m2m-serif;
     font-size: rfs-fluid-value(30px);
     line-height: 1.3 !important;
     text-indent: 0;
