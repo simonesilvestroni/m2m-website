@@ -3,16 +3,22 @@ layout: page
 title: 'Web Design'
 date: '2021-11-08 10:49:23'
 last_modified_at: '2022-01-06 17:27:37'
-description: "Designing and coding for the web is my parallel skill. A digital evolution of a past experience with the printed page, my main focus is on exceptional optimization for usability and sustainability."
-excerpt: 'Designing and coding for the web is my parallel skill. A digital evolution of a past experience with the printed page, my main focus is on exceptional optimization for <strong>usability and sustainability</strong>.<br>To maximize an efficient online experience, I switched from WordPress to <a href="https://jamstack.org/">JAMstack</a>. By using <strong>static site generators with headless CMS</strong>, all my recent websites rank <code>100</code> with Pagespeed.'
+description: "Designing and coding for the web is a digital evolution of my past experience with the printed page. I strive for accessibility and sustainability through exceptional optimization."
+excerpt: '<strong>Designing and coding for the web</strong> is a digital evolution of my past experience with the printed page. My main focus is <strong>ethic and sustainable design</strong>, obtained through a relentless optimization of the web stack. All my recent websites rank <code>100</code> with Pagespeed for performance and accessibility.'
 permalink: '/work/web-design/'
 ---
+<h2>Main skills</h2>
+
+<p>Started crafting websites from scratch with HTML, CSS and a little Javascript. I adopted <strong>WordPress</strong> as my platform of choice since version 1.5, becoming an expert with its PHP structure, building custom themes and plug-ins. I recently moved to <a href="https://jamstack.org/">JAMstack</a> and static site generators with headless CMS, especially digging <strong>Jekyll</strong> with its <a href="https://shopify.github.io/liquid/">Liquid template language</a> and <strong>Netlify</strong>.</p>
+
+<p class="detached">👇 For more details, check out the case studies.</p>
+
 {%- assign webdesign = site.webdesign | reverse -%}
 {%- assign endorsements = site.endorsements.web -%}
 {%- assign cvs = site.resume.web -%}
 
 <section class="h-feed m2m-entry my-5 pb-3">
-  <h2 class="p-name text-center text-uppercase">Selected case studies</h2>
+  <h2 class="p-name h1 fs-1 text-center text-uppercase m2m-text-rotate my-5">Selected case studies</h2>
   <div class="card-group">
     <div class="h-feed row row-cols-1 row-cols-sm-2 g-4">
     {% for casestudy in webdesign %}
@@ -22,24 +28,12 @@ permalink: '/work/web-design/'
   </div>
 </section>
 <h2>Brief resume</h2>
-<div class="table-responsive">
-  <table class="table table-striped mt-4 mb-5">
-    <thead>
-      <tr>
-        <th scope="col" class="w-16 fw-bold text-uppercase text-end"><strong>When</strong></th>
-        <th scope="col" class="text-uppercase fw-bold"><strong>What</strong></th>
-      </tr>
-    </thead>
-    <tbody>
-      {%- for cv in cvs %}
-      <tr>
-        <td class="text-end"><mark class="m2m-highlight d-inline-block mb-2"><span class="fw-bold px-2"><strong>{{ cv.year }}</strong></span></mark></td>
-        <td>{{ cv.description }}</td>
-      </tr>
-      {%- endfor -%}
-    </tbody>
-  </table>
-</div>
+<ul>
+{%- for cv in cvs %}
+  <li><strong>{{ cv.year }}</strong>: {{ cv.description }}</li>
+{%- endfor -%}
+</ul>
+<p>More details on <a href="https://www.linkedin.com/in/minutes2mid/" target="_blank">LinkedIn</a>.</p>
 <h2>Courses &amp; memberships</h2>
 <ul class="list-group list-group-flush ps-0">
   {%- for cert in site.certifications.web %}

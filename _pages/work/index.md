@@ -11,7 +11,7 @@ work:
     cta: Sound design works
     href: /work/sound-design/
   - title: Web design
-    desc: '<strong>Designing and coding for the web</strong> is my parallel skill. A digital evolution of a past experience with the printed page, I strive for exceptional optimization.'
+    desc: '<strong>Designing and coding for the web</strong> is a digital evolution of my past experience with the printed page. I strive for accessibility and sustainability through exceptional optimization.'
     cta: Web design works
     href: /work/web-design/
   - title: Original music

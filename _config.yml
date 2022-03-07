@@ -60,12 +60,12 @@ resume:
       description: 'Freelancing as a web designer and sound designer in Milan.'
     - year: '2007-2011'
       description: 'Landed a permanent job as a front-end developer for a company now part of <em>Accenture</em>, working for massive clients such as <em>UniCredit</em>.'
-    - year: '2011-2012'
+    - year: '2011'
       description: 'Moved to the UK after being hired for the same role by the online gaming company <em>Bodog</em> in London.'
     - year: '2012-2017'
       description: '<a href="https://web.archive.org/web/20161021065339/http://uifarm.co.uk/team/">Co-founded</a> the web firm <em>UI Farm</em> in London. We designed, developed and deployed advanced multi-device solutions for small to large companies, including <em>Reevoo</em>, <em>Not On The High Street</em>, <em>UniCredit</em> and <em>Elite Model Management (New York)</em>.'
     - year: '2017-today'
-      description: 'Kick-started <em>Minutes to Midnight</em> in Cambridge. Embracing my wider skill set, I focused on both audio, music and web design. My main focus is <strong>ethic and sustainable design</strong>, obtained through a relentless optimization of the web stack.'
+      description: 'Kick-started <em>Minutes to Midnight</em> in Cambridge. Embracing my wider skill set, I focused on both audio and web design.'
 
 # Work certifications
 certifications:

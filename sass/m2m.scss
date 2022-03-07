@@ -86,7 +86,9 @@ $table-group-separator-color: $background-d-30;
 
 // Cards
 $card-bg: rgba($background-l-10, .3);
-$card-border-width: 3px;
+$card-border-radius: 12px;
+$card-border-width: 1px;
+$card-border-color: rgba($background-d-20, .3);
 $card-cap-bg: null;
 .card-footer { border-top: none !important; }
 

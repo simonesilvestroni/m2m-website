@@ -12,7 +12,7 @@ skillset:
  - node
  - bootstrap 5
  - git
-description: "A yearly reminder of how Slack can also be distracting and counter-productive."
+description: "A yearly reminder of how Slack can also be distracting and counter-productive. Built with Jekyll and Bootstrap 5, deployed to Github Pages."
 excerpt: false
 summary: 'A cool initiative by an elusive client of mine, No Slack Day is a yearly reminder of how a communication tool can also be distracting and counter-productive. Built using Jekyll and light imagery, I <strong>achieved an amazingly fast performance</strong> for a modern-looking landing page.'
 featimage: true

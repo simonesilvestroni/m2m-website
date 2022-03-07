@@ -17,7 +17,7 @@ Besides being a professional bassist, I'm an expert in music production, especia
 
 ## Web skills
 
-I started crafting websites from scratch with HTML, CSS and a little Javascript. Adopted **WordPress** as my platform of choice since version 1.5, becoming an expert with custom themes and plug-ins. I recently "went back" to static site generators, digging [JAMstack](https://jamstack.org/), especially Jekyll and Netlify.
+Started crafting websites from scratch with HTML, CSS and a little Javascript. I adopted **WordPress** as my platform of choice since version 1.5, becoming an expert with its PHP structure, building custom themes and plug-ins. I recently moved to [JAMstack](https://jamstack.org/) and static site generators with headless CMS, especially digging **Jekyll** with its [Liquid template language](https://shopify.github.io/liquid/) and **Netlify**.
 
 ## Passions
 

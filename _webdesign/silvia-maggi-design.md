@@ -12,7 +12,7 @@ skillset:
  - node
  - bootstrap 5
  - git
-description: "Silvia Maggi is a UX designer striving to create meaningful digital experiences."
+description: "Silvia Maggi is a UX designer striving to create meaningful digital experiences. Built with Jekyll and Bootstrap 5, deployed to Netlify."
 excerpt: false
 summary: 'Silvia Maggi is a UX designer striving to create meaningful digital experiences. As her main focus is on <strong>accessibility, usability and sustainability</strong>, my input on adopting Jekyll and optimizing through Node modules such as purgeCSS ensured great results.'
 featimage: true
