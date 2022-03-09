@@ -19,7 +19,7 @@ excerpt: 'I’m happy Gerald Duchene asked me to write and play a bass track for
 
 ## Production notes
 
-After listening to the rough mix of _Shallow Grave_, I almost immediately decided to approach the song with my Fender Jazz fretless bass. The song asked for a mellow and warm sound, and that’s what I’ve delivered. I’m grateful for the opportunity to collaborate with such an [experienced and solid musician](https://antiquity-music.com/){:target="_blank" rel="noopener"}.
+After listening to the rough mix of _Shallow Grave_, I almost immediately decided to approach the song with my Fender Jazz fretless bass. The song asked for a mellow and warm sound, and that’s what I’ve delivered. I’m grateful for the opportunity to collaborate with such an [experienced and solid musician](https://antiquity-music.com/).
 
 Also, I love when I’m presented with a proper challenge. As a songwriter, Gerald writes very differently from what I usually work with, and he has a pretty different approach from the material [I usually produce](/work/). Therefore, I have to **dive into the spirit of the music first**, feel how the song moves. I end up using a kind of sensitivity that doesn’t come easy to me. To elaborate on how I perceive a challenge in music, I often quote a [David Bowie interview](https://youtu.be/7HqTQyQ6wc0){:target="_blank" rel="noopener"} as a pivotal inspiration of mine:
 
