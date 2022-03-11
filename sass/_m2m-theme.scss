@@ -418,7 +418,9 @@ cite {
     @include list-unstyled();
     margin: 0 0 3rem 0;
     padding: 0;
-
+    &:last-child {
+      margin-bottom: 0;
+    }
     li {
       margin-bottom: 1rem;
 
@@ -436,6 +438,7 @@ cite {
       img {
         width: 36px;
         height: 36px;
+        border-radius: 4px;
       }
     }
   }
