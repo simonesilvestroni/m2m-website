@@ -432,15 +432,15 @@ cite {
   }
 }
 .reaction {
-  text-decoration: none;
-  img {
-    width: 36px;
-    height: 36px;
-    border-radius: 4px;
+  .comments & {
+    text-decoration: none;
+    img {
+      width: 36px;
+      height: 36px;
+      border-radius: 4px;
+    }
   }
-}
-.reacts {
-  .reaction {
+  .reacts & {
     display: inline-block;
     margin: 6px 6px 6px 0;
   }
