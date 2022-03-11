@@ -50,3 +50,11 @@ On the other hand, I can’t understand how people can actually enjoy having the
 Going back to Steve’s article, I keep asking: **what if these soulless machines stopped working**? We all remember the fast demise of MySpace; what would happen to that *audience amplifier*? How would people manage to keep going on as musicians who want to make a living and stay independent? I too remember that tiny window around 2007/2008 where the *web 2.0* seemed such a wonderful promise, only to be snatched and centralized by these awful behemoths that Facebook, Twitter and Google became.
 
 My answer was, and still is: **have your own space** [on the internet](https://www.onebigfluke.com/2012/07/focusing-on-positives-why-i-have-my-own.html).
+
+---
+
+## 10 March 2022 EDIT: Mastodon
+
+Just joined [Mastodon](https://mastodon.help/), as an experiment. I'll be blogging about it in the future, but I immediately felt why everyone says _it's not_ Twitter. It sure feels like a totally different space. 
+
+I've also integrated Mastodon's replies, likes and reboosts in here through [Brid.gy](https://brid.gy/). Check the section [Comments and reactions](#comments) 👇 below.
