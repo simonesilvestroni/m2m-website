@@ -28,8 +28,9 @@ I only send one when I actually have updates to share, mostly about **releases**
 
 ## Follow updates
 
-To get to know when I post new [articles](/blog/) or [notes](/notes/), subscribe to the feeds:
+Notifications about new [articles](/blog/) or [notes](/notes/) are available through:
 
-- [**Blog** feed](/feed.xml)
-- [**Notes** feed](/notes.xml)
-- [**Telegram** updates channel](https://t.me/M2Mupdates)
+- [Blog RSS feed](/feed.xml)
+- [Notes RSS feed](/notes.xml)
+- [Telegram updates channel](https://t.me/M2Mupdates)
+- [Mastodon](https://indieweb.social/@m2m)

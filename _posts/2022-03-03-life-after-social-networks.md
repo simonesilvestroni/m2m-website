@@ -53,7 +53,7 @@ My answer was, and still is: **have your own space** [on the internet](https://w
 
 ---
 
-## 10 March 2022 EDIT: Mastodon
+## 🆕 10 March 2022 EDIT: Mastodon
 
 Just joined [Mastodon](https://mastodon.help/), as an experiment. I'll be blogging about it in the future, but I immediately felt why everyone says _it's not_ Twitter. It sure feels like a totally different space. 
 
