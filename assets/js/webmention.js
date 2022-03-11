@@ -227,18 +227,16 @@ A more detailed example:
     }
 
     return`
-      <li class="d-inline-block me-3"><a
+      <a
         class="reaction"
         rel="nofollow ugc"
         title="${who} ${response}"
         href="${r[mentionSource]}"
       >
         ${authorPhoto}
-        <span class="fs-5">
         ${(reactEmoji[r['wm-property']] || '')}
         ${rsvp}
-        </span>
-      </a></li>
+      </a>
     `;
   }
 
