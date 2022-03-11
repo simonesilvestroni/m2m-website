@@ -423,6 +423,7 @@ cite {
     }
     li {
       margin-bottom: 1rem;
+
       &.reaction-reply {
         margin-left: .75rem;
         padding-left: 1rem;
@@ -430,17 +431,19 @@ cite {
       }
     }
   }
-}
-.reaction {
-  .comments & {
-    text-decoration: none;
-    img {
-      width: 36px;
-      height: 36px;
-      border-radius: 4px;
+  a {
+    &.reaction {
+      text-decoration: none;
+      img {
+        width: 36px;
+        height: 36px;
+        border-radius: 4px;
+      }
     }
   }
-  .reacts & {
+}
+.reacts {
+  .reaction {
     display: inline-block;
     margin: 6px 6px 6px 0;
   }
