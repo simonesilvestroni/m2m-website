@@ -31,9 +31,7 @@ layout: default
     {% endif -%}
     {{ content }}
     {% if page.site-is-live == true %}
-    <div class="text-center my-5 py-5">
-      <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="{{ page.live-url }}" title="Visit the live website"><span class="text-uppercase fs-4"><strong>Visit the live website</strong></span></a>
-    </div>
+    {% include pattern-button.html link=page.live-url center=true text="Visit the live website" %}
     {% endif %}
   </div>
 </article>

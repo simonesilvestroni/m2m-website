@@ -67,4 +67,4 @@ Mastered by Ian Shepherd.
   <sup>&copy;</sup> Dan Ecclestone 2018.
 </p>
 
-{% include pattern-button-hire.html %}
+{% include pattern-button.html link="/contact/" center=true text="Hire me" %}

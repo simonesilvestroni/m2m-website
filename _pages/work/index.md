@@ -54,4 +54,4 @@ A representative selection of the [**27 recommendations** I received on LinkedIn
 > My experience of working with Simone has always been very positive and enjoyable. Simone always takes a pragmatic and investigative approach to finding solutions for our needs and has very friendly and helpful attitude. His attention to detail makes him always deliver perfect coded products, saving us time and concerns on the web projects he develops.
 > <cite>— Gabriele Rosati, [UX and interaction design manager at UniCredit](https://www.linkedin.com/in/rosati/){:target="_blank" rel="noopener"}</cite>
 
-{% include pattern-button-hire.html %}
+{% include pattern-button.html link="/contact/" center=true text="Hire me" %}
