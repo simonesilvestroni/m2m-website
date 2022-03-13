@@ -38,10 +38,10 @@
 </script>
 <noscript>Please enable JavaScript to use the search functionality, or use the form below.</noscript>
 {%- endif -%}
-{% if page.url contains '/blog/' %}
+{%- if page.url contains '/blog/' or page.url contains '/notes/' -%}
 {%- if jekyll.environment == "production" %}
 <script src="/assets/js/webmention.min.js" async></script>
-{% else %}
+{%- else -%}
 <script src="/assets/js/webmention.js" async></script>
 {% endif -%}
 <noscript>I use client-side JavaScript to render the webmentions. If you do not wish to enable JavaScript, that's OK, but you won't see any webmention I've received — sorry.</noscript>
