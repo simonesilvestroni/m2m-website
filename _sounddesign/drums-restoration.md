@@ -30,7 +30,7 @@ After we received the audio tracks, we noticed **two issues with the drums**. Fi
 <div class="alert alert-warning px-4 py-4 my-5">
   <h3 class="text-uppercase text-center mt-0">Noise: before</h3>
   <p class="mb-4">In this sample the noise is clearly audible. Spread over the entire song, it was particularly problematic in the quiet sections.</p>
-  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695750329%3Fsecret_token%3Ds-mfX5b&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+  {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695750329%3Fsecret_token%3Ds-mfX5b&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
 </div>
 
 After adding a **gate** to cut the noise from both snare and rack, I spent a few hours in **iZotope RX 6** cleaning up the hi-hat and overhead tracks.
@@ -38,14 +38,14 @@ After adding a **gate** to cut the noise from both snare and rack, I spent a few
 <div class="alert alert-warning px-4 py-4 my-5">
   <h3 class="text-uppercase text-center mt-0">Noise: after</h3>
   <p class="mb-4">Now the squeaky hi-hat pedal is gone.</p>
-  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695750326%3Fsecret_token%3Ds-UFUTG&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+  {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695750326%3Fsecret_token%3Ds-UFUTG&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
 </div>
 
 Second: we received a single mono track for the overhead mics, with no room recording. While I wasn't particularly concerned with this, I thought it could be improved.
 
 <div class="alert alert-warning px-4 py-4 my-5">
   <h3 class="text-uppercase text-center mt-0">Mono drums overhead: before</h3>
-  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695750338%3Fsecret_token%3Ds-B3sCU&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+  {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695750338%3Fsecret_token%3Ds-B3sCU&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
 </div>
 
 I chose a gentle **drum doubling technique**: after a full MIDI capture of kick, snare, hi-hat and crash, I fired up my drums virtual instrument of choice: Addictive Drums 2 by XLN. With a clever use of pan and room verb in the plug-in, I managed to _recreate the missing stereo image_ with a nicer studio vibe.
@@ -53,7 +53,7 @@ I chose a gentle **drum doubling technique**: after a full MIDI capture of kick,
 <div class="alert alert-warning px-4 py-4 my-5">
   <h3 class="text-uppercase text-center mt-0">Mono drums overhead: after</h3>
   <p class="mb-4">The final result is the original drums with the MIDI doubling blended in to increase the effect and make the percussion more incisive.</p>
-  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695750350%3Fsecret_token%3Ds-fCToe&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+  {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695750350%3Fsecret_token%3Ds-fCToe&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
 </div>
 
 ## Isolating drums from a mastered track

@@ -42,12 +42,12 @@ I love both **historical speeches and restoring audio**. A famous eulogy given b
 
 <div class="alert alert-warning px-4 py-4 my-5">
   <h3 class="text-uppercase text-center mt-0">Historical speech: before</h3>
-  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695948953%3Fsecret_token%3Ds-MSqq5&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+  {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695948953%3Fsecret_token%3Ds-MSqq5&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
 </div>
 
 <div class="alert alert-warning px-4 py-4 my-5">
   <h3 class="text-uppercase text-center mt-0">Historical speech: after</h3>
-  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695948973%3Fsecret_token%3Ds-zaojZ&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+  {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695948973%3Fsecret_token%3Ds-zaojZ&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
 </div>
 
 ## Reviews

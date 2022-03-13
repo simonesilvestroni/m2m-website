@@ -94,7 +94,7 @@ Working closely with the audio programmer, I **implemented an adaptive soundtrac
 <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 mt-4 mb-5">
   <div class="col">
     <div class="card text-dark bg-light">
-      <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671219%3Fsecret_token%3Ds-NZEFQ&color=%23b0b0b0&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+      {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671219%3Fsecret_token%3Ds-NZEFQ&color=%23b0b0b0&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
       <div class="card-body">
         <h5 class="card-title mt-0">Industrial City</h5>
         <p class="card-text fs-6">Divided in two distinct sections, it reflected the completely different situations happening during a day/night cycle.</p>
@@ -103,7 +103,7 @@ Working closely with the audio programmer, I **implemented an adaptive soundtrac
   </div>
   <div class="col">
     <div class="card text-dark bg-light">
-      <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671240%3Fsecret_token%3Ds-Z0Awt&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+      {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671240%3Fsecret_token%3Ds-Z0Awt&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
       <div class="card-body">
         <h5 class="card-title mt-0">Farm</h5>
         <p class="card-text fs-6">One of six atmospheric pieces triggered by remote parts of a specific game level. The wind was created with the Korg Trinity.</p>
@@ -112,7 +112,7 @@ Working closely with the audio programmer, I **implemented an adaptive soundtrac
   </div>
   <div class="col">
     <div class="card text-dark bg-light">
-      <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671210%3Fsecret_token%3Ds-szxDn&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+      {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671210%3Fsecret_token%3Ds-szxDn&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
       <div class="card-body">
         <h5 class="card-title mt-0">Racing part 1</h5>
         <p class="card-text fs-6">I had fun with the bass! As this level had a fixed time, the duration reflects how long was needed to complete the mission.</p>
@@ -121,7 +121,7 @@ Working closely with the audio programmer, I **implemented an adaptive soundtrac
   </div>
   <div class="col">
     <div class="card text-dark bg-light">
-      <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671156%3Fsecret_token%3Ds-MN1dE&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+      {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671156%3Fsecret_token%3Ds-MN1dE&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
       <div class="card-body">
         <h5 class="card-title mt-0">TexMex</h5>
         <p class="card-text fs-6">Originally written by my colleague Giuseppe Bianchi, it was set in a Mexican-like environment that was axed early on.</p>
@@ -130,7 +130,7 @@ Working closely with the audio programmer, I **implemented an adaptive soundtrac
   </div>
   <div class="col">
     <div class="card text-dark bg-light">
-      <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671060%3Fsecret_token%3Ds-vGqvZ&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+      {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671060%3Fsecret_token%3Ds-vGqvZ&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
       <div class="card-body">
         <h5 class="card-title mt-0">Tribal Cave</h5>
         <p class="card-text fs-6">More fun bass parts to play with! Made of many interchangeable music layers, I don't know if the level was included in the release.</p>
@@ -139,7 +139,7 @@ Working closely with the audio programmer, I **implemented an adaptive soundtrac
   </div>
   <div class="col">
     <div class="card text-dark bg-light">
-      <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671009%3Fsecret_token%3Ds-mEJW4&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+      {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671009%3Fsecret_token%3Ds-mEJW4&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
       <div class="card-body">
         <h5 class="card-title mt-0">Run For Your Life</h5>
         <p class="card-text fs-6">In a labyrinthine area where the boss, unseen, was approaching the player, the piece served as anticipation of something evil.</p>

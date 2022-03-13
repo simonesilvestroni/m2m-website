@@ -1,3 +1,10 @@
-<div class="iframe-soundcloud{{ include.my | default: " my-5" }}">
+{% comment %}
+  *-------------------------
+  Include with Alfred:
+
+  /soundcloud
+  -------------------------*
+{% endcomment %}
+<div class="iframe-soundcloud{{ include.my | default: " my-0" }}">
   {{ include.iframecode }}
 </div>
