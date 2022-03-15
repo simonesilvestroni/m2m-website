@@ -2,7 +2,7 @@
 layout: uses
 title: 'What I use'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2022-02-22 21:36:09'
+last_modified_at: '2022-03-15 14:50:36'
 description: "All the info and specifics of the equipment I use."
 excerpt: 'Specifics about the equipment I use. I don’t use affiliate links, so whatever the product, find it at your preferred retailer.'
 permalink: '/uses/'
@@ -139,17 +139,17 @@ Same as with Digital Audio Workstations, I’ve been back and forth trying plent
 
 I only use the **Terminal** application that comes with the system I’m using: Apple’s integrated Terminal, currently customized with [Starship](https://starship.rs/), Microsoft’s Windows Terminal and whatever console I find on Linux.
 
-On both editor and terminal, I use the font [JetBrainsMono](https://www.jetbrains.com/lp/mono/).
+On both editor and terminal, I use the font [Source Code Pro](https://github.com/adobe-fonts/source-code-pro).
 
 ### Internet and communication
 
-**Firefox** is my current main browser on all devices. **uBlock Origin** is my go-to extension. A clean copy of [Brave](https://brave.com/) is used for website testing and debug.
+**Firefox** is my daily browser. Extensions: **uBlock Origin**, Bitwarden, Decentraleyes, MarkDownload, OneTab, Reader View. A clean copy of [Brave](https://brave.com/) and Safari are used for website testing and debug.
 
-My email client is [Protonmail](https://protonmail.com/), accessed through Firefox. On Android, I have their app. I periodically perform a full download of my emails through their custom export tool, for backup purposes.
+My email client is [Protonmail](https://protonmail.com/). I periodically perform a full download of my emails through their custom export tool, for backup purposes.
 
 ### Image manipulation
 
-**Sketch** v59, **Pixelmator**, **Graphic Converter** on macOS; **Lunacy** and **Figma** on Windows.
+**Figma** on all platforms; *Sketch** v59, **Pixelmator** and **Graphic Converter** on macOS.
 
 ### Office and Desktop publishing
 
