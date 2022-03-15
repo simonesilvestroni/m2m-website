@@ -1,22 +1,49 @@
-{%- comment %}
-Render your responsive images using <img srcset>, with the largest resized image used as a fallback.
-Usage:
-  {% responsive_image path: '/assets/images/imagename.jpg' %}
-or, for featured images:
+{% comment %}
+  *-------------------------------------------------
+  Render your responsive images using <img srcset>,
+  with the largest resized image used as a fallback.
+
+  Front Matter variables
+  *-------------------------------------------------
+  featimage: true
+  featimage-alt: "000"
+  featimage-class: 'u-featured'
+  featimage-name: '000'
+  image-caption: true
+  featimage-caption-desc: '000'
+  margin-nil: 0 // OPTIONAL if I need no top margin
+
+  Usage
+  *-------------------------------------------------
+  {% responsive_image 
+    path: '/assets/images/000.000' 
+    alt: 000
+  %}
+
+  Or
+  *-------------------------------------------------
   {% responsive_image_block %}
-    path: assets/images/{{ page.title | slugify | append: '.jpg' }}
-    alt: {{ page.title }}
+    path: assets/images/000.000
+    alt: 000
+    caption-true: {{ page.image-caption }}
+    caption: 000
   {% endresponsive_image_block %}
-{% endcomment -%}
+
+  Embed with Alfred:
+  *-------------------------------------------------
+  /featfrontmatter
+  /respimage
+  /respfeatimage
+  -------------------------------------------------*
+{% endcomment %}
 {%- assign largest = resized | sort: 'width' | last -%}
 {%- capture srcset -%}
 {%- for i in resized -%}
   /{{ i.path }} {{ i.width }}w,
 {%- endfor -%}
 {%- endcapture -%}
-{% assign captionLabel = post.featimage-caption %}
 <figure class="{% if margin-nil %}my-{{ margin-nil }} {% else %}my-5 {% endif %}text-center">
-  <img class="{% if class %}{{ class }} {% endif %}mx-auto" loading="auto" src="/{{ largest.path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }} /{{ path }} {{ original.width }}w">
+  <img loading="auto" class="{% if class %}{{ class }} {% endif %}mx-auto" src="/{{ largest.path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }} /{{ path }} {{ original.width }}w">
   {% if caption-true %}
   <figcaption class="mt-3 caption">{{ caption }}</figcaption>
   {% endif %}
