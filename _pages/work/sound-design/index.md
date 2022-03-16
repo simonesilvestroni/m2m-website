@@ -7,17 +7,17 @@ description: "My work as a producer, game audio specialist and audio editor."
 excerpt: "<strong>Sculpting sound</strong> has always been a massive creative push. Whether creating the foundation with the bass, realizing an artist’s vision by producing and mixing, recording in the field for game audio and up to editing and restoration, sound design is a constant source of excitement."
 permalink: '/work/sound-design/'
 ---
-<h2>Main skills</h2>
+## Main skills
 
-<p>Besides being a professional bassist, I'm an expert in music production, especially mixing. After decades with <strong>Logic Pro</strong> and <strong>Sound Forge</strong>, the tools I'm currently digging the most are <a href="http://reaper.fm/">REAPER</a> and <a href="https://www.izotope.com/en/products/rx.html">iZotope RX</a>. After deciding to go back to game audio, I'm deeply involved in learning Audiokinetic's <a href="https://www.audiokinetic.com/products/wwise/">Wwise</a>.</p>
+Besides being a professional <kbd>bassist</kbd>, I'm an expert in music <kbd>production</kbd>, especially <kbd>mixing</kbd> and <kbd>mastering</kbd>. After a long experience with <kbd>Logic Pro</kbd>, <kbd>Pro Tools</kbd> and <kbd>Sound Forge</kbd>, the tools I'm currently digging the most are <kbd>REAPER</kbd> and <kbd>iZotope RX</kbd>. 
 
-<p class="detached">👇 For more details, check out the case studies.</p>
+{: .detached}
+After deciding to go back to <kbd>game audio</kbd>, I'm deeply involved in learning Audiokinetic's <kbd>Wwise</kbd> and <kbd>FMOD</kbd>.
 
+<section class="m2m-entry my-5 pb-1">
 {%- assign production = site.sounddesign | where: "type", "production" | reverse -%}
 {%- assign gameaudio = site.sounddesign | where: "type", "game audio" | reverse -%}
 {%- assign audioediting = site.sounddesign | where: "type", "audio editing" | reverse -%}
-
-<section class="m2m-entry my-5 pb-1">
   <div class="h-feed">
   <h2 class="p-name h1 fs-1 text-center text-uppercase m2m-text-rotate mt-5">Bass & Production: case studies</h2>
     <div class="card-group mt-5">
@@ -62,7 +62,9 @@ permalink: '/work/sound-design/'
     </div>  
   </div>
 </section>
-<h2>Certifications, courses and memberships</h2>
+
+## Certifications, courses and memberships
+
 <ul class="list-group list-group-flush ps-0">
   {%- for cert in site.certifications.sound %}
   <li class="list-group-item my-0 ps-0 pb-3">
@@ -70,10 +72,13 @@ permalink: '/work/sound-design/'
   </li>
   {% endfor -%}
 </ul>
-<h2>Publications</h2>
+
+## Publications
+
 <ul class="list-group list-group-flush ps-0">
   <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">📒</span> <em>Efficient Productivity for Music Professionals</em> (2020). Download the <a href="/work/project-management/">free ebook</a>.</li>
   <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">📒</span> <em>A Trip to Freedom, from Berlin to Berlin</em>, published by <a href="https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e">Lessons from History</a>, 2019.</li>
   <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">📒</span> <em>Producing bass tracks remotely</em>, published by <a href="https://unlockyoursound.com/producing-bass-tracks-remotely/">Unlock Your Sound</a>.</li>
 </ul>
+
 {% include pattern-button.html link="/contact/" center=true text="Hire me" %}

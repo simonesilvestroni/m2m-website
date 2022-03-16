@@ -123,12 +123,10 @@ h4 {
   text-decoration: none !important;
 }
 .nav-small {
-
   li {
     display: inline-block;
     margin: 2px 1px;
   }
-
   .nav-link {
     font-size: 0.85rem;
     color: black;
@@ -139,15 +137,12 @@ h4 {
 }
 .nav-secondary {
   font-size: 1rem;
-  
   a {
     display: inline-block;
     padding: 2px 6px;
   }
-
   @include media-breakpoint-up(md) {
     font-size: 1.2rem;
-
     a {
       padding: 0;
       margin-right: 8px;
@@ -214,6 +209,10 @@ pre {
     background-color: transparent;
     color: $black;
   }
+}
+
+kbd {
+  font-weight: bold;
 }
 
 // Font micro size

@@ -7,6 +7,7 @@ type: "web development"
 skillset: 
  - wordpress
  - php
+ - mysql
  - sass
  - ssh
  - capistrano
