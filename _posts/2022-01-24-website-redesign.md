@@ -41,7 +41,7 @@ These decisions are a consequence of me [leaving social media](http://localhost:
 
 ### Sustainability and performance
 
-The fight against a bloated web is a crusade I've been part of for a long time. See [this digest from Silvia](https://silviamaggidesign.com/design-digested/biased-ai/#webwaste) about the book _Webwaste_. A weight comparison between my previous and current website shows a reduction of <kbd>89.44%</kbd>.
+The fight against a bloated web is a crusade I've been part of for a long time. See [this digest from Silvia](https://silviamaggidesign.com/design-digested/biased-ai/#webwaste) about the book _Webwaste_. A weight comparison between my previous and current website shows a reduction of <kbd>94.6%</kbd>.
 
 <div class="table-responsive my-5">
   <table class="table">
@@ -54,7 +54,7 @@ The fight against a bloated web is a crusade I've been part of for a long time. 
     <tbody>
       <tr>
         <td class="text-center fs-4"><code>673.5 MB</code> (files)<br>+<br><code>67.2 MB</code> (database)</td>
-        <td class="text-center fs-4"><code>70.1 MB</code> (full deployment)</td>
+        <td class="text-center fs-4"><code>40.4 MB</code> (full deployment)</td>
       </tr>
     </tbody>
   </table>
