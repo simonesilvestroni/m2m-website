@@ -75,27 +75,27 @@ I sometimes run Pro Tools for compatibility, while I still use Logic and **Reaso
 
 ### Audio editor
 
-My first editor was *CoolEdit Pro*, which was bought by Adobe and became **Audition**. I then used **SoundForge** and Steinberg **Wavelab**. In 2017 I landed on **iZotope RX** and never looked back. I also own and have experience using **DSP-Quattro** and **Triumph**, which I use to finalize mastering tasks.
+My first editor was *CoolEdit Pro*, which was bought by Adobe and became **Audition**. I then used **SoundForge** and Steinberg **Wavelab**. In 2017 I landed on **iZotope RX** and never looked back. I also own and have experience using **Triumph**, which I use to finalize mastering tasks such as DDP authoring.
 
 ### Audio software instruments
 
 My staples are:
 
 - Addictive Keys and Addictive Drums by **XLN**
-- Hollywood Strings Gold by **EastWest**
-- Alchemy, Sculpture and EXS24 by **Apple**
-- XPand! 2 by **Air**
-- Vital and Helm by **Matt Tytel**
+- Decent Sampler running the [Pianobook library](https://www.pianobook.co.uk/)
 - LABS by **Spitfire**
-- Sitala
+- Flow Motion FM Synth by **Waves**
+- Vital by **Matt Tytel**
+- Sitala by **Decomposer**
+- XPand! 2 by **Air**
+- Hollywood Strings Gold by **EastWest**
 - ReaSamplomatic 5000 by **Cockos**
 
 Other software synths, in no particular order:
 
-- Decent Sampler running the [Pianobook library](https://www.pianobook.co.uk/){:target="_blank" rel="noopener"}
+- Alchemy, Sculpture and EXS24 by Apple
 - Reason 8 synths
 - Iris 2 by iZotope
-- AAS Ultra Analog Session + Lounge Lizard
 - UVI Workstation with Digital Synsation library
 - Novation Bass Station
 - Podolski and Tyrell by U-he
