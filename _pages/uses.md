@@ -2,7 +2,7 @@
 layout: uses
 title: 'What I use'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2022-03-15 14:50:36'
+last_modified_at: '2022-03-17 22:46:49'
 description: "All the info and specifics of the equipment I use."
 excerpt: 'Specifics about the equipment I use. I don’t use affiliate links, so whatever the product, find it at your preferred retailer.'
 permalink: '/uses/'
@@ -61,7 +61,7 @@ Since I ditched the iPhone, a 3-year-old **Redmi Note 7 Pro** by Xiaomi is all I
 
 As a **system-agnostic**, I either work with macOS, Windows or Linux, depending on the task. I’m interested in experimentation but [opposed to updates for the sake of it](#update-policy), therefore I use what I think it’s the best for me. Right now it’s:
 
-- **macOS** Big Sur 11.6.4
+- **macOS** Big Sur 11.6.5
 - **Windows** 10
 - **Pop_OS** (by System76)
 
@@ -135,21 +135,21 @@ I employ several utilities, such as the excellent time-saver [Stereo Monoizer](h
 
 ### Text editors and terminal
 
-Same as with Digital Audio Workstations, I’ve been back and forth trying plenty of text editors on multiple operating systems. I recently went back to the cross-platform **Sublime Text**, upgrading my old license to v4, because of the reasons so well [explained by Nikita](https://tonsky.me/blog/sublime/). For pure markdown editing, I prefer **iA Writer**.
+Same as with Digital Audio Workstations, I’ve been back and forth trying plenty of text editors on multiple operating systems. I recently went back to the cross-platform **Sublime Text**, upgrading my old license to v4, because of the reasons so well [explained by Nikita](https://tonsky.me/blog/sublime/). For pure markdown editing, I prefer **iA Writer**. I use the font from iA Writer in Sublime as well.
 
 I only use the **Terminal** application that comes with the system I’m using: Apple’s integrated Terminal, currently customized with [Starship](https://starship.rs/), Microsoft’s Windows Terminal and whatever console I find on Linux.
 
-On both editor and terminal, I use the font [Source Code Pro](https://github.com/adobe-fonts/source-code-pro).
+On terminal I use the nerd font version of Source Code Pro.
 
 ### Internet and communication
 
 **Firefox** is my daily browser. Extensions: **uBlock Origin**, Bitwarden, Decentraleyes, MarkDownload, OneTab, Reader View. A clean copy of [Brave](https://brave.com/) and Safari are used for website testing and debug.
 
-My email client is [Protonmail](https://protonmail.com/). I periodically perform a full download of my emails through their custom export tool, for backup purposes.
+My email provider is [Protonmail](https://protonmail.com/). I periodically perform a full download of my emails through their custom export tool, for backup purposes.
 
 ### Image manipulation
 
-**Figma** on all platforms; *Sketch** v59, **Pixelmator** and **Graphic Converter** on macOS.
+**Figma** on all platforms; **Sketch** v59, **Pixelmator** and **Graphic Converter** on macOS.
 
 ### Office and Desktop publishing
 
