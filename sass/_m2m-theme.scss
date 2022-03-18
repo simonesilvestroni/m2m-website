@@ -19,7 +19,6 @@ html {
 body {
   background: transparent url(/assets/images/watercolor.png) no-repeat top right;
   background-attachment: fixed;
-
   // @media (prefers-color-scheme: dark) {
   //   background: $body-bg-dark url(/assets/images/watercolor-dark.png) no-repeat top right;
   // }
@@ -30,6 +29,12 @@ body {
 // $LAYOUT
 // ------------------------------------------------ //
 
+.m2m-container {
+  @include media-breakpoint-up(md) {
+    @include make-container($spacer);
+    max-width: 960px;
+  }
+}
 .m2m-site-header {
   background-color: rgba(black, 0.55);
 
@@ -40,26 +45,12 @@ body {
 .m2m-site-header-tail {
   background-color: rgba(black, 0.1);
 }
-
-#m2m-footer {
-  background-color: $background-l-70;
-
-  .m2m-current {
-    color: white !important;
-  }
-
-  @include media-breakpoint-up(md) {
-    background-color: transparent;
-    color: $background-l-50;
-
-    .m2m-link {
-      color: $background-l-50 !important;
-
-      &:hover {
-        color: white !important;
-      }
-    }
-  }
+header {
+  background: transparent url(/assets/images/dirt.png) repeat center center;
+}
+footer {
+  background: $background-l-70 url(/assets/images/denim.png) no-repeat bottom left;
+  background-attachment: fixed;
 }
 
 
@@ -67,12 +58,8 @@ body {
 // $SPACING
 // ------------------------------------------------ //
 
-// .ms-n5 {
-//   margin-left: rfs-fluid-value(-120px);
-// }
 .w-16 {
   width: 32%;
-
   @include media-breakpoint-up(md) {
     width: 16%;
   }
@@ -100,39 +87,26 @@ h4 {
 // $NAVIGATION
 // ------------------------------------------------ //
 
-#navigation-main {
-  color: white;
-
-  a {
-    color: $link-l-90;
-    text-decoration-line: underline;
-    text-decoration-thickness: 4px;
-    text-decoration-color: rgba($link-decoration, 0.5) !important;
-
-    &:hover {
-      @extend .m2m-transition-bg-01s;
-      color: white !important;
-      background-color: rgba($link-d-80, 0.8);
-      text-decoration-color: rgba($link-d-80, 0.8) !important;
-    }
-  }
-}
-.m2m-current {
-  background-color: $background-d-80 !important;
-  color: $link-l-90 !important;
-  text-decoration: none !important;
-}
-.nav-small {
+.nav-main {
   li {
     display: inline-block;
     margin: 2px 1px;
+    background-color: rgba($background-l-60, .4);
   }
   .nav-link {
     font-size: 0.85rem;
     color: black;
     border: 2px solid rgba($background-d-40, .5);
     border-bottom-width: 4px;
-    border-radius: 4px;
+    border-radius: 6px;
+    &:hover {
+      opacity: .6;
+    }
+    @include media-breakpoint-up(md) {
+      font-size: 1.2rem;
+      border: 1px solid rgba($heading-l-50, .5);
+      border-bottom-width: 3px;
+    }
   }
 }
 .nav-secondary {
@@ -144,7 +118,6 @@ h4 {
   @include media-breakpoint-up(md) {
     font-size: 1.2rem;
     a {
-      padding: 0;
       margin-right: 8px;
       &::last-child {
         margin-right: 0;
@@ -152,7 +125,17 @@ h4 {
     }
   }
 }
-
+.m2m-current {
+  background-color: $background-d-80 !important;
+  color: $link-l-90 !important;
+  text-decoration: none !important;
+  footer & {
+    color: white !important;
+    &:hover {
+      color: white !important;
+    }
+  }
+}
 .m2m-right-arrow::after {
   display: inline-block;
   content: '\203a';
@@ -162,6 +145,15 @@ h4 {
   display: inline-block;
   content: '\2039';
   padding-right: 2px;
+}
+
+// Table of contents
+// ------------------------------------------------ *
+.inline_toc {
+  @extend .my-0;
+  li {
+    line-height: 2 !important;
+  }
 }
 
 
@@ -214,6 +206,10 @@ pre {
 
 kbd {
   font-weight: bold;
+  footer & {
+    background-color: $background-d-70 !important;
+    color: $white !important;
+  }
 }
 
 // Font micro size
@@ -454,31 +450,6 @@ cite {
 
 
 // ------------------------------------------------ \\
-// $PORTFOLIO
-// ------------------------------------------------ //
-.container-portfolio {
-  @include media-breakpoint-up(md) {
-    @include make-container();
-    width: 800px;
-  }
-}
-.m2m-portfolio-quote {
-  width: rfs-fluid-value(350px) !important;
-}
-.layout-portfolio-content {
-  h2 { @extend .display-5; }
-  h3 { @extend .fs-3; }
-}
-.inline_toc {
-  @extend .my-0;
-
-  li {
-    line-height: 2 !important;
-  }
-}
-
-
-// ------------------------------------------------ \\
 // $CARDS
 // ------------------------------------------------ //
 
@@ -540,6 +511,10 @@ figcaption  {
 .comp-logos { 
   width: 130px; 
   height: auto;
+}
+.casestudy-feat {
+  border: 3px solid $light;
+  border-radius: $spacer;
 }
 
 // Horizontal line spacer
@@ -857,7 +832,4 @@ mark {
   .vm { color: #008080; }
   .w { color: #bbbbbb; }
 }
-// .highlight , .highlight  {
-//   color: #d14;
-// }
 /* purgecss end ignore */

@@ -17,10 +17,13 @@ layout: default
   <div class="e-content">
     {%- if page.url contains '/work/web-design/' %}
     {%- if page.featimage == true %}
+    <div class="py-1">
       {% responsive_image_block %}
         path: assets/images/{{ page.title | slugify | append: '.jpg' }}
+        class: casestudy-feat
         alt: {{ page.title }}
-      {% endresponsive_image_block %}
+      {% endresponsive_image_block %}      
+    </div>
     {% endif -%}
     {% endif -%}
     {%- if page.performance == true %}

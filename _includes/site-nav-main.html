@@ -1,10 +1,10 @@
-<div id="navigation-main">
-  <ul class="nav flex-column mb-0" aria-label="Navigation">
+{%- comment -%}
+  *-------------------------
+  Main navigation
+  -------------------------*
+{%- endcomment -%}
+<ul class="nav nav-main justify-content-center mt-4 py-3" aria-label="Navigation">
   {% for item in site.data.nav-site -%}
-    <li class="nav-item mb-4">
-      <a class="fs-4 text-uppercase m2m-letter-spacing-w1 fw-bold{% if page.url contains item.link %} m2m-current{% endif %}" href="{{ item.link }}"><strong>{{ item.name }}</strong></a>
-      <span class="fs-5 pt-2 lh-sm d-block">{{ item.desc }}</span>
-    </li>
+  <li class="nav-item mx-1 mx-md-2"><a class="nav-link text-uppercase fw-bold m2m-transition-opacity-03s px-1 px-md-4 py-2{% if page.url contains item.link %} m2m-current{% endif %}" href="{{ item.link }}" title="{{ item.desc }}"><strong>{{ item.name }}</strong></a></li>
   {% endfor -%}
-  </ul>
-</div>
+</ul>
