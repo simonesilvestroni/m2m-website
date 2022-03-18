@@ -28,9 +28,8 @@ Migrating from WordPress to a static site generator has been a blessing to me. I
 
 ## To do
 
-Still a lot to improve:
-
-- DRY isn't that good.
-- Implement a dark mode switch.
-- Polish the SASS theme removing specificity.
-- Quit with the git crazy commits.
+- [ ] Implement a dark mode switch.
+- [ ] Polish the SASS theme, remove specificity.
+- [ ] Improve DRY.
+- [ ] Eradicate Mailchimp, switch to Freelist or something else.
+- [ ] Quit with the crazy git commits.
