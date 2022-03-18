@@ -1,9 +1,9 @@
 - name: About
   link: /about/
-  desc: Left the UK in 2020, I&rsquo;m currently freelancing in Milan.
+  desc: 'Left the UK in 2020, I’m currently freelancing in Milan.'
 - name: Work
   link: /work/
-  desc: 'Case studies: sound &amp; web design, original music.'
+  desc: 'Case studies: sound & web design, original music.'
 - name: Blog
   link: /blog/
   desc: Articles, interviews, press releases.
