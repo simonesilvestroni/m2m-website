@@ -43,7 +43,7 @@
 {%- endfor -%}
 {%- endcapture -%}
 <figure class="{% if margin-nil %}my-{{ margin-nil }} {% else %}my-5 {% endif %}text-center">
-  <img loading="auto" class="{% if class %}{{ class }} {% endif %}mx-auto" src="/{{ largest.path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }} /{{ path }} {{ original.width }}w">
+  <img loading="auto" class="{% if class %}{{ class }} {% endif %}mx-auto" srcset="{{ srcset | strip_newlines }} /{{ path }} {{ original.width }}w" src="/{{ largest.path }}" alt="{{ alt }}">
   {% if caption-true %}
   <figcaption class="mt-3 caption">{{ caption }}</figcaption>
   {% endif %}
