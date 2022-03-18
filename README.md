@@ -31,4 +31,5 @@ Migrating from WordPress to a static site generator has been a blessing to me. I
 Still a lot to improve:
 
 - DRY isn't that good.
+- Implement a dark mode switch.
 - Quit with the git crazy commits.
