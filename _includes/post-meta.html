@@ -8,7 +8,7 @@
     <tbody>
       {%- unless page.url contains '/work/' -%}
       <tr class="post-taxonomy">
-        <th width="50">
+        <th>
           <span class="text-uppercase">Topic</span>
         </th>
         <td>
@@ -21,7 +21,7 @@
       {%- if page.url contains '/work/' %}
       {%- unless page.type == false %}
       <tr>
-        <th width="50">
+        <th>
           <span class="me-1">Type</span>
         </th>
         <td>
@@ -31,7 +31,7 @@
       {%- endunless %}
       {%- unless page.skills == false %}
       <tr>
-        <th width="50">
+        <th>
           <span class="me-1">Skills</span>
         </th>
         <td>
