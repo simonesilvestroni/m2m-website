@@ -6,6 +6,16 @@ Hi! Simone here. A digital polymath, I’ve been working as a sound and web desi
 - 👨🏻‍💻 problem-solving
 - ⏱ on-time delivery
 
+---
+
+## Case study about this website
+
+Migrating from WordPress to a static site generator has been a blessing to me. In this case study, I explain why my current website, built on Jekyll and hosted on Netlify, eclipses the previous one on IA, performance, sustainability and maintenance.
+
+[Check it out](https://minutestomidnight.co.uk/work/web-design/minutes-to-midnight/)
+
+---
+
 ## Info
 
 - Work as a [sound designer](https://minutestomidnight.co.uk/work/sound-design/)
@@ -13,12 +23,6 @@ Hi! Simone here. A digital polymath, I’ve been working as a sound and web desi
 - My [original music](https://minutestomidnight.co.uk/work/original-music-productions/)
 - A comprehensive list of my [equipment](https://minutestomidnight.co.uk/uses/).
 - 27 LinkedIn [endorsements](https://www.linkedin.com/in/minutes2mid/#recommendations).
-
-## Case study about this website
-
-Migrating from WordPress to a static site generator has been a blessing to me. In this case study, I explain why my current website, built on Jekyll and hosted on Netlify, eclipses the previous one on IA, performance, sustainability and maintenance.
-
-[Check it out](https://minutestomidnight.co.uk/work/web-design/minutes-to-midnight/)
 
 ---
 
