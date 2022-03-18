@@ -35,7 +35,7 @@ The expression _Minutes to midnight_ is a reference to the [Doomsday Clock](http
 
 ## Website
 
-All the details about this website are in the post [Website redesign](/blog/website-redesign/) and the [Colophon](/colophon/).
+All the details about this website are in the [case study](/work/web-design/minutes-to-midnight/) and the [Colophon](/colophon/).
 
 ## Press photos
 

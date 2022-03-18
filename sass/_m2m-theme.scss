@@ -52,6 +52,12 @@ footer {
   background: $background-l-70 url(/assets/images/denim.png) no-repeat bottom left;
   background-attachment: fixed;
 }
+.footer-wave {
+  svg {
+    width: 100%;
+    height: 50px;
+  }
+}
 
 
 // ------------------------------------------------ \\
