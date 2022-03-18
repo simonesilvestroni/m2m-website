@@ -1,4 +1,4 @@
-# Minutes to Midnight website
+# Minutes to Midnight's website
 
 Hi! Simone here. A digital polymath, I’ve been working as a sound and web designer for more than 25 years. As a team player or independent, I bring:
 
