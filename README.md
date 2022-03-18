@@ -32,4 +32,5 @@ Still a lot to improve:
 
 - DRY isn't that good.
 - Implement a dark mode switch.
+- Polish the SASS theme removing specificity.
 - Quit with the git crazy commits.
