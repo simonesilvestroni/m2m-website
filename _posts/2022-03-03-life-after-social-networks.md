@@ -46,7 +46,7 @@ I now talk to them asynchronously and it feels genuine, real. We have stuff to d
 
 ## What if?
 
-On the other hand, I can’t understand how people can actually enjoy having their time, attention and focus snatched by **young-white-male-dominated** mega corporations. Especially knowing how they make their money through selling personal data, reprogramming the social behavior of millions while altering entire democracies in the making.
+On the other hand, I can’t understand how people can actually enjoy having their time, attention and focus snatched by **young-white-male-dominated** mega corporations. Especially knowing how they make their money through selling personal data, reprogramming the social behavior of millions while [altering entire democracies](https://en.wikipedia.org/wiki/The_Great_Hack) in the making.
 
 Going back to Steve’s article, I keep asking: **what if these soulless machines stopped working**? We all remember the fast demise of MySpace; what would happen to that *audience amplifier*? How would people manage to keep going on as musicians who want to make a living and stay independent? I too remember that tiny window around 2007/2008 where the *web 2.0* seemed such a wonderful promise, only to be snatched and centralized by these awful behemoths that Facebook, Twitter and Google became.
 
