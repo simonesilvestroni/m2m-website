@@ -17,6 +17,8 @@ Developed from scratch using:
 - [Bootstrap 5.1](https://getbootstrap.com/)
 - [PostCSS](https://postcss.org/)
 - Vanilla javascript for DOM manipulation and the [search module](https://github.com/daviddarnes/jekyll-search-js)
+- Webmentions javascript by [Fluffy](http://beesbuzz.biz)
+- Table of contents Liquid code by [Vladimir "allejo" Jimenez](https://github.com/allejo/jekyll-toc)
 - [Node](https://nodejs.org/) for building purposes
 - [GitHub](https://github.com/)
 - Deployment: [![Netlify Status](https://api.netlify.com/api/v1/badges/d2941475-cc56-4e5c-98c9-e16845e6cbea/deploy-status)](https://app.netlify.com/sites/minutestomidnight/deploys)
