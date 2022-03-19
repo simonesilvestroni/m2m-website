@@ -21,7 +21,7 @@ I only send one when I actually have updates to share, mostly about releases or 
 
 ## Follow updates
 
-Notifications about new [articles](/blog/) or [notes](/notes/) are available through:
+Notifications about new [articles](/blog/) or [notes](/blog/notes/) are available through:
 
 - [Blog RSS feed](/feed.xml)
 - [Notes RSS feed](/notes.xml)

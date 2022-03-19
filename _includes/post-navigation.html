@@ -3,24 +3,20 @@
     <div class="w-50 border-end pe-2 text-end">
       {%- if page.previous.url %}{% unless page.previous.hidden -%}
       <a class="d-block text-decoration-none fs-5 m2m-transition-color-03s fw-bold" href="{{ page.previous.url }}">
-        <div><span class="btn-label-lg-m2m btn-label-m2m-bg d-inline-block rounded fw-bold mb-2 px-2 py-1">← <strong>PREV</strong></span></div>
-        {%- if page.url contains '/notes/' -%}
-          <span class="m2m-serif">{{ page.previous.date | date: "%-d %B %Y" }}</span>
-        {%- else -%}
-          <span class="m2m-serif">{{ page.previous.title }}</span>
-        {%- endif -%}
+        <div>
+          <span class="btn-label-lg-m2m btn-label-m2m-bg d-inline-block rounded fw-bold mb-2 px-2 py-1">← <strong>PREV</strong></span>
+        </div>
+        <span class="m2m-serif">{{ page.previous.title }}</span>
       </a>
       {% endunless %}{% endif %}
     </div>
     <div class="w-50 border-start ps-2">
       {%- if page.next.url %}{% unless page.next.hidden -%}
       <a class="d-block text-decoration-none fs-5 m2m-transition-color-03s fw-bold" href="{{ page.next.url }}">
-        <div><span class="btn-label-lg-m2m btn-label-m2m-bg d-inline-block rounded fw-bold mb-2 px-2 py-1"><strong>NEXT</strong> →</span></div>
-        {%- if page.url contains '/notes/' -%}
-          <span class="m2m-serif">{{ page.next.date | date: "%-d %B %Y" }}</span>
-        {%- else -%}
-          <span class="m2m-serif">{{ page.next.title }}</span>
-        {%- endif -%}
+        <div>
+          <span class="btn-label-lg-m2m btn-label-m2m-bg d-inline-block rounded fw-bold mb-2 px-2 py-1"><strong>NEXT</strong> →</span>
+        </div>
+        <span class="m2m-serif">{{ page.next.title }}</span>
       </a>
       {% endunless %}{% endif %}
     </div>

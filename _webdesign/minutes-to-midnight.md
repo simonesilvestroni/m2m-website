@@ -324,10 +324,6 @@ The page title is rendered based on a few checks, so that it's always well struc
 ```liquid
 {% raw %}{%- if page.url == "/" -%}
 {{ site.title | append: ' – ' }}{{ site.tagline }}
-{%- elsif page.url == "/notes/" -%}
-{{ page.title | append: ' – ' }}{{ site.title }}
-{%- elsif page.url contains 'notes' -%}
-{{ page.date | date: "%-d %B %Y" }}: {{ page.tags[0] | capitalize }}{{ site.title | prepend: ' – ' }}
 {%- elsif page.type == 'category' or page.type == 'tag' -%}
 {{ page.type | capitalize }}: {{ page.title | capitalize | append: ' – ' }}{{ site.title }}
 {%- else -%}
