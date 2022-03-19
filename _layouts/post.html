@@ -9,8 +9,8 @@ layout: default
 <article class="m2m-entry my-5">
   <div class="h-entry">
     {%- for category in categories -%}
-    <div class="p-category text-center pt-3">
-      <kbd class="fs-5">Category: <a class="text-uppercase fw-bold" href="/category/{{ category | slugify | append: '/' }}">{{ category | upcase | replace:"-"," " }}</a></kbd>
+    <div class="text-center pt-3">
+      <kbd class="fs-5">Category: <a class="text-uppercase fw-bold" href="/category/{{ category | slugify | append: '/' }}"><span class="p-category">{{ category | upcase | replace:"-"," " }}</span></a></kbd>
     </div>
     {%- endfor -%}
     <h1 class="text-center display-1 m2m-text-rotate mt-5">{{ page.title }}</h1>
@@ -27,7 +27,7 @@ layout: default
       {% unless page.type == 'note' %}
       <div class="pb-4">
         <h3 class="text-uppercase">Tags</h3>
-        {%- for tag in page.tags -%}<kbd class="p-category d-inline-block mx-2 my-2"><a class="p-category fs-6" href="/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase | prepend: '<span class="initialism">#</span>' }}</a></kbd>{%- endfor -%}  
+        {%- for tag in page.tags -%}<kbd class="d-inline-block mx-2 my-2"><a class="p-category fs-6" href="/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase | prepend: '<span class="initialism">#</span>' }}</a></kbd>{%- endfor -%}  
       </div>
       {% endunless %}
       <span class="visually-hidden">{%- include hcard-post.html -%}</span>
