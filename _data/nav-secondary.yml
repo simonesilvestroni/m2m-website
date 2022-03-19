@@ -1,10 +1,10 @@
 - name: Archive
   link: /archive/
-- name: Colophon
-  link: /colophon/
-- name: Equipment
-  link: /uses/
 - name: Notes
   link: /blog/notes/
+- name: Equipment
+  link: /uses/
+- name: Colophon
+  link: /colophon/
 - name: 'I don’t track'
   link: /privacy-policy/
