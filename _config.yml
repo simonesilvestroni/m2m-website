@@ -4,7 +4,7 @@ baseurl: ""
 
 # Feeds
 feed:
-  posts_limit: 20
+  posts_limit: 30
 
 # SEO
 title: Minutes to Midnight
@@ -18,12 +18,12 @@ keywords:
   music production,
   web design,
   web development,
-  frontend
+  front-end
 timezone: Europe/Rome
 logo: /assets/images/m2m-og-image.jpg
 author:
   name: Simone Silvestroni
-  email: hello@minutestomidnight.co.uk
+  email: contact@minutestomidnight.co.uk
 
 # Brand
 brand:
