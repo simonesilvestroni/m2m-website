@@ -10,7 +10,11 @@ sitemap: false
     {%- for doc in docs %}
       {
         "title": {{ doc.title | jsonify }},
+        {%- if doc.url contains '/web-design/' %}
+        "excerpt": {{ doc.summary | markdownify | strip_html | jsonify }},
+        {% else %}
         "excerpt": {{ doc.excerpt | markdownify | strip_html | jsonify }},
+        {% endif -%}
         "url": {{ site.url | append: doc.url | jsonify }}
       },
     {% endfor -%}

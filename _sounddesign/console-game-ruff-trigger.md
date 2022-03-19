@@ -3,7 +3,8 @@ title: 'Ruff Trigger console game'
 date: '2007-05-12'
 last_modified_at: '2021-12-07 17:00:42'
 year: "2007"
-type: "game audio"
+type: "sound design"
+subtype: "game audio"
 skillset: 
   - "game audio"
   - "project management"
@@ -16,6 +17,7 @@ skillset:
   - "logic pro"
   - "sound forge"
   - "studio building"
+  - "alienbrain"
 description: "I was the audio team leader for the console game 'Ruff Trigger – The Vanocore Conspiracy'. I directed the soundtrack as well as created and edited all the sound effects."
 excerpt: 'I was the <strong>audio team leader</strong> for the console game &lsquo;<em>Ruff Trigger – The Vanocore Conspiracy</em>&rsquo;. I initially directed the soundtrack as well as created the sound effects. The game was published for Playstation2.'
 toc: true

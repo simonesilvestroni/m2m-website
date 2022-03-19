@@ -6,9 +6,14 @@
 // Imported in `m2m.scss`
 // ------------------------------------------------ //
 
-.m2m-serif,
-%m2m-serif { font-family: 'Georgia', serif !important; }
+/* purgecss start ignore */
 
+.m2m-serif,
+%m2m-serif { 
+  font-family: 'Georgia', serif !important;
+}
 .m2m-fw-black {
   font-weight: 900 !important;
 }
+
+/* purgecss end ignore */

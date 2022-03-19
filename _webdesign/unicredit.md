@@ -3,7 +3,8 @@ title: 'UniCredit'
 date: '2016-09-26'
 last_modified_at: '2022-01-12 16:52:06'
 year: "2016"
-type: "web development"
+type: "web design"
+subtype: "design and development"
 skillset: 
  - php
  - sass

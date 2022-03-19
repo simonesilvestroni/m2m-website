@@ -1,19 +1,25 @@
 ---
 layout: default
 ---
-{% include pattern-breadcrumbs.html %}
-<article class="h-entry m2m-entry">
-  <h1 class="p-name text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
-  <div class="post-meta my-4">
-    {%- include post-meta.html %}
+<article class="h-entry m2m-entry my-5">
+  <div class="p-category text-center pt-3">
+    <kbd class="fs-5">Case study: {%- if page.url contains '/work/web-design/' %} <a href="{{ site.url }}/work/web-design/">{%- elsif page.url contains '/work/sound-design/' %} <a href="{{ site.url }}/work/sound-design/">{%- elsif page.url contains '/work/original-music-productions/' %} <a href="{{ site.url }}/work/original-music-productions/">{% endif -%}<strong class="text-uppercase">{{ page.type }}</strong></a></kbd>
+  </div>
+  <h1 class="p-name text-center display-1 lh-sm m2m-text-rotate mt-5">{{ page.title }}</h1>
+  {%- if page.url contains '/work/web-design/' %}
+  <p class="p-summary lead pb-3">{{ page.summary }}</p>
+  {% else %}
+  <p class="p-summary lead pb-3">{{ page.excerpt }}</p>
+  {% endif -%}
+  <div class="post-meta text-center m-auto w-75 my-5">
+    <h3 class="text-uppercase">Skills &amp; tools</h3>
+    <ul class="list-unstyled list-inline">
+      {%- for skill in page.skillset -%}
+      <li class="list-inline-item mx-1 mx-md-2 my-2"><kbd class="p-category text-uppercase fw-bold fs-5">{{ skill }}</kbd></li>
+      {%- endfor -%}
+    </ul>
     <span class="visually-hidden">{% include hcard-post.html %}</span>
   </div>
-  <h2 class="text-center text-uppercase">Summary</h2>
-  {%- if page.url contains '/work/web-design/' %}
-  <p class="p-summary lead">{{ page.summary }}</p>
-  {% else %}
-  <p class="p-summary lead">{{ page.excerpt }}</p>
-  {% endif -%}
   <div class="e-content">
     {%- if page.url contains '/work/web-design/' %}
     {%- if page.featimage == true %}

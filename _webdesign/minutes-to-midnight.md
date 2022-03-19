@@ -4,6 +4,7 @@ date: '2022-02-12'
 last_modified_at: '2022-02-12 12:41:41'
 year: '2022'
 type: 'web design'
+subtype: "design and development"
 skillset:
  - jekyll
  - liquid

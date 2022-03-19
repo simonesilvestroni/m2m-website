@@ -18,6 +18,7 @@ $background:#eaeabe !default;
 $heading: #5b625a !default;
 $link: #d7d7be !default;
 
+// Custom
 $m2m-bg-color-base: $background;
 $m2m-heading-color-base: $heading;
 $m2m-link-color-base: $link;
@@ -71,6 +72,7 @@ $m2m-colors: (
     d-90: shade-color($link, 90%)
   )
 );
+
 // Map for background colors
 $m2m-bg-colors: (
   bg: (

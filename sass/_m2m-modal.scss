@@ -5,6 +5,7 @@
 // ------------------------------------------------ //
 
 /* purgecss start ignore */
+
 .m2m-modal-container {
   position: relative;
   width: 100%;
@@ -40,7 +41,6 @@
   opacity: 0;
   pointer-events: none;
   transform: translateY(20px);
-
   @include media-breakpoint-up(md) {
     font-size: 1.25rem;
     width: 48px;
@@ -100,4 +100,5 @@
   transform: scale(1);
   transition: opacity 250ms 500ms ease, transform 350ms 500ms ease;
 }
+
 /* purgecss end ignore */

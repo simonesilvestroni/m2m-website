@@ -3,7 +3,8 @@ title: 'Responsive gallery carousel in pure HTML and CSS in Jekyll'
 date: '2022-02-23'
 last_modified_at: '2022-03-03 11:12:01'
 year: '2022'
-type: 'web development'
+type: 'web design'
+subtype: "design and development"
 skillset:
  - jekyll
  - liquid

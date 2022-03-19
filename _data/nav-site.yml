@@ -7,9 +7,9 @@
 - name: Blog
   link: /blog/
   desc: Articles, interviews, press releases.
-- name: Notes
-  link: /notes/
-  desc: Short thoughts and status messages.
 - name: Contact
   link: /contact/
   desc: Hire me, get in touch or subscribe to the newsletter.
+- name: 🔎
+  link: /search/
+  desc: Search through posts, pages and archives.

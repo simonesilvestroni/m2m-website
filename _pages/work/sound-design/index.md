@@ -15,9 +15,9 @@ Besides being a professional <kbd>bassist</kbd>, I'm an expert in music <kbd>pro
 After deciding to go back to <kbd>game audio</kbd>, I'm deeply involved in learning Audiokinetic's <kbd>Wwise</kbd> and <kbd>FMOD</kbd>.
 
 <section class="m2m-entry my-5 pb-1">
-{%- assign production = site.sounddesign | where: "type", "production" | reverse -%}
-{%- assign gameaudio = site.sounddesign | where: "type", "game audio" | reverse -%}
-{%- assign audioediting = site.sounddesign | where: "type", "audio editing" | reverse -%}
+{%- assign production = site.sounddesign | where: "subtype", "production" | reverse -%}
+{%- assign gameaudio = site.sounddesign | where: "subtype", "game audio" | reverse -%}
+{%- assign audioediting = site.sounddesign | where: "subtype", "audio editing" | reverse -%}
   <div class="h-feed">
   <h2 class="p-name h1 fs-1 text-center text-uppercase m2m-text-rotate mt-5">Bass & Production: case studies</h2>
     <div class="card-group mt-5">

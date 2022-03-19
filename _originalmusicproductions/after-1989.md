@@ -3,7 +3,8 @@ title: 'After 1989'
 date: '2019-11-08 10:51:42'
 last_modified_at: '2021-11-17 11:39:52'
 year: "2019"
-type: "Album"
+type: "original music"
+subtype: "album"
 skillset: 
   - "composition"
   - "arrangement"

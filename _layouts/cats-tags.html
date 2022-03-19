@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-{% include pattern-breadcrumbs.html %}
 <div class="h-feed m2m-entry">
-  <h1 class="p-name text-center text-md-start mt-4 mt-md-0">{%- if page.type == "tag" -%}Tag: {% else -%}Category: {% endif %}{{ page.title | upcase }}</h1>
+  <h1 class="p-name display-2 text-center my-5 pb-3">{%- if page.type == "tag" -%}Tag: {% else -%}Category: {% endif %}{{ page.title | upcase }}</h1>
   <section class="h-feed blogroll" id="m2m-content">
   {% for post in page.posts %}
     {% include pattern-postblock.html %}

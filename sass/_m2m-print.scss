@@ -1,3 +1,12 @@
+// ------------------------------------------------ \\
+// $CUSTOM PRINT CSS
+//
+// ------------------------------------------------
+// Imported in `m2m.scss`
+// ------------------------------------------------ //
+
+/* purgecss start ignore */
+
 @media print {
   *,
   *::before,
@@ -81,3 +90,5 @@
     display: none !important;
   }
 }
+
+/* purgecss end ignore */

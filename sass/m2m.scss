@@ -71,7 +71,6 @@ $nav-link-hover-color: $link-d-40;
 $nav-link-font-weight: bold;
 $nav-link-padding-x: 0.5rem;
 $nav-link-padding-x: 0;
-$breadcrumb-divider: quote("/");
 $list-group-bg: transparent;
 
 // Image gallery
@@ -178,7 +177,6 @@ $theme-colors: map-merge($theme-colors, $m2m-custom-colors);
 @import "bootstrap/button-group";
 @import "bootstrap/nav";
 @import "bootstrap/card";
-@import "bootstrap/breadcrumb";
 @import "bootstrap/badge";
 @import "bootstrap/alert";
 @import "bootstrap/list-group";

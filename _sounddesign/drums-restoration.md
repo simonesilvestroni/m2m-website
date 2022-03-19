@@ -3,7 +3,8 @@ title: 'Drums restoration'
 date: '2020-09-16'
 last_modified_at: '2022-01-27 12:40:09'
 year: "2018-2020"
-type: "audio editing"
+type: "sound design"
+subtype: "audio editing"
 skillset: 
   - "recording"
   - "editing"

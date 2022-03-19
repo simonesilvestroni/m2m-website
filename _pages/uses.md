@@ -203,4 +203,5 @@ As another example, I now **completely ignore Logic updates** ever since Apple h
 
 ---
 
+{: .text-center }
 Last update: <kbd>{{ page.last_modified_at }}</kbd>

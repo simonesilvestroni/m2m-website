@@ -1,12 +1,14 @@
-<section class="container my-5 pb-4">
+<div class="container my-5 py-4">
   <div class="row">
-    <div class="col-lg-9 col-md-12 mx-auto border bg-white bg-opacity-75 rounded py-4 px-4">
-      <p class="detached h4 m2m-letter-spacing-w1 text-center text-uppercase mt-0 mb-3">Table of contents</p>
-      {%- if page.toc-maxdepth == 2 -%}
-      {% include site-toc.html html=content sanitize=true class="inline_toc fw-bold" item_class="text-uppercase pb-1 fs-6" submenu_class="fw-normal" h_min=2 h_max=2 %}
-      {%- else -%}
-      {% include site-toc.html html=content sanitize=true class="inline_toc fw-bold" item_class="text-uppercase pb-1 fs-6" submenu_class="fw-normal" h_min=2 h_max=3 %}
-      {%- endif -%}
+    <div class="col-lg-7 col-md-9 mx-auto border rounded py-4 px-4">
+      <details>
+        <summary class="h4 m2m-letter-spacing-w1 text-center text-uppercase mt-0 my-0 py-2">Table of contents</summary>
+        {%- if page.toc-maxdepth == 2 -%}
+        {% include site-toc.html html=content sanitize=true class="inline_toc fw-bold" item_class="text-uppercase pb-1 fs-6" submenu_class="fw-normal" h_min=2 h_max=2 %}
+        {%- else -%}
+        {% include site-toc.html html=content sanitize=true class="inline_toc fw-bold" item_class="text-uppercase pb-1 fs-6" submenu_class="fw-normal" h_min=2 h_max=3 %}
+        {%- endif -%}
+      </details>
     </div>
   </div>
-</section>
+</div>

@@ -1,52 +1,42 @@
 ---
 layout: default
 ---
-{% include pattern-breadcrumbs.html %}
-{%- if page.mention == true %}
-<article class="m2m-entry">
-  <h1 class="text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
-  <div class="post-meta my-4">
-    {%- include post-meta.html %}
-  </div>
-  <div class="h-entry mt-5">
-    <div class="visually-hidden">
-      <span>{% include hcard-post.html %}</span>
-      {%- if post -%}
-      {%- assign categories = post.categories -%}
-      {%- else -%}
-      {%- assign categories = page.categories -%}
-      {%- endif -%}
-      {%- for category in categories -%}
-      <span class="p-category">{{ category | upcase | replace:"-"," " }}</span>
-      {%- endfor -%}
-      {% for tag in tags %}
-      <span class="p-category">{{ tag | upcase }}</span>
-      {% endfor %}
+{%- if post -%}
+  {%- assign categories = post.categories -%}
+{%- else -%}
+  {%- assign categories = page.categories -%}
+{%- endif -%}
+<article class="m2m-entry my-5">
+  <div class="h-entry">
+    {%- for category in categories -%}
+    <div class="p-category text-center pt-3">
+      <kbd class="fs-5">Category: <a class="text-uppercase fw-bold" href="/category/{{ category | slugify | append: '/' }}">{{ category | upcase | replace:"-"," " }}</a></kbd>
     </div>
-    <span class="fs-5">{% if page.mentionType == 'like' %}🧡 <strong class="ps-1">A like of</strong> {% elsif page.mentionType == 'repost' %}🔄 <strong class="ps-1">A repost of</strong> {% elsif page.mentionType == 'reply' %}↪️ <strong class="ps-1">In reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></span>
-    <p class="p-name lead">{{ page.excerpt }}</p>
-    <span class="visually-hidden">{%- include hcard-post.html -%}</span>
-    <div class="e-content mt-5">
+    {%- endfor -%}
+    <h1 class="text-center display-1 m2m-text-rotate mt-5">{{ page.title }}</h1>
+    <p class="p-name lead pt-3">
+      {{ page.excerpt }}
+      {%- if page.mention == true %}
+      <span>— This post is {% if page.mentionType == 'like' %} 🧡 <strong class="ps-1">a like of</strong> {% elsif page.mentionType == 'repost' %} 🔄 <strong class="ps-1">a repost of</strong> {% elsif page.mentionType == 'reply' %} ↪️ <strong class="ps-1"> in reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></span>
+      {% endif -%}
+    </p>
+    <div class="post-meta text-center m-auto w-75 my-5{% if page.type == 'note' %} visually-hidden{% endif %}">
+      <div class="py-3">
+        <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><span class="pe-1">🗓</span> {{ page.date | date: "%-d %B %Y" }}</time>        
+      </div>
+      {% unless page.type == 'note' %}
+      <div class="pb-4">
+        <h3 class="text-uppercase">Tags</h3>
+        {%- for tag in page.tags -%}<kbd class="p-category d-inline-block mx-2 my-2"><a class="p-category fs-6" href="/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase | prepend: '<span class="initialism">#</span>' }}</a></kbd>{%- endfor -%}  
+      </div>
+      {% endunless %}
+      <span class="visually-hidden">{%- include hcard-post.html -%}</span>
+    </div>
+    <div class="e-content my-5">
       {{ content }}
     </div>
   </div>
-{%- include pattern-relatedposts.html -%}
-{%- include pattern-responses.html -%}
+  {%- include pattern-relatedposts.html -%}
+  {%- include pattern-responses.html -%}
 </article>
 {%- include post-navigation.html -%}
-{%- else -%}
-<article class="h-entry m2m-entry">
-  <h1 class="p-name text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
-  <div class="post-meta my-4">
-    {%- include post-meta.html %}
-    <span class="visually-hidden">{% include hcard-post.html %}</span>
-  </div>
-  <p class="p-summary lead">{{ page.excerpt }}</p>
-  <div class="e-content mt-5">
-  {{ content }}
-  </div>
-{%- include pattern-relatedposts.html -%}
-{%- include pattern-responses.html -%}
-</article>
-{%- include post-navigation.html -%}
-{% endif -%}

@@ -5,9 +5,6 @@ baseurl: ""
 # Feeds
 feed:
   posts_limit: 20
-  collections:
-    notes:
-      path: "/notes.xml"
 
 # SEO
 title: Minutes to Midnight
@@ -135,11 +132,6 @@ defaults:
       type: "originalmusicproductions"
     values:
       layout: "casestudy"
-  - scope:
-      path: ""
-      type: "notes"
-    values:
-      layout: "note"
 
 # Collections
 collections:
@@ -152,9 +144,6 @@ collections:
   webdesign:
     output: true
     permalink: /work/web-design/:path/
-  notes:
-    output: true
-    permalink: /notes/:path/
 
 # Archives
 jekyll-archives:

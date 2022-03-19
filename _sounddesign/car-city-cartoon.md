@@ -3,9 +3,9 @@ title: 'Tom the Tow Truck cartoon'
 date: '2020-04-20'
 last_modified_at: '2021-12-16 13:53:59'
 year: "2020"
-type: "game audio"
+type: "sound design"
+subtype: "game audio"
 skillset:
-  - "sound design"
   - "sound effects"
   - "editing"
   - "mix"

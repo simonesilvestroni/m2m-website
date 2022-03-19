@@ -4,7 +4,7 @@ title: Colophon
 date: '2021-11-08 10:27:27'
 last_modified_at: '2021-11-08 10:27:31'
 description: "Technical details about the website"
-excerpt: 'Developed by Simone Silvestroni, designed with <a href="https://silviamaggidesign.com/" title="Go to Silvia Maggi website">Silvia Maggi</a>, who also provided information architecture and photography. Check the post <a href="/blog/website-redesign/"><em>Website redesign</em></a> for a more philosophical analysis.'
+excerpt: 'Developed by Simone Silvestroni, designed with <a href="https://silviamaggidesign.com/" title="Go to Silvia Maggi website">Silvia Maggi</a>, who also provided information architecture and photography. Check the <a href="/work/web-design/minutes-to-midnight/">case study</a> for a detailed analysis.'
 permalink: '/colophon/'
 ---
 ## Tools
@@ -26,21 +26,21 @@ Developed from scratch using:
 ## Performance
 
 <div class="table-responsive">
-  <table class="table table-striped">
+  <table class="table table-borderless table-sm">
     <thead>
       <tr>
-        <th scope="col" class="align-top text-center fw-bold"><strong>Markup</strong></th>
-        <th scope="col" class="align-top text-center fw-bold"><strong>Google score</strong></th>
-        <th scope="col" class="align-top text-center fw-bold"><strong>Speed index</strong></th>
-        <th scope="col" class="align-top text-center fw-bold"><strong>Page weight</strong></th>
+        <th scope="col" class="align-top text-center fw-bold"><kbd>Markup</kbd></th>
+        <th scope="col" class="align-top text-center fw-bold"><kbd>Google score</kbd></th>
+        <th scope="col" class="align-top text-center fw-bold"><kbd>Speed index</kbd></th>
+        <th scope="col" class="align-top text-center fw-bold"><kbd>Page weight</kbd></th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td class="text-center fs-3">✅ <a href="https://validator.w3.org/nu/?doc=https://minutestomidnight.co.uk/" target="_blank" rel="noopener">valid</a></td>
-        <td class="text-center fs-3"><a href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fminutestomidnight.co.uk%2F" target="_blank" rel="noopener"><code>100</code></a></td>
-        <td class="text-center fs-3 fw-bold"><code>0.4 sec</code></td>
-        <td class="text-center fs-3"><code>159 kb</code></td>
+        <td class="text-center fs-1"><a href="https://validator.w3.org/nu/?doc=https://minutestomidnight.co.uk/" target="_blank" rel="noopener">✅</a></td>
+        <td class="text-center fs-1">100</td>
+        <td class="text-center fs-1">0.4 sec</td>
+        <td class="text-center fs-1">159 kb</td>
       </tr>
     </tbody>
   </table>

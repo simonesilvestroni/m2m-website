@@ -5,16 +5,15 @@
 // ------------------------------------------------ //
 
 /* purgecss start ignore */
+
 .m2m-carousel-container {
   height: 95vh;
 }
-
 .m2m-carousel {
   width: 95vw;
   height: auto;
   contain: strict;
 }
-
 .m2m-carousel-scroll {
   @media (prefers-reduced-motion: no-preference) {
     scroll-behavior: smooth;
@@ -31,34 +30,27 @@
   -webkit-overflow-scrolling: touch;
   scrollbar-width: none;
 }
-
 .m2m-carousel-scroll::-webkit-scrollbar {
   display: none;
 }
-
 .m2m-carousel-scroll-item {
   min-width: 95vw;
   text-align: center;
 }
-
 .m2m-carousel-scroll-item > img {
   object-fit: cover;
   background: rgba(0, 0, 0, 0.2);
 }
-
 .m2m-carousel-scroll-item > img:active {
   cursor: grabbing;
   cursor: -webkit-grabbing;
 }
-
 .m2m-carousel-scroll-item-outer {
   margin: 1vw;
 }
-
 .m2m-carousel-scroll-item-outer:first-of-type {
   margin: 0;
 }
-
 @supports (scroll-snap-align: start) {
   .m2m-carousel-scroll {
     scroll-snap-type: x mandatory;
@@ -77,13 +69,11 @@
     scroll-snap-coordinate: 0 0;
   }
 }
-
 #m2m-slider-nav {
   display: flex;
   justify-content: center;
   height: 120px;
   margin: 20px auto;
-
   a {
     text-decoration: none;
     z-index: 1;
@@ -92,10 +82,10 @@
     &:hover {
       opacity: 0.7;
     }
-
     img {
       max-height: 120px;
     }
   }
 }
+
 /* purgecss end ignore */

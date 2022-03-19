@@ -3,7 +3,8 @@ title: 'No Slack Day'
 date: '2021-08-26'
 last_modified_at: '2022-01-12 16:51:52'
 year: "2021"
-type: "web development"
+type: "web design"
+subtype: "development"
 skillset: 
  - jekyll
  - sass

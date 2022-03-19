@@ -17,7 +17,7 @@
     <span class="visually-hidden">By <span class="p-author h-card">Simone Silvestroni</span></span>
     <span class="m2m-font-micro pe-1">🗓</span> <time class="dt-published m2m-font-micro" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time>
   </p>
-  <div class="e-content w-75">
+  <div class="e-content">
     <p class="p-summary text-start lh-sm mt-2">{{ post.excerpt | markdownify | strip_html }}</p>
   </div>
 </article>
