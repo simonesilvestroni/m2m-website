@@ -13,9 +13,9 @@ layout: default
   {% endif -%}
   <div class="post-meta text-center m-auto w-75 my-5">
     <h3 class="text-uppercase">Skills &amp; tools</h3>
-    <ul class="list-unstyled list-inline">
+    <ul class="list-unstyled list-inline ps-0">
       {%- for skill in page.skillset -%}
-      <li class="list-inline-item mx-1 mx-md-2 my-2"><kbd class="p-category text-uppercase fw-bold fs-5">{{ skill }}</kbd></li>
+      <li class="list-inline-item mx-1 mx-md-2 lh-lg"><kbd class="p-category text-uppercase fw-bold fs-5">{{ skill }}</kbd></li>
       {%- endfor -%}
     </ul>
     <span class="visually-hidden">{% include hcard-post.html %}</span>

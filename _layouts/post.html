@@ -27,7 +27,12 @@ layout: default
       {% unless page.type == 'note' %}
       <div class="pb-4">
         <h3 class="text-uppercase">Tags</h3>
-        {%- for tag in page.tags -%}<kbd class="d-inline-block mx-2 my-2"><a class="p-category fs-6" href="/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase | prepend: '<span class="initialism">#</span>' }}</a></kbd>{%- endfor -%}  
+        <ul class="list-unstyled list-inline ps-0">
+          {%- for tag in page.tags -%}
+          <li class="list-inline-item mx-1 mx-md-2 lh-lg">
+            <kbd><a class="p-category fs-6" href="/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase | prepend: '<span class="initialism">#</span>' }}</a></kbd>{%- endfor -%}  
+          </li>
+        </ul>
       </div>
       {% endunless %}
       <span class="visually-hidden">{%- include hcard-post.html -%}</span>
