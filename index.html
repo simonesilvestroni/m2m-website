@@ -48,7 +48,7 @@ last_modified_at: 2021-11-06 13:42:07
     <div class="col-12 col-md-6 pb-5">
       <!-- Latest post -->
       {%- assign recentPosts = site.posts | sort: 'date' | reverse -%}
-      <p class="text-center fs-4"><mark class="m2m-highlight d-inline-block fw-bold initialism px-3 me-1"><strong>Latest post</strong></mark></p>
+      <h2 class="text-center fs-4"><mark class="m2m-highlight d-inline-block fw-bold initialism px-3 me-1"><strong>Latest post</strong></mark></h2>
       <ul class="list-unstyled text-center">
         {%- for post in recentPosts limit: 1 -%}
         <li class="list-unstyled-item fs-4">
@@ -64,7 +64,7 @@ last_modified_at: 2021-11-06 13:42:07
       {%- assign webdesign = site.webdesign -%}
       {%- assign casestudies = sounddesign | concat: originalmusicproductions | concat: webdesign -%}
       {%- assign sortedcs = casestudies | sort: 'date' | reverse -%}
-      <p class="text-center fs-4"><mark class="m2m-highlight d-inline-block fw-bold initialism px-3 me-1"><strong>Latest case study</strong></mark></p>
+      <h2 class="text-center fs-4"><mark class="m2m-highlight d-inline-block fw-bold initialism px-3 me-1"><strong>Latest case study</strong></mark></h2>
       <ul class="list-unstyled text-center">
       {% for casestudy in sortedcs limit: 1 %}
         <li class="list-unstyled-item fs-4">
