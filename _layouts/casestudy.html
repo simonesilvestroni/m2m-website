@@ -2,8 +2,8 @@
 layout: default
 ---
 <article class="h-entry m2m-entry my-5">
-  <div class="p-category text-center pt-3">
-    <kbd class="fs-5">Case study: {%- if page.url contains '/work/web-design/' %} <a href="{{ site.url }}/work/web-design/">{%- elsif page.url contains '/work/sound-design/' %} <a href="{{ site.url }}/work/sound-design/">{%- elsif page.url contains '/work/original-music-productions/' %} <a href="{{ site.url }}/work/original-music-productions/">{% endif -%}<strong class="text-uppercase">{{ page.type }}</strong></a></kbd>
+  <div class="m2m-label text-center pt-3">
+    <kbd class="fs-5">Case study: {%- if page.url contains '/work/web-design/' %} <a href="{{ site.url }}/work/web-design/">{%- elsif page.url contains '/work/sound-design/' %} <a href="{{ site.url }}/work/sound-design/">{%- elsif page.url contains '/work/original-music-productions/' %} <a href="{{ site.url }}/work/original-music-productions/">{% endif -%}<strong class="p-category text-uppercase">{{ page.type }}</strong></a></kbd>
   </div>
   <h1 class="p-name text-center display-1 lh-sm m2m-text-rotate mt-5">{{ page.title }}</h1>
   {%- if page.url contains '/work/web-design/' %}

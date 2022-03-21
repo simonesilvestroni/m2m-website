@@ -89,8 +89,8 @@ Working closely with the audio programmer, I **implemented an adaptive soundtrac
 
 #### Examples
 
-<div class="alert alert-warning" role="alert">
-  <p class="fs-5"><kbd class="fw-bold">Warning</kbd> — The following songs are demos <strong>rendered in their linear versions</strong>. They don&rsquo;t reflect their original behavior in the gameplay, where each song had distinct instrument layers that were activated or deactivated following cues from the game engine. As they&rsquo;re the original demos, <strong>they aren&rsquo;t properly mixed nor mastered</strong>.</p>
+<div class="alert alert-background-d-10" role="alert">
+  <p class="fs-5"><code class="fw-bold">Warning</code> — The following songs are demos <strong>rendered in their linear versions</strong>. They don&rsquo;t reflect their original behavior in the gameplay, where each song had distinct instrument layers that were activated or deactivated following cues from the game engine. As they&rsquo;re the original demos, <strong>they aren&rsquo;t properly mixed nor mastered</strong>.</p>
 </div>
 
 <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 mt-4 mb-5">

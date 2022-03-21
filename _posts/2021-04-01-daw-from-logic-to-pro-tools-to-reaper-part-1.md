@@ -42,7 +42,7 @@ excerpt: "In the past twelve months I’ve managed to revolutionize my music sof
 7.  Open architecture & development cycle
 8.  Efficiency
 
-<div class="alert alert-warning my-5" role="alert">
+<div class="alert alert-background-d-10 my-5" role="alert">
   <p><kbd><strong>Disclaimer</strong></kbd> — This article reflects my own personal opinions, which are related to how I use a DAW. It’s not meant to judge any of these software. As a matter of fact, I still own and occasionally use both Logic and Pro Tools for their own peculiarities. This is <strong>not a tutorial</strong>.</p>
 </div>
 

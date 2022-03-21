@@ -9,7 +9,7 @@ layout: default
 <article class="m2m-entry my-5">
   <div class="h-entry">
     {%- for category in categories -%}
-    <div class="text-center pt-3">
+    <div class="m2m-label text-center pt-3">
       <kbd class="fs-5">Category: <a class="text-uppercase fw-bold" href="/category/{{ category | slugify | append: '/' }}"><span class="p-category">{{ category | upcase | replace:"-"," " }}</span></a></kbd>
     </div>
     {%- endfor -%}

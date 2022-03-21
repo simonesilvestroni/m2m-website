@@ -27,7 +27,7 @@ After the [demo stage of my album](/work/original-music-productions/after-1989-d
 
 Despite **the two songs having different tonality and tempo**, I decided to salvage Rachel's parts as backing vocals and counterpoint to Dan Ecclestone's lead.
 
-<div class="alert alert-warning px-4 py-4 my-5">
+<div class="alert alert-background-d-10 px-4 py-4 my-5">
   <h3 class="text-uppercase text-center mt-0">Before and After</h3>
   <p class="mb-0">Rachel Goodman&rsquo;s performance in <em>Niemandsland</em> (an unpublished demo scrapped in 2017) and the same chorus section edited and adapted for <em>Skinny Kid</em>. <strong>The tempo jumped from 78 to 105</strong>.</p>
   {% include pattern-video.html id="NqvejQhhUao" margin="mt-4 mb-0" %}
@@ -41,12 +41,12 @@ Working on both _the pitch and the formants_, I strived to obtain a new track th
 
 I love both **historical speeches and restoring audio**. A famous eulogy given by Robert Francis Kennedy in 1968 after Martin Luther King's assassination was [used in this song](https://minutestomidnight.bandcamp.com/track/requiem). Again, iZotope RX was the only tool I used.
 
-<div class="alert alert-warning px-4 py-4 my-5">
+<div class="alert alert-background-d-10 px-4 py-4 my-5">
   <h3 class="text-uppercase text-center mt-0">Historical speech: before</h3>
   {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695948953%3Fsecret_token%3Ds-MSqq5&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
 </div>
 
-<div class="alert alert-warning px-4 py-4 my-5">
+<div class="alert alert-background-d-10 px-4 py-4 my-5">
   <h3 class="text-uppercase text-center mt-0">Historical speech: after</h3>
   {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695948973%3Fsecret_token%3Ds-zaojZ&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
 </div>

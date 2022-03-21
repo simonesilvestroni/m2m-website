@@ -2,24 +2,13 @@
 layout: default
 ---
 <article class="h-entry m2m-entry my-5">
-  <h1 class="p-name text-center mt-4 mt-md-0">{{ page.title }}</h1>
-  <p class="p-summary lead">{{ page.excerpt }}</p>
-  {%- if page.toc == true -%}
-  <section class="container my-5 pb-4">
-    <div class="row">
-      <div class="col-lg-9 col-md-12 mx-auto bg-white bg-opacity-75 border rounded py-4 px-4">
-        <p class="detached h4 m2m-letter-spacing-w1 text-center text-uppercase mt-0 mb-3">Table of contents</p>
-        {%- if page.toc-maxdepth == 2 -%}
-        {% include site-toc.html html=content sanitize=true class="inline_toc fw-bold" item_class="text-uppercase pb-1 fs-6" submenu_class="fw-normal" h_min=2 h_max=2 %}
-        {%- else -%}
-        {% include site-toc.html html=content sanitize=true class="inline_toc fw-bold" item_class="text-uppercase pb-1 fs-6" submenu_class="fw-normal" h_min=2 h_max=3 %}
-        {%- endif -%}
-      </div>
-    </div>
-  </section>
-  {%- endif -%}
+  <h1 class="p-name text-center display-1 lh-sm m2m-text-rotate mt-5">{{ page.title }}</h1>
+  <span class="visually-hidden">{% include hcard-page.html %}</span>
+  <p class="p-summary lead pb-3">{{ page.excerpt }}</p>
   <div class="e-content">
+    {%- if page.toc == true %}
+      {% include pattern-toc.html html=content sanitize=true class="inline_toc" id="toc" h_min=2 h_max=2 %}
+    {% endif -%}
     {{ content }}
   </div>
-  {% include hcard-page.html %}
 </article>

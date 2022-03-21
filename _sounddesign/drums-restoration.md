@@ -28,7 +28,7 @@ After we received the audio tracks, we noticed **two issues with the drums**. Fi
 
 {% include pattern-figure.html image="/assets/images/audio-editing-rx-squeaky-hihat.jpg" caption="iZotope RX spectral view showing the squeaky hi-hat noise" width="1024" height="604" %}
 
-<div class="alert alert-warning px-4 py-4 my-5">
+<div class="alert alert-background-d-10 px-4 py-4 my-5">
   <h3 class="text-uppercase text-center mt-0">Noise: before</h3>
   <p class="mb-4">In this sample the noise is clearly audible. Spread over the entire song, it was particularly problematic in the quiet sections.</p>
   {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695750329%3Fsecret_token%3Ds-mfX5b&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
@@ -36,7 +36,7 @@ After we received the audio tracks, we noticed **two issues with the drums**. Fi
 
 After adding a **gate** to cut the noise from both snare and rack, I spent a few hours in **iZotope RX 6** cleaning up the hi-hat and overhead tracks.
 
-<div class="alert alert-warning px-4 py-4 my-5">
+<div class="alert alert-background-d-10 px-4 py-4 my-5">
   <h3 class="text-uppercase text-center mt-0">Noise: after</h3>
   <p class="mb-4">Now the squeaky hi-hat pedal is gone.</p>
   {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695750326%3Fsecret_token%3Ds-UFUTG&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
@@ -44,14 +44,14 @@ After adding a **gate** to cut the noise from both snare and rack, I spent a few
 
 Second: we received a single mono track for the overhead mics, with no room recording. While I wasn't particularly concerned with this, I thought it could be improved.
 
-<div class="alert alert-warning px-4 py-4 my-5">
+<div class="alert alert-background-d-10 px-4 py-4 my-5">
   <h3 class="text-uppercase text-center mt-0">Mono drums overhead: before</h3>
   {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695750338%3Fsecret_token%3Ds-B3sCU&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
 </div>
 
 I chose a gentle **drum doubling technique**: after a full MIDI capture of kick, snare, hi-hat and crash, I fired up my drums virtual instrument of choice: Addictive Drums 2 by XLN. With a clever use of pan and room verb in the plug-in, I managed to _recreate the missing stereo image_ with a nicer studio vibe.
 
-<div class="alert alert-warning px-4 py-4 my-5">
+<div class="alert alert-background-d-10 px-4 py-4 my-5">
   <h3 class="text-uppercase text-center mt-0">Mono drums overhead: after</h3>
   <p class="mb-4">The final result is the original drums with the MIDI doubling blended in to increase the effect and make the percussion more incisive.</p>
   {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695750350%3Fsecret_token%3Ds-fCToe&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
@@ -69,7 +69,7 @@ For the last twenty years, I've been obsessed with the idea of recovering my lat
 - Created a **room bus** with a little bit of Valhalla Supermassive verb, fed by MIDI kick and snare to add an ambient vibe.
 - I also re-processed the original isolated drums: a gate to remove vague remnants of vocals, an EQ and Waves' MV2 to enhance quieter sounds and glue the whole part.
 
-<div class="alert alert-warning px-4 py-4 my-5">
+<div class="alert alert-background-d-10 px-4 py-4 my-5">
   <h3 class="text-uppercase text-center mt-0">Before and After</h3>
   <p class="mb-0">The first ten seconds of the original song, followed by the same section with the isolated drums plus drum doubling in Reaper.</p>
   {% include pattern-video.html id="ofgU1kXiSHE" margin="mt-4 mb-0" %}
