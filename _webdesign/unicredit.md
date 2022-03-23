@@ -11,7 +11,7 @@ skillset:
  - ssh
  - capistrano
  - git
-description: "UniCredit Bank is a leading European commercial bank with an international network spanning 50 markets. Designed with Sketch, built with PHP, SASS, Javascript and deployed with Capistrano."
+description: "UniCredit is a leading European commercial bank with an international network spanning 50 markets. Designed with Sketch, built with PHP, SASS, Javascript."
 excerpt: false
 summary: 'The focus of the brief was to re-design UniCredit’s existing online acquisition landing pages for new customer acquisitions. We designed and developed a fully responsive site with <strong>custom experiences for smartphone, tablet and desktop</strong> to replace the existing desktop-only landing pages. Here is a brilliant <a href="https://silviamaggidesign.com/portfolio/acquisition-landing-pages-and-forms/">case study on the UX/design side</a> of the same project.'
 toc: false

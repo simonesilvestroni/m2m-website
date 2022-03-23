@@ -11,7 +11,7 @@ skillset:
  - responsive images
  - html
  - sass
-description: 'In a quest to continuous performance optimization, I built an image gallery carousel in pure HTML and CSS featuring responsive images and touch controls for mobile devices.'
+description: 'In a quest to performance optimization, I built a photogallery carousel in pure HTML and CSS featuring responsive images and touch controls for mobile devices.'
 excerpt: false
 summary: 'In a quest to continuous performance optimization, I created an image gallery carousel in pure HTML and CSS for the photography section in <a href="https://silviamaggidesign.com/photography/four-days-in-bordeaux/">Silvia’s website</a>. I then turned it into a full-fledged <strong>Jekyll module</strong> that I implemented here as well. It features responsive images and intuitive touch controls for mobile devices.'
 toc: true

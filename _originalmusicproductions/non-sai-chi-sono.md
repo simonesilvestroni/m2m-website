@@ -12,7 +12,7 @@ skillset:
   - "mix"
   - "master"
   - "pro tools"
-description: "A brief recount of how Italian musician and producer Emilio Albertoni and I came to write, produce and release an amazing remix of a song written by our old friend and collaborator Gianluca Lo Presti, aka ‘Nevica’"
+description: "How Italian producer Emilio Albertoni and I came to write, produce and release a remix of a song written by our old friend and collaborator Gianluca Lo Presti."
 excerpt: 'In January 2020, before the pandemic struck, Gianluca Lo Presti, aka ‘Nevica’, invited Emilio Albertoni and myself to remix a song of his for an upcoming project.'
 toc: true
 featimage: true

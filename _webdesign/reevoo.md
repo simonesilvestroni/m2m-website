@@ -14,7 +14,7 @@ skillset:
  - ssh
  - capistrano
  - git
-description: "Reevoo is a pioneer of ratings and reviews services for multichannel brands and retailers. Built with WordPress using custom plug-ins, integrated with Salesforce, deployed with Capistrano."
+description: "Reevoo is a pioneer of ratings and reviews services for brands and retailers. Built on WordPress with custom plug-ins and fully integrated with Salesforce."
 excerpt: false
 summary: "Following Reevoo strict guidelines, we developed a multi-language <strong>bespoke WordPress corporate website which included a live demo application</strong>. It shown potential clients how user generated content such as reviews, ratings and conversation could be delivered and embedded on their web products. The website featured <strong>integrations with Salesforce</strong> for lead generation and LinkedIn for authentication. Despite an heavy usage of images and videos, we managed to achieve a good performance."
 toc: false

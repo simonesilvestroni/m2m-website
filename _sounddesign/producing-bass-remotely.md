@@ -12,7 +12,7 @@ skillset:
   - "editing"
   - "pro tools"
   - "logic pro x"
-description: "Producing bass remotely."
+description: "In this case study, I expose a process for producing effective bass tracks for clients based in a different city or country."
 excerpt: "In this case study, I expose a process for producing <strong>effective bass tracks</strong> for clients based in a different city or country."
 toc: true
 canonical: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'

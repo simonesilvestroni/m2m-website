@@ -18,7 +18,7 @@ skillset:
   - "sound forge"
   - "studio building"
   - "alienbrain"
-description: "I was the audio team leader for the console game 'Ruff Trigger – The Vanocore Conspiracy'. I directed the soundtrack as well as created and edited all the sound effects."
+description: "I spent 5 years as an audio team leader for the console game 'Ruff Trigger'. I directed the soundtrack as well as created and edited all the sound effects."
 excerpt: 'I was the <strong>audio team leader</strong> for the console game &lsquo;<em>Ruff Trigger – The Vanocore Conspiracy</em>&rsquo;. I initially directed the soundtrack as well as created the sound effects. The game was published for Playstation2.'
 toc: true
 featimage: false

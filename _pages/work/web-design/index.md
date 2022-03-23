@@ -3,7 +3,7 @@ layout: page
 title: 'Web Design'
 date: '2021-11-08 10:49:23'
 last_modified_at: '2022-01-06 17:27:37'
-description: "Designing and coding for the web is a digital evolution of my past experience with the printed page. I strive for accessibility and sustainability through exceptional optimization."
+description: "Design and front-end development stems from my past experience with publishing. I strive for accessibility and sustainability through exceptional optimization."
 excerpt: '<strong>Designing and coding for the web</strong> is a digital evolution of my past experience with the printed page. My main focus is <em>ethic and sustainable design</em>, obtained through a relentless optimization of web performance. All my recent websites have a Pagespeed rank of <code>100</code> on all grades, including SEO and accessibility.'
 permalink: '/work/web-design/'
 ---
