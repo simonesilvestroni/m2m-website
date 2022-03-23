@@ -3,8 +3,8 @@ layout: page
 title: About
 date: '2022-01-14 16:54:43'
 last_modified_at: '2022-01-14 16:54:56'
-description: 'Minutes to Midnight is my brand name. After 9 years in the UK, I’m currently freelancing in Milan (Italy). I’ve been keeping a blog since 2002. Find everything through the archive.'
-excerpt: 'Hey, my name is Simone and I’m from Italy. First a bass player and editor, I later became a sound and web designer. Minutes to Midnight is my brand name. After 9 years in the UK, I’m currently freelancing in Milan. I’ve been keeping a <a href="/blog/">blog</a> since 2002. Check out my <a href="/work/">audio and web work</a>, or find everything through the <a href="/archive/">archive</a>.'
+description: 'Simone Silvestroni, sound and web designer going under the moniker Minutes to Midnight. Freelancing in Milan after 9 years in the UK. I started my blog in 2002.'
+excerpt: 'Simone Silvestroni, sound and web designer going under the moniker <em>Minutes to Midnight</em>. Freelancing in Milan after 9 years in the UK. I started my blog in 2002. First a bass player and editor, I later became a sound and web designer. Check out my <a href="/work/">audio and web work</a>.'
 permalink: '/about/'
 ---
 ## Why audio and web?
