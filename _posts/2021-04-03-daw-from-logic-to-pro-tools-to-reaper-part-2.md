@@ -15,7 +15,7 @@ tags:
   - sound design 
   - music production
   - game audio
-description: "Over the last year I've managed to revolutionize my workflow, twice. Here's part 3 of my account of how I migrated DAW, from Logic to Pro Tools, and finally to REAPER."
+description: "In 12 months I've managed to revolutionize my workflow, twice. Here's part 2 of how I migrated DAW, from Logic to Pro Tools, and finally to REAPER."
 excerpt: "How REAPER improved my music workflow, part 2: customization, community, stock plug-ins."
 ---
 In **[part 1](/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)** I discussed:

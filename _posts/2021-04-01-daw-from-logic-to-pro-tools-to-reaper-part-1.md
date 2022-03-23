@@ -16,7 +16,7 @@ tags:
   - music production
   - game audio
   - popular
-description: "Over the last year I've managed to revolutionize my workflow, twice. Here's part 3 of my account of how I migrated DAW, from Logic to Pro Tools, and finally to REAPER."
+description: "In 12 months I've managed to revolutionize my workflow, twice. Here's part 1 of how I migrated DAW, from Logic to Pro Tools, and finally to REAPER."
 excerpt: "In the past twelve months I’ve managed to revolutionize my music software workflow, twice. Here’s part 1 of a brief account of my switch."
 ---
 <div class="mx-auto">
