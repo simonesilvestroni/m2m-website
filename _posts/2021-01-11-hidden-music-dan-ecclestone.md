@@ -1,5 +1,5 @@
 ---
-title: '‘Hidden Music’ is the new album by Dan Ecclestone'
+title: '‘Hidden Music’, new album by Dan Ecclestone'
 date: '2021-01-11'
 last_modified_at: '2021-11-08 21:50:17'
 categories:

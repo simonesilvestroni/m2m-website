@@ -19,7 +19,10 @@ excerpt: "I went back to Berlin, retracing my grandfather's steps in Sachsenhaus
 canonical: 'https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e'
 syndicate: 'https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e'
 ---
-{% include pattern-figure.html image="/assets/images/full-story-featured.jpg" width="1024" height="683" %}
+{% responsive_image_block %}
+  path: assets/images/full-story-featured.jpg
+  alt: Sachsenhausen concentration camp entrance gate
+{% endresponsive_image_block %}
 
 ### A real-life story of imprisonment and liberty, between two wars and three generations.
 

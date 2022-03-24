@@ -1,5 +1,5 @@
 ---
-title: '8 benefits of switching DAW: from Logic to Pro Tools to REAPER (Part 1)'
+title: 'Switch DAW: Logic to Pro Tools to REAPER (Pt 1)'
 date: '2021-04-01'
 last_modified_at: '2021-11-08 19:19:33'
 categories:

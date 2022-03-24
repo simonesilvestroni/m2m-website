@@ -1,5 +1,5 @@
 ---
-title: '‘After 1989’ anniversary: new official music video'
+title: 'After 1989 anniversary: new music video'
 date: '2020-11-09'
 last_modified_at: '2021-11-09 18:28:48'
 categories:

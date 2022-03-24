@@ -1,5 +1,5 @@
 ---
-title: 'Responsive gallery carousel in pure HTML and CSS in Jekyll'
+title: 'Pure HTML and CSS responsive carousel in Jekyll'
 date: '2022-02-23'
 last_modified_at: '2022-03-03 11:12:01'
 year: '2022'
@@ -16,7 +16,6 @@ excerpt: false
 summary: 'In a quest to continuous performance optimization, I created an image gallery carousel in pure HTML and CSS for the photography section in <a href="https://silviamaggidesign.com/photography/four-days-in-bordeaux/">Silvia’s website</a>. I then turned it into a full-fledged <strong>Jekyll module</strong> that I implemented here as well. It features responsive images and intuitive touch controls for mobile devices.'
 toc: true
 featimage: true
-featimage-url: '/assets/images/responsive-gallery-carousel.jpg'
 featimage-height: '574'
 performance: false
 site-is-live: true
@@ -90,11 +89,11 @@ To break it down:
 
 This is the result, from my [About](/about/) page:
 
-{% include pattern-figure.html image="/assets/images/gallery-thumbnails.jpg" width="920" height="181" %}
+{% include pattern-figure.html image="/assets/images/gallery-thumbnails.jpg" alt="Column view thumbnail photo gallery" width="920" height="181" %}
 
 All of the above is compiled by simply including this folder in the page:
 
-{% include pattern-figure.html image="/assets/images/gallery-folder.jpg" width="431" height="290" %}
+{% include pattern-figure.html image="/assets/images/gallery-folder.jpg" alt="List of included images in the filesystem" width="431" height="290" %}
 
 ### Creating the modal window
 
@@ -317,7 +316,7 @@ I solved the first requirement of wiping out all the Bootstrap-based Javascript 
 
 All tests after the new module was released gave stunning results: despite a total image weight of almost 2 megabytes, Pagespeed on mobile went from `27` to `100`:
 
-{% include pattern-figure.html image="/assets/images/gallery-pagespeed-end-results-mobile.jpg" width="920" height="611" %}
+{% include pattern-figure.html image="/assets/images/gallery-pagespeed-end-results-mobile.jpg" alt="Google Pagespeed results" width="920" height="611" %}
 
 ### Local development
 
