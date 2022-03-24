@@ -23,7 +23,6 @@ I only send one when I actually have updates to share, mostly about releases or 
 
 Notifications about new [articles](/blog/) or [notes](/blog/notes/) are available through:
 
-- [Blog RSS feed](/feed.xml)
-- [Notes RSS feed](/notes.xml)
+- [Blog and Notes RSS feed](/feed.xml)
 - [Telegram updates channel](https://t.me/M2Mupdates)
 - [Mastodon](https://indieweb.social/@m2m)
