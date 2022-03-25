@@ -1,5 +1,5 @@
 ---
-title: 'New single by Emilio Albertoni and Minutes to Midnight'
+title: 'New single with Emilio Albertoni out now'
 date: '2021-06-28'
 last_modified_at: '2021-11-08 15:25:48'
 categories: 
