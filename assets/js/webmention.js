@@ -120,7 +120,7 @@ A more detailed example:
   const containerID = getCfg("id", "webmentions");
   /** @type {Number} */
   const textMaxWords = getCfg("wordcount");
-  const maxWebmentions = getCfg("max-webmentions", 30);
+  const maxWebmentions = getCfg("max-webmentions", 1200);
   const mentionSource = getCfg("prevent-spoofing") ? "wm-source" : "url";
   const sortBy = getCfg("sort-by", "published");
   const sortDir = getCfg("sort-dir", "up");
