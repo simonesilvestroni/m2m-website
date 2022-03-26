@@ -4,6 +4,9 @@
 - name: Work
   link: /work/
   desc: 'Case studies: sound & web design, original music.'
+- name: Music
+  link: https://music.minutestomidnight.co.uk
+  desc: 'Original music productions on Bandcamp.'
 - name: Blog
   link: /blog/
   desc: Articles, interviews, press releases.

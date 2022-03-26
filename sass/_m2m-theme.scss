@@ -84,24 +84,32 @@ h4 {
 // ------------------------------------------------ //
 
 .nav-main {
-  li {
-    display: inline-block;
-    margin: 2px 1px;
-    background-color: rgba($background-l-60, .4);
-  }
   .nav-link {
-    font-size: 0.85rem;
+    font-size: 1.1rem;
     color: black;
-    border: 2px solid rgba($background-d-40, .5);
-    border-bottom-width: 4px;
-    border-radius: 6px;
+    text-decoration: solid underline rgba($background-d-50, .8) 2px;
+    margin: 0 $spacer/2;
+    position: relative;
     &:hover {
       opacity: .6;
     }
+    &::before {
+      height: 4px;
+      position: absolute;
+      background: $background-d-50;
+      content: "";
+      width: 100%;
+      bottom: 11px;
+      z-index: -1;
+      transition: transform 0.1s ease 0s;
+      transform: skew(-20deg) rotate(-2deg) scaleX(1.03);
+      @include media-breakpoint-up(md) {
+        bottom: 13px;
+      }
+    }
     @include media-breakpoint-up(md) {
-      font-size: 1.2rem;
-      border: 1px solid rgba($heading-l-50, .5);
-      border-bottom-width: 3px;
+      font-size: 1.5rem;
+      margin: 0 $spacer;
     }
   }
 }
@@ -122,13 +130,12 @@ h4 {
   }
 }
 .m2m-current {
-  background-color: $background-d-80 !important;
-  color: $link-l-90 !important;
-  text-decoration: none !important;
+  color: $background-d-50 !important;
   footer & {
-    color: white !important;
+    color: $background-d-50 !important;
+    text-decoration-thickness: 3px;
     &:hover {
-      color: white !important;
+      color: $background-d-50 !important;
     }
   }
 }
