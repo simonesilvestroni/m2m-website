@@ -90,6 +90,9 @@ h4 {
     text-decoration: solid underline rgba($background-d-50, .8) 2px;
     margin: 0 $spacer/2;
     position: relative;
+    @-moz-document url-prefix() {
+      text-underline-offset: 1px;
+    }
     &:hover {
       opacity: .6;
     }
