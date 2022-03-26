@@ -7,17 +7,13 @@ description: "As a cross-disciplinary polymath, I’ve been juggling between des
 excerpt: 'In 1995, while interning as an editor, I graduated as a <strong>bass player</strong>. Switched a few years later from the publishing industry to <strong>web design</strong>. After spending the following decades working as a <strong>game audio designer</strong> and a front-end developer between Italy and the UK, I gained a diploma at Berklee, specializing in music production, <strong>mixing</strong> above all.'
 work:
   - title: Sound design
-    desc: '<strong>Recording and sculpting sound</strong> has always been a massive creative push. Collaborating as a bassist or producer, game audio or editing and restoration are a constant source of excitement.'
+    desc: '<strong>Recording and sculpting sound</strong> has always been a massive creative push. Creating a story with sounds, whether as a bassist, producer, game composer or editor is a constant source of excitement.'
     cta: Sound design works
     href: /work/sound-design/
   - title: Web design
     desc: '<strong>Designing and coding for the web</strong> is a digital evolution of my past experience with the printed page. I strive for accessibility and sustainability through exceptional optimization.'
     cta: Web design works
     href: /work/web-design/
-  - title: Original music
-    desc: '<strong>I love telling stories with music</strong>. This is why, beyond a stint as a game audio composer, my original productions mostly focus on the concept album as a format.'
-    cta: Published original music
-    href: /work/original-music-productions/
 permalink: '/work/'
 ---
 <section class="h-feed m2m-entry my-5 pb-3">

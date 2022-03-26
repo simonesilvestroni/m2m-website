@@ -20,7 +20,7 @@ Migrating from WordPress to a static site generator has been a blessing to me. I
 
 - Work as a [sound designer](https://minutestomidnight.co.uk/work/sound-design/)
 - Work as a [web designer and developer](https://minutestomidnight.co.uk/work/web-design/)
-- My [original music](https://minutestomidnight.co.uk/work/original-music-productions/)
+- My [original music](https://minutestomidnight.co.uk/work/sound-design/)
 - A comprehensive list of my [equipment](https://minutestomidnight.co.uk/uses/).
 - 27 LinkedIn [endorsements](https://www.linkedin.com/in/minutes2mid/#recommendations).
 

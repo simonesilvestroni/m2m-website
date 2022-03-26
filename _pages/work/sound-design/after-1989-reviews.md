@@ -1,11 +1,9 @@
 ---
-layout: casestudy
+layout: page
 title: 'After 1989: Reviews'
 date: '2020-11-09 10:52:12'
 last_modified_at: '2021-12-02 23:33:06'
 categories: "2020"
-type: false
-skills: false
 tags: 
   - "concept album"
   - "world war ii"
@@ -15,9 +13,9 @@ tags:
   - "reviews"
   - "case study"
 description: "A collection in-depth analysis and reviews gathered from Bandcamp, music blogs, podcasts and social media."
-excerpt: 'This page collects <strong>three in-depth analysis</strong> of <a href="/work/original-music-productions/after-1989/"><em>After 1989</em></a>, written by Rosa Nadine Xochimilco Sánchez, IndieRepublik (Berlin) and Angry Baby, followed by <strong>reviews</strong> gathered from Bandcamp, music blogs, podcasts and social media.'
+excerpt: 'This page collects <strong>three in-depth analysis</strong> of <a href="/work/sound-design/after-1989/"><em>After 1989</em></a>, written by Rosa Nadine Xochimilco Sánchez, IndieRepublik (Berlin) and Angry Baby, followed by <strong>reviews</strong> gathered from Bandcamp, music blogs, podcasts and social media.'
 toc: true
-permalink: '/work/original-music-productions/after-1989-reviews/'
+permalink: '/work/sound-design/after-1989-reviews/'
 ---
 ## In-depth reviews
 

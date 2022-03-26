@@ -3,8 +3,8 @@ title: 'Non sai chi sono'
 date: '2021-06-28 10:51:22'
 last_modified_at: '2021-11-25 17:19:45'
 year: "2021"
-type: "original music"
-subtype: "single remix"
+type: "sound design"
+subtype: "original music"
 skillset: 
   - "production"
   - "arrangement"
@@ -16,7 +16,7 @@ description: "How Italian producer Emilio Albertoni and I came to write, produce
 excerpt: 'In January 2020, before the pandemic struck, Gianluca Lo Presti, aka ‘Nevica’, invited Emilio Albertoni and myself to remix a song of his for an upcoming project.'
 toc: true
 featimage: true
-permalink: '/work/original-music-productions/non-sai-chi-sono/'
+permalink: '/work/sound-design/non-sai-chi-sono/'
 ---
 ## Release
 

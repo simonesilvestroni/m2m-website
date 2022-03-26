@@ -29,7 +29,7 @@ Despite the fantastic chemistry with the [drummer](https://www.discogs.com/artis
 
 After stripping away all the original guitars, I rewrote the piece with a different groove, similar bass and keyboard parts on a new chord structure. It was a solid backbone for something, and I was excited. Next, was blending in a piano sequence from my [years as a composer for video games](/work/sound-design/console-game-ruff-trigger/). Originally written right before 9/11 happened, it fit beautifully. Like most people, I’ve experienced that dreadful day on live television, so I decided to make this new music go along with some of the original live commentaries.
 
-I enhanced the piano progression, added a tom roll in anticipation for the choruses and wrote a guitar solo. Finally, I sampled the audio from the [footage shot around the WTC](https://www.youtube.com/watch?v=IJpql03lDKQ){:target="_blank" rel="noopener"} where the events unfolded. The song, then re-titled _Nine Eleven_, went on to become the first single and lead song for my album [After 1989](/work/original-music-productions/after-1989/), _Skinny Kid_.
+I enhanced the piano progression, added a tom roll in anticipation for the choruses and wrote a guitar solo. Finally, I sampled the audio from the [footage shot around the WTC](https://www.youtube.com/watch?v=IJpql03lDKQ){:target="_blank" rel="noopener"} where the events unfolded. The song, then re-titled _Nine Eleven_, went on to become the first single and lead song for my album [After 1989](/work/sound-design/after-1989/), _Skinny Kid_.
 
 {% include pattern-figure.html image="/assets/images/nine-eleven-reason.jpeg" caption="The two choruses, as shown in **Propellerhead’s Reason** above, had an eerie resemblance with the twin towers" width="1024" height="951" %}
 
@@ -66,7 +66,7 @@ _Skinny Kid_ was the first piece that I turned into a proper song when I refacto
 > <cite>— [Indie Buddie](https://www.indiebuddie.com/minutes-to-midnight-skinny-kid-video-premiere/){:target="_blank" rel="noopener"}</cite>
 
 <div class="text-center my-5 py-3">
-  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/original-music-productions/after-1989/" title="Read the album case study"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the album case study</strong></span></a>
+  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/sound-design/after-1989/" title="Read the album case study"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the album case study</strong></span></a>
 </div>
 
 ## Credits

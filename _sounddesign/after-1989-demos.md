@@ -3,8 +3,8 @@ title: 'After 1989 Demos'
 date: '2020-11-09 10:52:30'
 last_modified_at: '2021-11-17 11:40:27'
 year: "2020"
-type: "original music"
-subtype: "album"
+type: "sound design"
+subtype: "original music"
 skillset: 
   - "composition"
   - "arrangement"
@@ -15,7 +15,7 @@ description: "A companion to the concept album ’After 1989‘, ’Original Dem
 excerpt: "A companion to the concept album released in 2019, <em>Original Demos and Outtakes</em> is a <strong>rough and unpolished</strong> partial testimony of a different approach."
 toc: true
 featimage: true
-permalink: '/work/original-music-productions/after-1989-demos/'
+permalink: '/work/sound-design/after-1989-demos/'
 ---
 ## Release
 
@@ -23,7 +23,7 @@ permalink: '/work/original-music-productions/after-1989-demos/'
 
 ## Production notes
 
-The previous incarnation of the [concept album](/work/original-music-productions/after-1989/) was mostly instrumental, supported by a vast array of strings and a convoluted almost-silent narration. A vast amount of material had accumulated during the years, as the core of the concept shifted a few times along with a change of collaborators.
+The previous incarnation of the [concept album](/work/sound-design/after-1989/) was mostly instrumental, supported by a vast array of strings and a convoluted almost-silent narration. A vast amount of material had accumulated during the years, as the core of the concept shifted a few times along with a change of collaborators.
 
 ### Narration and theatrical idea
 

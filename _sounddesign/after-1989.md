@@ -3,8 +3,8 @@ title: 'After 1989'
 date: '2019-11-08 10:51:42'
 last_modified_at: '2021-11-17 11:39:52'
 year: "2019"
-type: "original music"
-subtype: "album"
+type: "sound design"
+subtype: "original music"
 skillset: 
   - "composition"
   - "arrangement"
@@ -16,7 +16,7 @@ description: "After 1989 is a concept album about a young man who escaped German
 excerpt: "30 years after the fall of the Berlin Wall, a real-life tale of imprisonment and liberty: how a grandfather escaped hell during WWII while the grandson retraced his steps."
 toc: true
 featimage: true
-permalink: '/work/original-music-productions/after-1989/'
+permalink: '/work/sound-design/after-1989/'
 ---
 ## The story
 
@@ -56,7 +56,7 @@ _After 1989_ can also be found on:
 
 ## Production notes
 
-Mid 2017: after I [completed the demos](/work/original-music-productions/after-1989-demos/) using Propellerhead's Reason, my friend and music partner Paolo left the project. I decided to take some time and focus on graduating as a **master engineer at Berklee**. I then spent most of 2018 working as a mix engineer and producer for clients in the UK and the US, including [performing in a dozen of live concerts](/blog/live-shows/) around the south of England.
+Mid 2017: after I [completed the demos](/work/sound-design/after-1989-demos/) using Propellerhead's Reason, my friend and music partner Paolo left the project. I decided to take some time and focus on graduating as a **master engineer at Berklee**. I then spent most of 2018 working as a mix engineer and producer for clients in the UK and the US, including [performing in a dozen of live concerts](/blog/live-shows/) around the south of England.
 
 At the end of the year, as the 30th anniversary of the fall of the Berlin Wall was approaching, I found myself alone with a project I've been working on for a long time. Surprisingly, this gave me a decisive push towards **revising the whole concept**. Even before Paolo left, I'd been unhappy about the creative direction for a while, so at the start of 2019 I drafted a new synopsis with a simpler set of songs and started putting together a new group of collaborators.
 
@@ -134,13 +134,13 @@ At the time, I chose **CD Baby** for digital distribution. As a member of PRS an
 ## Reviews
 
 > Minutes to Midnight’s album is magical and haunting, giving the listener a way to both experience and reconcile the horrors and joys of the past. A journey of choices and consequences, a path of emotional growth. It is at once rock opera, gothic melancholy, family legend, and historical account, all blending together to create an album unlike any other.
-> <cite>— [Rosa Nadine Sanchéz Xochimilco](/work/original-music-productions/after-1989-reviews/), author</cite>
+> <cite>— [Rosa Nadine Sanchéz Xochimilco](/work/sound-design/after-1989-reviews/), author</cite>
 
 > The direct and immersive narrative allows history to speak for itself without being preachy or forced. The artist gives us a unique perspective of an outsider who manages to observe a great deal of pain without being directly subjected to it. Its themes are timely and human, and effortlessly connect with a modern audience. _After 1989_ is an immersive and interesting experiment in storytelling that will leave listeners meditating on its heavy themes.
 > <cite>— [IndieRepublik Berlin](https://indierepublik.com/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/){:target="_blank" rel="noopener"}</cite>
 
 <div class="my-5 pb-4 text-center">
-  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/original-music-productions/after-1989-reviews/" title="Read all the reviews"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read all the reviews</strong></span></a>
+  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/sound-design/after-1989-reviews/" title="Read all the reviews"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read all the reviews</strong></span></a>
 </div>
 
 ## Credits

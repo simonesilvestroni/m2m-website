@@ -9,15 +9,15 @@ permalink: '/work/sound-design/'
 ---
 ## Main skills
 
-Besides being a professional <kbd>bassist</kbd>, I'm an expert in music <kbd>production</kbd>, especially <kbd>mixing</kbd> and <kbd>mastering</kbd>. After a long experience with <kbd>Logic Pro</kbd>, <kbd>Pro Tools</kbd> and <kbd>Sound Forge</kbd>, the tools I'm currently digging the most are <kbd>REAPER</kbd> and <kbd>iZotope RX</kbd>. 
+Besides being a professional <kbd>bassist</kbd>, I'm an expert in music <kbd>production</kbd>, especially <kbd>mixing</kbd> and <kbd>mastering</kbd>.  After a long experience with <kbd>Logic Pro</kbd>, <kbd>Pro Tools</kbd> and <kbd>Sound Forge</kbd>, the tools I'm currently digging the most are <kbd>REAPER</kbd> and <kbd>iZotope RX</kbd>. I also write and release original music.
 
-{: .detached}
 After deciding to go back to <kbd>game audio</kbd>, I'm deeply involved in learning Audiokinetic's <kbd>Wwise</kbd> and <kbd>FMOD</kbd>.
 
 <section class="m2m-entry my-5 pb-1">
 {%- assign production = site.sounddesign | where: "subtype", "production" | reverse -%}
 {%- assign gameaudio = site.sounddesign | where: "subtype", "game audio" | reverse -%}
 {%- assign audioediting = site.sounddesign | where: "subtype", "audio editing" | reverse -%}
+{%- assign originalmusic = site.sounddesign | where: "subtype", "original music" | reverse -%}
   <div class="h-feed">
   <h2 class="p-name h1 fs-1 text-center text-uppercase m2m-text-rotate mt-5">Bass & Production: case studies</h2>
     <div class="card-group mt-5">
@@ -56,6 +56,18 @@ After deciding to go back to <kbd>game audio</kbd>, I'm deeply involved in learn
     <div class="card-group pb-3">
       <div class="row row-cols-1 row-cols-sm-2 g-4">
       {%- for casestudy in audioediting %}
+      {% include card-casestudy.html %}
+      {% endfor -%}
+      </div>
+    </div>  
+  </div>
+</section>
+<section class="m2m-entry my-5 pb-3">
+  <div class="h-feed">
+  <h2 class="p-name h1 fs-1 text-center text-uppercase m2m-text-rotate my-5">Original music: case studies</h2>
+    <div class="card-group pb-3">
+      <div class="row row-cols-1 row-cols-sm-2 g-4">
+      {%- for casestudy in originalmusic %}
       {% include card-casestudy.html %}
       {% endfor -%}
       </div>

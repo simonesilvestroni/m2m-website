@@ -129,17 +129,9 @@ defaults:
       type: "sounddesign"
     values:
       layout: "casestudy"
-  - scope:
-      path: ""
-      type: "originalmusicproductions"
-    values:
-      layout: "casestudy"
 
 # Collections
 collections:
-  originalmusicproductions:
-    output: true
-    permalink: /work/original-music-productions/:path/
   sounddesign:
     output: true
     permalink: /work/sound-design/:path/

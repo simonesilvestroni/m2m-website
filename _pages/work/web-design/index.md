@@ -11,10 +11,8 @@ permalink: '/work/web-design/'
 
 Started crafting websites from scratch with <kbd>HTML</kbd> and <kbd>CSS</kbd> in the late 1990s. I adopted <kbd>WordPress</kbd> as my platform of choice since version `1.5`, becoming an expert and building custom themes with <kbd>SASS</kbd> and plug-ins in <kbd>PHP</kbd>. I'm well versed in graphic tools such as <kbd>Figma</kbd>, <kbd>Sketch</kbd> and DTP software like <kbd>Adobe InDesign</kbd>.
 
-{: .detached}
 I recently moved to <kbd>JAMstack</kbd> and static site generators with <kbd>headless CMS</kbd>, especially digging <kbd>Jekyll</kbd> with its <kbd>Liquid</kbd> template language and <kbd>Netlify</kbd>.
 
-{: .detached}
 I can build, run and maintain local and remote web servers in <kbd>Apache</kbd>, <kbd>PHP</kbd>, <kbd>MySQL</kbd> either through a GUI or <kbd>SSH</kbd>. All my work is done using <kbd>git</kbd> as a versioning system. 
 
 <section class="h-feed m2m-entry my-5 pb-3">

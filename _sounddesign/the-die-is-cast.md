@@ -3,8 +3,8 @@ title: 'The Die Is Cast'
 date: '2021-06-03 10:50:53'
 last_modified_at: '2021-11-08 10:50:56'
 year: "2021"
-type: "original music"
-subtype: "EP"
+type: "sound design"
+subtype: "original music"
 skillset:
   - "composition"
   - "arrangement"
@@ -16,7 +16,7 @@ description: "My upcoming 5-songs album is an autobiographical rumination about 
 excerpt: 'My <strong>upcoming 5-songs album</strong> is an autobiographical rumination about migration in Europe in a time of populism. This EP is an appetizer.'
 toc: true
 featimage: true
-permalink: '/work/original-music-productions/the-die-is-cast/'
+permalink: '/work/sound-design/the-die-is-cast/'
 ---
 ## Release
 
