@@ -14,6 +14,8 @@
       default-src 'self';
       style-src 'self';
       img-src 'self';
+      script-src 'self';
+      frame-src 'self' 'https://www.youtube-nocookie.com/embed/' 'https://open.spotify.com/embed/' 'https://w.soundcloud.com/player/' 'https://bandcamp.com/EmbeddedPlayer/'
     '''
     Permissions-Policy = '''
       accelerometer=(none),
