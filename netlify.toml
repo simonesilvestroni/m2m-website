@@ -12,9 +12,9 @@
     '''
     Content-Security-Policy = '''
       default-src 'self';
-      style-src 'self' https://*.spotify.com https://*.bandcamp.com;
+      style-src 'self';
       img-src 'self';
-      script-src 'self';
+      script-src 'self' https://*.webmention.io;
       frame-src https://www.youtube-nocookie.com/embed/ https://open.spotify.com/embed/ https://w.soundcloud.com/player/ https://bandcamp.com/EmbeddedPlayer/
     '''
     Permissions-Policy = '''
