@@ -5,6 +5,6 @@
   /bandcamp
   -------------------------*
 {% endcomment %}
-<div class="iframe-bandcamp{{ include.my | default: " my-5" }}">
+<div class="iframe-bandcamp{{ include.my | default: " my-5" }} {{ include.size }}">
   {{ include.iframecode }}
 </div>

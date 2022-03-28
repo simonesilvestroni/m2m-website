@@ -22,6 +22,6 @@ It’s Saturday, time for some new music. I’ve been following the online magaz
 
 The promise of an album presenting itself like a movie, narrated by an artist that sounds a bit like **Mark Lanegan**, was alluring enough. So I went, and what a surprise. This is a great finding — treat yourself with this gem of an album, either on [Spotify](https://open.spotify.com/album/7i7LkY24PkJBNgcfgj04d5?si=X3V5Qv2EQk-vpLWyTXuGqQ){:target="_blank" rel="noopener"} or [Bandcamp](https://cameronhassard.bandcamp.com/album/rings-2){:target="_blank" rel="noopener"}. Here’s an appetizer:
 
-{% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4166563329/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=353710415/transparent=true/" seamless=""><a href="https://cameronhassard.bandcamp.com/album/rings-2">Rings by Cameron Hassard</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=4166563329/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=353710415/transparent=true/" seamless=""><a href="https://cameronhassard.bandcamp.com/album/rings-2">Rings by Cameron Hassard</a></iframe>' %}
 
 _Rings_ was produced and recorded at Berlin’s [Famous Gold Watch Records](https://thefamousgoldwatch.com/) by Cameron James Laing (Universal).

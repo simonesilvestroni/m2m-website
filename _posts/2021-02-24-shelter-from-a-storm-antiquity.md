@@ -28,7 +28,7 @@ comments:
 
 Bandcamp is the best way to ensure independent artists can continue producing great records, providing music lovers with a great listening experience, in high quality audio.
 
-{% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2838120524/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" seamless=""><a href="https://antiquitysessions1.bandcamp.com/track/shelter-from-a-storm">Shelter From A Storm by Antiquity</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=2838120524/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" seamless=""><a href="https://antiquitysessions1.bandcamp.com/track/shelter-from-a-storm">Shelter From A Storm by Antiquity</a></iframe>' %}
 
 ## Recording music under a storm
 

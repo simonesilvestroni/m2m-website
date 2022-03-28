@@ -15,7 +15,7 @@ excerpt: 'I’m happy Gerald Duchene asked me to write and play a bass track for
 ---
 ## Release
 
-{% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1048816351/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://antiquitysessions1.bandcamp.com/track/shallow-grave">Shallow Grave by Antiquity</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=1048816351/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://antiquitysessions1.bandcamp.com/track/shallow-grave">Shallow Grave by Antiquity</a></iframe>' %}
 
 ## Production notes
 
