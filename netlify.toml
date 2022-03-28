@@ -14,8 +14,6 @@
       default-src 'self';
       style-src 'self';
       img-src 'self';
-      form-action 'self';
-      base 'self'
     '''
     Permissions-Policy = '''
       accelerometer=(none),
