@@ -52,3 +52,10 @@ class jekyllSearch {
     })
   }
 }
+const search = new jekyllSearch(
+  '/assets/js/search.json',
+  '#search',
+  '#list',
+  ''
+);
+search.init();
