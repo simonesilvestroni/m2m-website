@@ -19,13 +19,11 @@ permalink: '/privacy-policy/'
 
 ## Third parties
 
-Content embedded from other websites, such as Bandcamp, Spotify, Soundcloud and YouTube, behave in the same way as if the visitor has visited them. They may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that content, including tracking your interaction with it if you have an account and are logged in to that website.
-
-An exception to the above is **YouTube**: I set all the embeds to specifically come from `https://www.youtube-nocookie.com`.
+All videos from **YouTube** come from `https://www.youtube-nocookie.com`. Content embedded from other websites, such as **Bandcamp**, **Spotify** and **Soundcloud** behave as if the visitor has visited them. They may try to collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that content, although my [content security policy should block them](#security).
 
 ## Security
 
-The website adopts a secure <abbr title="Secure Sockets Layer">SSL</abbr> protocol and it’s hosted on [Netlify](https://www.netlify.com/ "Go to the Netlify website"){:target="_blank" rel="noopener"}.
+The website adopts a secure <abbr title="Secure Sockets Layer">SSL</abbr> protocol and a [content security policy](https://securityheaders.com/?q=minutestomidnight.co.uk&followRedirects=on) is fully implemented.
 
 ## Newsletter
 
