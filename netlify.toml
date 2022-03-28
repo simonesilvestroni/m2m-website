@@ -12,11 +12,10 @@
     '''
     Content-Security-Policy = '''
       default-src 'self';
-      style-src 'self';
+      style-src 'self' https://open.spotify.com https://bandcamp.com;
       img-src 'self';
       script-src 'self';
-      frame-src https://www.youtube-nocookie.com/embed/ https://open.spotify.com/embed/ https://w.soundcloud.com/player/ https://bandcamp.com/EmbeddedPlayer/;
-      style-src-attr https://open.spotify.com/embed/ https://bandcamp.com/EmbeddedPlayer/
+      frame-src https://www.youtube-nocookie.com/embed/ https://open.spotify.com/embed/ https://w.soundcloud.com/player/ https://bandcamp.com/EmbeddedPlayer/
     '''
     Permissions-Policy = '''
       accelerometer=(none),
