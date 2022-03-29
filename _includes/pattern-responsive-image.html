@@ -37,13 +37,17 @@
   -------------------------------------------------*
 {% endcomment %}
 {%- assign largest = resized | sort: 'width' | last -%}
+{%- assign smallest = resized | sort: 'width' | first -%}
 {%- capture srcset -%}
 {%- for i in resized -%}
   /{{ i.path }} {{ i.width }}w,
 {%- endfor -%}
 {%- endcapture -%}
 <figure class="{% if margin-nil %}my-{{ margin-nil }} {% else %}my-5 {% endif %}text-center">
-  <img loading="auto" class="{% if class %}{{ class }} {% endif %}mx-auto" src="/{{ largest.path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }} /{{ path }} {{ original.width }}w">
+  <picture>
+    <source srcset="{{ srcset }} /{{ path }} {{ original.width }}w">
+    <img class="{% if class %}{{ class }} {% endif %}mx-auto" src="/{{ smallest.path }}" alt="{{ alt | default: caption }}">
+  </picture>
   {% if caption-true %}
   <figcaption class="mt-3 caption">{{ caption }}</figcaption>
   {% endif %}

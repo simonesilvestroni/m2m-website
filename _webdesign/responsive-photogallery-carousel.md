@@ -292,11 +292,14 @@ The source code above generates the following HTML:
 
 ```html
 <figure class="my-0 text-center">
-  <img class="mx-auto" loading="auto" src="/assets/images/responsive/1200/a_in-cambridge.jpg" alt="In cambridge" srcset="/assets/images/responsive/576/a_in-cambridge.jpg 576w,/assets/images/responsive/768/a_in-cambridge.jpg 768w,/assets/images/responsive/1200/a_in-cambridge.jpg 1200w, /assets/images/gallery-press/a_in-cambridge.jpg 1600w">
+  <picture>
+    <source srcset="/assets/images/responsive/576/a_in-cambridge.jpg 576w,/assets/images/responsive/768/a_in-cambridge.jpg 768w,/assets/images/responsive/1200/a_in-cambridge.jpg 1200w, /assets/images/gallery-press/a_in-cambridge.jpg 1600w">
+    <img class="mx-auto" src="/assets/images/responsive/576/a_in-cambridge.jpg" alt="In cambridge">
+  </picture>
 </figure>
 ```
 
-It renders responsive images using `<img srcset>`, with the largest resized image used as a fallback. Every time a new gallery is added to a page, Jekyll generates all the resized versions on its own. Notice that `loading="auto"` automatically lets the browser decide if the picture can be lazy loaded.
+It renders responsive images inside a `picture` tag, using `srcset` with the smallest resized image used as a fallback. Every time a new gallery is added to a page, Jekyll generates all the resized versions on its own. Notice that `loading="auto"` automatically lets the browser decide if the picture can be lazy loaded.
 
 ## Results
 
