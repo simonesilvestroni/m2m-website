@@ -292,10 +292,7 @@ The source code above generates the following HTML:
 
 ```html
 <figure class="my-0 text-center">
-  <picture>
-    <source srcset="/assets/images/responsive/576/a_in-cambridge.jpg 576w,/assets/images/responsive/768/a_in-cambridge.jpg 768w,/assets/images/responsive/1200/a_in-cambridge.jpg 1200w, /assets/images/gallery-press/a_in-cambridge.jpg 1600w">
-    <img class="mx-auto" src="/assets/images/responsive/576/a_in-cambridge.jpg" alt="In cambridge">
-  </picture>
+  <img class="mx-auto" loading="auto" src="/assets/images/responsive/1200/a_in-cambridge.jpg" alt="In cambridge" srcset="/assets/images/responsive/576/a_in-cambridge.jpg 576w,/assets/images/responsive/768/a_in-cambridge.jpg 768w,/assets/images/responsive/1200/a_in-cambridge.jpg 1200w, /assets/images/gallery-press/a_in-cambridge.jpg 1600w">
 </figure>
 ```
 
