@@ -16,11 +16,11 @@ excerpt: 'How Callum and I met, got to know each other and start collaborating o
 
 {% include pattern-spotify.html id="4e2PTyfPfvw9WunM9nG0nT" height="80" %}
 
-A few years ago I got in touch with [Ciara Clifford](https://open.spotify.com/artist/6y4HZjrBa7CMWVdyIkV5RQ){:target="_blank" rel="noopener"}, who was looking for a new bassist to play in a trio. Unfortunately, my schedule was incompatible with the required effort, but I went to her next live gig at the _Nambucca_. Besides being finally able to see [Joe Meek’s former studio](https://en.wikipedia.org/wiki/Joe_Meek){:target="_blank" rel="noopener"} in Holloway Road, I enjoyed meeting Ciara — and always regretted that I couldn’t play with her.
+A few years ago I got in touch with [Ciara Clifford](https://open.spotify.com/artist/6y4HZjrBa7CMWVdyIkV5RQ), who was looking for a new bassist to play in a trio. Unfortunately, my schedule was incompatible with the required effort, but I went to her next live gig at the _Nambucca_. Besides being finally able to see [Joe Meek’s former studio](https://en.wikipedia.org/wiki/Joe_Meek) in Holloway Road, I enjoyed meeting Ciara — and always regretted that I couldn’t play with her.
 
 ## Meet & greet
 
-There was another highlight that evening. The opening act was a young singer-songwriter playing vocals and acoustic guitar: [Callum Gardner](http://www.callumgardnerofficial.com/){:target="_blank" rel="noopener"}. I thoroughly liked his performance and congratulated him afterwards. Ended up humming the chorus to one of his original songs for a few days! I took note of his name and followed his progress online.
+There was another highlight that evening. The opening act was a young singer-songwriter playing vocals and acoustic guitar: [Callum Gardner](http://www.callumgardnerofficial.com/). I thoroughly liked his performance and congratulated him afterwards. Ended up humming the chorus to one of his original songs for a few days! I took note of his name and followed his progress online.
 
 > Sometimes things really do happen for a reason. It’s those coincidences that put you in a situation that just would never have happened otherwise. I was filling in last minute for a solo act opening at _Nambucca_ after a friend had kindly waved my name over to an independent promoter. Two people I was introduced to during that show went on to join my musical journey, and we are still in collaboration to this day.
 > 

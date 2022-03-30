@@ -49,12 +49,12 @@ Developed from scratch using:
 ## Accessibility
 
 - ✅ **No errors** for 
-<abbr title="Web Content Accessibility Guidelines">WCAG</abbr> detected on [WAVE](https://wave.webaim.org/report#/https://minutestomidnight.co.uk/){:target="_blank" rel="noopener"}.
-- ✅ **`100`** on [Google Lighthouse](https://web.dev/measure/){:target="_blank"}
+<abbr title="Web Content Accessibility Guidelines">WCAG</abbr> detected on [WAVE](https://wave.webaim.org/report#/https://minutestomidnight.co.uk/).
+- ✅ **`100`** on [Google Lighthouse](https://web.dev/measure/)
 
 ## Sustainability
 
-Only `0.07g of CO2` is produced every time someone visits the homepage. Cleaner than `93%` of [web pages tested](https://www.websitecarbon.com/website/minutestomidnight-co-uk/ "Visit Website carbon"){:target="_blank" rel="noopener"}. The website is running on sustainable energy.
+Only `0.07g of CO2` is produced every time someone visits the homepage. Cleaner than `93%` of [web pages tested](https://www.websitecarbon.com/website/minutestomidnight-co-uk/ "Visit Website carbon"). The website is running on sustainable energy.
 
 <p class="detached">Member of: <a href="https://512kb.club"><img src="/assets/images/orange-team.svg" alt="512kb Orange Team" /></a></p>
 

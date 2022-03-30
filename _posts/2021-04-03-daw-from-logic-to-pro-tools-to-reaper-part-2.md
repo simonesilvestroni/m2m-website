@@ -28,7 +28,7 @@ In **[part 1](/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)** I discussed
 
 ### Themes
 
-Pretty much everything can be customized, down to the look & feel. Like [its creator](https://en.wikipedia.org/wiki/Justin_Frankel){:target="_blank" rel="noopener"}‘s first successful software, **Winamp**, REAPER supports themes. Though it’s not my main interest, there are plenty of excellent (and awful) [skins](https://stash.reaper.fm/tag/Themes) out there.
+Pretty much everything can be customized, down to the look & feel. Like [its creator](https://en.wikipedia.org/wiki/Justin_Frankel)‘s first successful software, **Winamp**, REAPER supports themes. Though it’s not my main interest, there are plenty of excellent (and awful) [skins](https://stash.reaper.fm/tag/Themes) out there.
 
 ### Scripts & macros
 
@@ -48,7 +48,7 @@ After less than two weeks using REAPER, I have, among other things:
 
 <h4 class="text-uppercase">Custom screensets</h4>
 
-Multiple [windows setup](https://reaperblog.net/2020/05/how-to-use-screensets-in-reaper-2/){:target="_blank" rel="noopener"}, to efficiently **manage different stages of production**.
+Multiple [windows setup](https://reaperblog.net/2020/05/how-to-use-screensets-in-reaper-2/), to efficiently **manage different stages of production**.
 
 <h4 class="text-uppercase">Master channel strip</h4>
 
@@ -80,15 +80,15 @@ The repository for all custom themes — as well as extensions, scripts and more
 
 {% include pattern-figure.html image="/assets/images/daw-reaper-session.jpg" caption="REAPER running the theme Smooth v6" width="768" height="480" %}
 
-Incredibly detailed and well crafted, _Smooth_ was created for free by a guy who only asks to be [supported on Bandcamp](https://forum.cockos.com/showthread.php?p=2219276){:target="_blank" rel="noopener"}, where he published a slightly bizarre but captivating sci-fi concept. Which brings me to the next benefit. 
+Incredibly detailed and well crafted, _Smooth_ was created for free by a guy who only asks to be [supported on Bandcamp](https://forum.cockos.com/showthread.php?p=2219276), where he published a slightly bizarre but captivating sci-fi concept. Which brings me to the next benefit. 
 
 ## Benefit 5: community
 
-Cockos is [made of two programmers and a few collaborators](http://cockos.com/team.php){:target="_blank" rel="noopener"}. Remarkably, they’ve managed to create **a product that is actually close to their customers**. They run a thriving [forum](https://forum.cockos.com/forumdisplay.php?f=20){:target="_blank" rel="noopener"} where, besides looking for help and support, people who use REAPER can offer ideas for new features or suggestions about fixing something that’s not ideal. As someone aptly wrote in the forum:
+Cockos is [made of two programmers and a few collaborators](http://cockos.com/team.php). Remarkably, they’ve managed to create **a product that is actually close to their customers**. They run a thriving [forum](https://forum.cockos.com/forumdisplay.php?f=20) where, besides looking for help and support, people who use REAPER can offer ideas for new features or suggestions about fixing something that’s not ideal. As someone aptly wrote in the forum:
 
 > Cockos is like a family-owned small business. They’re amazingly talented and hard working to compete with other DAW companies that hire whole slews of programmers and graphic designers.
 
-Being **open to third-party interventions**, the obvious brilliant result is that many talented people can create plug-ins, skins and extensions. With such an architecture, REAPER doesn’t depend on a centralized, slow and distant big corporation. Besides the mentioned Stash, [ReaPack](https://reapack.com/){:target="_blank" rel="noopener"} and the [SWS/S&M extension](https://www.sws-extension.org/){:target="_blank" rel="noopener"} are other amazing places where to find brilliant add-ons. These are all **open source** projects hosted on Github.
+Being **open to third-party interventions**, the obvious brilliant result is that many talented people can create plug-ins, skins and extensions. With such an architecture, REAPER doesn’t depend on a centralized, slow and distant big corporation. Besides the mentioned Stash, [ReaPack](https://reapack.com/) and the [SWS/S&M extension](https://www.sws-extension.org/) are other amazing places where to find brilliant add-ons. These are all **open source** projects hosted on Github.
 
 ### A personal experience: X-Touch One
 
@@ -100,7 +100,7 @@ Like other tools who adopts the Mackie protocol though, the X-Touch One handles 
 
 On a Gearspace thread, plenty of producers were complaining about the same issue. Even someone from Behringer was involved. At a certain point, a user pointed out that in the REAPER’s forum there was a solution, specific to that DAW. That’s how I found CSI, **a custom-created extension for external controllers**. Again: it’s open source and hosted on Github.
 
-Downloaded for free, I [installed it and configured in minutes](https://github.com/GeoffAWaddington/reaper_csurf_integrator/wiki/Installation){:target="_blank" rel="noopener"}. Now, when I select a track with the mouse in REAPER, that same track is automatically reflected in X-Touch One, ready to be worked fast with fader, pan, solo, mute and more. This **spirit of community** and the admirable level of flexibility are impossible to find within corporate-made software.
+Downloaded for free, I [installed it and configured in minutes](https://github.com/GeoffAWaddington/reaper_csurf_integrator/wiki/Installation). Now, when I select a track with the mouse in REAPER, that same track is automatically reflected in X-Touch One, ready to be worked fast with fader, pan, solo, mute and more. This **spirit of community** and the admirable level of flexibility are impossible to find within corporate-made software.
 
 ## Benefit 6: Stock plug-ins
 

@@ -27,7 +27,7 @@ excerpt: '75 years ago, while two young men escaped from Sachsenhausen concentra
 
 ## Germany, 75 years ago
 
-**April, same year** — Two men escape from a concentration camp called [Sachsenhausen](https://www.sachsenhausen-sbg.de/en/){:target="_blank" rel="noopener"}, built in the town of Oranienburg, north of Berlin. One of them, who had spent four years there, **was my grandfather**.
+**April, same year** — Two men escape from a concentration camp called [Sachsenhausen](https://www.sachsenhausen-sbg.de/en/), built in the town of Oranienburg, north of Berlin. One of them, who had spent four years there, **was my grandfather**.
 
 Now a fugitive, he’s running away from imprisonment with a fellow Soviet inmate. They have to steal from German citizens, for food, protection and to go unnoticed during the day. They tie themselves to tree branches at night. The skinny kid came back home, mostly walking, [from Berlin to Italy](/blog/after-1989-full-story/).
 
@@ -51,8 +51,8 @@ _A Little Boy That Santa Claus Forgot On A B-29_ is the second song from the con
 ### Production
 
 **Music, lyrics and production** / Simone Silvestroni  
-**Master** / [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd){:target="_blank" rel="noopener"}  
-**Management** / Christopher Carvalho, [Unlock Your Sound](https://unlockyoursound.com){:target="_blank" rel="noopener"} Ltd, London
+**Master** / [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd)  
+**Management** / Christopher Carvalho, [Unlock Your Sound](https://unlockyoursound.com) Ltd, London
 
 ### Footage
 
@@ -72,7 +72,7 @@ The contrast between the Christmas carol-like music of the final section, and th
 
 Here is the demo of the song, at the time **entirely played by Paolo Clementi** with the acoustic viola. We recorded dozen of tracks, while he played the solo on top of these layers. Both the solo and the final viola riff made it to the final version.
 
-{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2694261691/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=793443290/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom-original-demos-outtakes">After 1989: A Trip To Freedom (Original Demos &amp; Outtakes) by Minutes to Midnight</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2694261691/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=793443290/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom-original-demos-outtakes">After 1989: A Trip To Freedom (Original Demos &amp; Outtakes) by Minutes to Midnight</a></iframe>' %}
 
 <div class="text-center my-5 py-3">
   <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/sound-design/after-1989/" title="Read the album case study"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the album case study</strong></span></a>

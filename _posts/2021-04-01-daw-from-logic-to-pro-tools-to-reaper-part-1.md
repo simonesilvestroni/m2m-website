@@ -48,13 +48,13 @@ excerpt: "In the past twelve months I’ve managed to revolutionize my music sof
 
 ## Logic
 
-After starting out with Cubase in 1995 and using it until v4, I moved to eMagic’s Logic in 2002. Transitioned to Apple’s [Logic Pro X](https://www.apple.com/logic-pro/){:target="_blank" rel="noopener"} a bit late, I stayed there until last year. All in all, **it’s been 18 years with Logic**.
+After starting out with Cubase in 1995 and using it until v4, I moved to eMagic’s Logic in 2002. Transitioned to Apple’s [Logic Pro X](https://www.apple.com/logic-pro/) a bit late, I stayed there until last year. All in all, **it’s been 18 years with Logic**.
 
 {% include pattern-figure.html image="/assets/images/daw-logic-platinum.jpg" caption="2002: Logic Audio Platinum 5" width="768" height="581" %}
 
 ## Pro Tools
 
-I used plenty of other audio software over time and had always felt like **Logic was never the best choice for post-production**. After a problematic job, last year I finally jumped ship and paid Avid for 12 months of [Pro Tools subscription](https://avid.com/pro-tools/comparison){:target="_blank" rel="noopener"}. Despite being already familiar with the program, it substantially changed my workflow for the better.
+I used plenty of other audio software over time and had always felt like **Logic was never the best choice for post-production**. After a problematic job, last year I finally jumped ship and paid Avid for 12 months of [Pro Tools subscription](https://avid.com/pro-tools/comparison). Despite being already familiar with the program, it substantially changed my workflow for the better.
 
 I see it as a brilliant computer metaphor for someone who **learned the craft in the analog world**. The management of the I/O, the way it handles sends and returns, and above all, the powerful and fast audio editing. Yet, there’s something about it that always felt awkward to me. I didn’t enjoy its distinct lack of personalization, the difficult compatibility, and the **unpredictability software-wise**. Too many random crashes and obscure error messages that never quite stood up to its price.
 
@@ -64,7 +64,7 @@ Now, with my subscription about to expire, and irritated by the idea of another 
 
 ## Enter REAPER
 
-Over the past ten years, I’ve been following several professionals who switched to REAPER by Cockos. Moreover, during my recent **rekindling with game audio**, I’ve discovered that REAPER has become a [_de facto_ standard in that industry](https://www.reddit.com/r/GameAudio/comments/4wpqtt/why_is_reaper_recommended_so_much_for_game_audio/){:target="_blank" rel="noopener"}.
+Over the past ten years, I’ve been following several professionals who switched to REAPER by Cockos. Moreover, during my recent **rekindling with game audio**, I’ve discovered that REAPER has become a [_de facto_ standard in that industry](https://www.reddit.com/r/GameAudio/comments/4wpqtt/why_is_reaper_recommended_so_much_for_game_audio/).
 
 {% include pattern-video.html id="F2KuotvUaQU" title="One of many videos about REAPER in game audio" %}
 
@@ -101,7 +101,7 @@ REAPER is not free. The trial lasts for two months, after which the software kee
   </tbody>
 </table>
 
-Each license includes **two major releases**. For instance, I bought it now, at v6.x, which gives me free updates until v7.99 included. To put things in perspective, Logic Pro X costs **`€199`**, _no exceptions_. If you’re in REAPER’s discounted tier, it takes 6 major releases to reach the amount of money Apple charges. That [could translate to many years](https://en.wikipedia.org/wiki/REAPER#Version_history){:target="_blank" rel="noopener"}.
+Each license includes **two major releases**. For instance, I bought it now, at v6.x, which gives me free updates until v7.99 included. To put things in perspective, Logic Pro X costs **`€199`**, _no exceptions_. If you’re in REAPER’s discounted tier, it takes 6 major releases to reach the amount of money Apple charges. That [could translate to many years](https://en.wikipedia.org/wiki/REAPER#Version_history).
 
 I won’t go down the rabbit hole of Avid’s pricing policy. As a frame of reference, **Pro Tools regular is `€340` per year** (including VAT). Avid also offers a “perpetual” license at **`€682`**: it doesn’t include all the goodies reserved to subscribers, it only comes with one year of updates and it’s so well hidden in the website I suspect they’ll remove it sooner or later. Just consider this: over the next ten years — the average it takes REAPER to release two full major updates — I would have spent up to **`€3400` on Pro Tools** alone. Pandemic or not, I seriously struggle to see why would I want to pay that much money when I can do the same things with a different software.
 

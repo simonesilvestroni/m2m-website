@@ -78,6 +78,6 @@ For the last twenty years, I've been obsessed with the idea of recovering my lat
 ## Reviews
 
 > In the band I started, Simone was the most involved with regards to arrangement and dynamics. Using his fretless bass, he completely switched the mood of any given part. Simone and I have been working on my new releases, and it’s been an incredibly worthwhile experience. It’s great to have him with me to lead the production side and also to influence the arrangement. I’m really happy to have a producer that understands completely my process as a songwriter.
-> <cite>— Callum Gardner, [Singer-songwriter](https://callumgardnerofficial.com/){:target="_blank" rel="noopener"}</cite>
+> <cite>— Callum Gardner, [Singer-songwriter](https://callumgardnerofficial.com/)</cite>
 
 {% include pattern-button.html link="/contact/" center=true text="Hire me" %}

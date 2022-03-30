@@ -15,7 +15,7 @@ permalink: '/epk/'
 ---
 
 > <span class="fs-3">The direct and immersive narrative allows history to speak for itself without being preachy or forced. The artist gives us a unique perspective of an outsider who manages to observe a great deal of pain without being directly subjected to it.  Its themes are timely and human, and effortlessly connect with a modern audience. _After 1989_ is an immersive and interesting experiment in storytelling that will leave listeners meditating on its heavy themes.</span>
-> <cite>— [Indierepublik Berlin](https://indierepublik.com/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/){:target="_blank" rel="noopener"}</cite>
+> <cite>— [Indierepublik Berlin](https://indierepublik.com/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/)</cite>
 
 ---
 
@@ -40,4 +40,4 @@ permalink: '/epk/'
 ---
 
 > <span class="fs-3">The project is very impressive both in conception and execution. I love the way you’ve chosen to tell the story, the visuals, and the juxtaposition of the two Berlin experiences. It definitely reminds me a bit of Pink Floyd, both in the scope of the concept album but also the blues-influence that runs through the music and informs the whole thing stylistically. Congratulations on creating a work that tackles an immense subject and brings a great deal of emotional depth and insight into it.</span>
-> <cite>— [Eric Beall](https://online.berklee.edu/faculty/eric-beall){:target="_blank" rel="noopener"}, Berklee College of Music</cite>
+> <cite>— [Eric Beall](https://online.berklee.edu/faculty/eric-beall), Berklee College of Music</cite>

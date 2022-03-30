@@ -18,9 +18,9 @@ excerpt: "The company behind <em>MuseScore</em> has announced the acquisition of
 ---
 As stated on their website:
 
-> [Audacity](https://www.audacityteam.org/){:target="_blank" rel="noopener"} is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Developed by a group of volunteers as open source.
+> [Audacity](https://www.audacityteam.org/) is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Developed by a group of volunteers as open source.
 
-I watched the video announcement by Martin Keary of [Muse Group](https://mu.se/){:target="_blank" rel="noopener"}, in the hope that another brilliant tool would improve while staying open source and free for its users. He said:
+I watched the video announcement by Martin Keary of [Muse Group](https://mu.se/), in the hope that another brilliant tool would improve while staying open source and free for its users. He said:
 
 > Audacity has just joined Muse Group, a collection of brands that includes another popular open source music app called MuseScore, which I’m currently in charge of. And since things are going rather well at MuseScore, I was asked to step up and also manage Audacity in partnership with its open source community. And just like we’re doing at MuseScore, we’re now planning on significantly improving the feature set and ease of use of Audacity – providing dedicated designers and developers to give it the attention it deserves – while keeping it free and open source.
 > 

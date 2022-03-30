@@ -38,6 +38,6 @@ excerpt: 'Cheering crowds greet the President at Dallas airport. As the motorcad
 ### Production
 
 **Music, lyrics and production** / Simone Silvestroni  
-**Video** / [Silvia Maggi](https://silviamaggidesign.com){:target="_blank" rel="noopener"}  
-**Management** / Christopher Carvalho of [Unlock Your Sound Ltd](https://unlockyoursound.com/){:target="_blank" rel="noopener"}  
-**Master** / [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd){:target="_blank" rel="noopener"}
+**Video** / [Silvia Maggi](https://silviamaggidesign.com)  
+**Management** / Christopher Carvalho of [Unlock Your Sound Ltd](https://unlockyoursound.com/)  
+**Master** / [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd)

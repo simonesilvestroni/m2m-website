@@ -16,7 +16,7 @@ excerpt: 'The article <em>Producing Bass Tracks Remotely</em>, originally publis
 ---
 ## Release
 
-{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://antiquitysessions1.bandcamp.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://antiquitysessions1.bandcamp.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
 
 <div class="text-center my-5 py-3">
   <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/sound-design/producing-bass-remotely/" title="Read the case study"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the case study</strong></span></a>

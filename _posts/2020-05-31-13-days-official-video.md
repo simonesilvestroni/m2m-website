@@ -19,7 +19,7 @@ excerpt: '1962. Kennedy announces proof of a build-up of Soviet missiles in Cuba
 
 ---
 
-🔗 **Read the reviews** by [Indie Buddie](http://www.indiebuddie.com/indie-quick-picks-41/){:target="_blank" rel="noopener"} and [Secret Eclectic](https://secreteclectic.com/2020/08/02/minutes-to-midnight-13-days/){:target="_blank" rel="noopener"}.
+🔗 **Read the reviews** by [Indie Buddie](http://www.indiebuddie.com/indie-quick-picks-41/) and [Secret Eclectic](https://secreteclectic.com/2020/08/02/minutes-to-midnight-13-days/).
 
 ## Video
 
@@ -38,13 +38,13 @@ excerpt: '1962. Kennedy announces proof of a build-up of Soviet missiles in Cuba
 
 **Music, lyrics and production** / Simone Silvestroni  
 **Arrangement** / Paolo Clementi  
-**Management** / Christopher Carvalho / [Unlock Your Sound Ltd](https://unlockyoursound.com/){:target="_blank" rel="noopener"}  
+**Management** / Christopher Carvalho / [Unlock Your Sound Ltd](https://unlockyoursound.com/)  
 **Master** / Ian Shepherd  
 
 ### Video
 
-**Original 2020 footage** / [Silvia Maggi](https://silviamaggidesign.com/){:target="_blank" rel="noopener"}, Cambridge (UK), and [Andy Bonnor](https://linktr.ee/Andia){:target="_blank" rel="noopener"}, Mikkeli (Finland).  
-**Repertoire** / National Archives, United States Air Force, Cuban missile crisis footage by [David G. Coleman](https://historyinpieces.com/){:target="_blank" rel="noopener"}, Prelinger Archive.
+**Original 2020 footage** / [Silvia Maggi](https://silviamaggidesign.com/), Cambridge (UK), and [Andy Bonnor](https://linktr.ee/Andia), Mikkeli (Finland).  
+**Repertoire** / National Archives, United States Air Force, Cuban missile crisis footage by [David G. Coleman](https://historyinpieces.com/), Prelinger Archive.
 
 
 <div class="text-center my-5 py-3">

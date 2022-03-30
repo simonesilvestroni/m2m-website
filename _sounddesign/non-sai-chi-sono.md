@@ -20,11 +20,11 @@ permalink: '/work/sound-design/non-sai-chi-sono/'
 ---
 ## Release
 
-{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=2164870187/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless=""><a href="https://music.minutestomidnight.co.uk/track/non-sai-chi-sono-remix">Non sai chi sono (remix) by Minutes to Midnight + Emilio Albertoni</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=2164870187/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/track/non-sai-chi-sono-remix">Non sai chi sono (remix) by Minutes to Midnight + Emilio Albertoni</a></iframe>' %}
 
 ## Backstory
 
-January 2020, an old friend and former music partner, [Gianluca Lo Presti](https://open.spotify.com/artist/0ugkXokPU3KaXX3X9BFes7){:target="_blank" rel="noopener"}, had recently lost his father. A new album dedicated to reflecting on their time together was in the works. The idea included a companion EP of remixes, done by friends and former collaborators.
+January 2020, an old friend and former music partner, [Gianluca Lo Presti](https://open.spotify.com/artist/0ugkXokPU3KaXX3X9BFes7), had recently lost his father. A new album dedicated to reflecting on their time together was in the works. The idea included a companion EP of remixes, done by friends and former collaborators.
 
 Gianluca asked us to choose a song to our liking and **produce a remix together**. We had complete creative freedom, and several months at our disposal. After listening, in isolation, to an early demo of the album, Emilio and I selected the same song: _Non so chi sei_ (“I don’t know you”).
 

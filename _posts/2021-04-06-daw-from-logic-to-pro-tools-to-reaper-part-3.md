@@ -121,7 +121,7 @@ It’s an unbelieavably **powerful, fast and flexible piece of software**, I reg
 
 ### Bonus: other software
 
-I still fire up Logic for its virtual instruments, especially for pure sound design. I do plan to try **REAPER and Logic (or Reason) in sync**: if the ventilation system of my machine doesn’t catch fire, I’d like to have the opportunity. For anything related to restoration, advanced audio editing and clean-up I set [iZotope RX](https://www.izotope.com/en/products/rx.html){:target="_blank" rel="noopener"} as my **default external editor**. In this case, the workflow is:
+I still fire up Logic for its virtual instruments, especially for pure sound design. I do plan to try **REAPER and Logic (or Reason) in sync**: if the ventilation system of my machine doesn’t catch fire, I’d like to have the opportunity. For anything related to restoration, advanced audio editing and clean-up I set [iZotope RX](https://www.izotope.com/en/products/rx.html) as my **default external editor**. In this case, the workflow is:
 
 1. <kbd>right-click on an audio region</kbd>
 2. <kbd>edit in external editor</kbd>
@@ -131,6 +131,6 @@ I still fire up Logic for its virtual instruments, especially for pure sound des
 
 ---
 
-Thanks for reading. I leave you with a video by American composer, producer and sound designer [Nick Peck](https://nicolaspeck.com/){:target="_blank" rel="noopener"}, who explains in 18 minutes his **11 reasons to switch from Pro Tools to REAPER**:
+Thanks for reading. I leave you with a video by American composer, producer and sound designer [Nick Peck](https://nicolaspeck.com/), who explains in 18 minutes his **11 reasons to switch from Pro Tools to REAPER**:
 
 {% include pattern-video.html id="BKCvJsG-zrQ" %}

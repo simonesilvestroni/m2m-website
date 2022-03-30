@@ -30,7 +30,7 @@ permalink: '/work/sound-design/after-1989/'
 
 {% include pattern-bandcamp.html size="bc-album" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 
-On [Bandcamp](https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom){:target="_blank" rel="noopener"}, the album features:
+On [Bandcamp](https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom), the album features:
 
 - online streaming,
 - download in **high-resolution audio**,
@@ -92,11 +92,11 @@ Overall, _After 1989_ was recorded in Ravenna and Milan (**Italy**), London and 
 
 The next phase was edit, polish and mix. I employed a technique borrowed from **Andrew Scheps**: work on three songs at the same time. This way I could focus on the big picture, exchanging methods between different pieces as I moved along.
 
-I also eagerly dived more deeply into [Michael Brauer's multi-bus compression](https://brauerizing.wordpress.com/){:target="_blank" rel="noopener"} technique, which I already experimented with in previous productions. More powerful and even better refined, today it's still a staple in my templates.
+I also eagerly dived more deeply into [Michael Brauer's multi-bus compression](https://brauerizing.wordpress.com/) technique, which I already experimented with in previous productions. More powerful and even better refined, today it's still a staple in my templates.
 
 {% include pattern-figure.html image="/assets/images/multi-bus-brauer.png" caption="My current multi-bus tracks in REAPER" width="420" height="687" %}
 
-In a nutshell: instead of applying a single mix bus compressor, the multi-bus methodology requires sending different instruments, **grouped by function and frequency range**, to four different set of compressors. I route piano and other synths to bus A, drums and bass to bus B, guitars, certain strings and synths to bus C, sound effects plus reverbs and delays to bus D. This way, the compressors act on specific settings without squashing material that they're not suited for. A thorough [calibration](https://youtu.be/M0akUKhkok0){:target="_blank" rel="noopener"} is required before starting to apply any routing.
+In a nutshell: instead of applying a single mix bus compressor, the multi-bus methodology requires sending different instruments, **grouped by function and frequency range**, to four different set of compressors. I route piano and other synths to bus A, drums and bass to bus B, guitars, certain strings and synths to bus C, sound effects plus reverbs and delays to bus D. This way, the compressors act on specific settings without squashing material that they're not suited for. A thorough [calibration](https://youtu.be/M0akUKhkok0) is required before starting to apply any routing.
 
 Once the mix was complete, I engaged with renowned master engineer **Ian Shepherd** (co-author of the famous _Loudness penalty_ website and organizer of Dynamic Range Day), who perfected it all.
 
@@ -137,7 +137,7 @@ At the time, I chose **CD Baby** for digital distribution. As a member of PRS an
 > <cite>— [Rosa Nadine Sanchéz Xochimilco](/work/sound-design/after-1989-reviews/), author</cite>
 
 > The direct and immersive narrative allows history to speak for itself without being preachy or forced. The artist gives us a unique perspective of an outsider who manages to observe a great deal of pain without being directly subjected to it. Its themes are timely and human, and effortlessly connect with a modern audience. _After 1989_ is an immersive and interesting experiment in storytelling that will leave listeners meditating on its heavy themes.
-> <cite>— [IndieRepublik Berlin](https://indierepublik.com/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/){:target="_blank" rel="noopener"}</cite>
+> <cite>— [IndieRepublik Berlin](https://indierepublik.com/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/)</cite>
 
 <div class="my-5 pb-4 text-center">
   <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/sound-design/after-1989-reviews/" title="Read all the reviews"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read all the reviews</strong></span></a>
@@ -279,15 +279,15 @@ Original sound effects recording, editing and historical samples restoration by 
 ### Production
 
 Recorded, produced and mixed by Minutes to Midnight at the Garden Room, Cambridge, UK.  
-Mastered by [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd){:target="_blank" rel="noopener"}.  
-Management by Christopher Carvalho, [Unlock Your Sound Ltd](https://unlockyoursound.com){:target="_blank" rel="noopener"}.  
+Mastered by [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd).  
+Management by Christopher Carvalho, [Unlock Your Sound Ltd](https://unlockyoursound.com).  
 
 ### Design
 
 Sleeve design by Simone Silvestroni.  
-Photography and cover photo digital retouch by [Silvia Maggi](https://silviamaggidesign.com){:target="_blank" rel="noopener"}, Berlin, Oranienburg, 2017-2019.  
+Photography and cover photo digital retouch by [Silvia Maggi](https://silviamaggidesign.com), Berlin, Oranienburg, 2017-2019.  
 Cover photo by Dan Budnik: _An elderly woman, standing at the Berlin Wall, West sector, with hands raised, waiting to see her East Berlin friends and relatives_ (1961).    
-CD photo by [Adam Jones](https://www.flickr.com/people/adam_jones){:target="_blank" rel="noopener"}: _Prisoner's Uniform with Red Triangle of Political Enemy: Majdanek Concentration Camp, Lublin, Poland_.  
+CD photo by [Adam Jones](https://www.flickr.com/people/adam_jones): _Prisoner's Uniform with Red Triangle of Political Enemy: Majdanek Concentration Camp, Lublin, Poland_.  
 
 ### Thanks
 

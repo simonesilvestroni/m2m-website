@@ -28,19 +28,19 @@ comments:
 
 Bandcamp is the best way to ensure independent artists can continue producing great records, providing music lovers with a great listening experience, in high quality audio.
 
-{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=2838120524/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" seamless=""><a href="https://antiquitysessions1.bandcamp.com/track/shelter-from-a-storm">Shelter From A Storm by Antiquity</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=2838120524/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" seamless=""><a href="https://antiquitysessions1.bandcamp.com/track/shelter-from-a-storm">Shelter From A Storm by Antiquity</a></iframe>' %}
 
 ## Recording music under a storm
 
-Crafted by [Gerald](https://antiquitysessions1.bandcamp.com/track/shelter-from-a-storm){:target="_blank" rel="noopener"}, while an actual storm was battering New York, this new song immediately captured my imagination. When he said “it’s calling for your bass”, I agreed. Recorded with a very few takes, cleaned up in half an hour, it’s unquestionably my best [bass recording](/work/sound-design/) yet. Gerald also received this magnificent endorsement by **Leland Sklar** (bassist with Phil Collins, Toto and many more), which makes me immensely proud:
+Crafted by [Gerald](https://antiquitysessions1.bandcamp.com/track/shelter-from-a-storm), while an actual storm was battering New York, this new song immediately captured my imagination. When he said “it’s calling for your bass”, I agreed. Recorded with a very few takes, cleaned up in half an hour, it’s unquestionably my best [bass recording](/work/sound-design/) yet. Gerald also received this magnificent endorsement by **Leland Sklar** (bassist with Phil Collins, Toto and many more), which makes me immensely proud:
 
 > I’m really digging this one. His style reminds me of Paul Webb from Talk Talk. No needless notes. Great tone and feel. Good work, brother.
 > 
-> <cite>— [Leland Sklar](https://en.wikipedia.org/wiki/Leland_Sklar){:target="_blank" rel="noopener"}</cite>
+> <cite>— [Leland Sklar](https://en.wikipedia.org/wiki/Leland_Sklar)</cite>
 
 ## Production notes
 
-I’ve had the pleasure to **co-produce the single**, working with [Dan Ecclestone](/blog/hidden-music-dan-ecclestone/) on his vocal parts, helping create what seems to be our most powerful release to date. Gerald completed the mix, [Chris Pavey](https://chrispaveymastering.com/){:target="_blank" rel="noopener"} of CPM mastered.
+I’ve had the pleasure to **co-produce the single**, working with [Dan Ecclestone](/blog/hidden-music-dan-ecclestone/) on his vocal parts, helping create what seems to be our most powerful release to date. Gerald completed the mix, [Chris Pavey](https://chrispaveymastering.com/) of CPM mastered.
 
 I’ve asked the guys to let me know their feelings about **the process** that lead to this gem of a song. These are their impressions.
 

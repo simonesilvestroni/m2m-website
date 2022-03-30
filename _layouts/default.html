@@ -21,7 +21,7 @@
 {% endif -%}
 <noscript>Please enable JavaScript to use the search functionality, or use the form below.</noscript>
 {%- endif -%}
-{%- if page.url contains '/blog/' -%}
+{%- if page.url contains '/blog/' or page.collection == 'webdesign' or page.collection == 'sounddesign' -%}
 {%- if jekyll.environment == "production" %}
 <script src="/assets/js/webmention.min.js" async></script>
 {%- else -%}

@@ -23,13 +23,13 @@ Back in 2009, I was the bassist for a trio in the Milan area. The band was about
 
 The experiment was a success, so we decided to repeat the process for some of the new compositions. The first one was a rough piece, featuring a screaming distorted guitar, playing long notes in what appeared to be a rough undefined verse/chorus layout. In my arrangement, I introduced the drums within the chorus, together with a **pick-played bass guitar**. It now felt like a proper song, with a refined structure and a bass part that was a hook in itself.
 
-Despite the fantastic chemistry with the [drummer](https://www.discogs.com/artist/1836203-Carlo-Prussiani){:target="_blank" rel="noopener"}, I parted ways with the band a few weeks later. However, I was smart enough to _keep the source files_ of my complex arrangement.
+Despite the fantastic chemistry with the [drummer](https://www.discogs.com/artist/1836203-Carlo-Prussiani), I parted ways with the band a few weeks later. However, I was smart enough to _keep the source files_ of my complex arrangement.
 
 ## _Nine Eleven_
 
 After stripping away all the original guitars, I rewrote the piece with a different groove, similar bass and keyboard parts on a new chord structure. It was a solid backbone for something, and I was excited. Next, was blending in a piano sequence from my [years as a composer for video games](/work/sound-design/console-game-ruff-trigger/). Originally written right before 9/11 happened, it fit beautifully. Like most people, I’ve experienced that dreadful day on live television, so I decided to make this new music go along with some of the original live commentaries.
 
-I enhanced the piano progression, added a tom roll in anticipation for the choruses and wrote a guitar solo. Finally, I sampled the audio from the [footage shot around the WTC](https://www.youtube.com/watch?v=IJpql03lDKQ){:target="_blank" rel="noopener"} where the events unfolded. The song, then re-titled _Nine Eleven_, went on to become the first single and lead song for my album [After 1989](/work/sound-design/after-1989/), _Skinny Kid_.
+I enhanced the piano progression, added a tom roll in anticipation for the choruses and wrote a guitar solo. Finally, I sampled the audio from the [footage shot around the WTC](https://www.youtube.com/watch?v=IJpql03lDKQ) where the events unfolded. The song, then re-titled _Nine Eleven_, went on to become the first single and lead song for my album [After 1989](/work/sound-design/after-1989/), _Skinny Kid_.
 
 {% include pattern-figure.html image="/assets/images/nine-eleven-reason.jpeg" caption="The two choruses, as shown in **Propellerhead’s Reason** above, had an eerie resemblance with the twin towers" width="1024" height="951" %}
 
@@ -46,7 +46,7 @@ Since I wrote the song during different time frames, it went through a diverse s
 
 ## Demo
 
-{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2694261691/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=3370953346/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom-original-demos-outtakes">After 1989: A Trip To Freedom (Original Demos &amp; Outtakes) by Minutes to Midnight</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2694261691/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=3370953346/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom-original-demos-outtakes">After 1989: A Trip To Freedom (Original Demos &amp; Outtakes) by Minutes to Midnight</a></iframe>' %}
 
 ## Towards Sachsenhausen
 
@@ -63,7 +63,7 @@ _Skinny Kid_ was the first piece that I turned into a proper song when I refacto
 
 > _Skinny Kid_ is a tender delicate number as Simone expresses emotional and harrowing themes through a bitter, icy piano and tense progressive soundscapes. With a steady beat pounding through weaving guitars and ominous rumble on bass, the track projects images of isolation and loneliness by means of sinister chilling twinkles and tender vocals. The haunting backing vocals and lamenting pines on guitar have a chilling element as Simone portrays this harsh experience with sublime instrumentation and vivid musicianship. 
 > 
-> <cite>— [Indie Buddie](https://www.indiebuddie.com/minutes-to-midnight-skinny-kid-video-premiere/){:target="_blank" rel="noopener"}</cite>
+> <cite>— [Indie Buddie](https://www.indiebuddie.com/minutes-to-midnight-skinny-kid-video-premiere/)</cite>
 
 <div class="text-center my-5 py-3">
   <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/sound-design/after-1989/" title="Read the album case study"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the album case study</strong></span></a>
@@ -87,6 +87,6 @@ _Skinny Kid_ was the first piece that I turned into a proper song when I refacto
 ### Production
 
 **Music, lyrics and production** / Simone Silvestroni  
-**Music video** / [Silvia Maggi](https://silviamaggidesign.com/){:target="_blank" rel="noopener"}  
-**Master** / [Ian Shepherd](https://productionadvice.co.uk/about/){:target="_blank" rel="noopener"}  
-**Management** / Christopher Carvalho – [Unlock Your Sound Ltd](https://unlockyoursound.com/){:target="_blank" rel="noopener"}
+**Music video** / [Silvia Maggi](https://silviamaggidesign.com/)  
+**Master** / [Ian Shepherd](https://productionadvice.co.uk/about/)  
+**Management** / Christopher Carvalho – [Unlock Your Sound Ltd](https://unlockyoursound.com/)

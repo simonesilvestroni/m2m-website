@@ -22,7 +22,7 @@ permalink: '/work/sound-design/producing-bass-remotely/'
 
 The following analysis is based on my work for [Antiquity](https://antiquity-music.com/), and their recent single _The Far Side Of The Sun_. They are **based in New York**. At the time of the collaboration I had been living in the UK.
 
-{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://antiquitysessions1.bandcamp.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://antiquitysessions1.bandcamp.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
 
 ## Stage 1: Assessment
 
@@ -133,6 +133,6 @@ Unless I’m working on a larger project, for which I use my [Trello system](/wo
 ## Client review
 
 > I’ve worked with Simone on both my projects and his and the professionalism and quality of his work is world class. I have rarely had to give direction and he takes direction like an interested pro. I’m very partial to his style and tone. I hope to be still playing with him in the years to come. If you want a bass track that stands out and makes people sit up and listen, Simone is your man.
-> <cite>— Gerald Duchene, [Antiquity](http://antiquity-music.com/){:target="_blank" rel="noopener"}</cite>
+> <cite>— Gerald Duchene, [Antiquity](http://antiquity-music.com/)</cite>
 
 {% include pattern-button.html link="/contact/" center=true text="Hire me" %}

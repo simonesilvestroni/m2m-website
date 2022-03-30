@@ -33,5 +33,5 @@ _Eclipse_ is a new single, part of a different batch of new releases, where I up
 
 ## Follow Method Sinik
 
-* [Spotify](https://open.spotify.com/artist/2QVckmsvX8VWle4FU2xbKo){:target="_blank" rel="noopener"}
-* [YouTube](https://www.youtube.com/channel/UCLDl0augblU14OXs7mzBFDg){:target="_blank" rel="noopener"}
+* [Spotify](https://open.spotify.com/artist/2QVckmsvX8VWle4FU2xbKo)
+* [YouTube](https://www.youtube.com/channel/UCLDl0augblU14OXs7mzBFDg)

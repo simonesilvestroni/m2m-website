@@ -14,7 +14,7 @@ tags:
 description: "New music video, to celebrate the first anniversary of my debut solo album, 'After 1989: A Trip to Freedom'."
 excerpt: "A year ago today, on the 30th anniversary of the fall of the Berlin Wall, I published my debut solo album, <em>After 1989: A Trip to Freedom</em>."
 ---
-To celebrate the first anniversary of the release, I published the 5th official video from the album, on my [YouTube channel](https://www.youtube.com/channel/UCXO3ZbalCLwCZwHk_UkDBHg){:target="_blank" rel="noopener"}. The song is _The Logic_.
+To celebrate the first anniversary of the release, I published the 5th official video from the album, on my [YouTube channel](https://www.youtube.com/channel/UCXO3ZbalCLwCZwHk_UkDBHg). The song is _The Logic_.
 
 {% include pattern-video.html id="r9NyAYXOnyk" %}
 
@@ -35,8 +35,8 @@ To celebrate the first anniversary of the release, I published the 5th official 
 ### Production
 
 **Music, lyrics and production** / Simone Silvestroni  
-**Master** / [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd){:target="_blank" rel="noopener"}  
-**Management** / Christopher Carvalho, [Unlock Your Sound](https://unlockyoursound.com/){:target="_blank" rel="noopener"} Ltd.
+**Master** / [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd)  
+**Management** / Christopher Carvalho, [Unlock Your Sound](https://unlockyoursound.com/) Ltd.
 
 <p class="detached"><mark class="m2m-highlight small"><strong>Released</strong>: November 9, 2020</mark></p>
 

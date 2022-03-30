@@ -26,7 +26,7 @@ permalink: '/work/sound-design/after-1989-reviews/'
     <div class="col-lg-10 col-md-12 mx-auto">
       <div class="clearfix">
         <img class="img-thumbnail float-start me-3 mb-3" src="/assets/images/rnxs.jpg" width="100" height="100" alt="Portrait of Rosa Nadine Xochimilco Sánchez">
-        <p class="detached fs-6">Author, small press founder and publisher of <a href="http://xochimilcopress.com/" target="_blank" rel="noopener">Xochimilco Press</a>, Rosa has recently published the books of poems: <em>Blue Bones, Blood Roses, Black Eyes</em> and <em>Hearts Aflame, Still Burning</em>.</p>
+        <p class="detached fs-6">Author, small press founder and publisher of <a href="http://xochimilcopress.com/">Xochimilco Press</a>, Rosa has recently published the books of poems: <em>Blue Bones, Blood Roses, Black Eyes</em> and <em>Hearts Aflame, Still Burning</em>.</p>
       </div>
     </div>
   </div>
@@ -119,7 +119,7 @@ I look forward to sharing it with family and friends who love history and great 
 
 ### A journey of choices & consequences, by IndieRepublik (Berlin)
 
-**Written by** [John Hennessy](https://indierepublik.com/music/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/){:target="_blank" rel="noopener"}, November 25, 2019.  
+**Written by** [John Hennessy](https://indierepublik.com/music/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/), November 25, 2019.  
 <br>
 With a dark and melancholic rock backdrop, the singer-songwriter uses multi-generational experience to explore themes of freedom, memory and personal growth, pieced together with immersive news coverage and a U-bahn journey from central Berlin to Sachsenhausen.  
 
@@ -150,7 +150,7 @@ _After 1989_ is **an immersive and interesting experiment in storytelling** that
 
 ### A trip to freedom, by _Angry Baby_
 
-**Written by** [Angry Baby](https://www.angrybaby.co.uk/minutes-to-midnight-after-1989-a-trip-to-freedom/){:target="_blank" rel="noopener"}, January 27, 2020.  
+**Written by** [Angry Baby](https://www.angrybaby.co.uk/minutes-to-midnight-after-1989-a-trip-to-freedom/), January 27, 2020.  
 <br>
 _After 1989 – A Trip to Freedom_ is Minutes to Midnight's first album and is what the concept was set up to showcase. It tells the story from Simone’s perspective as a grandson, following the trail of his grandfather who managed to escape Germany in 1945.  
 

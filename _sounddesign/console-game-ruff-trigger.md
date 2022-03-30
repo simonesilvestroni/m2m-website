@@ -260,6 +260,6 @@ While I updated my skills by studying Wwise, FMOD and their relation with major 
 > <cite>— Daniele Pieroni, [Senior Game Developer Relations Engineer at Intel Corporation](https://www.linkedin.com/in/danielepieroni/)</cite>
 
 > Simone is a very talented web designer and audio composer. He pays a lot of attention to quality and detail, and he’s always willing to improve his wide array of skills. Definitely a pleasure to work with.
-> <cite>— Michele Sandroni, [Technical Artist at Bosch Rexroth AG](https://www.linkedin.com/in/michelesandroni/){:target="_blank" rel="noopener"}</cite>
+> <cite>— Michele Sandroni, [Technical Artist at Bosch Rexroth AG](https://www.linkedin.com/in/michelesandroni/)</cite>
 
 {% include pattern-button.html link="/contact/" center=true text="Hire me" %}

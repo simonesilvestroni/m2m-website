@@ -35,7 +35,7 @@ The following is a playlist of the four songs played and discussed in the podcas
 
 {% include pattern-spotify.html id="4ea6J7vATyW23uD9HGjuYN" type="playlist" height="300" %}
 
-Thanks to [Christopher Carvalho](https://unlockyoursound.com/){:target="_blank" rel="noopener"} for this feature.
+Thanks to [Christopher Carvalho](https://unlockyoursound.com/) for this feature.
 
 <div class="text-center my-5 py-3">
   <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/sound-design/after-1989/" title="Read the album case study"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the album case study</strong></span></a>

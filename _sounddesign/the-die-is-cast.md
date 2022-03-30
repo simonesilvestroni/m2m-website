@@ -54,7 +54,7 @@ I treated all the vocal tracks with my go-to set of multiple tracks running **pa
 
 ### Sound effects
 
-A couple of samples, a classic in my original productions, completed the remixes. _Land Of Kings_ features the exact TV announcement that I witnessed at sunup on the day of the referendum (see video above). _Papillon_ references a well-known section of the [maiden speech by Jo Cox](https://www.youtube.com/watch?v=u3OQRnJ1zrQ){:target="_blank" rel="noopener"} — murdered by a far-right extremist a few days before the referendum — at the House of Commons.
+A couple of samples, a classic in my original productions, completed the remixes. _Land Of Kings_ features the exact TV announcement that I witnessed at sunup on the day of the referendum (see video above). _Papillon_ references a well-known section of the [maiden speech by Jo Cox](https://www.youtube.com/watch?v=u3OQRnJ1zrQ) — murdered by a far-right extremist a few days before the referendum — at the House of Commons.
 
 ## Credits
 

@@ -43,6 +43,6 @@ Present-day. I’m in Berlin. After boarding the S-Bahn 1 to Oranienburg, I reli
 ### Production
 
 **Music, lyrics and production** / Simone Silvestroni  
-**Video** / [Silvia Maggi](https://silviamaggidesign.com/){:target="_blank" rel="noopener"}  
-**Master** / [Ian Shepherd](https://productionadvice.co.uk/about/){:target="_blank" rel="noopener"}  
-**Management** / Christopher Carvalho / [Unlock Your Sound Ltd](https://unlockyoursound.com/){:target="_blank" rel="noopener"}  
+**Video** / [Silvia Maggi](https://silviamaggidesign.com/)  
+**Master** / [Ian Shepherd](https://productionadvice.co.uk/about/)  
+**Management** / Christopher Carvalho / [Unlock Your Sound Ltd](https://unlockyoursound.com/)  

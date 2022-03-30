@@ -18,7 +18,7 @@ I believe audio archiving is a nice-to-have additional feature to offer to clien
 
 ## Perfecting the backup strategy
 
-I’m constantly perfecting my backup and archive strategy, which includes both my work and personal data, and clients’. I rely on a proven [3-2-1 technique](https://www.backblaze.com/blog/the-3-2-1-backup-strategy/){:target="_blank" rel="noopener"}: three copies of everything at all times, two local and one off-site. Specifically:
+I’m constantly perfecting my backup and archive strategy, which includes both my work and personal data, and clients’. I rely on a proven [3-2-1 technique](https://www.backblaze.com/blog/the-3-2-1-backup-strategy/): three copies of everything at all times, two local and one off-site. Specifically:
 
 <ul class="list-group list-group-flush">
   <li class="list-group-item my-0">💿 Two sets of redundant RAID drives running daily backups on both OSes.</li>

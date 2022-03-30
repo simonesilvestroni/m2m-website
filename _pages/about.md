@@ -31,7 +31,7 @@ I'm an avid reader, constantly eager to know the latest about the audio and tech
 
 Before releasing the theatrical concept [_After 1989_](/work/sound-design/after-1989/), I wanted to establish a **connection between work activity and personal history**. It was the foundation for Minutes to Midnight’s name and logo: a tie with the unstable and risky world I grew up in during the Cold War.
 
-The expression _Minutes to midnight_ is a reference to the [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock){:target="_blank" rel="noopener"}. The logo is derivative of the radiation symbol combined with the glyph used in fallout shelter signs.
+The expression _Minutes to midnight_ is a reference to the [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock). The logo is derivative of the radiation symbol combined with the glyph used in fallout shelter signs.
 
 ## Website
 

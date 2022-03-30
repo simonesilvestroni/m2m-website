@@ -45,9 +45,9 @@ Here is a detailed list of <a href="/uses/">everything I use</a>, software and h
 A representative selection of the [**27 recommendations** I received on LinkedIn](https://www.linkedin.com/in/minutes2mid/).
 
 > What’s always impressed me about Simone is his attention to detail, which he demonstrates in every area of his work. Not only is he a prolific producer and bassist, but he easily comprehends and executes on the most abstract concepts across tech, audio, marketing, branding, and visual arts. When you work with Simone, everything is down, documented, and organised, which makes it very easy to work with him directly or in the context of a team.
-> <cite>— Christopher Carvalho, [Unlock Your Sound](https://unlockyoursound.com/){:target="_blank" rel="noopener"}</cite>
+> <cite>— Christopher Carvalho, [Unlock Your Sound](https://unlockyoursound.com/)</cite>
 
 > My experience of working with Simone has always been very positive and enjoyable. Simone always takes a pragmatic and investigative approach to finding solutions for our needs and has very friendly and helpful attitude. His attention to detail makes him always deliver perfect coded products, saving us time and concerns on the web projects he develops.
-> <cite>— Gabriele Rosati, [UX and interaction design manager at UniCredit](https://www.linkedin.com/in/rosati/){:target="_blank" rel="noopener"}</cite>
+> <cite>— Gabriele Rosati, [UX and interaction design manager at UniCredit](https://www.linkedin.com/in/rosati/)</cite>
 
 {% include pattern-button.html link="/contact/" center=true text="Hire me" %}

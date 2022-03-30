@@ -27,7 +27,7 @@ The website adopts a secure <abbr title="Secure Sockets Layer">SSL</abbr> protoc
 
 ## Newsletter
 
-If you subscribe to my newsletter, I will collect your email address, which will be stored by Mailchimp. It will be used solely to send you occasinal emails. I do not share it with anyone. You can unsubscribe at any moment via the link in my newsletters. Learn more about [Mailchimp’s privacy practices](https://mailchimp.com/legal/ "Go to the Mailchimp website"){:target="_blank" rel="noopener"}.
+If you subscribe to my newsletter, I will collect your email address, which will be stored by Mailchimp. It will be used solely to send you occasinal emails. I do not share it with anyone. You can unsubscribe at any moment via the link in my newsletters. Learn more about [Mailchimp’s privacy practices](https://mailchimp.com/legal/ "Go to the Mailchimp website").
 
 ## Contact information
 
