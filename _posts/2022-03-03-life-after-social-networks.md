@@ -10,8 +10,8 @@ tags:
   - instagram
   - behavioral modification
   - popular
-description: "My point of view about the pros of being outside social networks."
-excerpt: "My point of view about the pros of being outside social networks for the last 19 months."
+description: "My point of view about the pros of being outside mainstream social networks for the last 19 months. In response to a post by Steve Lawson."
+excerpt: "My point of view about the pros of being outside mainstream social networks for the last 19 months."
 mention: true
 mentionReplyUrl: 'https://www.stevelawson.net/2021/08/keeping-your-soul-in-an-algorithmic-world/'
 mentionReplyTitle: '<em>Keeping your soul in an alghoritmic world</em> (Steve Lawson)'
