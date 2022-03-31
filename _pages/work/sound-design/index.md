@@ -3,7 +3,7 @@ layout: page
 title: 'Sound Design'
 date: '2021-11-08 10:49:23'
 last_modified_at: '2022-02-12 18:59:39'
-description: "My work as a producer, game audio specialist and audio editor."
+description: "Highlighting my work as a sound designer, bassist, music producer and composer, game audio specialist and audio editor."
 excerpt: "<strong>Sculpting sound</strong> has always been a massive creative push. Whether creating the foundation with the bass, realizing an artist’s vision by producing and mixing, recording in the field for game audio and up to editing and restoration, sound design is a constant source of excitement."
 permalink: '/work/sound-design/'
 ---
