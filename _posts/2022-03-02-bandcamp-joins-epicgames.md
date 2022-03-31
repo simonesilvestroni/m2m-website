@@ -9,7 +9,7 @@ tags:
   - epic games
   - music distribution
   - streaming
-description: "Bandcamp joins Epic Games, the makers of Fortnite and Unreal Engine."
+description: "Bandcamp CEO Ethan Diamond announces his company is joining Epic Games, the makers of Fortnite and Unreal Engine."
 excerpt: "Bandcamp joins Epic Games, the makers of Fortnite and Unreal Engine and champions for a fair and open Internet, says Bandcamp's CEO Ethan Diamond."
 ---
 I just got this email from Bandcamp, signed by its CEO Ethan Diamond:
