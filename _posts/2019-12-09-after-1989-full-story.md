@@ -18,6 +18,7 @@ description: "A short chronicle of what I did to retrace my grandfather's steps 
 excerpt: "I went back to Berlin, retracing my grandfather's steps in Sachsenhausen concentration camp. In the process, I wrote a concept album."
 canonical: 'https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e'
 syndicate: 'https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e'
+sitemap: false
 ---
 {% responsive_image_block %}
   path: assets/images/full-story-featured.jpg

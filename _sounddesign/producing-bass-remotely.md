@@ -16,6 +16,8 @@ description: "In this case study, I expose a process for producing effective bas
 excerpt: "In this case study, I expose a process for producing <strong>effective bass tracks</strong> for clients based in a different city or country."
 toc: true
 canonical: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'
+syndicate: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'
+sitemap: false
 permalink: '/work/sound-design/producing-bass-remotely/'
 ---
 ## Release
