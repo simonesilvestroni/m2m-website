@@ -3,7 +3,7 @@ layout: uses
 title: 'What I use'
 date: '2021-11-08 10:54:03'
 last_modified_at: '2022-03-21 12:31:39'
-description: "Specifics about the hardware and software equipment I use, for both sound and web design."
+description: "Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the uses.tech project."
 excerpt: 'Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the <a href="https://uses.tech/"><code>/uses</code> project</a>. None of the links are affiliate.'
 permalink: '/uses/'
 toc: true
