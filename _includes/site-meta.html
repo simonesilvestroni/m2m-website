@@ -2,7 +2,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {%- if page.robots %}
-<meta name="robots" content="{{ page.robots }}" />
-{% endif %}
+<meta name="robots" content="{{ page.robots }}">
+{% else %}
+<meta name="robots" content="index, follow">
+{% endif -%}
 <title>{% include site-meta-title.html %}</title>
 {% feed_meta %}
