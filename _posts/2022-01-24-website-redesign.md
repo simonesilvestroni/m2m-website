@@ -13,6 +13,7 @@ tags:
   - indieweb
   - webmentions
   - web sustainability
+  - small web
 description: "Minutes to Midnight's new redesigned website is easier to navigate and straight to the point. Built with JAMstack on Netlify."
 excerpt: "4 months after Silvia's announcement, here is Minutes to Midnight's new redesigned website. Easier to navigate and straight to the point, I finally have full control over my code and my online presence."
 mention: true
