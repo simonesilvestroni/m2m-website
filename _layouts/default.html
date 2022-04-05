@@ -1,7 +1,7 @@
 {%- include site-head.html %}
 <body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
 {% include site-header.html %}
-<main class="m2m-main pb-5">
+<main class="m2m-main pb-3">
   <div class="container m2m-container" id="m2m-content">
     {{ content }}
   </div>
