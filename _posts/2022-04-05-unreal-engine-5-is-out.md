@@ -12,7 +12,7 @@ tags:
   - playstation
   - xbox
 description: "Unreal Engine 5 is out now. It will enable next-generation real-time 3D content and experiences with greater freedom, fidelity, and flexibility."
-excerpt: "Unreal Engine 5 is out now. It will enable next-generation real-time 3D content and experiences with greater freedom, fidelity, and flexibility."
+excerpt: "Unreal Engine 5 will enable next-generation real-time 3D content and experiences with greater freedom, fidelity, and flexibility."
 ---
 From the [announcement page](https://www.unrealengine.com/en-US/blog/introducing-the-matrix-awakens-an-unreal-engine-5-experience):
 
