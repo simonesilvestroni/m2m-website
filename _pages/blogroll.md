@@ -2,7 +2,7 @@
 layout: page
 title: Blogroll
 date: '2022-04-03'
-last_modified_at: '2022-04-05 16:13:59'
+last_modified_at: '2022-04-05 16:51:06'
 description: 'My personal blogroll, listing blogs and websites I read. It starts with a curated platform that has no algorithm.'
 excerpt: 'A partial list of websites and blogs I read either through RSS, the Fediverse or both.'
 permalink: '/blogroll/'
@@ -29,6 +29,7 @@ permalink: '/blogroll/'
 - [Michael Harley](https://obsolete29.com/) — Software engineer living in Nashville and working as a SharePoint Developer specializing in Power Apps, Power Automate and PowerShell. He enjoys writing about privacy, development, security, hiking, riding bicycles and grilling.
 - [Ru Singh](https://rusingh.com/) — She's a generalist developer, focused on the web and the front-end since 2017. Ru writes about JavaScript, Django, and Python, document, administrate systems & projects, build beautiful user interfaces to go with easy user experiences and self-host.
 - [Jim Nielsen](https://blog.jim-nielsen.com/) — A designer who codes, working across the perceivedly disparate boundaries of design, engineering and product.
+- [Parimal Satyal](https://neustadt.fr) ![new](/assets/images/new.gif) — Parimal is a designer and occasional writer living in Berlin. His interests are in communication, languages, cross-cultural exchange, aviation, computer history, information systems and the European Union. Parimal's personal website is a tribute to the creative web of the 90s.
 
 ## Facts, personal
 
