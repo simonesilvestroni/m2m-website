@@ -2,7 +2,7 @@
 layout: page
 title: Blogroll
 date: '2022-04-03'
-last_modified_at: '2022-04-03 18:22:26'
+last_modified_at: '2022-04-05 16:13:59'
 description: 'My personal blogroll, listing blogs and websites I read. It starts with a curated platform that has no algorithm.'
 excerpt: 'A partial list of websites and blogs I read either through RSS, the Fediverse or both.'
 permalink: '/blogroll/'
@@ -30,13 +30,14 @@ permalink: '/blogroll/'
 - [Ru Singh](https://rusingh.com/) — She's a generalist developer, focused on the web and the front-end since 2017. Ru writes about JavaScript, Django, and Python, document, administrate systems & projects, build beautiful user interfaces to go with easy user experiences and self-host.
 - [Jim Nielsen](https://blog.jim-nielsen.com/) — A designer who codes, working across the perceivedly disparate boundaries of design, engineering and product.
 
-## Facts
+## Facts, personal
 
 - [Neurologica](https://theness.com/neurologicablog) — Steven Novella covers news and issues in neuroscience, but also general science, scientific skepticism, philosophy of science, critical thinking, and the intersection of science with the media and society.
 - [Om Malik](https://om.co/) — Om is a San Francisco-based writer, photographer, and investor. He writes about technology, photography, and general observations about life. Om likes to write like a human, steering clear of jargon and B-school speak.
 - [Abandoned Berlin](https://www.abandonedberlin.com) — An attempt to document the past, uncover hidden history and preserve the memory of neglected glories, as they are now.
 - [George Monbiot](https://www.monbiot.com/) — Journalist and writer, he tells people what they don’t want to hear. I find his writings on climate and politics slightly depressing though always illuminating.
 - [Richard Pierce](https://tettig.com/) — Richard Pierce is an author, broadcaster, and painter from the United Kingdom. His prose is captivating and always incredibly empathetic.
+- [Raymond Hines](https://alongtheray.com) ![new](/assets/images/new.gif) — Ray is a lifelong entrepreneur who began a nomadic life on the road in 2016. He's been living in a tiny camper ever since. In his inspiring blog he shares the literal and figurative journey in all manner of ways: the highs, lows, introspectives, poetry, photographs, and more.
 
 {: .detached .mt-5 .pt-5 }
 Last update: <kbd>{{ page.last_modified_at }}</kbd>
