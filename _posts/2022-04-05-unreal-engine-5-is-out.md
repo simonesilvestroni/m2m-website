@@ -20,6 +20,8 @@ From the [announcement page](https://www.unrealengine.com/en-US/blog/introducing
 
 > This boundary-pushing technical demo is an original concept set within the world of Warner Bros' The Matrix. Written and cinematically directed by Lana Wachowski, it features Keanu Reeves and Carrie-Anne Moss reprising their roles as Neo and Trinity and—in a reality-flipping twist—also playing themselves.
 
-> The demo features the performance and likeness of Keanu Reeves and Carrie-Anne Moss as incredibly realistic digital humans. To achieve this, Epic’s [3Lateral team](https://www.3lateral.com/) captured high-fidelity 3D scans of the actor’s faces and 4D captures of their performances in their Novi Sad studio. Enjoy.
+> The demo features the performance and likeness of Keanu Reeves and Carrie-Anne Moss as incredibly realistic digital humans. To achieve this, Epic’s [3Lateral team](https://www.3lateral.com/) captured high-fidelity 3D scans of the actor’s faces and 4D captures of their performances in their Novi Sad studio.
+
+Enjoy.
 
 {% include pattern-video.html id="WU0gvPcc3jQ" %}
