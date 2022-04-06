@@ -2,16 +2,14 @@
 layout: page
 title: 'Sound Design'
 date: '2021-11-08 10:49:23'
-last_modified_at: '2022-02-12 18:59:39'
+last_modified_at: '2022-04-06 23:14:29'
 description: "Highlighting my work as a sound designer, bassist, music producer and composer, game audio specialist and audio editor."
 excerpt: "<strong>Sculpting sound</strong> has always been a massive creative push. Whether creating the foundation with the bass, realizing an artist’s vision by producing and mixing, recording in the field for game audio and up to editing and restoration, sound design is a constant source of excitement."
 permalink: '/work/sound-design/'
 ---
 ## Main skills
 
-Besides being a professional <kbd>bassist</kbd>, I'm an expert in music <kbd>production</kbd>, especially <kbd>mixing</kbd> and <kbd>mastering</kbd>.  After a long experience with <kbd>Logic Pro</kbd>, <kbd>Pro Tools</kbd> and <kbd>Sound Forge</kbd>, the tools I'm currently digging the most are <kbd>REAPER</kbd> and <kbd>iZotope RX</kbd>. I also write and release original music.
-
-After deciding to go back to <kbd>game audio</kbd>, I'm deeply involved in learning Audiokinetic's <kbd>Wwise</kbd> and <kbd>FMOD</kbd>.
+Besides being a professional **`bassist`**, I'm an expert in **`music production`**, especially **`mixing`** and **`mastering`**.  After a long experience with **`Logic Pro`**, **`Pro Tools`** and **`Sound Forge`**, the tools I'm currently digging the most are **`REAPER`** and **`iZotope RX`**. After deciding to go back to **`game audio`**, I'm currently deeply involved in learning Audiokinetic's **`Wwise`** and **`FMOD`**.
 
 <section class="m2m-entry my-5 pb-1">
 {%- assign production = site.sounddesign | where: "subtype", "production" | reverse -%}
@@ -64,7 +62,7 @@ After deciding to go back to <kbd>game audio</kbd>, I'm deeply involved in learn
 </section>
 <section class="m2m-entry my-5 pb-3">
   <div class="h-feed">
-  <h2 class="p-name h1 fs-1 text-center text-uppercase m2m-text-rotate my-5">Original music: case studies</h2>
+  <h2 class="p-name h1 fs-1 text-center text-uppercase m2m-text-rotate my-5" id="original-music">Original music: case studies</h2>
     <div class="card-group pb-3">
       <div class="row row-cols-1 row-cols-sm-2 g-4">
       {%- for casestudy in originalmusic %}
@@ -74,23 +72,5 @@ After deciding to go back to <kbd>game audio</kbd>, I'm deeply involved in learn
     </div>  
   </div>
 </section>
-
-## Certifications, courses and memberships
-
-<ul class="list-group list-group-flush ps-0">
-  {%- for cert in site.certifications.sound %}
-  <li class="list-group-item my-0 ps-0 pb-3">
-    <span class="pe-1">🏛</span> <a href="{{ cert.href }}">{{ cert.name }}</a> {{ cert.desc }}.
-  </li>
-  {% endfor -%}
-</ul>
-
-## Publications
-
-<ul class="list-group list-group-flush ps-0">
-  <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">📒</span> <em>Efficient Productivity for Music Professionals</em> (2020). Download the <a href="/work/project-management/">free ebook</a>.</li>
-  <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">📒</span> <em>A Trip to Freedom, from Berlin to Berlin</em>, published by <a href="https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e">Lessons from History</a>, 2019.</li>
-  <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">📒</span> <em>Producing bass tracks remotely</em>, published by <a href="https://unlockyoursound.com/producing-bass-tracks-remotely/">Unlock Your Sound</a>.</li>
-</ul>
 
 {% include pattern-button.html link="/contact/" center=true text="Hire me" %}

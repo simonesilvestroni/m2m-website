@@ -5,7 +5,7 @@
   link: /work/
   desc: 'Case studies: sound & web design, original music.'
 - name: Music
-  link: https://music.minutestomidnight.co.uk
+  link: /work/sound-design/#original-music
   desc: 'Original music productions on Bandcamp.'
 - name: Blog
   link: /blog/
@@ -13,6 +13,6 @@
 - name: Contact
   link: /contact/
   desc: Hire me, get in touch or subscribe to the newsletter.
-- name: 🔎
+- name: 🔎 Search
   link: /search/
   desc: Search through posts, pages and archives.

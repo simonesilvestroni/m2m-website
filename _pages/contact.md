@@ -2,9 +2,9 @@
 layout: page
 title: Contact
 date: '2021-11-08 10:31:25'
-last_modified_at: '2021-11-08 10:31:29'
+last_modified_at: '2022-04-06 23:14:48'
 description: 'Interested in hiring me for your next project, or just want to connect? Find all the info, including (some) social media and my irregular newsletter.'
-excerpt: '<strong>I’m available for hire</strong>: <a href="mailto:contact@minutestomidnight.eu">reach out via email</a> and we’ll take it from there. If you need bass tracks or production, it’s possible to use <a href="https://soundbetter.com/profiles/206552-minutes-to-midnight">SoundBetter</a>, a safe and secure platform to hire freelance musicians.'
+excerpt: 'I’m available for hire: <a href="mailto:contact@minutestomidnight.eu">reach out via email</a> and we’ll take it from there. If you need bass tracks or production, it’s possible to use <a href="https://soundbetter.com/profiles/206552-minutes-to-midnight">SoundBetter</a>, a safe and secure platform to hire freelance musicians.'
 permalink: '/contact/'
 ---
 ## Get in touch

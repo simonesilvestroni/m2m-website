@@ -2,18 +2,16 @@
 layout: page
 title: 'Web Design'
 date: '2021-11-08 10:49:23'
-last_modified_at: '2022-01-06 17:27:37'
+last_modified_at: '2022-04-06 23:14:36'
 description: "Design and front-end development stems from my past experience with publishing. I strive for accessibility and sustainability through exceptional optimization."
 excerpt: '<strong>Designing and coding for the web</strong> is a digital evolution of my past experience with the printed page. My main focus is <em>ethic and sustainable design</em>, obtained through a relentless optimization of web performance. All my recent websites have a Pagespeed rank of <code>100</code> on all grades, including SEO and accessibility.'
 permalink: '/work/web-design/'
 ---
 ## Main skills
 
-Started crafting websites from scratch with <kbd>HTML</kbd> and <kbd>CSS</kbd> in the late 1990s. I adopted <kbd>WordPress</kbd> as my platform of choice since version `1.5`, becoming an expert and building custom themes with <kbd>SASS</kbd> and plug-ins in <kbd>PHP</kbd>. I'm well versed in graphic tools such as <kbd>Figma</kbd>, <kbd>Sketch</kbd> and DTP software like <kbd>Adobe InDesign</kbd>.
+I've been crafting websites from scratch with **`HTML`** and **`CSS`** since the late 1990s, later using **`PHP`** to generate the markup and **`SASS`** for the stylesheets. I adopted **`WordPress`** as my platform of choice since version 1.5, becoming an expert and building custom themes and plug-ins. I make a point of putting performance, **`usability`** and sustainability at the forefront. I'm well versed in graphic tools such as **`Figma`**, **`Sketch`** and DTP software like **`Adobe InDesign`**.
 
-I recently moved to <kbd>JAMstack</kbd> and static site generators with <kbd>headless CMS</kbd>, especially digging <kbd>Jekyll</kbd> with its <kbd>Liquid</kbd> template language and <kbd>Netlify</kbd>.
-
-I can build, run and maintain local and remote web servers in <kbd>Apache</kbd>, <kbd>PHP</kbd>, <kbd>MySQL</kbd> either through a GUI or <kbd>SSH</kbd>. All my work is done using <kbd>git</kbd> as a versioning system. 
+I can set up, run and maintain local and remote web servers in **`Apache`**, **`PHP`**, **`MySQL`** either through a GUI or **`SSH`**. I recently moved to **`JAMstack`** and static site generators with **`headless CMS`**, especially digging **`Jekyll`** with its **`Liquid`** template language and **`Netlify`** for deployment and production builds. I use **`git`** as a versioning system.
 
 <section class="h-feed m2m-entry my-5 pb-3">
 {%- assign webdesign = site.webdesign | reverse -%}
@@ -28,34 +26,5 @@ I can build, run and maintain local and remote web servers in <kbd>Apache</kbd>,
     </div>
   </div>
 </section>
-
-## Brief resume
-
-{%- for cv in cvs %}
-  - **{{ cv.year }}**: {{ cv.description }}
-{%- endfor -%}
-
-More details on <a href="https://www.linkedin.com/in/minutes2mid/" target="_blank">LinkedIn</a>.
-
-## Courses &amp; memberships
-
-<ul class="list-group list-group-flush ps-0">
-  {%- for cert in site.certifications.web %}
-  <li class="list-group-item my-0 ps-0 pb-3"><span class="pe-1">🏛</span> {{ cert.name }}.</li>
-  {%- endfor -%}
-</ul>
-
-## Publications
-
-<span class="pe-1">📒</span> [_How we work: a modern workflow for the multi-device web_](https://medium.com/ui-farm/how-we-work-a-modern-workflow-for-the-multi-device-web-4e0dcb081b5b), technical review by Kara McCain.
-
-## Reviews
-
-{%- for endorsement in endorsements %}
-
-> {{ endorsement.quote }}
-> <cite>&mdash; {{ endorsement.name }}, [{{ endorsement.role }}]({{ endorsement.url }})</cite>
-
-{%- endfor -%}
 
 {% include pattern-button.html link="/contact/" center=true text="Hire me" %}

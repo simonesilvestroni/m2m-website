@@ -2,11 +2,15 @@ host: "localhost"
 url: "https://minutestomidnight.co.uk"
 baseurl: ""
 
+# -------------------
 # Feeds
+# -------------------
 feed:
   posts_limit: 30
 
+# -------------------
 # SEO
+# -------------------
 title: Minutes to Midnight
 tagline: Sound and Web Designer
 description: Minutes to Midnight is the moniker of Simone Silvestroni. A digital polymath, I’ve been working as a sound and web designer for more than 25 years.
@@ -34,69 +38,16 @@ author:
   name: Simone Silvestroni
   email: contact@minutestomidnight.co.uk
 
+# -------------------
 # Brand
+# -------------------
 brand:
   m2m_pitch: 'I’m a liaison between creativity and logic.'
   m2m_intro: 'Hi! Simone Silvestroni here. A digital polymath, I’ve been working as a <strong>sound and web designer</strong> for more than 25 years.<br>Passionate about audio-visual storytelling, web standard and sustainability, I’m way too much into problem-solving. <a href="/work/" title="See my work"><strong>See my work ↗</strong></a>'
 
-# Work endorsements
-endorsements:
-  web:
-    - name: 'Neil Kenneth Palmer'
-      role: 'vice president of product development at C6 Marketing'
-      url: 'https://www.linkedin.com/in/neil-k-palmer/'
-      quote: 'Simply put, Simone is one of the finest, and most passionate front-end developers that I have every come across. His knowledge on UI and UX is vast and combine this with his front-end development skills, he is one of the finest front end developers out there. It was a pleasure to manage and work with Simone and I hope to get the chance again in the future.'
-    - name: 'Michelle Anderson'
-      role: 'staff engineer at Deliveroo'
-      url: 'https://www.linkedin.com/in/michelledangeranderson/'
-      quote: 'Simone was an integral member of our team. His passion for the web and careful and persistent work ethic meant that he delivered consistently above expectations. His initiative is impressive. His experience makes him an expert in his field; has a firm understanding of front end web. With his sharp sense of humor, he would make a wonderful addition to any web team!'
-    - name: 'Alessandra Farabegoli'
-      role: 'Digital Strategist'
-      url: 'https://www.linkedin.com/in/alebegoli/'
-      quote: 'Simone loves standards and usability, and he combines creativity and logic, a rare gift in the same person. He is competent and reliable, and he can work very well in a team.'
-
-resume:
-  web:
-    - year: '1993'
-      description: 'Started out as a proofreader, later evolved to desktop publisher learning the craft with renown editor Paola Varani for <em>RCS (Rizzoli)</em>.'
-    - year: '1998'
-      description: 'Deployed the first official website of a well-known historic <a href="https://web.archive.org/web/20010808100700/http://fc.retecivica.milano.it/rcmweb/libdonne/">feminist bookstore in Milan</a>.'
-    - year: '2000-2005'
-      description: 'Designed and developed my <a href="https://web.archive.org/web/20031208185857/http://www.playstos.com:80/index.html">game company’s website</a>.'
-    - year: '2005-2007'
-      description: 'Freelancing as a web designer and sound designer in Milan.'
-    - year: '2007-2011'
-      description: 'Landed a permanent job as a front-end developer for a company now part of <em>Accenture</em>, working for massive clients such as <em>UniCredit</em>.'
-    - year: '2011'
-      description: 'Moved to the UK after being hired for the same role by the online gaming company <em>Bodog</em> in London.'
-    - year: '2012-2017'
-      description: '<a href="https://web.archive.org/web/20161021065339/http://uifarm.co.uk/team/">Co-founded</a> the web firm <em>UI Farm</em> in London. We designed, developed and deployed advanced multi-device solutions for small to large companies, including <em>Reevoo</em>, <em>Not On The High Street</em>, <em>UniCredit</em> and <em>Elite Model Management (New York)</em>.'
-    - year: '2017-today'
-      description: 'Kick-started <em>Minutes to Midnight</em> in Cambridge. Embracing my wider skill set, I focused on both audio and web design.'
-
-# Work certifications
-certifications:
-  sound:
-    - name: 'Berklee College Of Music'
-      href: 'https://www.berklee.edu/'
-      desc: '(audio master engineering, music production, electric bass), 2011-2016'
-    - name: 'Apple Pro Certified'
-      href: 'https://training.apple.com/us/en/recognition'
-      desc: 'Logic Pro X 10.3, London, 2018'
-    - name: 'Game Developer Conference'
-      href: 'https://www.gdconf.com/'
-      desc: 'San Jose (California), 2002'
-    - name: 'Game Audio Network Guild'
-      href: 'https://www.audiogang.org/'
-      desc: 'bronze member, San Jose (California), 2002'
-    - name: 'Centro Professione Musica'
-      href: 'https://www.cpm.it/corsi-musica-milano'
-      desc: 'diploma (bass, music theory, harmony &amp; arrangement), Milan, 1993-1995'
-  web:
-    - name: 'Member of <a href="https://iwanet.org/">IWA</a>'
-    - name: 'Nielsen Norman Group UX Conference, 2010, London'
-    - name: 'PHP development course by HTML.IT, 2009, Milan'
-
+# -------------------
+# Exclusions
+# -------------------
 exclude:
   - node_modules/
   - sass/
@@ -104,9 +55,14 @@ exclude:
   - package.json
   - package-lock.json
 
+# -------------------
+# Inclusions
+# -------------------
 include: ["_pages", "_redirects"]
 
+# -------------------
 # Defaults
+# -------------------
 defaults:
   - scope:
       path: ""
@@ -138,7 +94,9 @@ defaults:
     values:
       layout: "casestudy"
 
+# -------------------
 # Collections
+# -------------------
 collections:
   sounddesign:
     output: true
@@ -147,7 +105,9 @@ collections:
     output: true
     permalink: /work/web-design/:path/
 
+# -------------------
 # Archives
+# -------------------
 jekyll-archives:
   enabled:
     - categories
@@ -160,7 +120,9 @@ jekyll-archives:
 
 excerpt_separator: <!--more-->
 
+# -------------------
 # Responsive images
+# -------------------
 responsive_image:
   template: _includes/pattern-responsive-image.html
   sizes:
@@ -173,9 +135,67 @@ responsive_image:
   strip: true
   output_path_format: assets/images/responsive/%{width}/%{basename}
 
+# -------------------
 # Plugins
+# -------------------
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-archives
   - jekyll-responsive-image
+
+# -------------------
+# Work endorsements
+# -------------------
+endorsements:
+  web:
+    - name: 'Neil Kenneth Palmer'
+      role: 'VP of product development at C6 Marketing'
+      url: 'https://www.linkedin.com/in/neil-k-palmer/'
+      quote: 'Simply put, Simone is one of the finest, and most passionate front-end developers that I have every come across. His knowledge on UI and UX is vast and combine this with his front-end development skills, he is one of the finest front end developers out there. It was a pleasure to manage and work with Simone and I hope to get the chance again in the future.'
+    - name: 'Michelle Anderson'
+      role: 'staff engineer at Deliveroo'
+      url: 'https://www.linkedin.com/in/michelledangeranderson/'
+      quote: 'Simone was an integral member of our team. His passion for the web and careful and persistent work ethic meant that he delivered consistently above expectations. His initiative is impressive. His experience makes him an expert in his field; has a firm understanding of front end web. With his sharp sense of humor, he would make a wonderful addition to any web team!'
+    - name: 'Gabriele Rosati'
+      role: 'UX and interaction design manager at UniCredit'
+      url: 'https://www.linkedin.com/in/rosati/'
+      quote: 'My experience of working with Simone has always been very positive and enjoyable. Simone always takes a pragmatic and investigative approach to finding solutions for our needs and has very friendly and helpful attitude. His attention to detail makes him always deliver perfect coded products, saving us time and concerns on the web projects he develops.'
+  audio:
+    - name: 'Jean-Claude Nouchy'
+      role: 'FX Supervisor at Scanline VFX'
+      url: 'https://www.linkedin.com/in/jcn-visualcortexlab/'
+      quote: 'When passion goes beyond working duties... here’s Simone. Addiction and reliability are two great details you cant easily find nowadays in a professional and he gets both.'
+    - name: 'Christopher Carvalho'
+      role: 'Founder at Unlock Your Sound'
+      url: 'https://unlockyoursound.com/'
+      quote: 'What’s always impressed me about Simone is his attention to detail, which he demonstrates in every area of his work. Not only is he a prolific producer and bassist, but he easily comprehends and executes on the most abstract concepts across tech, audio, marketing, branding, and visual arts. When you work with Simone, everything is down, documented, and organised, which makes it very easy to work with him directly or in the context of a team.'
+    - name: 'Chris Pavey'
+      role: 'Mastering engineer at CPM'
+      url: 'https://www.linkedin.com/in/chris-pavey-12034559/'
+      quote: 'Simone is a gifted musician, producer and all round creative, with every project we have worked on being greatly improved by his talents. Impressive technical proficiency with various DAWs (ProTools, Wavelab, RX) as well as the creative knowledge to craft with them what ever is required for the project. When working with Simone, his precise and detailed manor make him an excellent addition to any project or team.'
+
+# -------------------
+# Work certifications
+# -------------------
+certifications:
+  sound:
+    - name: 'Berklee College Of Music'
+      href: 'https://www.berklee.edu/'
+      desc: '(audio master engineering, music production, electric bass), 2011-2016'
+    - name: 'Apple Pro Certified'
+      href: 'https://training.apple.com/us/en/recognition'
+      desc: 'Logic Pro X 10.3, London, 2018'
+    - name: 'Game Developer Conference'
+      href: 'https://www.gdconf.com/'
+      desc: 'San Jose (California), 2002'
+    - name: 'Game Audio Network Guild'
+      href: 'https://www.audiogang.org/'
+      desc: 'bronze member, San Jose (California), 2002'
+    - name: 'Centro Professione Musica'
+      href: 'https://www.cpm.it/corsi-musica-milano'
+      desc: 'diploma (bass, music theory, harmony &amp; arrangement), Milan, 1993-1995'
+  web:
+    - name: 'Member of <a href="https://iwanet.org/">IWA</a>'
+    - name: 'Nielsen Norman Group UX Conference, 2010, London'
+    - name: 'PHP development course by HTML.IT, 2009, Milan'

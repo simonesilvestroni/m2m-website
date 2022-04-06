@@ -1,12 +1,14 @@
 - name: Archive
   link: /archive/
-- name: Notes
-  link: /blog/notes/
+- name: Resume
+  link: /resume/
 - name: Equipment
   link: /uses/
-- name: Colophon
-  link: /colophon/
+- name: Notes
+  link: /blog/notes/
 - name: Blogroll
   link: /blogroll/
+- name: Colophon
+  link: /colophon/
 - name: 'I don’t track'
   link: /privacy-policy/
