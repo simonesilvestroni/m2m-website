@@ -170,5 +170,5 @@ The car attracted my attention because it was the same model used by [Russel Oak
 {% include pattern-figure.html image="/assets/images/full-story-grandfather.jpg" caption="My grandfather working outside his shop in the summer. Some of the objects visible on the crate came from Germany" width="1024" height="722" %}
 
 <div class="text-center my-5 py-5">
-  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/sound-design/after-1989/" title="Read the case study about the album"><span class="text-uppercase fs-4">🔗 <strong class="ps-1">Read the case study</strong></span></a>
+  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/music/after-1989/" title="Read the case study about the album"><span class="text-uppercase fs-4">🔗 <strong class="ps-1">Read the case study</strong></span></a>
 </div>

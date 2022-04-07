@@ -28,5 +28,5 @@ At the time, a song that I liked didn’t make the final cut. It was a piece div
 Both lyrics referenced the painful process of living in England through Brexit. *The Die Is Cast* is in fact an autobiographical **concept revolving around migration** in Europe, and how deceitful can be to idealize the place where you move to.
 
 <div class="text-center my-5 py-3">
-  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/sound-design/the-die-is-cast/" title="Read the case study"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the case study</strong></span></a>
+  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/music/the-die-is-cast/" title="Read the case study"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the case study</strong></span></a>
 </div>

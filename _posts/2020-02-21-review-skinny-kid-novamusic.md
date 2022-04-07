@@ -25,5 +25,5 @@ excerpt: 'Stunning review by Nova Music Blog for <em>Skinny Kid</em>, the openin
 Thanks so much to Gabriele of _Nova Music Blog_, and [Christopher Carvalho](https://www.youtube.com/channel/UCFYW6EZMLLT0jIi0SJQeUiQ) of Unlock Your Sound, for another awesome feature about my album _After 1989_.
 
 <div class="text-center my-5 py-3">
-  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/work/sound-design/after-1989/" title="Read the album case study"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the album case study</strong></span></a>
+  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/music/after-1989/" title="Read the album case study"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the album case study</strong></span></a>
 </div>

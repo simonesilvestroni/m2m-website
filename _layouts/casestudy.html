@@ -1,9 +1,18 @@
 ---
 layout: default
 ---
+{% capture CaseTypeURL %}
+  {%- if page.type == "web design" -%}
+  {{ site.url }}/work/web-design/
+  {%- elsif page.type == "sound design" -%}
+  {{ site.url }}/work/sound-design/
+  {%- elsif page.type == "music" -%}
+  {{ site.url }}/music/
+  {%- endif -%}
+{% endcapture %}
 <article class="h-entry m2m-entry my-5">
   <div class="m2m-label text-center pt-3">
-    <kbd class="fs-5">{%- if page.url contains '/work/web-design/' %} <a href="{{ site.url }}/work/web-design/">{%- elsif page.url contains '/work/sound-design/' %} <a href="{{ site.url }}/work/sound-design/">{% endif -%}<strong class="p-category text-uppercase">{{ page.type }}</strong></a> case study</kbd>
+    <kbd class="fs-5"><a href="{{ CaseTypeURL }}" title="Work category"><strong class="p-category text-uppercase">{% unless page.type == "music" %}{{ page.type }}{% endunless %}{% if page.type == "music" %}{{ page.subtype }}{% endif %}</strong></a> case study</kbd>
   </div>
   <h1 class="p-name text-center display-1 lh-sm m2m-text-rotate mt-5">{{ page.title }}</h1>
   {%- if page.url contains '/work/web-design/' %}
@@ -18,10 +27,12 @@ layout: default
       <li class="list-inline-item mx-1 mx-md-2 lh-lg"><kbd class="p-category text-uppercase fw-bold fs-5">{{ skill }}</kbd></li>
       {%- endfor -%}
     </ul>
-    <span class="visually-hidden">{% include hcard-post.html %}</span>
+    <span class="visually-hidden">
+      {% include hcard-post.html %}
+    </span>
   </div>
   <div class="e-content">
-    {%- if page.url contains '/work/web-design/' %}
+    {%- if page.type == "web design" or page.type == "music" -%}
     {%- if page.featimage == true %}
     <div class="py-1">
       {% responsive_image_block %}

@@ -85,12 +85,17 @@ defaults:
       layout: "page"
   - scope:
       path: ""
+      type: "sounddesign"
+    values:
+      layout: "casestudy"
+  - scope:
+      path: ""
       type: "webdesign"
     values:
       layout: "casestudy"
   - scope:
       path: ""
-      type: "sounddesign"
+      type: "music"
     values:
       layout: "casestudy"
 
@@ -104,6 +109,9 @@ collections:
   webdesign:
     output: true
     permalink: /work/web-design/:path/
+  music:
+    output: true
+    permalink: /music/:path/
 
 # -------------------
 # Archives

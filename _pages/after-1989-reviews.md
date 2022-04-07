@@ -13,24 +13,24 @@ tags:
   - "reviews"
   - "case study"
 description: "A collection in-depth analysis and reviews gathered from Bandcamp, music blogs, podcasts and social media."
-excerpt: 'This page collects <strong>three in-depth analysis</strong> of <a href="/work/sound-design/after-1989/"><em>After 1989</em></a>, written by Rosa Nadine Xochimilco Sánchez, IndieRepublik (Berlin) and Angry Baby, followed by <strong>reviews</strong> gathered from Bandcamp, music blogs, podcasts and social media.'
+excerpt: 'This page collects <strong>three in-depth analysis</strong> of <a href="/music/after-1989/"><em>After 1989</em></a>, written by Rosa Nadine Xochimilco Sánchez, IndieRepublik (Berlin) and Angry Baby, followed by <strong>reviews</strong> gathered from Bandcamp, music blogs, podcasts and social media.'
 toc: true
-permalink: '/work/sound-design/after-1989-reviews/'
+permalink: '/music/after-1989-reviews/'
 ---
 ## In-depth reviews
 
 ### Analysis by Rosa Nadine Xochimilco Sánchez
 
-<section class="container">
-  <div class="row">
-    <div class="col-lg-10 col-md-12 mx-auto">
-      <div class="clearfix">
-        <img class="img-thumbnail float-start me-3 mb-3" src="/assets/images/rnxs.jpg" width="100" height="100" alt="Portrait of Rosa Nadine Xochimilco Sánchez">
-        <p class="detached fs-6">Author, small press founder and publisher of <a href="http://xochimilcopress.com/">Xochimilco Press</a>, Rosa has recently published the books of poems: <em>Blue Bones, Blood Roses, Black Eyes</em> and <em>Hearts Aflame, Still Burning</em>.</p>
+<div class="row justify-content-center">
+  <div class="col-12 col-md-8">
+    <div class="d-flex align-items-center">
+      <div class="flex-shrink-0">
+        <img class="img-thumbnail" src="/assets/images/rnxs.jpg" width="100" height="100" alt="Portrait of Rosa Nadine Xochimilco Sánchez">
       </div>
+      <p class="detached flex-grow-1 fs-6 ms-3 py-0 my-0">Author, small press founder and publisher of <a href="http://xochimilcopress.com/">Xochimilco Press</a>, Rosa has recently published the books of poems: <em>Blue Bones, Blood Roses, Black Eyes</em> and <em>Hearts Aflame, Still Burning</em>.</p>
     </div>
   </div>
-</section>
+</div>
 
 <p class="detached">Minutes to Midnight’s new album <em>After 1989: A Trip to Freedom</em> is an incredible story and musical journey by Simone Silvestroni. It feels very personal while being uncompromisingly political. Each song is poignant and strong, showcasing a different historical moment or time, all along the main character’s path of discovery. I absolutely love the story and the songs, especially the way historical audio samples are woven throughout the album, anchoring it in reality, and making it feel incredibly emotional and genuine.</p>
 

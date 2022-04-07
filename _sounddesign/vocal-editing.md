@@ -23,7 +23,7 @@ permalink: '/work/sound-design/vocal-editing/'
 ---
 ## Vocal transformation
 
-After the [demo stage of my album](/work/sound-design/after-1989-demos/) _After 1989_, I scrapped a song called _Niemandsland_, featuring a marvellous vocal performance by Rachel Goodman. Since its lyrics were critical for the concept, I repurposed them in the new lead single _Skinny Kid_. 
+After the [demo stage of my album](/music/after-1989-demos/) _After 1989_, I scrapped a song called _Niemandsland_, featuring a marvellous vocal performance by Rachel Goodman. Since its lyrics were critical for the concept, I repurposed them in the new lead single _Skinny Kid_. 
 
 Despite **the two songs having different tonality and tempo**, I decided to salvage Rachel's parts as backing vocals and counterpoint to Dan Ecclestone's lead.
 

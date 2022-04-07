@@ -1,10 +1,7 @@
 # Minutes to Midnight's website
 
-Hi! Simone here. A digital polymath, I’ve been working as a sound and web designer for more than 25 years. As a team player or independent, I bring:
-
-- ⚒ attention to details
-- 👨🏻‍💻 problem-solving
-- ⏱ on-time delivery
+Hi! Simone Silvestroni here. A digital polymath, I’ve been working as a sound and web designer for more than 25 years.
+Passionate about audio-visual storytelling, web standard and sustainability, I’m way too much into problem-solving.
 
 ---
 
@@ -18,11 +15,11 @@ Migrating from WordPress to a static site generator has been a blessing to me. I
 
 ## Info
 
-- Work as a [sound designer](https://minutestomidnight.co.uk/work/sound-design/)
-- Work as a [web designer and developer](https://minutestomidnight.co.uk/work/web-design/)
-- My [original music](https://minutestomidnight.co.uk/work/sound-design/)
+- [Sound designer](https://minutestomidnight.co.uk/work/sound-design/) work.
+- [Web designer and developer](https://minutestomidnight.co.uk/work/web-design/) work.
+- [Original music](https://minutestomidnight.co.uk/music/).
 - A comprehensive list of my [equipment](https://minutestomidnight.co.uk/uses/).
-- 27 LinkedIn [endorsements](https://www.linkedin.com/in/minutes2mid/#recommendations).
+- 27 LinkedIn [endorsements](https://www.linkedin.com/in/minutes2mid/).
 
 ---
 
@@ -33,4 +30,3 @@ Migrating from WordPress to a static site generator has been a blessing to me. I
 - [ ] Polish the SASS theme, remove specificity.
 - [ ] Improve DRY.
 - [ ] Eradicate Mailchimp, switch to Freelist or something else.
-- [x] Quit with the crazy git commits.
