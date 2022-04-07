@@ -182,5 +182,6 @@ I built the internal sound studio from scratch, managing three computers in audi
 <br>
 
 <div class="alert alert-background-d-10 text-center px-4 py-4">
-  <p>Head over to LinkedIn for a <a href="https://www.linkedin.com/in/minutes2mid/">complete list of endorsements ↗︎</a></p>
+  <p class="pb-3">Check my LinkedIn <a href="https://www.linkedin.com/in/minutes2mid/">sound and web design endorsements ↗︎</a></p>
+  <p>Check SoundBetter for <a href="https://soundbetter.com/profiles/206552-minutes-to-midnight/#reviews">bass performance endorsements ↗︎</a></p>
 </div>
