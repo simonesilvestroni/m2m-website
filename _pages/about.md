@@ -4,20 +4,12 @@ title: About
 date: '2022-01-14 16:54:43'
 last_modified_at: '2022-01-14 16:54:56'
 description: 'Simone Silvestroni, sound and web designer going under the moniker Minutes to Midnight. Freelancing in Milan after 9 years in the UK. I started my blog in 2002.'
-excerpt: 'Simone Silvestroni, sound and web designer going under the moniker <em>Minutes to Midnight</em>. Freelancing in Milan after 9 years in the UK. I started my blog in 2002. First a bass player and editor, I later became a sound and web designer. Check out my <a href="/work/">audio and web work</a>.'
+excerpt: 'I’m Simone Silvestroni, sound and web designer working under the moniker Minutes to Midnight. First a bass player and editor, I later became a music producer and front-end developer. I started my blog in 2002. Currently <a href="/work/">freelancing in Milan</a> after 9 years in the UK.'
 permalink: '/about/'
 ---
 ## Why audio and web?
 
-I've always been into **technical and creative fields** at the same time. While I've been a musician for longer, my first paid job was proofreader and then editor. It gradually morphed into web design in the late 1990s. When I joined [Playstos Entertainment](/work/sound-design/console-game-ruff-trigger/) I managed to do both web and sound design during the production of a console video game, juggling between the two ever since.
-
-## Audio skills
-
-Besides being a professional bassist, I'm an expert in music production, especially mixing. After decades with **Logic Pro** and **Sound Forge**, the tools I'm currently digging the most are [REAPER](http://reaper.fm/) and [iZotope RX](https://www.izotope.com/en/products/rx.html). After deciding to go back to game audio, I'm deeply involved in learning Audiokinetic's [Wwise](https://www.audiokinetic.com/products/wwise/).
-
-## Web skills
-
-Started crafting websites from scratch with HTML, CSS and a little Javascript. I adopted **WordPress** as my platform of choice since version 1.5, becoming an expert with its PHP structure, building custom themes and plug-ins. I recently moved to [JAMstack](https://jamstack.org/) and static site generators with headless CMS, especially digging **Jekyll** with its [Liquid template language](https://shopify.github.io/liquid/) and **Netlify**.
+I've always been into **technical and creative fields** at the same time. While I've been a musician for longer, my first paid job was proofreader and then editor. It gradually morphed into web design in the late 1990s. When I joined [Playstos Entertainment](/work/sound-design/console-game-ruff-trigger/) I managed to do both web and sound design during the production of a console video game, juggling between the two ever since. For an exhaustive list of skills, tools and work experience [check out the resume ↗︎](/resume/) .
 
 ## Passions
 
