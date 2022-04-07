@@ -14,7 +14,7 @@ skillset:
   - "mix"
   - "logic pro"
 description: "After 1989 is a concept album about a young man who escaped Germany in 1945, while his grandson made the other way round, looking for answers in 2017."
-excerpt: "30 years after the fall of the Berlin Wall, a real-life tale of imprisonment and liberty: how a grandfather escaped hell during WWII while the grandson retraced his steps."
+excerpt: "<strong><em>After 1989</em> is a concept album</strong> about a a real-life tale of imprisonment and liberty: how a young man escaped Germany during World War II, while his grandson retraced his steps 30 years after the Berlin wall."
 toc: true
 featimage: true
 ---
@@ -24,7 +24,7 @@ featimage: true
 
 ## The story
 
-**Three decades after the fall of the Berlin Wall**, _After 1989_ is the tale of how a young man escaped a concentration camp in 1945, while his grandson made the other way round, looking for answers that he could only find in 2017.
+**Three decades after the fall of the Berlin Wall**, the autobiographical tale of how my grandfather escaped a concentration camp in 1945, while I made the other way round, looking for answers that I could only find in 2017.
 
 <div class="my-5 pb-4 text-center">
   <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/blog/after-1989-full-story/" title="Read the full story"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the full story</strong></span></a>
