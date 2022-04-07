@@ -2,7 +2,7 @@
 layout: uses
 title: 'What I use'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2022-04-07 00:30:10'
+last_modified_at: '2022-04-07 17:04:09'
 description: "Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the uses.tech project."
 excerpt: 'Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the <a href="https://uses.tech/"><code>/uses</code> project</a>. None of the links are affiliate.'
 permalink: '/uses/'
@@ -13,28 +13,28 @@ toc: true
 
 ### Workstation
 
-- Maxed out 15-in MacBook Pro i7 Mid 2015 later fitted with a 1 TB SSD by Samsung. 
+- Maxed out 15-in [MacBook Pro i7 Mid 2015](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.5-15-iris-only-mid-2015-retina-display-specs.html) later fitted with a 1 TB SSD by Samsung. 
 - 27-in Dell HD monitor
-- Wireless Apple Magic Keyboard 2
-- Razer Deathadder mouse
+- Wireless [Apple Magic Keyboard 2](https://www.apple.com/shop/product/MK2A3LL/A/magic-keyboard-us-english)
+- [Razer Deathadder](https://www.razer.com/gaming-mice/razer-deathadder-v2/RZ01-03210100-R3U1) mouse
 
 I'll be using this setup until it breaks apart, after which the plan is to build a high-end professional gaming PC, where I can keep running a triple-boot Hackintosh, Windows and Linux.
 
 ### Music instruments
 
-- Warwick Thumb bass (since 1991)
-- Fretless Fender Jazz bass (since 2016)
-- Fender Stratocaster electric guitar
-- Tech 21 NYC Sansamp Bass Driver v2
+- [Warwick Thumb](https://www.vintageguitar.com/32186/warwick-thumb-bass/) bass (since 1991)
+- [Fretless Fender Jazz](https://www.fender.com/en-US/electric-basses/jazz-bass/jaco-pastorius-jazz-bass/0196208800.html) bass (since 2016)
+- [Fender Stratocaster](https://www.fender.com/en-US/electric-guitars/stratocaster/player-stratocaster/0144502506.html) electric guitar (black)
+- [Tech 21 NYC Sansamp](https://www.tech21nyc.com/products/sansamp/bassdriver-di/) Bass Driver v2
 
 Previously:
 
 - SWR Redhead (1990 to 2011)
-- MarkBass amp (2011 to 2016)
+- Markbass Mini CMD 121P (2011 to 2016)
 
 ### Audio interface
 
-- Focusrite Clarett 4Pre USB
+- [Focusrite Clarett 4Pre USB](https://focusrite.com/en/usb-c-audio-interface/clarett-plus/clarett-plus-4pre)
 - Dedicated FX-Audio DAC-X6
 
 Previously:
@@ -44,9 +44,9 @@ Previously:
 
 ### Speakers and headphones
 
-- Yamaha HS5
-- Sony MDR-7506
-- Beyerdynamic DT 770 Pro
+- Yamaha [HS5](https://www.yamaha.com/en/about/innovation/collection/detail/8050/)
+- Sony [MDR-7506](https://pro.sony/ue_US/products/headphones/mdr-7506)
+- Beyerdynamic [DT 770 Pro](https://global.beyerdynamic.com/dt-770-pro.html)
 
 Previously:
 
@@ -54,36 +54,40 @@ Previously:
 
 ### MIDI controllers
 
-- Novation Launchkey Mini MkII
-- Behringer X-Touch One control surface
-- Korg Micro KEY 66 MIDI keyboard
+- Novation [Launchkey Mini MkII](https://novationmusic.com/en/keys/launchkey-mini)
+- Behringer [X-Touch One](https://www.behringer.com/product.html?modelCode=P0CAP) control surface
+- Korg [Micro KEY 66](https://www.korg.com/us/products/computergear/microkey/) MIDI keyboard
 
 ### Recorder and microphones
 
-- Zoom H5 field recorder
-- Zoom XY stereo mic
-- Zoom SSH-6 mid-side stereo shotgun mic
+- Zoom [H5 field recorder](https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h5/)
+- Zoom [XY stereo mic](https://zoomcorp.com/en/us/accessories/mic-capsules-foot-switches-and-pedals/XYH-5/)
+- Zoom [SSH-6 mid-side stereo shotgun mic](https://zoomcorp.com/en/us/accessories/mic-capsules-foot-switches-and-pedals/SSH-6/)
+- Shure [SM58](https://www.shure.com/en-US/products/microphones/sm58) mic
+- Rode [NT5 condenser matched pair](https://rode.com/en/microphones/studio-condenser/nt5) mics
+- Rode [Stereo Bar SB20](https://rode.com/es/accessories/stands-bars/stereo-bar)
+- Thomann [SC 1100](https://www.thomannmusic.com/the_tbone_sc1100_grossmembranmikrofon.htm) studio large diaphragm mic
 - A couple of boompoles and tripods
-- Shure SM58 mic
-- Rode NT5 condenser matched pair mics
-- Rode Stereo Bar SB20
-- Thomann SC 1100 studio large diaphragm mic
 
 ### Mobile device
 
-- Redmi Note 7 Pro by Xiaomi, fitted with a 256 GB mini-SD card (since 2019)
+- [Redmi Note 7 Pro](https://www.gsmarena.com/xiaomi_redmi_note_7_pro-9521.php) by Xiaomi (since 2019)
+- 256 GB mini-SD card additional storage
 
 Previously:
 
 - Apple iPhone from 4 to 8
+- Apple iPad Pro
+- Apple iPad Air
 
 ### eReader
 
-- Kobo Glo, sync'd using the cross-platform [Calibre](https://calibre-ebook.com/)
+- [Kobo Glo](https://www.the-ebook-reader.com/kobo-glo.html), sync'd using the cross-platform [Calibre](https://calibre-ebook.com/)
 
 Previously:
 
-- Kindle Paperwhite (2011-2012)
+- Kindle Paperwhite
+- Kobo Touch
 
 {: .h1 .text-center .m2m-text-rotate .pt-5 }
 ## Software
@@ -92,30 +96,30 @@ Previously:
 
 - macOS Big Sur 11.6.5
 - Windows 10
-- Pop_OS!
-- Kali (live distro)
+- [Pop_OS!](https://pop.system76.com/)
+- [Kali](https://www.kali.org/) (live distro)
 
 As a _system-agnostic_ I can easily work with any OS, depending on the task. I’m interested in experimentation but [opposed to updates for the sake of it](#update-policy).
 
 ### Digital Audio Workstation
 
-- REAPER 6.x
+- [REAPER 6](https://www.reaper.fm/)&nbsp;&nbsp;➡️ **[read why](/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)**
 - Logic Pro X 10.7.2
-- Reason 8.x
+- Reason 8.2.3 (legacy edition that shouldn't theoretically work, but _it does_)
 
 Previously:
 
 - Notator
 - Cubasis Audio
-- Cubase VST 4.x
-- Logic Platinum to Logic Pro 9
-- Pro Tools
+- Cubase VST 4
+- Logic Platinum 5 to Logic Pro 9
+- Pro Tools 11 to 2021
 
 ### Audio editor
 
-- iZotope RX
-- Triumph
-- Audacity
+- [iZotope RX](https://www.izotope.com/en/products/rx.html)
+- [Triumph](https://www.zynaptiq.com/macaudioapps/)
+- [Audacity](https://www.audacityteam.org/)
 
 Previously:
 
@@ -128,16 +132,16 @@ Previously:
 
 Staples:
 
-- Addictive Keys by XLN
-- Addictive Drums by XLN
-- Decent Sampler by Decidedly, running the [Pianobook library](https://www.pianobook.co.uk/)
-- LABS by Spitfire
-- Flow Motion FM Synth by Waves
-- Vital by Matt Tytel
-- Sitala by Decomposer
-- XPand! 2 by Air
-- Hollywood Strings Gold by EastWest
-- ReaSamplomatic 5000 by Cockos
+- [Addictive Keys](https://www.xlnaudio.com/products/addictive_keys) by XLN
+- [Addictive Drums](https://www.xlnaudio.com/products/addictive_drums_2) by XLN
+- [Decent Sampler](https://www.decentsamples.com/product/decent-sampler-plugin/) by Decidedly, running the [Pianobook library](https://www.pianobook.co.uk/)
+- [LABS](https://labs.spitfireaudio.com/) by Spitfire
+- [Flow Motion FM Synth](https://www.waves.com/plugins/flow-motion-fm-synth) by Waves
+- [Vital](https://vital.audio/) by Matt Tytel
+- [Sitala](https://decomposer.de/sitala/) by Decomposer
+- [XPand! 2](https://www.adsrsounds.com/product/software/air-music-tech-xpand2-all-in-one-workstation/) by Air
+- [Hollywood Strings Gold](https://www.soundsonline.com/hollywood-orchestra-opus-edition) by EastWest
+- [ReaSamplomatic 5000](https://reaperblog.net/2018/11/rs5k-velocity-round-robin/) by Cockos
 
 Other synths:
 
@@ -154,43 +158,43 @@ Other synths:
   + Radical piano
   + StringWERK
   + NN-XT
-- Iris 2 by iZotope
-- Workstation with Digital Synsation library by UVI
-- Bass Station by Novation
-- Podolski and Tyrell by U-he
-- Surrealistic MG-1 Plus by Cherry Audio
-- SR-88 by AudioThing
-- Syntronik Memory-V by IK Multimedia
-- Electric Grand 80 by Waves
+- [Iris 2](https://www.izotope.com/en/products/iris.html) by iZotope
+- [Workstation with Digital Synsation](https://www.uvi.net/en/vintage-corner/digital-synsations.html) library by UVI
+- [Bass Station](https://resource.novationmusic.com/software/bass-station) by Novation
+- [Podolski](https://u-he.com/products/podolski/) and [Tyrell](https://u-he.com/products/tyrelln6/) by U-he
+- [Surrealistic MG-1 Plus](https://cherryaudio.com/products/surrealistic-mg-1-plus) by Cherry Audio
+- [SR-88](https://www.audiothing.net/instruments/sr-88/) by AudioThing
+- [Syntronik Memory-V](https://www.ikmultimedia.com/products/synmemoryv/) by IK Multimedia
+- [Electric Grand 80](https://www.waves.com/plugins/electric-grand-80-piano#electric-grand-80-piano-virtual-instrument) by Waves
 
 ### Audio processing plug-ins
 
 I focus on a few set of quality plug-ins, trying to learn them at my best.
 
-- Horizon bundle, Abbey Road, SSL 4000 and API collection plus others by Waves
-- Soundtoys 5 by soundtoys
-- Ozone Extended 9 by iZotope
-- SPAN plus and Correlometer by Voxengo
-- VUMT deluxe and MJUC variable-tube compressor by Klanghelm
-- REAPER stock plug-ins by Cockos
+- [Horizon bundle, Abbey Road, SSL 4000 and API collection](https://www.waves.com/) plus others by Waves
+- [Soundtoys 5](https://www.soundtoys.com/product/soundtoys-5/) by soundtoys
+- [Ozone 9 advanced](https://www.izotope.com/en/shop/ozone-9-advanced.html) by iZotope
+- [SPAN plus](https://www.voxengo.com/product/spanplus/) and [Correlometer](https://www.voxengo.com/product/correlometer/) by Voxengo
+- [VUMT deluxe](https://klanghelm.com/contents/products/VUMT.html) and [MJUC variable-tube compressor](https://klanghelm.com/contents/products/MJUC.html) by Klanghelm
+- [REAPER stock plug-ins](https://www.reaper.fm/reaplugs/) by Cockos
 
 Occasionally:
 
-- Fog Convolver, Things collection and Valves by AudioThing
-- Compressors collection by McDSP
-- Melodyne 5 by Celemony
+- [Fog Convolver](https://www.audiothing.net/effects/fog-convolver/), Things collection and [Valves](https://www.audiothing.net/effects/valves/) by AudioThing
+- [Compressors Bank](https://www.mcdsp.com/plugin-index/compressor-bank/) by McDSP
+- [Melodyne 5](https://www.celemony.com/en/melodyne/melodyne-5-editions) by Celemony
 
 ### Game audio
 
-- Audiokinetic's Wwise
-- FMOD studio
-- Unreal Engine
-- Unity
+- [Audiokinetic's Wwise](https://www.audiokinetic.com/products/wwise/)
+- [FMOD studio](https://fmod.com/)
+- [Unreal Engine](https://www.unrealengine.com/)
+- [Unity](https://unity.com/)
 
 Previously:
 
 - [Microsoft’s XACT for Xbox](/work/sound-design/console-game-ruff-trigger/#xbox)
-- In-house editors and middleware
+- In-house MXE editor and middleware
 
 ### Audio accessories
 
@@ -204,7 +208,7 @@ Previously:
 
 ### Text editors
 
-- Sublime Text 4.x ([read why](https://tonsky.me/blog/sublime/))
+- [Sublime Text 4](http://www.sublimetext.com/)&nbsp;&nbsp;➡️ **[read why](https://tonsky.me/blog/sublime/)**
 - iA Writer for Markdown
 
 Previously:
@@ -216,23 +220,24 @@ Previously:
 
 ### Browser
 
-- Firefox
-- Brave (for testing)
-- Safari (for testing)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- Brave (for testing only)
+- Safari (for testing only)
+
+Firefox extensions:
+
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
+- [MarkDownload](https://addons.mozilla.org/en-US/firefox/addon/markdownload/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- [Modern for Wikipedia](https://addons.mozilla.org/en-US/firefox/addon/modern-for-wikipedia/)
+- [OneTab](https://addons.mozilla.org/en-US/firefox/addon/onetab/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- [Archive Page](https://addons.mozilla.org/en-US/firefox/addon/archive-page/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)
 
 Previously:
 
 - Vivaldi
 - Chrome
 - Camino
-
-Firefox extensions:
-
-- uBlock Origin
-- Bitwarden
-- MarkDownload
-- Modern for Wikipedia
-- OneTab
 
 ### E-mail
 
@@ -242,14 +247,15 @@ Previously:
 
 - Fastmail
 - Gmail
+- Apple @mac
 
 ### Image manipulation and Desktop publishing
 
-- Figma
-- Sketch v59
-- Pixelmator
-- Graphic Converter
-- ImageOptim
+- [Figma](https://www.figma.com/)
+- [Sketch](https://www.sketch.com/) v59
+- [Pixelmator](https://www.pixelmator.com/)
+- [Graphic Converter](https://www.lemkesoft.de/en/products/graphicconverter/)
+- [ImageOptim](https://imageoptim.com/)
 - [Affinity Publisher](https://affinity.serif.com/en-us/publisher/)
 
 Previously:
@@ -258,15 +264,13 @@ Previously:
 
 ### Office
 
-- LibreOffice
-- Pages
-- Numbers
-- Keynote
+- [LibreOffice](https://www.libreoffice.org/)
+- Apple's [Pages, Numbers, Keynote](https://www.apple.com/iwork/)
 
 ### News and RSS reader
 
 - [Reeder](https://reeder.app/)
-- Pocket
+- [Pocket](https://www.mozilla.org/en-US/firefox/pocket/)
 - [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews&hl=en_US&gl=US) for Hacker News
 
 ### Task management
@@ -282,8 +286,8 @@ Previously:
 
 ### Messaging
 
-- Telegram
-- Signal
+- [Telegram](https://telegram.org/)
+- [Signal](https://www.signal.org/)
 
 Previously:
 
@@ -313,7 +317,7 @@ Previously:
 ### Cloud sync
 
 - [Syncthing](https://syncthing.net/)
-- Dropbox (only in the browser)
+- [Dropbox](https://www.dropbox.com/) (only in the browser)
 
 Previously:
 
@@ -324,23 +328,19 @@ Previously:
 ### Backup
 
 - [Carbon Copy Cloner](https://bombich.com/)
-- Backblaze
+- [Backblaze](https://www.backblaze.com/)
 
 ### Update policy
 
-I mentioned how **I’m opposed to updates for the sake of it**. It means I only upgrade for:
+I’m opposed to updates for the sake of it. It means I only upgrade for:
 
-1. much-needed fixes
-2. security updates
-3. _really new features_ that are useful, maybe because their users requested so
+- much-needed fixes
+- security updates
+- _really new features_, maybe because their users requested so
 
-Brilliant examples come from [Cockos Incorporated](https://cockos.com/) (makers of Reaper) and [Sublime HQ Pty Ltd](https://www.sublimehq.com/) (makers of Sublime Text). Likely not a coincidence that both companies have very few employees.
+Brilliant examples come from [Cockos Incorporated](https://cockos.com/) (makers of Reaper) and [Sublime HQ Pty Ltd](https://www.sublimehq.com/) (makers of Sublime Text): small entities with a decent and well-thought business model that doesn’t rip off customers and can move swiftly when needed. I’m more than happy to support by buying and upgrading their products, because I know I’ll be listened to.
 
-They _actually use_ what they’re selling, therefore they understand their users. These are small entities with a decent and well-thought business model that doesn’t rip off customers and can move swiftly when needed. That’s the only kind I’m interested in. I’m more than happy to support by buying and upgrading their products, because I know I’ll be listened to.
-
-For the same reasons I now refuse to use Avid's products and pretty much everything that is locked-in with a _subscription model_.
-
-On the negative side, I stopped caring for Logic updates ever since Apple had decided to tie them to their insane and arbitrarily idiotic yearly cycle of forced OS “upgrades”. I’ve decided to stick to any OS that works for me, which might well be a few years old. Any [new Logic version](https://www.apple.com/logic-pro/specs/) requires last year’s OS as a minimum. _Planned obsolescence_ brought by multi-trillion-dollar companies is not my cup of tea.
+For the same reasons, I refuse to use Avid's products and pretty much everything that is locked-in with a _subscription model_, as well as I stopped caring for Logic updates ever since Apple had decided to tie them to their insane and arbitrarily idiotic yearly cycle of forced OS “upgrades”. **Planned obsolescence** brought by multi-trillion-dollar companies is not my cup of tea.
 
 ---
 
