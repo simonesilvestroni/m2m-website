@@ -5,7 +5,7 @@
     <img class="w-100" src="/assets/images/thumb-{{ casestudy.title | downcase | replace: " ","-" | append: ".jpg" }}" alt="{{ casestudy.title }}" width="350" height="350">
     {%- endif -%}
     <div class="card-body text-center">
-      <h4 class="h1 fs-4 p-name m2m-sans text-uppercase my-3">{{ casestudy.title }} {% if casestudy.type == "sound design" and casestudy.subtype == "original music" %}({{ casestudy.kind }}){% endif -%}</h4>
+      <h4 class="h1 fs-4 p-name m2m-sans text-uppercase my-3">{{ casestudy.title }} {% if casestudy.type == "music" %}({{ casestudy.kind }}){% endif -%}</h4>
       <p class="p-summary card-text text-start fs-5 lh-sm">
         {%- if casestudy.type == "web design" -%}
           {{ casestudy.description | strip_html }}
