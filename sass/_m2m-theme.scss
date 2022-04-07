@@ -88,28 +88,29 @@ h4 {
     font-size: 1.1rem;
     color: black;
     text-decoration: solid underline rgba($background-d-50, .8) 2px;
+    text-underline-offset: 3px;
     margin: 0 $spacer/2;
     position: relative;
-    @-moz-document url-prefix() {
-      text-underline-offset: 1px;
-    }
+    // @-moz-document url-prefix() {
+    //   text-underline-offset: 1px;
+    // }
     &:hover {
       opacity: .6;
     }
-    &::before {
-      height: 4px;
-      position: absolute;
-      background: $background-d-50;
-      content: "";
-      width: 100%;
-      bottom: 11px;
-      z-index: -1;
-      transition: transform 0.1s ease 0s;
-      transform: skew(-20deg) rotate(-2deg) scaleX(1.03);
-      @include media-breakpoint-up(md) {
-        bottom: 13px;
-      }
-    }
+    // &::before {
+    //   height: 4px;
+    //   position: absolute;
+    //   background: $background-d-50;
+    //   content: "";
+    //   width: 100%;
+    //   bottom: 11px;
+    //   z-index: -1;
+    //   transition: transform 0.1s ease 0s;
+    //   transform: skew(-20deg) rotate(-2deg) scaleX(1.03);
+    //   @include media-breakpoint-up(md) {
+    //     bottom: 13px;
+    //   }
+    // }
     @include media-breakpoint-up(md) {
       font-size: 1.5rem;
       margin: 0 $spacer;
@@ -134,9 +135,13 @@ h4 {
 }
 .m2m-current {
   color: $background-d-50 !important;
+  text-decoration-thickness: 4px !important;
+  text-underline-offset: 1px !important;
+  @-moz-document url-prefix() {
+    text-underline-offset: 3px !important;
+  }
   footer & {
     color: $background-d-50 !important;
-    text-decoration-thickness: 3px;
     &:hover {
       color: $background-d-50 !important;
     }
