@@ -35,7 +35,9 @@ layout: default
         </ul>
       </div>
       {% endunless %}
-      <span class="visually-hidden">{%- include hcard-post.html -%}</span>
+      <span class="visually-hidden">
+        {% include hcard-post.html %}
+      </span>
     </div>
     <div class="e-content my-5">
       {{ content }}
