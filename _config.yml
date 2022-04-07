@@ -151,6 +151,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-archives
   - jekyll-responsive-image
+  - jekyll-webp
 
 # -------------------
 # Work endorsements
