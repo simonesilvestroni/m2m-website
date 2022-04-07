@@ -13,5 +13,4 @@ group :jekyll_plugins do
   gem 'jekyll-feed', '~> 0.15.1'
   gem 'jekyll-archives', '~> 2.2.1'
   gem 'jekyll-responsive-image', '~> 1.6'
-  gem 'jekyll-webp'
 end
