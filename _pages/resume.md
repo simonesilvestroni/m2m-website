@@ -37,31 +37,29 @@ Full music production, bass tracks, mixing and mastering. Web design and front-e
 {: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
 #### Case studies
 
-{: .list-unstyled .ps-0 }
-- 🎧 [Producing bass remotely](/work/sound-design/producing-bass-remotely/)
-- 🎧 [Mixing _Premonition and Ruin_](/work/sound-design/premonition-and-ruin/)
-- 🎧 [Tom the tow truck cartoon](/work/sound-design/car-city-cartoon/)
-- 🎧 [Vocal editing](/work/sound-design/vocal-editing/)
-- 🎧 [Drums restoration](/work/sound-design/drums-restoration/)
-- 💿 [Non sai chi sono](/music/non-sai-chi-sono/)
-- 💿 [The Die is Cast](/music/the-die-is-cast/)
-- 💿 [After 1989](/music/after-1989/)
-- 👨🏻‍💻 [Pure HTML and CSS responsive carousel in Jekyll](/work/web-design/responsive-photogallery-carousel/)
-- 👨🏻‍💻 [Minutes to Midnight](/work/web-design/minutes-to-midnight/)
-- 👨🏻‍💻 [Silvia Maggi Design](/work/web-design/silvia-maggi-design/)
-- 👨🏻‍💻 [No Slack Day](/work/web-design/no-slack-day/)
+{: .list-group .list-group-flush .mt-0 .ps-0 }
+- {: .list-group-item .my-0 .ps-0 } 🎧 [Producing bass remotely](/work/sound-design/producing-bass-remotely/)
+- {: .list-group-item .my-0 .ps-0 } 🎧 [Mixing _Premonition and Ruin_](/work/sound-design/premonition-and-ruin/)
+- {: .list-group-item .my-0 .ps-0 } 🎧 [Tom the tow truck cartoon](/work/sound-design/car-city-cartoon/)
+- {: .list-group-item .my-0 .ps-0 } 🎧 [Vocal editing](/work/sound-design/vocal-editing/)
+- {: .list-group-item .my-0 .ps-0 } 🎧 [Drums restoration](/work/sound-design/drums-restoration/)
+- {: .list-group-item .my-0 .ps-0 } 💿 [Non sai chi sono](/music/non-sai-chi-sono/)
+- {: .list-group-item .my-0 .ps-0 } 💿 [The Die is Cast](/music/the-die-is-cast/)
+- {: .list-group-item .my-0 .ps-0 } 💿 [After 1989](/music/after-1989/)
+- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Pure HTML and CSS responsive carousel in Jekyll](/work/web-design/responsive-photogallery-carousel/)
+- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Minutes to Midnight](/work/web-design/minutes-to-midnight/)
+- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Silvia Maggi Design](/work/web-design/silvia-maggi-design/)
+- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [No Slack Day](/work/web-design/no-slack-day/)
 
 {: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
 #### Publications
 
-{: .list-unstyled .ps-0 }
-- 📒 [Efficient Productivity for Music Professionals](/work/project-management/)
-- 📒 [A Trip to Freedom, from Berlin to Berlin](https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e)
-- 📒 [Producing bass tracks remotely](https://unlockyoursound.com/producing-bass-tracks-remotely/)
+{: .list-group .list-group-flush .mt-0 .ps-0 }
+- {: .list-group-item .my-0 .ps-0 } 📒 [Efficient Productivity for Music Professionals](/work/project-management/)
+- {: .list-group-item .my-0 .ps-0 } 📒 [A Trip to Freedom, from Berlin to Berlin](https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e)
+- {: .list-group-item .my-0 .ps-0 } 📒 [Producing bass tracks remotely](https://unlockyoursound.com/producing-bass-tracks-remotely/)
 
----
-
-{: .mb-0 }
+{: .mb-0 .pt-5 }
 ### Front-end web developer at [UI Farm Ltd](https://uifarm.co.uk)
 
 {: .m2m-serif }
@@ -73,9 +71,9 @@ Co-founder, web designer and UI developer, I worked for clients like Reevoo, Not
 {: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
 #### Case studies
 
-{: .list-unstyled .ps-0 }
-- 👨🏻‍💻 [Reevoo](/work/web-design/reevoo/)
-- 👨🏻‍💻 [UniCredit](/work/web-design/unicredit/)
+{: .list-group .list-group-flush .mt-0 .ps-0 }
+- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Reevoo](/work/web-design/reevoo/)
+- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [UniCredit](/work/web-design/unicredit/)
 
 {: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
 #### Publications
@@ -83,9 +81,7 @@ Co-founder, web designer and UI developer, I worked for clients like Reevoo, Not
 {: .list-unstyled .ps-0 }
 - 📒 [How we work: a modern workflow for the multi-device web](https://medium.com/ui-farm/how-we-work-a-modern-workflow-for-the-multi-device-web-4e0dcb081b5b)
 
----
-
-{: .mb-0 }
+{: .mb-0 .pt-5 }
 ### Senior UI developer at Bodog
 
 {: .m2m-serif }
@@ -94,9 +90,7 @@ September 2011 — May 2012 (London, UK)
 {: .detached }
 Developed gaming and sports applications and accompanying websites, using SASS, Compass, Drupal, jQuery, LAMP, SVN, Web Typography within an Agile environment.
 
----
-
-{: .mb-0 }
+{: .mb-0 .pt-5 }
 ### Sound designer and UI developer at New Energy / Part of Accenture
 
 {: .m2m-serif }
@@ -107,9 +101,7 @@ Initially working for a subsidiary company, I designed and distributed audio and
 
 I also produced mockups and working prototypes for the usability tests; helped to set up the internal usability lab and led the A/B testing workflow, including R&D for eye-tracking.
 
----
-
-{: .mb-0 }
+{: .mb-0 .pt-5 }
 ### Lead Game Audio Engineer at Playstos Entertainment
 
 {: .m2m-serif }
@@ -123,37 +115,32 @@ I built the internal sound studio from scratch, managing three computers in audi
 {: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
 #### Case study
 
-{: .list-unstyled .ps-0 }
+{: .list-unstyled .ps-0 .mb-5 .pb-5 }
 - 🎧 [Console game Ruff Trigger](/work/sound-design/console-game-ruff-trigger/)
 
----
+{: .alert .alert-background-d-10 .text-center .px-4 .py-4 }
+Head over to LinkedIn for a [complete list of work experience ↗︎](https://www.linkedin.com/in/minutes2mid/)
 
-<div class="alert alert-background-d-10 text-center px-4 py-4">
-  <p>Head over to LinkedIn for a <a href="https://www.linkedin.com/in/minutes2mid/">complete list of work experience ↗︎</a></p>
-</div>
-
+{: .pt-5 }
 ## Languages
 
-{: .list-unstyled .ps-0 }
-- 🇮🇹 **Italian**: native
-- 🇺🇸 **English**: bilingual proficiency
-- 🇩🇪 **German**: elementary
+{: .list-group .list-group-flush .mt-0 .ps-0 }
+- {: .list-group-item .my-0 .ps-0 } 🇮🇹 **Italian**: native
+- {: .list-group-item .my-0 .ps-0 } 🇺🇸 **English**: bilingual proficiency
+- {: .list-group-item .my-0 .ps-0 } 🇩🇪 **German**: elementary
 
+{: .pt-5 }
 ## Certifications and courses
 
-<ul class="list-group list-group-flush ps-0">
-  {%- for cert in site.certifications.sound %}
-  <li class="list-group-item my-0 ps-0 pb-3">
-    <span class="pe-1">🏛</span> <a href="{{ cert.href }}">{{ cert.name }}</a> {{ cert.desc }}.
-  </li>
-  {% endfor -%}
-  {%- for cert in site.certifications.web %}
-  <li class="list-group-item my-0 ps-0 pb-3">
-    <span class="pe-1">🏛</span> {{ cert.name }}.
-  </li>
-  {%- endfor -%}
-</ul>
+{: .list-group .list-group-flush .mt-0 .ps-0 }
+{% for cert in site.certifications.sound %}
+- {: .list-group-item .my-0 .ps-0 } 🏛 [{{ cert.name }}]({{ cert.href }}) {{ cert.desc }}.
+{%- endfor %}
+{%- for cert in site.certifications.web %}
+- {: .list-group-item .my-0 .ps-0 } 🏛 {{ cert.name }}.
+{%- endfor %}
 
+{: .pt-5 }
 ## Endorsements
 
 {%- assign endorsementaudio = site.endorsements.audio -%}
@@ -179,9 +166,6 @@ I built the internal sound studio from scratch, managing three computers in audi
 
 {%- endfor %}
 
-<br>
-
-<div class="alert alert-background-d-10 text-center px-4 py-4">
-  <p class="pb-3">Check my LinkedIn <a href="https://www.linkedin.com/in/minutes2mid/">sound and web design endorsements ↗︎</a></p>
-  <p>Check SoundBetter for <a href="https://soundbetter.com/profiles/206552-minutes-to-midnight/#reviews">bass performance endorsements ↗︎</a></p>
-</div>
+{: .alert .alert-background-d-10 .text-center .mt-5 .px-4 .py-5 }
+Check **LinkedIn** for [sound and web design endorsements ↗︎](https://www.linkedin.com/in/minutes2mid/)<br><br>
+Check **SoundBetter** for [bass performance endorsements ↗︎](https://soundbetter.com/profiles/206552-minutes-to-midnight/#reviews)
