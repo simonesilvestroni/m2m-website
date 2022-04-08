@@ -237,7 +237,8 @@ At the end of that year, I left.
 
 Once Playstos found a publisher (Natsume), the game completed its transition from a **multi-platform ambitious project** to something else. The audio was offloaded to a third party, therefore most of my contributions were relegated in the credits as "prototype sound designer".
 
-{% include pattern-figure.html image="/assets/images/playstos-ruff-trigger.jpg" caption="The official packaging" width="458" height="640" %}
+{: .detached .text-center .my-5 }
+![Ruff Trigger's official packaging](/assets/images/playstos-ruff-trigger.jpg){: width='458' height='640' }
 
 ### Reactions
 

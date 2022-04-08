@@ -138,8 +138,10 @@ responsive_image:
       quality: 80
     - width: 768
       quality: 80
+    - width: 992
+      quality: 80
     - width: 1200
-      quality: 90
+      quality: 85
   strip: true
   output_path_format: assets/images/responsive/%{width}/%{basename}
 

@@ -137,7 +137,8 @@ Imagine having to double click in the track area and **not worry about any of th
 
 Drag an audio file, whether mono, stereo or multichannel, and the track accepts it; do the same by dropping a MIDI file. It also doesn’t care if the audio files are at different sample rates. **Later, you can decide** if it has to be mono or stereo, assign outputs and/or sends and whatnot. Also, and this is utterly cool: I can have a mono audio, a stereo (or surround) audio and a MIDI sequence **all in one track**:
 
-{% include pattern-figure.html image="/assets/images/daw-reaper-multi-track-scaled.jpg" caption="A track in REAPER holding a MIDI part, together with stereo and mono audio recordings" width="2560" height="808" %}
+{: .detached .text-center .my-5 }
+![A track in REAPER holding a MIDI part, together with stereo and mono audio recordings](/assets/images/daw-reaper-multi-track-scaled.jpg){: width='1200' height='378' }
 
 It’s a different metaphor, and it leads to a _whole new workflow_. It’s become an unbelievably efficient **timesaver** to me. Reproducing all my Logic or Pro Tools templates, including creating groups of track presets first, took me a few minutes.
 

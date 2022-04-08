@@ -44,7 +44,10 @@
 {%- endcapture -%}
 {% assign captionLabel = post.featimage-caption %}
 <figure class="{% if margin-nil %}my-{{ margin-nil }} {% else %}my-5 {% endif %}text-center">
-  <img class="{% if class %}{{ class }} {% endif %}mx-auto" src="/{{ largest.path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }} /{{ path }} {{ original.width }}w">
+  <picture>
+    <source type="image/webp" srcset="{{ srcset | strip_newlines | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }} /{{ path | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }} {{ original.width }}w">
+    <img class="{% if class %}{{ class }} {% endif %}mx-auto" src="/{{ largest.path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }} /{{ path }} {{ original.width }}w">
+  </picture>
   {% if caption-true %}
   <figcaption class="mt-3 caption">{{ caption }}</figcaption>
   {% endif %}

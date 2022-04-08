@@ -74,8 +74,6 @@ The songs followed this new idea of a _liaison_ between my grandfather's escape 
 
 The album **shrinked from 16 pieces to 10 songs**. By axing redundant intros and all the instrumentals that I didn't write or didn't fit into my vision of the story, I managed to reduce the running time from `49` minutes to `32`. I also penned the closing track _Sachsenhausen_.
 
-{% include pattern-figure.html image="/assets/images/after-1989-new-synopsis.png" caption="<em>After 1989</em>: New synopsis and tracklist" width="1013" height="570" %}
-
 ### Workflow
 
 In between the two stages of _After 1989_, I **went back to Logic Pro**. Exported all the tracks with and without Reason's native processing, imported into Logic projects, rearranged sections, edited MIDI parts and wrote the lyrics. I then sung all the test vocals, played piano, rewrote previous ideas and morphed them into new songs. The peculiar and [complicated story of the leading single](/blog/skinny-kid-song-backstory/), _Skinny Kid_, is emblematic of this stage.
@@ -94,7 +92,8 @@ The next phase was edit, polish and mix. I employed a technique borrowed from **
 
 I also eagerly dived more deeply into [Michael Brauer's multi-bus compression](https://brauerizing.wordpress.com/) technique, which I already experimented with in previous productions. More powerful and even better refined, today it's still a staple in my templates.
 
-{% include pattern-figure.html image="/assets/images/multi-bus-brauer.png" caption="My current multi-bus tracks in REAPER" width="420" height="687" %}
+{: .detached .text-center .my-5 }
+![My current multi-bus tracks in REAPER](/assets/images/multi-bus-brauer.png){: width='420' height='687' }
 
 In a nutshell: instead of applying a single mix bus compressor, the multi-bus methodology requires sending different instruments, **grouped by function and frequency range**, to four different set of compressors. I route piano and other synths to bus A, drums and bass to bus B, guitars, certain strings and synths to bus C, sound effects plus reverbs and delays to bus D. This way, the compressors act on specific settings without squashing material that they're not suited for. A thorough [calibration](https://youtu.be/M0akUKhkok0) is required before starting to apply any routing.
 

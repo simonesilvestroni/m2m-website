@@ -572,4 +572,5 @@ Even though Netlify has a free plug-in that would automatically send webmentions
 - [Telegraph](https://telegraph.p3k.io/) send webmentions from my site to others.
 - [Brid.gy](https://brid.gy/) pulls webmentions to mine from certain external sites such as WordPress, Mastodon and Flickr, among many others — with the added capability to cross-post my content there. This principle is called [POSSE](https://indieweb.org/POSSE) — Publish (on your) Own Site, Syndicate Elsewhere.
 
-{% include pattern-figure.html image="/assets/images/webmention-reactions.png" alt="Webmentions on a recent blog post" caption="Webmentions on a recent blog post, including likes and reboost from Mastodon" width="720" height="473" %}
+{: .detached .text-center .mt-5 }
+![Webmentions on a recent blog post](/assets/images/webmention-reactions.png){: width='720' height='473' }

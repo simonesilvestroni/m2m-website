@@ -8,8 +8,10 @@ sitemap: false
 permalink: /404.html
 ---
 <article class="m2m-entry mb-5">
-  <h1 class="mt-4 mb-0 text-center">{{ page.title }}</h1>
-  {% include pattern-figure.html image="/assets/images/zed.png" width="1024" height="375" %}
+  <h1 class="p-name text-center display-1 m2m-text-rotate mt-4 mt-md-0">{{ page.title }}</h1>
+  <div class="my-5">
+    <img src="/assets/images/zed.png" alt="Who's Zed? Zed's dead, baby" width="1024" height="375">
+  </div>
   <p class="lead">Go back to the <a href="/" title="go back to the Homepage">homepage</a>, or search:</p>
   {% include pattern-search.html %}
 </article>

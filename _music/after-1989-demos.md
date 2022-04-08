@@ -27,8 +27,6 @@ The previous incarnation of the [concept album](/music/after-1989/) was mostly i
 
 ### Narration and theatrical idea
 
-{% include pattern-figure.html image="/assets/images/coldwartale.png" caption="From the original theatrical treatment" width="1688" height="665" %}
-
 The basic idea revolved around a single character named Mark, who discovered how his grandfather spent years in a German concentration camp during WWII. Trying to retrace his story, he falls back into an obsession about the connection between the war and the decades that followed. The _iron curtain_ and a frozen status quo which kept the world in a stasis.
 
 Mark would be an actor, alone in a large minimalistic room: a couch, a window and a white wall with a flat screen showing movies and documentaries from the Cold War era. A fragment of a movie in-between each song complemented the chronological narration, with his monologues going back to the private story. 
@@ -49,7 +47,8 @@ We recorded, arranged and roughly produced about 15 pieces of music, including t
 
 My Warwick Thumb bass and Paolo's Fender Strat are both around thirty years old now, and they're prominently featured in the album. I didn't use many plugins to produce the rough mixes: I mostly relied on Reason's brilliant integrated rack: the **SSL-based mixer** with his familiar channel strip, the 1970s-sounding delay reminiscent of a _Roland Space Echo_, and a couple of reverbs. The only exceptions were made for his electric guitar: we adopted a custom mix of **Line-6** and **Kuassa virtual amps**. It's still pretty effective, though I re-amped many tracks for the final album.
 
-{% include pattern-figure.html image="/assets/images/reason-ssl.jpg" caption="SSL mixer in Reason" width="1024" height="629" %}
+{: .detached .text-center .my-5 }
+![SSL mixer in Reason](/assets/images/reason-ssl.jpg){: width='1024' height='629' }
 
 ### Outtakes
 
