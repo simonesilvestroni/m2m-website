@@ -60,10 +60,8 @@ $enable-negative-margins: true;
 
 // Links
 $link-color: $heading-d-30;
-$link-decoration: $link-d-10;
 $link-shade-percentage: 30%;
 $link-hover-color: tint-color($link-color, $link-shade-percentage);
-$link-hover-decoration: tint-color($link-color, $link-shade-percentage);
 
 // Navigation
 $nav-link-color: $link-color;

@@ -87,30 +87,14 @@ h4 {
   .nav-link {
     font-size: 1.1rem;
     color: black;
-    text-decoration: solid underline rgba($background-d-50, .8) 2px;
+    text-decoration-line: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: rgba($background-d-50, .8);
     text-underline-offset: 3px;
     margin: 0 $spacer/2;
-    position: relative;
-    // @-moz-document url-prefix() {
-    //   text-underline-offset: 1px;
-    // }
     &:hover {
       opacity: .6;
     }
-    // &::before {
-    //   height: 4px;
-    //   position: absolute;
-    //   background: $background-d-50;
-    //   content: "";
-    //   width: 100%;
-    //   bottom: 11px;
-    //   z-index: -1;
-    //   transition: transform 0.1s ease 0s;
-    //   transform: skew(-20deg) rotate(-2deg) scaleX(1.03);
-    //   @include media-breakpoint-up(md) {
-    //     bottom: 13px;
-    //   }
-    // }
     @include media-breakpoint-up(md) {
       font-size: 1.5rem;
       margin: 0 $spacer;
@@ -121,6 +105,7 @@ h4 {
   font-size: 1rem;
   a {
     display: inline-block;
+    text-decoration-color: rgba($background-d-20, .8) !important;
     padding: 2px 6px;
   }
   @include media-breakpoint-up(md) {
@@ -135,11 +120,8 @@ h4 {
 }
 .m2m-current {
   color: $background-d-50 !important;
+  text-decoration-color: rgba($background-d-50, .8) !important;
   text-decoration-thickness: 4px !important;
-  text-underline-offset: 1px !important;
-  @-moz-document url-prefix() {
-    text-underline-offset: 3px !important;
-  }
   footer & {
     color: $background-d-50 !important;
     &:hover {
@@ -270,11 +252,11 @@ cite {
   color: $link-color !important;
   text-decoration-line: underline;
   text-decoration-thickness: 2px;
-  text-decoration-color: $link-decoration !important;
+  text-decoration-color: rgba($background-d-30, .6) !important;
   &:hover {
     color: $link-hover-color !important;
     text-decoration-line: underline;
-    text-decoration-color: $link-hover-decoration;
+    text-decoration-color: $background-d-50;
     text-decoration-thickness: 3px;
   }
 }
