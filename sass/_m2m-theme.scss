@@ -21,6 +21,7 @@ body {
   background-attachment: fixed;
   // @media (prefers-color-scheme: dark) {
   //   background: $body-bg-dark url(/assets/images/watercolor-dark.png) no-repeat top right;
+  //   background-attachment: fixed;
   // }
 }
 
@@ -31,6 +32,10 @@ body {
 
 header {
   background: transparent url(/assets/images/dirt.png) repeat center center;
+  // @media (prefers-color-scheme: dark) {
+  //   opacity: 0.4;
+  //   background-attachment: fixed;
+  // }
 }
 .m2m-container {
   @include media-breakpoint-up(md) {
