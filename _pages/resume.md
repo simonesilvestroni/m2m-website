@@ -7,6 +7,9 @@ description: 'Online resume of Simone Silvestroni, sound and web designer since 
 excerpt: 'While interning as an editor in 1995, I graduated as a bass player. Moved a few years later from the publishing industry to web design. After spending the following decades working as a game audio designer and a front-end developer between Italy and the UK, I gained a diploma at Berklee, specializing in music production, mixing above all.'
 permalink: '/resume/'
 ---
+{: .alert .alert-background-d-10 .text-center .mt-5 .px-4 .py-3 }
+Reach out to [request a PDF version](/contact/) of my resume.
+
 {: .h1 .fs-1 .text-uppercase .text-center .pt-3 }
 ## Skills and tools
 
