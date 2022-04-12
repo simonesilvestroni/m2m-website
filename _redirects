@@ -1,6 +1,5 @@
 http://blog.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/blog/:splat 301!
 https://blog.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/blog/:splat 301!
-https://minutestomidnight.co.uk/notes/* https://minutestomidnight.co.uk/blog/notes/:splat 301!
 http://after1989.minutestomidnight.co.uk/ https://minutestomidnight.co.uk/music/after-1989/ 301
 https://after1989.minutestomidnight.co.uk/ https://minutestomidnight.co.uk/music/after-1989/ 301
 /category/bass/ /archive/ 301
@@ -259,3 +258,10 @@ https://after1989.minutestomidnight.co.uk/ https://minutestomidnight.co.uk/music
 /work/sound-design/after-1989-demos/ /music/after-1989-demos/ 301
 /work/sound-design/the-die-is-cast/ /music/the-die-is-cast/ 301
 /work/sound-design/non-sai-chi-sono/ /music/non-sai-chi-sono/ 301
+/notes/2022-03-12/ /blog/note-about-new-indie-music/ 301
+/notes/2022-03-11/ /blog/note-about-joining-mastodon/ 301
+/notes/2022-03-04/ /blog/note-about-quitting-twitter/ 301
+/notes/2022-03-01/ /blog/note-about-ukraine/ 301
+/notes/2022-02-11/ /blog/note-about-michael-c-hall/ 301
+/notes/2022-02-19/ /blog/note-about-photogallery/ 301
+/notes/2022-02-09/ /blog/note-about-meta/ 301
