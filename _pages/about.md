@@ -4,12 +4,12 @@ title: About
 date: '2022-01-14 16:54:43'
 last_modified_at: '2022-01-14 16:54:56'
 description: 'Simone Silvestroni, sound and web designer going under the moniker Minutes to Midnight. Freelancing in Milan after 9 years in the UK. I started my blog in 2002.'
-excerpt: 'I’m Simone Silvestroni, sound and web designer working under the moniker Minutes to Midnight. First a bass player and editor, I later became a music producer and front-end developer. I started my blog in 2002. Currently <a href="/work/">freelancing in Milan</a> after 9 years in the UK.'
+excerpt: 'I’m Simone Silvestroni, sound and web designer. First a bass player and editor, I later became a music producer and front-end developer. I started my blog in 2002 while working as a game audio team leader.<br>Currently <a href="/work/">freelancing in Milan</a> after 9 years in the UK.'
 permalink: '/about/'
 ---
 ## Why audio and web?
 
-I've always been into **technical and creative fields** at the same time. While I've been a musician for longer, my first paid job was proofreader and then editor. It gradually morphed into web design in the late 1990s. When I joined [Playstos Entertainment](/work/sound-design/console-game-ruff-trigger/) I managed to do both web and sound design during the production of a console video game, juggling between the two ever since. For an exhaustive list of skills, tools and work experience [check out the resume ↗︎](/resume/) .
+I've always been into both **technical and creative fields**. While I've been a musician for longer, my first paid job was proofreader and then editor. It gradually morphed into web design in the late 1990s. When I joined [Playstos Entertainment](/work/sound-design/console-game-ruff-trigger/) I managed to do both web and sound design during the production of the console video game _Ruff Trigger_, juggling between the two ever since. For an exhaustive list of skills, tools and work experience [check out the resume ↗︎](/resume/).
 
 ## Passions
 
