@@ -43,7 +43,7 @@ author:
 # -------------------
 brand:
   m2m_pitch: 'I’m a liaison between creativity and logic.'
-  m2m_intro: 'Hi! Simone Silvestroni here. A digital polymath, I’ve been working as a <strong>sound and web designer</strong> for more than 25 years.<br>Passionate about audio-visual storytelling, web standards and sustainability, I’m way too much into problem-solving. <a href="/work/" title="See my work"><strong>See my work ↗</strong></a>'
+  m2m_intro: 'Hi! Simone Silvestroni here. A digital polymath, I’ve been working as a <strong>sound and web designer</strong> for more than 25 years.<br>Passionate about audio-visual storytelling, web standards and sustainability, I’m way too much into problem-solving. <a href="/projects/" title="Check my projects"><strong>Check my projects ↗</strong></a>'
 
 # -------------------
 # Exclusions
@@ -87,17 +87,17 @@ defaults:
       path: ""
       type: "sounddesign"
     values:
-      layout: "casestudy"
+      layout: "project"
   - scope:
       path: ""
       type: "webdesign"
     values:
-      layout: "casestudy"
+      layout: "project"
   - scope:
       path: ""
       type: "music"
     values:
-      layout: "casestudy"
+      layout: "project"
 
 # -------------------
 # Collections
@@ -105,10 +105,10 @@ defaults:
 collections:
   sounddesign:
     output: true
-    permalink: /work/sound-design/:path/
+    permalink: /projects/sound-design/:path/
   webdesign:
     output: true
-    permalink: /work/web-design/:path/
+    permalink: /projects/web-design/:path/
   music:
     output: true
     permalink: /music/:path/

@@ -193,7 +193,7 @@ Occasionally:
 
 Previously:
 
-- [Microsoft’s XACT for Xbox](/work/sound-design/console-game-ruff-trigger/#xbox)
+- [Microsoft’s XACT for Xbox](/projects/sound-design/console-game-ruff-trigger/#xbox)
 - In-house MXE editor and middleware
 
 ### Audio accessories

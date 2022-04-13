@@ -25,5 +25,5 @@ speedindex: '0.7 seconds'
 pageweight: '407 kb'
 site-is-live: true
 live-url: 'https://silviamaggidesign.com'
-permalink: '/work/web-design/silvia-maggi-design/'
+permalink: '/projects/web-design/silvia-maggi-design/'
 ---

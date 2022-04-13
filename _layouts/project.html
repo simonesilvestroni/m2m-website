@@ -3,9 +3,9 @@ layout: default
 ---
 {% capture CaseTypeURL %}
   {%- if page.type == "web design" -%}
-  {{ site.url }}/work/web-design/
+  {{ site.url }}/projects/web-design/
   {%- elsif page.type == "sound design" -%}
-  {{ site.url }}/work/sound-design/
+  {{ site.url }}/projects/sound-design/
   {%- elsif page.type == "music" -%}
   {{ site.url }}/music/
   {%- endif -%}
@@ -15,7 +15,7 @@ layout: default
     <kbd class="fs-5"><a href="{{ CaseTypeURL }}" title="Work category"><strong class="p-category text-uppercase">{% unless page.type == "music" %}{{ page.type }}{% endunless %}{% if page.type == "music" %}{{ page.subtype }}{% endif %}</strong></a> case study</kbd>
   </div>
   <h1 class="p-name text-center display-1 lh-sm m2m-text-rotate mt-5">{{ page.title }}</h1>
-  {%- if page.url contains '/work/web-design/' %}
+  {%- if page.collection == 'webdesign' %}
   <p class="p-summary lead pb-3">{{ page.summary }}</p>
   {% else %}
   <p class="p-summary lead pb-3">{{ page.excerpt }}</p>
@@ -37,7 +37,7 @@ layout: default
     <div class="py-1">
       {% responsive_image_block %}
         path: assets/images/{{ page.title | slugify | append: '.jpg' }}
-        class: casestudy-feat
+        class: project-feat
         alt: {{ page.title }}
       {% endresponsive_image_block %}      
     </div>

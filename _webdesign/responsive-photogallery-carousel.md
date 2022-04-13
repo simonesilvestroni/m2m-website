@@ -20,7 +20,7 @@ featimage-height: '574'
 performance: false
 site-is-live: true
 live-url: 'https://silviamaggidesign.com/photography/four-days-in-bordeaux/'
-permalink: '/work/web-design/responsive-photogallery-carousel/'
+permalink: '/projects/web-design/responsive-photogallery-carousel/'
 ---
 ## Removing Javascript-based UI components
 

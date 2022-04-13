@@ -41,24 +41,24 @@ Full music production, bass tracks, mixing and mastering. Web design and front-e
 #### Case studies
 
 {: .list-group .list-group-flush .mt-0 .ps-0 }
-- {: .list-group-item .my-0 .ps-0 } 🎧 [Producing bass remotely](/work/sound-design/producing-bass-remotely/)
-- {: .list-group-item .my-0 .ps-0 } 🎧 [Mixing _Premonition and Ruin_](/work/sound-design/premonition-and-ruin/)
-- {: .list-group-item .my-0 .ps-0 } 🎧 [Tom the tow truck cartoon](/work/sound-design/car-city-cartoon/)
-- {: .list-group-item .my-0 .ps-0 } 🎧 [Vocal editing](/work/sound-design/vocal-editing/)
-- {: .list-group-item .my-0 .ps-0 } 🎧 [Drums restoration](/work/sound-design/drums-restoration/)
+- {: .list-group-item .my-0 .ps-0 } 🎧 [Producing bass remotely](/projects/sound-design/producing-bass-remotely/)
+- {: .list-group-item .my-0 .ps-0 } 🎧 [Mixing _Premonition and Ruin_](/projects/sound-design/premonition-and-ruin/)
+- {: .list-group-item .my-0 .ps-0 } 🎧 [Tom the tow truck cartoon](/projects/sound-design/car-city-cartoon/)
+- {: .list-group-item .my-0 .ps-0 } 🎧 [Vocal editing](/projects/sound-design/vocal-editing/)
+- {: .list-group-item .my-0 .ps-0 } 🎧 [Drums restoration](/projects/sound-design/drums-restoration/)
 - {: .list-group-item .my-0 .ps-0 } 💿 [Non sai chi sono](/music/non-sai-chi-sono/)
 - {: .list-group-item .my-0 .ps-0 } 💿 [The Die is Cast](/music/the-die-is-cast/)
 - {: .list-group-item .my-0 .ps-0 } 💿 [After 1989](/music/after-1989/)
-- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Pure HTML and CSS responsive carousel in Jekyll](/work/web-design/responsive-photogallery-carousel/)
-- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Minutes to Midnight](/work/web-design/minutes-to-midnight/)
-- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Silvia Maggi Design](/work/web-design/silvia-maggi-design/)
-- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [No Slack Day](/work/web-design/no-slack-day/)
+- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Pure HTML and CSS responsive carousel in Jekyll](/projects/web-design/responsive-photogallery-carousel/)
+- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Minutes to Midnight](/projects/web-design/minutes-to-midnight/)
+- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Silvia Maggi Design](/projects/web-design/silvia-maggi-design/)
+- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [No Slack Day](/projects/web-design/no-slack-day/)
 
 {: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
 #### Publications
 
 {: .list-group .list-group-flush .mt-0 .ps-0 }
-- {: .list-group-item .my-0 .ps-0 } 📒 [Efficient Productivity for Music Professionals](/work/project-management/)
+- {: .list-group-item .my-0 .ps-0 } 📒 [Efficient Productivity for Music Professionals](/projects/project-management/)
 - {: .list-group-item .my-0 .ps-0 } 📒 [A Trip to Freedom, from Berlin to Berlin](https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e)
 - {: .list-group-item .my-0 .ps-0 } 📒 [Producing bass tracks remotely](https://unlockyoursound.com/producing-bass-tracks-remotely/)
 
@@ -75,8 +75,8 @@ Co-founder, web designer and UI developer, I worked for clients like Reevoo, Not
 #### Case studies
 
 {: .list-group .list-group-flush .mt-0 .ps-0 }
-- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Reevoo](/work/web-design/reevoo/)
-- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [UniCredit](/work/web-design/unicredit/)
+- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Reevoo](/projects/web-design/reevoo/)
+- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [UniCredit](/projects/web-design/unicredit/)
 
 {: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
 #### Publications
@@ -119,7 +119,7 @@ I built the internal sound studio from scratch, managing three computers in audi
 #### Case study
 
 {: .list-unstyled .ps-0 .mb-5 .pb-5 }
-- 🎧 [Console game Ruff Trigger](/work/sound-design/console-game-ruff-trigger/)
+- 🎧 [Console game Ruff Trigger](/projects/sound-design/console-game-ruff-trigger/)
 
 {: .alert .alert-background-d-10 .text-center .px-4 .py-4 }
 Head over to LinkedIn for a [complete list of work experience ↗︎](https://www.linkedin.com/in/minutes2mid/)

@@ -14,19 +14,19 @@ permalink: /archive/
 <h2 class="p-name mt-5 fs-1 pb-3">Case studies</h2>
 
 <section class="h-feed">
-  <h4 class="p-name text-uppercase m2m-letter-spacing-w1 mb-4 fs-5"><a href="/work/sound-design/" class="m2m-link">↗︎ Sound design</a></h4>
+  <h4 class="p-name text-uppercase m2m-letter-spacing-w1 mb-4 fs-5"><a href="/projects/sound-design/" class="m2m-link">↗︎ Sound design</a></h4>
   <ul class="h-feed list-group list-group-flush fs-5 ps-0 mb-5">
-  {% for casestudy in sounddesign %}
-    <li class="list-group-item my-0 ps-0">🎧 <a class="p-name u-url m2m-link pe-2" href="{{ casestudy.url }}" title="Read the case study '{{ casestudy.title }}'">{{ casestudy.title }}</a> <kbd>[<span class="p-category text-uppercase"><strong>{{ casestudy.subtype }}</strong></span>]</kbd></li>
+  {% for project in sounddesign %}
+    <li class="list-group-item my-0 ps-0">🎧 <a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <kbd>[<span class="p-category text-uppercase"><strong>{{ project.subtype }}</strong></span>]</kbd></li>
   {% endfor %}
   </ul>
 </section>
 
 <section class="h-feed">
-  <h4 class="p-name text-uppercase m2m-letter-spacing-w1 mb-4 fs-5"><a href="/work/web-design/" class="m2m-link">↗︎ Web design</a></h4>
+  <h4 class="p-name text-uppercase m2m-letter-spacing-w1 mb-4 fs-5"><a href="/projects/web-design/" class="m2m-link">↗︎ Web design</a></h4>
   <ul class="h-feed list-group list-group-flush fs-5 ps-0 mb-5">
-  {% for casestudy in webdesign %}
-    <li class="list-group-item my-0 ps-0">👨🏻‍💻 <a class="p-name u-url m2m-link pe-2" href="{{ casestudy.url }}" title="Read the case study '{{ casestudy.title }}'">{{ casestudy.title }}</a> <kbd>[<span class="p-category text-uppercase"><strong>{{ casestudy.subtype }}</strong></span>]</kbd></li>
+  {% for project in webdesign %}
+    <li class="list-group-item my-0 ps-0">👨🏻‍💻 <a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <kbd>[<span class="p-category text-uppercase"><strong>{{ project.subtype }}</strong></span>]</kbd></li>
   {% endfor %}
   </ul>
 </section>
@@ -34,8 +34,8 @@ permalink: /archive/
 <section class="h-feed">
   <h4 class="p-name text-uppercase m2m-letter-spacing-w1 mb-4 fs-5"><a href="/music/" class="m2m-link">↗︎ Original music productions</a></h4>
   <ul class="h-feed list-group list-group-flush fs-5 ps-0 mb-5">
-  {% for casestudy in music %}
-    <li class="list-group-item my-0 ps-0">💿 <a class="p-name u-url m2m-link pe-2" href="{{ casestudy.url }}" title="Read the case study '{{ casestudy.title }}'">{{ casestudy.title }}</a> <kbd>[<span class="p-category text-uppercase"><strong>{{ casestudy.kind }}</strong></span>]</kbd></li>
+  {% for project in music %}
+    <li class="list-group-item my-0 ps-0">💿 <a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <kbd>[<span class="p-category text-uppercase"><strong>{{ project.kind }}</strong></span>]</kbd></li>
   {% endfor %}
   </ul>
 </section>

@@ -27,7 +27,7 @@ Despite the fantastic chemistry with the [drummer](https://www.discogs.com/artis
 
 ## _Nine Eleven_
 
-After stripping away all the original guitars, I rewrote the piece with a different groove, similar bass and keyboard parts on a new chord structure. It was a solid backbone for something, and I was excited. Next, was blending in a piano sequence from my [years as a composer for video games](/work/sound-design/console-game-ruff-trigger/). Originally written right before 9/11 happened, it fit beautifully. Like most people, I’ve experienced that dreadful day on live television, so I decided to make this new music go along with some of the original live commentaries.
+After stripping away all the original guitars, I rewrote the piece with a different groove, similar bass and keyboard parts on a new chord structure. It was a solid backbone for something, and I was excited. Next, was blending in a piano sequence from my [years as a composer for video games](/projects/sound-design/console-game-ruff-trigger/). Originally written right before 9/11 happened, it fit beautifully. Like most people, I’ve experienced that dreadful day on live television, so I decided to make this new music go along with some of the original live commentaries.
 
 I enhanced the piano progression, added a tom roll in anticipation for the choruses and wrote a guitar solo. Finally, I sampled the audio from the [footage shot around the WTC](https://www.youtube.com/watch?v=IJpql03lDKQ) where the events unfolded. The song, then re-titled _Nine Eleven_, went on to become the first single and lead song for my album [After 1989](/music/after-1989/), _Skinny Kid_.
 

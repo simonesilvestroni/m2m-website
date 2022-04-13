@@ -27,7 +27,7 @@ speedindex: '1.2 seconds'
 pageweight: '3.4 Mb'
 site-is-live: true
 live-url: 'https://www.reevoo.com'
-permalink: '/work/web-design/reevoo/'
+permalink: '/projects/web-design/reevoo/'
 ---
 {: .text-center .text-uppercase }
 ## Client review

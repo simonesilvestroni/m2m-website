@@ -25,5 +25,5 @@ speedindex: '0.6 seconds'
 pageweight: '95.3 kb'
 site-is-live: true
 live-url: 'https://noslackday.org'
-permalink: '/work/web-design/no-slack-day/'
+permalink: '/projects/web-design/no-slack-day/'
 ---

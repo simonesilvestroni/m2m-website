@@ -9,12 +9,12 @@ permalink: '/music/'
 ---
 {%- assign originalmusic = site.music | where: "type", "music" | reverse -%}
 <section class="m2m-entry my-5 pb-3">
-  <div class="h-feed">
   <h2 class="p-name h1 fs-1 text-center text-uppercase m2m-text-rotate my-5" id="original-music">Discography</h2>
+  <div class="h-feed">
     <div class="card-group pb-3">
       <div class="row row-cols-1 row-cols-sm-2 g-4">
-      {%- for casestudy in originalmusic %}
-      {% include card-casestudy.html %}
+      {%- for project in originalmusic %}
+      {% include card-project.html %}
       {% endfor -%}
       </div>
     </div>  

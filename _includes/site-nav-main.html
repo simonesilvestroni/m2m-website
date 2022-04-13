@@ -5,6 +5,6 @@
 {%- endcomment -%}
 <ul class="nav nav-main justify-content-center mt-4 py-3" aria-label="Navigation">
   {% for item in site.data.nav-site -%}
-  <li class="nav-item"><a class="nav-link text-uppercase fw-bold m2m-transition-opacity-03s{% if page.url contains item.link %} m2m-current{% endif %}" href="{{ item.link }}" title="{{ item.desc }}"><strong>{{ item.name }}</strong></a></li>
+  <li class="nav-item"><a class="nav-link fw-bold m2m-transition-opacity-03s{% if page.url contains item.link %} m2m-current{% endif %}" href="{{ item.link }}" title="{{ item.desc }}"><strong>{{ item.name }}</strong></a></li>
   {% endfor -%}
 </ul>

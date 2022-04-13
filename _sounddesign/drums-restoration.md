@@ -18,7 +18,7 @@ description: "Cleaning up noisy drums, restoring the stereo image with drum doub
 excerpt: "Cleaning up noisy drums, restoring the stereo image with drum doubling and drum replacing, extracting drums from a stereo track."
 toc: true
 featimage: false
-permalink: '/work/sound-design/drums-restoration/'
+permalink: '/projects/sound-design/drums-restoration/'
 ---
 ## Drums restoration & doubling
 

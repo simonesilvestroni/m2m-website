@@ -19,7 +19,7 @@ description: "Transforming vocals from a song to a different one using pitch and
 excerpt: "Transforming vocals from a song to a different one using pitch and tempo editing, noise removal and cleaning up historical speeches."
 toc: true
 featimage: false
-permalink: '/work/sound-design/vocal-editing/'
+permalink: '/projects/sound-design/vocal-editing/'
 ---
 ## Vocal transformation
 

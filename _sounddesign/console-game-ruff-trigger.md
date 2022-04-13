@@ -22,7 +22,7 @@ description: "I spent 5 years as an audio team leader for the console game 'Ruff
 excerpt: 'I was the <strong>audio team leader</strong> for the console game &lsquo;<em>Ruff Trigger – The Vanocore Conspiracy</em>&rsquo;. I initially directed the soundtrack as well as created the sound effects. The game was published for Playstation2.'
 toc: true
 featimage: false
-permalink: '/work/sound-design/console-game-ruff-trigger/'
+permalink: '/projects/sound-design/console-game-ruff-trigger/'
 ---
 ## How I became a game audio team leader
 
@@ -250,7 +250,7 @@ Even though I kept working with audio, I turned my interest to web design. What 
 
 In 2017 I wrote an autobiographical concept album where a few songs were made of [unused music](/blog/skinny-kid-song-backstory/) from the Playstos years. Initially conceived as a theatrical piece, it rekindled my passion for audio-visual narration prompting me to **go back to game audio**.
 
-While I updated my skills by studying Wwise, FMOD and their relation with major game engines, I got to work as a [sound designer for Paris-based Amuse Animations](/work/sound-design/car-city-cartoon/).
+While I updated my skills by studying Wwise, FMOD and their relation with major game engines, I got to work as a [sound designer for Paris-based Amuse Animations](/projects/sound-design/car-city-cartoon/).
 
 ## Reviews
 

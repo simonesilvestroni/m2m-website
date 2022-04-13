@@ -4,7 +4,7 @@ title: 'Web Design'
 date: '2021-11-08 10:49:23'
 last_modified_at: '2022-04-06 23:14:36'
 description: "Design and front-end development stems from my past experience with publishing. I strive for accessibility and sustainability through exceptional optimization."
-permalink: '/work/web-design/'
+permalink: '/projects/web-design/'
 ---
 ## Skills
 
@@ -19,8 +19,8 @@ I can set up, run and maintain local and remote web servers in **`Apache`**, **`
   <h2 class="p-name h1 fs-1 text-center text-uppercase m2m-text-rotate my-5">Selected case studies</h2>
   <div class="card-group">
     <div class="h-feed row row-cols-1 row-cols-sm-2 g-4">
-    {% for casestudy in webdesign %}
-    {% include card-casestudy.html %}
+    {% for project in webdesign %}
+    {% include card-project.html %}
     {% endfor %}
     </div>
   </div>

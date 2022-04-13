@@ -18,7 +18,7 @@ toc: false
 featimage: true
 featimage-url: '/assets/images/unicredit.jpg'
 featimage-height: '765'
-permalink: '/work/web-design/unicredit/'
+permalink: '/projects/web-design/unicredit/'
 ---
 We used our custom SASS and Javascript-driven framework called <em>ResponsiFarm</em> to build PHP modules and add <strong>progressive enhancement</strong> functionality on top of our designer's vision. The landing pages converted leads connecting to UniCredit's acquisition forms.
 

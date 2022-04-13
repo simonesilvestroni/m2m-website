@@ -4,16 +4,16 @@ title: About
 date: '2022-01-14 16:54:43'
 last_modified_at: '2022-01-14 16:54:56'
 description: 'Simone Silvestroni, sound and web designer going under the moniker Minutes to Midnight. Freelancing in Milan after 9 years in the UK. I started my blog in 2002.'
-excerpt: 'I’m Simone Silvestroni, sound and web designer. First a bass player and editor, I later became a music producer and front-end developer. I started my blog in 2002 while working as a game audio team leader.<br>Currently <a href="/work/">freelancing in Milan</a> after 9 years in the UK.'
+excerpt: 'I’m Simone Silvestroni, sound and web designer. First a bass player and editor, I later became a music producer and front-end developer. I started my blog in 2002 while working as a game audio team leader.<br>Currently <a href="/projects/">freelancing in Milan</a> after 9 years in the UK.'
 permalink: '/about/'
 ---
 ## Why audio and web?
 
-I've always been into both **technical and creative fields**. While I've been a musician for longer, my first paid job was proofreader and then editor. It gradually morphed into web design in the late 1990s. When I joined [Playstos Entertainment](/work/sound-design/console-game-ruff-trigger/) I managed to do both web and sound design during the production of the console video game _Ruff Trigger_, juggling between the two ever since. For an exhaustive list of skills, tools and work experience [check out the resume ↗︎](/resume/).
+I've always been into both **technical and creative fields**. While I've been a musician for longer, my first paid job was proofreader and then editor. It gradually morphed into web design in the late 1990s. When I joined [Playstos Entertainment](/projects/sound-design/console-game-ruff-trigger/) I managed to do both web and sound design during the production of the console video game _Ruff Trigger_, juggling between the two ever since. For an exhaustive list of skills, tools and work experience [check out the resume ↗︎](/resume/).
 
 ## Passions
 
-Both in sound and web design, I'm passionate about **minimalism and optimization**. Constantly looking for a way to complete a task in less and more efficient steps, I ended up writing an ebook about [project management](/work/project-management/) for musicians.  Regarding hardware and software equipment, the [what I use](/uses/) page explains it all.
+Both in sound and web design, I'm passionate about **minimalism and optimization**. Constantly looking for a way to complete a task in less and more efficient steps, I ended up writing an ebook about [project management](/projects/project-management/) for musicians.  Regarding hardware and software equipment, the [what I use](/uses/) page explains it all.
 
 ## Other interests
 
@@ -27,7 +27,7 @@ The expression _Minutes to midnight_ is a reference to the [Doomsday Clock](http
 
 ## Website
 
-All the details about this website are in the [case study](/work/web-design/minutes-to-midnight/) and the [Colophon](/colophon/).
+All the details about this website are in the [case study](/projects/web-design/minutes-to-midnight/) and the [Colophon](/colophon/).
 
 ## Press photos
 
