@@ -2,8 +2,8 @@
 layout: page
 title: Original music productions
 date: '2022-04-07'
-last_modified_at: '2022-04-07 10:26:43'
-description: ''
+last_modified_at: '2022-04-13 15:36:48'
+description: 'My solo discography. Storytelling with music was always a huge magnet as a young listener, hence why the concept album is my favorite medium as a composer.'
 excerpt: 'Storytelling with music was always a huge magnet as a young listener, hence why the concept album is my favorite medium as a composer.'
 permalink: '/music/'
 ---
@@ -21,8 +21,5 @@ permalink: '/music/'
   </div>
 </section>
 
-<div class="text-center">
-  <a class="m2m-transition-opacity-03s" href="https://music.minutestomidnight.co.uk" title="Follow my music on Bandcamp">
-    <img src="/assets/images/follow-bandcamp.png" width="570" height="100" alt="Follow my music on Bandcamp">
-  </a>
-</div>
+{: .text-center .fs-3 }
+💿 [Follow my music on **Bandcamp** ↗︎](https://music.minutestomidnight.co.uk)
