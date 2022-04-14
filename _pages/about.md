@@ -7,6 +7,9 @@ description: 'Why for two decades I’ve been working as a sound and web designe
 excerpt: 'Why for the last two decades I’ve been working as a sound and web designer between Italy and the UK; the origin of the moniker <em>Minutes to Midnight</em> and my other interests.'
 permalink: '/about/'
 ---
+{: .detached .text-center .fs-3 .my-5 }
+📚 [Check skills and certifications in my **resume** ↗︎](/resume/)
+
 ## Audio and web
 
 In the early 1990s, I started a side job in the publishing industry while graduating as a professional musician. A decade later I learned web design, fascinated by code as a digital evolution of my past experience with the printed page. In line with those origins, I still strive for minimalism.
@@ -16,9 +19,6 @@ In the early 1990s, I started a side job in the publishing industry while gradua
 After a long stint in a music studio acquiring recording skills, I became independent and landed a [game audio designer](/projects/sound-design/console-game-ruff-trigger/) role in 2002. I wrote an adaptive soundtrack while producing and implementing original sound effects. In the same period I started my first blog, writing about working long hours on a console video game while playing *Ico* during pauses. 
 
 **As a sound designer**, I write and produce music from tracking to mastering, with mixing as my preferred stage. I’m also a professional bass player and a field recordist with Foley skills. I see game audio as the ultimate audio-visual narrative medium.
-
-{: .detached .text-center .fs-3 .my-5 }
-⚙️ [Skills and certifications in my **resume** ↗︎](/resume/)
 
 ## Passions and interests
 
