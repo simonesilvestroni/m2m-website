@@ -22,6 +22,7 @@ keywords:
   bass player,
   game audio,
   music production,
+  concept album,
   mixing,
   mastering,
   reaper,
@@ -31,6 +32,7 @@ keywords:
   web development,
   front-end,
   jekyll,
+  jamstack,
   sass
 timezone: Europe/Rome
 logo: /assets/images/m2m-og-image.jpg
@@ -42,8 +44,8 @@ author:
 # Brand
 # -------------------
 brand:
-  m2m_pitch: 'I’m a liaison between creativity and logic.'
-  m2m_intro: 'Hi! Simone Silvestroni here. A digital polymath, I’ve been working as a <strong>sound and web designer</strong> for more than 25 years.<br>Passionate about audio-visual storytelling, web standards and sustainability, I’m way too much into problem-solving. <a href="/projects/" title="Check my projects"><strong>Check my projects ↗</strong></a>'
+  m2m_pitch: 'I’m a digital polymath between creativity and logic'
+  m2m_intro: '<p class="fs-4">Hey, Simone Silvestroni here. While graduating as a musician, I started working in the publishing industry during the 1990s. Later, I learned web design as its digital evolution. Expert in front-end development, some back-end, UI design, custom WordPress systems, accessibility and sustainability.</p><p class="m2m-text-indent-0 fs-4">Passionate about storytelling, in 2000 I landed a game audio designer role where I created adaptive soundtracks and original sound effects. I produce and edit from start to finish. I’m also a bass player, a composer and a field recordist. <a class="ps-2" href="/about/"><strong>Read more ↗︎</strong></a></p>'
 
 # -------------------
 # Exclusions
