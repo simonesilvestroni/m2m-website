@@ -2,14 +2,11 @@
 layout: page
 title: Resume
 date: '2022-04-06 00:04:25'
-last_modified_at: '2022-04-06 23:14:20'
-description: 'Online resume of Simone Silvestroni, sound and web designer since 1995. Contains skills, tools, work experience, case studies, certifications and endorsements.'
-excerpt: 'While interning as an editor in 1995, I graduated as a bass player. Moved a few years later from the publishing industry to web design. After spending the following decades working as a game audio designer and a front-end developer between Italy and the UK, I gained a diploma at Berklee, specializing in music production, mixing above all.'
+last_modified_at: '2022-04-14 13:05:45'
+description: 'Online cv of Simone Silvestroni, sound and web designer since 1995. Contains skills, tools, work experience, projects, certifications and endorsements.'
+excerpt: 'Online <span class="initialism">cv</span> of Simone Silvestroni, sound and web designer since 1995. Contains skills, tools, work experience, projects, certifications and endorsements.'
 permalink: '/resume/'
 ---
-{: .alert .alert-background-d-10 .text-center .mt-5 .px-4 .py-3 }
-Reach out to [request a PDF version](/contact/) of my resume.
-
 {: .h1 .fs-1 .text-uppercase .text-center .pt-3 }
 ## Skills and tools
 
@@ -38,7 +35,7 @@ September 2017 — present (Cambridge, UK / Milan, Italy)
 Full music production, bass tracks, mixing and mastering. Web design and front-end development.
 
 {: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
-#### Case studies
+#### Projects
 
 {: .list-group .list-group-flush .mt-0 .ps-0 }
 - {: .list-group-item .my-0 .ps-0 } 🎧 [Producing bass remotely](/projects/sound-design/producing-bass-remotely/)
@@ -72,7 +69,7 @@ May 2012 — September 2017 (London, UK)
 Co-founder, web designer and UI developer, I worked for clients like Reevoo, Not On The High Street, UniCredit, Women Management and many others. At UI Farm I contributed to building a bespoke responsive framework on top of WordPress, featuring semantic patterns, a fluid grid and custom plugins. Handcrafted using PHP (HTML5), SASS (CSS3), JavaScript and SVG.
 
 {: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
-#### Case studies
+#### Projects
 
 {: .list-group .list-group-flush .mt-0 .ps-0 }
 - {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Reevoo](/projects/web-design/reevoo/)
@@ -119,12 +116,8 @@ I built the internal sound studio from scratch, managing three computers in audi
 #### Case study
 
 {: .list-unstyled .ps-0 .mb-5 .pb-5 }
-- 🎧 [Console game Ruff Trigger](/projects/sound-design/console-game-ruff-trigger/)
+- 🎮 [Console game Ruff Trigger](/projects/sound-design/console-game-ruff-trigger/)
 
-{: .alert .alert-background-d-10 .text-center .px-4 .py-4 }
-Head over to LinkedIn for a [complete list of work experience ↗︎](https://www.linkedin.com/in/minutes2mid/)
-
-{: .pt-5 }
 ## Languages
 
 {: .list-group .list-group-flush .mt-0 .ps-0 }
@@ -169,6 +162,9 @@ Head over to LinkedIn for a [complete list of work experience ↗︎](https://ww
 
 {%- endfor %}
 
-{: .alert .alert-background-d-10 .text-center .mt-5 .px-4 .py-5 }
-Check **LinkedIn** for [sound and web design endorsements ↗︎](https://www.linkedin.com/in/minutes2mid/)<br><br>
-Check **SoundBetter** for [bass performance endorsements ↗︎](https://soundbetter.com/profiles/206552-minutes-to-midnight/#reviews)
+---
+
+{: .list-group .list-group-flush .mt-5 .ps-0 }
+- {: .list-group-item .my-0 .ps-0 } 🎧 [For bass performance endorsements check **SoundBetter** ↗︎](https://soundbetter.com/profiles/206552-minutes-to-midnight/#reviews)
+- {: .list-group-item .my-0 .ps-0 } 🗒 [Full list of experiences and endorsements on **LinkedIn** ↗︎](https://www.linkedin.com/in/minutes2mid/)
+- {: .list-group-item .my-0 .ps-0 } ✍️ [Reach out to request a **PDF version** ↗︎](/contact/)
