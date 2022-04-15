@@ -15,8 +15,8 @@ Migrating from WordPress to a static site generator has been a blessing to me. I
 
 ## Info
 
-- [Sound designer](https://minutestomidnight.co.uk/projects/sound-design/) work.
-- [Web designer and developer](https://minutestomidnight.co.uk/projects/web-design/) work.
+- [Sound designer](https://minutestomidnight.co.uk/projects/#sound-design) work.
+- [Web designer and developer](https://minutestomidnight.co.uk/projects/#web-design/) work.
 - [Original music](https://minutestomidnight.co.uk/music/).
 - A comprehensive list of my [equipment](https://minutestomidnight.co.uk/uses/).
 - 27 LinkedIn [endorsements](https://www.linkedin.com/in/minutes2mid/).
@@ -25,8 +25,8 @@ Migrating from WordPress to a static site generator has been a blessing to me. I
 
 ## To do
 
-- [ ] Switch images to Webp.
+- [x] Implement WebP images.
+- [ ] Eradicate Mailchimp, switch to Freelist or something else.
 - [ ] Implement a dark mode switch.
 - [ ] Polish the SASS theme, remove specificity.
 - [ ] Improve DRY.
-- [ ] Eradicate Mailchimp, switch to Freelist or something else.
