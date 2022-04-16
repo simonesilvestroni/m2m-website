@@ -6,6 +6,7 @@ categories:
   - 'Music release'
 tags:
   - antiquity
+  - gerald duchene
   - bass
   - bassist
   - music producer
