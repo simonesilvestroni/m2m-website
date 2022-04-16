@@ -5,43 +5,43 @@ date: '2021-11-08 10:27:47'
 last_modified_at: '2021-11-08 10:27:41'
 description: 'Browse the full archive of selected case studies for sound and web design, blog posts by year, categories and tags.'
 excerpt: 'Browse the full archive of selected case studies, posts by year, categories and tags.'
-permalink: /archive/
+toc: true
+permalink: '/archive/'
 ---
 {%- assign sounddesign = site.sounddesign | sort: 'date' | reverse -%}
 {%- assign webdesign = site.webdesign | sort: 'date' | reverse -%}
 {%- assign music = site.music | sort: 'date' | reverse -%}
 
-<h2 class="p-name mt-5 fs-1 pb-3">Case studies</h2>
-
+<h2 class="p-name mt-5 fs-1 pb-3" id="projects">Projects</h2>
 <section class="h-feed">
-  <h4 class="p-name text-uppercase m2m-letter-spacing-w1 mb-4 fs-5"><a href="/projects/sound-design/" class="m2m-link">↗︎ Sound design</a></h4>
+  <h3 class="p-name text-uppercase mb-4" id="sound-design">Sound design</h3>
   <ul class="h-feed list-group list-group-flush fs-5 ps-0 mb-5">
   {% for project in sounddesign %}
-    <li class="list-group-item my-0 ps-0">🎧 <a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <kbd>[<span class="p-category text-uppercase"><strong>{{ project.subtype }}</strong></span>]</kbd></li>
+    <li class="list-group-item my-0 ps-0">🎧 <a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <kbd><span class="p-category text-uppercase"><strong>{{ project.subtype }}</strong></span></kbd></li>
   {% endfor %}
   </ul>
 </section>
 
 <section class="h-feed">
-  <h4 class="p-name text-uppercase m2m-letter-spacing-w1 mb-4 fs-5"><a href="/projects/web-design/" class="m2m-link">↗︎ Web design</a></h4>
+  <h3 class="p-name text-uppercase mb-4" id="web-design">Web design</h3>
   <ul class="h-feed list-group list-group-flush fs-5 ps-0 mb-5">
   {% for project in webdesign %}
-    <li class="list-group-item my-0 ps-0">👨🏻‍💻 <a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <kbd>[<span class="p-category text-uppercase"><strong>{{ project.subtype }}</strong></span>]</kbd></li>
+    <li class="list-group-item my-0 ps-0">👨🏻‍💻 <a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <kbd><span class="p-category text-uppercase"><strong>{{ project.subtype }}</strong></span></kbd></li>
   {% endfor %}
   </ul>
 </section>
 
 <section class="h-feed">
-  <h4 class="p-name text-uppercase m2m-letter-spacing-w1 mb-4 fs-5"><a href="/music/" class="m2m-link">↗︎ Original music productions</a></h4>
+  <h3 class="p-name text-uppercase mb-4" id="original-music-productions">Original music productions</h3>
   <ul class="h-feed list-group list-group-flush fs-5 ps-0 mb-5">
   {% for project in music %}
-    <li class="list-group-item my-0 ps-0">💿 <a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <kbd>[<span class="p-category text-uppercase"><strong>{{ project.kind }}</strong></span>]</kbd></li>
+    <li class="list-group-item my-0 ps-0">💿 <a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <kbd><span class="p-category text-uppercase"><strong>{{ project.kind }}</strong></span></kbd></li>
   {% endfor %}
   </ul>
 </section>
 
 <section class="h-feed">
-  <h2 class="p-name fs-1">Blog</h2>
+  <h2 class="p-name fs-1" id="blog">Blog</h2>
 {%- for post in site.posts -%}
 {%- capture this_year -%}{{ post.date | date: "%Y" }}{%- endcapture -%}
 {%- capture next_year -%}{{ post.previous.date | date: "%Y" }}{%- endcapture -%}
@@ -50,7 +50,7 @@ permalink: /archive/
     <h3 class="m2m-letter-spacing-w1" id="{{ this_year }}-ref">{{ this_year }}</h3>
     <ul class="h-feed list-group list-group-flush ps-0 mb-5">
 {%- endif -%}
-      <li class="list-group-item fs-5 my-0 ps-0">📄 <a class="p-name u-url m2m-link" href="{{ post.url }}">{{ post.title }}</a></li>
+      <li class="list-group-item my-0 ps-0">📄 <a class="p-name u-url m2m-link" href="{{ post.url }}">{{ post.title }}</a></li>
 {%- if forloop.last -%}
     </ul>
   </div>
@@ -67,7 +67,7 @@ permalink: /archive/
 {%- endfor -%}
 
 <section class="h-feed">
-  <h3 class="p-name mb-5 text-uppercase">Blog categories</h3>
+  <h2 class="p-name mb-5 pt-4 text-uppercase" id="blog-categories">Blog categories</h2>
   <ol class="h-feed list-unstyled list-inline">
   {%- assign sorted_cats = site.categories | sort -%}
   {%- for category in sorted_cats -%}
@@ -81,7 +81,7 @@ permalink: /archive/
 </section>
 
 <section class="h-feed">
-  <h3 class="p-name mt-0 mb-5 pt-4 text-uppercase">Blog tags</h3>
+  <h2 class="p-name mt-0 mb-5 pt-4 text-uppercase" id="blog-tags">Blog tags</h2>
   <ol class="h-feed list-unstyled list-inline">
   {%- assign sorted_tags = site.tags | sort -%}
   {%- for tag in sorted_tags -%}
