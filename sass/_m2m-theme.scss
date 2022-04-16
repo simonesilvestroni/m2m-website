@@ -577,14 +577,10 @@ hr {
   text-decoration: none !important;
   background-color: $link-l-30 !important;
   color: $heading-d-30 !important;
-  border-bottom: 4px solid $link-d-10;
-  border-right: 2px solid $link-d-10;
   &:hover {
     color: $white !important;
     text-decoration: none !important;
     background-color: $link-d-60 !important;
-    border-bottom: 4px solid transparent;
-    border-right: 2px solid transparent;
     text-shadow: none;
   }
 }
