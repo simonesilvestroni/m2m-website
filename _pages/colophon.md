@@ -5,6 +5,7 @@ date: '2021-11-08 10:27:27'
 last_modified_at: '2021-11-08 10:27:31'
 description: "Technical details about the website, developed by Simone Silvestroni and designed with Silvia Maggi, who also provided information architecture and photography."
 excerpt: 'Developed by Simone Silvestroni, designed with <a href="https://silviamaggidesign.com/" title="Go to Silvia Maggi website">Silvia Maggi</a>, who also provided information architecture and photography. Check the <a href="/projects/web-design/minutes-to-midnight/">case study</a> for a detailed analysis.'
+toc: true
 permalink: '/colophon/'
 ---
 ## Tools

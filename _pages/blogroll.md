@@ -5,6 +5,7 @@ date: '2022-04-03'
 last_modified_at: '2022-04-05 16:51:06'
 description: 'My personal blogroll, listing blogs and websites I read. It starts with a curated platform that has no algorithm.'
 excerpt: 'A partial list of websites and blogs I read either through RSS, the Fediverse or both.'
+toc: true
 permalink: '/blogroll/'
 ---
 ## Everything
