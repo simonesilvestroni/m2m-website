@@ -12,7 +12,7 @@ layout: default
 {% endcapture %}
 <article class="h-entry m2m-entry my-5">
   <div class="m2m-label text-center pt-3">
-    <kbd class="fs-5"><a href="{{ CaseTypeURL }}" title="Work category"><strong class="p-category text-uppercase">{% unless page.type == "music" %}{{ page.type }}{% endunless %}{% if page.type == "music" %}{{ page.subtype }}{% endif %}</strong></a> case study</kbd>
+    <kbd class="fs-5"><strong class="p-category text-uppercase">{% unless page.type == "music" %}{{ page.type }}{% endunless %}{% if page.type == "music" %}{{ page.subtype }}{% endif %}</strong> project</kbd>
   </div>
   <h1 class="p-name text-center display-1 lh-sm m2m-text-rotate mt-5">{{ page.title }}</h1>
   {%- if page.collection == 'webdesign' %}
@@ -32,16 +32,16 @@ layout: default
     </span>
   </div>
   <div class="e-content">
-    {%- if page.type == "web design" or page.type == "music" -%}
     {%- if page.featimage == true %}
     <div class="py-1">
       {% responsive_image_block %}
         path: assets/images/{{ page.title | slugify | append: '.jpg' }}
         class: project-feat
         alt: {{ page.title }}
+        caption-true: {{ page.image-caption }}
+        caption: {{ page.caption }}
       {% endresponsive_image_block %}      
     </div>
-    {% endif -%}
     {% endif -%}
     {%- if page.performance == true %}
       {%- include pattern-performance.html -%}  
