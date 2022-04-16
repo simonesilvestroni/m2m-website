@@ -30,6 +30,5 @@ excerpt: 'Another stunning track by Gerald Duchene, where I produced one of my m
 
 <p class="detached"><mark class="m2m-highlight small"><strong>Released</strong> May 14, 2020</mark></p>
 
-<div class="text-center my-5 py-3">
-  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/projects/sound-design/producing-bass-remotely/" title="Read the case study"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the case study</strong></span></a>
-</div>
+{: .text-center .fs-2 .my-5 .py-3 }
+📖 [Read the **project analysis** ↗︎](/projects/sound-design/producing-bass-remotely/)

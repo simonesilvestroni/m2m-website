@@ -65,12 +65,10 @@ Mixed and mastered by Simone Silvestroni.
 
 <p class="detached"><mark class="m2m-highlight small">Single released <strong>June 28, 2021</strong>.</mark></p>
 
-<p class="detached small">
-  <sup>&copy;</sup> 2020 music and lyrics by Gianluca Lo Presti.<br>
-  <sup>&copy;</sup> 2021 remix produced and arranged by Emilio Albertoni and Simone Silvestroni.<br>
-  &copysr; 2021 copyright of the sound recording (master) owned by Simone Silvestroni and Emilio Albertoni. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.
-</p>
+{: .detached .small }
+<sup>&copy;</sup> 2020 music and lyrics by Gianluca Lo Presti.  
+<sup>&copy;</sup> 2021 remix produced and arranged by Emilio Albertoni and Simone Silvestroni.  
+℗ 2021 copyright of the sound recording (master) owned by Simone Silvestroni and Emilio Albertoni. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.
 
-<div class="text-center my-5 py-3">
-  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/music/non-sai-chi-sono/" title="Read the case study"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the case study</strong></span></a>
-</div>
+{: .text-center .fs-2 .my-5 .py-3 }
+📖 [Read the **project analysis** ↗︎](/music/non-sai-chi-sono/)
