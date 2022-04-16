@@ -1,8 +1,8 @@
 <div class="container my-5 py-4">
   <div class="row">
-    <div class="col-lg-7 col-md-9 mx-auto border rounded py-4 px-4">
+    <div class="col-lg-7 col-md-9 mx-auto border rounded-3 bg-white bg-opacity-50 py-4 px-4">
       <details>
-        <summary class="h4 m2m-letter-spacing-w1 text-center text-uppercase mt-0 my-0 py-2">Table of contents</summary>
+        <summary class="h4 m2m-letter-spacing-w1 text-uppercase mt-0 my-0 py-2">Table of contents</summary>
         {%- if page.toc-maxdepth == 2 -%}
         {% include site-toc.html html=content sanitize=true class="inline_toc fw-bold" item_class="text-uppercase pb-1 fs-6" submenu_class="fw-normal" h_min=2 h_max=2 %}
         {%- else -%}
