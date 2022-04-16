@@ -17,7 +17,7 @@ html {
   }
 }
 body {
-  background: transparent url(/assets/images/watercolor.png) no-repeat top right;
+  background: $background-l-90 url('/assets/images/watercolor.png') no-repeat top right;
   background-attachment: fixed;
   // @media (prefers-color-scheme: dark) {
   //   background: $body-bg-dark url(/assets/images/watercolor-dark.png) no-repeat top right;
@@ -44,7 +44,7 @@ header {
   }
 }
 footer {
-  background: $background-l-70 url(/assets/images/denim.png) no-repeat bottom left;
+  background: $background-l-50 url(/assets/images/denim.png) no-repeat bottom left;
   background-attachment: fixed;
 }
 .footer-wave {
@@ -90,18 +90,18 @@ h4 {
 
 .nav-main {
   .nav-link {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     color: black;
     text-decoration-line: underline;
     text-decoration-thickness: 2px;
     text-decoration-color: rgba($background-d-50, .8);
     text-underline-offset: 3px;
-    margin: 0 $spacer/2;
+    margin: 0 $spacer/1.25;
     &:hover {
       opacity: .6;
     }
     @include media-breakpoint-up(md) {
-      font-size: 1.5rem;
+      font-size: 1.7rem;
       margin: 0 $spacer;
     }
   }
@@ -167,7 +167,7 @@ p {
     @extend %m2m-serif;
     font-size: rfs-fluid-value(30px);
     line-height: 1.3 !important;
-    text-indent: 0;
+    // text-indent: 0;
     text-align: left !important;
     margin: $spacer*2 0 !important;
   }
@@ -210,13 +210,14 @@ kbd {
     color: $white !important;
   }
 }
-
 // Font micro size
 .m2m-font-micro {
   @include font-size($micro-font-size);
   line-height: 1.2;
 }
-
+// .m2m-text-indent-0 {
+//   text-indent: 0 !important;
+// }
 // Blockquote
 blockquote {
   @extend .blockquote;
@@ -230,7 +231,7 @@ blockquote {
   p {
     @extend %m2m-serif;
     display: inline;
-    text-indent: 0;
+    // text-indent: 0;
     &:first-child {
       margin-bottom: $spacer;
     }
@@ -242,7 +243,7 @@ cite {
   display: block;
   font-style: normal;
   font-weight: 700;
-  text-indent: 0;
+  // text-indent: 0;
   margin-top: $spacer*0.5;
 }
 
@@ -326,19 +327,19 @@ cite {
   }
   // Entry block paragraphs
   p {
-    margin-bottom: 0;
+    margin-bottom: $spacer;
     line-height: 1.3;
     @include media-breakpoint-up(xxl) {
       line-height: 1.45;
     }
-    &:not(.lead) {
-      & + p {
-        text-indent: $spacer*2.5;
-      }
-    }
+    // &:not(.lead) {
+    //   & + p {
+    //     text-indent: $spacer*2.5;
+    //   }
+    // }
     // Entry block detached optional paragraph
     &.detached {
-      text-indent: 0 !important;
+      // text-indent: 0 !important;
       margin-top: $spacer*2;
     }
   }
@@ -436,7 +437,6 @@ cite {
 // ------------------------------------------------ //
 
 .card {
-  border-bottom-width: $card-border-width * 3;
   img {
     border-top-left-radius: $card-border-radius;
     border-top-right-radius: $card-border-radius;
@@ -473,6 +473,15 @@ hr {
   text-align: center;
   margin: $spacer*3 auto;
   &:not([size]) { height: 2px; }
+}
+// Filtered
+.m2m-img-filter {
+  @include media-breakpoint-up(md) {
+    filter: grayscale(1);
+    &:hover {
+      filter: grayscale(0);
+    }
+  }
 }
 
 
@@ -681,6 +690,16 @@ mark {
     display: inline-block;
     border-radius: 1.5rem 0.5rem 1.2rem 0.7rem;
     background-image: linear-gradient(-100deg, rgba(255,224,0,0.1), rgba(255,224,0,0.5) 95%, rgba(255,224,0,0.2));
+  }
+}
+// Circle
+.m2m-card-img-circle {
+  border-radius: 9em;
+  @include media-breakpoint-up(md) {
+    border-top-left-radius: 0.3em;
+    border-bottom-left-radius: 0.3em;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
   }
 }
 
