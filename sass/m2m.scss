@@ -126,13 +126,13 @@ $theme-colors: map-merge($theme-colors, $m2m-custom-colors);
   @each $color, $value in $theme-colors {
     --#{$variable-prefix}#{$color}: #{$value};
   }
-  // @each $color, $value in $theme-colors-rgb {
-  //   --#{$variable-prefix}#{$color}-rgb: #{$value};
-  // }
-  // --#{$variable-prefix}white-rgb: #{to-rgb($white)};
-  // --#{$variable-prefix}black-rgb: #{to-rgb($black)};
-  // --#{$variable-prefix}body-color-rgb: #{to-rgb($body-color)};
-  // --#{$variable-prefix}body-bg-rgb: #{to-rgb($body-bg)};
+  @each $color, $value in $theme-colors-rgb {
+    --#{$variable-prefix}#{$color}-rgb: #{$value};
+  }
+  --#{$variable-prefix}white-rgb: #{to-rgb($white)};
+  --#{$variable-prefix}black-rgb: #{to-rgb($black)};
+  --#{$variable-prefix}body-color-rgb: #{to-rgb($body-color)};
+  --#{$variable-prefix}body-bg-rgb: #{to-rgb($body-bg)};
   // Fonts
   --#{$variable-prefix}font-sans-serif: #{inspect($font-family-sans-serif)};
   --#{$variable-prefix}font-monospace: #{inspect($font-family-monospace)};
