@@ -9,7 +9,11 @@ permalink: '/contact/'
 ---
 ## Get in touch
 
-While [I'm not](/blog/escape-from-social-media/) on mainstream social media, it’s possible to reach out on the following platforms: {% for item in site.data.nav-social -%}[{{ item.name }}]({{ item.link }} "{{ item.name }}"){%- unless forloop.last -%}, {% endunless %}{%- if forloop.last -%}.{% endif %}{% endfor %}
+While [I'm not](/blog/escape-from-social-media/) on mainstream social media, it’s possible to reach out on the following platforms: 
+
+{% for item in site.data.nav-social -%}
+- [{{ item.name }}]({{ item.link }} "{{ item.name }}")
+{% endfor %}
 
 ## Blog updates
 
