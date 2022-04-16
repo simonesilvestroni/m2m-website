@@ -1,6 +1,9 @@
 - name: About
   link: /about/
   desc: 'Left the UK in 2020, I’m currently freelancing in Milan'
+- name: Blog
+  link: /blog/
+  desc: 'Articles, interviews, press releases'
 - name: Resume
   link: /resume/
   desc: 'Full list of skills, experience and certifications'
@@ -10,9 +13,6 @@
 - name: Music
   link: /music/
   desc: 'Original music productions'
-- name: Blog
-  link: /blog/
-  desc: 'Articles, interviews, press releases'
 - name: Contact
   link: /contact/
   desc: 'Hire me, get in touch or subscribe to the newsletter'
