@@ -211,3 +211,16 @@ certifications:
     - name: 'Member of <a href="https://iwanet.org/">IWA</a>'
     - name: 'Nielsen Norman Group UX Conference, 2010, London'
     - name: 'PHP development course by HTML.IT, 2009, Milan'
+
+# -------------------
+# Publications
+# -------------------
+pubs:
+  - title: 'A trip to freedom from Berlin To Berlin'
+    excerpt: 'A real-life story of imprisonment and liberty, between two wars and three generations.'
+    url: 'https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e'
+    featimage: true
+  - title: 'A modern workflow for the multi-device web'
+    excerpt: 'A process analysis that has led UI Farm Ltd to their workflow for delivering modern web solutions.'
+    url: 'https://medium.com/ui-farm/how-we-work-a-modern-workflow-for-the-multi-device-web-4e0dcb081b5b'
+    featimage: true
