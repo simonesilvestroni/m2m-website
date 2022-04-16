@@ -105,7 +105,7 @@ A basic Jekyll-based website has a simple directory tree. In my case (I'm omitti
 │    ├── 📝 test.md
 │    └── 📝 <etc>
 ├── 📂 _includes
-│    ├── 📄 pattern-button.html
+│    ├── 📄 pattern-button.md
 │    ├── 📄 site-seo.html
 │    └── 📄 <etc>
 ├── 📂 _layouts

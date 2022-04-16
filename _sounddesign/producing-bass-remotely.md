@@ -13,8 +13,11 @@ skillset:
   - "pro tools"
   - "logic pro x"
 description: "In this case study, I expose a process for producing effective bass tracks for clients based in a different city or country."
-excerpt: "In this case study, I expose a process for producing <strong>effective bass tracks</strong> for clients based in a different city or country."
+excerpt: "Exposing my process for producing <strong>effective bass tracks</strong> for the New York-based band Antiquity."
 toc: true
+featimage: true
+featimage-url: '/assets/images/producing-bass-remotely.jpg'
+featimage-height: '600'
 canonical: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'
 syndicate: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'
 sitemap: false

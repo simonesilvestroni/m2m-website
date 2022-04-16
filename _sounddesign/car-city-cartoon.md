@@ -12,9 +12,11 @@ skillset:
   - "master"
   - "logic pro"
 description: "I worked as a sound designer for the Paris-based animation agency Amuse on their acclaimed YouTube show Tom the Tow Truck, part of a series called Car City."
-excerpt: 'Before and after the pandemic lockdowns, I had done sound design work for the Paris-based animation agency Amuse on their acclaimed YouTube show for children &lsquo;<em>Tom the Tow Truck</em>&rsquo;, part of a larger series called <em>Car City</em>.'
+excerpt: 'Sound design for the Paris-based animation agency Amuse on their acclaimed YouTube show, part of a series called Car City.'
 toc: true
-featimage: false
+featimage: true
+featimage-url: '/assets/images/tom-the-tow-truck-cartoon.jpg'
+featimage-height: '600'
 permalink: '/projects/sound-design/car-city-cartoon/'
 ---
 ## Releases

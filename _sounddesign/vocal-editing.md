@@ -15,10 +15,14 @@ skillset:
   - "logic pro"
   - "iZotope RX"
   - "Soundtoys"
-description: "Transforming vocals from a song to a different one using pitch and tempo editing, noise removal and cleaning up historical speeches."
-excerpt: "Transforming vocals from a song to a different one using pitch and tempo editing, noise removal and cleaning up historical speeches."
+description: "Morphing vocals from a song to another using pitch and tempo editing; noise removal and cleaning up historical speeches."
+excerpt: "Morphing vocals from a song to another using pitch and tempo editing; noise removal and cleaning up historical speeches."
 toc: true
-featimage: false
+featimage: true
+featimage-url: '/assets/images/vocal-editing.jpg'
+featimage-height: '600'
+image-caption: true
+caption: 'Rachel Goodman, who <a href="/music/after-1989/">sung on my debut album</a>'
 permalink: '/projects/sound-design/vocal-editing/'
 ---
 ## Vocal transformation

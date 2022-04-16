@@ -14,10 +14,12 @@ skillset:
   - "pro tools"
   - "logic pro"
   - "iZotope RX"
-description: "Cleaning up noisy drums, restoring the stereo image with drum doubling and drum replacing, extracting drums from a stereo track"
-excerpt: "Cleaning up noisy drums, restoring the stereo image with drum doubling and drum replacing, extracting drums from a stereo track."
+description: "Cleaning up annoying undetected noise; restoring the stereo image with drum doubling and drum replacing; extracting drums from a stereo track."
+excerpt: "Cleaning up annoying undetected noise; restoring the stereo image with drum doubling and drum replacing; extracting drums from a stereo track."
 toc: true
-featimage: false
+featimage: true
+featimage-url: '/assets/images/drums-restoration.jpg'
+featimage-height: '600'
 permalink: '/projects/sound-design/drums-restoration/'
 ---
 ## Drums restoration & doubling

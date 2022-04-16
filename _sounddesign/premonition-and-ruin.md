@@ -12,9 +12,11 @@ skillset:
   - "logic pro"
   - "project management"
 description: "How I co-produced 'Premonition and Ruin', a superb concept album by Ember Rev around 'a lament for the European ideal', beautifully written and arranged."
-excerpt: 'Production for a superb concept album by the British band Ember Rev around <em>a lament for the European ideal</em>.'
+excerpt: 'Full production for a concept album by the British band Ember Rev around <em>a lament for the European ideal</em>.'
 toc: true
-featimage: false
+featimage: true
+featimage-url: '/assets/images/mixing-premonition-and-ruin.jpg'
+featimage-height: '600'
 permalink: '/projects/sound-design/premonition-and-ruin/'
 ---
 ## Release
