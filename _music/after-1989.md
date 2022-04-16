@@ -14,7 +14,7 @@ skillset:
   - "mix"
   - "logic pro"
 description: "After 1989 is a concept album about a young man who escaped Germany in 1945, while his grandson made the other way round, looking for answers in 2017."
-excerpt: "<strong><em>After 1989</em> is a concept album</strong> about a a real-life tale of imprisonment and liberty: how a young man escaped Germany during World War II, while his grandson retraced his steps 30 years after the Berlin wall."
+excerpt: "<strong><em>After 1989</em> is a concept album</strong> about how a young man escaped Germany during World War II, while his grandson retraced his steps 30 years after the Berlin wall."
 toc: true
 featimage: true
 ---
@@ -26,9 +26,8 @@ featimage: true
 
 **Three decades after the fall of the Berlin Wall**, the autobiographical tale of how my grandfather escaped a concentration camp in 1945, while I made the other way round, looking for answers that I could only find in 2017.
 
-<div class="my-5 pb-4 text-center">
-  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/blog/after-1989-full-story/" title="Read the full story"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read the full story</strong></span></a>
-</div>
+{: .text-center .fs-2 .my-5 .py-3 }
+📖 [Read the **full story** ↗︎](/blog/after-1989-full-story/)
 
 On [Bandcamp](https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom), the album features:
 
@@ -62,9 +61,9 @@ At the end of the year, as the 30th anniversary of the fall of the Berlin Wall w
 
 The renewed project touched the same story but **changed the perspective**. No third-person narration, no _theatrical persona_. Since the inspiration was my grandfather and his traumatic experience in a concentration camp in Germany, _I became the narrator_. After a steady research through war archives, official letters, family tales and a quest to find out where he spent those four years, I connected my **young years spent during the Cold War** to his not-so-distant wartime.
 
-### New band
+### The line-up
 
-To efficiently convey the new storyline, my first decision was to abandon the idea of an instrumental album. I wanted songs, as in _music and lyrics_, therefore finding a lead singer was paramount. Since **Rachel Goodman** couldn't be available for a full album, I [met Dan Ecclestone](/blog/ember-rev-premonition-and-ruin/) in Cambridge and agreed on working together on our respective albums. I then involved **Gerald Duchene** to help with guitars and saxophone, **Andy Bonnor** on drums and **Callum Gardner** on acoustic guitar and backing vocals.
+To efficiently convey the new storyline, my first decision was to abandon the idea of an instrumental album. I wanted songs, as in _music and lyrics_, therefore finding a lead singer was paramount. Since [Rachel Goodman](https://www.youtube.com/channel/UCGztQW1g4fPy1Bz1nmiIpJw) couldn't be available for a full album, I met [Dan Ecclestone](/blog/ember-rev-premonition-and-ruin/) in Cambridge and agreed on working together on our respective albums. I then involved [Gerald Duchene](/tag/gerald-duchene/) to help with guitars and saxophone, [Andy Bonnor](http://www.inyourdreams.fi/) on drums and [Callum Gardner](/tag/callum-gardner/) on acoustic guitar and backing vocals.
 
 Even though I initially considered scraping Paolo's contributions, I ended up keeping his amazing work on half of the songs, including several of his arrangements, a few guitar solos and his **beautiful viola**.
 
@@ -76,7 +75,7 @@ The album **shrinked from 16 pieces to 10 songs**. By axing redundant intros and
 
 ### Workflow
 
-In between the two stages of _After 1989_, I **went back to Logic Pro**. Exported all the tracks with and without Reason's native processing, imported into Logic projects, rearranged sections, edited MIDI parts and wrote the lyrics. I then sung all the test vocals, played piano, rewrote previous ideas and morphed them into new songs. The peculiar and [complicated story of the leading single](/blog/skinny-kid-song-backstory/), _Skinny Kid_, is emblematic of this stage.
+In between the two stages of _After 1989_, I **went back to Logic Pro**. Exported all the tracks with and without Reason's native processing, imported into Logic projects, rearranged sections, edited MIDI parts and wrote the lyrics. I then sung all the test vocals, played piano, rewrote previous ideas and morphed them into new songs. The peculiar and [complicated story of the leading single](/blog/skinny-kid-song-backstory/) is emblematic of this stage.
 
 All in all I had come up with **a complete new demo** in a relatively short time.
 
@@ -138,9 +137,8 @@ At the time, I chose **CD Baby** for digital distribution. As a member of PRS an
 > The direct and immersive narrative allows history to speak for itself without being preachy or forced. The artist gives us a unique perspective of an outsider who manages to observe a great deal of pain without being directly subjected to it. Its themes are timely and human, and effortlessly connect with a modern audience. _After 1989_ is an immersive and interesting experiment in storytelling that will leave listeners meditating on its heavy themes.
 > <cite>— [IndieRepublik Berlin](https://indierepublik.com/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/)</cite>
 
-<div class="my-5 pb-4 text-center">
-  <a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="/music/after-1989-reviews/" title="Read all the reviews"><span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">Read all the reviews</strong></span></a>
-</div>
+{: .text-center .fs-2 .my-5 .py-3 }
+📖 [Read **all the reviews** ↗︎](/music/after-1989-reviews/)
 
 ## Credits
 
