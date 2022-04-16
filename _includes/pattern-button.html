@@ -5,8 +5,6 @@
   /button
   -------------------------*
 {% endcomment %}
-{% if include.center %}<div class="text-center my-5 py-5">{% endif %}
-<a class="btn btn-lg btn-m2m btn-m2m-cta py-3 px-4 fw-bold" href="{{ include.link | default: '#' }}" title="{{ include.text }}">
-  <span class="text-uppercase fs-4">🔗 <strong class="d-inline-block ms-1">{{ include.text | default: "Click here" }}</strong></span>
-</a>
-{% if include.center %}</div>{% endif %}
+<div class="text-center my-5 py-5">
+  <span class="fs-3">🔗 </span><a class="fs-2" href="{{ include.link | default: '#' }}" title="{{ include.text }}">{{ include.text | default: "Click here" }} ↗︎</a>
+</div>
