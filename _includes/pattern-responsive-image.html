@@ -10,7 +10,7 @@
   featimage-class: 'u-featured'
   featimage-name: '000'
   image-caption: true
-  featimage-caption-desc: '000'
+  caption: '000'
   margin-nil: 0 // OPTIONAL if I need no top margin
 
   Usage
@@ -26,7 +26,7 @@
     path: assets/images/000.000
     alt: 000
     caption-true: {{ page.image-caption }}
-    caption: 000
+    caption: {{ page.caption }}}
   {% endresponsive_image_block %}
 
   Embed with Alfred:
@@ -42,7 +42,6 @@
   /{{ i.path }} {{ i.width }}w,
 {%- endfor -%}
 {%- endcapture -%}
-{% assign captionLabel = post.featimage-caption %}
 <figure class="{% if margin-nil %}my-{{ margin-nil }} {% else %}my-5 {% endif %}text-center">
   <picture>
     <source type="image/webp" srcset="{{ srcset | strip_newlines | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }} /{{ path | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }} {{ original.width }}w">
