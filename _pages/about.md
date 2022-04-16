@@ -3,8 +3,8 @@ layout: page
 title: About
 date: '2022-01-14'
 last_modified_at: '2022-04-13 15:14:31'
-description: 'Why for two decades I’ve been working as a sound and web designer between Italy and the UK; the origin of the moniker Minutes to Midnight and other interests.'
-excerpt: 'Why for the last two decades I’ve been working as a sound and web designer between Italy and the UK; the origin of the moniker <em>Minutes to Midnight</em> and my other interests.'
+description: 'For two decades I’ve been working as a sound and web designer between Italy and the UK; the origin of the moniker Minutes to Midnight and other interests.'
+excerpt: 'For the last two decades I’ve been working as a sound and web designer between Italy and the UK; the origin of the moniker <em>Minutes to Midnight</em> and my other interests.'
 permalink: '/about/'
 ---
 ## Audio and web
