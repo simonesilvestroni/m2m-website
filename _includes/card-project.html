@@ -1,21 +1,25 @@
 {%- assign page = project -%}
-<div class="col m2m-transition-opacity-03s">
-  <div class="card h-100">
+<div class="row gx-0 d-flex align-items-center rounded-3 mb-5 m2m-transition-opacity-03s border bg-white bg-opacity-50 position-relative">
+  <div class="col-12 col-md-3 d-flex justify-content-center justify-content-md-start">
     {%- if project.featimage == true -%}
-    <img class="w-100" src="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" alt="{{ project.title }}" width="350" height="350">
+    <picture class="mx-auto ms-md-0">
+      <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".webp" }}" type="image/webp">
+      <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" type="image/jpeg">
+      <img class="m2m-card-img-circle mt-4 mt-md-0" src="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" alt="{{ project.title }}" width="200" height="200">
+    </picture>
     {%- endif -%}
-    <div class="card-body text-center">
-      <h4 class="h1 fs-4 p-name m2m-sans text-uppercase my-3">{{ project.title }} {% if project.type == "music" %}({{ project.kind }}){% endif -%}</h4>
-      <p class="p-summary card-text text-start fs-5 lh-sm">
-        {%- if project.type == "web design" -%}
-          {{ project.description | strip_html }}
-        {%- else -%}
-          {{ project.excerpt | strip_html }}
-        {%- endif -%}
-      </p>
-    </div>
-    <div class="card-footer text-center pb-3">
-      <a class="u-url stretched-link btn btn-md btn-m2m btn-m2m-cta text-decoration-none fw-bold" href="{{ project.url }}" title="Check out {{ project.title }}"><span class="fs-6 initialism"><strong>Read the case study</strong></span></a>
-    </div>
+  </div>
+  <div class="col-12 col-md-9 ps-4 ps-md-0 pe-4 py-3">
+    <h3 class="text-center text-md-start mt-4 mt-md-0 mb-4 mb-md-3 mt-0" id="{{ project.title | downcase | replace: " ","-" }}">{{ project.title }}</h3>
+    <p class="p-summary card-text fs-5">
+      {%- if project.type == "web design" -%}
+        {{ project.description | strip_html }}
+      {%- else -%}
+        {{ project.excerpt | strip_html }}
+      {%- endif -%}
+    </p>
+    <p class="text-center text-md-start mt-4 mt-md-3 mb-md-0">
+      <a class="u-url m2m-link fs-4 stretched-link" href="{{ project.url }}" title="About {{ project.title }}"><strong>About the project</strong></a>  ➡️
+    </p>
   </div>
 </div>
