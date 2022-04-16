@@ -96,12 +96,13 @@ h4 {
     text-decoration-thickness: 2px;
     text-decoration-color: rgba($background-d-50, .8);
     text-underline-offset: 3px;
+    text-transform: lowercase;
     margin: 0 $spacer/1.25;
     &:hover {
       opacity: .6;
     }
     @include media-breakpoint-up(md) {
-      font-size: 1.7rem;
+      font-size: 1.5rem;
       margin: 0 $spacer;
     }
   }
