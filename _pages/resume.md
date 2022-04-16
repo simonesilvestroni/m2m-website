@@ -5,9 +5,10 @@ date: '2022-04-06 00:04:25'
 last_modified_at: '2022-04-14 13:05:45'
 description: 'Online cv of Simone Silvestroni, sound and web designer since 1995. Contains skills, tools, work experience, projects, certifications and endorsements.'
 excerpt: 'Online <span class="initialism">cv</span> of Simone Silvestroni, sound and web designer since 1995. Contains skills, tools, work experience, projects, certifications and endorsements.'
+toc: true
 permalink: '/resume/'
 ---
-{: .h1 .fs-1 .text-uppercase .text-center .pt-3 }
+{: .fs-1 .text-uppercase .text-center .pt-3 }
 ## Skills and tools
 
 ### Sound design
@@ -22,7 +23,7 @@ I've been crafting websites from scratch with **`HTML`** and **`CSS`** since the
 
 I can set up, run and maintain local and remote web servers in **`Apache`**, **`PHP`**, **`MySQL`** either through a GUI or **`SSH`**. I recently moved to **`JAMstack`** and static site generators with **`headless CMS`**, especially digging **`Jekyll`** with its **`Liquid`** template language and **`Netlify`** for deployment and production builds. I use **`git`** as a versioning system.
 
-{: .h1 .fs-1 .text-uppercase .text-center .pt-3 }
+{: .fs-1 .text-uppercase .text-center .pt-3 }
 ## Experience
 
 {: .mb-0 }
@@ -55,9 +56,9 @@ Full music production, bass tracks, mixing and mastering. Web design and front-e
 #### Publications
 
 {: .list-group .list-group-flush .mt-0 .ps-0 }
-- {: .list-group-item .my-0 .ps-0 } 📒 [Efficient Productivity for Music Professionals](/projects/project-management/)
-- {: .list-group-item .my-0 .ps-0 } 📒 [A Trip to Freedom, from Berlin to Berlin](https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e)
-- {: .list-group-item .my-0 .ps-0 } 📒 [Producing bass tracks remotely](https://unlockyoursound.com/producing-bass-tracks-remotely/)
+- {: .list-group-item .my-0 .ps-0 } 📒 [Efficient Productivity for Music Professionals](/projects/project-management/) (e-Book)
+- {: .list-group-item .my-0 .ps-0 } 📒 [A Trip to Freedom, from Berlin to Berlin](https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e) (article)
+- {: .list-group-item .my-0 .ps-0 } 📒 [Producing bass tracks remotely](https://unlockyoursound.com/producing-bass-tracks-remotely/) (article)
 
 {: .mb-0 .pt-5 }
 ### Front-end web developer at [UI Farm Ltd](https://uifarm.co.uk)
@@ -79,7 +80,7 @@ Co-founder, web designer and UI developer, I worked for clients like Reevoo, Not
 #### Publications
 
 {: .list-unstyled .ps-0 }
-- 📒 [How we work: a modern workflow for the multi-device web](https://medium.com/ui-farm/how-we-work-a-modern-workflow-for-the-multi-device-web-4e0dcb081b5b)
+- 📒 [How we work: a modern workflow for the multi-device web](https://medium.com/ui-farm/how-we-work-a-modern-workflow-for-the-multi-device-web-4e0dcb081b5b) (article)
 
 {: .mb-0 .pt-5 }
 ### Senior UI developer at Bodog
@@ -116,7 +117,7 @@ I built the internal sound studio from scratch, managing three computers in audi
 #### Case study
 
 {: .list-unstyled .ps-0 .mb-5 .pb-5 }
-- 🎮 [Console game Ruff Trigger](/projects/sound-design/console-game-ruff-trigger/)
+- 🎮 [Ruff Trigger console game](/projects/sound-design/console-game-ruff-trigger/)
 
 ## Languages
 
