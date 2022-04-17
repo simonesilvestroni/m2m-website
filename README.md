@@ -5,7 +5,7 @@ Passionate about audio-visual storytelling, web standard and sustainability, Iâ€
 
 ---
 
-## Case study about this website
+## Projects: this website
 
 Migrating from WordPress to a static site generator has been a blessing to me. In this case study, I explain why my current website, built on Jekyll and hosted on Netlify, eclipses the previous one on IA, performance, sustainability and maintenance.
 
@@ -13,13 +13,12 @@ Migrating from WordPress to a static site generator has been a blessing to me. I
 
 ---
 
-## Info
+## Some info
 
-- [Sound designer](https://minutestomidnight.co.uk/projects/#sound-design) work.
-- [Web designer and developer](https://minutestomidnight.co.uk/projects/#web-design/) work.
+- [Sound design](https://minutestomidnight.co.uk/projects/#sound-design) work.
+- [Web design and development](https://minutestomidnight.co.uk/projects/#web-design/) work.
 - [Original music](https://minutestomidnight.co.uk/music/).
 - A comprehensive list of my [equipment](https://minutestomidnight.co.uk/uses/).
-- 27 LinkedIn [endorsements](https://www.linkedin.com/in/minutes2mid/).
 
 ---
 
