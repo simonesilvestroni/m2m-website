@@ -2,7 +2,7 @@
 layout: page
 title: 'What I use'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2022-04-07 17:04:09'
+last_modified_at: '2022-04-17 16:31:53'
 description: "Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the uses.tech project."
 excerpt: 'Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the <a href="https://uses.tech/"><code>uses.tech</code></a> project. None of the links are affiliate.'
 permalink: '/uses/'
@@ -47,10 +47,12 @@ Previously:
 - Yamaha [HS5](https://www.yamaha.com/en/about/innovation/collection/detail/8050/)
 - Sony [MDR-7506](https://pro.sony/ue_US/products/headphones/mdr-7506)
 - Beyerdynamic [DT 770 Pro](https://global.beyerdynamic.com/dt-770-pro.html)
+- Sennheiser [HD 450BT](https://en-us.sennheiser.com/hd-450-bt) with active noise cancellation (not for production work)
 
 Previously:
 
 - Focal Alpha 80
+- AKG Studio K240
 
 ### MIDI controllers
 
@@ -86,8 +88,8 @@ Previously:
 
 Previously:
 
-- Kindle Paperwhite
 - Kobo Touch
+- Kindle Paperwhite
 
 {: .fs-1 .text-uppercase .text-center .pt-5 }
 ## Software
@@ -209,7 +211,8 @@ Previously:
 ### Text editors
 
 - [Sublime Text 4](http://www.sublimetext.com/)&nbsp;&nbsp;➡️ **[read why](https://tonsky.me/blog/sublime/)**
-- iA Writer for Markdown
+- [Typora](https://typora.io/)
+- [iA Writer](https://ia.net/writer) on Android
 
 Previously:
 
@@ -217,6 +220,12 @@ Previously:
 - Atom
 - Textmate
 - PS Pad
+
+### Git
+
+- Terminal
+- [Sublime Merge](https://www.sublimemerge.com/) (currently in trial)
+- [Kaleidoscope](https://kaleidoscope.app/) (legacy `difftool`)
 
 ### Browser
 
@@ -249,29 +258,43 @@ Previously:
 - Gmail
 - Apple @mac
 
-### Image manipulation and Desktop publishing
+😑 I'm not happy at all about this choice. In hindsight I should have stuck to Fastmail with added PGP, instead of locking myself into yet another proprietary system's walled garden.
 
-- [Figma](https://www.figma.com/)
+### Image manipulation
+
 - [Sketch](https://www.sketch.com/) v59
+- [Figma](https://www.figma.com/)
 - [Pixelmator](https://www.pixelmator.com/)
 - [Graphic Converter](https://www.lemkesoft.de/en/products/graphicconverter/)
 - [ImageOptim](https://imageoptim.com/)
-- [Affinity Publisher](https://affinity.serif.com/en-us/publisher/)
+- [GIMP](https://www.gimp.org/)
+- [Inkscape](https://inkscape.org/)
 
 Previously:
 
 - Adobe Creative Suite
+
+### Desktop publishing
+
+- [Affinity Publisher](https://affinity.serif.com/en-us/publisher/)
+
+Previously:
+
+- Adobe InDesign
+- Quark Xpress
+- Aldus Pagemaker
 
 ### Office
 
 - [LibreOffice](https://www.libreoffice.org/)
 - Apple's [Pages, Numbers, Keynote](https://www.apple.com/iwork/)
 
-### News and RSS reader
+### RSS and news
 
-- [Reeder](https://reeder.app/)
+- [NetNewsWire 6.1](https://netnewswire.com/) (for all my local RSS)
+- [Reeder](https://reeder.app/) (for Pocket articles)
 - [Pocket](https://www.mozilla.org/en-US/firefox/pocket/)
-- [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews&hl=en_US&gl=US) for Hacker News
+- [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews&hl=en_US&gl=US) (for Hacker News)
 
 ### Task management
 
@@ -288,11 +311,12 @@ Previously:
 
 - [Telegram](https://telegram.org/)
 - [Signal](https://www.signal.org/)
+- [LimeChat](https://github.com/psychs/limechat) (IRC)
 
 Previously:
 
 - WhatsApp
-- Messenger
+- iChat
 - Adium
 
 ### Music player
@@ -302,6 +326,7 @@ Previously:
 Previously:
 
 - iTunes
+- Winamp
 
 ### Video player
 
