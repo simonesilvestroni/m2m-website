@@ -3,8 +3,8 @@ layout: page
 title: About
 date: '2022-01-14'
 last_modified_at: '2022-04-13 15:14:31'
-description: 'For two decades I’ve been working as a sound and web designer between Italy and the UK; the origin of the moniker Minutes to Midnight and other interests.'
-excerpt: 'For the last two decades I’ve been working as a sound and web designer between Italy and the UK; the origin of the moniker <em>Minutes to Midnight</em> and my other interests.'
+description: 'A sound and web designer for two decades between Italy and the UK. I wrote a concept album about escaping war, which brought the moniker Minutes to Midnight.'
+excerpt: 'A sound and web designer for two decades between Italy and the UK. I wrote a concept album about escaping war, which brought the moniker <em>Minutes to Midnight</em>.'
 permalink: '/about/'
 ---
 ## Audio and web
@@ -17,9 +17,12 @@ After a long stint in a music studio acquiring recording skills, I became indepe
 
 **As a sound designer**, I write and produce music from tracking to mastering, with mixing as my preferred stage. I’m also a professional bass player and a field recordist with Foley skills. I see game audio as the ultimate audio-visual narrative medium.
 
+{: .text-center .fs-2 .my-5 .py-3 }
+📄 [See my **resume** ↗︎](/resume/)
+
 ## Passions and interests
 
-I'm an avid reader, eager to know the latest about the audio and tech industries. I've always loved to lose myself in history essays and dystopian novels. Trivia: I have a longstanding ~~obsession~~ fascination for typography.
+I'm an avid reader, eager to know the latest about the audio and tech industries. I've always loved to lose myself in history essays, personal blogs and dystopian novels. Trivia: I have a longstanding ~~obsession~~ fascination for typography.
 
 Constantly looking for a way to complete a task in less and more efficient steps, I ended up writing an ebook about [project management for musicians](/projects/project-management/).
 
