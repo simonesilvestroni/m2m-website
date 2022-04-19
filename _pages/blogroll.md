@@ -22,7 +22,7 @@ permalink: '/blogroll/'
 
 ## Design, web, tech
 
-- [Silvia Maggi](https://silviamaggidesign.com) — A designer striving to create meaningful digital experiences. Focusing on accessibility, usability and sustainability, she writes about design, tech and their implications in our lives.
+- [Silvia Maggi](https://silviamaggidesign.com) — A web designer and developer focused on usability, accessibility and information architecture. An expert in HTML, CSS and designing using web standards since 2004, she makes websites using Jekyll and WordPress. Curator of the inspiration series _Design, Digested_. Photography is her life-long passion. 
 - [Bradley Taunt](https://tdarb.org/) — Works as a user interface and experience designer and also dabble in open source projects. Writes about macOS, design, CSS, web development, digital privacy, Linux.
 - [Laura Kalbag](https://laurakalbag.com/) — Designer originally from the UK, now living in Ireland. Talking about rights-respecting design, accessibility and inclusivity, privacy, web design and development.
 - [Aral Balkan](https://ar.al/) — Activist, designer, and developer, he’s one-half of [Small Technology Foundation](https://small-tech.org/). They advocate for and build small technology to protect personhood and democracy in the digital network age.
