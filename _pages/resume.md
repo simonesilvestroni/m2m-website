@@ -167,5 +167,6 @@ I built the internal sound studio from scratch, managing three computers in audi
 
 {: .list-group .list-group-flush .mt-5 .ps-0 }
 - {: .list-group-item .my-0 .ps-0 } 🎧 [For bass performance endorsements check **SoundBetter** ↗︎](https://soundbetter.com/profiles/206552-minutes-to-midnight/#reviews)
+- {: .list-group-item .my-0 .ps-0 } 💿 [Music credits on **Discogs** ↗︎](https://www.discogs.com/artist/1206278-Simone-Silvestroni)
 - {: .list-group-item .my-0 .ps-0 } 🗒 [Full list of experiences and endorsements on **LinkedIn** ↗︎](https://www.linkedin.com/in/minutes2mid/)
 - {: .list-group-item .my-0 .ps-0 } ✍️ [Reach out to request a **PDF version** ↗︎](/contact/)
