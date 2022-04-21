@@ -15,7 +15,7 @@
       style-src 'self';
       img-src 'self' https://webmention.io https://*.amazonaws.com;
       script-src 'self';
-      frame-src https://www.youtube-nocookie.com/embed/ https://open.spotify.com/embed/ https://w.soundcloud.com/player/ https://bandcamp.com/EmbeddedPlayer/
+      frame-src https://www.youtube-nocookie.com/embed/ https://open.spotify.com/embed/ https://w.soundcloud.com/player/ https://bandcamp.com/EmbeddedPlayer/ https://embed.music.apple.com
     '''
     Permissions-Policy = '''
       accelerometer=(none),
