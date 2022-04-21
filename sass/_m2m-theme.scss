@@ -525,6 +525,12 @@ hr {
 .iframe-spotify iframe {
   border-radius:12px;
 }
+.iframe-applemusic iframe {
+  width: 100%;
+  max-width: 960px;
+  overflow: hidden;
+  background: transparent;
+}
 .iframe-bandcamp iframe {
   border: 0;
   min-width: 470px;

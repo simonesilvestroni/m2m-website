@@ -12,6 +12,8 @@ tags:
   - migration
   - propaganda
   - uk
+  - antiquity
+  - dan ecclestone
 description: "New mini EP released today, in collaboration with Antiquity. Introducing the topics of my next concept album, 'The Die is Cast'."
 excerpt: "New mini EP released today, in collaboration with Antiquity. Introducing the topics of my next concept album, <em>The Die is Cast</em>."
 ---
