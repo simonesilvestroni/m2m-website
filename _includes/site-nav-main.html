@@ -3,8 +3,10 @@
   Main navigation
   -------------------------*
 {%- endcomment -%}
-<ul class="nav nav-main justify-content-center mt-4 py-3" aria-label="Navigation">
+<ul class="nav nav-main justify-content-center py-3" aria-label="Navigation">
   {% for item in site.data.nav-site -%}
-  <li class="nav-item"><a class="nav-link m2m-transition-opacity-03s{% if page.url contains item.link %} m2m-current{% endif %}" href="{{ item.link }}" title="{{ item.desc }}"><strong>{{ item.name }}</strong></a></li>
+  <li class="nav-item pb-2">
+    <a class="fs-5 px-3 m2m-transition-opacity-03s{% if page.url contains item.link %} m2m-current{% endif %}" href="{{ item.link }}" title="{{ item.desc }}">{{ item.name }}</a>
+  </li>
   {% endfor -%}
 </ul>

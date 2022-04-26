@@ -38,9 +38,9 @@ header {
   // }
 }
 .m2m-container {
-  @include media-breakpoint-up(md) {
+  @include media-breakpoint-up(lg) {
     @include make-container($spacer);
-    max-width: 960px;
+    max-width: 1024px;
   }
 }
 footer {
