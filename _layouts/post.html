@@ -9,11 +9,11 @@ layout: default
 <article class="m2m-entry my-5">
   <div class="h-entry">
     {%- for category in categories -%}
-    <div class="m2m-label text-center pt-3">
-      <kbd class="fs-5">Category: <a class="text-uppercase fw-bold" href="/category/{{ category | slugify | append: '/' }}"><span class="p-category">{{ category | upcase | replace:"-"," " }}</span></a></kbd>
+    <div class="m2m-label text-center pt-2">
+      <span class="fs-6 border bg-light rounded p-1">Category: <a class="m2m-link text-uppercase fw-bold" href="/category/{{ category | slugify | append: '/' }}"><span class="p-category">{{ category | upcase | replace:"-"," " }}</span></a></span>
     </div>
     {%- endfor -%}
-    <h1 class="text-center display-1 m2m-text-rotate mt-5">{{ page.title }}</h1>
+    <h1 class="text-center display-3 mt-4">{{ page.title }}</h1>
     <p class="p-name lead pt-3">
       {{ page.excerpt }}
       {%- if page.mention == true %}

@@ -46,7 +46,7 @@ $letter-spacing-wide-1: 1px;
 $letter-spacing-shrink: -0.25px;
 $blockquote-margin-y: $spacer * 2;
 $blockquote-font-size: $lead-font-size;
-$code-color: #9E1F5E;
+$code-color: black;
 $font-family-monospace: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 $font-family-code: $font-family-monospace;
 $kbd-bg: $heading-l-90;
@@ -83,7 +83,7 @@ $table-border-color: rgba($background-d-90, .15);
 $table-group-separator-color: $background-d-30;
 
 // Cards
-$card-bg: rgba($background-l-10, .3);
+$card-bg: rgba($link-l-60, .5);
 $card-border-radius: 12px;
 $card-border-width: 1px;
 $card-border-color: rgba($background-d-20, .3);

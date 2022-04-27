@@ -166,5 +166,5 @@ $link-d-90: shade-color($link, 90%);
   @include m2m-color($m2m-colors, 'color', $separator: '-');
 }
 .m2m-bg-alpha {
-  background-color: rgba($background-l-60, .25);
+  background-color: rgba($link-l-60, .25);
 }

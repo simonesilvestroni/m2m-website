@@ -9,7 +9,7 @@ permalink: '/music/'
 ---
 {%- assign originalmusic = site.music | where: "type", "music" | reverse -%}
 <section class="m2m-entry my-5 pb-3">
-  <h2 class="p-name" id="original-music">Discography</h2>
+  <h2 class="p-name text-center" id="original-music">Discography</h2>
   <div class="h-feed">
     <div class="card-group pb-3">
       <div class="row row-cols-1 row-cols-sm-2 g-4">

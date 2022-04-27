@@ -7,7 +7,7 @@
   {% for category in categories %}
   <mark class="m2m-highlight d-inline-block mb-2"><span class="p-category text-uppercase initialism fw-bold px-2"><strong>{{ category | upcase | replace:"-"," " }}</strong></span></mark>
   {% endfor %}
-  <h2 class="p-name h4 text-uppercase m2m-letter-spacing-w1 my-3"><a class="m2m-link" href="{{ post.url }}" title="Read the post">{{ post.title }}</a></h2>
+  <h2 class="p-name display-6 my-3"><a class="m2m-link" href="{{ post.url }}" title="Read the post">{{ post.title }}</a></h2>
   {%- if post -%}
     {% assign date = post.date %}
   {%- elsif page -%}
@@ -18,7 +18,7 @@
     <span class="m2m-font-micro pe-1">🗓</span> <time class="dt-published m2m-font-micro" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time>
   </p>
   <div class="e-content">
-    <p class="p-summary text-start lh-sm mt-2">{{ post.excerpt | markdownify | strip_html }}</p>
+    <p class="p-summary fs-4 text-start mt-2">{{ post.excerpt | markdownify | strip_html }}</p>
   </div>
 </article>
 <hr class="visually-hidden">

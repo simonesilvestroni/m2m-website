@@ -11,20 +11,20 @@ layout: default
   {%- endif -%}
 {% endcapture %}
 <article class="h-entry m2m-entry my-5">
-  <div class="m2m-label text-center pt-3">
-    <kbd class="fs-5"><strong class="p-category text-uppercase">{% unless page.type == "music" %}{{ page.type }}{% endunless %}{% if page.type == "music" %}{{ page.subtype }}{% endif %}</strong> project</kbd>
+  <div class="m2m-label text-center pt-2">
+    <span class="fs-6 border bg-light rounded p-1"><strong class="p-category text-uppercase">{% unless page.type == "music" %}{{ page.type }}{% endunless %}{% if page.type == "music" %}{{ page.subtype }}{% endif %}</strong> project</span>
   </div>
-  <h1 class="p-name text-center display-1 lh-sm m2m-text-rotate mt-5">{{ page.title }}</h1>
+  <h1 class="p-name text-center display-3 lh-sm mt-4">{{ page.title }}</h1>
   {%- if page.collection == 'webdesign' %}
   <p class="p-summary lead pb-3">{{ page.summary }}</p>
   {% else %}
   <p class="p-summary lead pb-3">{{ page.excerpt }}</p>
   {% endif -%}
   <div class="post-meta text-center m-auto w-75 my-5">
-    <h3 class="text-uppercase">Skills &amp; tools</h3>
+    <h3>Skills &amp; tools</h3>
     <ul class="list-unstyled list-inline ps-0">
       {%- for skill in page.skillset -%}
-      <li class="list-inline-item mx-1 mx-md-2 lh-lg"><kbd class="p-category text-uppercase fw-bold fs-5">{{ skill }}</kbd></li>
+      <li class="list-inline-item mx-1 mx-md-2 lh-lg"><span class="p-category text-uppercase border rounded bg-light p-2 fs-5"><strong>{{ skill }}</strong></span></li>
       {%- endfor -%}
     </ul>
     <span class="visually-hidden">

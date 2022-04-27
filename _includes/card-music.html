@@ -9,7 +9,7 @@
     </picture>
     {%- endif -%}
     <div class="card-body">
-      <h3 class="p-name m2m-sans text-center my-3">{{ project.title }} ({{ project.kind }})</h3>
+      <h3 class="p-name text-center my-3">{{ project.title }} ({{ project.kind }})</h3>
       <p class="p-summary card-text fs-5 lh-sm px-4 py-2">
         {%- if project.type == "web design" -%}
           {{ project.description | strip_html }}
@@ -19,7 +19,7 @@
       </p>
     </div>
     <div class="card-footer text-center pb-3">
-      <p>
+      <p class="fs-5">
         <a class="u-url stretched-link" href="{{ project.url }}" title="Check out {{ project.title }}"><strong>About the project</strong></a> ➡️
       </p>
     </div>

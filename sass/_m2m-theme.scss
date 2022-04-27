@@ -31,7 +31,8 @@ body {
 // ------------------------------------------------ //
 
 header {
-  background: transparent url(/assets/images/dirt.png) repeat center center;
+  background: transparent url(/assets/images/dirt.png) repeat top left;
+  background-attachment: fixed;
   // @media (prefers-color-scheme: dark) {
   //   opacity: 0.4;
   //   background-attachment: fixed;
@@ -44,7 +45,7 @@ header {
   }
 }
 footer {
-  background: $background-l-50 url(/assets/images/denim.png) no-repeat bottom left;
+  background: $link-l-60 url(/assets/images/denim.png) no-repeat bottom left;
   background-attachment: fixed;
 }
 .footer-wave {

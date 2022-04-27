@@ -8,7 +8,7 @@ excerpt: 'Alternating jobs between sound and web design, I’ve worked on many p
 toc: true
 permalink: '/projects/'
 ---
-{: .pt-3 .pb-2 }
+{: .display-5 }
 ## Sound design
 
 {%- assign production = site.sounddesign | where: "subtype", "production" | reverse -%}
@@ -20,7 +20,7 @@ permalink: '/projects/'
 {% include card-project.html %}
 {% endfor %}
 
-{: .pt-3 .pb-2 }
+{: .display-5 }
 ## Web design
 
 {%- assign webdesign = site.webdesign | reverse -%}
@@ -29,7 +29,7 @@ permalink: '/projects/'
 {% include card-project.html %}
 {% endfor %}
 
-{: .pt-3 .pb-2 }
+{: .display-5 }
 ## Publications
 
 {% assign ebook = site.pages | where: "permalink", "/projects/project-management/" %}
@@ -39,7 +39,7 @@ permalink: '/projects/'
 {% include card-project.html %}
 {% endfor %}
 
-{: .pt-3 .pb-2 }
+{: .display-5 }
 ## Spotify playlists
 
 {: .mb-4 }

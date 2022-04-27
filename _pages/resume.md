@@ -8,7 +8,7 @@ excerpt: 'Online <span class="initialism">cv</span> of Simone Silvestroni, sound
 toc: true
 permalink: '/resume/'
 ---
-{: .fs-1 .text-uppercase .text-center .pt-3 }
+{: .display-5 .pt-3 }
 ## Skills and tools
 
 ### Sound design
@@ -23,7 +23,7 @@ I've been crafting websites from scratch with **`HTML`** and **`CSS`** since the
 
 I can set up, run and maintain local and remote web servers in **`Apache`**, **`PHP`**, **`MySQL`** either through a GUI or **`SSH`**. I recently moved to **`JAMstack`** and static site generators with **`headless CMS`**, especially digging **`Jekyll`** with its **`Liquid`** template language and **`Netlify`** for deployment and production builds. I use **`git`** as a versioning system.
 
-{: .fs-1 .text-uppercase .text-center .pt-3 }
+{: .display-5 .pt-3 }
 ## Experience
 
 {: .mb-0 }
@@ -35,7 +35,7 @@ September 2017 — present (Cambridge, UK / Milan, Italy)
 {: .detached }
 Full music production, bass tracks, mixing and mastering. Web design and front-end development.
 
-{: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
+{: .text-uppercase .m2m-letter-spacing-w1 }
 #### Projects
 
 {: .list-group .list-group-flush .mt-0 .ps-0 }
@@ -52,7 +52,7 @@ Full music production, bass tracks, mixing and mastering. Web design and front-e
 - {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Silvia Maggi Design](/projects/web-design/silvia-maggi-design/)
 - {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [No Slack Day](/projects/web-design/no-slack-day/)
 
-{: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
+{: .text-uppercase .m2m-letter-spacing-w1 }
 #### Publications
 
 {: .list-group .list-group-flush .mt-0 .ps-0 }
@@ -69,14 +69,14 @@ May 2012 — September 2017 (London, UK)
 {: .detached }
 Co-founder, web designer and UI developer, I worked for clients like Reevoo, Not On The High Street, UniCredit, Women Management and many others. At UI Farm I contributed to building a bespoke responsive framework on top of WordPress, featuring semantic patterns, a fluid grid and custom plugins. Handcrafted using PHP (HTML5), SASS (CSS3), JavaScript and SVG.
 
-{: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
+{: .text-uppercase .m2m-letter-spacing-w1 }
 #### Projects
 
 {: .list-group .list-group-flush .mt-0 .ps-0 }
 - {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Reevoo](/projects/web-design/reevoo/)
 - {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [UniCredit](/projects/web-design/unicredit/)
 
-{: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
+{: .text-uppercase .m2m-letter-spacing-w1 }
 #### Publications
 
 {: .list-unstyled .ps-0 }
@@ -113,12 +113,13 @@ Team leader and sound designer for the title _Ruff Trigger: The Vanocore Conspir
 
 I built the internal sound studio from scratch, managing three computers in audio/MIDI sync. In 2002, I attended the Game Developers Conference in San Jose, CA and joined the Game Audio Network Guild as a Bronze Member on the day of its foundation.
 
-{: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
+{: .text-uppercase .m2m-letter-spacing-w1 }
 #### Project
 
 {: .list-unstyled .ps-0 .mb-5 .pb-5 }
 - 🎮 [Ruff Trigger console game](/projects/sound-design/console-game-ruff-trigger/)
 
+{: .display-5 .pt-3 }
 ## Languages
 
 {: .list-group .list-group-flush .mt-0 .ps-0 }
@@ -126,7 +127,7 @@ I built the internal sound studio from scratch, managing three computers in audi
 - {: .list-group-item .my-0 .ps-0 } 🇺🇸 **English**: bilingual proficiency
 - {: .list-group-item .my-0 .ps-0 } 🇩🇪 **German**: elementary
 
-{: .pt-5 }
+{: .display-5 .pt-3 }
 ## Certifications and courses
 
 {: .list-group .list-group-flush .mt-0 .ps-0 }
@@ -137,13 +138,13 @@ I built the internal sound studio from scratch, managing three computers in audi
 - {: .list-group-item .my-0 .ps-0 } 🏛 {{ cert.name }}.
 {%- endfor %}
 
-{: .pt-5 }
+{: .display-5 .pt-3 }
 ## Endorsements
 
 {%- assign endorsementaudio = site.endorsements.audio -%}
 {%- assign endorsementweb = site.endorsements.web %}
 
-{: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
+{: .text-uppercase .m2m-letter-spacing-w1 }
 #### Sound design
 
 {%- for endorsement in endorsementaudio %}
@@ -153,7 +154,7 @@ I built the internal sound studio from scratch, managing three computers in audi
 
 {%- endfor %}
 
-{: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
+{: .text-uppercase .m2m-letter-spacing-w1 }
 #### Web design
 
 {%- for endorsement in endorsementweb %}
