@@ -6,7 +6,7 @@
         <div>
           <span class="btn-label-lg-m2m btn-label-m2m-bg d-inline-block rounded fw-bold mb-2 px-2 py-1">← <strong>PREV</strong></span>
         </div>
-        <span class="m2m-serif">{{ page.previous.title }}</span>
+        {{ page.previous.title }}
       </a>
       {% endunless %}{% endif %}
     </div>
@@ -16,7 +16,7 @@
         <div>
           <span class="btn-label-lg-m2m btn-label-m2m-bg d-inline-block rounded fw-bold mb-2 px-2 py-1"><strong>NEXT</strong> →</span>
         </div>
-        <span class="m2m-serif">{{ page.next.title }}</span>
+        {{ page.next.title }}
       </a>
       {% endunless %}{% endif %}
     </div>
