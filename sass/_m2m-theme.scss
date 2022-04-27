@@ -40,7 +40,7 @@ header {
 .m2m-container {
   @include media-breakpoint-up(lg) {
     @include make-container($spacer);
-    max-width: 1024px;
+    max-width: 960px;
   }
 }
 footer {
@@ -166,7 +166,7 @@ p {
   // Lead paragraphs
   &.lead {
     @extend %m2m-serif;
-    font-size: rfs-fluid-value(30px);
+    font-size: rfs-fluid-value(26px);
     line-height: 1.3 !important;
     // text-indent: 0;
     text-align: left !important;
