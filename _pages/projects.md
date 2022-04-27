@@ -8,7 +8,7 @@ excerpt: 'Alternating jobs between sound and web design, I’ve worked on many p
 toc: true
 permalink: '/projects/'
 ---
-{: .fs-1 .text-center .text-uppercase .pt-5 .pb-4 }
+{: .pt-3 .pb-2 }
 ## Sound design
 
 {%- assign production = site.sounddesign | where: "subtype", "production" | reverse -%}
@@ -20,7 +20,7 @@ permalink: '/projects/'
 {% include card-project.html %}
 {% endfor %}
 
-{: .fs-1 .text-uppercase .text-center .pt-5 .pb-4 }
+{: .pt-3 .pb-2 }
 ## Web design
 
 {%- assign webdesign = site.webdesign | reverse -%}
@@ -29,7 +29,7 @@ permalink: '/projects/'
 {% include card-project.html %}
 {% endfor %}
 
-{: .fs-1 .text-uppercase .text-center .pt-5 .pb-4 }
+{: .pt-3 .pb-2 }
 ## Publications
 
 {% assign ebook = site.pages | where: "permalink", "/projects/project-management/" %}
@@ -39,16 +39,16 @@ permalink: '/projects/'
 {% include card-project.html %}
 {% endfor %}
 
-{: .fs-1 .text-uppercase .text-center .pt-5 .pb-4 }
+{: .pt-3 .pb-2 }
 ## Spotify playlists
 
 {: .mb-4 }
-If Spotify is your jam, here's a couple of playlists. The first features 33 songs where I played the bass:
+If Spotify is your jam, here's a couple of playlists. The first features 35 songs where I played the bass:
 
 {% include pattern-spotify.html id="1EC2Hm0xSywc5pITPMhuIA" type="playlist" height="230" margin="mt-3" %}
 
 {: .my-4 }
-The second playlist is made of 43 songs produced by me:
+The second playlist is made of 45 songs produced by me:
 
 {% include pattern-spotify.html id="6yRM57FJ9JKONDAXaLBAdx" type="playlist" height="230" margin="mt-3" %}
 
