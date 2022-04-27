@@ -21,16 +21,16 @@ layout: default
       {% endif -%}
     </p>
     <div class="post-meta text-center m-auto w-75 my-5{% if page.type == 'note' %} visually-hidden{% endif %}">
-      <div class="py-3">
+      <div class="py-1">
         <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><span class="pe-1">🗓</span> {{ page.date | date: "%-d %B %Y" }}</time>        
       </div>
       {% unless page.type == 'note' %}
-      <div class="pb-4">
+      <div class="pb-3">
         <h3 class="text-uppercase">Tags</h3>
         <ul class="list-unstyled list-inline ps-0">
           {%- for tag in page.tags -%}
-          <li class="list-inline-item mx-1 mx-md-2 lh-lg">
-            <kbd><a class="p-category fs-6" href="/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase | prepend: '<span class="initialism">#</span>' }}</a></kbd>{%- endfor -%}  
+          <li class="list-inline-item my-0 mx-1 mx-md-2">
+            <a class="p-category m2m-link fs-6" href="/tag/{{ tag | slugify | append: '/' }}"><span class="rounded bg-light py-1 px-2">{{ tag | upcase | prepend: '#' }}</a></span>{%- endfor -%}
           </li>
         </ul>
       </div>
