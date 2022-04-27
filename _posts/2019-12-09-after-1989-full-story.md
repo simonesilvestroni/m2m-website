@@ -169,5 +169,5 @@ The car attracted my attention because it was the same model used by [Russel Oak
 
 {% include pattern-figure.html image="/assets/images/full-story-grandfather.jpg" caption="My grandfather working outside his shop in the summer. Some of the objects visible on the crate came from Germany" width="1024" height="722" %}
 
-{: .text-center .fs-2 .my-5 .py-3 }
+{: .text-center .fs-4 .my-5 .py-3 }
 📖 [Read the **album analysis** ↗︎](/music/after-1989/)

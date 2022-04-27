@@ -1,9 +1,12 @@
 ---
-title: 'Note about joining Mastodon'
+title: 'Joining Mastodon'
 date: '2022-03-11'
 type: note
 categories:
   - 'Social media'
+tags:
+  - mastodon
+  - fediverse
 description: 'I joined Mastodon, as an experiment. So far it feels totally different from social media.'
 excerpt: 'I joined Mastodon, as an experiment. So far it feels totally different from social media.'
 ---

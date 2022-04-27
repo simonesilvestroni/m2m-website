@@ -26,7 +26,7 @@ Present-day. I’m in Berlin. After boarding the S-Bahn 1 to Oranienburg, I reli
 
 {% include pattern-video.html id="xs00zSccUjc" %}
 
-{: .text-center .fs-2 .my-5 .py-3 }
+{: .text-center .fs-4 .my-5 .py-3 }
 📖 [Read the **song backstory** ↗︎](/blog/skinny-kid-song-backstory/)
 
 ## Credits

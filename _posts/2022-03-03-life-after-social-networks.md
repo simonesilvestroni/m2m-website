@@ -53,10 +53,8 @@ Going back to Steve’s article, I keep asking: **what if these soulless machine
 
 My answer was, and still is: **have your own space** [on the internet](https://www.onebigfluke.com/2012/07/focusing-on-positives-why-i-have-my-own.html).
 
----
+## EDIT: Mastodon
 
-## 🆕 10 March 2022 EDIT: Mastodon
-
-Just joined [Mastodon](https://mastodon.help/), as an experiment. I'll be blogging about it in the future, but I immediately understood why everyone says _it's not_ Twitter. It sure feels like a totally different space. 
+On 10 march I re-joined [Mastodon](https://mastodon.help/), as an experiment. I did try it five years ago, to no avail. I'll be blogging about it in the future, but I immediately understood why everyone says _it's not_ Twitter. It sure feels like a totally different space. 
 
 I've also integrated Mastodon's replies, likes and reboosts in here through [Brid.gy](https://brid.gy/). Check the section [Comments and reactions](#comments) 👇 below.

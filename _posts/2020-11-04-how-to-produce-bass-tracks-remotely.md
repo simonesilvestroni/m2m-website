@@ -18,5 +18,5 @@ excerpt: 'The article <em>Producing Bass Tracks Remotely</em>, originally publis
 
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://antiquitysessions1.bandcamp.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
 
-{: .text-center .fs-2 .my-5 .py-3 }
+{: .text-center .fs-4 .my-5 .py-3 }
 📖 [Read the **project analysis** ↗︎](/projects/sound-design/producing-bass-remotely/)

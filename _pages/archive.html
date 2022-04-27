@@ -42,7 +42,7 @@ permalink: '/archive/'
   {%- assign sorted_cats = site.categories | sort -%}
   {%- for category in sorted_cats -%}
   {%- assign c = category | first -%}
-  <a class="p-name u-url m2m-link fs-5 px-2" href="/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><span class="rounded bg-light py-1 px-2">{{ c | upcase | prepend: '#' }}</span></a>
+  <a class="p-name u-url m2m-link" href="/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><span class="initialism p-1">{{ c | upcase | prepend: '#' }}</span></a>{% unless forloop.last %}, {% endunless %}
   {%- endfor -%}
   </p>
   {%- for post in site.posts -%}

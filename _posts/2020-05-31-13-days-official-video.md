@@ -47,5 +47,5 @@ excerpt: '1962. Kennedy announces proof of a build-up of Soviet missiles in Cuba
 **Repertoire** / National Archives, United States Air Force, Cuban missile crisis footage by [David G. Coleman](https://historyinpieces.com/), Prelinger Archive.
 
 
-{: .text-center .fs-2 .my-5 .py-3 }
+{: .text-center .fs-4 .my-5 .py-3 }
 📖 [Read the **album analysis** ↗︎](/music/after-1989/)

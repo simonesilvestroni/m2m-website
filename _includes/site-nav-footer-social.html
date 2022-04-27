@@ -1,5 +1,5 @@
 <nav class="navigation" aria-label="Social media and feed">
-  {% for item in site.data.nav-social-footer -%}
+  {% for item in site.data.nav-footer-social -%}
   <a class="nav-link d-inline-block pe-4" href="{{ item.link }}" title="{{ item.name }}">{{ item.icon }}<span class="visually-hidden">{{ item.name }}</span></a>
   {% endfor -%}
 </nav>

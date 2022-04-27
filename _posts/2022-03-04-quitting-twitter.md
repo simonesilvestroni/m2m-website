@@ -1,9 +1,12 @@
 ---
-title: 'Note about quitting Twitter'
+title: 'Quitting Twitter'
 date: '2022-03-04'
 type: note
 categories:
   - 'Social media'
+tags:
+  - twitter
+  - nolan lawson
 description: 'Quote from Nolan Lawson about the good, the bad and the mixed bag of being outside Twitter for the last five years.'
 excerpt: 'Quote from Nolan Lawson about the good, the bad and the mixed bag of being outside Twitter for the last five years.'
 mention: true

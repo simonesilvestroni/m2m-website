@@ -40,5 +40,5 @@ To celebrate the first anniversary of the release, I published the 5th official 
 
 <p class="detached"><mark class="m2m-highlight small"><strong>Released</strong>: November 9, 2020</mark></p>
 
-{: .text-center .fs-2 .my-5 .py-3 }
+{: .text-center .fs-4 .my-5 .py-3 }
 📖 [Read the **album analysis** ↗︎](/music/after-1989/)

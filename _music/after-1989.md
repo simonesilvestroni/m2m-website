@@ -26,7 +26,7 @@ featimage: true
 
 **Three decades after the fall of the Berlin Wall**, the autobiographical tale of how my grandfather escaped a concentration camp in 1945, while I made the other way round, looking for answers that I could only find in 2017.
 
-{: .text-center .fs-2 .my-5 .py-3 }
+{: .text-center .fs-4 .my-5 .py-3 }
 📖 [Read the **full story** ↗︎](/blog/after-1989-full-story/)
 
 On [Bandcamp](https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom), the album features:
@@ -137,7 +137,7 @@ At the time, I chose **CD Baby** for digital distribution. As a member of PRS an
 > The direct and immersive narrative allows history to speak for itself without being preachy or forced. The artist gives us a unique perspective of an outsider who manages to observe a great deal of pain without being directly subjected to it. Its themes are timely and human, and effortlessly connect with a modern audience. _After 1989_ is an immersive and interesting experiment in storytelling that will leave listeners meditating on its heavy themes.
 > <cite>— [IndieRepublik Berlin](https://indierepublik.com/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/)</cite>
 
-{: .text-center .fs-2 .my-5 .py-3 }
+{: .text-center .fs-4 .my-5 .py-3 }
 📖 [Read **all the reviews** ↗︎](/music/after-1989-reviews/)
 
 ## Credits

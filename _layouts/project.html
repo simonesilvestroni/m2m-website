@@ -11,22 +11,18 @@ layout: default
   {%- endif -%}
 {% endcapture %}
 <article class="h-entry m2m-entry my-5">
-  <div class="m2m-label text-center pt-2">
-    <span class="fs-6 border bg-light rounded p-1"><strong class="p-category text-uppercase">{% unless page.type == "music" %}{{ page.type }}{% endunless %}{% if page.type == "music" %}{{ page.subtype }}{% endif %}</strong> project</span>
+  <div class="m2m-label text-center text-md-start pt-2">
+    <span>Project: </span>
+    <a class="bg-light m2m-link text-uppercase p-1" href="/projects/"><span class="p-category">{% unless page.type == "music" %}{{ page.type }}{% endunless %}{% if page.type == "music" %}{{ page.subtype }}{% endif %}</span></a>
   </div>
-  <h1 class="p-name text-center display-3 lh-sm mt-4">{{ page.title }}</h1>
+  <h1 class="p-name text-center text-md-start display-4 mt-4">{{ page.title }}</h1>
   {%- if page.collection == 'webdesign' %}
-  <p class="p-summary lead pb-3">{{ page.summary }}</p>
+  <p class="p-summary lead">{{ page.summary }}</p>
   {% else %}
-  <p class="p-summary lead pb-3">{{ page.excerpt }}</p>
+  <p class="p-summary lead">{{ page.excerpt }}</p>
   {% endif -%}
-  <div class="post-meta text-center m-auto w-75 my-5">
-    <h3>Skills &amp; tools</h3>
-    <ul class="list-unstyled list-inline ps-0">
-      {%- for skill in page.skillset -%}
-      <li class="list-inline-item mx-1 mx-md-2 lh-lg"><span class="p-category text-uppercase border rounded bg-light p-2 fs-5"><strong>{{ skill }}</strong></span></li>
-      {%- endfor -%}
-    </ul>
+  <div class="post-meta">
+    <p class="mb-0 lh-lg"><strong>Skills &amp; tools</strong>: {% for skill in page.skillset -%}<span class="p-category text-uppercase bg-light fs-5 p-1">{{ skill | prepend: '#'}}</span>{% unless forloop.last %}, {% endunless %} {%- endfor -%}</p>
     <span class="visually-hidden">
       {% include hcard-post.html %}
     </span>

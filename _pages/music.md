@@ -21,5 +21,5 @@ permalink: '/music/'
   </div>
 </section>
 
-{: .text-center .fs-2 }
+{: .text-center .fs-4 }
 💿 [Follow my music on **Bandcamp** ↗︎](https://music.minutestomidnight.co.uk)

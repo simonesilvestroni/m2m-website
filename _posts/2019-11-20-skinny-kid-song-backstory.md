@@ -65,7 +65,7 @@ _Skinny Kid_ was the first piece that I turned into a proper song when I refacto
 > 
 > <cite>— [Indie Buddie](https://www.indiebuddie.com/minutes-to-midnight-skinny-kid-video-premiere/)</cite>
 
-{: .text-center .fs-2 .my-5 .py-3 }
+{: .text-center .fs-4 .my-5 .py-3 }
 📖 [Read the **album analysis** ↗︎](/music/after-1989/)
 
 ## Credits

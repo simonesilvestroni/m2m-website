@@ -30,5 +30,5 @@ excerpt: 'Another stunning track by Gerald Duchene, where I produced one of my m
 
 <p class="detached"><mark class="m2m-highlight small"><strong>Released</strong> May 14, 2020</mark></p>
 
-{: .text-center .fs-2 .my-5 .py-3 }
+{: .text-center .fs-4 .my-5 .py-3 }
 📖 [Read the **project analysis** ↗︎](/projects/sound-design/producing-bass-remotely/)

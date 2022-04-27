@@ -108,7 +108,11 @@ h4 {
     }
   }
 }
-.nav-secondary {
+.nav-main-sub {
+  border-bottom: 2px solid $link-l-30;
+  padding-bottom: 12px;
+}
+.nav-footer {
   font-size: 1rem;
   a {
     display: inline-block;
@@ -166,17 +170,15 @@ p {
   hyphens: auto;
   // Lead paragraphs
   &.lead {
-    @extend %m2m-serif;
     font-size: rfs-fluid-value(26px);
     line-height: 1.3 !important;
-    // text-indent: 0;
     text-align: left !important;
     margin: $spacer*2 0 !important;
   }
 }
-em {
-  @extend %m2m-serif;
-}
+// em {
+//   @extend %m2m-serif;
+// }
 code {
   background-color: $white;
   padding: $spacer*0.1;
@@ -319,7 +321,7 @@ cite {
 // Default entry font size
 %m2m-entry-fs,
 .m2m-entry-fs {
-  font-size: rfs-fluid-value(24px);
+  font-size: rfs-fluid-value(21px);
 }
 .m2m-entry {
   // entry headings
@@ -554,7 +556,7 @@ hr {
 // ------------------------------------------------ //
 
 .table {
-  font-size: rfs-fluid-value(22px);
+  font-size: rfs-fluid-value(21px);
 }
 .m2m-table-meta {
   background: var(--bs-table-striped-bg);

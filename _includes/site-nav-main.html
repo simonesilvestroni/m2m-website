@@ -3,10 +3,10 @@
   Main navigation
   -------------------------*
 {%- endcomment -%}
-<ul class="nav nav-main justify-content-center py-3" aria-label="Navigation">
-  {% for item in site.data.nav-site -%}
-  <li class="nav-item pb-2">
-    <a class="m2m-link fs-5 m2m-transition-opacity-03s px-3{% if page.url contains item.link %} m2m-current{% endif %}" href="{{ item.link }}" title="{{ item.desc }}">{{ item.name }}</a>
+<ul class="nav nav-main py-3" aria-label="Navigation">
+  {% for item in site.data.nav-main -%}
+  <li class="nav-item pb-2 mx-2">
+    <a class="m2m-link fs-4 m2m-transition-opacity-03s{% if page.url contains item.link %} m2m-current{% endif %}" href="{{ item.link }}" title="{{ item.desc }}">{{ item.name }}</a>
   </li>
   {% endfor -%}
 </ul>

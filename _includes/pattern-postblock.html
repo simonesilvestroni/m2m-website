@@ -15,7 +15,7 @@
   {%- endif -%}
   <p class="fs-5 mb-3">
     <span class="visually-hidden">By <span class="p-author h-card">Simone Silvestroni</span></span>
-    <span class="m2m-font-micro pe-1">🗓</span> <time class="dt-published m2m-font-micro" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time>
+    <time class="dt-published m2m-font-micro" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time>
   </p>
   <div class="e-content">
     <p class="p-summary fs-4 text-start mt-2">{{ post.excerpt | markdownify | strip_html }}</p>

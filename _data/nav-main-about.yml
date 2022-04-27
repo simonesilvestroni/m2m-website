@@ -1,0 +1,15 @@
+- name: Who I am
+  link: /about/
+  desc: ''
+- name: Resume
+  link: /resume/
+  desc: ''
+- name: Projects
+  link: /projects/
+  desc: ''
+- name: Music
+  link: /music/
+  desc: ''
+- name: Equipment
+  link: /uses/
+  desc: ''

@@ -9,32 +9,20 @@ layout: default
 <article class="m2m-entry my-5">
   <div class="h-entry">
     {%- for category in categories -%}
-    <div class="m2m-label text-center pt-2">
-      <span class="fs-6 border bg-light rounded p-1">Category: <a class="m2m-link text-uppercase fw-bold" href="/category/{{ category | slugify | append: '/' }}"><span class="p-category">{{ category | upcase | replace:"-"," " }}</span></a></span>
+    <div class="m2m-label text-center text-md-start pt-2">
+      <span>Category: </span>
+      <a class="bg-light m2m-link text-uppercase p-1" href="/category/{{ category | slugify | append: '/' }}"><span class="p-category">{{ category | upcase | replace:"-"," " }}</span></a>
     </div>
     {%- endfor -%}
-    <h1 class="text-center display-3 mt-4">{{ page.title }}</h1>
-    <p class="p-name lead pt-3">
+    <h1 class="text-center text-md-start display-4 mt-4">{{ page.title }}</h1>
+    <p class="p-name lead">
       {{ page.excerpt }}
       {%- if page.mention == true %}
       <span>— This post is {% if page.mentionType == 'like' %} 🧡 <strong class="ps-1">a like of</strong> {% elsif page.mentionType == 'repost' %} 🔄 <strong class="ps-1">a repost of</strong> {% elsif page.mentionType == 'reply' %} ↪️ <strong class="ps-1"> in reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></span>
       {% endif -%}
     </p>
-    <div class="post-meta text-center m-auto w-75 my-5{% if page.type == 'note' %} visually-hidden{% endif %}">
-      <div class="py-1">
-        <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><span class="pe-1">🗓</span> {{ page.date | date: "%-d %B %Y" }}</time>        
-      </div>
-      {% unless page.type == 'note' %}
-      <div class="pb-3">
-        <h3 class="text-uppercase">Tags</h3>
-        <ul class="list-unstyled list-inline ps-0">
-          {%- for tag in page.tags -%}
-          <li class="list-inline-item my-0 mx-1 mx-md-2">
-            <a class="p-category m2m-link fs-6" href="/tag/{{ tag | slugify | append: '/' }}"><span class="rounded bg-light py-1 px-2">{{ tag | upcase | prepend: '#' }}</a></span>{%- endfor -%}
-          </li>
-        </ul>
-      </div>
-      {% endunless %}
+    <div class="post-meta my-4">
+      <p class="fs-5"><span>🕚 </span><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time></p>
       <span class="visually-hidden">
         {% include hcard-post.html %}
       </span>
@@ -42,6 +30,9 @@ layout: default
     <div class="e-content my-5">
       {{ content }}
     </div>
+    <span class="pe-2">Tags: </span>
+    {%- for tag in page.tags -%}
+    <a class="p-category m2m-link fs-5" href="/tag/{{ tag | slugify | append: '/' }}"><span class="initialism">{{ tag | upcase | prepend: '#' }}</span></a>{% unless forloop.last %}<span class="pe-1">,</span> {% endunless %}{%- endfor -%}
   </div>
   {%- include pattern-relatedposts.html -%}
   {%- include pattern-responses.html -%}

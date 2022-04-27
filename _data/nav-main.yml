@@ -1,0 +1,12 @@
+- name: About
+  link: /about/
+  desc: 'Resume, projects I worked on, my music and the equipment I use'
+- name: Blog
+  link: /blog/
+  desc: 'Articles, notes, interviews, press releases'
+- name: Contacts
+  link: /contact/
+  desc: 'Hire me, get in touch or subscribe to the newsletter'
+- name: 🔎
+  link: /search/
+  desc: 'Search through posts, pages and archives'

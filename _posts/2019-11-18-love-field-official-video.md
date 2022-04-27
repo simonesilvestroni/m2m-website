@@ -23,7 +23,7 @@ excerpt: 'Cheering crowds greet the President at Dallas airport. As the motorcad
 
 {% include pattern-video.html id="oTR5ZJQdRXM" %}
 
-{: .text-center .fs-2 .my-5 .py-3 }
+{: .text-center .fs-4 .my-5 .py-3 }
 📖 [Read the **album analysis** ↗︎](/music/after-1989/)
 
 ## Credits

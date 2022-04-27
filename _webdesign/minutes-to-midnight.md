@@ -98,7 +98,7 @@ A basic Jekyll-based website has a simple directory tree. In my case (I'm omitti
 ```
 . 
 ├── 📂 _data
-│    ├── 📄 nav-site.yml
+│    ├── 📄 nav-main.yml
 │    ├── 📄 nav-social.yml
 │    └── 📄 <etc>
 ├── 📂 _drafts
