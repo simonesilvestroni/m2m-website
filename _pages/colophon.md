@@ -27,13 +27,13 @@ Developed from scratch using:
 ## Performance
 
 <div class="table-responsive">
-  <table class="table table-borderless table-sm">
-    <thead>
+  <table class="table table-sm">
+    <thead class="table-light">
       <tr>
-        <th scope="col" class="align-top text-center fw-bold"><kbd>Markup</kbd></th>
-        <th scope="col" class="align-top text-center fw-bold"><kbd>Google score</kbd></th>
-        <th scope="col" class="align-top text-center fw-bold"><kbd>Speed index</kbd></th>
-        <th scope="col" class="align-top text-center fw-bold"><kbd>Page weight</kbd></th>
+        <th scope="col" class="align-top text-center">Markup</th>
+        <th scope="col" class="align-top text-center">Google score</th>
+        <th scope="col" class="align-top text-center">Speed index</th>
+        <th scope="col" class="align-top text-center">Page weight</th>
       </tr>
     </thead>
     <tbody>
