@@ -98,12 +98,6 @@ $m2m-bg-colors: (
   ),
 );
 
-// Print all the utility classes
-.m2m {
-  @include m2m-color($m2m-bg-colors, 'background-color', $separator: '-');
-  @include m2m-color($m2m-colors, 'color', $separator: '-');
-}
-
 
 // ------------------------------------------------ \\
 // $COLOR_VARS
@@ -165,3 +159,12 @@ $link-d-60: shade-color($link, 60%);
 $link-d-70: shade-color($link, 70%);
 $link-d-80: shade-color($link, 80%);
 $link-d-90: shade-color($link, 90%);
+
+// Print utility classes
+.m2m {
+  @include m2m-color($m2m-bg-colors, 'background-color', $separator: '-');
+  @include m2m-color($m2m-colors, 'color', $separator: '-');
+}
+.m2m-bg-alpha {
+  background-color: rgba($background-l-60, .25);
+}
