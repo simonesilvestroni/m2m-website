@@ -1,15 +1,15 @@
 - name: Who I am
   link: /about/
-  desc: ''
+  desc: 'Bits about my story'
 - name: Resume
   link: /resume/
-  desc: ''
+  desc: 'Essential curriculum with publications and endorsements'
 - name: Projects
   link: /projects/
-  desc: ''
+  desc: 'A selection of my recent work'
 - name: Music
   link: /music/
-  desc: ''
+  desc: 'Published original music'
 - name: Equipment
   link: /uses/
-  desc: ''
+  desc: 'Hardware and software I use'
