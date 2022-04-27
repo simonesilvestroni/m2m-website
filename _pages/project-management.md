@@ -11,7 +11,7 @@ permalink: '/projects/project-management/'
   <span class="text-uppercase fs-4"><mark class="m2m-highlight fw-bold px-3"><strong>Free eBook</strong></mark></span>
 </div>
 
-{: .text-center .mb-5 }
+{: .text-center .display-3 .mb-5 }
 # {{ page.title }}
 
 {% include pattern-newsletter-download.html %}
