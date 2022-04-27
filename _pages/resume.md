@@ -114,7 +114,7 @@ Team leader and sound designer for the title _Ruff Trigger: The Vanocore Conspir
 I built the internal sound studio from scratch, managing three computers in audio/MIDI sync. In 2002, I attended the Game Developers Conference in San Jose, CA and joined the Game Audio Network Guild as a Bronze Member on the day of its foundation.
 
 {: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
-#### Case study
+#### Project
 
 {: .list-unstyled .ps-0 .mb-5 .pb-5 }
 - 🎮 [Ruff Trigger console game](/projects/sound-design/console-game-ruff-trigger/)
