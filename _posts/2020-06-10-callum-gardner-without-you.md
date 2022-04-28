@@ -14,17 +14,13 @@ excerpt: 'Callum Gardner’s new single, <em>Without You</em>, is out now. Full 
 ---
 Like the previous singles, [_Hang Loose_](/blog/callum-gardner-hang-loose/) and [_Wriggle A Little_](/blog/callum-gardner-wriggle-a-little/), I recorded and produced the single, along with playing my Fender Jazz [fretless bass](https://soundbetter.com/profiles/206552-minutes-to-midnight).
 
-## On Bandcamp
-
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=3806119580/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/without-you">Without You by Callum Gardner</a></iframe>' %}
-
-## On Spotify
-
-{% include pattern-spotify.html id="77TvW6kCTo3NlFlPsDWBMx" height="80" %}
-
 ## Video
 
 {% include pattern-video.html id="YBhoeAqk2no" %}
+
+## Elsewhere
+
+The song is also available on [Bandcamp](https://callumgardner.bandcamp.com/track/without-you) and [Spotify](https://open.spotify.com/track/77TvW6kCTo3NlFlPsDWBMx).
 
 ## Credits
 

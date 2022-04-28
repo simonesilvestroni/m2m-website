@@ -12,17 +12,13 @@ tags:
 description: "London-based singer-songwriter and multi-instrumentalist Callum Gardner’s new single, 'Hang Loose', is out now. Produced by Minutes to Midnight."
 excerpt: 'London-based singer-songwriter Callum Gardner’s new single, ‘Hang Loose’, is out now. Produced by Minutes to Midnight.'
 ---
-## Release
-
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=1148436830/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/hang-loose">Hang Loose by Callum Gardner</a></iframe>' %}
-
-## Official video
+## Video
 
 {% include pattern-video.html id="OeDQvTX9jiA" %}
 
----
+## Elsewhere
 
-🎥 Watch a teaser of _Hang Loose_ [performed live at the Strongroom](https://youtu.be/VqOZbBRU-H8), in London.
+The song is also available on [Bandcamp](https://callumgardner.bandcamp.com/track/hang-loose) and [Spotify](https://open.spotify.com/track/4fjsetRyxT355DTvrmYNqm?si=60f237f722114c47). Watch a video teaser of _Hang Loose_ [performed live at the Strongroom](https://youtu.be/VqOZbBRU-H8), in London.
 
 ## Production notes
 
