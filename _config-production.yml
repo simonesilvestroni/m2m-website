@@ -6,7 +6,6 @@ exclude:
   - package-lock.json
   - assets/css/m2m.css
   - assets/css/m2m.css.map
-  - assets/js/dom-m2m.js
   - assets/js/fetch.js
   - assets/js/search.js
   - assets/js/webmention.js
