@@ -9,11 +9,6 @@
   </div>
 </main>
 {% include site-footer.html %}
-{%- if page.is_post %}{%- if jekyll.environment == "production" %}
-<script src="/assets/js/dom-m2m.min.js"></script>
-{% else %}
-<script src="/assets/js/dom-m2m.js"></script>
-{% endif -%}{% endif -%}
 {%- if page.url contains '/search' or page.url contains '404.html' -%}
 {%- if jekyll.environment == "production" %}
 <script src="/assets/js/search-m2m.min.js"></script>
@@ -29,7 +24,7 @@
 {%- else -%}
 <script src="/assets/js/webmention.js" async></script>
 {% endif -%}
-<noscript>I use client-side JavaScript to render the webmentions. If you do not wish to enable JavaScript, that's OK, but you won't see any webmention I've received — sorry.</noscript>
+<noscript>I use client-side JavaScript to render the webmentions. If you do not wish to enable JavaScript that's OK, but you won't see any webmention I've received — sorry.</noscript>
 {% endif -%}
 </body>
 </html>
