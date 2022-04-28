@@ -66,9 +66,12 @@ $link-hover-color: tint-color($link-color, $link-shade-percentage);
 // Navigation
 $nav-link-color: $link-color;
 $nav-link-hover-color: $link-d-40;
-$nav-link-font-weight: bold;
-$nav-link-padding-x: 0.5rem;
-$nav-link-padding-x: 0;
+// $nav-link-font-weight: bold;
+$nav-link-padding-x: 1.25rem;
+$nav-link-padding-y: 0.1rem;
+$nav-pills-border-radius: $border-radius;
+$nav-pills-link-active-color: $white;
+$nav-pills-link-active-bg: $link-d-30;
 $list-group-bg: transparent;
 
 // Image gallery
