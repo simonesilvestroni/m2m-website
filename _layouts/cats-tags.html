@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="h-feed m2m-entry">
   <h1 class="p-name display-3 text-center text-md-start my-5 pb-3">{%- if page.type == "tag" -%}Tag: {% else -%}Category: {% endif %}<span class="initialism">{{ page.title | upcase }}</span></h1>
-  <section class="h-feed blogroll" id="m2m-content">
+  <section class="h-feed" id="m2m-content">
   {% for post in page.posts %}
     {% include pattern-postblock.html %}
   {% endfor %}
