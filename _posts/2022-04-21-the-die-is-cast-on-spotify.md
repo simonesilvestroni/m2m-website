@@ -15,7 +15,7 @@ tags:
   - antiquity
   - dan ecclestone
 description: 'The EP ‘The Die is Cast’ has been published on Spotify, Apple Music and YouTube Music today. Introducing the topics of my next concept album.'
-excerpt: 'My EP <em>The Die Is Cast</em>, produced with <a href="/tag/antiquity/">Antiquity</a> and published last year on Bandcamp, is also on Spotify, Apple Music and YouTube Music.'
+excerpt: 'My EP <em>The Die Is Cast</em>, produced with <a href="/blog/tag/antiquity/">Antiquity</a> and published last year on Bandcamp, is also on Spotify, Apple Music and YouTube Music.'
 mention: true
 mentionReplyUrl: 'https://minutestomidnight.co.uk/music/the-die-is-cast/'
 mentionReplyTitle: '<em>The Die Is Cast</em>'

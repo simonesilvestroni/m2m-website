@@ -11,7 +11,7 @@ layout: default
     {%- for category in categories -%}
     <div class="m2m-label text-center text-md-start pt-2">
       <span>Category: </span>
-      <a class="bg-light m2m-link text-uppercase p-1" href="/category/{{ category | slugify | append: '/' }}"><span class="p-category">{{ category | upcase | replace:"-"," " }}</span></a>
+      <a class="bg-light m2m-link text-uppercase p-1" href="/blog/category/{{ category | slugify | append: '/' }}"><span class="p-category">{{ category | upcase | replace:"-"," " }}</span></a>
     </div>
     {%- endfor -%}
     <h1 class="text-center text-md-start display-4 mt-4">{{ page.title }}</h1>
@@ -32,9 +32,8 @@ layout: default
     </div>
     <span class="pe-2">Tags: </span>
     {%- for tag in page.tags -%}
-    <a class="p-category m2m-link fs-5" href="/tag/{{ tag | slugify | append: '/' }}"><span class="initialism">{{ tag | upcase | prepend: '#' }}</span></a>{% unless forloop.last %}<span class="pe-1">,</span> {% endunless %}{%- endfor -%}
+    <a class="p-category m2m-link fs-5" href="/blog/tag/{{ tag | slugify | append: '/' }}"><span class="initialism">{{ tag | upcase | prepend: '#' }}</span></a>{% unless forloop.last %}<span class="pe-1">,</span> {% endunless %}{%- endfor -%}
   </div>
-  {%- include pattern-relatedposts.html -%}
   {%- include pattern-responses.html -%}
 </article>
 {%- include post-navigation.html -%}

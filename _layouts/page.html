@@ -3,11 +3,36 @@ layout: default
 ---
 <article class="h-entry my-5 m2m-entry">
   <h1 class="p-name display-3 text-center text-md-start mt-4 mt-md-0">{{ page.title }}</h1>
-  {% if page.path == '_pages/about.md' or page.path == '_pages/resume.md' or page.path == '_pages/projects.md' or page.path == '_pages/music.md' or page.path == '_pages/uses.md' %}
-  {% include site-nav-main-about.html %}
-  {% elsif page.path == 'blog/index.html' or page.path == '_pages/archive.html' or page.path == '_pages/blogroll.md' or page.path == '_pages/popular.html' %}
-  {% include site-nav-main-blog.html %}
-  {% endif %}
+  {% for item in site.data.nav-main.menu -%}
+    {% capture subnav-about %}
+      {% if item.link == '/about/' %}
+        {% for entry in item.sub %}
+        {{ entry.link }}
+        {% endfor %}
+      {% endif %}
+    {% endcapture %}
+    {% capture subnav-blog %}
+      {% if item.link == '/blog/' %}
+        {% for entry in item.sub %}
+        {{ entry.link }}
+        {% endfor %}
+      {% endif %}
+    {% endcapture %}
+    {% capture subnav-contacts %}
+      {% if item.link == '/contact/' %}
+        {% for entry in item.sub %}
+        {{ entry.link }}
+        {% endfor %}
+      {% endif %}
+    {% endcapture %}
+    {% if subnav-about contains page.url %}
+      {% include site-nav-main-about.html %}
+    {% elsif subnav-blog contains page.url %}
+      {% include site-nav-main-blog.html %}
+    {% elsif subnav-contacts contains page.url %}
+      {% include site-nav-main-contacts.html %}
+    {% endif %}
+  {% endfor %}
   {% if page.excerpt %}
   <p class="p-summary lead">{{ page.excerpt }}</p>
   {% endif %}

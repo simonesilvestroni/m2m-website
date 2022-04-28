@@ -3,10 +3,42 @@
   Main navigation
   -------------------------*
 {%- endcomment -%}
-<ul class="nav nav-main py-3" aria-label="Navigation">
-  {% for item in site.data.nav-main -%}
-  <li class="nav-item pb-2 mx-2">
-    <a class="m2m-link fs-4 m2m-transition-opacity-03s{% if page.url contains item.link %} m2m-current{% endif %}" href="{{ item.link }}" title="{{ item.desc }}">{{ item.name }}</a>
+<ul class="nav nav-main nav-pills py-3" aria-label="Navigation">
+{% for item in site.data.nav-main.menu -%}
+  {% capture subnav-about %}
+    {% if item.link == '/about/' %}
+      {% for entry in item.sub %}
+      {{ entry.link }}
+      {% endfor %}
+    {% endif %}
+  {% endcapture %}
+  {% capture subnav-blog %}
+    {% if item.link == '/blog/' %}
+      {% for entry in item.sub %}
+      {{ entry.link }}
+      {% endfor %}
+    {% endif %}
+  {% endcapture %}
+  {% capture subnav-contacts %}
+    {% if item.link == '/contact/' %}
+      {% for entry in item.sub %}
+      {{ entry.link }}
+      {% endfor %}
+    {% endif %}
+  {% endcapture %}
+  {% comment %}
+  *---------------------------------
+  Fetching the first part of the URL
+  ---------------------------------*
+  {% endcomment %}
+  {% assign init-url = page.url | replace:'/',' ' | truncatewords: 1 | remove:'...' %}
+  {% comment %}
+  *---------------------------------
+  Generating the navigation
+  ---------------------------------*
+  {% endcomment %}
+  <li class="nav-item pb-2">
+    <a class="nav-link fs-4 m2m-transition-opacity-03s{% unless page.url == '/' %}{% if page.url contains item.link or subnav-about contains page.url or subnav-about contains init-url or subnav-blog contains page.url or subnav-contacts contains page.url %} active{% endif %}{% endunless %}" href="{{ item.link }}" title="{{ item.desc }}">{{ item.name }}</a>
   </li>
-  {% endfor -%}
+{% endfor -%}
 </ul>

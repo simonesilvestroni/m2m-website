@@ -3,8 +3,8 @@ layout: page
 title: Archive
 date: '2021-11-08 10:27:47'
 last_modified_at: '2021-11-08 10:27:41'
-description: 'Browse the full archive of selected case studies for sound and web design, blog posts by year, categories and tags.'
-excerpt: 'Browse the full archive of selected case studies, posts by year, categories and tags.'
+description: 'Browse the full archive of selected projects, blog posts by year, categories and tags.'
+excerpt: 'Browse the full archive of selected projects, posts by year, categories and tags.'
 toc: true
 permalink: '/archive/'
 ---
@@ -42,7 +42,7 @@ permalink: '/archive/'
   {%- assign sorted_cats = site.categories | sort -%}
   {%- for category in sorted_cats -%}
   {%- assign c = category | first -%}
-  <a class="p-name u-url m2m-link" href="/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><span class="initialism p-1">{{ c | upcase | prepend: '#' }}</span></a>{% unless forloop.last %}, {% endunless %}
+  <a class="p-name u-url m2m-link" href="/blog/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><span class="initialism p-1">{{ c | upcase | prepend: '#' }}</span></a>{% unless forloop.last %}, {% endunless %}
   {%- endfor -%}
   </p>
   {%- for post in site.posts -%}
@@ -75,7 +75,7 @@ permalink: '/archive/'
   {%- for tag in sorted_tags -%}
   {%- assign t = tag | first -%}
     <li class="list-inline-item m-1">
-      <a class="p-name u-url m2m-link fs-5" href="/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><span class="rounded bg-light py-1 px-2">{{ t | upcase | prepend: '#' }}</span></a>
+      <a class="p-name u-url m2m-link fs-5" href="/blog/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><span class="rounded bg-light py-1 px-2">{{ t | upcase | prepend: '#' }}</span></a>
     </li>
   {%- endfor -%}
   </ol>

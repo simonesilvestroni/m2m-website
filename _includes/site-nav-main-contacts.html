@@ -1,11 +1,11 @@
 {%- comment -%}
   *-------------------------
-  Blog sub-navigation
+  Contacts sub-navigation
   -------------------------*
 {%- endcomment -%}
 <nav class="nav nav-main-sub ps-0 justify-content-center justify-content-md-start" aria-label="Navigation">
 {% for item in site.data.nav-main.menu %}
-  {% if item.link == '/blog/' %}
+  {% if item.link == '/contact/' %}
   {% for entry in item.sub %}
   <a class="m2m-link m2m-transition-opacity-03s{% if page.url == entry.link %} m2m-current{% endif %}" href="{{ entry.link }}" title="{{ entry.desc }}"><strong>{{ entry.name }}</strong></a>
   {% endfor %}

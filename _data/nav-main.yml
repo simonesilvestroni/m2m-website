@@ -1,12 +1,52 @@
-- name: About
-  link: /about/
-  desc: 'Resume, projects I worked on, my music and the equipment I use'
-- name: Blog
-  link: /blog/
-  desc: 'Articles, notes, interviews, press releases'
-- name: Contacts
-  link: /contact/
-  desc: 'Hire me, get in touch or subscribe to the newsletter'
-- name: 🔎
-  link: /search/
-  desc: 'Search through posts, pages and archives'
+menu:
+  - name: About
+    link: /about/
+    desc: 'Resume, projects I worked on, my music and the equipment I use'
+    sub:
+      - name: Who I am
+        link: /about/
+        desc: 'Bits about my story'
+      - name: Resume
+        link: /resume/
+        desc: 'Essential curriculum with publications and endorsements'
+      - name: Projects
+        link: /projects/
+        desc: 'A selection of my recent work'
+      - name: Music
+        link: /music/
+        desc: 'Published original music'
+      - name: Equipment
+        link: /uses/
+        desc: 'Hardware and software I use'
+  - name: Blog
+    link: /blog/
+    desc: 'Articles, interviews and press releases'
+    sub:
+      - name: All posts
+        link: /blog/
+        desc: 'Blog posts'
+      - name: Popular
+        link: /blog/popular/
+        desc: 'The 4 most popular posts'
+      - name: Archive
+        link: /archive/
+        desc: 'Browse the projects, all the posts by year and the taxonomy'
+      - name: Blogroll
+        link: /blogroll/
+        desc: 'A list of personal and professional websites that I follow'
+      - name: <svg width="24" height="24" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 19C12 14.8 9.2 12 5 12" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/><path d="M19 19C19 10.6 13.4 5 5 5" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/><path d="M5 19.01L5.01 18.9989" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/></svg> RSS Feed
+        link: /feed.xml
+        desc: 'Follow my blog through the RSS feed'
+  - name: Contacts
+    link: /contact/
+    desc: 'Hire me, get in touch or subscribe to the newsletter'
+    sub:
+      - name: Get in touch
+        link: /contact/
+        desc: 'Hire me or get in touch'
+      - name: Newsletter
+        link: /newsletter/
+        desc: 'My irregular newsletter'
+  - name: 🔎
+    link: /search/
+    desc: 'Search throughout the website'

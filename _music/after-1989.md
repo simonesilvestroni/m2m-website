@@ -63,7 +63,7 @@ The renewed project touched the same story but **changed the perspective**. No t
 
 ### The line-up
 
-To efficiently convey the new storyline, my first decision was to abandon the idea of an instrumental album. I wanted songs, as in _music and lyrics_, therefore finding a lead singer was paramount. Since [Rachel Goodman](https://www.youtube.com/channel/UCGztQW1g4fPy1Bz1nmiIpJw) couldn't be available for a full album, I met [Dan Ecclestone](/blog/ember-rev-premonition-and-ruin/) in Cambridge and agreed on working together on our respective albums. I then involved [Gerald Duchene](/tag/gerald-duchene/) to help with guitars and saxophone, [Andy Bonnor](http://www.inyourdreams.fi/) on drums and [Callum Gardner](/tag/callum-gardner/) on acoustic guitar and backing vocals.
+To efficiently convey the new storyline, my first decision was to abandon the idea of an instrumental album. I wanted songs, as in _music and lyrics_, therefore finding a lead singer was paramount. Since [Rachel Goodman](https://www.youtube.com/channel/UCGztQW1g4fPy1Bz1nmiIpJw) couldn't be available for a full album, I met [Dan Ecclestone](/blog/ember-rev-premonition-and-ruin/) in Cambridge and agreed on working together on our respective albums. I then involved [Gerald Duchene](/blog/tag/gerald-duchene/) to help with guitars and saxophone, [Andy Bonnor](http://www.inyourdreams.fi/) on drums and [Callum Gardner](/blog/tag/callum-gardner/) on acoustic guitar and backing vocals.
 
 Even though I initially considered scraping Paolo's contributions, I ended up keeping his amazing work on half of the songs, including several of his arrangements, a few guitar solos and his **beautiful viola**.
 

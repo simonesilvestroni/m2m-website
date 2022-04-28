@@ -124,8 +124,8 @@ jekyll-archives:
     - tags
   layout: cats-tags
   permalinks:
-    category: '/category/:name/'
-    tag: '/tag/:name/'
+    category: '/blog/category/:name/'
+    tag: '/blog/tag/:name/'
   slug_mode: latin
 
 excerpt_separator: <!--more-->

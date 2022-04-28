@@ -1,12 +1,14 @@
 {%- comment -%}
   *-------------------------
-  Main navigation
+  About sub-navigation
   -------------------------*
 {%- endcomment -%}
-<ul class="nav nav-main-sub ps-0 pb-4 justify-content-center justify-content-md-start" aria-label="Navigation">
-  {% for item in site.data.nav-main-about -%}
-  <li class="nav-item me-4">
-    <a class="m2m-link fs-5 m2m-transition-opacity-03s{% if page.url contains item.link %} m2m-current{% endif %}" href="{{ item.link }}" title="{{ item.desc }}"><strong>{{ item.name }}</strong></a>
-  </li>
-  {% endfor -%}
-</ul>
+<nav class="nav nav-main-sub ps-0 justify-content-center justify-content-md-start" aria-label="Navigation">
+{% for item in site.data.nav-main.menu %}
+  {% if item.link == '/about/' %}
+  {% for entry in item.sub %}
+  <a class="m2m-link m2m-transition-opacity-03s{% if page.url == entry.link %} m2m-current{% endif %}" href="{{ entry.link }}" title="{{ entry.desc }}"><strong>{{ entry.name }}</strong></a>
+  {% endfor %}
+{% endif %}
+{% endfor %}
+</nav>
