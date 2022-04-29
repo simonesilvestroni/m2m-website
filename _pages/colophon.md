@@ -17,8 +17,7 @@ Developed from scratch using:
 - [SASS](https://sass-lang.com/)
 - [Bootstrap 5.1](https://getbootstrap.com/)
 - [PostCSS](https://postcss.org/)
-- Vanilla javascript for DOM manipulation and the [search module](https://github.com/daviddarnes/jekyll-search-js)
-- Webmentions javascript by [Fluffy](http://beesbuzz.biz)
+- Vanilla javascript for [search module](https://github.com/daviddarnes/jekyll-search-js) and [webmentions](http://beesbuzz.biz)
 - Table of contents Liquid code by [Vladimir "allejo" Jimenez](https://github.com/allejo/jekyll-toc)
 - [Node](https://nodejs.org/) for building purposes
 - [GitHub](https://github.com/)

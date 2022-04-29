@@ -260,7 +260,17 @@ cite {
   // text-indent: 0;
   margin-top: $spacer*0.5;
 }
-
+// Definition lists
+dl {
+  @extend %m2m-entry-fs;
+}
+dt {
+  font-weight: bold;
+  margin-top: $spacer;
+}
+dd {
+  padding-left: $spacer*2;
+}
 
 // ------------------------------------------------ \\
 // $LINKS

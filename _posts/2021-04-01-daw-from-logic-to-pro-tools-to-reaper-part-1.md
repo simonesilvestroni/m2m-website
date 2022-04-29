@@ -17,14 +17,8 @@ tags:
   - game audio
   - popular
 description: "In 12 months I've managed to revolutionize my workflow, twice. Here's part 1 of how I migrated DAW, from Logic to Pro Tools, and finally to REAPER."
-excerpt: "In the past twelve months I’ve managed to revolutionize my music software workflow, twice. Here’s part 1 of a brief account of my switch."
+excerpt: "In the past twelve months I’ve managed to revolutionize my music software workflow, twice. In this series, I describe the 8 major benefits that REAPER brought to my music production workflow, and how they pushed me toward a full switch from Pro Tools."
 ---
-<div class="mx-auto">
-  <p class="d-inline-block alert alert-background-d-10" role="alert">
-    <kbd class="fw-bold">TL;DR</kbd> — In this series, I describe the 8 major <strong>benefits that REAPER brought to my music production workflow</strong>, and how they pushed me toward a full switch from Pro Tools.
-  </p>
-</div>
-
 ##### Part 1
 
 1.  Cost
@@ -42,9 +36,9 @@ excerpt: "In the past twelve months I’ve managed to revolutionize my music sof
 7.  Open architecture & development cycle
 8.  Efficiency
 
-<div class="alert alert-background-d-10 my-5" role="alert">
-  <p><kbd><strong>Disclaimer</strong></kbd> — This article reflects my own personal opinions, which are related to how I use a DAW. It’s not meant to judge any of these software. As a matter of fact, I still own and occasionally use both Logic and Pro Tools for their own peculiarities. This is <strong>not a tutorial</strong>.</p>
-</div>
+{: .alert .alert-background-d-10 .my-5 }
+{: role="alert" }
+**Disclaimer** — This article reflects my own personal opinions, which are related to how I use a DAW. It’s not meant to judge any of these software. As a matter of fact, I still own and occasionally use both Logic and Pro Tools for their own peculiarities. This is not a tutorial.
 
 ## Logic
 

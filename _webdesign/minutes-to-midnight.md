@@ -472,7 +472,7 @@ The above process brings my CSS from `337 KB` (including the `.css.map` file) do
 
 ### Javascript
 
-I don't compile nor minify Javascript using Node because I only use it for the search engine and a bit of vanilla DOM manipulation. I never need to edit it, therefore I simply manually minify the files.
+I don't compile nor minify Javascript using Node because I only use it for the search engine, which I never need to edit it.
 
 ## Performance, accessibility and sustainability
 

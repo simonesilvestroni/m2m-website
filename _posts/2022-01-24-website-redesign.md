@@ -65,7 +65,7 @@ The homepage is now `166 kb` uncompressed and loads in **less than half a second
 
 ### Accessibility
 
-Besides being [fully validated](/colophon/#accessibility), the site doesn't have Javascript doing things that can be achieved otherwise. I don't run essential functionality that's exclusively dependent on it. The [search engine](/search/) has an HTML alternative shown directly in the page and the other scripts are doing webmentions and trivial DOM manipulation in the less possible expensive way. The website is fully accessible with Javascript turned off.
+Besides being [fully validated](/colophon/#accessibility), the site doesn't have Javascript doing things that can be achieved otherwise. I don't run essential functionality that's exclusively dependent on it. The [search engine](/search/) has an HTML alternative shown directly in the page and the other script is doing webmentions. The website is fully accessible with Javascript turned off.
 
 ### Tracking and surveillance
 
