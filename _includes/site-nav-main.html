@@ -3,7 +3,7 @@
   Main navigation
   -------------------------*
 {%- endcomment -%}
-<ul class="nav nav-main nav-pills py-3" aria-label="Navigation">
+<ul class="nav nav-main nav-pills justify-content-center align-items-center mb-3 mb-md-0" aria-label="Navigation">
 {% for item in site.data.nav-main.menu -%}
   {% capture subnav-about %}
     {% if item.link == '/about/' %}
@@ -38,7 +38,7 @@
   ---------------------------------*
   {% endcomment %}
   <li class="nav-item pb-2">
-    <a class="nav-link fs-4 m2m-transition-opacity-03s{% unless page.url == '/' %}{% if page.url contains item.link or subnav-about contains page.url or subnav-about contains init-url or subnav-blog contains page.url or subnav-contacts contains page.url %} active{% endif %}{% endunless %}" href="{{ item.link }}" title="{{ item.desc }}">{{ item.name }}</a>
+    <a class="nav-link fs-5 m2m-transition-opacity-03s{% unless page.url == '/' %}{% if page.url contains item.link or subnav-about contains page.url or subnav-about contains init-url or subnav-blog contains page.url or subnav-contacts contains page.url %} active{% endif %}{% endunless %}" href="{{ item.link }}" title="{{ item.desc }}">{{ item.name }}</a>
   </li>
 {% endfor -%}
 </ul>
