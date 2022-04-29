@@ -31,7 +31,7 @@ last_modified_at: 2022-04-26 16:56:31
       {% endfor -%}
     </div>
     <!-- Latest project -->
-    <div class="col-12 col-md-4 pb-5">
+    <div class="col-12 col-md-4">
       {%- assign sounddesign = site.sounddesign -%}
       {%- assign webdesign = site.webdesign -%}
       {%- assign projects = sounddesign | concat: webdesign -%}
@@ -40,7 +40,6 @@ last_modified_at: 2022-04-26 16:56:31
       {% for project in sortedprojects limit: 1 %}
       <p class="text-center fs-5"><a class="m2m-link" href="{{ project.url }}" title="Read the case study"><strong>{{ project.title }}</strong></a></p>
       {% endfor %}
-      </ul>
     </div>
     <div class="col-12 col-md-4">
       <h2 class="text-center fs-4"><mark class="m2m-highlight d-inline-block fw-bold initialism px-3 me-1"><strong>Latest music release</strong></mark></h2>

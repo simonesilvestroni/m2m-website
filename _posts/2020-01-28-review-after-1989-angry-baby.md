@@ -25,4 +25,4 @@ Angry Baby has been sharing new music from outstanding independent musicians for
 Thanks so much to Jane and Deb from _Angry Baby_ for this album review. And thanks to [Christopher Carvalho](https://www.youtube.com/channel/UCFYW6EZMLLT0jIi0SJQeUiQ) of Unlock Your Sound for another awesome feature about my album _After 1989_.
 
 {: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read the **album analysis** ↗︎](/music/after-1989/)
+📖 [Read the **album analysis** →](/music/after-1989/)

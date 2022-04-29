@@ -37,7 +37,7 @@ Developed from scratch using:
     </thead>
     <tbody>
       <tr>
-        <td class="text-center fs-1"><a href="https://validator.w3.org/nu/?doc=https://minutestomidnight.co.uk/" target="_blank" rel="noopener">✅</a></td>
+        <td class="text-center fs-1"><a href="https://validator.w3.org/nu/?doc=https://minutestomidnight.co.uk/" target="_blank" rel="noopener">✓ Valid</a></td>
         <td class="text-center fs-1">100</td>
         <td class="text-center fs-1">0.4 sec</td>
         <td class="text-center fs-1">159 kb</td>
@@ -48,9 +48,9 @@ Developed from scratch using:
 
 ## Accessibility
 
-- ✅ **No errors** for 
+- ✓ **No errors** for 
 <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> detected on [WAVE](https://wave.webaim.org/report#/https://minutestomidnight.co.uk/).
-- ✅ **`100`** on [Google Lighthouse](https://web.dev/measure/)
+- ✓ **`100`** on [Google Lighthouse](https://web.dev/measure/)
 
 ## Sustainability
 
@@ -64,10 +64,10 @@ Member of: [![512kb Orange Team](/assets/images/orange-team.svg)](https://512kb.
 
 ## Copyright
 
-The **text content** of this website is [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). It means you are free to share — copy and redistribute the material in any medium or format, adapt — remix, transform, and build upon the material for any purpose, even commercially. You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+The _text content_ of this website is [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). It means you are free to share — copy and redistribute the material in any medium or format, adapt — remix, transform, and build upon the material for any purpose, even commercially. You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
-Everything connected to Minutes to Midnight's **branding and published music** is strictly copyrighted by Simone Silvestroni.
+Everything connected to Minutes to Midnight's _branding and published music_ is strictly copyrighted by Simone Silvestroni.
 
 ## Trademark
 
-Minutes to Midnight is a registered trademark. **Minutes to Midnight**&trade; logo, in all its variants, are use trademarks for the trading name of Simone Silvestroni.
+Minutes to Midnight is a registered trademark. Minutes to Midnight&trade; logo, in all its variants, are use trademarks for the trading name of Simone Silvestroni.

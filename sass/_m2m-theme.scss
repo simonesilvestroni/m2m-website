@@ -602,7 +602,6 @@ hr {
 
 // Default call-to-action
 .btn-m2m-cta {
-  @extend .m2m-fw-black;
   text-decoration: none !important;
   background-color: $link-l-30 !important;
   color: $heading-d-30 !important;

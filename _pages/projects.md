@@ -53,4 +53,4 @@ The second playlist is made of 45 songs produced by me:
 {% include pattern-spotify.html id="6yRM57FJ9JKONDAXaLBAdx" type="playlist" height="230" margin="mt-3" %}
 
 {: .text-center .fs-4 .my-5 .py-5 }
-✍️ [Reach out to **hire me** ↗︎](/contact/)
+✍️ [Reach out to **hire me** →](/contact/)

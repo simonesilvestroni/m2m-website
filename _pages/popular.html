@@ -7,16 +7,16 @@ description: 'The 4 most popular posts, based on a mix of reactions on social me
 excerpt: 'The 4 most popular posts, based on a mix of reactions on social media, private emails and what a few search engines are reporting as search terms.'
 permalink: '/blog/popular/'
 ---
-<section class="h-feed m2m-entry py-3" id="blog-popular-posts">
+<section class="h-feed m2m-entry" id="blog-popular-posts">
   {% assign popular = site.posts | where: "tags", "popular" %}
-  <ul class="h-feed list-unstyled mt-0 ps-0">
+  <ul class="h-feed">
     {%- for post in popular limit:4 -%}
     {% if post %}
     {% assign categories = post.categories %}
     {% else %}
     {% assign categories = page.categories %}
     {% endif %}
-    <li class="mb-3">📄 <a class="p-name u-url m2m-link fs-4" href="{{ post.url }}">{{ post.title }}</a>{%- for category in categories -%}<span class="p-category text-uppercase ps-3"><strong><code>#{{ category | upcase | replace:"-"," " }}</code></strong></span>{% endfor %}</li>
+    <li><a class="p-name u-url m2m-link pe-4" href="{{ post.url }}">{{ post.title }}</a>{%- for category in categories -%}<span class="p-category text-uppercase">🏷&nbsp;<strong>&nbsp;<code>#{{ category | upcase | replace:"-"," " }}</code></strong></span>{% endfor %}</li>
     {%- endfor -%}
   </ul>
 </section>

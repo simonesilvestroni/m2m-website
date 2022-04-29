@@ -5,7 +5,7 @@ date: '2022-04-03'
 last_modified_at: '2022-04-05 16:51:06'
 description: 'My personal blogroll, listing blogs and websites I read. It starts with a curated platform that has no algorithm.'
 excerpt: 'A partial list of websites and blogs I read either through RSS, the Fediverse or both.'
-toc: true
+toc: false
 permalink: '/blogroll/'
 ---
 ## Everything
@@ -41,5 +41,5 @@ permalink: '/blogroll/'
 - [Richard Pierce](https://tettig.com/) — Richard Pierce is an author, broadcaster, and painter from the United Kingdom. His prose is captivating and always incredibly empathetic.
 - [Raymond Hines](https://alongtheray.com) ![new](/assets/images/new.gif) — Ray is a lifelong entrepreneur who began a nomadic life on the road in 2016. He's been living in a tiny camper ever since. In his inspiring blog he shares the literal and figurative journey in all manner of ways: the highs, lows, introspectives, poetry, photographs, and more.
 
-{: .detached .mt-5 .pt-5 }
+{: .detached .mt-5 }
 Last update: <kbd>{{ page.last_modified_at }}</kbd>

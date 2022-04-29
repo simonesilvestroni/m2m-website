@@ -48,4 +48,4 @@ excerpt: '1962. Kennedy announces proof of a build-up of Soviet missiles in Cuba
 
 
 {: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read the **album analysis** ↗︎](/music/after-1989/)
+📖 [Read the **album analysis** →](/music/after-1989/)

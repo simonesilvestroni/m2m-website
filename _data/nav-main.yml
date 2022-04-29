@@ -41,9 +41,12 @@ menu:
     link: /contact/
     desc: 'Hire me, get in touch or subscribe to the newsletter'
     sub:
-      - name: Get in touch
+      - name: Hire me
         link: /contact/
-        desc: 'Hire me or get in touch'
+        desc: 'Hire me for web or sound design tasks'
+      - name: Follow
+        link: /follow/
+        desc: 'Follow me on several online accounts'
       - name: Newsletter
         link: /newsletter/
         desc: 'My irregular newsletter'

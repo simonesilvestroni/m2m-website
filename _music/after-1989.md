@@ -27,7 +27,7 @@ featimage: true
 **Three decades after the fall of the Berlin Wall**, the autobiographical tale of how my grandfather escaped a concentration camp in 1945, while I made the other way round, looking for answers that I could only find in 2017.
 
 {: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read the **full story** ↗︎](/blog/after-1989-full-story/)
+📖 [Read the **full story** →](/blog/after-1989-full-story/)
 
 On [Bandcamp](https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom), the album features:
 
@@ -138,7 +138,7 @@ At the time, I chose **CD Baby** for digital distribution. As a member of PRS an
 > <cite>— [IndieRepublik Berlin](https://indierepublik.com/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/)</cite>
 
 {: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read **all the reviews** ↗︎](/music/after-1989-reviews/)
+📖 [Read **all the reviews** →](/music/after-1989-reviews/)
 
 ## Credits
 

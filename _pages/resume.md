@@ -57,8 +57,8 @@ Full music production, bass tracks, mixing and mastering. Web design and front-e
 
 {: .list-group .list-group-flush .mt-0 .ps-0 }
 - {: .list-group-item .my-0 .ps-0 } 📒 [Efficient Productivity for Music Professionals](/projects/project-management/) (e-Book)
-- {: .list-group-item .my-0 .ps-0 } 📒 [A Trip to Freedom, from Berlin to Berlin](https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e) (article)
-- {: .list-group-item .my-0 .ps-0 } 📒 [Producing bass tracks remotely](https://unlockyoursound.com/producing-bass-tracks-remotely/) (article)
+- {: .list-group-item .my-0 .ps-0 } 📒 [A Trip to Freedom, from Berlin to Berlin ↗︎](https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e) (article)
+- {: .list-group-item .my-0 .ps-0 } 📒 [Producing bass tracks remotely ↗︎](https://unlockyoursound.com/producing-bass-tracks-remotely/) (article)
 
 {: .mb-0 .pt-5 }
 ### Front-end web developer at [UI Farm Ltd](https://uifarm.co.uk)
@@ -80,7 +80,7 @@ Co-founder, web designer and UI developer, I worked for clients like Reevoo, Not
 #### Publications
 
 {: .list-unstyled .ps-0 }
-- 📒 [How we work: a modern workflow for the multi-device web](https://medium.com/ui-farm/how-we-work-a-modern-workflow-for-the-multi-device-web-4e0dcb081b5b) (article)
+- 📒 [How we work: a modern workflow for the multi-device web ↗︎](https://medium.com/ui-farm/how-we-work-a-modern-workflow-for-the-multi-device-web-4e0dcb081b5b) (article)
 
 {: .mb-0 .pt-5 }
 ### Senior UI developer at Bodog
@@ -170,4 +170,4 @@ I built the internal sound studio from scratch, managing three computers in audi
 - 🎧 [For bass performance endorsements check **SoundBetter** ↗︎](https://soundbetter.com/profiles/206552-minutes-to-midnight/#reviews){: .m2m-link }
 - 💿 [Music credits on **Discogs** ↗︎](https://www.discogs.com/artist/1206278-Simone-Silvestroni){: .m2m-link }
 - 🗒 [Full list of experiences and endorsements on **LinkedIn** ↗︎](https://www.linkedin.com/in/minutes2mid/){: .m2m-link }
-- ✍️ [Reach out to request a **PDF version** ↗︎](/contact/){: .m2m-link }
+- ✍️ [Reach out to request a **PDF version** →](mailto:contact@minutestomidnight.co.uk){: .m2m-link }

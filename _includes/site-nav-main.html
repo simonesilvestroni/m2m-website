@@ -3,7 +3,7 @@
   Main navigation
   -------------------------*
 {%- endcomment -%}
-<ul class="nav nav-main nav-pills justify-content-center align-items-center mb-3 mb-md-0" aria-label="Navigation">
+<nav class="nav nav-main nav-pills justify-content-center align-items-center mt-3 mt-md-0 mb-3 mb-md-0" aria-label="Navigation">
 {% for item in site.data.nav-main.menu -%}
   {% include pattern-subnav.html %}
   {% comment %}
@@ -17,8 +17,6 @@
   Generating the navigation
   ---------------------------------*
   {%- endcomment -%}
-  <li class="nav-item pb-2">
-    <a class="nav-link fs-5 m2m-transition-opacity-03s{% unless page.url == '/' %}{% if page.url contains item.link or subnav-about contains page.url or subnav-about contains init-url or subnav-blog contains page.url or subnav-contact contains page.url %} active{% endif %}{% endunless %}" href="{{ item.link }}" title="{{ item.desc }}">{{ item.name }}</a>
-  </li>
+  <a class="nav-link fs-5 m2m-transition-opacity-03s{% unless page.url == '/' %}{% if page.url contains item.link or subnav-about contains page.url or subnav-about contains init-url or subnav-blog contains page.url or subnav-contact contains page.url %} active{% endif %}{% endunless %}" href="{{ item.link }}" title="{{ item.desc }}">{{ item.name }}</a>
 {% endfor -%}
-</ul>
+</nav>

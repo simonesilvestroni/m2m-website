@@ -18,7 +18,7 @@ After a long stint in a music studio acquiring recording skills, I became indepe
 **As a sound designer**, I write and produce music from tracking to mastering, with mixing as my preferred stage. I’m also a professional bass player and a field recordist with Foley skills. I see game audio as the ultimate audio-visual narrative medium.
 
 {: .text-center .fs-4 .my-5 .py-3 }
-📄 [See my **resume** ↗︎](/resume/)
+📄 [See my **resume** →](/resume/)
 
 ## Passions and interests
 

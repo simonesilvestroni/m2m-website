@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'What I use'
+title: 'Uses'
 date: '2021-11-08 10:54:03'
 last_modified_at: '2022-04-17 16:31:53'
 description: "Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the uses.tech project."
@@ -8,7 +8,6 @@ excerpt: 'Specifics about the hardware and software equipment I use, for both so
 permalink: '/uses/'
 toc: true
 ---
-{: .fs-1 .text-uppercase .text-center }
 ## Hardware
 
 ### Workstation
@@ -91,7 +90,6 @@ Previously:
 - Kobo Touch
 - Kindle Paperwhite
 
-{: .fs-1 .text-uppercase .text-center .pt-5 }
 ## Software
 
 ### Operating system(s)
@@ -367,7 +365,5 @@ Brilliant examples come from [Cockos Incorporated](https://cockos.com/) (makers 
 
 For the same reasons, I refuse to use Avid's products and pretty much everything that is locked-in with a _subscription model_, as well as I stopped caring for Logic updates ever since Apple had decided to tie them to their insane and arbitrarily idiotic yearly cycle of forced OS “upgrades”. **Planned obsolescence** brought by multi-trillion-dollar companies is not my cup of tea.
 
----
-
-{: .text-center }
+{: .mt-5 }
 Last update: <kbd>{{ page.last_modified_at }}</kbd>
