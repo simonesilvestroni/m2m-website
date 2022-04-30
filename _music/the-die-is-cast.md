@@ -24,7 +24,7 @@ featimage: true
 
 ## Backstory
 
-In 2018, together with Dan Ecclestone, songwriter for Cambridge-based band Ember Rev, I worked as a co-producer and mixer for their second album, [*Premonition And Ruin*](/projects/sound-design/premonition-and-ruin/). A song didn’t make the cut: *Land Of Kings* is my interpretation of it. Together with *Papillon*, they reference the painful process of living in England through Brexit.
+In 2018, together with Dan Ecclestone, songwriter for Cambridge-based band Ember Rev, I worked as a co-producer and mixer for their second album, [*Premonition And Ruin*]({{ site.url }}(/projects/sound-design/premonition-and-ruin/). A song didn’t make the cut: *Land Of Kings* is my interpretation of it. Together with *Papillon*, they reference the painful process of living in England through Brexit.
 
 I had been living in the UK for five years when the referendum took place. That night I was up in front of the TV, watching my idea of the UK — England in particular — **crumble before my eyes**.
 

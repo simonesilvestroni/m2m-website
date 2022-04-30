@@ -34,4 +34,4 @@ mentionType: reply
 Being on streaming platforms is not a must-have for me, yet I wanted to have these two songs in a couple of playlist that are useful for my portfolio. This was the occasion for experimenting with the [digital distributor Amuse](https://www.amuse.io/). I'd say it's been a pretty smooth — and free — experience. All the credits were correctly exported to Spotify, including production.
 
 {: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read the **EP analysis** →](/music/the-die-is-cast/)
+📖 [Read the **EP analysis** →]({{ site.url }}(/music/the-die-is-cast/)

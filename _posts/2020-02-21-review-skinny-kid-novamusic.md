@@ -25,4 +25,4 @@ excerpt: 'Stunning review by Nova Music Blog for <em>Skinny Kid</em>, the openin
 Thanks so much to Gabriele of _Nova Music Blog_, and [Christopher Carvalho](https://www.youtube.com/channel/UCFYW6EZMLLT0jIi0SJQeUiQ) of Unlock Your Sound, for another awesome feature about my album _After 1989_.
 
 {: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read the **album analysis** →](/music/after-1989/)
+📖 [Read the **album analysis** →]({{ site.url }}(/music/after-1989/)

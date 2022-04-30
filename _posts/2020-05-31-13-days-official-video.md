@@ -15,7 +15,7 @@ tags:
 description: "October 1962, the Cuban crisis. President Kennedy announces proof of a build-up of Soviet missiles on the island. The world is one step from nuclear war."
 excerpt: '1962. Kennedy announces proof of a build-up of Soviet missiles in Cuba. The world is one step from nuclear war.'
 ---
-**October 1962, the Cuban Crisis** — President Kennedy goes live on TV, announcing he has proof of a build-up of Soviet missiles in Cuba. The threat of a pre-emptive strike to America is real. The level of military readiness is set one step from a global nuclear war. _13 Days_ is a single from the concept album [_After 1989: A Trip To Freedom_](/music/after-1989/), released 9 November 2019.
+**October 1962, the Cuban Crisis** — President Kennedy goes live on TV, announcing he has proof of a build-up of Soviet missiles in Cuba. The threat of a pre-emptive strike to America is real. The level of military readiness is set one step from a global nuclear war. _13 Days_ is a single from the concept album [_After 1989: A Trip To Freedom_]({{ site.url }}(/music/after-1989/), released 9 November 2019.
 
 ---
 
@@ -48,4 +48,4 @@ excerpt: '1962. Kennedy announces proof of a build-up of Soviet missiles in Cuba
 
 
 {: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read the **album analysis** →](/music/after-1989/)
+📖 [Read the **album analysis** →]({{ site.url }}(/music/after-1989/)

@@ -265,7 +265,7 @@ I've been using [Alfred](https://www.alfredapp.com/) on macOS for many years. Am
 
 {% include pattern-figure.html image="/assets/images/embed-figure.gif" alt="Short animation of how I embed a figure tag" caption="Embedding a figure tag using Alfred" width="1050" height="470" %}
 
-Like the block editor in WordPress, I associated keywords such as `/image`, `/youtube` and so on. All modules, whether simple like the above or complex like the [image gallery carousel](/projects/web-design/responsive-photogallery-carousel/), work the same way. I can also recall Alfred's snippets window with my shortcut **⌥ ⌘ C**, select the one I need and hit enter.
+Like the block editor in WordPress, I associated keywords such as `/image`, `/youtube` and so on. All modules, whether simple like the above or complex like the [image gallery carousel]({{ site.url }}(/projects/web-design/responsive-photogallery-carousel/), work the same way. I can also recall Alfred's snippets window with my shortcut **⌥ ⌘ C**, select the one I need and hit enter.
 
 {% include pattern-figure.html image="/assets/images/embed-alfred.jpg" alt="Alfred's snippets recall window" caption="Alfred's snippets recall window" width="960" height="562" %}
 

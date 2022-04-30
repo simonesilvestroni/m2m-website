@@ -131,7 +131,7 @@ With Antiquity I **bounce** the bass from Pro Tools and import in the original L
 
 ## Stage 7: Feedback from the client
 
-Unless I’m working on a larger project, for which I use my [Trello system](/projects/project-management/), I have a practical way for the client to give feedback on my mixes. If they have a Dropbox account I send a direct link: they can listen and **add comments that would be attached to the correct position** in the song timeline. It’s the same behaviour as in SoundCloud’s comment system.
+Unless I’m working on a larger project, for which I use my [Trello system]({{ site.url }}(/projects/project-management/), I have a practical way for the client to give feedback on my mixes. If they have a Dropbox account I send a direct link: they can listen and **add comments that would be attached to the correct position** in the song timeline. It’s the same behaviour as in SoundCloud’s comment system.
 
 {% include pattern-figure.html image="/assets/images/dropbox-comments-minutes-to-midnight.jpg" caption="Clients can add comments from the sidebar column" width="1024" height="604" %}
 
