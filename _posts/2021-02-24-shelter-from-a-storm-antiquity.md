@@ -33,7 +33,7 @@ Bandcamp is the best way to ensure independent artists can continue producing gr
 
 ## Recording music under a storm
 
-Crafted by [Gerald](https://antiquitysessions1.bandcamp.com/track/shelter-from-a-storm), while an actual storm was battering New York, this new song immediately captured my imagination. When he said “it’s calling for your bass”, I agreed. Recorded with a very few takes, cleaned up in half an hour, it’s unquestionably my best [bass recording]({{ site.url }}(/projects/sound-design/producing-bass-remotely/) yet. Gerald also received this magnificent endorsement by **Leland Sklar** (bassist with Phil Collins, Toto and many more), which makes me immensely proud:
+Crafted by [Gerald](https://antiquitysessions1.bandcamp.com/track/shelter-from-a-storm), while an actual storm was battering New York, this new song immediately captured my imagination. When he said “it’s calling for your bass”, I agreed. Recorded with a very few takes, cleaned up in half an hour, it’s unquestionably my best [bass recording]({{ site.url }}/projects/sound-design/producing-bass-remotely/) yet. Gerald also received this magnificent endorsement by **Leland Sklar** (bassist with Phil Collins, Toto and many more), which makes me immensely proud:
 
 > I’m really digging this one. His style reminds me of Paul Webb from Talk Talk. No needless notes. Great tone and feel. Good work, brother.
 > 

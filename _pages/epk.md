@@ -10,7 +10,7 @@ permalink: '/epk/'
 ---
 {% include pattern-video.html id="q148xmdgHrY" %}
 
-[Minutes to Midnight](/about/), music producer currently based in Milan (Italy), launched in 2019 a music project specifically to tell a real-life tale of imprisonment and liberty. [*After 1989: A Trip To Freedom*]({{ site.url }}(/music/after-1989/) tells the story from his perspective as a grandson, who has only recently uncovered answers to how his grandfather managed to escape Germany in 1945. A modern-day attempt at storytelling, the album is a glimpse into hope.
+[Minutes to Midnight](/about/), music producer currently based in Milan (Italy), launched in 2019 a music project specifically to tell a real-life tale of imprisonment and liberty. [*After 1989: A Trip To Freedom*]({{ site.url }}/music/after-1989/) tells the story from his perspective as a grandson, who has only recently uncovered answers to how his grandfather managed to escape Germany in 1945. A modern-day attempt at storytelling, the album is a glimpse into hope.
 
 ---
 
@@ -35,7 +35,7 @@ permalink: '/epk/'
 
 <p class="text-center"><mark class="m2m-highlight small"><small class="px-3"><strong>Photography by</strong> <a href="https://silviamaggidesign.com">Silvia Maggi</a></small></mark></p>
 
-{% include pattern-imagegallery.html folder="({{ site.url }}/assets/images/gallery-press/" id="1" %}
+{% include pattern-imagegallery.html folder="/assets/images/gallery-press/" id="1" %}
 
 ---
 

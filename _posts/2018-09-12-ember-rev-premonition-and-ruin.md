@@ -18,4 +18,4 @@ excerpt: 'How I co-produced ‘Premonition and Ruin’, a superb concept album a
 {% include pattern-spotify.html id="74g82zqqXhiaWmH7czHIVk" type="album" height="280" %}
 
 {: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read the **project analysis** →]({{ site.url }}(/projects/sound-design/premonition-and-ruin/)
+📖 [Read the **project analysis** →]({{ site.url }}/projects/sound-design/premonition-and-ruin/)

@@ -55,7 +55,7 @@ _After 1989_ can also be found on:
 
 ## Production notes
 
-Mid 2017: after I [completed the demos]({{ site.url }}(/music/after-1989-demos/) using Propellerhead's Reason, my friend and music partner Paolo left the project. I decided to take some time and focus on graduating as a **master engineer at Berklee**. I then spent most of 2018 working as a mix engineer and producer for clients in the UK and the US, including [performing in a dozen of live concerts]({{ site.url }}/blog/live-shows/) around the south of England.
+Mid 2017: after I [completed the demos]({{ site.url }}/music/after-1989-demos/) using Propellerhead's Reason, my friend and music partner Paolo left the project. I decided to take some time and focus on graduating as a **master engineer at Berklee**. I then spent most of 2018 working as a mix engineer and producer for clients in the UK and the US, including [performing in a dozen of live concerts]({{ site.url }}/blog/live-shows/) around the south of England.
 
 At the end of the year, as the 30th anniversary of the fall of the Berlin Wall was approaching, I found myself alone with a project I've been working on for a long time. Surprisingly, this gave me a decisive push towards **revising the whole concept**. Even before Paolo left, I'd been unhappy about the creative direction for a while, so at the start of 2019 I drafted a new synopsis with a simpler set of songs and started putting together a new group of collaborators.
 
@@ -92,7 +92,7 @@ The next phase was edit, polish and mix. I employed a technique borrowed from **
 I also eagerly dived more deeply into [Michael Brauer's multi-bus compression](https://brauerizing.wordpress.com/) technique, which I already experimented with in previous productions. More powerful and even better refined, today it's still a staple in my templates.
 
 {: .detached .text-center .my-5 }
-![My current multi-bus tracks in REAPER](({{ site.url }}/assets/images/multi-bus-brauer.png){: width='420' height='687' }
+![My current multi-bus tracks in REAPER]({{ site.url }}/assets/images/multi-bus-brauer.png){: width='420' height='687' }
 
 In a nutshell: instead of applying a single mix bus compressor, the multi-bus methodology requires sending different instruments, **grouped by function and frequency range**, to four different set of compressors. I route piano and other synths to bus A, drums and bass to bus B, guitars, certain strings and synths to bus C, sound effects plus reverbs and delays to bus D. This way, the compressors act on specific settings without squashing material that they're not suited for. A thorough [calibration](https://youtu.be/M0akUKhkok0) is required before starting to apply any routing.
 
@@ -132,13 +132,13 @@ At the time, I chose **CD Baby** for digital distribution. As a member of PRS an
 ## Reviews
 
 > Minutes to Midnight’s album is magical and haunting, giving the listener a way to both experience and reconcile the horrors and joys of the past. A journey of choices and consequences, a path of emotional growth. It is at once rock opera, gothic melancholy, family legend, and historical account, all blending together to create an album unlike any other.
-> <cite>— [Rosa Nadine Sanchéz Xochimilco]({{ site.url }}(/music/after-1989-reviews/), author</cite>
+> <cite>— [Rosa Nadine Sanchéz Xochimilco]({{ site.url }}/music/after-1989-reviews/), author</cite>
 
 > The direct and immersive narrative allows history to speak for itself without being preachy or forced. The artist gives us a unique perspective of an outsider who manages to observe a great deal of pain without being directly subjected to it. Its themes are timely and human, and effortlessly connect with a modern audience. _After 1989_ is an immersive and interesting experiment in storytelling that will leave listeners meditating on its heavy themes.
 > <cite>— [IndieRepublik Berlin](https://indierepublik.com/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/)</cite>
 
 {: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read **all the reviews** →]({{ site.url }}(/music/after-1989-reviews/)
+📖 [Read **all the reviews** →]({{ site.url }}/music/after-1989-reviews/)
 
 ## Credits
 

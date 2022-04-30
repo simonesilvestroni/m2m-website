@@ -33,7 +33,7 @@ Updates and fixes are relased regularly. [Dan Worrall’s video series](https://
 
 In a video about ReaComp (stock compressor plug-in), he pointed out a slight defect in the range of a slider. This is what happened, just _a week later_:
 
-{% include pattern-figure.html image="({{ site.url }}/assets/images/dan-worrall-reaper-comp.jpg" caption="REAPER compressor received a prompt update after a minor defect was pointed out on YouTube" width="768" height="555" %}
+{% include pattern-figure.html image="(/assets/images/dan-worrall-reaper-comp.jpg" caption="REAPER compressor received a prompt update after a minor defect was pointed out on YouTube" width="768" height="555" %}
 
 ## Benefit 8: Efficiency
 

@@ -34,4 +34,4 @@ Happy to see how my choice to publish a concept album in the streaming era did n
 > <cite>— Secret Eclectic</cite>
 
 {: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read the **album analysis** →]({{ site.url }}(/music/after-1989/)
+📖 [Read the **album analysis** →]({{ site.url }}/music/after-1989/)

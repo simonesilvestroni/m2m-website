@@ -38,4 +38,4 @@ The following is a playlist of the four songs played and discussed in the podcas
 Thanks to [Christopher Carvalho](https://unlockyoursound.com/) for this feature.
 
 {: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read the **album analysis** →]({{ site.url }}(/music/after-1989/)
+📖 [Read the **album analysis** →]({{ site.url }}/music/after-1989/)

@@ -24,7 +24,7 @@ We loved the first few years in London. Everything was different and _apparently
 
 23 June, 2016. Everything changed. _Literally_, everything. I stayed up all night, juggling between the BBC and Sky News, as if it was the Moon landing. Instead, I watched the giddy rise to power of the horrendous British version of populism.
 
-{% include pattern-figure.html image="({{ site.url }}/assets/images/sendthemback.jpg" caption="The village idiot" width="630" height="446" %}
+{% include pattern-figure.html image="(/assets/images/sendthemback.jpg" caption="The village idiot" width="630" height="446" %}
 
 I won’t delve too much into what segued: an awful descent into a deep black hole filled with failure and sheer ineptitude, which completed more than ten years of Tory rule over the country. Now racists walk in plain sight, incompetence is rewarded instead of merit and knowledge. An arrogant contempt towards expertise and science, or anything valuable that used to be at the forefront of British culture, is now dominant. Even [the rule of law is openly shunned](https://www.politico.eu/article/uk-minister-confirms-plan-to-break-international-law-over-brexit/).
 

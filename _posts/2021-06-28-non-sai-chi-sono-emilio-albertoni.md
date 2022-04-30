@@ -71,4 +71,4 @@ Mixed and mastered by Simone Silvestroni.
 ℗ 2021 copyright of the sound recording (master) owned by Simone Silvestroni and Emilio Albertoni. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.
 
 {: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read the **project analysis** →]({{ site.url }}(/music/non-sai-chi-sono/)
+📖 [Read the **project analysis** →]({{ site.url }}/music/non-sai-chi-sono/)

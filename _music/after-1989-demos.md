@@ -23,7 +23,7 @@ featimage: true
 
 ## Production notes
 
-The previous incarnation of the [concept album]({{ site.url }}(/music/after-1989/) was mostly instrumental, supported by a vast array of strings and a convoluted almost-silent narration. A vast amount of material had accumulated during the years, as the core of the concept shifted a few times along with a change of collaborators.
+The previous incarnation of the [concept album]({{ site.url }}/music/after-1989/) was mostly instrumental, supported by a vast array of strings and a convoluted almost-silent narration. A vast amount of material had accumulated during the years, as the core of the concept shifted a few times along with a change of collaborators.
 
 ### Narration and theatrical idea
 
@@ -48,13 +48,13 @@ We recorded, arranged and roughly produced about 15 pieces of music, including t
 My Warwick Thumb bass and Paolo's Fender Strat are both around thirty years old now, and they're prominently featured in the album. I didn't use many plugins to produce the rough mixes: I mostly relied on Reason's brilliant integrated rack: the **SSL-based mixer** with his familiar channel strip, the 1970s-sounding delay reminiscent of a _Roland Space Echo_, and a couple of reverbs. The only exceptions were made for his electric guitar: we adopted a custom mix of **Line-6** and **Kuassa virtual amps**. It's still pretty effective, though I re-amped many tracks for the final album.
 
 {: .detached .text-center .my-5 }
-![SSL mixer in Reason](({{ site.url }}/assets/images/reason-ssl.jpg){: width='1024' height='629' }
+![SSL mixer in Reason]({{ site.url }}/assets/images/reason-ssl.jpg){: width='1024' height='629' }
 
 ### Outtakes
 
 The first version of _The Logic_ was in Italian. I've decided not to add it to _Demos_ because I couldn't find a proper version. Several other instrumental tracks were dropped because they were either not written by me and/or didn't really fit the concept.
 
-I also dropped the second full-fledged song, _Niemandsland_. Paolo wrote the music, while the amazing Rachel Goodman sung my lyrics. A few sections of Rach's performance were later [repurposed in _Skinny Kid_]({{ site.url }}(/projects/sound-design/vocal-editing/). The two songs don't share much, therefore I had to put down hours of work in order to salvage her effort and make it fit a completely different set of chords at a faster tempo. **Flex Time** and **Flex Pitch** from Logic Pro X helped me quite a lot with the task.
+I also dropped the second full-fledged song, _Niemandsland_. Paolo wrote the music, while the amazing Rachel Goodman sung my lyrics. A few sections of Rach's performance were later [repurposed in _Skinny Kid_]({{ site.url }}/projects/sound-design/vocal-editing/). The two songs don't share much, therefore I had to put down hours of work in order to salvage her effort and make it fit a completely different set of chords at a faster tempo. **Flex Time** and **Flex Pitch** from Logic Pro X helped me quite a lot with the task.
 
 ## Credits
 

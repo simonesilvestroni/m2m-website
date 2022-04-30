@@ -60,7 +60,7 @@ Only `0.07g of CO2` is produced every time someone visits the homepage. Cleaner 
 The website [does not request third-party resources](https://aremythirdpartiesgreen.com/test/76e7ac7370d84f1fabd254608e118ff4), except for the blog posts, which are calling `webmention.io` to render web mentions.
 
 {: .detached }
-Member of: [![512kb Orange Team](({{ site.url }}/assets/images/orange-team.svg)](https://512kb.club)
+Member of: [![512kb Orange Team]({{ site.url }}/assets/images/orange-team.svg)](https://512kb.club)
 
 ## Copyright
 

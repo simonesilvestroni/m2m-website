@@ -39,24 +39,24 @@ Full music production, bass tracks, mixing and mastering. Web design and front-e
 #### Projects
 
 {: .list-group .list-group-flush .mt-0 .ps-0 }
-- {: .list-group-item .my-0 .ps-0 } 🎧 [Producing bass remotely]({{ site.url }}(/projects/sound-design/producing-bass-remotely/)
-- {: .list-group-item .my-0 .ps-0 } 🎧 [Mixing _Premonition and Ruin_]({{ site.url }}(/projects/sound-design/premonition-and-ruin/)
-- {: .list-group-item .my-0 .ps-0 } 🎧 [Tom the tow truck cartoon]({{ site.url }}(/projects/sound-design/car-city-cartoon/)
-- {: .list-group-item .my-0 .ps-0 } 🎧 [Vocal editing]({{ site.url }}(/projects/sound-design/vocal-editing/)
-- {: .list-group-item .my-0 .ps-0 } 🎧 [Drums restoration]({{ site.url }}(/projects/sound-design/drums-restoration/)
-- {: .list-group-item .my-0 .ps-0 } 💿 [Non sai chi sono]({{ site.url }}(/music/non-sai-chi-sono/)
-- {: .list-group-item .my-0 .ps-0 } 💿 [The Die is Cast]({{ site.url }}(/music/the-die-is-cast/)
-- {: .list-group-item .my-0 .ps-0 } 💿 [After 1989]({{ site.url }}(/music/after-1989/)
-- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Pure HTML and CSS responsive carousel in Jekyll]({{ site.url }}(/projects/web-design/responsive-photogallery-carousel/)
-- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Minutes to Midnight]({{ site.url }}(/projects/web-design/minutes-to-midnight/)
-- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Silvia Maggi Design]({{ site.url }}(/projects/web-design/silvia-maggi-design/)
-- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [No Slack Day]({{ site.url }}(/projects/web-design/no-slack-day/)
+- {: .list-group-item .my-0 .ps-0 } 🎧 [Producing bass remotely]({{ site.url }}/projects/sound-design/producing-bass-remotely/)
+- {: .list-group-item .my-0 .ps-0 } 🎧 [Mixing _Premonition and Ruin_]({{ site.url }}/projects/sound-design/premonition-and-ruin/)
+- {: .list-group-item .my-0 .ps-0 } 🎧 [Tom the tow truck cartoon]({{ site.url }}/projects/sound-design/car-city-cartoon/)
+- {: .list-group-item .my-0 .ps-0 } 🎧 [Vocal editing]({{ site.url }}/projects/sound-design/vocal-editing/)
+- {: .list-group-item .my-0 .ps-0 } 🎧 [Drums restoration]({{ site.url }}/projects/sound-design/drums-restoration/)
+- {: .list-group-item .my-0 .ps-0 } 💿 [Non sai chi sono]({{ site.url }}/music/non-sai-chi-sono/)
+- {: .list-group-item .my-0 .ps-0 } 💿 [The Die is Cast]({{ site.url }}/music/the-die-is-cast/)
+- {: .list-group-item .my-0 .ps-0 } 💿 [After 1989]({{ site.url }}/music/after-1989/)
+- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Pure HTML and CSS responsive carousel in Jekyll]({{ site.url }}/projects/web-design/responsive-photogallery-carousel/)
+- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Minutes to Midnight]({{ site.url }}/projects/web-design/minutes-to-midnight/)
+- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Silvia Maggi Design]({{ site.url }}/projects/web-design/silvia-maggi-design/)
+- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [No Slack Day]({{ site.url }}/projects/web-design/no-slack-day/)
 
 {: .text-uppercase .m2m-letter-spacing-w1 }
 #### Publications
 
 {: .list-group .list-group-flush .mt-0 .ps-0 }
-- {: .list-group-item .my-0 .ps-0 } 📒 [Efficient Productivity for Music Professionals]({{ site.url }}(/projects/project-management/) (e-Book)
+- {: .list-group-item .my-0 .ps-0 } 📒 [Efficient Productivity for Music Professionals]({{ site.url }}/projects/project-management/) (e-Book)
 - {: .list-group-item .my-0 .ps-0 } 📒 [A Trip to Freedom, from Berlin to Berlin ↗︎](https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e) (article)
 - {: .list-group-item .my-0 .ps-0 } 📒 [Producing bass tracks remotely ↗︎](https://unlockyoursound.com/producing-bass-tracks-remotely/) (article)
 
@@ -73,8 +73,8 @@ Co-founder, web designer and UI developer, I worked for clients like Reevoo, Not
 #### Projects
 
 {: .list-group .list-group-flush .mt-0 .ps-0 }
-- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Reevoo]({{ site.url }}(/projects/web-design/reevoo/)
-- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [UniCredit]({{ site.url }}(/projects/web-design/unicredit/)
+- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [Reevoo]({{ site.url }}/projects/web-design/reevoo/)
+- {: .list-group-item .my-0 .ps-0 } 👨🏻‍💻 [UniCredit]({{ site.url }}/projects/web-design/unicredit/)
 
 {: .text-uppercase .m2m-letter-spacing-w1 }
 #### Publications
@@ -117,7 +117,7 @@ I built the internal sound studio from scratch, managing three computers in audi
 #### Project
 
 {: .list-unstyled .ps-0 .mb-5 .pb-5 }
-- 🎮 [Ruff Trigger console game]({{ site.url }}(/projects/sound-design/console-game-ruff-trigger/)
+- 🎮 [Ruff Trigger console game]({{ site.url }}/projects/sound-design/console-game-ruff-trigger/)
 
 {: .display-5 .pt-3 }
 ## Languages

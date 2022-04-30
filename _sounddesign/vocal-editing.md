@@ -19,7 +19,7 @@ description: "Morphing vocals from a song to another using pitch and tempo editi
 excerpt: "Morphing vocals from a song to another using pitch and tempo editing; noise removal and cleaning up historical speeches."
 toc: true
 featimage: true
-featimage-url: '({{ site.url }}/assets/images/vocal-editing.jpg'
+featimage-url: '/assets/images/vocal-editing.jpg'
 featimage-height: '600'
 image-caption: true
 caption: 'Rachel Goodman, who <a href="/music/after-1989/">sung on my debut album</a>'
@@ -27,7 +27,7 @@ permalink: '/projects/sound-design/vocal-editing/'
 ---
 ## Vocal transformation
 
-After the [demo stage of my album]({{ site.url }}(/music/after-1989-demos/) _After 1989_, I scrapped a song called _Niemandsland_, featuring a marvellous vocal performance by Rachel Goodman. Since its lyrics were critical for the concept, I repurposed them in the new lead single _Skinny Kid_. 
+After the [demo stage of my album]({{ site.url }}/music/after-1989-demos/) _After 1989_, I scrapped a song called _Niemandsland_, featuring a marvellous vocal performance by Rachel Goodman. Since its lyrics were critical for the concept, I repurposed them in the new lead single _Skinny Kid_. 
 
 Despite **the two songs having different tonality and tempo**, I decided to salvage Rachel's parts as backing vocals and counterpoint to Dan Ecclestone's lead.
 
