@@ -29,7 +29,7 @@ excerpt: '75 years ago, while two young men escaped from Sachsenhausen concentra
 
 **April, same year** — Two men escape from a concentration camp called [Sachsenhausen](https://www.sachsenhausen-sbg.de/en/), built in the town of Oranienburg, north of Berlin. One of them, who had spent four years there, **was my grandfather**.
 
-Now a fugitive, he’s running away from imprisonment with a fellow Soviet inmate. They have to steal from German citizens, for food, protection and to go unnoticed during the day. They tie themselves to tree branches at night. The skinny kid came back home, mostly walking, [from Berlin to Italy](/blog/after-1989-full-story/).
+Now a fugitive, he’s running away from imprisonment with a fellow Soviet inmate. They have to steal from German citizens, for food, protection and to go unnoticed during the day. They tie themselves to tree branches at night. The skinny kid came back home, mostly walking, [from Berlin to Italy]({{ site.url }}/blog/after-1989-full-story/).
 
 ## A glimpse of something
 

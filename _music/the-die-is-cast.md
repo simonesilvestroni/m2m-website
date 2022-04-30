@@ -32,7 +32,7 @@ I had been living in the UK for five years when the referendum took place. That 
 
 At five in the morning, right after **the BBC declared the result**, I stood alone in the garden. It was sunny, a good fresh smell in the air. Gobsmacked and incapable of thinking clearly, I felt betrayed.
 
-Then, the most pantomimic four years came and went, and all I could see is ‘Rule Britannia’, which looked so out of touch with the world at large. [My wife and I left the UK](/blog/back-to-the-future-leaving-the-uk/), and our good friends there, last September. I haven’t yet come to terms with the seismic change.
+Then, the most pantomimic four years came and went, and all I could see is ‘Rule Britannia’, which looked so out of touch with the world at large. [My wife and I left the UK]({{ site.url }}/blog/back-to-the-future-leaving-the-uk/), and our good friends there, last September. I haven’t yet come to terms with the seismic change.
 
 These two songs, even if written by someone else, prefectly encapsulate those days in June 2016. I spoke with [Gerald Duchene](https://antiquity-music.com/), long-time collaborator and friend of mine, about the idea of working together at these remixes. We both love a challenge, so off we went.
 
@@ -44,7 +44,7 @@ These two songs, even if written by someone else, prefectly encapsulate those da
 
 _Papillon_ started with Gerald. He sent the full **Logic Pro X project**, which featured a few instruments I didn't anticipate. The flugelhorn in particular caught me off-guard: it fit the sound so well that when I produced _Land of Kings_ I specifically asked Gerald to write another solo with it.
 
-I produced both songs using REAPER, as I had [recently switched from Pro Tools](/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/). With _Papillon_ I worked intensively for a full day, adding the **fretless bass**, editing the drums and enhancing the rhythm with some drum doubling and a new groove using a custom patch on REAPER, where I summed my trusted **XLN Addictive Drums** to **Steven Slate Drums 5**. I wrote a piano theme, refactored all the vocals effect following the same reverb I did use in the original version, and optimized all Gerald's parts.
+I produced both songs using REAPER, as I had [recently switched from Pro Tools]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/). With _Papillon_ I worked intensively for a full day, adding the **fretless bass**, editing the drums and enhancing the rhythm with some drum doubling and a new groove using a custom patch on REAPER, where I summed my trusted **XLN Addictive Drums** to **Steven Slate Drums 5**. I wrote a piano theme, refactored all the vocals effect following the same reverb I did use in the original version, and optimized all Gerald's parts.
 
 For _Land of Kings_ I started with the **Warwick** bass. I replaced all the original harmonium parts with a few synths, one of which is **Logic's Alchemy**, and used the bass to build a delay-driven arpeggio who pretty much served as a leading melody. For both songs, I employed my REAPER presets — which replicate the same patches I've had for years in Logic and then Pro Tools — including **send effects** (verbs, delays) and my interpretation of Michael Brauer's **multi-bus compression**.
 

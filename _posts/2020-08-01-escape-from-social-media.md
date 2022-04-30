@@ -144,6 +144,6 @@ Thanks for reading. I’ll probably post a follow-up in a year or so. Although u
 
 ## 🆕 Follow-up: 3 March 2022
 
-Read the **follow-up**: [Life after social networks](/blog/life-after-social-networks/).
+Read the **follow-up**: [Life after social networks]({{ site.url }}/blog/life-after-social-networks/).
 
 ---

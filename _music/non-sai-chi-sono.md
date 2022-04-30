@@ -48,7 +48,7 @@ We wanted to make this a **dialogue**, where the original song and our remix app
 
 ## Production notes
 
-Production-wise, I remember playing my **fretless bass** over and over against Emilio’s demo while I still was in the UK planning my departure. It was a very stressful time: the pandemic was approaching its second peak in the country, my wife and I wanted to leave as soon as we could. [We made it just in time](/blog/back-to-the-future-leaving-the-uk/) before Britain’s second total lockdown.
+Production-wise, I remember playing my **fretless bass** over and over against Emilio’s demo while I still was in the UK planning my departure. It was a very stressful time: the pandemic was approaching its second peak in the country, my wife and I wanted to leave as soon as we could. [We made it just in time]({{ site.url }}/blog/back-to-the-future-leaving-the-uk/) before Britain’s second total lockdown.
 
 After re-settling in my coastal Italian hometown, I managed to work on my side of production. Added the vocals, the bass, reorganized the samples, recorded a new rhythmic section in the chorus, along with an original Italian TV announcement of Nixon’s victory in 1968.
 

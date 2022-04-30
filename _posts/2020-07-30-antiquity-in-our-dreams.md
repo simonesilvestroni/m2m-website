@@ -13,7 +13,7 @@ tags:
 description: "'In Our Dreams' written, produced and mixed by Gerald Duchene. Vocals and melody Dan Ecclestone. Bass Minutes to Midnight. Mastering Chris Pavey."
 excerpt: '<em>In Our Dreams</em> is out now. Written, produced and mixed by Gerald Duchene. Vocals and melody by Dan Ecclestone. Bass by Minutes to Midnight. Mastered by Chris Pavey.'
 ---
-I always enjoy being a part of [Gerald’s fabulous songs](/blog/tag/antiquity/). This one was particularly exciting to work on, since I rarely have the chance to play bass in songs where drums are nowhere to be seen (or heard). I believe the result is stunning.
+I always enjoy being a part of [Gerald’s fabulous songs]({{ site.url}}/blog/tag/antiquity/). This one was particularly exciting to work on, since I rarely have the chance to play bass in songs where drums are nowhere to be seen (or heard). I believe the result is stunning.
 
 ## Release
 

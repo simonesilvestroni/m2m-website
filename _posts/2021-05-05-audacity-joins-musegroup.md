@@ -30,7 +30,7 @@ I watched the video announcement by Martin Keary of [Muse Group](https://mu.se/)
 
 Audacity has recently reached the 3.0 iteration. Despite not being prominently featured in the professional audio community, I’m sure many producers would enjoy its powerful features as I do.
 
-Audacity is a perfectly apt tool that **doesn’t break the bank**, allowing anyone, whether beginner or professional, to edit audio. And, same as [REAPER](/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/), Audacity enjoys a [brilliant community](https://forum.audacityteam.org/) of like-minded people, always keen to help everybody and improve the already vast arsenal of functionality.
+Audacity is a perfectly apt tool that **doesn’t break the bank**, allowing anyone, whether beginner or professional, to edit audio. And, same as [REAPER]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/), Audacity enjoys a [brilliant community](https://forum.audacityteam.org/) of like-minded people, always keen to help everybody and improve the already vast arsenal of functionality.
 
 I hope Muse will keep improving on the existing platform, and maybe finally apply that “fresh lick of paint” he mentions in the video.
 

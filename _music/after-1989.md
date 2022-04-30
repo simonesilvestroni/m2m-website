@@ -27,7 +27,7 @@ featimage: true
 **Three decades after the fall of the Berlin Wall**, the autobiographical tale of how my grandfather escaped a concentration camp in 1945, while I made the other way round, looking for answers that I could only find in 2017.
 
 {: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read the **full story** →](/blog/after-1989-full-story/)
+📖 [Read the **full story** →]({{ site.url }}/blog/after-1989-full-story/)
 
 On [Bandcamp](https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom), the album features:
 
@@ -55,7 +55,7 @@ _After 1989_ can also be found on:
 
 ## Production notes
 
-Mid 2017: after I [completed the demos](/music/after-1989-demos/) using Propellerhead's Reason, my friend and music partner Paolo left the project. I decided to take some time and focus on graduating as a **master engineer at Berklee**. I then spent most of 2018 working as a mix engineer and producer for clients in the UK and the US, including [performing in a dozen of live concerts](/blog/live-shows/) around the south of England.
+Mid 2017: after I [completed the demos](/music/after-1989-demos/) using Propellerhead's Reason, my friend and music partner Paolo left the project. I decided to take some time and focus on graduating as a **master engineer at Berklee**. I then spent most of 2018 working as a mix engineer and producer for clients in the UK and the US, including [performing in a dozen of live concerts]({{ site.url }}/blog/live-shows/) around the south of England.
 
 At the end of the year, as the 30th anniversary of the fall of the Berlin Wall was approaching, I found myself alone with a project I've been working on for a long time. Surprisingly, this gave me a decisive push towards **revising the whole concept**. Even before Paolo left, I'd been unhappy about the creative direction for a while, so at the start of 2019 I drafted a new synopsis with a simpler set of songs and started putting together a new group of collaborators.
 
@@ -63,7 +63,7 @@ The renewed project touched the same story but **changed the perspective**. No t
 
 ### The line-up
 
-To efficiently convey the new storyline, my first decision was to abandon the idea of an instrumental album. I wanted songs, as in _music and lyrics_, therefore finding a lead singer was paramount. Since [Rachel Goodman](https://www.youtube.com/channel/UCGztQW1g4fPy1Bz1nmiIpJw) couldn't be available for a full album, I met [Dan Ecclestone](/blog/ember-rev-premonition-and-ruin/) in Cambridge and agreed on working together on our respective albums. I then involved [Gerald Duchene](/blog/tag/gerald-duchene/) to help with guitars and saxophone, [Andy Bonnor](http://www.inyourdreams.fi/) on drums and [Callum Gardner](/blog/tag/callum-gardner/) on acoustic guitar and backing vocals.
+To efficiently convey the new storyline, my first decision was to abandon the idea of an instrumental album. I wanted songs, as in _music and lyrics_, therefore finding a lead singer was paramount. Since [Rachel Goodman](https://www.youtube.com/channel/UCGztQW1g4fPy1Bz1nmiIpJw) couldn't be available for a full album, I met [Dan Ecclestone]({{ site.url }}/blog/ember-rev-premonition-and-ruin/) in Cambridge and agreed on working together on our respective albums. I then involved [Gerald Duchene]({{ site.url}}/blog/tag/gerald-duchene/) to help with guitars and saxophone, [Andy Bonnor](http://www.inyourdreams.fi/) on drums and [Callum Gardner]({{ site.url}}/blog/tag/callum-gardner/) on acoustic guitar and backing vocals.
 
 Even though I initially considered scraping Paolo's contributions, I ended up keeping his amazing work on half of the songs, including several of his arrangements, a few guitar solos and his **beautiful viola**.
 
@@ -75,7 +75,7 @@ The album **shrinked from 16 pieces to 10 songs**. By axing redundant intros and
 
 ### Workflow
 
-In between the two stages of _After 1989_, I **went back to Logic Pro**. Exported all the tracks with and without Reason's native processing, imported into Logic projects, rearranged sections, edited MIDI parts and wrote the lyrics. I then sung all the test vocals, played piano, rewrote previous ideas and morphed them into new songs. The peculiar and [complicated story of the leading single](/blog/skinny-kid-song-backstory/) is emblematic of this stage.
+In between the two stages of _After 1989_, I **went back to Logic Pro**. Exported all the tracks with and without Reason's native processing, imported into Logic projects, rearranged sections, edited MIDI parts and wrote the lyrics. I then sung all the test vocals, played piano, rewrote previous ideas and morphed them into new songs. The peculiar and [complicated story of the leading single]({{ site.url }}/blog/skinny-kid-song-backstory/) is emblematic of this stage.
 
 All in all I had come up with **a complete new demo** in a relatively short time.
 

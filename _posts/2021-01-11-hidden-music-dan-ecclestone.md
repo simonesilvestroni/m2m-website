@@ -20,7 +20,7 @@ excerpt: "Dan Ecclestone’s solo album, <em>Hidden Music</em>, is out now. Reco
 
 {% include pattern-spotify.html id="1vDENKNKnaFdnapeXFKsed" type="album" height="280" %}
 
-A vocals-driven delicate and powerful 6-songs album, _Hidden Music_ is another brilliant collaboration with Dan, after the co-productions with [Ember Rev's latest albums](/blog/ember-rev-premonition-and-ruin/).
+A vocals-driven delicate and powerful 6-songs album, _Hidden Music_ is another brilliant collaboration with Dan, after the co-productions with [Ember Rev's latest albums]({{ site.url }}/blog/ember-rev-premonition-and-ruin/).
 
 > I realised these six songs worked together both lyrically and musically after three albums with Ember Rev but these songs were conceived at and for the piano and wouldn’t work if reconfigured for different instruments. Also, I had little desire to perform live such intensely personal downtempo ruminations on family, fatherhood, status anxiety and the memory of ambition. So it became this: a solo album of music for headphones, music for contemplation, music that is, and has been for many years, hidden.
 > 

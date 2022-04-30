@@ -103,7 +103,7 @@ As a _system-agnostic_ I can easily work with any OS, depending on the task. I�
 
 ### Digital Audio Workstation
 
-- [REAPER 6](https://www.reaper.fm/)&nbsp;&nbsp;➡️ **[read why](/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)**
+- [REAPER 6](https://www.reaper.fm/)&nbsp;&nbsp;➡️ **[read why]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)**
 - Logic Pro X 10.7.2
 - Reason 8.2.3 (legacy edition that shouldn't theoretically work, but _it does_)
 

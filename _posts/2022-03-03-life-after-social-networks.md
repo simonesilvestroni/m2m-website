@@ -18,7 +18,7 @@ mentionReplyUrl: 'https://www.stevelawson.net/2021/08/keeping-your-soul-in-an-al
 mentionReplyTitle: '<em>Keeping your soul in an alghoritmic world</em> (Steve Lawson)'
 mentionType: reply
 ---
-**At the beginning of August 2020** I [deleted all my social media accounts](/blog/escape-from-social-media/), except for YouTube. So, how has it been?
+**At the beginning of August 2020** I [deleted all my social media accounts]({{ site.url }}/blog/escape-from-social-media/), except for YouTube. So, how has it been?
 
 I never intended to make a living solely through the music I write: my work in sound design and production is in a different business. Had I read Steve’s post in 2019, it would have pushed me to consider a few things. Today I don’t judge people that are still juggling with social networks, yet I see any lucubration about how to stay in mainstream social media and save the soul as *plain weird*. I suppose once you’re out you can’t really understand why anyone would want to continue staying locked in — like an ex-smoker.
 

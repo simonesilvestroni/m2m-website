@@ -24,7 +24,7 @@ permalink: '/projects/sound-design/drums-restoration/'
 ---
 ## Drums restoration & doubling
 
-In 2017 I was playing bass and [producing the debut single](/blog/callum-gardner-debut-single/) for a London-based singer-songwriter. All the recordings were handled externally at SAE in London, except for the bass which I recorded at my home studio in Cambridge.
+In 2017 I was playing bass and [producing the debut single]({{ site.url }}/blog/callum-gardner-debut-single/) for a London-based singer-songwriter. All the recordings were handled externally at SAE in London, except for the bass which I recorded at my home studio in Cambridge.
 
 After we received the audio tracks, we noticed **two issues with the drums**. First: a repeating squeaky sound coming from the hi-hat pedal was captured by all the microphones. This was a _major problem_.
 

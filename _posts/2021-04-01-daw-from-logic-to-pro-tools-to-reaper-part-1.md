@@ -25,13 +25,13 @@ excerpt: "In the past twelve months I’ve managed to revolutionize my music sof
 2.  Multi-platform
 3.  A different workflow
 
-##### [Part 2](/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/)
+##### [Part 2]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/)
 
 4.  Customization
 5.  Community
 6.  Stock plug-ins
 
-##### [Part 3](/blog/daw-from-logic-to-pro-tools-to-reaper-part-3/)
+##### [Part 3]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-3/)
 
 7.  Open architecture & development cycle
 8.  Efficiency
@@ -162,7 +162,7 @@ Similarly to Pro Tools, I can group tracks together, for mixing or editing. Howe
 
 ___
 
-In **[part 2](/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/)**, I’ll be discussing:
+In **[part 2]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/)**, I’ll be discussing:
 
 4.  Customization
 5.  Community
