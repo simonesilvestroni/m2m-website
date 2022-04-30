@@ -23,9 +23,9 @@ mentionType: reply
 ---
 ## Release
 
-{% include pattern-spotify.html id="5YS8NyAzMzhL5BTgSQC9mp" type="album" height="200" %}
+{% include pattern-spotify.html id="5YS8NyAzMzhL5BTgSQC9mp" type="album" height="180" %}
 
-{% include pattern-applemusic.html url="https://embed.music.apple.com/us/album/the-die-is-cast-remix-feat-dan-ecclestone-single/1616149104" %}
+💿 [_The Die Is Cast_ on **Apple Music** ↗︎](https://music.apple.com/us/album/the-die-is-cast-remix-feat-dan-ecclestone-single/1616149104)
 
 💿 [_The Die Is Cast_ on **YouTube Music** ↗︎](https://music.youtube.com/playlist?list=OLAK5uy_kCnefBUZzTLzVdXRUSXYZfxYwQgkd7hG8&feature=share)
 
