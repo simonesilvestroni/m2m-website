@@ -16,7 +16,7 @@ description: "In this case study, I expose a process for producing effective bas
 excerpt: "Exposing my process for producing <strong>effective bass tracks</strong> for the New York-based band Antiquity."
 toc: true
 featimage: true
-featimage-url: '/assets/images/producing-bass-remotely.jpg'
+featimage-url: '({{ site.url }}/assets/images/producing-bass-remotely.jpg'
 featimage-height: '600'
 canonical: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'
 syndicate: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'
@@ -84,7 +84,7 @@ In Pro Tools I can select a section and **quickly swap between takes in loop mod
 
 After enabling [elastic audio](https://www.pro-tools-expert.com/home-page/2017/5/25/free-puremix-tutorial-how-to-use-elastic-audio-in-pro-tools) in Pro Tools (monophonic, real-time processing), I go in and adjust the **transient sensitivity**. I want to get to a point where only the correct hits are detected. It’s the best way to avoid irritating artifacts. This is especially useful with a fretless bass.
 
-{% include pattern-figure.html image="/assets/images/protools-elasticaudio-monophonic-minutes-to-midnight.jpg" caption="Pro Tools algorithm options for elastic audio" width="295" height="209" %}
+{% include pattern-figure.html image="({{ site.url }}/assets/images/protools-elasticaudio-monophonic-minutes-to-midnight.jpg" caption="Pro Tools algorithm options for elastic audio" width="295" height="209" %}
 
 After switching the track view to `Analysis`, excessive transients that might have slipped through the previous step are removed, then in `Warp` view I check if there are obvious mistakes in the timing. Working in grid mode makes it easy to see which notes are off. I tend to only adjust what's obviously out of place, rather than generically quantize. In case I decide to go for an automated process, I never go beyond an 82% clean-up. I prefer to **retain the human factor** with my playing. In the video below, you can see a single automatic audio quantize to a specific small selection played as triplets, and a couple of notes adjusted.
 
@@ -133,7 +133,7 @@ With Antiquity I **bounce** the bass from Pro Tools and import in the original L
 
 Unless I’m working on a larger project, for which I use my [Trello system]({{ site.url }}(/projects/project-management/), I have a practical way for the client to give feedback on my mixes. If they have a Dropbox account I send a direct link: they can listen and **add comments that would be attached to the correct position** in the song timeline. It’s the same behaviour as in SoundCloud’s comment system.
 
-{% include pattern-figure.html image="/assets/images/dropbox-comments-minutes-to-midnight.jpg" caption="Clients can add comments from the sidebar column" width="1024" height="604" %}
+{% include pattern-figure.html image="({{ site.url }}/assets/images/dropbox-comments-minutes-to-midnight.jpg" caption="Clients can add comments from the sidebar column" width="1024" height="604" %}
 
 ## Client review
 

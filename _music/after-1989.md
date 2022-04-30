@@ -92,7 +92,7 @@ The next phase was edit, polish and mix. I employed a technique borrowed from **
 I also eagerly dived more deeply into [Michael Brauer's multi-bus compression](https://brauerizing.wordpress.com/) technique, which I already experimented with in previous productions. More powerful and even better refined, today it's still a staple in my templates.
 
 {: .detached .text-center .my-5 }
-![My current multi-bus tracks in REAPER](/assets/images/multi-bus-brauer.png){: width='420' height='687' }
+![My current multi-bus tracks in REAPER](({{ site.url }}/assets/images/multi-bus-brauer.png){: width='420' height='687' }
 
 In a nutshell: instead of applying a single mix bus compressor, the multi-bus methodology requires sending different instruments, **grouped by function and frequency range**, to four different set of compressors. I route piano and other synths to bus A, drums and bass to bus B, guitars, certain strings and synths to bus C, sound effects plus reverbs and delays to bus D. This way, the compressors act on specific settings without squashing material that they're not suited for. A thorough [calibration](https://youtu.be/M0akUKhkok0) is required before starting to apply any routing.
 

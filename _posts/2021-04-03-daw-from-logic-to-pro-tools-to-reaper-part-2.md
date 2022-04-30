@@ -34,7 +34,7 @@ Pretty much everything can be customized, down to the look & feel. Like [its cre
 
 This is a huge one for me. REAPER has a [scripting engine](https://www.reaper.fm/sdk/reascript/reascript.php). It’s a DAW that can be **manipulated through programming**, whether it’s Python, Lua, or its own open source language (EEL). Even without being a coder, a lot can still be achieved with the myriad of stock commands (_actions_), shortcuts and mouse modifiers alone, not to mention the possibility of creating multi-layered **custom actions** (basically: macros).
 
-{% include pattern-figure.html image="/assets/images/daw-reaper-custom-actions.png" caption="The actions window, featuring my current custom macros at the top" width="768" height="339" %}
+{% include pattern-figure.html image="({{ site.url }}/assets/images/daw-reaper-custom-actions.png" caption="The actions window, featuring my current custom macros at the top" width="768" height="339" %}
 
 **REAPER is fast** and allows access to each and every function by hitting the <kbd>?</kbd> shortcut, which opens the **actions list**.
 
@@ -42,7 +42,7 @@ This is a huge one for me. REAPER has a [scripting engine](https://www.reaper.fm
 
 Personal example: through the creation of custom actions, I embedded some of my most used workflows from Logic and Pro Tools. I even **applied the same keyboard shortcuts** in several cases, so that I didn’t have to “rewire” my muscle memory. Custom toolbars can be created as well. As opposed to the always-on main toolbar, which holds frequently used commands, I recall a **floating toolbar** with a shortcut. It has actions and macros — in the form of buttons — that I only need sometimes. Once I’m done, it hides with the escape key. I’m scratching the surface here, the possibilities are endless.
 
-{% include pattern-figure.html image="/assets/images/daw-reaper-custom-toolbar.png" caption="A floating toolbar I created, containing some of my custom actions" width="768" height="138" %}
+{% include pattern-figure.html image="({{ site.url }}/assets/images/daw-reaper-custom-toolbar.png" caption="A floating toolbar I created, containing some of my custom actions" width="768" height="138" %}
 
 After less than two weeks using REAPER, I have, among other things:
 
@@ -71,7 +71,7 @@ Quick and efficient custom actions
 
 The repository for all custom themes — as well as extensions, scripts and more — is the [REAPER stash](https://stash.reaper.fm/). Talking about aesthetics, I’m not a fan of the many themes trying to recreate the GUI of other DAWs. I keep alternating a design called _Smooth_ with the default theme for v6.
 
-{% include pattern-figure.html image="/assets/images/daw-reaper-session.jpg" caption="REAPER running the theme Smooth v6" width="768" height="480" %}
+{% include pattern-figure.html image="({{ site.url }}/assets/images/daw-reaper-session.jpg" caption="REAPER running the theme Smooth v6" width="768" height="480" %}
 
 Incredibly detailed and well crafted, _Smooth_ was created for free by a guy who only asks to be [supported on Bandcamp](https://forum.cockos.com/showthread.php?p=2219276), where he published a slightly bizarre but captivating sci-fi concept. Which brings me to the next benefit. 
 
@@ -87,7 +87,7 @@ Being **open to third-party interventions**, the obvious brilliant result is tha
 
 A few months ago, I bought a USB/MIDI controller, the X-Touch One by Behringer. It’s got a single motorized fader and a few added possibilities. Well built and cheaper than its competitor, Presonus' Fader Port.
 
-{% include pattern-figure.html image="/assets/images/xtouch-one.jpg" caption="Behringer X-Touch One" width="768" height="737" %}
+{% include pattern-figure.html image="({{ site.url }}/assets/images/xtouch-one.jpg" caption="Behringer X-Touch One" width="768" height="737" %}
 
 Like other tools who adopts the Mackie protocol though, the X-Touch One handles 8 tracks at a time, despite being built for just one. The resulting problem is that I couldn’t change track in the DAW and immediately see it reflected in the controller. Having to use its physical buttons to move up or down my tracks was so frustratingly slow that I ended up using it within Pro Tools as a mere automation helper, rather than _a quick mixing tool as I intended_.
 

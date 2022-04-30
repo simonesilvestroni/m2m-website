@@ -17,7 +17,7 @@ description: "Silvia Maggi is a UX designer striving to create meaningful digita
 excerpt: false
 summary: 'Silvia Maggi is a UX designer striving to create meaningful digital experiences. As her main focus is on <strong>accessibility, usability and sustainability</strong>, my input on adopting Jekyll and optimizing through Node modules such as purgeCSS ensured great results.'
 featimage: true
-featimage-url: '/assets/images/silvia-maggi-design.jpg'
+featimage-url: '({{ site.url }}/assets/images/silvia-maggi-design.jpg'
 featimage-height: '765'
 performance: true
 googlescore: '100'

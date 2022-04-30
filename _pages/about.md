@@ -40,4 +40,4 @@ Details about this website can be found in the [project page]({{ site.url }}(/pr
 
 <p><mark class="m2m-highlight small"><small class="px-3"><strong>Photography by</strong> <a href="https://silviamaggidesign.com">Silvia Maggi</a></small></mark></p>
 
-{% include pattern-imagegallery.html folder="/assets/images/gallery-press/" id="1" %}
+{% include pattern-imagegallery.html folder="({{ site.url }}/assets/images/gallery-press/" id="1" %}

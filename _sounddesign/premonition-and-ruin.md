@@ -15,7 +15,7 @@ description: "How I co-produced 'Premonition and Ruin', a superb concept album b
 excerpt: 'Full production for a concept album by the British band Ember Rev around <em>a lament for the European ideal</em>.'
 toc: true
 featimage: true
-featimage-url: '/assets/images/mixing-premonition-and-ruin.jpg'
+featimage-url: '({{ site.url }}/assets/images/mixing-premonition-and-ruin.jpg'
 featimage-height: '600'
 permalink: '/projects/sound-design/premonition-and-ruin/'
 ---

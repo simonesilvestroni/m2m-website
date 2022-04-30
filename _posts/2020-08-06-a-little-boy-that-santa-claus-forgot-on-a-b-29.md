@@ -23,7 +23,7 @@ excerpt: '75 years ago, while two young men escaped from Sachsenhausen concentra
 
 **6 August 1945** — At 8:15 am (Hiroshima time) an atomic bomb called _Little Boy_, the first ever to be dropped on a populated city, took less than 50 seconds to fall from the _Enola Gay_ to the city. The _B-29_ stayed over the target area for two minutes and was ten miles away when the bomb detonated.
 
-{% include pattern-figure.html image="/assets/images/hiroshima_aftermath.jpg" caption="The aftermath, Hiroshima" width="780" height="546" %}
+{% include pattern-figure.html image="({{ site.url }}/assets/images/hiroshima_aftermath.jpg" caption="The aftermath, Hiroshima" width="780" height="546" %}
 
 ## Germany, 75 years ago
 
@@ -68,7 +68,7 @@ The contrast between the Christmas carol-like music of the final section, and th
 
 ## Song demo
 
-{% include pattern-figure.html image="/assets/images/paolo-recording-littleboy.jpg" caption="Paolo and I, in London, recording <em>Little Boy</em>" width="750" height="498" %}
+{% include pattern-figure.html image="({{ site.url }}/assets/images/paolo-recording-littleboy.jpg" caption="Paolo and I, in London, recording <em>Little Boy</em>" width="750" height="498" %}
 
 Here is the demo of the song, at the time **entirely played by Paolo Clementi** with the acoustic viola. We recorded dozen of tracks, while he played the solo on top of these layers. Both the solo and the final viola riff made it to the final version.
 

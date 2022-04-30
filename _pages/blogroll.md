@@ -30,7 +30,7 @@ permalink: '/blogroll/'
 - [Michael Harley](https://obsolete29.com/) — Software engineer living in Nashville and working as a SharePoint Developer specializing in Power Apps, Power Automate and PowerShell. He enjoys writing about privacy, development, security, hiking, riding bicycles and grilling.
 - [Ru Singh](https://rusingh.com/) — She's a generalist developer, focused on the web and the front-end since 2017. Ru writes about JavaScript, Django, and Python, document, administrate systems & projects, build beautiful user interfaces to go with easy user experiences and self-host.
 - [Jim Nielsen](https://blog.jim-nielsen.com/) — A designer who codes, working across the perceivedly disparate boundaries of design, engineering and product.
-- [Parimal Satyal](https://neustadt.fr) ![new](/assets/images/new.gif) — Parimal is a designer and occasional writer living in Berlin. His interests are in communication, languages, cross-cultural exchange, aviation, computer history, information systems and the European Union. Parimal's personal website is a tribute to the creative web of the 90s.
+- [Parimal Satyal](https://neustadt.fr) ![new](({{ site.url }}/assets/images/new.gif) — Parimal is a designer and occasional writer living in Berlin. His interests are in communication, languages, cross-cultural exchange, aviation, computer history, information systems and the European Union. Parimal's personal website is a tribute to the creative web of the 90s.
 
 ## Facts, personal
 
@@ -39,7 +39,7 @@ permalink: '/blogroll/'
 - [Abandoned Berlin](https://www.abandonedberlin.com) — An attempt to document the past, uncover hidden history and preserve the memory of neglected glories, as they are now.
 - [George Monbiot](https://www.monbiot.com/) — Journalist and writer, he tells people what they don’t want to hear. I find his writings on climate and politics slightly depressing though always illuminating.
 - [Richard Pierce](https://tettig.com/) — Richard Pierce is an author, broadcaster, and painter from the United Kingdom. His prose is captivating and always incredibly empathetic.
-- [Raymond Hines](https://alongtheray.com) ![new](/assets/images/new.gif) — Ray is a lifelong entrepreneur who began a nomadic life on the road in 2016. He's been living in a tiny camper ever since. In his inspiring blog he shares the literal and figurative journey in all manner of ways: the highs, lows, introspectives, poetry, photographs, and more.
+- [Raymond Hines](https://alongtheray.com) ![new](({{ site.url }}/assets/images/new.gif) — Ray is a lifelong entrepreneur who began a nomadic life on the road in 2016. He's been living in a tiny camper ever since. In his inspiring blog he shares the literal and figurative journey in all manner of ways: the highs, lows, introspectives, poetry, photographs, and more.
 
 {: .detached .mt-5 }
 Last update: <kbd>{{ page.last_modified_at }}</kbd>

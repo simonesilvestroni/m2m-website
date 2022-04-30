@@ -15,7 +15,7 @@ description: "I worked as a sound designer for the Paris-based animation agency 
 excerpt: 'Sound design for the Paris-based animation agency Amuse on their acclaimed YouTube show, part of a series called Car City.'
 toc: true
 featimage: true
-featimage-url: '/assets/images/tom-the-tow-truck-cartoon.jpg'
+featimage-url: '({{ site.url }}/assets/images/tom-the-tow-truck-cartoon.jpg'
 featimage-height: '600'
 permalink: '/projects/sound-design/car-city-cartoon/'
 ---
@@ -38,7 +38,7 @@ Founded in 2015, Amuse is dedicated to producing and distributing **kids' conten
 HR contacted me through [SoundLister](https://soundlister.com/portfolio/simone-silvestroni/), explaining the type of job and the fact it would be fully remote. They also sent a 36-seconds long test to be completed for the following week — which I did, successfully.
 
 {: .detached .text-center .my-5 }
-![Logic project for my initial test of Car City: Tom the Tow Track](/assets/images/carcity-test-logic.jpg){: width='1024' height='604' }
+![Logic project for my initial test of Car City: Tom the Tow Track](({{ site.url }}/assets/images/carcity-test-logic.jpg){: width='1024' height='604' }
 
 ## Onboarding
 
@@ -72,7 +72,7 @@ Then it was a matter of following the story and create the sound design for the 
 I didn't particularly use plug-ins except for **reverb with impulse responses**, though I did rely a lot on Logic functionalities such as **item gain**, **pan**, and a whole lot of **automation**.
 
 {: .detached .text-center .my-5 }
-![Logic project with automation for Car City: Tom the Tow Track](/assets/images/carcity-tom-logic.jpg){: width='1024' height='604' }
+![Logic project with automation for Car City: Tom the Tow Track](({{ site.url }}/assets/images/carcity-tom-logic.jpg){: width='1024' height='604' }
 
 ## Delivery & Feedback
 

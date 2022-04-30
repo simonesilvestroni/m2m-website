@@ -48,7 +48,7 @@ We recorded, arranged and roughly produced about 15 pieces of music, including t
 My Warwick Thumb bass and Paolo's Fender Strat are both around thirty years old now, and they're prominently featured in the album. I didn't use many plugins to produce the rough mixes: I mostly relied on Reason's brilliant integrated rack: the **SSL-based mixer** with his familiar channel strip, the 1970s-sounding delay reminiscent of a _Roland Space Echo_, and a couple of reverbs. The only exceptions were made for his electric guitar: we adopted a custom mix of **Line-6** and **Kuassa virtual amps**. It's still pretty effective, though I re-amped many tracks for the final album.
 
 {: .detached .text-center .my-5 }
-![SSL mixer in Reason](/assets/images/reason-ssl.jpg){: width='1024' height='629' }
+![SSL mixer in Reason](({{ site.url }}/assets/images/reason-ssl.jpg){: width='1024' height='629' }
 
 ### Outtakes
 

@@ -16,7 +16,7 @@ excerpt: false
 summary: 'The focus of the brief was to re-design UniCredit’s existing online landing pages for new customer acquisitions. We designed and developed a fully responsive site with custom experiences for smartphone, tablet and desktop to replace the existing desktop-only landing pages.'
 toc: false
 featimage: true
-featimage-url: '/assets/images/unicredit.jpg'
+featimage-url: '({{ site.url }}/assets/images/unicredit.jpg'
 featimage-height: '765'
 permalink: '/projects/web-design/unicredit/'
 ---

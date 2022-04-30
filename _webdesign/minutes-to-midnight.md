@@ -23,7 +23,7 @@ excerpt: false
 summary: '<strong>Migrating from WordPress</strong> to a static site generator has been a blessing. In this case study, I explain why my current website, built on Jekyll and hosted on Netlify, eclipses the previous one on <abbr title="Information Architecture">IA</abbr>, performance, sustainability and maintenance.'
 toc: true
 featimage: true
-featimage-url: '/assets/images/minutes-to-midnight.jpg'
+featimage-url: '({{ site.url }}/assets/images/minutes-to-midnight.jpg'
 featimage-height: '574'
 performance: true
 googlescore: '100'
@@ -173,7 +173,7 @@ $ xargs -tI % mkdir % < categories.txt
 $ cd ../tags
 $ xargs -tI % mkdir % < tags.txt
 ```
-As an example, here's the folders generated under `/category/`: {% include pattern-figure.html image="/assets/images/taxonomies-tree-cats.png" alt="Tree example for generated directories" width="500" height="486" %}
+As an example, here's the folders generated under `/category/`: {% include pattern-figure.html image="({{ site.url }}/assets/images/taxonomies-tree-cats.png" alt="Tree example for generated directories" width="500" height="486" %}
 - Then, I generated an empty HTML index file into each directory:
 ```bash
 $ find . -type d | xargs  -I '{}' touch '{}/index.html'
@@ -263,11 +263,11 @@ The SASS part of the module takes care of making the iframe fully responsive:
 
 I've been using [Alfred](https://www.alfredapp.com/) on macOS for many years. Among other things, it offers access to clipboard history and **creation of custom text snippets**. A keyword for each snippet can be set. For example, to embed my include code for adding a `<figure>` tag, I type `/figure` and then complete the missing data where `000` is present:
 
-{% include pattern-figure.html image="/assets/images/embed-figure.gif" alt="Short animation of how I embed a figure tag" caption="Embedding a figure tag using Alfred" width="1050" height="470" %}
+{% include pattern-figure.html image="({{ site.url }}/assets/images/embed-figure.gif" alt="Short animation of how I embed a figure tag" caption="Embedding a figure tag using Alfred" width="1050" height="470" %}
 
 Like the block editor in WordPress, I associated keywords such as `/image`, `/youtube` and so on. All modules, whether simple like the above or complex like the [image gallery carousel]({{ site.url }}(/projects/web-design/responsive-photogallery-carousel/), work the same way. I can also recall Alfred's snippets window with my shortcut **⌥ ⌘ C**, select the one I need and hit enter.
 
-{% include pattern-figure.html image="/assets/images/embed-alfred.jpg" alt="Alfred's snippets recall window" caption="Alfred's snippets recall window" width="960" height="562" %}
+{% include pattern-figure.html image="({{ site.url }}/assets/images/embed-alfred.jpg" alt="Alfred's snippets recall window" caption="Alfred's snippets recall window" width="960" height="562" %}
 
 ### Assets
 
@@ -527,7 +527,7 @@ bundle exec jekyll build --config _config.yml,_config-production.yml
 Only `0.07g of CO2` is produced every time someone visits the homepage. Cleaner than `93%` of [web pages tested](https://www.websitecarbon.com/website/minutestomidnight-co-uk/ "Visit Website carbon"). The website is running on sustainable energy.
 
 {: .detached }
-Due to the site compact size, it's member of: [<img src="/assets/images/orange-team.svg" alt="512kb Orange Team">](https://512kb.club)
+Due to the site compact size, it's member of: [<img src="({{ site.url }}/assets/images/orange-team.svg" alt="512kb Orange Team">](https://512kb.club)
 
 ## Search engine
 
@@ -573,4 +573,4 @@ Even though Netlify has a free plug-in that would automatically send webmentions
 - [Brid.gy](https://brid.gy/) pulls webmentions to mine from certain external sites such as WordPress, Mastodon and Flickr, among many others — with the added capability to cross-post my content there. This principle is called [POSSE](https://indieweb.org/POSSE) — Publish (on your) Own Site, Syndicate Elsewhere.
 
 {: .detached .text-center .mt-5 }
-![Webmentions on a recent blog post](/assets/images/webmention-reactions.png){: width='720' height='473' }
+![Webmentions on a recent blog post](({{ site.url }}/assets/images/webmention-reactions.png){: width='720' height='473' }

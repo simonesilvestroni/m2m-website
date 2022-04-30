@@ -19,7 +19,7 @@ excerpt: false
 summary: "Following Reevoo strict guidelines, we developed a multi-language bespoke WordPress corporate website which included a live demo application. It shown potential clients how user generated content such as reviews, ratings and conversation could be delivered and embedded on their web products. The website featured integrations with Salesforce for lead generation and LinkedIn for authentication. Despite an heavy usage of images and videos, we managed to achieve a good performance."
 toc: false
 featimage: true
-featimage-url: '/assets/images/reevoo.jpg'
+featimage-url: '({{ site.url }}/assets/images/reevoo.jpg'
 featimage-height: '765'
 performance: true
 googlescore: '84'
