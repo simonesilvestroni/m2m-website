@@ -6,6 +6,7 @@
     "serve": "bundle exec jekyll serve --livereload",
     "watch": "sass --watch sass:assets/css",
     "start": "npm-run-all --parallel serve watch",
+    "startdraft": "npm-run-all --parallel servedraft watch",
     "servedraft": "bundle exec jekyll serve --drafts --livereload",
     "servefuture": "bundle exec jekyll serve --drafts --future --livereload",
     "css": "npm-run-all css-compile css-purge css-prefix css-minify",
