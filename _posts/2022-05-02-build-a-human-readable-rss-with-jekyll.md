@@ -63,3 +63,8 @@ Here's a link to my new human-readable [RSS feed]({{ site.url }}/feed.xml). Belo
 {: .list-unstyled .ps-0 }
 - 📄 [RSS XML feed on Github ↗︎](https://github.com/minutes2midnight/m2m-website/blob/master/feed.xml)
 - 📄 [XSL file on GitHub ↗︎](https://github.com/minutes2midnight/m2m-website/blob/master/feed.xsl)
+
+---
+
+{: .fs-6 }
+🔄 <a href="https://news.indieweb.org/en" class="u-syndication">Also posted on IndieNews</a>
