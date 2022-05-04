@@ -7,7 +7,7 @@
   {% for category in categories %}
   <mark class="m2m-highlight d-inline-block mb-2"><span class="p-category text-uppercase initialism fw-bold px-2"><strong>{{ category | upcase | replace:"-"," " }}</strong></span></mark>
   {% endfor %}
-  <h2 class="p-name display-6 my-3"><a class="m2m-link" href="{{ post.url }}" title="Read the post">{{ post.title }}</a></h2>
+  <h2 class="p-name my-3"><a class="m2m-link" href="{{ post.url }}" title="Read the post">{{ post.title }}</a></h2>
   {%- if post -%}
     {% assign date = post.date %}
   {%- elsif page -%}

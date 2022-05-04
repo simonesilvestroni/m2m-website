@@ -41,7 +41,7 @@ header {
 .m2m-container {
   @include media-breakpoint-up(lg) {
     @include make-container($spacer);
-    max-width: 960px;
+    max-width: 880px;
   }
 }
 footer {
@@ -74,6 +74,7 @@ footer {
 
 h1 {
   @extend .m2m-mask-texture;
+  font-weight: 900;
 }
 
 // Search page result heading (component)
@@ -197,11 +198,11 @@ code {
 pre {
   font-size: rfs-fluid-value(16px);
   color: $pre-color;
-  margin: $spacer*2.5 0;
-  padding: $spacer*1.5;
+  margin: $spacer*2 0;
+  padding: $spacer;
   background: rgba($light, 0.7);
-  border-radius: 9px;
-  border-bottom: 1px solid $light;
+  border-top: 1px solid $heading-l-90;
+  border-bottom: 1px solid $heading-l-90;
   @include media-breakpoint-up(lg) {
     width: 90%;
   }
@@ -327,6 +328,10 @@ dd {
 .stretched-link {
   @extend %m2m-link;
 }
+// Footnotes
+.footnote {
+  text-decoration: none !important;
+}
 
 
 // ------------------------------------------------ \\
@@ -374,11 +379,7 @@ dd {
   }
   // Entry block ordered lists
   ol {
-    margin-top: $spacer*1.5;
-    margin-bottom: $spacer*1.5;
-    @include media-breakpoint-up(md) {
-      width: 80%;
-    }
+    padding-left: $spacer*1.5;
     li {
       @extend %m2m-entry-fs;
       line-height: 1.45;
@@ -517,9 +518,9 @@ hr {
 %m2m-ul {
   list-style-position: outside;
   margin: $spacer 0 $spacer*1.5 0;
-  padding-left: $spacer*1.5;
+  padding-left: $spacer*1.1;
   li {
-    margin: .35rem 0;
+    margin: 0;
     &::marker {
       color: $link-d-20;
     }

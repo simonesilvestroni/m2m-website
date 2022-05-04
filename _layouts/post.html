@@ -14,7 +14,7 @@ layout: default
       <a class="bg-light m2m-link text-uppercase p-1" href="/blog/category/{{ category | slugify | append: '/' }}"><span class="p-category">{{ category | upcase | replace:"-"," " }}</span></a>
     </div>
     {%- endfor -%}
-    <h1 class="text-center text-md-start display-4 mt-4">{{ page.title }}</h1>
+    <h1 class="text-center text-md-start mt-4">{{ page.title }}</h1>
     <p class="p-name lead">
       {{ page.excerpt }}
       {%- if page.mention == true %}
