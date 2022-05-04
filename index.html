@@ -25,7 +25,7 @@ last_modified_at: 2022-04-26 16:56:31
     <div class="col-12 col-md-4 pb-5 pb-md-0">
       <!-- Latest post -->
       {%- assign recentPosts = site.posts | sort: 'date' | reverse -%}
-      <h2 class="text-center fs-4"><mark class="m2m-highlight d-inline-block fw-bold initialism px-3 me-1"><strong>Latest post</strong></mark></h2>
+      <h2 class="text-center fs-5"><mark class="m2m-highlight d-inline-block fw-bold initialism px-3 me-1"><strong>Latest post</strong></mark></h2>
       {%- for post in recentPosts limit: 1 -%}
       <p class="text-center fs-5"><a class="m2m-link" href="{{ post.url }}" title="Read the post"><strong>{{ post.title }}</strong></a></p>
       {% endfor -%}
@@ -36,13 +36,13 @@ last_modified_at: 2022-04-26 16:56:31
       {%- assign webdesign = site.webdesign -%}
       {%- assign projects = sounddesign | concat: webdesign -%}
       {%- assign sortedprojects = projects | sort: 'date' | reverse -%}
-      <h2 class="text-center fs-4"><mark class="m2m-highlight d-inline-block fw-bold initialism px-3 me-1"><strong>Latest project</strong></mark></h2>
+      <h2 class="text-center fs-5"><mark class="m2m-highlight d-inline-block fw-bold initialism px-3 me-1"><strong>Latest project</strong></mark></h2>
       {% for project in sortedprojects limit: 1 %}
       <p class="text-center fs-5"><a class="m2m-link" href="{{ project.url }}" title="Read the case study"><strong>{{ project.title }}</strong></a></p>
       {% endfor %}
     </div>
     <div class="col-12 col-md-4">
-      <h2 class="text-center fs-4"><mark class="m2m-highlight d-inline-block fw-bold initialism px-3 me-1"><strong>Latest music release</strong></mark></h2>
+      <h2 class="text-center fs-5"><mark class="m2m-highlight d-inline-block fw-bold initialism px-3 me-1"><strong>Latest music release</strong></mark></h2>
       <p class="text-center fs-5"><a class="m2m-link" href="https://music.minutestomidnight.co.uk/track/non-sai-chi-sono-remix" title="Non sai chi sono (remix) with Emilio Albertoni"><strong>Non sai chi sono (remix)</strong></a></p>
     </div>
   </div>
