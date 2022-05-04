@@ -18,4 +18,4 @@ permalink: '/projects/project-management/'
 
 <p class="p-summary lead">{{ page.excerpt }}</p>
 
-{% include pattern-figure.html image="(/assets/images/efficient-productivity-ebook.png" alt="Efficient productivity for music professionals (ebook cover)" width="1024" height="669" %}
+{% include pattern-figure.html image="/assets/images/efficient-productivity-ebook.png" alt="Efficient productivity for music professionals (ebook cover)" width="1024" height="669" %}

@@ -44,7 +44,7 @@ excerpt: "In the past twelve months I’ve managed to revolutionize my music sof
 
 After starting out with Cubase in 1995 and using it until v4, I moved to eMagic’s Logic in 2002. Transitioned to Apple’s [Logic Pro X](https://www.apple.com/logic-pro/) a bit late, I stayed there until last year. All in all, **it’s been 18 years with Logic**.
 
-{% include pattern-figure.html image="(/assets/images/daw-logic-platinum.jpg" caption="2002: Logic Audio Platinum 5" width="768" height="581" %}
+{% include pattern-figure.html image="/assets/images/daw-logic-platinum.jpg" caption="2002: Logic Audio Platinum 5" width="768" height="581" %}
 
 ## Pro Tools
 
@@ -52,7 +52,7 @@ I used plenty of other audio software over time and had always felt like **Logic
 
 I see it as a brilliant computer metaphor for someone who **learned the craft in the analog world**. The management of the I/O, the way it handles sends and returns, and above all, the powerful and fast audio editing. Yet, there’s something about it that always felt awkward to me. I didn’t enjoy its distinct lack of personalization, the difficult compatibility, and the **unpredictability software-wise**. Too many random crashes and obscure error messages that never quite stood up to its price.
 
-{% include pattern-figure.html image="(/assets/images/daw-protools-error.png" caption="Not very useful Pro Tools error message" width="768" height="258" %}
+{% include pattern-figure.html image="/assets/images/daw-protools-error.png" caption="Not very useful Pro Tools error message" width="768" height="258" %}
 
 Now, with my subscription about to expire, and irritated by the idea of another hefty payment during a harsh pandemic, I decided to jump ship, again.
 
@@ -107,7 +107,7 @@ I can install my copy of REAPER on **Mac, Windows or Linux**. If I need to, I ca
 
 Since the **video game industry** is understandably bent towards Windows, it’s clear to me why a multi-platform capability is one of many reasons why REAPER became a standard. Given how easy is to **export and re-import all the settings and customizations**, I can easily keep my REAPER setup in sync on all systems.
 
-{% include pattern-figure.html image="(/assets/images/daw-reaper-preferences.jpg" caption="Import and export REAPER’s configuration" width="768" height="513" %}
+{% include pattern-figure.html image="/assets/images/daw-reaper-preferences.jpg" caption="Import and export REAPER’s configuration" width="768" height="513" %}
 
 ### Tracks
 
@@ -121,13 +121,13 @@ This was a biggie for me. I was stunned to discover that **REAPER doesn’t have
 6.  Mono
 7.  Stereo
 
-{% include pattern-figure.html image="(/assets/images/daw-pro-tools-new-tracks.jpeg" caption="Create new tracks in Pro Tools" width="500" height="179" %}
+{% include pattern-figure.html image="/assets/images/daw-pro-tools-new-tracks.jpeg" caption="Create new tracks in Pro Tools" width="500" height="179" %}
 
-{% include pattern-figure.html image="(/assets/images/daw-logic-pro-x-new-track.png" caption="Create new tracks in Logic Pro X" width="1262" height="654" %}
+{% include pattern-figure.html image="/assets/images/daw-logic-pro-x-new-track.png" caption="Create new tracks in Logic Pro X" width="1262" height="654" %}
 
 Imagine having to double click in the track area and **not worry about any of the above**. That’s REAPER. Here, _a track is just a track_: I can decide later on its routing, based on what I need. Of course, I can add multiple tracks at once and more if I want, but the basic action is **built for speed**. As for pretty much everything in REAPER, a track can be created in three ways: double click in the track area; keyboard shortcut; right-click in the track area (opens a contextual menu with more options).
 
-{% include pattern-figure.html image="(/assets/images/daw-reaper-create-new-tracks.jpg" caption="REAPER: create new track(s)" width="694" height="372" %}
+{% include pattern-figure.html image="/assets/images/daw-reaper-create-new-tracks.jpg" caption="REAPER: create new track(s)" width="694" height="372" %}
 
 Drag an audio file, whether mono, stereo or multichannel, and the track accepts it; do the same by dropping a MIDI file. It also doesn’t care if the audio files are at different sample rates. **Later, you can decide** if it has to be mono or stereo, assign outputs and/or sends and whatnot. Also, and this is utterly cool: I can have a mono audio, a stereo (or surround) audio and a MIDI sequence **all in one track**:
 
@@ -140,15 +140,15 @@ It’s a different metaphor, and it leads to a _whole new workflow_. It’s beco
 
 There are several ways to **manipulate the signal flow** in REAPER. Each one serves a purpose depending on the situation. For instance, clicking the route icon in a track the following appears:
 
-{% include pattern-figure.html image="(/assets/images/daw-reaper-routing-track.png" caption="The routing window from a track in REAPER" width="768" height="291" %}
+{% include pattern-figure.html image="/assets/images/daw-reaper-routing-track.png" caption="The routing window from a track in REAPER" width="768" height="291" %}
 
 For **sends and returns**, I can either use the basic routing window pictured above, or drag the route icon from one track onto another: the cursor changes into a patch cable, symbolizing the connection.
 
-{% include pattern-figure.html image="(/assets/images/daw-reaper-drag-send.png" caption="Create a send from one track to another by dragging the route icon (“IO” in my skin) to a track" width="768" height="692" %}
+{% include pattern-figure.html image="/assets/images/daw-reaper-drag-send.png" caption="Create a send from one track to another by dragging the route icon (“IO” in my skin) to a track" width="768" height="692" %}
 
 I can also select **multiple tracks** at once, hold SHIFT and drag from the same icon to re-route them all. Technically, all these actions create a bus/aux, but again, I don’t have to worry about it. I usually assign a custom color to my busses so that they’re easily recognizable, and work it out later. The fastest way to create a bus is to **create a folder**. It’s as easy as clicking the folder icon in the track: the ones below will indent and be instantly re-routed. Once a folder is created, a “shadow region” is generated at the top level, so that when the folder is collapsed its content is still visible.
 
-{% include pattern-figure.html image="(/assets/images/daw-reaper-folder.png" caption="A folder in REAPER, with its shadow region at the top" width="768" height="183" %}
+{% include pattern-figure.html image="/assets/images/daw-reaper-folder.png" caption="A folder in REAPER, with its shadow region at the top" width="768" height="183" %}
 
 The **routing matrix** window can be used to apply elaborated signal flows to the whole song. As an example, I always send my mix to four groups (see: [Brauerizing](https://brauerizing.wordpress.com/)) depending on the material; these A to D groups feed a mix bus where I apply my top-level processing. Finally, it goes to the master output which holds meter readings. In addition, I have my external DAC for headphones, routed to output 7-8 of my interface. I can do all this _in seconds_, as demonstrated by Kenny Gioia in the following video:
 
@@ -158,7 +158,7 @@ The **routing matrix** window can be used to apply elaborated signal flows to th
 
 Similarly to Pro Tools, I can group tracks together, for mixing or editing. However, REAPER supports _temporary groups_ too, as Logic does. Select multiple tracks, **quickly manipulate them** — volume, pan, solo, mute, etc — and unselect to go back to normal. It works in the track panel as well as in the mixer, and it’s awesome. Same as for the routing, there is a **grouping matrix** window, where more complex connections can be applied quickly to the entire project.
 
-{% include pattern-figure.html image="(/assets/images/daw-reaper-grouping-matrix.png" caption="REAPER grouping matrix" width="768" height="466" %}
+{% include pattern-figure.html image="/assets/images/daw-reaper-grouping-matrix.png" caption="REAPER grouping matrix" width="768" height="466" %}
 
 ___
 

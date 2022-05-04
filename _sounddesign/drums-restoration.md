@@ -28,7 +28,7 @@ In 2017 I was playing bass and [producing the debut single]({{ site.url }}/blog/
 
 After we received the audio tracks, we noticed **two issues with the drums**. First: a repeating squeaky sound coming from the hi-hat pedal was captured by all the microphones. This was a _major problem_.
 
-{% include pattern-figure.html image="(/assets/images/audio-editing-rx-squeaky-hihat.jpg" caption="iZotope RX spectral view showing the squeaky hi-hat noise" width="1024" height="604" %}
+{% include pattern-figure.html image="/assets/images/audio-editing-rx-squeaky-hihat.jpg" caption="iZotope RX spectral view showing the squeaky hi-hat noise" width="1024" height="604" %}
 
 <div class="alert alert-background-d-10 px-4 py-4 my-5">
   <h3 class="text-uppercase text-center mt-0">Noise: before</h3>

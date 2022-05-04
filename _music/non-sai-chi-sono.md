@@ -33,7 +33,7 @@ Then Covid arrived. After a few months and several chats, we agreed Emilio would
 > I’ve been collaborating with Gianluca for twenty years, somehow picking up Simone’s baton right after he left Ravenna in the mid-Nineties. When we met last year, in a foggy wintry night, we couldn’t possibly know that a global pandemic was around the corner, nor that we would have worked together remotely, despite ironically living so close.
 > <cite>&mdash; Emilio Albertoni</cite>
 
-{% include pattern-figure.html image="(/assets/images/loto-studio.jpg" caption="Gianluca Lo Presti’s Loto studio, where Emilio and I used to work" width="1080" height="667" %}
+{% include pattern-figure.html image="/assets/images/loto-studio.jpg" caption="Gianluca Lo Presti’s Loto studio, where Emilio and I used to work" width="1080" height="667" %}
 
 ## Interpretation
 
@@ -52,7 +52,7 @@ Production-wise, I remember playing my **fretless bass** over and over against E
 
 After re-settling in my coastal Italian hometown, I managed to work on my side of production. Added the vocals, the bass, reorganized the samples, recorded a new rhythmic section in the chorus, along with an original Italian TV announcement of Nixon’s victory in 1968.
 
-{% include pattern-figure.html image="(/assets/images/arrigo-levi.jpg" caption="Arrigo Levi, announcing Nixon’s victory on Italian TV (1968)" width="461" height="270" %}
+{% include pattern-figure.html image="/assets/images/arrigo-levi.jpg" caption="Arrigo Levi, announcing Nixon’s victory on Italian TV (1968)" width="461" height="270" %}
 
 The spoken words of Gianluca’s father — **recorded by himself on tape** at the time — is featured all along, like a vocal journal of his preparations for a work trip in Iraq in the same year. At the beginning, tenderly speaking to his wife, he states the date: the day before Nixon was announced as the new President of the US.
 

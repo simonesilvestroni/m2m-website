@@ -89,11 +89,11 @@ To break it down:
 
 This is the result, from my [About](/about/) page:
 
-{% include pattern-figure.html image="(/assets/images/gallery-thumbnails.jpg" alt="Column view thumbnail photo gallery" width="920" height="181" %}
+{% include pattern-figure.html image="/assets/images/gallery-thumbnails.jpg" alt="Column view thumbnail photo gallery" width="920" height="181" %}
 
 All of the above is compiled by simply including this folder in the page:
 
-{% include pattern-figure.html image="(/assets/images/gallery-folder.jpg" alt="List of included images in the filesystem" width="431" height="290" %}
+{% include pattern-figure.html image="/assets/images/gallery-folder.jpg" alt="List of included images in the filesystem" width="431" height="290" %}
 
 ### Creating the modal window
 
@@ -316,7 +316,7 @@ I solved the first requirement of wiping out all the Bootstrap-based Javascript 
 
 All tests after the new module was released gave stunning results: despite a total image weight of almost 2 megabytes, Pagespeed on mobile went from `27` to `100`:
 
-{% include pattern-figure.html image="(/assets/images/gallery-pagespeed-end-results-mobile.jpg" alt="Google Pagespeed results" width="920" height="611" %}
+{% include pattern-figure.html image="/assets/images/gallery-pagespeed-end-results-mobile.jpg" alt="Google Pagespeed results" width="920" height="611" %}
 
 ### Local development
 

@@ -31,7 +31,7 @@ After stripping away all the original guitars, I rewrote the piece with a differ
 
 I enhanced the piano progression, added a tom roll in anticipation for the choruses and wrote a guitar solo. Finally, I sampled the audio from the [footage shot around the WTC](https://www.youtube.com/watch?v=IJpql03lDKQ) where the events unfolded. The song, then re-titled _Nine Eleven_, went on to become the first single and lead song for my album [After 1989]({{ site.url }}/music/after-1989/), _Skinny Kid_.
 
-{% include pattern-figure.html image="(/assets/images/nine-eleven-reason.jpeg" caption="The two choruses, as shown in **Propellerhead’s Reason** above, had an eerie resemblance with the twin towers" width="1024" height="951" %}
+{% include pattern-figure.html image="/assets/images/nine-eleven-reason.jpeg" caption="The two choruses, as shown in **Propellerhead’s Reason** above, had an eerie resemblance with the twin towers" width="1024" height="951" %}
 
 ## About the production
 

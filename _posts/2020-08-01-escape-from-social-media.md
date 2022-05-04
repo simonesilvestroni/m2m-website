@@ -98,7 +98,7 @@ If anyone is in a similar situation as mine — a professional [working as a fre
 
 I still don’t know what the lives of my _followers_ really are. What is really going on with them? The point is I’ll never know. I opened up with a few of them, and received enthusiastic reactions. Almost like this is something completely out of the ordinary.
 
-{% include pattern-figure.html image="(/assets/images/fb-deactivated.jpg" caption="Comment from a YouTube thread" width="1135" height="244" %}
+{% include pattern-figure.html image="/assets/images/fb-deactivated.jpg" caption="Comment from a YouTube thread" width="1135" height="244" %}
 
 ## I'm not going off-grid
 
@@ -108,7 +108,7 @@ The most common reaction I get when I tell people I’m leaving social media is:
 
 I don’t think it’s a bold decision at all. On the contrary. Another common motif is that I’m supposedly going to become a hermit. To put things in context: in 2020, `3.96 billion people` — 51% of the entire world population — are using social media (source: [We Are Social](https://wearesocial.com/sg/blog/2020/07/more-than-half-of-the-people-on-earth-now-use-social-media)). For the very first time, there are **more people using these tools than do not**. Of course, this doesn’t automatically mean that the whole 51% are _active_ on social media and the spike is most likely another side effect of COVID-19 and lockdowns. The point is: you can't attach a _hermit_ label to almost 4 billion people. Especially when [I can be found](/contact/) in so many ways.
 
-{% include pattern-figure.html image="(/assets/images/fb-deactivated-02.jpg" caption="Comment from a YouTube thread" width="1135" height="244" %}
+{% include pattern-figure.html image="/assets/images/fb-deactivated-02.jpg" caption="Comment from a YouTube thread" width="1135" height="244" %}
 
 ## A few resources
 

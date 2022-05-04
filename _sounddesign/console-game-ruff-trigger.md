@@ -46,7 +46,7 @@ I used Mac and Windows at the same time: a Dell and a G4 in sync. Each computer 
 
 Whenever I wanted to **offload CPU from Logic**, I tended to run Vegas Pro or Cubase VST on the Dell as **a secondary sequencer**. The mixdown happened on a Sony DAT deck, before the final master.
 
-{% include pattern-figure.html image="(/assets/images/playstos-studio.jpg" caption="Audio studio, circa 2002" width="800" height="531" %}
+{% include pattern-figure.html image="/assets/images/playstos-studio.jpg" caption="Audio studio, circa 2002" width="800" height="531" %}
 
 #### HARDWARE
 
@@ -79,7 +79,7 @@ Whenever I wanted to **offload CPU from Logic**, I tended to run Vegas Pro or Cu
 - Xbox XACT audio middleware
 - Alienbrain assets manager
 
-{% include pattern-figure.html image="(/assets/images/playstos-studio-2.jpg" caption="Audio studio, 2003 (Xbox SDK visible at the top of the rack)" width="1200" height="900" %}
+{% include pattern-figure.html image="/assets/images/playstos-studio-2.jpg" caption="Audio studio, 2003 (Xbox SDK visible at the top of the rack)" width="1200" height="900" %}
 
 ## My work on _Ruff Trigger_
 
@@ -182,7 +182,7 @@ The editing and the final authoring were made with **Sound Forge**, **Vegas Pro*
 
 After obtaining a license to develop the game for Playstation2, we worked to get _Ruff Trigger_ to the **Xbox** as well. Numerous **SDKs arrived from Microsoft**, including a transparent one for the audio team. I learned their middleware [XACT](https://en.wikipedia.org/wiki/Cross-platform_Audio_Creation_Tool) along with **audio optimization and version control** using [Alienbrain](https://www.alienbrain.com/).
 
-{% include pattern-figure.html image="(/assets/images/xact_microsoft.jpg" caption="Microsoft XACT v2.0" width="850" height="540" %}
+{% include pattern-figure.html image="/assets/images/xact_microsoft.jpg" caption="Microsoft XACT v2.0" width="850" height="540" %}
 
 The dev team in Playstos had done a great job integrating all the required Xbox libraries and dependencies, so that we could work with XACT using **calls from the game engine** to trigger both sound effects and the adaptive soundtrack.
 
@@ -193,19 +193,19 @@ We managed and implemented audio for two different major console platforms, usin
 
 In January 2002 the CEO informed me that I'd be one of twelve colleagues who would attend the [Game Developer Conference](https://gdconf.com/) in San Jose (California), 19<sup>th</sup> to 23<sup>rd</sup> of March, though we ended up staying for more than a week. The motto for that edition was _Make Better Games_.
 
-{% include pattern-figure.html image="(/assets/images/gdc-2002-entrance.jpg" caption="GDC 2002: Entrance of the Convention Center in San Jose" width="640" height="480" %}
+{% include pattern-figure.html image="/assets/images/gdc-2002-entrance.jpg" caption="GDC 2002: Entrance of the Convention Center in San Jose" width="640" height="480" %}
 
 Around **ten thousand people** took part that year. A formative experience, it pushed me out of my comfort zone like anything has ever done before. I met with strangers from all over the world, exchanged views and contacts, took an astounding amount of notes.
 
 Audio conferences started a day later, on the 20<sup>th</sup>, so I wandered around the suburbs alone for hours. I ended up buying the iPod first edition at a massive _San Antonio Shopping Center_. Ironically, I met a sound designer there with whom I chatted for a while.
 
-{% include pattern-figure.html image="(/assets/images/gdc-2002-attendants.jpg" caption="GDC 2002: Attendance at a workshop" width="768" height="519" %}
+{% include pattern-figure.html image="/assets/images/gdc-2002-attendants.jpg" caption="GDC 2002: Attendance at a workshop" width="768" height="519" %}
 
 My first day was entirely filled with the 8-hours workshop _Using DirectMusic for Music and Sound FX_, with **Brian Schmidt** and **Scott Selfon** among others. Amazing insights about XACT and how to optimize the audio delivery on an Xbox.
 
 Beyond the [first unveiling of **Steam**](https://www.gamespot.com/articles/gdc-2002-valve-unveils-steam/1100-2857298/) by Valve on the 22<sup>nd</sup>, I took part in the historical event for the game audio industry the day before: **the foundation of the [Game Audio Network Guild](https://www.audiogang.org/)**, with Tommy Tallarico, Brian Schmidt, Thomas Dolby and many others. I still have my bronze member certification. The end of that same day was highlighted by _Using a Live Orchestra in Game Soundtracks_ with **Michael Giacchino** and others.
 
-{% include pattern-figure.html image="(/assets/images/gdc-2002-locator-badge.jpg" caption="GDC 2002: Conference locator and my entrance badge" width="758" height="1024" %}
+{% include pattern-figure.html image="/assets/images/gdc-2002-locator-badge.jpg" caption="GDC 2002: Conference locator and my entrance badge" width="758" height="1024" %}
 
 The culmination was the keynote given by [Martin O'Donnell](https://en.wikipedia.org/wiki/Martin_O'Donnell), audio director for Bungie on Saturday the 23<sup>rd</sup>. I experienced **_The Audio Production for Halo_** in a room absolutely packed. Besides the technical aspects of him showing production screenshots and actual tricks, along with praises to Microsoft for letting him work on a Mac, I remember filling half a journal with notes about how **sound can empower a non-linear story**.
 

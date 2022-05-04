@@ -40,7 +40,7 @@ We met at the SAE Studio in London to record the bass track for _Commit to the L
 
 Rehearsals for the live concerts went well. I loved how quickly we all blended and how efficient the band was. The first gig at the Century Club in London was a success. Many others followed, including our participation at the <strong>Victorious Festival in Portsmouth</strong>.
 
-{% include pattern-figure.html image="(/assets/images/live-with-callum-gardner.jpg" caption="Live With Callum Gardner – Photo by Silvia Maggi" width="1024" height="767" %}
+{% include pattern-figure.html image="/assets/images/live-with-callum-gardner.jpg" caption="Live With Callum Gardner – Photo by Silvia Maggi" width="1024" height="767" %}
 
 ## New songs
 
