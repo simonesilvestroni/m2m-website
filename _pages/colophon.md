@@ -5,7 +5,6 @@ date: '2021-11-08 10:27:27'
 last_modified_at: '2021-11-08 10:27:31'
 description: "Technical details about the website, developed by Simone Silvestroni and designed with Silvia Maggi, who also provided information architecture and photography."
 excerpt: 'Developed by Simone Silvestroni, designed with <a href="https://silviamaggidesign.com/" title="Go to Silvia Maggi website">Silvia Maggi</a>, who also provided information architecture and photography. Check the <a href="/projects/web-design/minutes-to-midnight/">case study</a> for a detailed analysis.'
-toc: true
 permalink: '/colophon/'
 ---
 ## Tools
@@ -56,11 +55,9 @@ Developed from scratch using:
 
 Only `0.07g of CO2` is produced every time someone visits the homepage. Cleaner than `93%` of [web pages tested](https://www.websitecarbon.com/website/minutestomidnight-co-uk/ "Visit Website carbon"). The website is supposed to be running on sustainable energy. However, it seems that Netlify is using AWS, which switches the CDN from US East to US West depending on the time of the day: one is green the other is not yet.
 
-{: .detached}
 The website [does not request third-party resources](https://aremythirdpartiesgreen.com/test/76e7ac7370d84f1fabd254608e118ff4), except for the blog posts, which are calling `webmention.io` to render web mentions.
 
-{: .detached }
-Member of: [![512kb Orange Team]({{ site.url }}/assets/images/orange-team.svg)](https://512kb.club)
+[![512kb Orange Team]({{ site.url }}/assets/images/orange-team.svg)](https://512kb.club "Member of the 512kb Orange Team")
 
 ## Copyright
 
