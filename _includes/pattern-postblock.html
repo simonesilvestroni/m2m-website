@@ -13,12 +13,12 @@
   {%- elsif page -%}
     {% assign date = page.date %}
   {%- endif -%}
-  <p class="fs-5 mb-3">
+  <p class="mb-3">
     <span class="visually-hidden">By <span class="p-author h-card">Simone Silvestroni</span></span>
     <time class="dt-published m2m-font-micro" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time>
   </p>
   <div class="e-content">
-    <p class="p-summary fs-4 text-start mt-2">{{ post.excerpt | markdownify | strip_html }}</p>
+    <p class="p-summary text-start mt-2">{{ post.excerpt | markdownify | strip_html }}</p>
   </div>
 </article>
 <hr class="visually-hidden">
