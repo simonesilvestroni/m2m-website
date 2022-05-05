@@ -9,14 +9,14 @@ permalink: '/blog/popular/'
 ---
 <section class="h-feed m2m-entry" id="blog-popular-posts">
   {% assign popular = site.posts | where: "tags", "popular" %}
-  <ul class="h-feed">
+  <ul class="h-feed list-unstyled ps-0">
     {%- for post in popular limit:4 -%}
     {% if post %}
     {% assign categories = post.categories %}
     {% else %}
     {% assign categories = page.categories %}
     {% endif %}
-    <li><a class="p-name u-url m2m-link pe-4" href="{{ post.url }}">{{ post.title }}</a>{%- for category in categories -%}<span class="p-category text-uppercase">🏷&nbsp;<strong>&nbsp;<code>#{{ category | upcase | replace:"-"," " }}</code></strong></span>{% endfor %}</li>
+    <li class="my-2">📄 <a class="p-name u-url m2m-link pe-2" href="{{ post.url }}">{{ post.title }}</a>{%- for category in categories -%}<span class="p-category text-uppercase">&nbsp;<kbd class="initialism">#{{ category | upcase | replace:"-"," " }}</kbd class="initialism"></strong></span>{% endfor %}</li>
     {%- endfor -%}
   </ul>
 </section>
