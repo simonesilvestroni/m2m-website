@@ -36,6 +36,10 @@ The expression _minutes to midnight_ is a reference to the [Doomsday Clock](http
 
 Details about this website can be found in the [project page]({{ site.url }}/projects/web-design/minutes-to-midnight/) and the [colophon]({{ site.url }}/colophon/).
 
+## Contacts
+
+Find the way to [get in touch]({{ site.url }}/contact/) with me, and my [PGP public key]({{ site.url }}/pgp/).
+
 ## Press photos
 
 <p><mark class="m2m-highlight small"><small class="px-3"><strong>Photography by</strong> <a href="https://silviamaggidesign.com">Silvia Maggi</a></small></mark></p>
