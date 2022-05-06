@@ -27,6 +27,11 @@ layout: default
         {% include hcard-post.html %}
       </span>
     </div>
+    <div class="mt-5">
+      {% if page.toc == true %}
+        {% include pattern-toc.html %}
+      {% endif %}
+    </div>
     <div class="e-content my-5">
       {{ content }}
     </div>
