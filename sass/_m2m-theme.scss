@@ -76,7 +76,9 @@ h1 {
   @extend .m2m-mask-texture;
   font-weight: 900;
 }
-
+h2 {
+  color: black;
+}
 // Search page result heading (component)
 h4 {
   .list-result & {
@@ -351,8 +353,10 @@ dd {
 .m2m-entry {
   // entry headings
   h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
-    color: $m2m-heading-color-base;
     margin-top: $spacer * 3;
+  }
+  h3, h4, h5, h6, .h3, .h4, .h5, .h6 {
+    color: $m2m-heading-color-base;
   }
   // Entry block paragraphs
   p {
@@ -382,6 +386,7 @@ dd {
     padding-left: $spacer*1.5;
     li {
       @extend %m2m-entry-fs;
+      margin-bottom: $spacer;
       line-height: 1.45;
       hyphens: auto;
       ol {
