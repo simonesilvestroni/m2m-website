@@ -10,6 +10,7 @@ tags:
   - liquid
   - xml
   - xslt
+  - popular
 description: 'How I refactored my RSS feed from scratch using Jekyll functionalities and applying XSLT for presentation to render a human-readable XML feed.'
 excerpt: 'I love <abbr title="RDF Site Summary">RSS</abbr>. However, by using a third-party plugin to automatically generate the feed, I didn’t pay attention to how it could be improved. An occasional discussion on Mastodon prompted me to a change.'
 ---
