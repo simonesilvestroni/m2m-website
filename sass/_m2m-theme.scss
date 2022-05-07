@@ -204,9 +204,6 @@ pre {
   background: rgba($light, 0.7);
   border-top: 1px solid $heading-l-90;
   border-bottom: 1px solid $heading-l-90;
-  @include media-breakpoint-up(lg) {
-    width: 90%;
-  }
   code {
     background-color: transparent;
     color: $black;
