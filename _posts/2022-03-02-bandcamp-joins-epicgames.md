@@ -3,7 +3,7 @@ title: 'Bandcamp is joining Epic Games'
 date: '2022-03-02'
 last_modified_at: '2022-03-02 18:32:24'
 categories: 
-  - 'bandcamp'
+  - 'Bandcamp'
 tags:
   - epic games
   - music distribution
