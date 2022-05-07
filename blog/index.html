@@ -4,8 +4,16 @@ title: Blog
 date: '2021-11-06 14:11:45'
 last_modified_at: '2022-03-19 16:15:21'
 description: 'I’ve started my blog in March 2002. I now write about audio, music production, playing bass, video games, facts and using web standards to code for the web.'
-excerpt: 'I’ve started my blog in March 2002. I now write about audio, music production, playing bass, video games, facts and using web standards to code for the web. Follow new posts through the <a href="/feed.xml" title="Subscribe to my RSS feed"><svg width="24" height="24" stroke-width="3" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 19C12 14.8 9.2 12 5 12" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/><path d="M19 19C19 10.6 13.4 5 5 5" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/><path d="M5 19.01L5.01 18.9989" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/></svg>&nbsp;RSS feed</a>.'
+excerpt: 'I’ve started my blog in 2002. Follow new posts through the <a href="/feed.xml" title="Subscribe to my RSS feed">RSS feed</a>.'
 ---
+{% capture cats %}
+  {%- assign sorted_cats = site.categories | sort -%}
+  {%- for category in sorted_cats -%}
+  {%- assign c = category | first -%}
+  <a class="p-name u-url m2m-link" href="/blog/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><span class="initialism p-1">{{ c | upcase | prepend: '#' }}</span></a>{% unless forloop.last %}, {% endunless %}
+  {%- endfor -%}
+{% endcapture %}
+<p>I now write about: {{ cats }}</p>
 <section class="h-feed" id="blog-all-posts">
   <h2 class="p-name visually-hidden text-center text-uppercase">All the posts</h2>
   {%- for post in site.posts %}
