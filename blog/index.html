@@ -10,7 +10,7 @@ excerpt: 'I’ve started my blog in 2002. Follow new posts through the <a href="
   {%- assign sorted_cats = site.categories | sort -%}
   {%- for category in sorted_cats -%}
   {%- assign c = category | first -%}
-  <a class="p-name u-url m2m-link" href="/blog/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><span class="initialism p-1">{{ c | upcase | prepend: '#' }}</span></a>{% unless forloop.last %}, {% endunless %}
+  <a class="p-name u-url m2m-link" href="/blog/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><span{% unless forloop.last %} class="pe-2{% endunless %}">{{ c | prepend: '<span class="fs-6">#</span>' }}</span></a>{% if forloop.last %}.{% endif %}
   {%- endfor -%}
 {% endcapture %}
 <p>I now write about: {{ cats }}</p>
