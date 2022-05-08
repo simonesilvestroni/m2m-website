@@ -57,7 +57,7 @@ Here's a link to my new human-readable [RSS feed]({{ site.url }}/feed.xml). Belo
 
 {% include pattern-figure.html image="/assets/images/rss-before.png" alt="RSS feed before refactor" caption="RSS feed before refactor" width="821" height="960" %}
 
-{% include pattern-figure.html image="/assets/images/rss-after.png" alt="RSS feed after refactor" caption="RSS feed before refactor" width="821" height="960" %}
+{% include pattern-figure.html image="/assets/images/rss-after.png" alt="RSS feed after refactor" caption="RSS feed after refactor" width="821" height="960" %}
 
 ## Source code
 
