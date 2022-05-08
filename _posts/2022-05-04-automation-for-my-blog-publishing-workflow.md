@@ -152,6 +152,13 @@ The trick is to collect the required information, store it in variables which I 
 
 I didn’t touch forms and comments: that’s because I don’t need to automate any dynamic content. I don’t have forms and even if I’ve been planning to ditch Mailchimp and switch to Freelists or manual newsletters, I can easily add a form using Netlify’s functionality[^2], as [Silvia did](https://silviamaggidesign.com/newsletter/). I also didn’t want a comment system in the first place, preferring replies via email and W3C‘s [webmentions](https://en.wikipedia.org/wiki/Webmention).
 
+## Mobile?
+
+In his analysis, Luke has a detailed chapter about how he [writes on-the-go or on mobile devices](https://www.lkhrs.com/blog/2022/04/easier-static-site-publishing/#mobile-and-away-from-home-publishing). Again, I’m not elaborating because I never find myself in such a situation. Writing posts is not a urgent activity for me, therefore relying on my computer is enough. Had I been forced to, I’d consider two alternatives:
+
+- Using [micropub](https://micropub.net/) with one of the online clients. I have an endpoint, unwisely untested though.
+- Accessing my Github repo and activate [VS Code online](https://code.visualstudio.com/docs/editor/github).
+
 ## Deployment
 
 Since the deployment strategy is git-based I don’t think it’s wise to automate this step. I’ve been using either the terminal or [Sublime Merge]({{ site.url }}/uses/#git).
@@ -165,6 +172,12 @@ Since the deployment strategy is git-based I don’t think it’s wise to automa
 {% include pattern-figure.html image="/assets/images/jekyll-automations-image-optim.png" alt="Shortcuts script for optimizing images" caption="Initial Shortcuts script for optimizing images" width="627" height="650" %}
 
 I will update this post or create a *Part 2* as a follow-up in case I manage to substantially improve the workflow.
+
+## Conclusions
+
+So far this methodology has been serving me well. I didn’t mind the previous not-so-dynamic workflow, but I appreciate the value of being helped on repetitive tasks. Especially with images: I’m sure I’ll be tinkering with the scripts until the whole process is consolidated into one precise action.
+
+One thing I really disliked was Apple forcing me to enable iCloud Drive in order to export Shortcuts’ backups on my machine. I don’t see the point other than them trying for the umpteenth time to drag me into their walled garden.
 
 ## Footnotes
 
