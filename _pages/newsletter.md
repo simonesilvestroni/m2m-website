@@ -7,6 +7,6 @@ description: 'My irregular newsletter. I only send one when I actually have upda
 excerpt: 'I only send a newsletter when I actually have updates to share, mostly about releases or facts from the audio, game and web industries. You can reply directly and start a conversation: I always respond.'
 permalink: '/newsletter/'
 ---
-Check the archive of [previous issues ↗︎](https://us17.campaign-archive.com/home/?u=dd893fb89a7ad82c176b2527b&id=d54c366fbf)
+Check an archive of [previous issues]({{ site.url }}/newsletter/archive/).
 
 {% include pattern-newsletter-sub.html %}

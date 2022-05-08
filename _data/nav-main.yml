@@ -44,12 +44,15 @@ menu:
       - name: Hire me
         link: /contact/
         desc: 'Hire me for web or sound design tasks'
-      - name: Follow
+      - name: Follow & chat
         link: /follow/
         desc: 'Follow me on social media'
       - name: Newsletter
         link: /newsletter/
-        desc: 'My irregular newsletter'
+        desc: 'My aperiodic newsletter'
+      - name: Newsletter archive
+        link: /newsletter/archive/
+        desc: 'Archive of my aperiodic newsletter'
   - name: 🔎
     link: /search/
     desc: 'Search throughout the website'
