@@ -221,7 +221,7 @@ Previously:
 
 ### Git
 
-- Terminal
+- Terminal (iTerm2 and macOS’ default)
 - [Sublime Merge](https://www.sublimemerge.com/) (currently in trial)
 - [Kaleidoscope](https://kaleidoscope.app/) (legacy `difftool`)
 
