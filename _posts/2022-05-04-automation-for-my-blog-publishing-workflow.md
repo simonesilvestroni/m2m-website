@@ -166,6 +166,7 @@ Since the deployment strategy is git-based I don’t think it’s wise to automa
 ## Future improvements
 
 - Polish the *new post* shell script, for example by switching from `tr` to `sed`.
+- Use iTerm2 instead of the system default Terminal.
 - I'd love to port the whole process outside macOS, since I'm planning to move dev work to Linux.
 - Handle the image resize and optimization within Shortcuts, maybe implementing scripts from [https://css-tricks.com/converting-and-optimizing-images-from-the-command-line/](https://css-tricks.com/converting-and-optimizing-images-from-the-command-line/). I’ve already started tinkering with this, see image below:
 
