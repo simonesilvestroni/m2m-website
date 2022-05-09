@@ -1,5 +1,5 @@
 ---
-title: 'Automation for my blog publishing workflow'
+title: 'Automation for my static blog publishing workflow'
 date: '2022-05-09 16:22:52'
 last_modified_at: '2022-05-09 16:22:52'
 categories:
@@ -13,8 +13,8 @@ tags:
   - 'jekyll'
   - 'sublime text'
   - 'front-end development'
-description: 'How I’m currently managing writing new content in my Jekyll blog, using Shortcuts and Automator on macOS.'
-excerpt: 'How I’m currently managing writing new content in my Jekyll blog, using Shortcuts and Automator on macOS.'
+description: 'How I’m currently managing writing new content in my Jekyll-based static blog, using Shortcuts on macOS.'
+excerpt: 'How I’m currently managing writing new content in my Jekyll-based static blog, using Shortcuts on macOS.'
 toc: true
 ---
 Ever since I went live with a redesigned Jekyll-based website, I’ve been looking for ways to improve my publishing workflow. I prefer working with a static website rather than a CMS such as WordPress, yet there are methods to make this process more efficient. This is a work in progress, I’ll be adding new bits to this post in the future.
@@ -60,7 +60,7 @@ The following short video demonstrates the process in real time.
 
 {% include pattern-video.html id="oAO2caYnF08" %}
 
-{: .alert .m2m-bg-alpha .border .mb-5 .fs-5 }
+{: .m2m-bg-alpha .border .p-3 .mb-5 .fs-5 }
 **Note**: when the Terminal is shown, there’s a Jekyll compile issue: that‘s my fault as I’ve done this video twice and forgot to delete the previous test post with the same title. 🙈
 
 Here is the whole routine of the _wizard_:
@@ -83,8 +83,8 @@ Here is the whole routine of the _wizard_:
 
 ### Adding images to a post with Shortcuts
 
-{: .alert .m2m-bg-alpha .border .fs-5 .mb-4 }
-🚨 **Opinionated sidenote** — When I used a CMS, I could drag a huge photo to a media library because it would take care of resizing — and maybe optimization through a plug-in or two. *Regardless of how much I could streamline that workflow* on a CMS, it’s not my cup of tea. Being too [conscious about sustainability](http://localhost:4000/blog/on-the-concept-of-frugal-computing/), I find the idea of having my website carry a redundant amount of  images sub-optimal.
+{: .m2m-bg-alpha .border .p-3 .fs-5 .mb-4 }
+🚨 **Opinionated sidenote** — When I used a CMS, I could drag a huge photo to a media library because it would take care of resizing — and maybe optimization through a plug-in or two. *Regardless of how much I could streamline that workflow* on a CMS, it’s not my cup of tea. I always think about [sustainability](http://localhost:4000/blog/on-the-concept-of-frugal-computing/); the idea of having a website carrying a redundant amount of images is sub-optimal.
 
 The process I follow for adding images to a blog post in Jekyll is made of 5 stages:
 
