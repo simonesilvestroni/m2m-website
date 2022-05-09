@@ -3,17 +3,17 @@ layout: blog
 title: Blog
 date: '2021-11-06 14:11:45'
 last_modified_at: '2022-03-19 16:15:21'
-description: 'I’ve started my blog in March 2002. I now write about audio, music production, playing bass, video games, facts and using web standards to code for the web.'
+description: 'I’ve started my blog in March 2002. I write about audio, music production, playing bass, video games, facts and using web standards to code for the web.'
 excerpt: 'I’ve started my blog in 2002. Subscribe to new posts through <a href="/rss/" title="Subscribe to RSS feeds">RSS feeds</a>.'
 ---
 {% capture cats %}
   {%- assign sorted_cats = site.categories | sort -%}
   {%- for category in sorted_cats -%}
   {%- assign c = category | first -%}
-  <a class="p-name u-url m2m-link" href="/blog/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}">{{ c }}</a>{% unless forloop.last %}, {% endunless %}{% if forloop.last %}.{% endif %}
+  <a class="p-name u-url m2m-link" href="/blog/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}">{{ c | downcase }}</a>{% unless forloop.last %}, {% endunless %}{% if forloop.last %}.{% endif %}
   {%- endfor -%}
 {% endcapture %}
-<p>I now write about: {{ cats }}</p>
+<p><strong>I write about</strong>: {{ cats }}</p>
 <section class="h-feed" id="blog-all-posts">
   <h2 class="p-name visually-hidden text-center text-uppercase">All the posts</h2>
   {%- for post in site.posts %}
