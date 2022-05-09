@@ -35,7 +35,7 @@ layout: default
     <div class="e-content my-5">
       {{ content }}
     </div>
-    <span class="pe-2">Tags: </span>
+    <span class="pe-2">Tagged: </span>
     {%- for tag in page.tags -%}
     <a class="p-category m2m-link fs-5" href="/blog/tag/{{ tag | slugify | append: '/' }}"><span class="initialism">{{ tag | upcase | prepend: '#' }}</span></a>{% unless forloop.last %}<span class="pe-1">,</span> {% endunless %}{%- endfor -%}
   </div>
