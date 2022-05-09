@@ -41,7 +41,7 @@ permalink: '/archive/'
   {%- assign sorted_cats = site.categories | sort -%}
   {%- for category in sorted_cats -%}
   {%- assign c = category | first -%}
-  <a class="p-name u-url m2m-link" href="/blog/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><span class="initialism p-1">{{ c | upcase | prepend: '#' }}</span></a>{% unless forloop.last %}, {% endunless %}
+  <a class="p-name u-url m2m-link" href="/blog/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><span class="initialism p-1">{{ c | upcase }}</span></a>{% unless forloop.last %}, {% endunless %}
   {%- endfor -%}
   </p>
   {%- for post in site.posts -%}
@@ -69,12 +69,12 @@ permalink: '/archive/'
   {%- endfor -%}
 <section class="h-feed">
   <h2 class="p-name" id="blog-tags">Tags</h2>
-  <ol class="h-feed list-unstyled list-inline">
+  <ol class="h-feed list-unstyled list-inline ps-0">
   {%- assign sorted_tags = site.tags | sort -%}
   {%- for tag in sorted_tags -%}
   {%- assign t = tag | first -%}
-    <li class="list-inline-item m-1">
-      <a class="p-name u-url m2m-link fs-5" href="/blog/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><span class="rounded bg-light py-1 px-2">{{ t | upcase | prepend: '#' }}</span></a>
+    <li class="list-inline-item m-2">
+      <a class="p-name u-url m2m-link fs-5" href="/blog/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><span class="rounded bg-light py-1 px-2">{{ t | upcase }}</span></a>
     </li>
   {%- endfor -%}
   </ol>
