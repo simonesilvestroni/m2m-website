@@ -53,6 +53,9 @@ menu:
       - name: Newsletter archive
         link: /newsletter/archive/
         desc: 'Archive of my aperiodic newsletter'
+  - name: RSS
+    link: /rss/
+    desc: 'RSS feeds for blog and newsletter'
   - name: 🔎
     link: /search/
     desc: 'Search throughout the website'
