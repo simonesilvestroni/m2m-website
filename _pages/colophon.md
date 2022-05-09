@@ -26,7 +26,7 @@ Developed from scratch using:
 
 <div class="table-responsive">
   <table class="table table-sm">
-    <thead class="table-light">
+    <thead>
       <tr>
         <th scope="col" class="align-top text-center">Markup</th>
         <th scope="col" class="align-top text-center">Google score</th>
@@ -36,10 +36,10 @@ Developed from scratch using:
     </thead>
     <tbody>
       <tr>
-        <td class="text-center fs-1"><a href="https://validator.w3.org/nu/?doc=https://minutestomidnight.co.uk/" target="_blank" rel="noopener">✓ Valid</a></td>
-        <td class="text-center fs-1">100</td>
-        <td class="text-center fs-1">0.4 sec</td>
-        <td class="text-center fs-1">159 kb</td>
+        <td class="text-center fs-2"><a href="https://validator.w3.org/nu/?doc=https://minutestomidnight.co.uk/" target="_blank" rel="noopener">✓ Valid</a></td>
+        <td class="text-center fs-2">100</td>
+        <td class="text-center fs-2">0.4 sec</td>
+        <td class="text-center fs-2">159 kb</td>
       </tr>
     </tbody>
   </table>
