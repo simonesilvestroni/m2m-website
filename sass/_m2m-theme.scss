@@ -191,14 +191,6 @@ p {
     margin: $spacer*2 0 !important;
   }
 }
-// em {
-//   @extend %m2m-serif;
-// }
-code {
-  background-color: $white;
-  padding: $spacer*0.1;
-  border-radius: 3px;
-}
 pre {
   font-size: rfs-fluid-value(16px);
   color: $pre-color;
