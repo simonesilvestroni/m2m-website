@@ -1,5 +1,5 @@
 ---
-title: 'Newsletter: A new song in Italian out today'
+title: '🎵 A new song in Italian out today'
 date: '2021-06-29'
 last_modified_at: '2021-06-29 21:21:28'
 description: 'New song released on Bandcamp. Produced with Emilio Albertoni, "Non sai chi sono" is a remix of an original song by Italian artist Gianluca Lo Presti.'

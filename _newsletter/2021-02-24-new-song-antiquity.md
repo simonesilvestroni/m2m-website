@@ -1,5 +1,5 @@
 ---
-title: 'Newsletter: New production for Antiquity'
+title: '🎵 New production for Antiquity'
 date: '2021-02-24'
 last_modified_at: '2021-02-24 21:21:28'
 description: 'A new single by Antiquity, Shelter From A Storm is out now. I played bass and co-produced, together with Gerald Duchene.'

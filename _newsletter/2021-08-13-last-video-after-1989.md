@@ -1,5 +1,5 @@
 ---
-title: 'Newsletter: The last music video from my concept album'
+title: '🎥 The last music video from my concept album'
 date: '2021-08-13'
 last_modified_at: '2021-08-13 21:21:28'
 description: 'On the 60th anniversary of the building of the Berlin Wall, I’ve decided to release the last video from my album ‘After 1989’.'

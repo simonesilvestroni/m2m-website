@@ -1,5 +1,5 @@
 ---
-title: 'Newsletter: Two new songs out'
+title: '🎵 Two new songs out'
 date: '2021-06-02'
 last_modified_at: '2021-06-02 21:21:28'
 description: 'Today I released two new songs on Bandcamp. It’s a little preview for my next concept album, titled "The Die is Cast".'

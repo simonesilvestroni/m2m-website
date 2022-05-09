@@ -1,5 +1,5 @@
 ---
-title: 'Newsletter: Discord server'
+title: '📝 Discord server'
 date: '2021-01-21'
 last_modified_at: '2021-01-21 21:21:28'
 description: 'I created, together with Christopher Carvalho of Unlock Your Sound, the Discord server “DIY Music Makers”.'

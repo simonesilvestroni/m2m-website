@@ -1,5 +1,5 @@
 ---
-title: 'Newsletter: My brand new website is live'
+title: '📝 My brand new website is live'
 date: '2022-02-08'
 last_modified_at: '2022-02-08 21:21:28'
 description: 'I finally published my brand new website. Leaving the WordPress ecosystem felt good: a massive change with consequences over many aspect of my online presence.'

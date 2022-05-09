@@ -1,5 +1,5 @@
 ---
-title: 'Newsletter: Hidden Music, new production'
+title: '🎵 Hidden Music, new production'
 date: '2021-01-11'
 last_modified_at: '2021-01-11 21:21:28'
 description: 'The new solo album by Dan Ecclestone, songwriter and leader of the Cambrdige-based band Ember Rev, is out now.'

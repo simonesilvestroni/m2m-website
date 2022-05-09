@@ -1,5 +1,5 @@
 ---
-title: 'Newsletter: New official music video'
+title: '🎥 New official music video'
 date: '2020-11-09'
 last_modified_at: '2020-11-09 21:21:28'
 description: 'New music video, on the anniversary of my debut album "After 1989: A trip to freedom".'

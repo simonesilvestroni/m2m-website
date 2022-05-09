@@ -1,5 +1,5 @@
 ---
-title: 'Newsletter: How to produce bass remotely'
+title: '📝 How to produce bass remotely'
 date: '2020-10-28'
 last_modified_at: '2020-10-28 21:21:28'
 description: 'My new article, "Producing Bass Tracks Remotely", has been published by Unlock Your Sound.'

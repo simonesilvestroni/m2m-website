@@ -1,5 +1,5 @@
 ---
-title: 'Newsletter: New site, new music'
+title: '📝 New site, new music'
 date: '2022-03-22'
 last_modified_at: '2022-03-22 21:21:28'
 description: 'My new website is finally complete. A new case study highlights how I transitioned from WordPress to Jekyll, making a success of it.'

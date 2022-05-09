@@ -1,5 +1,5 @@
 ---
-title: 'Newsletter: New website and blog'
+title: '📝 New website and blog'
 date: '2021-02-05'
 last_modified_at: '2021-02-05 21:21:28'
 description: 'I just completed the merge of my two websites, blog and portfolio. Since I was at it, I redesigned and refactored the whole content.'

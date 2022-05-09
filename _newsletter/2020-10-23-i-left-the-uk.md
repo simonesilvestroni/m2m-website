@@ -1,5 +1,5 @@
 ---
-title: 'Newsletter: I left the UK'
+title: '📝 I left the UK'
 date: '2020-10-23'
 last_modified_at: '2020-10-23 21:21:28'
 description: 'Over the last couple of months I left the UK and came back to Italy.'

@@ -1,5 +1,5 @@
 ---
-title: 'Newsletter: Moving to Milan and new projects'
+title: '📝 Moving to Milan and new projects'
 date: '2021-09-09'
 last_modified_at: '2021-09-09 21:21:28'
 description: 'After 9 years in England, and eleven months in a limbo in my hometown, I’m about to move to Milan. It’s an unexpected comeback, and I’m looking forward to it.'
