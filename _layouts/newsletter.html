@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article class="m2m-entry mt-5">
+  <div class="h-entry">
+    <div class="m2m-label text-center text-md-start pt-2">
+      <a class="bg-light m2m-link text-uppercase p-1" href="/newsletter/archive/"><span class="p-category">Newsletter archive</span></a>
+    </div>
+    <h1 class="fs-1 text-center text-md-start mt-4">{{ page.title }}</h1>
+    <div class="post-meta my-4">
+      <p class="fs-5"><span>🕚 </span><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time></p>
+      <span class="visually-hidden">
+        {% include hcard-post.html %}
+      </span>
+    </div>
+    {% if page.excerpt %}
+    <p class="p-name">
+      {{ page.excerpt }}
+    </p>
+    {% endif %}
+    <div class="e-content">
+      {{ content }}
+    </div>
+  </div>
+</article>
+{%- include post-navigation.html -%}
