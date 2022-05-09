@@ -113,6 +113,7 @@ $m2m-custom-colors: (
   "heading": $heading,
   "link": $link
 );
+$primary: #024AB6;
 // Remove default Bootstrap colors
 $theme-colors: map-remove($theme-colors, "warning", "success", "danger", "info");
 // Merge custom and default color map
