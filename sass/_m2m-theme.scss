@@ -22,11 +22,6 @@ body {
   /* above svg background by SVGBackgrounds.com */
   background-attachment: fixed;
   background-size: cover;
-  // background: $background-l-90 url('/assets/images/watercolor.png') no-repeat top right;
-  // @media (prefers-color-scheme: dark) {
-  //   background: $body-bg-dark url(/assets/images/watercolor-dark.png) no-repeat top right;
-  //   background-attachment: fixed;
-  // }
 }
 
 
@@ -34,7 +29,8 @@ body {
 // $LAYOUT
 // ------------------------------------------------ //
 
-header {
+header,
+.footer-wrapper {
   background: transparent url(/assets/images/dirt.png) repeat top left;
   background-attachment: fixed;
   // @media (prefers-color-scheme: dark) {
@@ -52,7 +48,7 @@ header {
   }
 }
 footer {
-  background: transparent url(/assets/images/denim.png) no-repeat bottom left;
+  background: transparent url(/assets/images/denim.png) no-repeat center left;
   // background-attachment: fixed;
 }
 // .footer-wave {
@@ -497,7 +493,6 @@ figcaption  {
   height: auto;
 }
 .project-feat {
-  border: 3px solid $light;
   border-radius: $spacer;
 }
 // Horizontal line spacer

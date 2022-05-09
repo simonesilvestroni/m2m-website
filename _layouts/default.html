@@ -8,7 +8,9 @@
     {{ content }}
   </div>
 </main>
-{% include site-footer.html %}
+<div class="footer-wrapper">
+  {% include site-footer.html %}
+</div>
 {%- if page.url contains '/search' or page.url contains '404.html' -%}
 {%- if jekyll.environment == "production" %}
 <script src="/assets/js/search-m2m.min.js"></script>
