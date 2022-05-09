@@ -27,16 +27,13 @@ menu:
         desc: 'Blog posts'
       - name: Popular
         link: /blog/popular/
-        desc: 'The 4 most popular posts'
+        desc: 'Most popular posts'
       - name: Archive
         link: /archive/
         desc: 'Browse the projects, all the posts by year and the taxonomy'
       - name: Blogroll
         link: /blogroll/
         desc: 'A list of personal and professional websites that I follow'
-      - name: RSS
-        link: /feed.xml
-        desc: 'Follow my blog through the RSS feed'
   - name: Contacts
     link: /contact/
     desc: 'Hire me, get in touch or subscribe to the newsletter'
@@ -51,7 +48,7 @@ menu:
         link: /newsletter/
         desc: 'My aperiodic newsletter'
       - name: Newsletter archive
-        link: /newsletter/archive/
+        link: /newsletter/archives/
         desc: 'Archive of my aperiodic newsletter'
   - name: RSS
     link: /rss/
