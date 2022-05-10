@@ -47,7 +47,7 @@ menu:
       - name: Newsletter
         link: /newsletter/
         desc: 'My aperiodic newsletter'
-      - name: Newsletter archive
+      - name: Newsletter archives
         link: /newsletter/archives/
         desc: 'Archive of my aperiodic newsletter'
   - name: RSS
