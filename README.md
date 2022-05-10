@@ -26,7 +26,7 @@ Migrating from WordPress to a static site generator has been a blessing to me. I
 
 - [x] Implement WebP images.
 - [ ] (short term) Find a way to render webmentions without Javascript.
-- [ ] (short term) Eradicate Mailchimp, switching to a different service.
+- [x] (short term) Eradicate Mailchimp, switching to a different service.
 - [ ] Implement a dark mode switch.
 - [ ] Polish the SASS theme, removing specificity.
 - [ ] Improve DRY.
