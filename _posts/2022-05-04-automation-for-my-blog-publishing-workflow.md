@@ -184,6 +184,12 @@ So far this methodology has been serving me well. I didn’t mind the previous n
 
 One thing I really disliked was Apple forcing me to enable iCloud Drive in order to export Shortcuts’ backups on my machine. I don’t see the point other than them trying for the umpteenth time to drag me into their walled garden.
 
+## Also posted on
+
+{: .list-unstyled .ps-0 }
+- 🔄 [IndieNews](https://news.indieweb.org/en){: .u-syndication }
+- 🔄 [Mastodon](https://indieweb.social/@m2m/108277577329784745){: .u-syndication }
+
 ## Footnotes
 
 [^1]: I sorely miss the time when Apple simply released new apps that were available to download on several versions of OS X, but this is a rant for another day. The upgrade went well, unexpectedly fast with no issue whatsoever. I can honestly say it’s behaving better than all the previous OS updates that followed Mavericks. We’ll see.
