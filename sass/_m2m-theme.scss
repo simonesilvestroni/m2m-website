@@ -325,6 +325,10 @@ dd {
 .footnote {
   text-decoration: none !important;
 }
+.footnotes p,
+.footnotes ol li {
+  font-size: rfs-fluid-value(16px) !important;
+}
 
 
 // ------------------------------------------------ \\
@@ -489,9 +493,9 @@ figcaption  {
 }
 // Horizontal line spacer
 hr {
-  width: $spacer*5;
   text-align: center;
-  margin: $spacer*3 auto;
+  margin: $spacer*2 auto;
+  background-color: $heading;
   &:not([size]) { height: 2px; }
 }
 // Filtered
