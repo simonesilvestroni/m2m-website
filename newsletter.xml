@@ -11,7 +11,7 @@ layout: none
     <language>{{ site.lang }}</language>
     <copyright>{{ site.url }}/colophon/#copyright</copyright>
     <atom:link href="{{ site.url }}/newsletter.xml" rel="self" type="application/rss+xml" />
-    {% assign newsletters = site.documents | where:"layout", "newsletter" %}
+    {% assign newsletters = site.documents | where:"layout", "newsletter" | sort: date | reverse %}
     {% for post in newsletters limit:site.posts_limit %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
