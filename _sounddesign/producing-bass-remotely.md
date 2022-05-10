@@ -19,7 +19,10 @@ featimage: true
 featimage-url: '/assets/images/producing-bass-remotely.jpg'
 featimage-height: '600'
 canonical: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'
-syndicate: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'
+syndication: true
+syndicate:
+  - name: Unlock Your Sound
+    url: https://unlockyoursound.com/producing-bass-tracks-remotely/
 sitemap: false
 permalink: '/projects/sound-design/producing-bass-remotely/'
 ---

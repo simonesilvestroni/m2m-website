@@ -4,8 +4,10 @@
 </span>
 <a class="u-url u-uid" href="{{ site.url }}{{ page.url }}" title="Permalink">Permalink: <em>{{ page.title }}</em></a>
 <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
-{% if page.syndicate %}
-<span><a rel="syndication" class="u-syndication" href="{{ page.syndicate }}">{{ page.syndicate }}</a></span>
+{%- if page.syndication == true %}
+  {% for s in page.syndicate -%}
+  <span><a rel="syndication" class="u-syndication" href="{{ s.url }}">{{ s.name }}</a></span>
+  {% endfor -%}
 {% endif -%}
 <data class="p-org" value="Minutes to Midnight"></data>
 <data class="u-email" rel="me" value="mailto:contact@minutestomidnight.co.uk"></data>
@@ -20,4 +22,3 @@
 <data rel="me" value="https://oreganodangereux.wordpress.com"></data>
 <data rel="me" value="https://minutesto00.wordpress.com"></data>
 <data rel="me" value="https://minutestomidnight.medium.com/"></data>
-<a href="https://brid.gy/publish/mastodon"></a>

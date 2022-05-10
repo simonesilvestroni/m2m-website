@@ -13,6 +13,18 @@ tags:
   - popular
 description: 'How I refactored my RSS feed from scratch using Jekyll functionalities and applying XSLT for presentation to render a human-readable XML feed.'
 excerpt: 'I love <abbr title="RDF Site Summary">RSS</abbr>. However, by using a third-party plugin to automatically generate the feed, I didn’t pay attention to how it could be improved. An occasional discussion on Mastodon prompted me to a change.'
+syndication: true
+syndicate:
+  - name: IndieNews
+    url: https://news.indieweb.org/en
+  - name: Mastodon
+    url: https://indieweb.social/web/@m2m/108234066278671729
+  - name: Hacker News
+    url: https://news.ycombinator.com/item?id=31241877
+  - name: Medium
+    url: https://minutestomidnight.medium.com/a-human-readable-rss-feed-with-jekyll-minutes-to-midnight-e1cf8230220c
+  - name: /en/rss
+    url: https://indieweb.xyz/en/rss
 ---
 A few days ago, while reading my Mastodon timeline, I stumbled on an [article](https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/) by Wouter Groeneveld, titled *Cool Things People Do With Their Blogs*. Two things caught my eye: 
 
@@ -64,12 +76,3 @@ Here's a link to my new human-readable [RSS feed]({{ site.url }}/feed.xml). Belo
 {: .list-unstyled .ps-0 }
 - 📄 [RSS XML feed on Github ↗︎](https://github.com/minutes2midnight/m2m-website/blob/master/feed.xml)
 - 📄 [XSL file on GitHub ↗︎](https://github.com/minutes2midnight/m2m-website/blob/master/feed.xsl)
-
-## Also posted on
-
-{: .list-unstyled .ps-0 }
-- 🔄 [IndieNews](https://news.indieweb.org/en){: .u-syndication }
-- 🔄 [Mastodon](https://indieweb.social/web/@m2m/108234066278671729){: .u-syndication }
-- 🔄 [Hacker News](https://news.ycombinator.com/item?id=31241877){: .u-syndication }
-- 🔄 [Medium](https://minutestomidnight.medium.com/a-human-readable-rss-feed-with-jekyll-minutes-to-midnight-e1cf8230220c){: .u-syndication }
-- 🔄 [/en/rss](https://indieweb.xyz/en/rss){: .u-syndication }

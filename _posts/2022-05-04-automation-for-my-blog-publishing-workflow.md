@@ -15,6 +15,12 @@ tags:
   - 'front-end development'
 description: 'How I’m currently managing writing new content in my Jekyll-based static blog, using Shortcuts on macOS.'
 excerpt: 'How I’m currently managing writing new content in my Jekyll-based static blog, using Shortcuts on macOS.'
+syndication: true
+syndicate:
+  - name: IndieNews
+    url: https://news.indieweb.org/en
+  - name: Mastodon
+    url: https://indieweb.social/@m2m/108277577329784745
 toc: true
 ---
 Ever since I went live with a redesigned Jekyll-based website, I’ve been looking for ways to improve my publishing workflow. I prefer working with a static website rather than a CMS such as WordPress, yet there are methods to make this process more efficient. This is a work in progress, I’ll be adding new bits to this post in the future.
@@ -184,13 +190,7 @@ So far this methodology has been serving me well. I didn’t mind the previous n
 
 One thing I really disliked was Apple forcing me to enable iCloud Drive in order to export Shortcuts’ backups on my machine. I don’t see the point other than them trying for the umpteenth time to drag me into their walled garden.
 
-## Also posted on
-
-{: .list-unstyled .ps-0 }
-- 🔄 [IndieNews](https://news.indieweb.org/en){: .u-syndication }
-- 🔄 [Mastodon](https://indieweb.social/@m2m/108277577329784745){: .u-syndication }
-
-## Footnotes
+---
 
 [^1]: I sorely miss the time when Apple simply released new apps that were available to download on several versions of OS X, but this is a rant for another day. The upgrade went well, unexpectedly fast with no issue whatsoever. I can honestly say it’s behaving better than all the previous OS updates that followed Mavericks. We’ll see.
 [^2]: Importing workflows from Automator to Shortcuts doesn't always work, it's still a hit-and-miss.
