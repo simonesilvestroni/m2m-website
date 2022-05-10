@@ -4,11 +4,13 @@
 </span>
 <a class="u-url u-uid" href="{{ site.url }}{{ page.url }}" title="Permalink">Permalink: <em>{{ page.title }}</em></a>
 <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
+{% unless page.is_post %}
 {%- if page.syndication == true %}
   {% for s in page.syndicate -%}
   <span><a rel="syndication" class="u-syndication" href="{{ s.url }}">{{ s.name }}</a></span>
   {% endfor -%}
 {% endif -%}
+{% endunless %}
 <data class="p-org" value="Minutes to Midnight"></data>
 <data class="u-email" rel="me" value="mailto:contact@minutestomidnight.co.uk"></data>
 <data rel="me" value="https://minutestomidnight.bandcamp.com/"></data>
