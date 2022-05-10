@@ -72,3 +72,4 @@ Here's a link to my new human-readable [RSS feed]({{ site.url }}/feed.xml). Belo
 - 🔄 [Mastodon](https://indieweb.social/web/@m2m/108234066278671729){: .u-syndication }
 - 🔄 [Hacker News](https://news.ycombinator.com/item?id=31241877){: .u-syndication }
 - 🔄 [Medium](https://minutestomidnight.medium.com/a-human-readable-rss-feed-with-jekyll-minutes-to-midnight-e1cf8230220c){: .u-syndication }
+- 🔄 [/en/rss](https://indieweb.xyz/en/rss){: .u-syndication }
