@@ -26,7 +26,7 @@ All videos from YouTube come from `https://www.youtube-nocookie.com`. Content em
 
 ## Newsletter
 
-If you subscribe to my newsletter, I will collect your email address, which will be stored by Mailchimp. It will be used solely to send you occasional emails. I do not share it with anyone. You can unsubscribe at any moment via the link in my newsletters. Learn more about [Mailchimp’s privacy practices](https://mailchimp.com/legal/ "Go to the Mailchimp website").
+If you subscribe to my newsletter, I will collect your email address, which will be stored on ProtonMail's servers. It will be used solely to send you emails. I do not share it with third parties. You can unsubscribe at any moment via the link in my newsletters, or [by emailing me](mailto:newsletter@minutestomidnight.co.uk). Learn more about [ProtonMail’s privacy practices](https://protonmail.com/privacy-policy) (_Data Collection_ paragraph).
 
 ## Contact information
 
