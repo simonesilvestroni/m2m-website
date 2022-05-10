@@ -7,7 +7,7 @@ description: 'Success page for the free ebook download submit form.'
 excerpt: 'Thank you for requesting my free ebook <em>Efficient productivity for music professionals</em>. Soon, you will receive the link in your inbox.'
 permalink: '/download/success/'
 ---
-Also, thank you for subscribing to my newsletter. Your will receive an email confirmation soon. Should you change your mind, [tell me via email](mailto:newsletter@minutestomidnight.co.uk).
+Also, thank you for subscribing to my newsletter. You will receive an email confirmation soon. Should you change your mind, [tell me via email](mailto:newsletter@minutestomidnight.co.uk).
 
 {: .text-center .fs-4 .my-5 }
-📝 [Go to the newsletter archives →](/newsletter/archives/)
+📝 [Go to the projects →](/projects/)
