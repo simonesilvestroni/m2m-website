@@ -1,7 +1,7 @@
 ---
 title: 'Automation for my static blog publishing workflow'
-date: '2022-05-09 16:22:52'
-last_modified_at: '2022-05-09 16:22:52'
+date: '2022-05-10'
+last_modified_at: '2022-05-10 13:43:39'
 categories:
   - 'Web design' 
 tags:
