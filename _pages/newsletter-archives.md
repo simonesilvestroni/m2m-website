@@ -16,7 +16,7 @@ permalink: '/newsletter/archives/'
     </tr>
   </thead>
   <tbody>
-    {% for post in site.newsletter %}
+    {% for post in site.newsletter reversed %}
     <tr>
       <td><a class="ps-1" href="{{ post.url }}">{{ post.title }}</a></td>
       <td><span class="initialism">{{ post.date | date: "%-d %b %Y" }}</span></td>
