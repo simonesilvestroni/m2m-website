@@ -35,7 +35,7 @@ The website is now part of [Indieweb](https://indieweb.org/), therefore it's cap
 
 ### Small web
 
-These decisions are a consequence of me [leaving social media](http://localhost:4000/blog/escape-from-social-media/) 18 months ago. Being part of the [small web](https://benhoyt.com/writings/the-small-web-is-beautiful/) is way more in line with how I see the internet and communication in general.
+These decisions are a consequence of me [leaving social media]({{ site.url }}/blog/escape-from-social-media/) 18 months ago. Being part of the [small web](https://benhoyt.com/writings/the-small-web-is-beautiful/) is way more in line with how I see the internet and communication in general.
 
 > Most websites today are built like commercial products by professionals and marketers, optimised to draw the largest audience, generate engagement and 'convert'. But there is also a smaller, less-visible web designed by regular people to simply to share their interests and hobbies with the world. A web that is unpolished, often quirky but often also fun, creative and interesting.
 > <cite>— [Parimal Satyal](https://neustadt.fr/essays/the-small-web/)</cite>

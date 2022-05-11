@@ -15,7 +15,7 @@ excerpt: 'An article by <a href="https://www.gla.ac.uk/schools/computing/staff/w
 > The emissions from production of computing devices far exceed the emissions from operating them, so even if devices are more energy efficient producing more of them will make the emissions problem worse. Therefore we must extend the useful life of our computing devices.
 > <cite>[Frugal computing ↗︎](https://wimvanderbauwhede.github.io/articles/frugal-computing/)</cite>
 
-The article is deep, I strongly suggest to read it in full — especially if you care about the environment and the climate crisis. As a minimalist who's [using a 6-year-old laptop](http://localhost:4000/uses/#workstation) to do all his work, this kind of vision, especially when backed by science, is a godsend.
+The article is deep, I strongly suggest to read it in full — especially if you care about the environment and the climate crisis. As a minimalist who's [using a 6-year-old laptop]({{ site.url }}/uses/#workstation) to do all his work, this kind of vision, especially when backed by science, is a godsend.
 
 On the same topic, my somewhat loose interpretation of the concept of _frugal computing_ is one of the many reasons I've decided to go back to a static website: less resources, zero back-and-forth through a database, complete control over the web calls I'm making, tiny backup sizes, etcetera.
 
