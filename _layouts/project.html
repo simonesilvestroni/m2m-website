@@ -13,7 +13,7 @@ layout: default
 <article class="h-entry m2m-entry my-5">
   <div class="m2m-label text-center text-md-start pt-2">
     <span>Project: </span>
-    <a class="bg-light m2m-link text-uppercase p-1" href="{% unless page.type == "music" %}/projects/#{{ page.type | slugify }}{% endunless %}{% if page.type == "music" %}/music/{% endif %}"><span class="p-category">{% unless page.type == "music" %}{{ page.type }}{% endunless %}{% if page.type == "music" %}{{ page.subtype }}{% endif %}</span></a>
+    <kbd><a class="m2m-link text-uppercase p-1" href="{% unless page.type == "music" %}/projects/#{{ page.type | slugify }}{% endunless %}{% if page.type == "music" %}/music/{% endif %}"><span class="p-category">{% unless page.type == "music" %}{{ page.type }}{% endunless %}{% if page.type == "music" %}{{ page.subtype }}{% endif %}</span></a></kbd>
   </div>
   <h1 class="p-name text-center text-md-start mt-4">{{ page.title }}</h1>
   {%- if page.collection == 'webdesign' %}
