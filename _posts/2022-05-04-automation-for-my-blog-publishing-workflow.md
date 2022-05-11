@@ -90,7 +90,7 @@ Here is the whole routine of the _wizard_:
 ### Adding images to a post with Shortcuts
 
 {: .m2m-bg-alpha .border .p-3 .fs-5 .mb-4 }
-🚨 **Opinionated sidenote** — When I used a CMS, I could drag a huge photo to a media library because it would take care of resizing — and maybe optimization through a plug-in or two. *Regardless of how much I could streamline that workflow* on a CMS, it’s not my cup of tea. I always think about [sustainability](http://localhost:4000/blog/on-the-concept-of-frugal-computing/); the idea of having a website carrying a redundant amount of images is sub-optimal.
+🚨 **Opinionated sidenote** — When I used a CMS, I could drag a huge photo to a media library because it would take care of resizing — and maybe optimization through a plug-in or two. *Regardless of how much I could streamline that workflow* on a CMS, it’s not my cup of tea. I always think about [sustainability]({{ site.url }}/blog/on-the-concept-of-frugal-computing/); the idea of having a website carrying a redundant amount of images is sub-optimal.
 
 The process I follow for adding images to a blog post in Jekyll is made of 5 stages:
 
