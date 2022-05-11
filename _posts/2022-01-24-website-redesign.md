@@ -31,7 +31,7 @@ More technical details in the [colophon](/colophon/).
 
 ### Decentralized conversations
 
-The website is now part of [Indieweb](https://indieweb.org/), therefore it's capable of sending and receiving [webmentions](https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet/), a web standard for replying, liking and reposting other people's posts on their websites. Since the decision to **renounce to an external comment system**, I've also added two more ways to reply: _Comment Parade_ allows webmentions from people whose sites aren't part of Indieweb; moreover, it's possible to reply via email. All the info are in the **comments** block near the bottom [👇](#comments).
+The website is now part of [Indieweb](https://indieweb.org/), therefore it's capable of sending and receiving [webmentions](https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet/), a web standard for replying, liking and reposting other people's posts on their websites. All the info are in the [**reactions** block near the bottom](#comments)&nbsp;👇.
 
 ### Small web
 
@@ -47,7 +47,7 @@ The fight against a bloated web is a crusade I've been part of for a long time. 
 <div class="table-responsive my-5">
   <table class="table">
     <thead>
-      <tr class="table-dark">
+      <tr>
         <th scope="col" class="align-top text-center text-uppercase fw-bold">Old site (WordPress)</th>
         <th scope="col" class="align-top text-center text-uppercase fw-bold">New site</th>
       </tr>
@@ -61,7 +61,7 @@ The fight against a bloated web is a crusade I've been part of for a long time. 
   </table>
 </div>
 
-The homepage is now `166 kb` uncompressed and loads in **less than half a second**. I'm in the process of being added to the [512kb club](https://512kb.club/faq).
+The homepage is now `150 KB` uncompressed and loads in **less than half a second**. I'm in the process of being added to the [512kb club](https://512kb.club/faq).
 
 ### Accessibility
 
