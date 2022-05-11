@@ -8,7 +8,7 @@ excerpt: 'Subscribe to my RSS feeds (latest 20 posts) by <strong>copying the URL
 permalink: '/rss/'
 ---
 {: .table .mb-5 }
-| Page                        | RSS feed URL (human readable) |
+| Page                        | RSS feed (human readable)     |
 | --------------------------- | ----------------------------- |
 | [Blog](/blog/)              | <a class="m2m-link" href="{{ site.url }}/feed.xml"><span class="text-break">`{{ site.url }}/feed.xml`</span></a> |
 | [Newsletter](/newsletter/)  | <a class="m2m-link" href="{{ site.url }}/newsletter.xml"><span class="text-break">`{{ site.url }}/newsletter.xml`</span></a> |
