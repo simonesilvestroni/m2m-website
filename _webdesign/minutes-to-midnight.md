@@ -416,8 +416,6 @@ Even though Netlify has a free plug-in that would automatically send webmentions
 
 ---
 
-### Footnotes
-
 [^1]: Decoupling is the process of creating a clean separation between systems or services. By decoupling the services needed to operate a site, each component part can become easier to reason about, can be independently swapped out or upgraded, and can be designated the purview of dedicated specialists either within an organization, or as a third party.
 [^2]: [https://github.com/Shopify/liquid/wiki#who-uses-liquid](https://github.com/Shopify/liquid/wiki#who-uses-liquid)
 [^3]: A shortcode is akin to a shortcut to add features to your website that would typically require lots of complicated computer code and technical ability. [Read more](https://wordpress.com/support/shortcodes/).
