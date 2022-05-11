@@ -16,10 +16,10 @@ layout: default
     {%- endfor -%}
     <h1 class="p-name text-center text-md-start mt-4">{{ page.title }}</h1>
     <p class="p-summary lead">
-      {{ page.excerpt }}
       {%- if page.mention == true %}
-      <span>— This post is {% if page.mentionType == 'like' %} 🧡 <strong class="ps-1">a like of</strong> {% elsif page.mentionType == 'repost' %} 🔄 <strong class="ps-1">a repost of</strong> {% elsif page.mentionType == 'reply' %} ↪️ <strong class="ps-1"> in reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></span>
+      <span>{% if page.mentionType == 'like' %} 🧡 <strong class="ps-1">a like of</strong> {% elsif page.mentionType == 'repost' %} 🔄 <strong class="ps-1">a repost of</strong> {% elsif page.mentionType == 'reply' %} ↪️ <strong class="ps-1"> in reply to</strong> {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a>&nbsp;&mdash;</span>
       {% endif -%}
+      {{ page.excerpt }}
     </p>
     <div class="post-meta my-4">
       <p class="fs-5"><span>🕚 </span><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time></p>
