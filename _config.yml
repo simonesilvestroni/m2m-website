@@ -97,6 +97,11 @@ defaults:
       layout: "newsletter"
   - scope:
       path: ""
+      type: "notes"
+    values:
+      layout: "note"
+  - scope:
+      path: ""
       type: "webdesign"
     values:
       layout: "project"
@@ -122,6 +127,9 @@ collections:
   newsletter:
     output: true
     permalink: /newsletter/archive/:path/
+  notes:
+    output: true
+    permalink: /note/:path/
 
 # -------------------
 # Archives
