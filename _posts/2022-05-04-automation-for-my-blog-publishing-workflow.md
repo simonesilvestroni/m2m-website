@@ -85,7 +85,12 @@ Here is the whole routine of the _wizard_:
   - {: .my-2 }**Creates a file** in the correct folder, named with today’s date followed by the <kbd>title</kbd> variable (in the script I convert spaces with dashes and turn everything lowercase).
   - {: .my-2 }**Adds the Front Matter** section and fills it with all the variables I previously created.
   - {: .my-2 }**Launches my markdown editor Typora** which opens the file with a compiled Front Matter section.
-- {: .list-group-item .ps-0 }7️⃣ Runs an AppleScript that opens a minimized session in the Terminal with my alias for running the `npm` task that holds both Jekyll build and SASS compile actions.
+- {: .list-group-item .ps-0 }7️⃣ Runs an AppleScript that opens a minimized session in the Terminal with my alias for running the `npm` task that holds both Jekyll build and SASS compile actions:
+
+```bash
+file=$(echo "$( date '+%Y-%m-%d-' )$1.md" | tr " " "-" | tr [:upper:] [:lower:])
+touch ~/@ARCHIVE/2022/wwM2M/m2m-website/_posts/"$file" && echo -e "---\ntitle: 'title'\ndate: '$( date '+%Y-%m-%d %T' )'\nlast_modified_at: '$( date '+%Y-%m-%d %T' )'\ncategories:\n  - 'category' \ntags:\ntags \ndescription: 'description'\nexcerpt: 'excerpt'\n---" > ~/@ARCHIVE/2022/wwM2M/m2m-website/_posts/"$file" && open -a "Typora" ~/@ARCHIVE/2022/wwM2M/m2m-website/_posts/"$file"
+```
 
 ### Adding images to a post with Shortcuts
 
