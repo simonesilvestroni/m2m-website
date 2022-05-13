@@ -22,7 +22,10 @@ layout: default
       {{ page.excerpt }}
     </p>
     <div class="post-meta my-4">
-      <p class="fs-5"><span>🕚 </span><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time></p>
+      <p class="fs-5">
+        <span>🕚 </span><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
+        <span class="ps-4">💬 <a href="#comments">Comments</a></span>
+      </p>
       <span class="visually-hidden">
         {% include hcard-post.html %}
       </span>
