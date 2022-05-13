@@ -292,8 +292,7 @@ Previously:
 
 ### RSS and news
 
-- [NetNewsWire 6.1](https://netnewswire.com/) (for all my local RSS)
-- [Reeder](https://reeder.app/) (for Pocket articles)
+- [Reeder 5](https://reeder.app/) (for local RSS and Pocket articles)
 - [Pocket](https://www.mozilla.org/en-US/firefox/pocket/)
 - [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews&hl=en_US&gl=US) (for Hacker News)
 
