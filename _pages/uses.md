@@ -2,7 +2,7 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2022-04-17 16:31:53'
+last_modified_at: '2022-05-13 18:39:27'
 description: "Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the uses.tech project."
 excerpt: 'Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the <a href="https://uses.tech/"><code>uses.tech</code></a> project. None of the links are affiliate.'
 permalink: '/uses/'
@@ -219,17 +219,22 @@ Previously:
 - Textmate
 - PS Pad
 
+### FTP
+
+- [Panic Transmit](https://panic.com/transmit/)
+
 ### Git
 
-- Terminal (iTerm2 and macOS’ default)
+- Terminal.app and [iTerm2](https://iterm2.com/)
 - [Sublime Merge](https://www.sublimemerge.com/) (currently in trial)
-- [Kaleidoscope](https://kaleidoscope.app/) (legacy `difftool`)
+- [Kaleidoscope](https://kaleidoscope.app/)
 
 ### Browser
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-- Brave (for testing only)
-- Safari (for testing only)
+- Brave (for testing purposes)
+- Safari (for testing purposes)
+- iOS Safari emulator (for testing purposes)
 
 Firefox extensions:
 
@@ -237,8 +242,6 @@ Firefox extensions:
 - [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
 - [MarkDownload](https://addons.mozilla.org/en-US/firefox/addon/markdownload/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 - [Modern for Wikipedia](https://addons.mozilla.org/en-US/firefox/addon/modern-for-wikipedia/)
-- [OneTab](https://addons.mozilla.org/en-US/firefox/addon/onetab/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-- [Archive Page](https://addons.mozilla.org/en-US/firefox/addon/archive-page/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)
 
 Previously:
 
@@ -365,5 +368,5 @@ Brilliant examples come from [Cockos Incorporated](https://cockos.com/) (makers 
 
 For the same reasons, I refuse to use Avid's products and pretty much everything that is locked-in with a _subscription model_, as well as I stopped caring for Logic updates ever since Apple had decided to tie them to their insane and arbitrarily idiotic yearly cycle of forced OS “upgrades”. **Planned obsolescence** brought by multi-trillion-dollar companies is not my cup of tea.
 
-{: .mt-5 }
+{: .dt-updated .mt-5 }
 Last update: <kbd>{{ page.last_modified_at }}</kbd>
