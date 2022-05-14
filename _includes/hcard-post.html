@@ -3,7 +3,6 @@
   <a class="p-name" href="{{ site.url }}" rel="author"><strong>Simone Silvestroni</strong></a>
 </span>
 <a class="u-url u-uid" href="{{ site.url }}{{ page.url }}" title="Permalink">Permalink: <em>{{ page.title }}</em></a>
-<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
 {% unless page.is_post %}
 {%- if page.syndication == true %}
   {% for s in page.syndicate -%}
