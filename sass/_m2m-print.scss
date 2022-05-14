@@ -79,13 +79,14 @@
   .table-dark tbody + tbody {
     border-color: #dee2e6;
   }
-  .m2m-site-header,
-  #navigation-main-small,
-  #m2m-footer,
+  .nav,
+  .nav-footer,
+  .navigation,
+  footer > div,
   .previous-next-post-links,
   .btn-m2m-cta,
+  article > details,
   #comments,
-  .newsletter-subscription,
   .iframe-container {
     display: none !important;
   }
