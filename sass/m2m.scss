@@ -51,6 +51,8 @@ $font-family-monospace: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New
 $font-family-code: $font-family-monospace;
 $kbd-bg: #f1e0e0;
 $kbd-color: black;
+$kbd-padding-y: .1rem;
+$kbd-padding-x: .2rem;
 
 // Effects
 $enable-transitions: true;
