@@ -7,6 +7,7 @@ categories:
 tags:
   - mastodon
   - fediverse
+  - decentralization
 description: 'I joined Mastodon, as an experiment. So far it feels totally different from social media.'
 excerpt: 'I joined Mastodon, as an experiment. So far it feels totally different from social media.'
 ---
