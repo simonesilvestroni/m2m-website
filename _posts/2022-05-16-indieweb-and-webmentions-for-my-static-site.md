@@ -12,6 +12,10 @@ tags:
   - decentralization
 description: 'A brief analysis on how I have implemented Indieweb principles and webmentions on my static Jekyll-based website, using webmentions.io, bridgy and Javascript.'
 excerpt: 'My method to implement Indieweb principles and add webmentions support to my Jekyll site is probably the laziest of all. It enabled a decentralized reply system, as well as allowing reposts and likes.'
+syndication: true
+syndicate:
+  - name: Mastodon
+    url: https://indieweb.social/@m2m/108312049281191498
 toc: true
 ---
 The first time I’ve found about webmentions was when [Silvia](https://silviamaggidesign.com) suggested an article by [Chris Aldrich](https://boffosocko.com/) on *A List Apart*[^2]. His article also brought the discovery of [Indieweb](https://indieweb.org/) and the concept of a [small web](https://benhoyt.com/writings/the-small-web-is-beautiful/), free from the corporate vision. It perfectly fit with the way I see the internet and communication in general.
