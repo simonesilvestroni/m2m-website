@@ -277,7 +277,7 @@ I tried other venues to get webmention notifications, but I needed [Max Gleniste
 - {: .list-group-item .ps-0 } 🔗 [Untangling the IndieWeb ↗︎](https://davidyat.es/2019/06/24/indieweb/){: .m2m-link } by David Yates
 - {: .list-group-item .ps-0 } 🔗 [Old Web, New Web, Indie Web ↗︎](https://petermolnar.net/article/old-web-new-web-indie-web/){: .m2m-link } by Peter Molnar
 - {: .list-group-item .ps-0 } 🔗 [Implementing the Indieweb on a static website ↗︎](https://vincentp.me/articles/2018/11/14/20-00/){: .m2m-link } by Vincent Pickering
-- {: .list-group-item .ps-0 } 🔗 [Host your own webmention receiver ↗︎](Host your own webmention receiver){: .m2m-link } by Wouter Groeneveld
+- {: .list-group-item .ps-0 } 🔗 [Host your own webmention receiver ↗︎](https://brainbaking.com/post/2021/05/beyond-webmention-io/){: .m2m-link } by Wouter Groeneveld
 
 ---
 
