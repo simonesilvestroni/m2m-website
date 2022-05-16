@@ -22,7 +22,7 @@
 {%- endif -%}
 {%- if page.is_post or page.collection == 'webdesign' or page.collection == 'sounddesign' or page.collection == 'music' or page.collection == 'notes' -%}
 {%- if jekyll.environment == "production" %}
-<script src="/assets/js/webmention.min.js" async></script>
+<script src="/assets/js/webmention.min.js" data-prevent-spoofing="true" async></script>
 {%- else -%}
 <script src="/assets/js/webmention.js" async></script>
 {% endif -%}
