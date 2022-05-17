@@ -25,7 +25,7 @@ layout: default
       <span>🕚</span> <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
       <span class="ps-3">💬 <a href="#comments">Comments</a></span>
     </p>
-    <span class="visually-hidden">
+    <span class="d-none">
       {% include hcard-post.html %}
     </span>
   </div>
