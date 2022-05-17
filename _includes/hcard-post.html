@@ -1,12 +1,12 @@
 <span class="p-author h-card">
   <img class="u-photo" src="{{ site.url }}/assets/images/minutestomidnight-avatar-uphoto.png" alt="Minutes to Midnight's avatar" width="48" height="48">
-  <a class="p-name" href="{{ site.url }}" rel="author"><strong>Simone Silvestroni</strong></a>
+  <a class="p-name" aria-hidden="true" href="{{ site.url }}" rel="author"><strong>Simone Silvestroni</strong></a>
 </span>
-<a class="u-url u-uid" href="{{ site.url }}{{ page.url }}" title="Permalink">Permalink: <em>{{ page.title }}</em></a>
+<a class="u-url u-uid" aria-hidden="true" href="{{ site.url }}{{ page.url }}" title="Permalink">Permalink: <em>{{ page.title }}</em></a>
 {% unless page.is_post %}
 {%- if page.syndication == true %}
   {% for s in page.syndicate -%}
-  <span><a rel="syndication" class="u-syndication" href="{{ s.url }}">{{ s.name }}</a></span>
+  <span><a rel="syndication" class="u-syndication" aria-hidden="true" href="{{ s.url }}">{{ s.name }}</a></span>
   {% endfor -%}
 {% endif -%}
 {% endunless %}
