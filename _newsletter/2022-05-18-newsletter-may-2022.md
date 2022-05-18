@@ -7,8 +7,6 @@ excerpt: 'I’ve been working hard on my <strong>web design skills</strong> late
 sitemap: false
 permalink: '/newsletter/archive/newsletter-may-2022/'
 ---
-I’ve been working hard on my **web design skills** lately. Learned several new things, which I then applied to my website and promoted on my Mastodon account. I have **recorded bass tracks** on a couple new songs and re-published an **EP on Spotify**.
-
 I’ve also **ditched Mailchimp** completely, hence this email isn’t coming from there: no more tracking, no more external privacy policies. You can also follow new issues with an RSS reader; all the Instructions for changing your address or unsubscribing are in the signature.
 
 The newsletter is also changing format: inspired by **Silvia** and her [*Design, Digested*](https://silviamaggidesign.com/newsletter/) I’m going to share two or three links from my various activities plus a couple more from elsewhere that I think are interesting.
