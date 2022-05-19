@@ -313,6 +313,9 @@ dd {
 .footnote {
   text-decoration: none !important;
 }
+.footnote ol {
+  margin-left: 0;
+}
 .footnotes p,
 .footnotes ol li {
   font-size: rfs-fluid-value(16px) !important;
@@ -366,13 +369,12 @@ dd {
   }
   // Entry block ordered lists
   ol {
-    padding-left: $spacer*1.5;
+    padding-left: 2.5rem;
     li {
       @extend %m2m-entry-fs;
-      margin-bottom: $spacer;
       line-height: 1.45;
       hyphens: auto;
-      ol {
+      ol, ul {
         margin-top: 0;
       }
     }
@@ -504,10 +506,10 @@ hr {
 .m2m-ul,
 %m2m-ul {
   list-style-position: outside;
-  margin: $spacer 0 $spacer*1.5 0;
-  padding-left: $spacer*1.1;
+  margin-top: $spacer;
+  margin-bottom: $spacer;
+  padding-left: 2.5rem;
   li {
-    margin: 0;
     &::marker {
       color: $link-d-20;
     }
