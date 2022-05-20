@@ -13,7 +13,7 @@ In the early 1990s, I started a side job in the publishing industry while gradua
 
 **As a web designer**, I’m an expert in front-end development, some back-end, UI design, custom WordPress systems, accessibility and sustainability through a relentless stack optimization.
 
-After a long stint in a music studio acquiring recording skills, I became independent and landed a [game audio designer](({{ site.url }}/projects/sound-design/console-game-ruff-trigger/) role in 2002. I wrote an adaptive soundtrack while producing and implementing original sound effects. In the same period I started my first blog, writing about working long hours on a console video game while playing *Ico* during pauses. 
+After a long stint in a music studio acquiring recording skills, I became independent and landed a [game audio designer]({{ site.url }}/projects/sound-design/console-game-ruff-trigger/) role in 2002. I wrote an adaptive soundtrack while producing and implementing original sound effects. In the same period I started my first blog, writing about working long hours on a console video game while playing *Ico* during pauses. 
 
 **As a sound designer**, I write and produce music from tracking to mastering, with mixing as my preferred stage. I’m also a professional bass player and a field recordist with Foley skills. I see game audio as the ultimate audio-visual narrative medium.
 
