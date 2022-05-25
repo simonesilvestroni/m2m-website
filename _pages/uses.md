@@ -232,7 +232,7 @@ Previously:
 ### Browser
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-- [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) (for testing purposes)
+- [Ungoogled Chromium]({{ site.url }}/blog/ungoogled-chromium/) (for testing purposes)
 - Safari (for testing purposes)
 - iOS Safari emulator (for testing purposes)
 
@@ -248,18 +248,17 @@ Previously:
 - Vivaldi
 - Chrome
 - Camino
+- Brave
 
 ### E-mail
 
-- [Protonmail](https://protonmail.com/) 
+- [Protonmail](https://proton.me/mail) 
 
 Previously:
 
 - Fastmail
 - Gmail
 - Apple @mac
-
-😑 I'm not happy at all about this choice. In hindsight I should have stuck to Fastmail with added PGP, instead of locking myself into yet another proprietary system's walled garden.
 
 ### Image manipulation
 
