@@ -11,10 +11,10 @@ tags:
   - privacy
 description: 'A brief list of steps taken to install and properly configure Ungoogled Chromium for pure web development testing purposes on macOS.'
 excerpt: 'I’ve finally switched back to <a href="https://github.com/Eloston/ungoogled-chromium">Ungoogled Chromium</a> for web dev testing purposes. Here’s a brief list of the steps needed to get it done properly.'
-syndication: false
+syndication: true
 syndicate:
   - name: Mastodon
-    url: 
+    url: https://indieweb.social/@m2m/108363784201325745
 ---
 Installation on macOS using Homebrew. Once completed the browser can be found in <kbd>/Applications/</kbd>.
 
