@@ -2,7 +2,7 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2022-05-13 18:39:27'
+last_modified_at: '2022-05-25 19:02:31'
 description: "Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the uses.tech project."
 excerpt: 'Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the <a href="https://uses.tech/"><code>uses.tech</code></a> project. None of the links are affiliate.'
 permalink: '/uses/'
@@ -232,7 +232,7 @@ Previously:
 ### Browser
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-- Brave (for testing purposes)
+- [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) (for testing purposes)
 - Safari (for testing purposes)
 - iOS Safari emulator (for testing purposes)
 
