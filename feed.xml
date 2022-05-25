@@ -18,15 +18,15 @@ layout: none
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <author>{{ site.author.email }} ({{ site.author.name }})</author>
-        <description>
+        <description><![CDATA[
           {% if post.summary %}
-          {{ post.summary | xml_escape }}
+          {{ post.summary }}
           {% else %}
-          {{ post.excerpt | xml_escape }}
+          {{ post.excerpt }}
           {% endif %}
           <br />
-          {{ post.content | xml_escape }}
-          <![CDATA[<hr /><p><a href="mailto:{{ site.author.email }}?subject={{ post.title | uri_escape }}">Reply via email</a></p>]]>
+          {{ post.content }}
+          <hr /><p><a href="mailto:{{ site.author.email }}?subject={{ post.title | uri_escape }}">Reply via email</a></p>]]>
         </description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ site.url }}{{ post.url }}</link>
