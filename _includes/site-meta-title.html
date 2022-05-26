@@ -1,7 +1,7 @@
 {%- if page.url == "/" -%}
-{{ site.title | append: ' – ' }}{{ site.tagline }}
+{{ site.title }}{% unless page.tagline == false %} - {{ site.tagline }}{% endunless %}
 {%- elsif page.type == 'category' or page.type == 'tag' -%}
-{{ page.type | capitalize }}: {{ page.title | capitalize | append: ' – ' }}{{ site.title }}
+{{ page.type | capitalize }}: {{ page.title | capitalize }} - {{ site.title }}
 {%- else -%}
-{{ page.title | append: ' – ' }}{{ site.title }}
+{{ page.title }}{% unless page.tagline == false %} - {{ site.title }}{% endunless %}
 {%- endif -%}

@@ -1,5 +1,6 @@
 ---
 title: 'Interview to Susan Rogers (Pensado’s Place)'
+tagline: false
 date: '2021-04-07'
 last_modified_at: '2021-11-08 16:59:59'
 categories:
