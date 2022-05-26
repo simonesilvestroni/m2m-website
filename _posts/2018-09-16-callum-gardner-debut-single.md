@@ -1,5 +1,5 @@
 ---
-title: 'Producing Callum Gardner’s Debut Single ’Commit To The List’'
+title: "Producing Callum Gardner’s Debut Single 'Commit To The List'"
 tagline: false
 date: '2018-09-16'
 last_modified_at: '2021-11-14 20:43:08'
