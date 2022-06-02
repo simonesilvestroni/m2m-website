@@ -50,6 +50,9 @@ menu:
       - name: Newsletter archives
         link: /newsletter/archives/
         desc: 'Archive of my aperiodic newsletter'
+      - name: PGP
+        link: /pgp/
+        desc: 'My public key'
   - name: RSS
     link: /rss/
     desc: 'RSS feeds for blog and newsletter'

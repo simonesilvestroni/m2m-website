@@ -2,7 +2,7 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2022-05-25 19:02:31'
+last_modified_at: '2022-05-31 12:19:54'
 description: "Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the uses.tech project."
 excerpt: 'Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the <a href="https://uses.tech/"><code>uses.tech</code></a> project. None of the links are affiliate.'
 permalink: '/uses/'
@@ -240,8 +240,7 @@ Firefox extensions:
 
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 - [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
-- [MarkDownload](https://addons.mozilla.org/en-US/firefox/addon/markdownload/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-- [Modern for Wikipedia](https://addons.mozilla.org/en-US/firefox/addon/modern-for-wikipedia/)
+- [Alfred for Firefox](https://github.com/deanishe/alfred-firefox)
 
 Previously:
 
@@ -252,7 +251,8 @@ Previously:
 
 ### E-mail
 
-- [Protonmail](https://proton.me/mail) 
+- [Protonmail](https://proton.me/mail)
+- [Thunderbird](https://www.thunderbird.net)
 
 Previously:
 
@@ -293,7 +293,7 @@ Previously:
 
 - [Reeder 5](https://reeder.app/) (for local RSS and Pocket articles)
 - [Pocket](https://www.mozilla.org/en-US/firefox/pocket/)
-- [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews&hl=en_US&gl=US) (for Hacker News)
+- [Glider](https://f-droid.org/packages/nl.viter.glider/) (FOSS mobile client for Hacker News)
 
 ### Task management
 
@@ -310,7 +310,9 @@ Previously:
 
 - [Telegram](https://telegram.org/)
 - [Signal](https://www.signal.org/)
-- [LimeChat](https://github.com/psychs/limechat) (IRC)
+- [irssi](https://irssi.org/) (IRC)
+- [Monal](https://monal.im/) (XMPP)
+- [Conversations](https://f-droid.org/packages/eu.siacs.conversations/) (XMPP on Android)
 
 Previously:
 
@@ -321,6 +323,7 @@ Previously:
 ### Music player
 
 - [Swinsian](http://www.swinsian.com)
+- [Retro Music](https://apt.izzysoft.de/fdroid/index/apk/code.name.monkey.retromusic) (FOSS mobile music player)
 
 Previously:
 

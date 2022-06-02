@@ -15,6 +15,8 @@ description: 'A brief analysis on how I have implemented Indieweb principles and
 excerpt: 'My method to implement Indieweb principles and add webmentions support to my Jekyll site is probably the laziest of all. It enabled a decentralized reply system, as well as allowing reposts and likes.'
 syndication: true
 syndicate:
+  - name: IndieNews
+    url: https://news.indieweb.org/en
   - name: Mastodon
     url: https://indieweb.social/@m2m/108312049281191498
 toc: true

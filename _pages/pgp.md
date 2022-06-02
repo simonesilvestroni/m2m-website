@@ -4,10 +4,9 @@ title: PGP
 date: '2022-05-05'
 last_modified_at: '2022-05-05 15:58:43'
 description: "The public PGP key of Simone Silvestroni, aka Minutes to Midnight."
+excerpt: "My PGP public key, with fingerprint <code>68BC E388 33F5 FA8C 32BD FF66 C48A 504E 8C9C 8F64</code>."
 permalink: '/pgp/'
 ---
-My PGP public key, with fingerprint `68BC E388 33F5 FA8C 32BD FF66 C48A 504E 8C9C 8F64`:
-
 <details class="mt-3">
   <summary class="fs-4">🔐 <strong>PGP public key</strong></summary>
   <pre>
