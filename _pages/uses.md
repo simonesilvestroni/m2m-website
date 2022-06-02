@@ -225,7 +225,7 @@ Previously:
 
 ### Git
 
-- Terminal.app and [iTerm2](https://iterm2.com/)
+- Terminal
 - [Sublime Merge](https://www.sublimemerge.com/) (currently in trial)
 - [Kaleidoscope](https://kaleidoscope.app/)
 
