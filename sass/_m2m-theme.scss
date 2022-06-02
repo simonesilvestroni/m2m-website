@@ -547,6 +547,9 @@ hr {
 .iframe-bandcamp iframe {
   border: 0;
   width: 100%;
+  @include media-breakpoint-up(md) {
+    width: 80%;
+  }
 }
 .iframe-bandcamp.bc-single iframe {
   height: 120px;
