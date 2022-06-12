@@ -23,7 +23,7 @@ toc: true
 ---
 The first time I’ve found about webmentions was when [Silvia](https://silviamaggidesign.com) suggested an article by [Chris Aldrich](https://boffosocko.com/) on *A List Apart*[^2]. His article also brought the discovery of [Indieweb](https://indieweb.org/) and the concept of a [small web](https://benhoyt.com/writings/the-small-web-is-beautiful/), free from the corporate vision. It perfectly fit with the way I see the internet and communication in general.
 
-A couple of years later, after I’d decided to leave social media[^1] and turn my WordPress blog into a static website, I chose not to implement a third-party commenting system. Instead, I went back to consider webmentions. A [W3C standard](https://www.w3.org/TR/webmention/), it’s a *decentralized* way to interact with other websites’ posts enabling replies, likes, reposts and more.
+A couple of years later, after I’d decided to leave social media[^1] and turn my WordPress blog into a static website, I chose not to implement a third-party commenting system. Instead, I went back to consider webmentions. A [W3C recommendation](https://www.w3.org/TR/webmention/), it’s a *decentralized* way to interact with other websites’ posts enabling replies, likes, reposts and more.
 
 > A Webmention is a notification that one URL links to another. For example, Alice writes an interesting post on her blog. Bob then writes a response to her post on his own site, linking back to Alice’s original post. Bob’s publishing software sends a Webmention to Alice notifying that her article was replied to, and Alice’s software can show that reply as a comment on the original post.
 
