@@ -22,4 +22,4 @@ permalink: '/music/'
 </section>
 
 {: .text-center .fs-4 }
-💿 [Follow my music on **Bandcamp** ↗︎](https://music.minutestomidnight.co.uk)
+💿 [My music on **Bandcamp** ↗︎](https://music.minutestomidnight.co.uk)
