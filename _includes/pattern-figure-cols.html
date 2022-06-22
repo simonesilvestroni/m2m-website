@@ -5,22 +5,18 @@
   /figcols
   -------------------------*
 {% endcomment %}
-<figure class="text-left my-5">
-  <div class="row">
-    <div class="col-12 mb-5 mb-md-0 col-md-6 text-center">
-      <picture>
-        <source srcset="{{ include.image1 | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }}" type="image/webp">
-        <source srcset="{{ include.image1 }}" {% if include.image contains '.jpg' or include.image contains '.jpeg' %}type="image/jpeg"{% elsif include.image contains '.png' %}type="image/png"{% endif %}>
-        <img src="{{ include.image1 }}" alt="{{ include.alt1 }}" {{ include.width ? include.width1 | prepend: 'width="' | append: '"' }} {{ include.height ? include.height2 | prepend: 'height="' | append: '"' }}>
-      </picture>
-    </div>
-    <div class="col-12 col-md-6 text-center">
-      <picture>
-        <source srcset="{{ include.image2 | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }}" type="image/webp">
-        <source srcset="{{ include.image2 }}" {% if include.image contains '.jpg' or include.image contains '.jpeg' %}type="image/jpeg"{% elsif include.image contains '.png' %}type="image/png"{% endif %}>
-        <img src="{{ include.image2 }}" alt="{{ include.alt2 }}" {{ include.width ? include.width2 | prepend: 'width="' | append: '"' }} {{ include.height ? include.height2 | prepend: 'height="' | append: '"' }}>
-      </picture>
-    </div>
-    {% if include.caption %}<figcaption class="mt-3 text-center caption">{{ include.caption }}</figcaption>{% endif %}
+<figure class="my-5">
+  <div class="d-flex flex-wrap justify-content-center">
+    <picture>
+      <source srcset="{{ include.image1 | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }}" type="image/webp">
+      <source srcset="{{ include.image1 }}" {% if include.image contains '.jpg' or include.image contains '.jpeg' %}type="image/jpeg"{% elsif include.image contains '.png' %}type="image/png"{% endif %}>
+      <img src="{{ include.image1 }}" alt="{{ include.alt1 }}" {{ include.width ? include.width1 | prepend: 'width="' | append: '"' }} {{ include.height ? include.height2 | prepend: 'height="' | append: '"' }}>
+    </picture>
+    <picture>
+      <source srcset="{{ include.image2 | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }}" type="image/webp">
+      <source srcset="{{ include.image2 }}" {% if include.image contains '.jpg' or include.image contains '.jpeg' %}type="image/jpeg"{% elsif include.image contains '.png' %}type="image/png"{% endif %}>
+      <img src="{{ include.image2 }}" alt="{{ include.alt2 }}" {{ include.width ? include.width2 | prepend: 'width="' | append: '"' }} {{ include.height ? include.height2 | prepend: 'height="' | append: '"' }}>
+    </picture>
   </div>
+  {% if include.caption %}<figcaption class="mt-3 text-center caption">{{ include.caption }}</figcaption>{% endif %}
 </figure>
