@@ -67,7 +67,7 @@ After clicking the provider green button, I signed-in to GitHub to complete the 
 <link rel="pingback" href="https://webmention.io/minutestomidnight.co.uk/xmlrpc" />
 ```
 
-I’ve added the above in an include file named `site-head.html` ([source](https://github.com/minutes2midnight/m2m-website/blob/master/_includes/site-head.html)) which contains a block of code from the DOCTYPE declaration to `</head>`.
+I’ve added the above in an include file named `site-head.html` ([source](https://gitlab.com/minutes2midnight/m2m-website/-/blob/master/_includes/site-head.html)) which contains a block of code from the DOCTYPE declaration to `</head>`.
 
 ### Microformats
 
@@ -255,7 +255,7 @@ Logging into Telegraph works the same as the other Indieweb services, it only ne
 
 To receive webmentions I have simply implemented the popular [`webmentions.js`](https://github.com/PlaidWeb/webmention.js) by [Fluffy](https://beesbuzz.biz/). It pulls data from webmention.io, adding the results in a section of my website. The minified Javascript file is only loaded in posts where webmentions can be received.
 
-I have an inclusion called [`pattern-responses.html`](https://github.com/minutes2midnight/m2m-website/blob/master/_includes/pattern-responses.html) where my comments code resides: the block of code `<div id="webmentions"></div>` at the bottom gets populated by the script in case webmentions are received.
+I have an inclusion called [`pattern-responses.html`](https://gitlab.com/minutes2midnight/m2m-website/-/blob/master/_includes/pattern-responses.html) where my comments code resides: the block of code `<div id="webmentions"></div>` at the bottom gets populated by the script in case webmentions are received.
 
 To collect reactions from Mastodon, I connected my Fediverse account to [Brid.gy](https://brid.gy/). It backfeeds likes and comments to `webmention.io`. WordPress and Flickr accounts were also added to Brid.gy. I can post a photo in my website and syndicate to Flickr while also backfeeding likes and comments from Flickr back to my site.
 
