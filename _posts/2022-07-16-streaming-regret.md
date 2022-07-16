@@ -11,7 +11,10 @@ tags:
   - 'spotify'
 description: 'People delegate music curation to distant corporations, forgetting that they can take it away on a whim. On losing control over the music we love.'
 excerpt: 'I properly tried music streaming a few years back: I never was fully into it. Only after a while I was able to pinpoint my unease: it implies delegating music to a silo, or anyway a distant corporation. I’ve always been in control of curating the music that I like throughout my life. I quickly jumped out of that wagon and I’ve been happily back to having a local music repository ever since.'
-syndication: false
+syndication: yes
+syndicate:
+  - name: Mastodon
+    url: https://indieweb.social/@m2m/108656389900836564
 ---
 The moral is always the same: when you fully subscribe to an ecosystem or a third-party entity who takes away full control over your files, you become dependent on a corporation which core business isn't what interests you, but money. Where the money goes, the business goes, along with — in this case — all your music.
 
