@@ -5,7 +5,7 @@ layout: default
   <h1 class="p-name text-center text-md-start">{{ page.title }}</h1>
   {%- for item in site.data.nav-main.menu %}
     {%- include pattern-subnav.html -%}
-    {%- if subnav-about contains page.url or subnav-blog contains page.url or subnav-contact contains page.url -%}
+    {%- if subnav-about contains page.url or subnav-projects contains page.url or subnav-blog contains page.url or subnav-contact contains page.url -%}
       {% include site-nav-sub.html %}
     {%- endif -%}
   {%- endfor -%}

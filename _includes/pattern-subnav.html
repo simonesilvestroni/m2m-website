@@ -5,13 +5,20 @@
     {% endfor -%}
   {% endif -%}
 {% endcapture -%}
-{% capture subnav-blog -%}
+{%- capture subnav-projects -%}
+  {% if item.link == '/projects/' -%}
+    {% for entry in item.sub -%}
+      {{ entry.link }}
+    {% endfor -%}
+  {% endif -%}
+{% endcapture -%}
+{%- capture subnav-blog -%}
   {% if item.link == '/blog/' -%}
     {% for entry in item.sub -%}
       {{ entry.link }}
     {% endfor -%}
   {% endif -%}
-{% endcapture %}
+{% endcapture -%}
 {%- capture subnav-contact -%}
   {% if item.link == '/contact/' -%}
     {% for entry in item.sub -%}

@@ -9,6 +9,14 @@
         {% endfor %}
       {%- endif %}
     {%- endfor %}
+  {%- elsif subnav-projects contains page.url %}
+    {%- for item in site.data.nav-main.menu %}
+      {%- if item.link == '/projects/' %}
+        {%- for entry in item.sub -%}
+          <a class="m2m-link {% if page.url == entry.link %} m2m-current{% endif %}" href="{{ entry.link }}" title="{{ entry.desc }}"><strong>{{ entry.name }}</strong></a>
+        {% endfor -%}
+      {% endif -%}
+    {% endfor %}
   {%- elsif subnav-blog contains page.url %}
     {%- for item in site.data.nav-main.menu %}
       {%- if item.link == '/blog/' %}
