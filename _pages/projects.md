@@ -5,7 +5,6 @@ date: '2021-11-08'
 last_modified_at: '2022-04-13 15:37:13'
 description: 'Alternating jobs between sound and web design, I’ve worked on many projects since the 1990s. A few highlights of the more representative.'
 excerpt: 'Alternating jobs between sound and web design, I’ve worked on many projects since the 1990s. A few highlights of the more representative.'
-toc: true
 permalink: '/projects/'
 ---
 {: .display-5 }
