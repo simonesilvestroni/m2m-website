@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 'Who I am'
 date: '2022-01-14'
 last_modified_at: '2022-04-13 15:14:31'
 description: 'A sound and web designer for two decades between Italy and the UK. I wrote a concept album about escaping war, which brought the moniker Minutes to Midnight.'
