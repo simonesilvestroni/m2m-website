@@ -5,12 +5,12 @@ last_modified_at: 2022-04-26 16:56:31
 ---
 <div class="h-entry">
   <div class="intro my-5">
-    <div class="d-flex flex-wrap justify-content-center align-items-center">
+    <div class="d-flex flex-wrap justify-content-center justify-content-md-start align-items-center">
       <div class="d-flex d-md-inline-flex">
         <img class="avatar" src="{{ site.url }}/assets/images/minutestomidnight-avatar-uphoto.png" alt="Portrait of Simone Silvestroni" width="128" height="128">
       </div>
       <div class="d-flex d-md-inline-flex">
-        <h1 class="text-center text-md-start h3 lh-sm px-3 mt-3 mt-lg-0 mb-0">{{ site.brand.m2m_pitch }}</h1>
+        <h1 class="text-center text-md-start h3 m2m-fw-black px-3 mt-3 mt-lg-0 mb-0">{{ site.brand.m2m_pitch }}</h1>
       </div>
     </div>
   </div>
@@ -21,32 +21,32 @@ last_modified_at: 2022-04-26 16:56:31
     </div>
   </div>
   <!-- Updates -->
-  <div class="row pt-5">
-    <div class="col-12 col-md-4 pb-5 pb-md-0">
+  <div class="d-flex flex-column justify-content-start">
+    <section class="mt-4 px-3 py-3 border rounded m2m-bg-alpha">
       <!-- Latest post -->
       {%- assign recentPosts = site.posts | sort: 'date' | reverse -%}
-      <h2 class="text-center fs-5"><mark class="m2m-highlight d-inline-block fw-bold initialism px-3 me-1"><strong>Latest post</strong></mark></h2>
+      <h2 class="mb-2 fs-4"><mark class="m2m-highlight d-inline-block fw-bold initialism px-3 me-1"><strong>Latest post</strong></mark></h2>
       {%- for post in recentPosts limit: 1 -%}
-      <p class="text-center fs-5"><a class="m2m-link" href="{{ post.url }}" title="Read the post"><strong>{{ post.title }}</strong></a></p>
+      <p class="mb-0 fs-5"><a class="m2m-link" href="{{ post.url }}" title="Read the post"><strong>{{ post.title }}</strong></a></p>
       {% endfor -%}
-    </div>
+    </section>
     <!-- Latest project -->
-    <div class="col-12 col-md-4 pb-5 pb-md-0">
+    <section class="mt-4 px-3 py-3 border rounded m2m-bg-alpha">
       {%- assign sounddesign = site.sounddesign -%}
       {%- assign webdesign = site.webdesign -%}
       {%- assign projects = sounddesign | concat: webdesign -%}
       {%- assign sortedprojects = projects | sort: 'date' | reverse -%}
-      <h2 class="text-center fs-5"><mark class="m2m-highlight d-inline-block fw-bold initialism px-3 me-1"><strong>Latest project</strong></mark></h2>
+      <h2 class="mb-2 fs-4"><mark class="m2m-highlight d-inline-block fw-bold initialism px-3 me-1"><strong>Latest project</strong></mark></h2>
       {% for project in sortedprojects limit: 1 %}
-      <p class="text-center fs-5"><a class="m2m-link" href="{{ project.url }}" title="Read the case study"><strong>{{ project.title }}</strong></a></p>
+      <p class="mb-0 fs-5"><a class="m2m-link" href="{{ project.url }}" title="Read the case study"><strong>{{ project.title }}</strong></a></p>
       {% endfor %}
-    </div>
-    <div class="col-12 col-md-4">
+    </section>
+    <section class="mt-4 px-3 py-3 border rounded m2m-bg-alpha">
       {%- assign releases = site.music | sort: 'date' | reverse -%}
-      <h2 class="text-center fs-5"><mark class="m2m-highlight d-inline-block fw-bold initialism px-3 me-1"><strong>Latest music release</strong></mark></h2>
+      <h2 class="mb-2 fs-4"><mark class="m2m-highlight d-inline-block fw-bold initialism px-3 me-1"><strong>Latest music release</strong></mark></h2>
       {% for release in releases limit: 1 %}
-      <p class="text-center fs-5"><a class="m2m-link" href="{{ release.url }}" title="Listen to the release"><strong>{{ release.subtype | capitalize }}: <em class="m2m-serif">{{ release.title }}</em></strong></a></p>
+      <p class="mb-0 fs-5"><a class="m2m-link" href="{{ release.url }}" title="Listen to the release"><strong>{{ release.subtype | capitalize }}: <em class="m2m-serif">{{ release.title }}</em></strong></a></p>
       {% endfor %}
-    </div>
+    </section>
   </div>
 </div>
