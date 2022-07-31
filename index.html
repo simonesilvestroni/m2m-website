@@ -22,10 +22,10 @@ last_modified_at: 2022-04-26 16:56:31
   </div>
   <!-- Updates -->
   <div class="d-flex flex-column justify-content-start">
-    <section class="mt-4 px-3 py-3 border rounded m2m-bg-alpha">
+    <section class="mt-4 px-4 py-4 border rounded">
       <!-- Latest post -->
       {%- assign recentPosts = site.posts | sort: 'date' | reverse -%}
-      <h2 class="mb-2 h3 text-uppercase">🗒 <strong>Latest posts</strong></h2>
+      <h2 class="mb-4 h3 text-uppercase">🗒 <strong>Latest posts</strong></h2>
       <ul class="m2m-ul mb-0">
       {%- for post in recentPosts limit: 5 -%}
       <li class="mt-2 fs-5"><a class="m2m-link fs-5" href="{{ post.url }}" title="Read the post"><strong>{{ post.title }}</strong></a></li>
@@ -33,21 +33,21 @@ last_modified_at: 2022-04-26 16:56:31
       </ul>
     </section>
     <!-- Latest project -->
-    <section class="mt-4 px-3 py-3 border rounded m2m-bg-alpha">
+    <section class="mt-4 px-4 py-4 border rounded">
       {%- assign sounddesign = site.sounddesign -%}
       {%- assign webdesign = site.webdesign -%}
       {%- assign projects = sounddesign | concat: webdesign -%}
       {%- assign sortedprojects = projects | sort: 'date' | reverse -%}
-      <h2 class="mb-2 h3 text-uppercase">👨🏻‍💻 <strong>Latest projects</strong></h2>
+      <h2 class="mb-4 h3 text-uppercase">👨🏻‍💻 <strong>Latest projects</strong></h2>
       <ul class="m2m-ul mb-0">
       {% for project in sortedprojects limit: 2 %}
       <li class="mt-2 fs-5"><a class="m2m-link" href="{{ project.url }}" title="Read the case study"><strong>{{ project.title }}</strong></a></li>
       {% endfor %}
       </ul>
     </section>
-    <section class="mt-4 px-3 py-3 border rounded m2m-bg-alpha">
+    <section class="mt-4 px-4 py-4 border rounded">
       {%- assign releases = site.music | sort: 'date' | reverse -%}
-      <h2 class="mb-2 h3 text-uppercase">🎧 <strong>Latest music releases</strong></h2>
+      <h2 class="mb-4 h3 text-uppercase">🎧 <strong>Latest music releases</strong></h2>
       <ul class="m2m-ul mb-0">
       {% for release in releases limit: 2 %}
       <li class="mt-2 fs-5"><a class="m2m-link" href="{{ release.url }}" title="Listen to the release"><strong>{{ release.subtype | capitalize }}: <em class="m2m-serif">{{ release.title }}</em></strong></a></li>
