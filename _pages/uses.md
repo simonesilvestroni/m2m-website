@@ -94,8 +94,8 @@ Previously:
 
 ### Operating system(s)
 
-- macOS Big Sur 11.6.5
-- Windows 10
+- macOS Monterey 12.5
+- Windows 11
 - [Pop_OS!](https://pop.system76.com/)
 - [Kali](https://www.kali.org/) (live distro)
 
@@ -103,7 +103,7 @@ As a _system-agnostic_ I can easily work with any OS, depending on the task. I�
 
 ### Digital Audio Workstation
 
-- [REAPER 6](https://www.reaper.fm/)&nbsp;&nbsp;➡️ **[read why]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)**
+- [REAPER 6.x](https://www.reaper.fm/)&nbsp;&nbsp;➡️ **[read why]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)**
 - Logic Pro X 10.7.2
 - Reason 8.2.3 (legacy edition that shouldn't theoretically work, but _it does_)
 
@@ -126,7 +126,7 @@ Previously:
 - Cool Edit Pro
 - Sound Forge
 - Adobe Audition
-- Steinberg Wavelab Pro
+- Steinberg WaveLab Pro
 
 ### Audio software instruments
 
@@ -194,7 +194,7 @@ Occasionally:
 Previously:
 
 - [Microsoft’s XACT for Xbox]({{ site.url }}/projects/sound-design/console-game-ruff-trigger/#xbox)
-- In-house MXE editor and middleware
+- In-house [MXE editor and middleware]({{ site.url }}/projects/sound-design/console-game-ruff-trigger)
 
 ### Audio accessories
 
