@@ -2,7 +2,7 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2022-05-31 12:19:54'
+last_modified_at: '2022-07-31 11:06:28'
 description: "Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the uses.tech project."
 excerpt: 'Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the <a href="https://uses.tech/"><code>uses.tech</code></a> project. None of the links are affiliate.'
 permalink: '/uses/'
@@ -235,12 +235,6 @@ Previously:
 - [Ungoogled Chromium]({{ site.url }}/blog/ungoogled-chromium/) (for testing purposes)
 - Safari (for testing purposes)
 - iOS Safari emulator (for testing purposes)
-
-Firefox extensions:
-
-- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-- [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
-- [Alfred for Firefox](https://github.com/deanishe/alfred-firefox)
 
 Previously:
 
