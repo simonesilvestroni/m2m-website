@@ -17,11 +17,7 @@ html {
   }
 }
 body {
-  background-color: #FAF8E9;
-  background-image: url(/assets/images/sun-tornado-min.svg);
-  /* above svg background by SVGBackgrounds.com */
-  background-attachment: fixed;
-  background-size: cover;
+  background-color: #FFFFF1;
 }
 
 
@@ -29,16 +25,16 @@ body {
 // $LAYOUT
 // ------------------------------------------------ //
 
-header {
-  background: transparent url(/assets/images/dirt.png) repeat top left;
+.m2m-header,
+footer {
+  background-image: url(/assets/images/sun-tornado-min.svg);
+  /* above svg background by SVGBackgrounds.com */
   background-attachment: fixed;
+  background-size: cover;
   // @media (prefers-color-scheme: dark) {
   //   opacity: 0.4;
   //   background-attachment: fixed;
   // }
-}
-.m2m-header-bg {
-  background-color: rgba(255,255,255,0.3);
 }
 .m2m-container {
   @include media-breakpoint-up(lg) {
@@ -486,6 +482,10 @@ hr {
       filter: grayscale(0);
     }
   }
+}
+.dirt {
+  background: rgba($link-l-10, .25) url(/assets/images/dirt.png) repeat top left;
+  background-attachment: fixed;
 }
 
 
