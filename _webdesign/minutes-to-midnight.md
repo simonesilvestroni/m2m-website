@@ -28,7 +28,7 @@ featimage-height: '574'
 performance: true
 googlescore: '100'
 speedindex: '0.4 seconds'
-pageweight: '150 kb'
+pageweight: '125 kb'
 site-is-live: true
 live-url: 'https://minutestomidnight.co.uk'
 permalink: '/projects/web-design/minutes-to-midnight/'
@@ -389,7 +389,7 @@ Accessibility benchmarks:
 
 Sustainability notes:
 
-Only `0.07g of CO2` is produced every time someone visits the homepage. Cleaner than `93%` of [web pages tested](https://www.websitecarbon.com/website/minutestomidnight-co-uk/ "Visit Website carbon").
+Only `0.02g of CO2` is produced every time someone visits the homepage. Cleaner than `98%` of [web pages tested](https://www.websitecarbon.com/website/minutestomidnight-co-uk/ "Visit Website carbon").
 
 ## Search engine
 
