@@ -53,9 +53,9 @@ Developed from scratch using:
 
 ## Sustainability
 
-Only `0.07g of CO2` is produced every time someone visits the homepage. Cleaner than `93%` of [web pages tested](https://www.websitecarbon.com/website/minutestomidnight-co-uk/ "Visit Website carbon"). The website is supposed to be running on sustainable energy. However, it seems that Netlify is using AWS, which switches the CDN from US East to US West depending on the time of the day: one is green the other is not yet.
+Only `0.02g of CO2` is produced every time someone visits the homepage. Cleaner than `98%` of [web pages tested](https://www.websitecarbon.com/website/minutestomidnight-co-uk/ "Visit Website carbon"). The website is running on sustainable energy.
 
-The website [does not request third-party resources](https://aremythirdpartiesgreen.com/test/76e7ac7370d84f1fabd254608e118ff4), except for the blog posts, which are calling `webmention.io` to render web mentions.
+I [do not request third-party resources](https://aremythirdpartiesgreen.com/test/76e7ac7370d84f1fabd254608e118ff4), except for the blog posts, which are calling `webmention.io` to render web mentions.
 
 Member of the [512kb club](https://512kb.club "Member of the 512kb Orange Team") and the [1Mb club](https://1mb.club/).
 
