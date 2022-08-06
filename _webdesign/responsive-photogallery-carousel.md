@@ -345,9 +345,9 @@ Both our dev environments benefited from significant improvements:
 
 Check out my public gists for the three files:
 
-- [Image gallery pattern](https://codeberg.org/m2m/css-responsive-photogallery-jekyll/src/branch/master/scss-image-gallery.md)
-- [Modal window and carousel](https://codeberg.org/m2m/css-responsive-photogallery-jekyll/src/branch/master/pattern-modal.md)
-- [SASS code](https://codeberg.org/m2m/css-responsive-photogallery-jekyll/src/branch/master/scss.md)
+- [Image gallery pattern](https://codeberg.org/m2m/css-responsive-photogallery-jekyll/src/branch/master/scss-image-gallery.scss)
+- [Modal window and carousel](https://codeberg.org/m2m/css-responsive-photogallery-jekyll/src/branch/master/pattern-modal.html)
+- [SASS code](https://codeberg.org/m2m/css-responsive-photogallery-jekyll/src/branch/master/scss.scss)
 
 ## Example: multiple galleries
 
