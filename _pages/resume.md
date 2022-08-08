@@ -13,9 +13,11 @@ permalink: '/resume/'
 
 ### Sound design
 
-Besides being a professional **`bassist`**, I'm an expert in **`music production`**, especially **`mixing`** and **`mastering`**.  After a long experience with **`Logic Pro`**, **`Pro Tools`** and **`Sound Forge`**, the tools I'm currently digging the most are **`REAPER`** and **`iZotope RX`**. After deciding to go back to **`game audio`**, I'm currently deeply involved in learning Audiokinetic's **`Wwise`** and **`FMOD`**. 
+Besides being a professional **`bassist`**, I'm a **`music producer`**, especially focused on **`mixing`** and **`mastering`**.  After a long experience with **`Logic`** and **`Pro Tools`**, the tools I'm currently digging the most are **`REAPER`** and **`iZotope RX`**. After deciding to go back to **`game audio`**, I'm deeply involved in learning Audiokinetic's **`Wwise`** and **`FMOD`**.
 
 I also write and release original music and enjoy **`field recording`** and **`Foley`** techniques.
+
+Check out all the [tools I use]({{ site.url }}/uses/).
 
 ### Web design
 
