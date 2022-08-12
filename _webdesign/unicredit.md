@@ -11,7 +11,7 @@ skillset:
  - ssh
  - capistrano
  - git
-description: "UniCredit is a leading European bank with a network spanning 50 markets. The brief was to re-design their landing pages for new customer acquisitions."
+description: "A leading European bank with a network spanning 50 markets. The brief: re-design their landing pages for new customer acquisitions."
 excerpt: false
 summary: 'The focus of the brief was to re-design UniCredit’s existing online landing pages for new customer acquisitions. We designed and developed a fully responsive site with custom experiences for smartphone, tablet and desktop to replace the existing desktop-only landing pages.'
 toc: false

@@ -18,7 +18,7 @@ skillset:
  - bash
  - microformats
  - webmentions
-description: 'Why my current website, built on Jekyll and hosted on Netlify, eclipses the previous one on IA, performance, sustainability and maintenance.'
+description: 'Why my current website, built with Jekyll and Netlify, eclipses the previous one on IA, performance, sustainability and maintenance.'
 excerpt: false
 summary: '<strong>Migrating from WordPress</strong> to a static site generator has been a blessing. In this case study, I explain why my current website, built on Jekyll and hosted on Netlify, eclipses the previous one on <abbr title="Information Architecture">IA</abbr>, performance, sustainability and maintenance.'
 toc: true
