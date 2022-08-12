@@ -24,8 +24,8 @@ Developed from scratch using:
 
 ## Performance
 
-<div class="table-responsive">
-  <table class="table table-sm">
+<div class="table-responsive card-box rounded">
+  <table class="table table-borderless mb-0">
     <thead>
       <tr>
         <th scope="col" class="align-top text-center">Markup</th>
@@ -36,7 +36,7 @@ Developed from scratch using:
     </thead>
     <tbody>
       <tr>
-        <td class="text-center fs-2"><a href="https://validator.w3.org/nu/?doc=https://minutestomidnight.co.uk/" target="_blank" rel="noopener">✓ Valid</a></td>
+        <td class="text-center fs-2"><a href="https://validator.w3.org/nu/?doc=https://minutestomidnight.co.uk/" target="_blank" rel="noopener" title="Valid markup">✓</a></td>
         <td class="text-center fs-2">100</td>
         <td class="text-center fs-2">0.4 sec</td>
         <td class="text-center fs-2">125 kb</td>

@@ -17,7 +17,7 @@ html {
   }
 }
 body {
-  background-color: #FFFFF1;
+  background-color: $background;
 }
 
 
@@ -25,7 +25,6 @@ body {
 // $LAYOUT
 // ------------------------------------------------ //
 
-.m2m-header,
 footer {
   background-image: url(/assets/images/sun-tornado-min.svg);
   /* above svg background by SVGBackgrounds.com */
@@ -443,6 +442,10 @@ dd {
     border-top-right-radius: $card-border-radius;
   }
 }
+.card-box {
+  background: $white;
+  box-shadow: 0 2px 3px rgba(0,0,0,.1)
+}
 
 
 // ------------------------------------------------ \\
@@ -484,7 +487,7 @@ hr {
   }
 }
 .dirt {
-  background: rgba($link-l-10, .25) url(/assets/images/dirt.png) repeat top left;
+  background: transparent url(/assets/images/dirt.png) repeat top left;
   background-attachment: fixed;
 }
 

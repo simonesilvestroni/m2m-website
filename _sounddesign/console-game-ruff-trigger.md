@@ -91,13 +91,13 @@ Working closely with the audio programmer, I **implemented an adaptive soundtrac
 
 #### Examples
 
-<div class="alert alert-background-d-10" role="alert">
+<div class="alert card-box rounded-3" role="alert">
   <p class="fs-5"><code class="fw-bold">Warning</code> — The following songs are demos <strong>rendered in their linear versions</strong>. They don&rsquo;t reflect their original behavior in the gameplay, where each song had distinct instrument layers that were activated or deactivated following cues from the game engine. As they&rsquo;re the original demos, <strong>they aren&rsquo;t properly mixed nor mastered</strong>.</p>
 </div>
 
 <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 mt-4 mb-5">
   <div class="col">
-    <div class="card text-dark bg-light">
+    <div class="card card-box text-dark">
       {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671219%3Fsecret_token%3Ds-NZEFQ&color=%23b0b0b0&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
       <div class="card-body">
         <h5 class="card-title mt-0">Industrial City</h5>
@@ -106,16 +106,16 @@ Working closely with the audio programmer, I **implemented an adaptive soundtrac
     </div>
   </div>
   <div class="col">
-    <div class="card text-dark bg-light">
+    <div class="card card-box text-dark">
       {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671240%3Fsecret_token%3Ds-Z0Awt&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
       <div class="card-body">
         <h5 class="card-title mt-0">Farm</h5>
-        <p class="card-text fs-6">One of six atmospheric pieces triggered by remote parts of a specific game level. The wind was created with the Korg Trinity.</p>
+        <p class="card-text fs-6">One of six atmospheric pieces triggered by remote parts of a specific game level. Korg Trinity created the wind.</p>
       </div>
     </div>
   </div>
   <div class="col">
-    <div class="card text-dark bg-light">
+    <div class="card card-box text-dark">
       {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671210%3Fsecret_token%3Ds-szxDn&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
       <div class="card-body">
         <h5 class="card-title mt-0">Racing part 1</h5>
@@ -124,7 +124,7 @@ Working closely with the audio programmer, I **implemented an adaptive soundtrac
     </div>
   </div>
   <div class="col">
-    <div class="card text-dark bg-light">
+    <div class="card card-box text-dark">
       {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671156%3Fsecret_token%3Ds-MN1dE&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
       <div class="card-body">
         <h5 class="card-title mt-0">TexMex</h5>
@@ -133,7 +133,7 @@ Working closely with the audio programmer, I **implemented an adaptive soundtrac
     </div>
   </div>
   <div class="col">
-    <div class="card text-dark bg-light">
+    <div class="card card-box text-dark">
       {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671060%3Fsecret_token%3Ds-vGqvZ&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
       <div class="card-body">
         <h5 class="card-title mt-0">Tribal Cave</h5>
@@ -142,7 +142,7 @@ Working closely with the audio programmer, I **implemented an adaptive soundtrac
     </div>
   </div>
   <div class="col">
-    <div class="card text-dark bg-light">
+    <div class="card card-box text-dark">
       {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671009%3Fsecret_token%3Ds-mEJW4&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
       <div class="card-body">
         <h5 class="card-title mt-0">Run For Your Life</h5>

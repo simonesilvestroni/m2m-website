@@ -1,6 +1,6 @@
 {%- assign page = project -%}
 <div class="col m2m-transition-opacity-03s">
-  <div class="card h-100">
+  <div class="card card-box h-100">
     {%- if project.featimage == true -%}
     <picture>
       <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".webp" }}" type="image/webp">
