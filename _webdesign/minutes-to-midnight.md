@@ -361,13 +361,13 @@ What contributes to my Pagespeed and Lighthouse score of `100` on performance, a
 I took care of removing files that are not needed on the live server, by adding a second `config-production.yml` which is called in my build command on Netlify. The final benchmarks:
 
 <div class="table-responsive my-4">
-  <table class="table table-striped">
+  <table class="table">
     <thead>
       <tr>
-        <th scope="col" class="align-top text-center fw-bold"><strong>Markup</strong></th>
-        <th scope="col" class="align-top text-center fw-bold"><strong>Google score</strong></th>
-        <th scope="col" class="align-top text-center fw-bold"><strong>Speed index</strong></th>
-        <th scope="col" class="align-top text-center fw-bold"><strong>Homepage weight</strong></th>
+        <th scope="col" class="align-top text-center">Markup</th>
+        <th scope="col" class="align-top text-center">Google score</th>
+        <th scope="col" class="align-top text-center">Speed index</th>
+        <th scope="col" class="align-top text-center">Homepage weight</th>
       </tr>
     </thead>
     <tbody>

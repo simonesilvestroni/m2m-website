@@ -1,17 +1,7 @@
 ---
 layout: default
 ---
-<article class="h-entry m2m-entry mt-4">
-  <h1 class="p-name text-center text-md-start">{{ page.title }}</h1>
-  {%- for item in site.data.nav-main.menu %}
-    {%- include pattern-subnav.html -%}
-    {%- if subnav-about contains page.url or subnav-projects contains page.url or subnav-blog contains page.url or subnav-contact contains page.url -%}
-      {% include site-nav-sub.html %}
-    {%- endif -%}
-  {%- endfor -%}
-  {%- if page.excerpt %}
-  <p class="p-summary lead">{{ page.excerpt }}</p>
-  {% endif %}
+<article class="h-entry m2m-entry mt-5">
   {%- if page.toc == true %}
     {% include pattern-toc.html html=content sanitize=true class="inline_toc" id="toc" h_min=2 h_max=2 %}
   {% endif -%}

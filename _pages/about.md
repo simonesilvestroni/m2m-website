@@ -4,7 +4,7 @@ title: 'Who I am'
 date: '2022-01-14'
 last_modified_at: '2022-04-13 15:14:31'
 description: 'A sound and web designer for two decades between Italy and the UK. I wrote a concept album about escaping war, which brought the moniker Minutes to Midnight.'
-excerpt: 'A sound and web designer for two decades between Italy and the UK. I wrote a concept album about escaping war, which brought the moniker <em>Minutes to Midnight</em>.'
+excerpt: 'A sound and web designer for over two decades between Italy and the UK, I worked in game audio and wrote a concept album about escaping war. A more detailed <a href="/resume/"><strong>resume</strong></a> is available, or head over to an updated list of the <a href="/uses/"><strong>software and hardware</strong></a> that I’m using.'
 permalink: '/about/'
 ---
 ## Audio and web
@@ -16,9 +16,6 @@ In the early 1990s, I started a side job in the publishing industry while gradua
 After a long stint in a music studio acquiring recording skills, I became independent and landed a [game audio designer]({{ site.url }}/projects/sound-design/console-game-ruff-trigger/) role in 2002. I wrote an adaptive soundtrack while producing and implementing original sound effects. In the same period I started my first blog, writing about working long hours on a console video game while playing *Ico* during pauses. 
 
 **As a sound designer**, I write and produce music from tracking to mastering, with mixing as my preferred stage. I’m also a professional bass player and a field recordist with Foley skills. I see game audio as the ultimate audio-visual narrative medium.
-
-{: .text-center .fs-4 .my-5 .py-3 }
-📄 [See my **resume** →]({{ site.url }}/resume/)
 
 ## Passions and interests
 
@@ -34,14 +31,14 @@ The expression _minutes to midnight_ is a reference to the [Doomsday Clock](http
 
 ## Website
 
-Details about this website can be found in the [project page]({{ site.url }}/projects/web-design/minutes-to-midnight/) and the [colophon]({{ site.url }}/colophon/).
+Details about this website can be found in the [colophon]({{ site.url }}/colophon/).
 
 ## Contacts
 
-Find the way to [get in touch]({{ site.url }}/contact/) with me, and my [PGP public key]({{ site.url }}/pgp/).
+Find the best way to [get in touch]({{ site.url }}/contact/), and my [PGP public key]({{ site.url }}/pgp/).
 
 ## Press photos
 
-<p><mark class="m2m-highlight small"><small class="px-3"><strong>Photography by</strong> <a href="https://silviamaggidesign.com">Silvia Maggi</a></small></mark></p>
+Photography by <a href="https://silviamaggidesign.com">Silvia Maggi</a>.
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-press/" id="1" %}

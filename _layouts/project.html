@@ -12,17 +12,13 @@ layout: default
 {% endcapture %}
 <article class="h-entry m2m-entry my-5">
   <div class="m2m-label text-center text-md-start pt-2">
-    <span>Project: </span>
-    <kbd><a class="m2m-link text-uppercase p-1" href="{% unless page.type == "music" %}/projects/#{{ page.type | slugify }}{% endunless %}{% if page.type == "music" %}/music/{% endif %}"><span class="p-category">{% unless page.type == "music" %}{{ page.type }}{% endunless %}{% if page.type == "music" %}{{ page.subtype }}{% endif %}</span></a></kbd>
+    <p class="mb-5 mb-lg-2">
+      <span>Project type: </span>
+      <a class="m2m-link text-uppercase p-1" href="{% unless page.type == "music" %}/projects/#{{ page.type | slugify }}{% endunless %}{% if page.type == "music" %}/music/{% endif %}"><span class="p-category initialism">{% unless page.type == "music" %}{{ page.type }}{% endunless %}{% if page.type == "music" %}{{ page.subtype }}{% endif %}</span></a>
+    </p>
   </div>
-  <h1 class="p-name text-center text-md-start mt-4">{{ page.title }}</h1>
-  {%- if page.collection == 'webdesign' %}
-  <p class="p-summary lead">{{ page.summary }}</p>
-  {% else %}
-  <p class="p-summary lead">{{ page.excerpt }}</p>
-  {% endif -%}
-  <div class="post-meta">
-    <p class="mb-0 lh-lg"><strong>Skills &amp; tools</strong>: {% for skill in page.skillset -%}<span class="p-category initialism bg-light p-1">{{ skill }}</span>{% unless forloop.last %}, {% endunless %} {%- endfor -%}</p>
+  <div class="post-meta mt-3">
+    <span>Skills &amp; tools</span>: {% for skill in page.skillset -%}<kbd class="p-category initialism">{{ skill }}</kbd>&nbsp;{%- endfor -%}
     <span class="visually-hidden">
       {% include hcard-post.html %}
     </span>
@@ -43,7 +39,9 @@ layout: default
       {%- include pattern-performance.html -%}  
     {% endif -%}
     {%- if page.toc == true %}
+    <div class="mt-5">
       {% include pattern-toc.html html=content sanitize=true class="inline_toc" id="toc" h_min=2 h_max=2 %}
+    </div>
     {% endif -%}
     {{ content }}
     {% if page.site-is-live == true %}

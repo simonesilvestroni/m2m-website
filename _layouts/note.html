@@ -7,12 +7,8 @@ layout: default
       <a class="m2m-link text-uppercase" href="/notes/">← <span class="p-category">Notes</span></a>
     </kbd>
   </div>
-  <h1 class="fs-1 text-center text-md-start mt-5"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y %T" }}</time></h1>
   <div class="post-meta my-3">
     <span class="visually-hidden">{% include hcard-post.html %}</span>
-  </div>
-  <div class="e-content my-5">
-    {{ content }}
   </div>
   {%- include pattern-responses.html -%}
 </article>

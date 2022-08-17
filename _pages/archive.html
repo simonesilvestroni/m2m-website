@@ -15,7 +15,7 @@ permalink: '/archive/'
   <h3 class="p-name" id="sound-design">Sound design</h3>
   <ul class="h-feed list-group list-group-flush fs-5 ps-0 mb-5">
   {% for project in sounddesign %}
-    <li class="list-group-item my-0 ps-0">🎧 <a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <kbd><span class="p-category text-uppercase"><strong>{{ project.subtype }}</strong></span></kbd></li>
+    <li class="list-group-item my-0 ps-0">🎧 <a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <kbd class="initialism"><span class="p-category text-uppercase">{{ project.subtype }}</span></kbd></li>
   {% endfor %}
   </ul>
 </section>
@@ -23,7 +23,7 @@ permalink: '/archive/'
   <h3 class="p-name" id="web-design">Web design</h3>
   <ul class="h-feed list-group list-group-flush fs-5 ps-0 mb-5">
   {% for project in webdesign %}
-    <li class="list-group-item my-0 ps-0">👨🏻‍💻 <a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <kbd><span class="p-category text-uppercase"><strong>{{ project.subtype }}</strong></span></kbd></li>
+    <li class="list-group-item my-0 ps-0">👨🏻‍💻 <a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <kbd class="initialism"><span class="p-category text-uppercase">{{ project.subtype }}</span></kbd></li>
   {% endfor %}
   </ul>
 </section>
@@ -31,7 +31,7 @@ permalink: '/archive/'
   <h3 class="p-name" id="original-music-productions">Original music productions</h3>
   <ul class="h-feed list-group list-group-flush fs-5 ps-0 mb-5">
   {% for project in music %}
-    <li class="list-group-item my-0 ps-0">💿 <a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <kbd><span class="p-category text-uppercase"><strong>{{ project.kind }}</strong></span></kbd></li>
+    <li class="list-group-item my-0 ps-0">💿 <a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <kbd class="initialism"><span class="p-category text-uppercase">{{ project.kind }}</span></kbd></li>
   {% endfor %}
   </ul>
 </section>

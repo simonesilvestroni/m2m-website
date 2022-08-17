@@ -24,7 +24,7 @@ Developed from scratch using:
 
 ## Performance
 
-<div class="table-responsive card-box rounded">
+<div class="table-responsive">
   <table class="table table-borderless mb-0">
     <thead>
       <tr>

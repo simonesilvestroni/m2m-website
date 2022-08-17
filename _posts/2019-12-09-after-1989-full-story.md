@@ -31,7 +31,7 @@ sitemap: false
 ### A real-life story of imprisonment and liberty, between two wars and three generations.
 
 <div class="mx-auto text-center mt-5">
-  <p class="d-inline-block alert card-box rounded-3 fs-6" role="alert">ℹ️ this article was first <a href="https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e" target="_blank">published on Medium</a>.</p>
+  <p class="d-inline-block alert m2m-bg-alpha rounded-3 fs-6" role="alert">ℹ️ this article was first <a href="https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e" target="_blank">published on Medium</a>.</p>
 </div>
 
 ## Roots

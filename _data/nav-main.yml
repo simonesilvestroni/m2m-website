@@ -2,70 +2,18 @@ menu:
   - name: About
     link: /about/
     desc: 'Resume, projects I worked on, my music and the equipment I use'
-    sub:
-      - name: About
-        link: /about/
-        desc: 'Bits about my story'
-      - name: Resume
-        link: /resume/
-        desc: 'Essential curriculum with publications and endorsements'
-      - name: Uses
-        link: /uses/
-        desc: 'Hardware and software I use'
   - name: Projects
     link: /projects/
     desc: 'A selection of my recent work'
-    sub:
-      - name: Sound design
-        link: /projects/#sound-design
-        desc: 'Recent sound design work'
-      - name: Music
-        link: /music/
-        desc: 'Published original music'
-      - name: Web design
-        link: /projects/#web-design
-        desc: 'Recent web design work'
-      - name: Publications
-        link: /projects/#publications
-        desc: 'Published articles'
-      - name: Spotify
-        link: /projects/#spotify-playlists
-        desc: 'Spotify playlists containing recent production work'    
   - name: Blog
     link: /blog/
     desc: 'Articles, interviews and press releases'
-    sub:
-      - name: Posts
-        link: /blog/
-        desc: 'Blog posts'
-      - name: Popular
-        link: /blog/popular/
-        desc: 'Most popular posts'
-      - name: Archive
-        link: /archive/
-        desc: 'Browse the projects, all the posts by year and the taxonomy'
-      - name: Blogroll
-        link: /blogroll/
-        desc: 'A list of personal and professional websites that I follow'
   - name: RSS
     link: /rss/
     desc: 'RSS feeds for blog and newsletter'
   - name: Contacts
     link: /contact/
     desc: 'Hire me, get in touch or subscribe to the newsletter'
-    sub:
-      - name: Hire me
-        link: /contact/
-        desc: 'Hire me for web or sound design tasks'
-      - name: Social media
-        link: /follow/
-        desc: 'Follow me on social media'
-      - name: Newsletter
-        link: /newsletter/
-        desc: 'My aperiodic newsletter'
-      - name: PGP
-        link: /pgp/
-        desc: 'My public key'
   - name: 🔎
     link: /search/
     desc: 'Search throughout the website'

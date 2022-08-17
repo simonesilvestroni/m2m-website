@@ -1,16 +1,70 @@
 {%- include site-head.html %}
 <body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
-<div class="m2m-header dirt">
+  {% comment %}
+    *-------------------------
+    Header
+    -------------------------*
+  {% endcomment %}
+<div class="m2m-header m2m-bg-l-10">
   {% include site-header.html %}
 </div>
 <main class="m2m-main">
+  <section class="tornado py-5">
+    <div class="container m2m-container">
+      {% comment %}
+        *-------------------------
+        Main title
+        -------------------------*
+      {% endcomment %}
+      <h1 class="p-name text-center text-md-start mb-0{%- if page.url == "/" %} fw-bold h3{% endif %}">
+        {%- if page.url == "/" -%}<strong>{{ site.brand.m2m_pitch }}</strong>
+        {% else %}
+          {%- if page.type == "tag" or page.type == "category" -%}🏷 {% endif %}{%- if page.type == "tag" %}{{ page.title | capitalize }}{% else %}{{ page.title }}{% endif %}
+        {% endif %}
+      </h1>
+      {% comment %}
+        *-------------------------
+        Summary
+        -------------------------*
+      {% endcomment %}
+      {%- if page.url == "/" -%}
+      <p class="p-summary lead mt-3 mb-0">{{ site.brand.m2m_intro }} <a class="ps-2" href="/about/" title="About page"><strong>Read more</strong>&nbsp;→</a></p>
+      {% endif %}
+      {%- if page.type == "tag" or page.type == "category" -%}
+      <p class="p-summary lead mt-3 mb-0">This is the archive page for the {% if page.type == "tag" %}tag.{% elsif page.type == "category" %}topic.{% endif %}</p>
+      {% endif %}
+      {%- if page.excerpt %}
+      <p class="p-summary lead mt-3 mb-0">
+        {%- if page.collection == 'webdesign' %}
+        {{ page.summary }}
+        {% else %}
+        {{ page.excerpt }}</p>
+        {% endif %}
+      {% endif -%}
+    </div>
+  </section>
+  {% comment %}
+    *-------------------------
+    Content
+    -------------------------*
+  {% endcomment %}
   <div class="container m2m-container" id="m2m-content">
     {{ content }}
   </div>
 </main>
+{% comment %}
+  *-------------------------
+  Footer
+  -------------------------*
+{% endcomment %}
 <div class="footer-wrapper">
   {% include site-footer.html %}
 </div>
+{% comment %}
+  *-------------------------
+  Javascript
+  -------------------------*
+{% endcomment %}
 {%- if page.url contains '/search' or page.url contains '404.html' -%}
 {%- if jekyll.environment == "production" %}
 <script src="/assets/js/search-m2m.min.js"></script>

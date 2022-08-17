@@ -31,9 +31,9 @@ $enable-rfs: true;
 $headings-font-family: $font-family-base;
 $headings-font-weight: 700;
 $headings-margin-bottom: 1.7rem;
-$h1-font-size: 3.5rem;
-$h2-font-size: 2.25rem;
-$h3-font-size: 1.8rem;
+$h1-font-size: 2.8rem;
+$h2-font-size: 2rem;
+$h3-font-size: 1.7rem;
 $h4-font-size: 1.4rem;
 $h5-font-size: 1.1rem;
 $h6-font-size: 1rem;
@@ -77,9 +77,9 @@ $nav-pills-link-active-bg: $link-d-30;
 $list-group-bg: transparent;
 
 // Image gallery
-$m2m-gallery-thumb-w: 140px;
-$m2m-gallery-thumb-h: 140px;
-$m2m-gallery-thumb-caption: 140px;
+$m2m-gallery-thumb-w: 96px;
+$m2m-gallery-thumb-h: 96px;
+$m2m-gallery-thumb-caption: 96px;
 
 // Tables
 $table-striped-order: even;

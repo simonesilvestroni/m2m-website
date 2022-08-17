@@ -1,7 +1,7 @@
 {%- if page.url == "/" -%}
 {{ site.title }}{% unless page.tagline == false %} - {{ site.tagline }}{% endunless %}
 {%- elsif page.type == 'category' or page.type == 'tag' -%}
-{{ page.type | capitalize }}: {{ page.title | capitalize }} - {{ site.title }}
+{{ site.title }} - {{ page.type | capitalize }}: {{ page.title | capitalize }}
 {%- else -%}
-{{ page.title }}{% unless page.tagline == false %} - {{ site.title }}{% endunless %}
+{% unless page.tagline == false %}{{ site.title }}{% endunless %} - {{ page.title }}
 {%- endif -%}

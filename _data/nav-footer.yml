@@ -1,4 +1,8 @@
 - name: Colophon
   link: /colophon/
-- name: Privacy
-  link: /privacy-policy/
+- name: Resume
+  link: /resume/
+- name: Equipment
+  link: /uses/
+- name: Newsletter
+  link: /newsletter/

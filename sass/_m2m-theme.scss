@@ -17,7 +17,7 @@ html {
   }
 }
 body {
-  background-color: $background;
+  background-color: $white;
 }
 
 
@@ -25,20 +25,10 @@ body {
 // $LAYOUT
 // ------------------------------------------------ //
 
-footer {
-  background-image: url(/assets/images/sun-tornado-min.svg);
-  /* above svg background by SVGBackgrounds.com */
-  background-attachment: fixed;
-  background-size: cover;
-  // @media (prefers-color-scheme: dark) {
-  //   opacity: 0.4;
-  //   background-attachment: fixed;
-  // }
-}
 .m2m-container {
   @include media-breakpoint-up(lg) {
     @include make-container($spacer);
-    max-width: 880px;
+    max-width: 680px;
   }
 }
 
@@ -65,6 +55,8 @@ h1 {
 }
 h2 {
   color: black;
+  padding-bottom: .75rem;
+  border-bottom: 2px solid $background-d-10;
 }
 // Search page result heading (component)
 h4 {
@@ -83,13 +75,8 @@ h4 {
   .nav-link {
     font-size: 1.2rem;
     color: black;
-    text-decoration-line: underline;
-    text-decoration-thickness: 2px;
-    text-decoration-color: rgba($link-d-40, .8);
-    text-underline-offset: 3px;
     &.active {
-      text-underline-offset: 2px;
-      text-decoration-thickness: 5px;
+      font-weight: 900;
     }
     &:hover {
       opacity: .6;
@@ -170,9 +157,7 @@ p {
   hyphens: auto;
   // Lead paragraphs
   &.lead {
-    font-size: rfs-fluid-value(26px);
-    line-height: 1.3 !important;
-    margin: $spacer*2 0 !important;
+    color: $black;
   }
 }
 pre {
@@ -181,8 +166,6 @@ pre {
   margin: $spacer*2 0;
   padding: $spacer;
   background: rgba($light, 0.7);
-  border-top: 1px solid $heading-l-90;
-  border-bottom: 1px solid $heading-l-90;
   code {
     background-color: transparent;
     color: $black;
@@ -200,13 +183,9 @@ blockquote {
   padding-left: $spacer*1.25;
   border-left: 2px solid $background-d-10;
   line-height: 1.3;
-  @include media-breakpoint-up(md) {
-    width: 80%;
-  }
   p {
     @extend %m2m-serif;
     display: inline;
-    // text-indent: 0;
     &:first-child {
       margin-bottom: $spacer;
     }
@@ -475,7 +454,7 @@ hr {
   text-align: center;
   margin: $spacer*2 auto;
   background-color: $heading;
-  &:not([size]) { height: 2px; }
+  &:not([size]) { height: 1px; }
 }
 // Filtered
 .m2m-img-filter {
@@ -486,9 +465,21 @@ hr {
     }
   }
 }
+
+
+// ------------------------------------------------ \\
+// $BACKGROUNDS
+// ------------------------------------------------ //
+
 .dirt {
-  background: transparent url(/assets/images/dirt.png) repeat top left;
+  background: $background-l-50 url(/assets/images/dirt.png);
   background-attachment: fixed;
+  background-size: cover;
+}
+.tornado {
+  background-image: url(/assets/images/sun-tornado-min.svg);
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 
@@ -700,16 +691,6 @@ mark {
     display: inline-block;
     border-radius: 1.5rem 0.5rem 1.2rem 0.7rem;
     background-image: linear-gradient(-100deg, rgba(255,224,0,0.1), rgba(255,224,0,0.5) 95%, rgba(255,224,0,0.2));
-  }
-}
-// Circle
-.m2m-card-img-circle {
-  border-radius: 9em;
-  @include media-breakpoint-up(md) {
-    border-top-left-radius: 0.3em;
-    border-bottom-left-radius: 0.3em;
-    border-top-right-radius: 0;
-    border-bottom-right-radius: 0;
   }
 }
 

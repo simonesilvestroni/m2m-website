@@ -12,7 +12,7 @@ tags:
   - xslt
   - popular
 description: 'How I refactored my RSS feed from scratch using Jekyll functionalities and applying XSLT for presentation to render a human-readable XML feed.'
-excerpt: 'I love <abbr title="RDF Site Summary">RSS</abbr>. However, by using a third-party plugin to automatically generate the feed, I didn’t pay attention to how it could be improved. An occasional discussion on Mastodon prompted me to a change.'
+excerpt: 'I love <abbr title="RDF Site Summary">RSS</abbr>. However, by using a third-party plugin to automatically generate the feed, I wasn’t paying attention to how it could be improved. An occasional discussion on Mastodon prompted me to a change.'
 syndication: true
 syndicate:
   - name: IndieNews
@@ -74,5 +74,5 @@ Here's a link to my new human-readable [RSS feed]({{ site.url }}/feed.xml). Belo
 ## Source code
 
 {: .list-unstyled .ps-0 }
-- 📄 [RSS XML feed on Github ↗︎](https://github.com/minutes2midnight/m2m-website/blob/master/feed.xml)
-- 📄 [XSL file on GitHub ↗︎](https://github.com/minutes2midnight/m2m-website/blob/master/feed.xsl)
+- 📄 [RSS XML feed on GitLab ↗︎](https://gitlab.com/minutes2midnight/m2m-website/blob/master/feed.xml)
+- 📄 [XSL file on GitLab ↗︎](https://gitlab.com/minutes2midnight/m2m-website/blob/master/feed.xsl)
