@@ -33,6 +33,7 @@
       {%- if page.type == "tag" or page.type == "category" -%}
       <p class="p-summary lead mt-3 mb-0">This is the archive page for the {% if page.type == "tag" %}tag.{% elsif page.type == "category" %}topic.{% endif %}</p>
       {% endif %}
+      {% unless page.layout == 'note' %}
       {%- if page.excerpt %}
       <p class="p-summary lead mt-3 mb-0">
         {%- if page.collection == 'webdesign' %}
@@ -41,6 +42,7 @@
         {{ page.excerpt }}</p>
         {% endif %}
       {% endif -%}
+      {% endunless %}
     </div>
   </section>
   {% comment %}
