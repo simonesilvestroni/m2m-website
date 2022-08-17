@@ -4,7 +4,7 @@ title: RSS
 date: '2022-05-09'
 last_modified_at: '2022-05-09 12:22:01'
 description: 'Subscribe to my RSS feeds (latest 20 posts) by copying the URL into your news reader.'
-excerpt: 'The best way to follow my posts is subscribing to the RSS feed (latest 20 posts) for the <a href="/feed.xml"><strong>blog</strong></a> or <a href="/newsletter.xml"><strong>newsletter</strong></a> by copying the URL into your news reader.'
+excerpt: 'The best way to follow my posts is by ubscribing to the RSS feed (latest 20 posts) for the <a href="/feed.xml"><strong>blog</strong></a> or <a href="/newsletter.xml"><strong>newsletter</strong></a> by copying the URL into your news reader.'
 permalink: '/rss/'
 ---
 ## What is RSS?
