@@ -11,7 +11,10 @@ layout: default
     </kbd>
   </div>
   <div class="post-meta my-3">
-    <span class="visually-hidden">{% include hcard-post.html %}</span>
+    <span class="visually-hidden">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
+      {% include hcard-post.html %}
+    </span>
   </div>
   {%- include pattern-responses.html -%}
 </article>
