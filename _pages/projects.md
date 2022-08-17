@@ -7,7 +7,7 @@ description: 'Alternating jobs between sound and web design, I’ve worked on ma
 excerpt: 'Alternating jobs between sound and web design, I’ve worked on many projects since the 1990s. The following are a selection of highlights for <a href="#sound-design"><strong>sound design</strong></a>, <a href="#web-design"><strong>web design</strong></a>, <a href="#publications"><strong>publications</strong></a> and <a href="#spotify-playlists"><strong>Spotify playlists</strong></a>. On a separate page it’s possible to read about my <a href="/music/"><strong>original music</strong></a>.'
 permalink: '/projects/'
 ---
-{: .display-5 .border-white .text-center .text-md-start }
+{: .text-uppercase .border-white .text-center .text-md-start }
 ## Sound design
 
 {%- assign production = site.sounddesign | where: "subtype", "production" | reverse -%}
@@ -22,7 +22,7 @@ permalink: '/projects/'
 
 <br>
 
-{: .display-5 .border-white .text-center .text-md-start }
+{: .text-uppercase .border-white .text-center .text-md-start }
 ## Web design
 
 {%- assign webdesign = site.webdesign | reverse -%}
@@ -33,7 +33,7 @@ permalink: '/projects/'
 
 <br>
 
-{: .display-5 .border-white .text-center .text-md-start }
+{: .text-uppercase .border-white .text-center .text-md-start }
 ## Publications
 
 {% assign ebook = site.pages | where: "permalink", "/projects/project-management/" %}
@@ -45,7 +45,7 @@ permalink: '/projects/'
 
 <br>
 
-{: .display-5 .border-white .text-center .text-md-start }
+{: .text-uppercase .border-white .text-center .text-md-start }
 ## Spotify playlists
 
 {: .mb-4 }

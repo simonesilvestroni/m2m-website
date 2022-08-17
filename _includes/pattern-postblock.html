@@ -5,7 +5,7 @@
     {% assign categories = page.categories %}
   {% endif %}
   {% for category in categories %}
-  <kbd><span class="p-category text-uppercase initialism px-1"><strong>{{ category | upcase | replace:"-"," " }}</strong></span></kbd>
+  <kbd><span class="p-category text-uppercase initialism px-1">{{ category | upcase | replace:"-"," " }}</span></kbd>
   {% endfor %}
   <h2 class="p-name my-3"><a class="m2m-link stretched-link text-decoration-none" href="{{ post.url }}" title="Read the post">{{ post.title }}</a></h2>
   {%- if post -%}
