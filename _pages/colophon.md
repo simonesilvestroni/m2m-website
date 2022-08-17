@@ -4,7 +4,7 @@ title: Colophon
 date: '2021-11-08 10:27:27'
 last_modified_at: '2021-11-08 10:27:31'
 description: "Technical details about the website, developed by Simone Silvestroni and designed with Silvia Maggi, who also provided information architecture and photography."
-excerpt: 'Developed by Simone Silvestroni, designed with <a href="https://silviamaggidesign.com/" title="Go to Silvia Maggi website">Silvia Maggi</a>, who also provided information architecture and photography. Check the <a href="/projects/web-design/minutes-to-midnight/">case study</a> for a detailed analysis.'
+excerpt: 'Designed and developed by Simone Silvestroni. <a href="https://silviamaggidesign.com/" title="Go to Silvia Maggi website">Silvia Maggi</a> provided information architecture and photography. Check the <a href="/projects/web-design/minutes-to-midnight/"><strong>case study</strong></a> for a detailed analysis.'
 permalink: '/colophon/'
 ---
 ## Tools
@@ -38,8 +38,8 @@ Developed from scratch using:
       <tr>
         <td class="text-center fs-2"><a href="https://validator.w3.org/nu/?doc=https://minutestomidnight.co.uk/" target="_blank" rel="noopener" title="Valid markup">✓</a></td>
         <td class="text-center fs-2">100</td>
-        <td class="text-center fs-2">0.4 sec</td>
-        <td class="text-center fs-2">112 kb</td>
+        <td class="text-center fs-2">0.4sec</td>
+        <td class="text-center fs-2">210kb</td>
       </tr>
     </tbody>
   </table>
