@@ -6,7 +6,7 @@ layout: default
 {%- else -%}
 {%- assign categories = page.categories -%}
 {%- endif -%}
-<article class="h-entry m2m-entry my-5">
+<article class="m2m-entry my-5">
   {%- if page.mention == true %}
   <div class="m2m-bg-alpha rounded-3 p-3 mb-5">
     <span>{% if page.mentionType == 'like' %} 🧡 A like of {% elsif page.mentionType == 'repost' %} 🔄 A repost of {% elsif page.mentionType == 'reply' %} ↪️ In reply to {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></span>
