@@ -76,27 +76,10 @@ h4 {
     font-size: 1.2rem;
     color: black;
     &.active {
-      font-weight: 900;
+      font-family: 'hk-bold', sans-serif;
     }
     &:hover {
       opacity: .6;
-    }
-  }
-}
-.nav-main-sub {
-  border-bottom: 3px solid $link-l-30;
-  a {
-    font-size: 0.92rem;
-    font-weight: 900;
-    text-transform: uppercase;
-    padding-left: $spacer;
-    padding-bottom: $spacer*1.25;
-    &:first-child {
-      padding-left: 0;
-    }
-    @include media-breakpoint-up(md) {
-      font-size: 1.25rem;
-      padding-left: $spacer*1.5;
     }
   }
 }
@@ -160,6 +143,18 @@ p {
     color: $black;
   }
 }
+.fw-normal {
+  font-family: $font-family-base;
+}
+em, i {
+  font-family: 'hk-italic', sans-serif;
+}
+strong, b, .fw-bold {
+  font-family: 'hk-bold', sans-serif;
+}
+strong em, b em, strong i, b i {
+  font-family: 'hk-bolditalic', sans-serif; 
+}
 pre {
   font-size: rfs-fluid-value(16px);
   color: $pre-color;
@@ -180,11 +175,11 @@ pre {
 blockquote {
   @extend .blockquote;
   margin-top: $spacer*2;
-  padding-left: $spacer*1.25;
+  padding: $spacer*1.25;
   border-left: 2px solid $background-d-10;
+  background-color: $background;
   line-height: 1.3;
   p {
-    @extend %m2m-serif;
     display: inline;
     &:first-child {
       margin-bottom: $spacer;
@@ -193,11 +188,9 @@ blockquote {
 }
 // Blockquote cite
 cite {
-  font-family: $font-family-base;
+  font-family: 'hk-bold';
   display: block;
   font-style: normal;
-  font-weight: 700;
-  // text-indent: 0;
   margin-top: $spacer*0.5;
 }
 // Definition lists

@@ -39,7 +39,7 @@ last_modified_at: '2022-04-26 16:56:31'
     </section>
     {% comment %}
       *-------------------------
-      Latest origina music
+      Latest original music
       -------------------------*
     {% endcomment %}
     <section class="mt-4 py-4">
@@ -47,7 +47,7 @@ last_modified_at: '2022-04-26 16:56:31'
       <h2 class="mb-4 h3">🎧 Latest music releases</h2>
       <ul class="m2m-ul mb-0">
       {% for release in releases limit: 3 %}
-      <li class="mt-2 fs-5"><a class="m2m-link" href="{{ release.url }}" title="Listen to the release">{{ release.subtype | capitalize }}: <em class="m2m-serif">{{ release.title }}</em></a></li>
+      <li class="mt-2 fs-5"><a class="m2m-link" href="{{ release.url }}" title="Listen to the release">{{ release.subtype | capitalize }}: <em>{{ release.title }}</em></a></li>
       {% endfor %}
       </ul>
     </section>

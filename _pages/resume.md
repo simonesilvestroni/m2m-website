@@ -31,7 +31,6 @@ I can set up, run and maintain local and remote web servers in **`Apache`**, **`
 {: .mb-0 }
 ### Sound and web designer at [Minutes to Midnight](https://minutestomidnight.co.uk)
 
-{: .m2m-serif }
 September 2017 — present (Cambridge, UK / Milan, Italy)
 
 {: .detached }
@@ -65,7 +64,6 @@ Full music production, bass tracks, mixing and mastering. Web design and front-e
 {: .mb-0 .pt-5 }
 ### Front-end web developer at [UI Farm Ltd](https://uifarm.co.uk)
 
-{: .m2m-serif }
 May 2012 — September 2017 (London, UK)
 
 {: .detached }
@@ -87,7 +85,6 @@ Co-founder, web designer and UI developer, I worked for clients like Reevoo, Not
 {: .mb-0 .pt-5 }
 ### Senior UI developer at Bodog
 
-{: .m2m-serif }
 September 2011 — May 2012 (London, UK)
 
 {: .detached }
@@ -96,7 +93,6 @@ Developed gaming and sports applications and accompanying websites, using SASS, 
 {: .mb-0 .pt-5 }
 ### Sound designer and UI developer at New Energy / Part of Accenture
 
-{: .m2m-serif }
 January 2005 — September 2011 (Milan, Italy)
 
 {: .detached }
@@ -107,7 +103,6 @@ I also produced mockups and working prototypes for the usability tests; helped t
 {: .mb-0 .pt-5 }
 ### Lead Game Audio Engineer at Playstos Entertainment
 
-{: .m2m-serif }
 January 2000 — January 2005 (Milan, Italy)
 
 {: .detached }

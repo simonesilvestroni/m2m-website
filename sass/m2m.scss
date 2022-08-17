@@ -28,8 +28,8 @@
 
 // Typography
 $enable-rfs: true;
-$headings-font-family: $font-family-base;
-$headings-font-weight: 700;
+$headings-font-family: $font-family-head;
+$headings-font-weight: bold;
 $headings-margin-bottom: 1.7rem;
 $h1-font-size: 2.8rem;
 $h2-font-size: 2rem;
@@ -40,7 +40,6 @@ $h6-font-size: 1rem;
 $micro-font-size: $small-font-size * .9;
 $lead-font-size: 1.3rem;
 $lead-font-weight: normal;
-$font-weight-black: 900;
 $initialism-font-size: $micro-font-size;
 $letter-spacing-wide-1: 1px;
 $letter-spacing-shrink: -0.25px;

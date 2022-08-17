@@ -31,7 +31,7 @@
       <p class="p-summary lead mt-3 mb-0">{{ site.brand.m2m_intro }} <a class="ps-2" href="/about/" title="About page"><strong>Read more</strong>&nbsp;→</a></p>
       {% endif %}
       {%- if page.type == "tag" or page.type == "category" -%}
-      <p class="p-summary lead mt-3 mb-0">This is the archive page for the {% if page.type == "tag" %}tag.{% elsif page.type == "category" %}topic.{% endif %}</p>
+      <p class="p-summary lead mt-3 mb-0">Archive page for the {% if page.type == "tag" %}tag.{% elsif page.type == "category" %}category.{% endif %}</p>
       {% endif %}
       {% unless page.layout == 'note' %}
       {%- if page.excerpt %}

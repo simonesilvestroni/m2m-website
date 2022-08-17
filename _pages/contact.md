@@ -4,7 +4,7 @@ title: Contacts
 date: '2021-11-08'
 last_modified_at: '2022-04-29 16:59:05'
 description: 'Interested in hiring me for your next project, or just want to connect? Find all the info, including (some) social media and my irregular newsletter.'
-excerpt: 'I’m currently available for both web and sound design projects. The best way to get in touch is to reach out via email and we’ll take it from there.<br><br>✍️ <a href="mailto:contact@minutestomidnight.co.uk"><strong>Send me an email</strong> →</a>'
+excerpt: 'I’m currently available for both web and sound design projects. The best way to get in touch is to reach out via email and we’ll take it from there.<br><br><span class="fs-3">✍️ <a href="mailto:contact@minutestomidnight.co.uk"><strong>Send me an email</strong> →</span></a>'
 permalink: '/contact/'
 ---
 ## Music production or bass tracks

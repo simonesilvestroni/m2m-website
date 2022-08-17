@@ -30,7 +30,7 @@ I just had to tweak the first two files under my `_includes` folder and reach ou
 
 ### Example: Figure module
 
-{: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
+{: .text-uppercase .m2m-letter-spacing-w1 }
 #### Before
 
 ```html
@@ -40,7 +40,7 @@ I just had to tweak the first two files under my `_includes` folder and reach ou
 </figure>
 ```
 
-{: .m2m-serif .text-uppercase .m2m-letter-spacing-w1 }
+{: .text-uppercase .m2m-letter-spacing-w1 }
 #### After
 
 I created a `picture` element containing all the `srcset` needed for a full support. Although [WebP is supported on all major browsers](https://caniuse.com/?search=webp), I'm serving fallbacks to older versions.

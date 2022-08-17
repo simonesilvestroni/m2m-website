@@ -2,7 +2,7 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2022-07-31 11:06:28'
+last_modified_at: '2022-08-17 17:38:33'
 description: "Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the uses.tech project."
 excerpt: 'Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the <a href="https://uses.tech/"><code>uses.tech</code></a> project. None of the links are affiliate.'
 permalink: '/uses/'
@@ -12,12 +12,11 @@ toc: true
 
 ### Workstation
 
-- Maxed out 15-in [MacBook Pro i7 Mid 2015](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.5-15-iris-only-mid-2015-retina-display-specs.html) later fitted with a 1 TB SSD by Samsung. 
+- Maxed out 15-in [MacBook Pro i7 Mid 2015](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.5-15-iris-only-mid-2015-retina-display-specs.html) updated with a 1TB SSD by Samsung. 
 - 27-in Dell HD monitor
-- Wireless [Apple Magic Keyboard 2](https://www.apple.com/shop/product/MK2A3LL/A/magic-keyboard-us-english)
+- Wireless Apple Magic Keyboard 2
+- Wireless Apple Magic Mouse 2
 - [Razer Deathadder](https://www.razer.com/gaming-mice/razer-deathadder-v2/RZ01-03210100-R3U1) mouse
-
-I'll be using this setup until it breaks apart, after which the plan is to build a high-end professional gaming PC, where I can keep running a triple-boot Hackintosh, Windows and Linux.
 
 ### Music instruments
 
@@ -33,11 +32,12 @@ Previously:
 
 ### Audio interface
 
-- [Focusrite Clarett 4Pre USB](https://focusrite.com/en/usb-c-audio-interface/clarett-plus/clarett-plus-4pre)
+- [Audient iD14](https://audient.com/products/audio-interfaces/id14/overview/)
 - Dedicated FX-Audio DAC-X6
 
 Previously:
 
+- Focusrite Clarett 4Pre USB
 - Focusrite Saffire Pro 40
 - Focusrite Saffire Pro 24
 
@@ -72,18 +72,17 @@ Previously:
 
 ### Mobile device
 
-- [Redmi Note 7 Pro](https://www.gsmarena.com/xiaomi_redmi_note_7_pro-9521.php) by Xiaomi (since 2019)
-- 256 GB mini-SD card additional storage
+- [Redmi Note 7 Pro](https://www.gsmarena.com/xiaomi_redmi_note_7_pro-9521.php) dual-SIM by Xiaomi (since 2019), with a 256 GB mini-SD card as additional storage
 
 Previously:
 
-- Apple iPhone from 4 to 8
+- Apple iPhone 4 to 8
 - Apple iPad Pro
 - Apple iPad Air
 
 ### eReader
 
-- [Kobo Glo](https://www.the-ebook-reader.com/kobo-glo.html), sync'd using the cross-platform [Calibre](https://calibre-ebook.com/)
+- [Kobo Glo](https://www.the-ebook-reader.com/kobo-glo.html), kept in sync with [Calibre](https://calibre-ebook.com/)
 
 Previously:
 
@@ -99,12 +98,13 @@ Previously:
 - [Pop_OS!](https://pop.system76.com/)
 - [Kali](https://www.kali.org/) (live distro)
 
-As a _system-agnostic_ I can easily work with any OS, depending on the task. I’m interested in experimentation but [opposed to updates for the sake of it](#update-policy).
+As a system-agnostic, I can easily work with any OS, depending on the task. I’m interested in experimentation but [opposed to updates for the sake of it](#update-policy).
 
-### Digital Audio Workstation
+### Digital Audio Workstations
 
-- [REAPER 6.x](https://www.reaper.fm/)&nbsp;&nbsp;➡️ **[read why]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)**
+- [REAPER 6.x](https://www.reaper.fm/)&nbsp;(**[read why]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)**)
 - Logic Pro X 10.7.2
+- Pro Tools 12 (for legacy sessions)
 - Reason 8.2.3 (legacy edition that shouldn't theoretically work, but _it does_)
 
 Previously:
@@ -113,9 +113,9 @@ Previously:
 - Cubasis Audio
 - Cubase VST 4
 - Logic Platinum 5 to Logic Pro 9
-- Pro Tools 11 to 2021
+- Pro Tools (subscription edition until 2021)
 
-### Audio editor
+### Audio editors
 
 - [iZotope RX](https://www.izotope.com/en/products/rx.html)
 - [Triumph](https://www.zynaptiq.com/macaudioapps/)
@@ -143,21 +143,11 @@ Staples:
 - [Hollywood Strings Gold](https://www.soundsonline.com/hollywood-orchestra-opus-edition) by EastWest
 - [ReaSamplomatic 5000](https://reaperblog.net/2018/11/rs5k-velocity-round-robin/) by Cockos
 
-Other synths:
+Other <abbr title="Virtual Instruments">VI</abbr>:
 
-- Logic synthesizers and sampler:
-  + Alchemy
-  + Sculpture
-  + EXS24
-- Reason 8.2.3 synthesizers and sampler:
-  + Kong drum designer
-  + Redrum
-  + Thor
-  + SubTractor
-  + Malström
-  + Radical piano
-  + StringWERK
-  + NN-XT
+- Logic native synthesizers and sampler
+- Reason 8.2.3 synthesizers and sampler
+- BBC Orchestra by Spitfire
 - [Iris 2](https://www.izotope.com/en/products/iris.html) by iZotope
 - [Workstation with Digital Synsation](https://www.uvi.net/en/vintage-corner/digital-synsations.html) library by UVI
 - [Bass Station](https://resource.novationmusic.com/software/bass-station) by Novation
@@ -166,15 +156,16 @@ Other synths:
 - [SR-88](https://www.audiothing.net/instruments/sr-88/) by AudioThing
 - [Syntronik Memory-V](https://www.ikmultimedia.com/products/synmemoryv/) by IK Multimedia
 - [Electric Grand 80](https://www.waves.com/plugins/electric-grand-80-piano#electric-grand-80-piano-virtual-instrument) by Waves
+- Retrologue by Steinberg 
 
 ### Audio processing plug-ins
 
 I focus on a few set of quality plug-ins, trying to learn them at my best.
 
-- [Horizon bundle, Abbey Road, SSL 4000 and API collection](https://www.waves.com/) plus others by Waves
+- [Horizon bundle, Abbey Road, SSL 4000, CLA and API collections](https://www.waves.com/) plus others by Waves
 - [Soundtoys 5](https://www.soundtoys.com/product/soundtoys-5/) by soundtoys
 - [Ozone 9 advanced](https://www.izotope.com/en/shop/ozone-9-advanced.html) by iZotope
-- [SPAN plus](https://www.voxengo.com/product/spanplus/) and [Correlometer](https://www.voxengo.com/product/correlometer/) by Voxengo
+- [SPAN plus](https://www.voxengo.com/product/spanplus/), MSED and [Correlometer](https://www.voxengo.com/product/correlometer/) by Voxengo
 - [VUMT deluxe](https://klanghelm.com/contents/products/VUMT.html) and [MJUC variable-tube compressor](https://klanghelm.com/contents/products/MJUC.html) by Klanghelm
 - [REAPER stock plug-ins](https://www.reaper.fm/reaplugs/) by Cockos
 
@@ -202,15 +193,16 @@ Previously:
 - [Myriad](https://www.zynaptiq.com/macaudioapps/)
 - [IINA player](https://iina.io/)
 - [Handbrake](https://handbrake.fr/)
+- [Explorer](https://soundparticles.com/products/explorer) by Sound Particles
 - [Adapter](https://macroplant.com/adapter)
 - [XLD](https://sourceforge.net/projects/xld/)
 - [MetaDigger](https://www.sound-ideas.com/Page/metadigger-data-management-software)
 
 ### Text editors
 
-- [Sublime Text 4](http://www.sublimetext.com/)&nbsp;&nbsp;➡️ **[read why](https://tonsky.me/blog/sublime/)**
+- [Sublime Text 4](http://www.sublimetext.com/)&nbsp;(**[read why](https://tonsky.me/blog/sublime/)**)
 - [Typora](https://typora.io/)
-- [iA Writer](https://ia.net/writer) on Android
+- [iA Writer](https://ia.net/writer)
 
 Previously:
 
@@ -292,11 +284,11 @@ Previously:
 ### Task management
 
 - [Todo.txt](https://github.com/todotxt)
+- Trello
 
 Previously:
 
 - Todoist
-- Trello
 - JIRA
 - Wunderlist
 
@@ -304,25 +296,11 @@ Previously:
 
 - [Telegram](https://telegram.org/)
 - [Signal](https://www.signal.org/)
-- [irssi](https://irssi.org/) (IRC)
-- [Monal](https://monal.im/) (XMPP)
-- [Conversations](https://f-droid.org/packages/eu.siacs.conversations/) (XMPP on Android)
-
-Previously:
-
-- WhatsApp
-- iChat
-- Adium
 
 ### Music player
 
 - [Swinsian](http://www.swinsian.com)
 - [Retro Music](https://apt.izzysoft.de/fdroid/index/apk/code.name.monkey.retromusic) (FOSS mobile music player)
-
-Previously:
-
-- iTunes
-- Winamp
 
 ### Video player
 
@@ -338,13 +316,7 @@ Previously:
 ### Cloud sync
 
 - [Syncthing](https://syncthing.net/)
-- [Dropbox](https://www.dropbox.com/) (only in the browser)
-
-Previously:
-
-- iCloud Drive
-- Google Drive
-- OneDrive
+- [Dropbox](https://www.dropbox.com/) (in the browser, upload through Transmit)
 
 ### Backup
 
