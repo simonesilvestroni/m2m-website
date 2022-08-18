@@ -102,21 +102,21 @@ Once the mix was complete, I engaged with renowned master engineer **Ian Shepher
 
 As a long-term project, it's hard to write down an exaustive list of all the software used by myself and my collaborators.
 
-<table class="table table-striped fs-4 my-5">
+<table class="table table-striped my-5">
   <tr>
-    <th class="text-end"><mark class="m2m-highlight small px-2">DAWs</mark></th>
+    <th class="text-end"><strong>DAWs</strong></th>
     <td>Reason, Logic Pro X, Pro Tools, Ableton Live, Cubase.</td>
   </tr>
   <tr>
-    <th class="text-end"><mark class="m2m-highlight small px-2">Editors</mark></th>
+    <th class="text-end"><strong>Editors</strong></th>
     <td>iZotope RX, Wavelab, DSP Quattro, Triumph.</td>
   </tr>
   <tr>
-    <th class="text-end"><mark class="m2m-highlight small px-2">VST</mark></th>
+    <th class="text-end"><strong>VST</strong></th>
     <td>Waves, Soundtoys, iZotope Ozone Advanced, Klanghelm, Voxengo.</td>
   </tr>
   <tr>
-    <th class="text-end"><mark class="m2m-highlight small px-2">VSTi</mark></th>
+    <th class="text-end"><strong>VSTi</strong></th>
     <td>Addictive Drums, Addictive Keys, Alchemy, EastWest Hollywood Strings.</td>
   </tr>
 </table>
@@ -225,50 +225,50 @@ Viola theme in _Berlin 91_ by **Paolo Clementi**.
 
 Original sound effects recording, editing and historical samples restoration by Simone Silvestroni. Original sounds recorded in Berlin between 2017 and 2019 and Cambridge in 2019. All historical sound effects are in the public domain.
 
-<table class="table table-striped caption-top fs-4 mt-4 mb-5">
+<table class="table table-striped caption-top mt-4 mb-5">
   <caption class="text-center text-uppercase fw-bold"><strong>List of sound effects</strong></caption>
   <tr>
-    <th class="text-end" width="220"><mark class="m2m-highlight small px-2">ALL SONGS</mark></th>
+    <th class="text-end" width="220"><strong>All songs</strong></th>
     <td>Tannoy system of the S-Bahn 1 train from Central Berlin to Oranienburg (recorded in 2019).</td>
   </tr>
   <tr>
-    <th class="text-end"><mark class="m2m-highlight small px-2">Skinny Kid</mark></th>
+    <th class="text-end"><strong>Skinny Kid</strong></th>
     <td>BBC radio announcement (April 1945).</td>
   </tr>
   <tr>
-    <th class="text-end"><mark class="m2m-highlight small px-2">'Little Boy'</mark></th>
+    <th class="text-end"><strong>'Little Boy'</strong></th>
     <td>Harry Truman, TV speech (August 1945).</td>
   </tr>
   <tr>
-    <th class="text-end"><mark class="m2m-highlight small px-2">The Logic</mark></th>
+    <th class="text-end"><strong>The Logic</strong></th>
     <td>John F. Kennedy, TV speech (December 1961); East German soldier screaming.</td>
   </tr>
   <tr>
-    <th class="text-end"><mark class="m2m-highlight small px-2">13 Days</mark></th>
+    <th class="text-end"><strong>13 Days</strong></th>
     <td>John F. Kennedy, TV speech (October 1962); Adlai Stevenson, United Nations speech (October 1962).</td>
   </tr>
   <tr>
-    <th class="text-end"><mark class="m2m-highlight small px-2">Unter Den Linden</mark></th>
+    <th class="text-end"><strong>Unter Den Linden</strong></th>
     <td>John F. Kennedy speech in Berlin (June 1963).</td>
   </tr>
   <tr>
-    <th class="text-end"><mark class="m2m-highlight small px-2">Love Field</mark></th>
+    <th class="text-end"><strong>Love Field</strong></th>
     <td>Dallas radio live report from Love Field airport; Dallas police (November 1963).</td>
   </tr>
   <tr>
-    <th class="text-end"><mark class="m2m-highlight small px-2">Requiem</mark></th>
+    <th class="text-end"><strong>Requiem</strong></th>
     <td>Robert F. Kennedy eulogy for Martin Luther King, Indianapolis (April 1968).</td>
   </tr>
   <tr>
-    <th class="text-end"><mark class="m2m-highlight small px-2">The Day Before</mark></th>
+    <th class="text-end"><strong>The Day Before</strong></th>
     <td>Children in a playground, Cambridge, UK (2019).</td>
   </tr>
   <tr>
-    <th class="text-end"><mark class="m2m-highlight small px-2">Berlin 91</mark></th>
+    <th class="text-end"><strong>Berlin 91</strong></th>
     <td>Berlin Wall Memorial (2017).</td>
   </tr>
   <tr>
-    <th class="text-end"><mark class="m2m-highlight small px-2">Sachsenhausen</mark></th>
+    <th class="text-end"><strong>Sachsenhausen</strong></th>
     <td>Birds and cars passing by, Oranienburg (2019).</td>
   </tr>
 </table>
