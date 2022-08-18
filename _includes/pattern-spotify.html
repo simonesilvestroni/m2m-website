@@ -8,5 +8,5 @@
   -------------------------*
 {% endcomment %}
 <div class="iframe-spotify {{ include.margin | default: "my-5" }}">
-  <iframe src="https://open.spotify.com/embed/{{ include.type | default: "track" }}/{{ include.id }}" allowtransparency="true" allow="encrypted-media" width="100%" height="{{ include.height }}" frameborder="0"></iframe>
+  <iframe src="https://open.spotify.com/embed/{{ include.type | default: "track" }}/{{ include.id }}" allow="encrypted-media" height="{{ include.height }}"></iframe>
 </div>
