@@ -5,7 +5,7 @@
   /imagegallery
   -------------------------*
 {% endcomment %}
-<section class="m2m-image-gallery my-5 pt-3" id="gallery-{{ include.id }}">
+<div class="m2m-image-gallery my-5 pt-3" id="gallery-{{ include.id }}">
   <div class="d-flex flex-wrap justify-content-center m2m-img-gallery-thumbs">
     {%- for image in site.static_files | where: "image", true -%}
     {%- capture galleryPath -%}{{ include.folder }}{%- endcapture -%}
@@ -24,7 +24,6 @@
         <source srcset="{{ image.path | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }}" type="image/webp">
         <source srcset="{{ image.path }}" {% if image.path contains '.jpg' or image.path contains '.jpeg' %}type="image/jpeg"{% elsif image.path contains '.png' %}type="image/png"{% endif %}>
         <img class="m2m-img-gallery-thumb rounded mx-auto d-block" src="{{ image.path }}" alt="{{ imgCaption | capitalize }}" width="140" height="140">
-        <span class="m2m-image-gallery-caption d-block initialism mt-2 mb-4">{{ imgCaption }}</span>
       </picture>
     </div>
     {%- endunless -%}
@@ -38,4 +37,4 @@
     {% endcomment %}
     {%- include pattern-modal-carousel.html -%}
   </div>
-</section>
+</div>

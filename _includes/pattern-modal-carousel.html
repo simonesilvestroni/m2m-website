@@ -20,7 +20,7 @@
       {% endcomment %}
       <div class="m2m-carousel-container d-flex justify-content-center">
         <div class="m2m-carousel">
-          <ul class="m2m-carousel-scroll list-unstyled mx-0 my-0" scroll-behavior="smooth">
+          <ul class="m2m-carousel-scroll list-unstyled mx-0 my-0">
           {%- for image in site.static_files | where: "image", true -%}
             {%- capture galleryPath -%}{{ include.folder }}{%- endcapture -%}
             {%- if image.path contains galleryPath -%}

@@ -17,9 +17,9 @@
 .m2m-carousel-scroll {
   @media (prefers-reduced-motion: no-preference) {
     scroll-behavior: smooth;
-    @-moz-document url-prefix() {
-      scroll-behavior: auto;
-    }
+    // @-moz-document url-prefix() {
+    //   scroll-behavior: auto;
+    // }
   }
   display: flex;
   overflow-y: hidden;
