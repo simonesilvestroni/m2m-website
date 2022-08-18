@@ -11,8 +11,8 @@ layout: default
   {%- endif -%}
 {% endcapture %}
 <article class="m2m-entry my-5">
-  <div class="m2m-label text-center text-md-start pt-2">
-    <p class="mb-5 mb-lg-2">
+  <div class="m2m-label text-start pt-2">
+    <p class="mb-2">
       <span>Project type: </span>
       <a class="m2m-link text-uppercase p-1" href="{% unless page.type == "music" %}/projects/#{{ page.type | slugify }}{% endunless %}{% if page.type == "music" %}/music/{% endif %}"><span class="p-category initialism">{% unless page.type == "music" %}{{ page.type }}{% endunless %}{% if page.type == "music" %}{{ page.subtype }}{% endif %}</span></a>
     </p>

@@ -16,7 +16,7 @@
         Main title
         -------------------------*
       {% endcomment %}
-      <h1 class="p-name text-center text-md-start mb-0{%- if page.url == "/" %} fw-bold h3{% endif %}">
+      <h1 class="p-name text-start mb-0{%- if page.url == "/" %} fw-bold h3{% endif %}">
         {%- if page.url == "/" -%}<strong>{{ site.brand.m2m_pitch }}</strong>
         {% else %}
           {%- if page.type == "tag" or page.type == "category" -%}🏷 {% endif %}{%- if page.type == "tag" %}{{ page.title | capitalize }}{% else %}{{ page.title }}{% endif %}
