@@ -16,7 +16,7 @@ permalink: '/blog/popular/'
     {% else %}
     {% assign categories = page.categories %}
     {% endif %}
-    <li class="my-2"><a class="p-name u-url m2m-link pe-2" href="{{ post.url }}">{{ post.title }}</a>{%- for category in categories -%}<span class="p-category text-uppercase">&nbsp;<kbd class="initialism">#{{ category | upcase | replace:"-"," " }}</kbd class="initialism"></strong></span>{% endfor %}</li>
+    <li class="my-2"><a class="p-name u-url m2m-link pe-2" href="{{ post.url }}">{{ post.title }}</a>&nbsp;{%- for category in categories -%}<span class="p-category d-inline-block rounded initialism border bg-light py-0 px-1">#{{ category | upcase | replace:"-"," " }}</span>{% endfor %}</li>
     {%- endfor -%}
   </ol>
 </section>
