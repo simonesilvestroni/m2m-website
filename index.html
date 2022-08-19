@@ -1,55 +1,53 @@
 ---
 title: 'Minutes to Midnight - Sound & web designer'
 date: '2021-11-06 13:41:57'
-last_modified_at: '2022-04-26 16:56:31'
+last_modified_at: '2022-08-19 10:36:28'
 ---
 <div class="h-entry">
   {% include hcard-page.html %}
-  <div class="d-flex flex-column justify-content-start">
-    {% comment %}
-      *-------------------------
-      Latest posts
-      -------------------------*
-    {% endcomment %}
-    <section class="mt-4 py-4">
-      {%- assign recentPosts = site.posts | sort: 'date' | reverse -%}
-      <h2 class="mb-4 h3">📄 Latest posts</h2>
-      <ul class="m2m-ul mb-0">
-      {%- for post in recentPosts limit: 3 -%}
-      <li class="mt-2 fs-5"><a class="m2m-link fs-5" href="{{ post.url }}" title="Read the post">{{ post.title }}</a></li>
-      {% endfor -%}
-      </ul>
-    </section>
-    {% comment %}
-      *-------------------------
-      Latest projects
-      -------------------------*
-    {% endcomment %}
-    <section class="mt-4 py-4">
-      {%- assign sounddesign = site.sounddesign -%}
-      {%- assign webdesign = site.webdesign -%}
-      {%- assign projects = sounddesign | concat: webdesign -%}
-      {%- assign sortedprojects = projects | sort: 'date' | reverse -%}
-      <h2 class="mb-4 h3">👨🏻‍💻 Latest projects</h2>
-      <ul class="m2m-ul mb-0">
-      {% for project in sortedprojects limit: 3 %}
-      <li class="mt-2 fs-5"><a class="m2m-link" href="{{ project.url }}" title="Read the case study">{{ project.title }}</a></li>
-      {% endfor %}
-      </ul>
-    </section>
-    {% comment %}
-      *-------------------------
-      Latest original music
-      -------------------------*
-    {% endcomment %}
-    <section class="mt-4 py-4">
-      {%- assign releases = site.music | sort: 'date' | reverse -%}
-      <h2 class="mb-4 h3">🎧 Latest music releases</h2>
-      <ul class="m2m-ul mb-0">
-      {% for release in releases limit: 3 %}
-      <li class="mt-2 fs-5"><a class="m2m-link" href="{{ release.url }}" title="Listen to the release">{{ release.subtype | capitalize }}: <em>{{ release.title }}</em></a></li>
-      {% endfor %}
-      </ul>
-    </section>
-  </div>
+  {% comment %}
+    *-------------------------
+    Latest posts
+    -------------------------*
+  {% endcomment %}
+  <section class="h-feed">
+    {%- assign recentPosts = site.posts | sort: 'date' | reverse -%}
+    <h2 class="mb-4 h3">Latest posts</h2>
+    <ul class="m2m-ul mb-0">
+    {%- for post in recentPosts limit: 3 -%}
+    <li class="mt-2 fs-5"><a class="m2m-link fs-5" href="{{ post.url }}" title="Read the post">{{ post.title }}</a></li>
+    {% endfor -%}
+    </ul>
+  </section>
+  {% comment %}
+    *-------------------------
+    Latest projects
+    -------------------------*
+  {% endcomment %}
+  <section class="h-feed">
+    {%- assign sounddesign = site.sounddesign -%}
+    {%- assign webdesign = site.webdesign -%}
+    {%- assign projects = sounddesign | concat: webdesign -%}
+    {%- assign sortedprojects = projects | sort: 'date' | reverse -%}
+    <h2 class="mb-4 h3">Latest projects</h2>
+    <ul class="m2m-ul mb-0">
+    {% for project in sortedprojects limit: 3 %}
+    <li class="mt-2 fs-5"><a class="m2m-link" href="{{ project.url }}" title="Read the case study">{{ project.title }}</a></li>
+    {% endfor %}
+    </ul>
+  </section>
+  {% comment %}
+    *-------------------------
+    Latest original music
+    -------------------------*
+  {% endcomment %}
+  <section class="h-feed">
+    {%- assign releases = site.music | sort: 'date' | reverse -%}
+    <h2 class="mb-4 h3">Latest music releases</h2>
+    <ul class="m2m-ul mb-0">
+    {% for release in releases limit: 3 %}
+    <li class="mt-2 fs-5"><a class="m2m-link" href="{{ release.url }}" title="Listen to the release">{{ release.subtype | capitalize }}: <em>{{ release.title }}</em></a></li>
+    {% endfor %}
+    </ul>
+  </section>
 </div>

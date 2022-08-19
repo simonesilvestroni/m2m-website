@@ -2,9 +2,9 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2022-08-17 17:38:33'
+last_modified_at: '2022-08-19 11:28:26'
 description: "Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the uses.tech project."
-excerpt: 'Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the <a href="https://uses.tech/"><code>uses.tech</code></a> project. None of the links are affiliate.'
+excerpt: 'Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the <a href="https://uses.tech/">uses.tech</a> project. None of the links are affiliate.'
 permalink: '/uses/'
 toc: true
 ---
@@ -25,21 +25,14 @@ toc: true
 - [Fender Stratocaster](https://www.fender.com/en-US/electric-guitars/stratocaster/player-stratocaster/0144502506.html) electric guitar (black)
 - [Tech 21 NYC Sansamp](https://www.tech21nyc.com/products/sansamp/bassdriver-di/) Bass Driver v2
 
-Previously:
-
-- SWR Redhead (1990 to 2011)
-- Markbass Mini CMD 121P (2011 to 2016)
+Previously: SWR Redhead (1990 to 2011) and Markbass Mini CMD 121P (2011 to 2016).
 
 ### Audio interface
 
 - [Audient iD14](https://audient.com/products/audio-interfaces/id14/overview/)
 - Dedicated FX-Audio DAC-X6
 
-Previously:
-
-- Focusrite Clarett 4Pre USB
-- Focusrite Saffire Pro 40
-- Focusrite Saffire Pro 24
+Previously: Focusrite Clarett 4Pre, Focusrite Saffire Pro 40 and Focusrite Saffire Pro 24.
 
 ### Speakers and headphones
 
@@ -48,10 +41,7 @@ Previously:
 - Beyerdynamic [DT 770 Pro](https://global.beyerdynamic.com/dt-770-pro.html)
 - Sennheiser [HD 450BT](https://en-us.sennheiser.com/hd-450-bt) with active noise cancellation (not for production work)
 
-Previously:
-
-- Focal Alpha 80
-- AKG Studio K240
+Previously: Focal Alpha 80 and AKG Studio K240.
 
 ### MIDI controllers
 
@@ -74,29 +64,21 @@ Previously:
 
 - [Redmi Note 7 Pro](https://www.gsmarena.com/xiaomi_redmi_note_7_pro-9521.php) dual-SIM by Xiaomi (since 2019), with a 256 GB mini-SD card as additional storage
 
-Previously:
-
-- Apple iPhone 4 to 8
-- Apple iPad Pro
-- Apple iPad Air
+Previously: Apple iPhone 4 to 8, iPad Pro and iPad Air.
 
 ### eReader
 
 - [Kobo Glo](https://www.the-ebook-reader.com/kobo-glo.html), kept in sync with [Calibre](https://calibre-ebook.com/)
 
-Previously:
-
-- Kobo Touch
-- Kindle Paperwhite
+Previously: Kobo Touch and Kindle Paperwhite.
 
 ## Software
 
 ### Operating system(s)
 
-- macOS Monterey 12.5
+- macOS Monterey 12.5.1
 - Windows 11
-- [Pop_OS!](https://pop.system76.com/)
-- [Kali](https://www.kali.org/) (live distro)
+- Linux [Pop_OS!](https://pop.system76.com/)
 
 As a system-agnostic, I can easily work with any OS, depending on the task. I’m interested in experimentation but [opposed to updates for the sake of it](#update-policy).
 
@@ -107,13 +89,7 @@ As a system-agnostic, I can easily work with any OS, depending on the task. I’
 - Pro Tools 12 (for legacy sessions)
 - Reason 8.2.3 (legacy edition that shouldn't theoretically work, but _it does_)
 
-Previously:
-
-- Notator
-- Cubasis Audio
-- Cubase VST 4
-- Logic Platinum 5 to Logic Pro 9
-- Pro Tools (subscription edition until 2021)
+Previously: Notator, Cubasis Audio, Cubase VST 4, Logic Platinum 5 to Logic Pro 9, Pro Tools (subscription edition until 2021).
 
 ### Audio editors
 
@@ -121,12 +97,7 @@ Previously:
 - [Triumph](https://www.zynaptiq.com/macaudioapps/)
 - [Audacity](https://www.audacityteam.org/)
 
-Previously:
-
-- Cool Edit Pro
-- Sound Forge
-- Adobe Audition
-- Steinberg WaveLab Pro
+Previously: Cool Edit Pro, Sound Forge, Acid Pro, Vegas Pro, Apple Soundtrack, Adobe Audition, Steinberg WaveLab Pro.
 
 ### Audio software instruments
 
@@ -182,10 +153,7 @@ Occasionally:
 - [Unreal Engine](https://www.unrealengine.com/)
 - [Unity](https://unity.com/)
 
-Previously:
-
-- [Microsoft’s XACT for Xbox]({{ site.url }}/projects/sound-design/console-game-ruff-trigger/#xbox)
-- In-house [MXE editor and middleware]({{ site.url }}/projects/sound-design/console-game-ruff-trigger)
+Previously: [Microsoft’s XACT for Xbox]({{ site.url }}/projects/sound-design/console-game-ruff-trigger/#xbox) and in-house [MXE editor and middleware]({{ site.url }}/projects/sound-design/console-game-ruff-trigger).
 
 ### Audio accessories
 
@@ -204,12 +172,7 @@ Previously:
 - [Typora](https://typora.io/)
 - [iA Writer](https://ia.net/writer)
 
-Previously:
-
-- VS Code
-- Atom
-- Textmate
-- PS Pad
+Previously: VS Code, Atom, Textmate, PS Pad.
 
 ### FTP
 
@@ -228,23 +191,14 @@ Previously:
 - Safari (for testing purposes)
 - iOS Safari emulator (for testing purposes)
 
-Previously:
-
-- Vivaldi
-- Chrome
-- Camino
-- Brave
+Previously: Vivaldi, Chrome, Camino and Brave.
 
 ### E-mail
 
 - [Protonmail](https://proton.me/mail)
 - [Thunderbird](https://www.thunderbird.net)
 
-Previously:
-
-- Fastmail
-- Gmail
-- Apple @mac
+Previously: Fastmail, Gmail and Apple @mac.
 
 ### Image manipulation
 
@@ -256,19 +210,13 @@ Previously:
 - [GIMP](https://www.gimp.org/)
 - [Inkscape](https://inkscape.org/)
 
-Previously:
-
-- Adobe Creative Suite
+Previously: Adobe Creative Suite.
 
 ### Desktop publishing
 
 - [Affinity Publisher](https://affinity.serif.com/en-us/publisher/)
 
-Previously:
-
-- Adobe InDesign
-- Quark Xpress
-- Aldus Pagemaker
+Previously: Adobe InDesign, Quark Xpress and Aldus Pagemaker.
 
 ### Office
 
@@ -286,11 +234,7 @@ Previously:
 - [Todo.txt](https://github.com/todotxt)
 - Trello
 
-Previously:
-
-- Todoist
-- JIRA
-- Wunderlist
+Previously: Todoist, JIRA and Wunderlist.
 
 ### Messaging
 
@@ -335,5 +279,6 @@ Brilliant examples come from [Cockos Incorporated](https://cockos.com/) (makers 
 
 For the same reasons, I refuse to use Avid's products and pretty much everything that is locked-in with a _subscription model_, as well as I stopped caring for Logic updates ever since Apple had decided to tie them to their insane and arbitrarily idiotic yearly cycle of forced OS “upgrades”. **Planned obsolescence** brought by multi-trillion-dollar companies is not my cup of tea.
 
-{: .dt-updated .mt-5 }
-Last update: <kbd>{{ page.last_modified_at }}</kbd>
+---
+
+<span class="p-category dt-updated rounded initialism border bg-light py-2 px-2">Last update: <kbd>{{ page.last_modified_at }}</kbd></span>

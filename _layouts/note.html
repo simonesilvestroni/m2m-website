@@ -1,20 +1,18 @@
 ---
 layout: default
 ---
-<article class="m2m-entry my-5">
-  <div class="e-content my-5">
-    {{ content }}
-  </div>
-  <div class="m2m-label text-center text-md-start pt-2">
-    <kbd>
-      <a class="m2m-link text-uppercase" href="/notes/">← <span class="p-category">Notes</span></a>
-    </kbd>
-  </div>
-  <div class="post-meta my-3">
-    <span class="visually-hidden">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
-      {% include hcard-post.html %}
-    </span>
-  </div>
-  {%- include pattern-responses.html -%}
-</article>
+<div class="e-content my-5">
+  {{ content }}
+</div>
+<div class="m2m-label text-center text-md-start pt-2">
+  <kbd>
+    <a class="m2m-link text-uppercase" href="/notes/">← <span class="p-category">Notes</span></a>
+  </kbd>
+</div>
+<div class="post-meta my-3">
+  <span class="visually-hidden">
+    <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
+    {% include hcard-post.html %}
+  </span>
+</div>
+{%- include pattern-responses.html -%}

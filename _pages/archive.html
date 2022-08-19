@@ -15,7 +15,7 @@ permalink: '/archive/'
   <h3 class="p-name" id="sound-design">Sound design</h3>
   <ul class="h-feed list-group list-group-flush fs-5 ps-0 mb-5">
   {% for project in sounddesign %}
-    <li class="list-group-item my-0 ps-0">🎧 <a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <kbd class="initialism"><span class="p-category text-uppercase">{{ project.subtype }}</span></kbd></li>
+    <li class="list-group-item my-0 ps-0"><a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <span class="p-category rounded initialism border bg-light py-1 px-2">{{ project.subtype }}</span></li>
   {% endfor %}
   </ul>
 </section>
@@ -23,7 +23,7 @@ permalink: '/archive/'
   <h3 class="p-name" id="web-design">Web design</h3>
   <ul class="h-feed list-group list-group-flush fs-5 ps-0 mb-5">
   {% for project in webdesign %}
-    <li class="list-group-item my-0 ps-0">👨🏻‍💻 <a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <kbd class="initialism"><span class="p-category text-uppercase">{{ project.subtype }}</span></kbd></li>
+    <li class="list-group-item my-0 ps-0"><a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <span class="p-category rounded initialism border bg-light py-1 px-2">{{ project.subtype }}</span></li>
   {% endfor %}
   </ul>
 </section>
@@ -31,7 +31,7 @@ permalink: '/archive/'
   <h3 class="p-name" id="original-music-productions">Original music productions</h3>
   <ul class="h-feed list-group list-group-flush fs-5 ps-0 mb-5">
   {% for project in music %}
-    <li class="list-group-item my-0 ps-0">💿 <a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <kbd class="initialism"><span class="p-category text-uppercase">{{ project.kind }}</span></kbd></li>
+    <li class="list-group-item my-0 ps-0"><a class="p-name u-url m2m-link pe-2" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a> <span class="p-category rounded initialism border bg-light py-1 px-2">{{ project.kind }}</span></li>
   {% endfor %}
   </ul>
 </section>
@@ -52,7 +52,7 @@ permalink: '/archive/'
     <h3 id="{{ this_year }}-ref">{{ this_year }}</h3>
     <ul class="h-feed list-group list-group-flush ps-0 mb-5">
   {%- endif -%}
-      <li class="list-group-item my-0 ps-0">📄 <a class="p-name u-url m2m-link" href="{{ post.url }}">{{ post.title }}</a></li>
+      <li class="list-group-item my-0 ps-0"><a class="p-name u-url m2m-link" href="{{ post.url }}">{{ post.title }}</a></li>
   {%- if forloop.last -%}
     </ul>
   </div>
@@ -74,7 +74,7 @@ permalink: '/archive/'
   {%- for tag in sorted_tags -%}
   {%- assign t = tag | first -%}
     <li class="list-inline-item m-2">
-      <a class="p-name u-url m2m-link fs-5" href="/blog/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><span class="rounded bg-light py-1 px-2">{{ t | upcase }}</span></a>
+      <a class="p-name u-url m2m-link fs-5" href="/blog/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><span class="rounded border bg-light py-1 px-2">{{ t | upcase }}</span></a>
     </li>
   {%- endfor -%}
   </ol>

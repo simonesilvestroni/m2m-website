@@ -1,12 +1,10 @@
 ---
 layout: default
 ---
-<article class="m2m-entry mt-5">
-  {%- if page.toc == true %}
-    {% include pattern-toc.html html=content sanitize=true class="inline_toc" id="toc" h_min=2 h_max=2 %}
-  {% endif -%}
-  <div class="e-content">
-  {{ content }}
-  </div>
-  {% include hcard-page.html %}
-</article>
+{%- if page.toc == true %}
+  {% include pattern-toc.html html=content sanitize=true class="inline_toc" id="toc" h_min=2 h_max=2 %}
+{% endif -%}
+<div class="e-content">
+{{ content }}
+</div>
+{% include hcard-page.html %}

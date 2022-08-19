@@ -8,7 +8,6 @@ excerpt: 'Online <span class="initialism">cv</span> of Simone Silvestroni, sound
 toc: true
 permalink: '/resume/'
 ---
-{: .display-5 .pt-3 }
 ## Skills and tools
 
 ### Sound design
@@ -17,15 +16,15 @@ Besides being a professional **`bassist`**, I'm a **`music producer`**, especial
 
 I also write and release original music and enjoy **`field recording`** and **`Foley`** techniques.
 
-Check out all the [tools I use]({{ site.url }}/uses/).
-
 ### Web design
 
-I've been crafting websites from scratch with **`HTML`** and **`CSS`** since the late 1990s, later using **`PHP`** to generate the markup and **`SASS`** for the stylesheets. I adopted **`WordPress`** as my platform of choice since version 1.5, becoming an expert and building custom themes and plug-ins. I make a point of putting performance, **`usability`** and sustainability at the forefront. I'm well versed in graphic tools such as **`Figma`**, **`Sketch`** and DTP software like **`Adobe InDesign`**.
+I've been crafting websites from scratch with **`HTML`** and **`CSS`** since 1997, later adopting **`PHP`** to generate the markup and **`SASS`** for the stylesheets. I've been using **`WordPress`** as my CMS of choice since version 1.5, building custom themes and plug-ins. I make a point of putting performance, **`usability`** and **`sustainability`** at the forefront. I'm well versed in graphic tools such as **`Figma`**, **`Sketch`** and DTP software like **`Adobe InDesign`**.
 
-I can set up, run and maintain local and remote web servers in **`Apache`**, **`PHP`**, **`MySQL`** either through a GUI or **`SSH`**. I recently moved to **`JAMstack`** and static site generators with **`headless CMS`**, especially digging **`Jekyll`** with its **`Liquid`** template language and **`Netlify`** for deployment and production builds. I use **`git`** as a versioning system.
+I can set up, run and maintain local and remote web servers in **`Apache`**, **`PHP`**, **`MySQL`** either through a GUI or **`SSH`**. I recently moved to static site generators with or without an **`headless CMS`**, especially digging **`Jekyll`** with its **`Liquid`** template language and **`Netlify`** for deployment and production builds. I use **`git`** as a versioning system, with an account on GitHub, GitLab and Codeberg.
 
-{: .display-5 .pt-3 }
+{: .d-inline-block .border .m2m-bg-alpha .rounded .mt-4 .px-3 .py-3 }
+Check out all the [tools I use]({{ site.url }}/uses/) →
+
 ## Experience
 
 {: .mb-0 }
@@ -116,15 +115,13 @@ I built the internal sound studio from scratch, managing three computers in audi
 {: .list-unstyled .ps-0 .mb-5 .pb-5 }
 - 🎮 [Ruff Trigger console game]({{ site.url }}/projects/sound-design/console-game-ruff-trigger/)
 
-{: .display-5 .pt-3 }
 ## Languages
 
 {: .list-group .list-group-flush .mt-0 .ps-0 }
 - {: .list-group-item .my-0 .ps-0 } 🇮🇹 **Italian**: native
-- {: .list-group-item .my-0 .ps-0 } 🇺🇸 **English**: bilingual proficiency
+- {: .list-group-item .my-0 .ps-0 } 🇬🇧 **English**: bilingual proficiency
 - {: .list-group-item .my-0 .ps-0 } 🇩🇪 **German**: elementary
 
-{: .display-5 .pt-3 }
 ## Certifications and courses
 
 {: .list-group .list-group-flush .mt-0 .ps-0 }
@@ -135,7 +132,6 @@ I built the internal sound studio from scratch, managing three computers in audi
 - {: .list-group-item .my-0 .ps-0 } 🏛 {{ cert.name }}.
 {%- endfor %}
 
-{: .display-5 .pt-3 }
 ## Endorsements
 
 {%- assign endorsementaudio = site.endorsements.audio -%}
@@ -161,10 +157,11 @@ I built the internal sound studio from scratch, managing three computers in audi
 
 {%- endfor %}
 
----
+{: .d-inline-block .border .m2m-bg-alpha .rounded .mt-4 .px-3 .py-3 }
+🗒 [Full list of experiences and endorsements on **LinkedIn** ↗︎](https://www.linkedin.com/in/minutes2mid/){: .m2m-link }
 
-{: .list-unstyled .mt-5 .ps-0 }
-- 🎧 [For bass performance endorsements check **SoundBetter** ↗︎](https://soundbetter.com/profiles/206552-minutes-to-midnight/#reviews){: .m2m-link }
-- 💿 [Music credits on **Discogs** ↗︎](https://www.discogs.com/artist/1206278-Simone-Silvestroni){: .m2m-link }
-- 🗒 [Full list of experiences and endorsements on **LinkedIn** ↗︎](https://www.linkedin.com/in/minutes2mid/){: .m2m-link }
-- ✍️ [Reach out to request a **PDF version** →](mailto:contact@minutestomidnight.co.uk){: .m2m-link }
+{: .d-inline-block .border .m2m-bg-alpha .rounded .mt-4 .px-3 .py-3 }
+🎧 [For bass performance endorsements check **SoundBetter** ↗︎](https://soundbetter.com/profiles/206552-minutes-to-midnight/#reviews){: .m2m-link }
+
+{: .d-inline-block .border .m2m-bg-alpha .rounded .mt-4 .px-3 .py-3 }
+💿 [Music credits on **Discogs** ↗︎](https://www.discogs.com/artist/1206278-Simone-Silvestroni){: .m2m-link }

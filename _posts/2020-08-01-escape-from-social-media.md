@@ -140,10 +140,6 @@ Thanks for reading. I’ll probably post a follow-up in a year or so. Although u
 - Having deeper conversations with a group of people larger than my usual circle.
 - Extremely productive.
 
----
-
 ## 🆕 Follow-up: 3 March 2022
 
 Read the **follow-up**: [Life after social networks]({{ site.url }}/blog/life-after-social-networks/).
-
----

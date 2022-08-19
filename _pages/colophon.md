@@ -2,7 +2,7 @@
 layout: page
 title: Colophon
 date: '2021-11-08 10:27:27'
-last_modified_at: '2021-11-08 10:27:31'
+last_modified_at: '2022-08-19 11:02:03'
 description: "Technical details about the website, developed by Simone Silvestroni and designed with Silvia Maggi, who also provided information architecture and photography."
 excerpt: 'Designed and developed by Simone Silvestroni. <a href="https://silviamaggidesign.com/" title="Go to Silvia Maggi website">Silvia Maggi</a> provided information architecture and photography. Check the <a href="/projects/web-design/minutes-to-midnight/"><strong>case study</strong></a> for a detailed analysis.'
 permalink: '/colophon/'
@@ -47,13 +47,14 @@ Developed from scratch using:
 
 ## Accessibility
 
+{: .list-unstyled .ps-0 }
 - ✓ **No errors** for 
 <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> detected on [WAVE](https://wave.webaim.org/report#/https://minutestomidnight.co.uk/).
 - ✓ **`100`** on [Google Lighthouse](https://web.dev/measure/)
 
 ## Sustainability
 
-Only `0.04g of CO2` is produced every time someone visits the homepage. Cleaner than `96%` of [web pages tested](https://www.websitecarbon.com/website/minutestomidnight-co-uk/ "Visit Website carbon"). The website is running on sustainable energy.
+Only 0.04g of CO2 is produced every time someone visits the homepage, which is cleaner than 96% of [web pages tested](https://www.websitecarbon.com/website/minutestomidnight-co-uk/ "Visit Website carbon"). The website is running on sustainable energy.
 
 I [do not request third-party resources](https://aremythirdpartiesgreen.com/test/76e7ac7370d84f1fabd254608e118ff4), except for the blog posts, which are calling `webmention.io` to render web mentions.
 

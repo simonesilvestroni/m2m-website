@@ -1,67 +1,73 @@
 {%- include site-head.html %}
 <body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
-  {% comment %}
-    *-------------------------
-    Header
-    -------------------------*
-  {% endcomment %}
-<div class="m2m-header m2m-bg-l-10">
-  {% include site-header.html %}
-</div>
+{% comment %}
+  *-------------------------
+  Header
+  -------------------------*
+{% endcomment %}
+{% include site-header.html %}
 <main class="h-entry m2m-main">
-  <section class="tornado py-5">
-    <div class="container m2m-container" id="m2m-content">
-      {% comment %}
-        *-------------------------
-        Main title
-        -------------------------*
-      {% endcomment %}
-      <h1 class="p-name text-start mb-0{%- if page.url == "/" %} fw-bold h3{% endif %}">
-        {%- if page.url == "/" -%}<strong>{{ site.brand.m2m_pitch }}</strong>
-        {% else %}
-          {%- if page.type == "tag" or page.type == "category" -%}🏷 {% endif %}{%- if page.type == "tag" %}{{ page.title | capitalize }}{% else %}{{ page.title }}{% endif %}
+  <article class="m2m-entry">
+    <header class="tornado py-5">
+      <div class="container m2m-container" id="m2m-content">
+        {% comment %}
+          *-------------------------
+          Main title
+          -------------------------*
+        {% endcomment %}
+        <h1 class="p-name text-start mb-0">
+          {%- if page.url == "/" -%}<strong>{{ site.brand.m2m_pitch }}</strong>
+          {% else %}
+            {%- if page.type == "tag" or page.type == "category" -%}{% endif %}{%- if page.type == "tag" %}{{ page.title | capitalize }}{% else %}{{ page.title }}{% endif %}
+          {% endif %}
+        </h1>
+        {% comment %}
+          *-------------------------
+          Summary
+          -------------------------*
+        {% endcomment %}
+        {%- if page.url == "/" -%}
+        <p class="p-summary lead mt-3 mb-0">{{ site.brand.m2m_intro }} <a class="ps-2" href="/about/" title="About page"><strong>Read more</strong>&nbsp;→</a></p>
         {% endif %}
-      </h1>
-      {% comment %}
-        *-------------------------
-        Summary
-        -------------------------*
-      {% endcomment %}
-      {%- if page.url == "/" -%}
-      <p class="p-summary lead mt-3 mb-0">{{ site.brand.m2m_intro }} <a class="ps-2" href="/about/" title="About page"><strong>Read more</strong>&nbsp;→</a></p>
-      {% endif %}
-      {%- if page.type == "tag" or page.type == "category" -%}
-      <p class="p-summary lead mt-3 mb-0">Archive page for the {% if page.type == "tag" %}tag.{% elsif page.type == "category" %}category.{% endif %}</p>
-      {% endif %}
-      {% unless page.layout == 'note' %}
-      {%- if page.excerpt %}
-      <p class="p-summary lead mt-3 mb-0">
-        {%- if page.collection == 'webdesign' %}
-        {{ page.summary }}
-        {% else %}
-        {{ page.excerpt }}</p>
+        {%- if page.type == "tag" or page.type == "category" -%}
+        <p class="p-summary lead mt-3 mb-0">🏷 Archive page for the {% if page.type == "tag" %}tag.{% elsif page.type == "category" %}category.{% endif %}</p>
         {% endif %}
-      {% endif -%}
-      {% endunless %}
-    </div>
-  </section>
-  {% comment %}
-    *-------------------------
-    Content
-    -------------------------*
-  {% endcomment %}
-  <div class="container m2m-container">
-    {{ content }}
-  </div>
+        {% unless page.layout == 'note' %}
+        {%- if page.excerpt %}
+        <p class="p-summary lead mt-3 mb-0">
+          {%- if page.collection == 'webdesign' %}
+          {{ page.summary }}
+          {% else %}
+          {{ page.excerpt }}</p>
+          {% endif %}
+        {% endif -%}
+        {% endunless %}
+        {%- if page.collection == 'webdesign' or page.collection == 'sounddesign' or page.collection == 'music' -%}
+        <p class="mt-4 mb-0">
+          <span class="p-category rounded border bg-light py-1 px-2">
+            <span>Project type: </span>
+            <a class="m2m-link text-uppercase p-1" href="{% unless page.type == "music" %}/projects/#{{ page.type | slugify }}{% endunless %}{% if page.type == "music" %}/music/{% endif %}"><span class="p-category">{% unless page.type == "music" %}{{ page.type }}{% endunless %}{% if page.type == "music" %}{{ page.subtype }}{% endif %}</span></a>
+          </span>
+        </p>
+        {% endif -%}
+      </div>
+    </header>
+    {% comment %}
+      *-------------------------
+      Content
+      -------------------------*
+    {% endcomment %}
+    <section class="container m2m-container my-5">
+      {{ content }}
+    </section>
+  </article>
 </main>
 {% comment %}
   *-------------------------
   Footer
   -------------------------*
 {% endcomment %}
-<div class="footer-wrapper">
-  {% include site-footer.html %}
-</div>
+{% include site-footer.html %}
 {% comment %}
   *-------------------------
   Javascript

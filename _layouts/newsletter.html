@@ -1,25 +1,23 @@
 ---
 layout: default
 ---
-<article class="m2m-entry mt-5">
-  <div class="m2m-label text-center text-md-start pt-2">
-    <kbd>
-      <a class="m2m-link text-uppercase" href="/newsletter/archives/">← <span class="p-category">Newsletter archive</span></a>
-    </kbd>
-  </div>
-  <div class="post-meta my-5">
-    <p class="fs-5"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time></p>
-    <span class="d-none">
-      {% include hcard-post.html %}
-    </span>
-  </div>
-  {% if page.excerpt %}
-  <p class="p-summary lead">
-    {{ page.excerpt }}
-  </p>
-  {% endif %}
-  <div class="e-content">
-    {{ content }}
-  </div>
-</article>
+<div class="m2m-label text-center text-md-start pt-2">
+  <span class="p-category rounded initialism border bg-light py-1 px-2">
+    <a class="m2m-link text-uppercase" href="/newsletter/archives/">← <span class="p-category">Newsletter archive</span></a>
+  </span>
+</div>
+<div class="post-meta my-5">
+  <p class="fs-5"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time></p>
+  <span class="d-none">
+    {% include hcard-post.html %}
+  </span>
+</div>
+{% if page.excerpt %}
+<p class="p-summary lead">
+  {{ page.excerpt }}
+</p>
+{% endif %}
+<div class="e-content">
+  {{ content }}
+</div>
 {%- include post-navigation.html -%}

@@ -19,7 +19,7 @@
       -------------------------*
     {% endcomment %}
     {%- unless image.path contains '.webp' -%}
-    <div class="ps-1 pe-2 text-center">
+    <div class="ps-1 pe-2 pb-2 text-center">
       <picture>
         <source srcset="{{ image.path | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }}" type="image/webp">
         <source srcset="{{ image.path }}" {% if image.path contains '.jpg' or image.path contains '.jpeg' %}type="image/jpeg"{% elsif image.path contains '.png' %}type="image/png"{% endif %}>
