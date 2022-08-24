@@ -49,10 +49,6 @@ body {
 // $HEADINGS
 // ------------------------------------------------ //
 
-h1 {
-  @extend .m2m-mask-texture;
-  font-weight: 900;
-}
 h2 {
   color: black;
   padding-bottom: .75rem;
@@ -628,14 +624,6 @@ hr {
 // $EFFECTS
 // ------------------------------------------------ //
 
-.m2m-mask-texture {
-  -webkit-mask-image: url('/assets/images/heading-texture.png');
-  mask-image: url('/assets/images/heading-texture.png');
-}
-.m2m-unmask-texture {
-  -webkit-mask-image: none !important;
-  mask-image: none !important;
-}
 // Translucent BG
 // ------------------------------------------------ *
 .m2m-translucent-bg {
