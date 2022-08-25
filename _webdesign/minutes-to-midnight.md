@@ -28,7 +28,7 @@ featimage-height: '574'
 performance: true
 googlescore: '100'
 speedindex: '0.4 seconds'
-pageweight: '210Kb'
+pageweight: '199Kb (uncompressed)'
 site-is-live: true
 live-url: 'https://minutestomidnight.co.uk'
 permalink: '/projects/web-design/minutes-to-midnight/'

@@ -39,7 +39,7 @@ Developed from scratch using:
         <td class="text-center fs-2"><a href="https://validator.w3.org/nu/?doc=https://minutestomidnight.co.uk/" target="_blank" rel="noopener" title="Valid markup">✓</a></td>
         <td class="text-center fs-2">100</td>
         <td class="text-center fs-2">0.4sec</td>
-        <td class="text-center fs-2">210kb</td>
+        <td class="text-center fs-2">199kb (uncompressed)</td>
       </tr>
     </tbody>
   </table>
