@@ -6,38 +6,4 @@
 // Imported in `m2m.scss`
 // ------------------------------------------------ //
 
-/* purgecss start ignore */
-
-@font-face {
-  font-family: 'hk-regular';
-  src: url('/assets/fonts/hkgrotesk-regular.woff2') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'hk-italic';
-  src: url('/assets/fonts/hkgrotesk-italic.woff2') format('woff');
-  font-weight: normal;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'hk-bold';
-  src: url('/assets/fonts/hkgrotesk-bold.woff2') format('woff');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'hk-bolditalic';
-  src: url('/assets/fonts/hkgrotesk-bolditalic.woff2') format('woff');
-  font-weight: bold;
-  font-style: italic;
-  font-display: swap;
-}
-
-$font-family-base: 'hk-regular', sans-serif;
-$font-family-head: 'hk-bold', sans-serif;
-
-/* purgecss end ignore */
+$font-family-base: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";

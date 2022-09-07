@@ -77,7 +77,7 @@ h4 {
     font-size: 1.2rem;
     color: black;
     &.active {
-      font-family: 'hk-bold', sans-serif;
+      font-weight: 900;
     }
     &:hover {
       opacity: .6;
@@ -136,6 +136,9 @@ h4 {
 // $TYPOGRAPHY
 // ------------------------------------------------ //
 
+h1 {
+  font-weight: 900;
+}
 p {
   @extend %m2m-entry-fs;
   hyphens: auto;
@@ -143,18 +146,6 @@ p {
   &.lead {
     color: $black;
   }
-}
-.fw-normal {
-  font-family: $font-family-base;
-}
-em, i {
-  font-family: 'hk-italic', sans-serif;
-}
-strong, b, .fw-bold {
-  font-family: 'hk-bold', sans-serif;
-}
-strong em, b em, strong i, b i {
-  font-family: 'hk-bolditalic', sans-serif; 
 }
 pre {
   font-size: rfs-fluid-value(16px);
@@ -189,7 +180,6 @@ blockquote {
 }
 // Blockquote cite
 cite {
-  font-family: 'hk-bold';
   display: block;
   font-style: normal;
   margin-top: $spacer*0.5;
