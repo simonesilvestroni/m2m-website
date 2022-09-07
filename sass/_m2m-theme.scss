@@ -31,6 +31,11 @@ body {
     max-width: 680px;
   }
 }
+@include media-breakpoint-down(md) {
+  .m2m-mobile--hidden {
+    @include visually-hidden();
+  }
+}
 
 
 // ------------------------------------------------ \\
