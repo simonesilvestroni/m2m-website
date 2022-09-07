@@ -1,7 +1,7 @@
 menu:
   - name: About
     link: /about/
-    desc: 'Resume, projects I worked on, my music and the equipment I use'
+    desc: 'Who I am and what’s my moniker about'
   - name: Projects
     link: /projects/
     desc: 'A selection of my recent work'
@@ -15,7 +15,7 @@ menu:
     hide: true
   - name: Contact
     link: /contact/
-    desc: 'Hire me, get in touch or subscribe to the newsletter'
+    desc: 'Hire me or get in touch'
   - name: More
     link: /more-links/
     desc: 'Archives, in-depth pages and more ways to connect'
