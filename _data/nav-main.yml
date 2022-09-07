@@ -5,15 +5,21 @@ menu:
   - name: Projects
     link: /projects/
     desc: 'A selection of my recent work'
+    hide: true
   - name: Blog
     link: /blog/
     desc: 'Articles, interviews and press releases'
   - name: RSS
     link: /rss/
     desc: 'RSS feeds for blog and newsletter'
-  - name: Contacts
+    hide: true
+  - name: Contact
     link: /contact/
     desc: 'Hire me, get in touch or subscribe to the newsletter'
+  - name: More
+    link: /more-links/
+    desc: 'Something more'
   - name: 🔎
     link: /search/
     desc: 'Search throughout the website'
+    hide: true

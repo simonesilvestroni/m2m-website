@@ -1,5 +1,0 @@
-<nav class="nav-footer mb-0">
-  {% for item in site.data.nav-footer -%}
-  <a class="m2m-link pe-2{% if page.url == item.link %} m2m-current{% endif %}" href="{{ item.link }}" title="Go to: {{ item.name }}"><strong>{{ item.name }}</strong></a>
-  {% endfor -%}
-</nav>

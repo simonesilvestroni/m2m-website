@@ -1,0 +1,20 @@
+- name: Projects
+  link: /projects/
+- name: Colophon
+  link: /colophon/
+- name: Resume
+  link: /resume/
+- name: RSS
+  link: /rss/
+- name: Popular posts
+  link: /blog/popular/
+- name: Post archives
+  link: /archive/
+- name: Blogroll
+  link: /blogroll/
+- name: Equipment I use
+  link: /uses/
+- name: Newsletter
+  link: /newsletter/
+- name: Search
+  link: /search/
