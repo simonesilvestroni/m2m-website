@@ -15,13 +15,13 @@ excerpt: 'What follows is my recent experience with renewing an almost 4-year ol
 
 First and foremost, I strongly hate [planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence), along with its consequent reckless environmental abuse. Other than money and greed, there’s not a single rational reason behind releasing new phones every year, especially models that can’t be repaired.
 
-Xiaomi already stated that *no new Android updates* would be made available for my device. I‘ve had enough of depending on any manufacturer’s whims for the safety of my phone’s operating system.
+Xiaomi already stated that *no new Android updates* would be made available for my device. I‘ve had enough of depending on a manufacturer’s whims for the safety and durability of my phone’s operating system.
 
 A few more or less important further motives, in order of annoyance:
 
-1. I’d been having issues with MIUI recently, such as incomprehensible random reboots and boot loops. Reinstalling the OS, a time-consuming procedure, didn’t solve the problem.
-2. MIUI activates by default a ton of “suggested” features, which is a preposterous euphemism for ads popping up in core apps at all times. The operation of deactivating all these *settings* is per se tiresome, as they’re all scattered around.
-3. The default OS is bloated by apps that cannot be removed.
+1. I’d been having issues with MIUI recently, mostly incomprehensible random reboots and boot loops. Reinstalling the OS, a time-consuming procedure, didn’t fix them.
+2. MIUI activates by default a ton of “suggested” features, which is a preposterous euphemism for invasive ads popping up in core apps at all times. The operation of deactivating them is per se tiresome, as they’re all scattered around numerous settings.
+3. The default OS is bloated by apps that cannot be removed. Also, despite having set Firefox as my default browser, they keep insisting on opening their own MI browser — which has been found to be [akin to spyware](https://thehackernews.com/2020/05/xiaomi-browser-history.html) — from links in core apps.
 4. Every single alternative launcher failed to work in the long term, with issues that regularly crept up and increased in time. Maybe it was because of Xiaomi’s hyper-aggressive battery policies, I don’t know and don’t even care anymore.
 
 ## First step: unlock the device
