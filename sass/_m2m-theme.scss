@@ -76,7 +76,12 @@ h4 {
   .nav-link {
     font-size: 1.2rem;
     color: black;
-    padding-top: 0.75rem;
+    padding-top: 0.25rem;
+    padding-bottom: 0.5rem;
+    @include media-breakpoint-up(md) {
+      padding-top: 0;
+      padding-bottom: 0;
+    }
     &.active {
       font-weight: 900;
     }
