@@ -62,7 +62,7 @@ Previously: Focal Alpha 80 and AKG Studio K240.
 
 ### Mobile device
 
-- [Redmi Note 7 Pro](https://www.gsmarena.com/xiaomi_redmi_note_7_pro-9521.php) dual-SIM by Xiaomi (since 2019), with a 256 GB mini-SD card as additional storage
+- Redmi Note 7 dual-SIM by Xiaomi (since 2019), with 4GB RAM and 128GB storage with a 256 GB mini-SD card as additional storage.
 
 Previously: Apple iPhone 4 to 8, iPad Pro and iPad Air.
 
