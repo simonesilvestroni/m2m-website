@@ -207,7 +207,7 @@ Throughout _After 1989_, Simone uses archive material to accentuate the music an
 > <cite>— EvaViaMusic, from Reddit</cite>
 
 > I love your style. I was just saying to a friend of mine how it reminded me a little of _The Final Cut_ by Pink Floyd. And from my perspective that’s a good thing, despite the mixed opinions on the album.
-> <cite>— Calum Spense, from Facebook</cite>
+> <cite>— Calum Spense, from Reddit</cite>
 
 > Really enjoying the album, so much work has gone into it clearly, a great concept and realisation.
 > <cite>— Dominic Hall-Smith, direct e-mail</cite>
