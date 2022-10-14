@@ -1,6 +1,5 @@
 ---
 title: 'Recent live shows'
-tagline: false
 date: '2018-06-29'
 last_modified_at: '2021-11-16 12:39:49'
 categories:
