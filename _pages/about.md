@@ -39,6 +39,6 @@ Find the best way to [get in touch]({{ site.url }}/contact/), and my [PGP public
 
 ## Press photos
 
-Photography by <a href="https://silviamaggidesign.com">Silvia Maggi</a>. More photos can be found on my [Flickr account](https://www.flickr.com/photos/minutes2midnight/).
+Photography by <a href="https://silviamaggidesign.com">Silvia Maggi</a>.
 
 {% include pattern-imagegallery.html folder="/assets/images/gallery-press/" id="1" %}
