@@ -20,7 +20,7 @@ mentionType: reply
 ---
 Milan is the city where I spent 15 years before emigrating to the UK. It’s where I kickstarted my work life, met great people and became an adult. I find it slightly funny how, over the last couple of years, I’ve been studying to — hopefully — go back to an audio videogame career, ending up moving back to where it all started.
 
-I’m fairly used to loops in life. Being a digital polymath, I spent my life [working](https://www.linkedin.com/in/minutes2mid/) in three distinct industries: **publishing**, **web design**, **audio**. Recently, I wished I could be all those things, openly, instead of being forced to present myself as one. This brings me to what I’ve been doing over the past couple of months.
+I’m fairly used to loops in life. Being a digital polymath, I spent my life [working](https://www.linkedin.com/in/simonesilvestroni/) in three distinct industries: **publishing**, **web design**, **audio**. Recently, I wished I could be all those things, openly, instead of being forced to present myself as one. This brings me to what I’ve been doing over the past couple of months.
 
 ## Back to the roots
 

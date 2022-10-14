@@ -278,7 +278,7 @@ I get into proper SEO territory next, by including `site-seo.html`, which is mad
     "sameAs": [
       "https://indieweb.social/@m2m",
       "https://uk.linkedin.com/in/minutes2mid/",
-      "https://github.com/minutes2midnight/",
+      "https://github.com/simonesilvestroni/",
       "https://www.flickr.com/photos/minutes2midnight/"
     ],
     {%- if page.featimage %}

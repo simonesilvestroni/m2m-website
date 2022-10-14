@@ -158,7 +158,7 @@ I built the internal sound studio from scratch, managing three computers in audi
 {%- endfor %}
 
 {: .d-inline-block .border .m2m-bg-alpha .rounded .mt-4 .px-3 .py-3 }
-🗒 [Full list of experiences and endorsements on **LinkedIn** ↗︎](https://www.linkedin.com/in/minutes2mid/){: .m2m-link }
+🗒 [Full list of experiences and endorsements on **LinkedIn** ↗︎](https://www.linkedin.com/in/simonesilvestroni/){: .m2m-link }
 
 {: .d-inline-block .border .m2m-bg-alpha .rounded .mt-4 .px-3 .py-3 }
 🎧 [For bass performance endorsements check **SoundBetter** ↗︎](https://soundbetter.com/profiles/206552-minutes-to-midnight/#reviews){: .m2m-link }

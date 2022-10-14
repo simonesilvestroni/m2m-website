@@ -51,7 +51,7 @@ IndieAuth required `minutestomidnight.co.uk` to have a link to providers such as
 <!-- Anywhere in the homepage <body> -->
 <div class="h-entry">
   [...]
-  <a rel="me" href="https://github.com/minutes2midnight/">Github</a>
+  <a rel="me" href="https://github.com/simonesilvestroni/">Github</a>
   [...]
 </div>
 ```
@@ -67,7 +67,7 @@ After clicking the provider green button, I signed-in to GitHub to complete the 
 <link rel="pingback" href="https://webmention.io/minutestomidnight.co.uk/xmlrpc" />
 ```
 
-I’ve added the above in an include file named `site-head.html` ([source](https://gitlab.com/minutes2midnight/m2m-website/-/blob/master/_includes/site-head.html)) which contains a block of code from the DOCTYPE declaration to `</head>`.
+I’ve added the above in an include file named `site-head.html` ([source](https://gitlab.com/simonesilvestroni/m2m-website/-/blob/master/_includes/site-head.html)) which contains a block of code from the DOCTYPE declaration to `</head>`.
 
 ### Microformats
 
@@ -94,8 +94,8 @@ An [h-card](http://microformats.org/wiki/h-card) is for marking up people and or
       <p class="p-country-name">Italy</p>
     </div>
     <a class="u-url" href="{{ site.url }}{{ page.url }}">{{ site.url }}{{ page.url }}</a>
-    <a rel="me" href="https://github.com/minutes2midnight/">Github</a>
-    <a rel="me" href="https://www.linkedin.com/in/minutes2mid/">LinkedIn</a>
+    <a rel="me" href="https://github.com/simonesilvestroni/">Github</a>
+    <a rel="me" href="https://www.linkedin.com/in/simonesilvestroni/">LinkedIn</a>
     <a rel="me" href="https://minutestomidnight.bandcamp.com/">Bandcamp</a>
     <a rel="me" href="https://soundcloud.com/minutes2mid">Soundcloud</a>
     <a rel="me" href="https://open.spotify.com/artist/250igOmtd9HCpGyXDWUcl9?si=d9t8bLC2QfG8iT1R3y9CAw">Spotify</a>
@@ -184,7 +184,7 @@ This is how I applied microformats classes to the post layout:
     <data class="p-org" value="Minutes to Midnight"></data>
     <data class="u-email" rel="me" value="mailto:contact@minutestomidnight.co.uk"></data>
     <data rel="me" value="https://minutestomidnight.bandcamp.com/"></data>
-    <data rel="me" value="https://github.com/minutes2midnight/"></data>
+    <data rel="me" value="https://github.com/simonesilvestroni/"></data>
     <data rel="me" value="https://indieweb.social/@m2m"></data>
     [... other rel="me" URLs]    
   </span>
@@ -255,7 +255,7 @@ Logging into Telegraph works the same as the other Indieweb services, it only ne
 
 To receive webmentions I have simply implemented the popular [`webmentions.js`](https://github.com/PlaidWeb/webmention.js) by [Fluffy](https://beesbuzz.biz/). It pulls data from webmention.io, adding the results in a section of my website. The minified Javascript file is only loaded in posts where webmentions can be received.
 
-I have an inclusion called [`pattern-responses.html`](https://gitlab.com/minutes2midnight/m2m-website/-/blob/master/_includes/pattern-responses.html) where my comments code resides: the block of code `<div id="webmentions"></div>` at the bottom gets populated by the script in case webmentions are received.
+I have an inclusion called [`pattern-responses.html`](https://gitlab.com/simonesilvestroni/m2m-website/-/blob/master/_includes/pattern-responses.html) where my comments code resides: the block of code `<div id="webmentions"></div>` at the bottom gets populated by the script in case webmentions are received.
 
 To collect reactions from Mastodon, I connected my Fediverse account to [Brid.gy](https://brid.gy/). It backfeeds likes and comments to `webmention.io`. WordPress and Flickr accounts were also added to Brid.gy. I can post a photo in my website and syndicate to Flickr while also backfeeding likes and comments from Flickr back to my site.
 

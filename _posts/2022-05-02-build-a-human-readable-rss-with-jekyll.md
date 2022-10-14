@@ -74,5 +74,5 @@ Here's a link to my new human-readable [RSS feed]({{ site.url }}/feed.xml). Belo
 ## Source code
 
 {: .list-unstyled .ps-0 }
-- 📄 [RSS XML feed on GitLab ↗︎](https://gitlab.com/minutes2midnight/m2m-website/blob/master/feed.xml)
-- 📄 [XSL file on GitLab ↗︎](https://gitlab.com/minutes2midnight/m2m-website/blob/master/feed.xsl)
+- 📄 [RSS XML feed on GitLab ↗︎](https://gitlab.com/simonesilvestroni/m2m-website/blob/master/feed.xml)
+- 📄 [XSL file on GitLab ↗︎](https://gitlab.com/simonesilvestroni/m2m-website/blob/master/feed.xsl)
