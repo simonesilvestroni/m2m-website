@@ -97,7 +97,7 @@ An [h-card](http://microformats.org/wiki/h-card) is for marking up people and or
     <a rel="me" href="https://github.com/simonesilvestroni/">Github</a>
     <a rel="me" href="https://www.linkedin.com/in/simonesilvestroni/">LinkedIn</a>
     <a rel="me" href="https://minutestomidnight.bandcamp.com/">Bandcamp</a>
-    <a rel="me" href="https://soundcloud.com/minutes2mid">Soundcloud</a>
+    <a rel="me" href="https://soundcloud.com/simonesilvestroni">Soundcloud</a>
     <a rel="me" href="https://open.spotify.com/artist/250igOmtd9HCpGyXDWUcl9?si=d9t8bLC2QfG8iT1R3y9CAw">Spotify</a>
     <a rel="me" href="https://www.youtube.com/@m2m">YouTube</a>
     <a rel="me" href="https://www.flickr.com/photos/minutes2midnight/">Flickr</a>

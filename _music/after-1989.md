@@ -51,7 +51,7 @@ _After 1989_ can also be found on:
 - [Tidal](https://tidal.com/browse/album/119837352)
 - [Deezer](https://www.deezer.com/en/album/114431332)
 - [Pandora](https://www.pandora.com/artist/minutes-to-midnight/after-1989-a-trip-to-freedom/ALzVZxbgvJ26zK6)
-- [Soundcloud](https://soundcloud.com/minutes2mid/sets/after-1989-a-trip-to-freedom)
+- [Soundcloud](https://soundcloud.com/simonesilvestroni/sets/after-1989-a-trip-to-freedom)
 
 ## Production notes
 
