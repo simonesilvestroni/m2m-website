@@ -24,13 +24,15 @@
 {
   "@context": "http://schema.org",
   {% if page.is_post -%}
-  "@type": "BlogPosting",{% else %}"@type": "WebSite",
+  "@type": "BlogPosting",
+  {%- else %}
+  "@type": "WebSite",
   {%- endif %}
-  "name": "{%- include site-meta-title.html -%}",
-  "headline": "{%- include site-meta-title.html %} {{ site.tagline }}",
+  "name": "{{ site.title }}",
+  "headline": "{%- include site-meta-title.html %}",
   "url": "{{ site.url }}{{ page.url }}",
   "description": "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}",
-  "keywords": "{% if page.tags %}{{ page.tags | join: ',' }}{% else %}{{ site.keywords }}{% endif %}",
+  "keywords": "{% if page.tags %}{{ page.tags | join: ', ' }}{% else %}{{ site.keywords }}{% endif %}",
   {%- assign tagArchive = page.type | where: 'post.type', 'tag' -%}
   {% unless tagArchive %}
   "datePublished": "{{ page.date }}",

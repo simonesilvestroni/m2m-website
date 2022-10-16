@@ -1,6 +1,5 @@
 ---
 title: 'Indieweb and webmentions for my static site'
-tagline: false
 date: '2022-05-16 12:47:30'
 last_modified_at: '2022-05-16 12:47:34'
 categories:
