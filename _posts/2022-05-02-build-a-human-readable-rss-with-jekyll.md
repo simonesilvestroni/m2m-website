@@ -22,7 +22,7 @@ syndicate:
   - name: Hacker News
     url: https://news.ycombinator.com/item?id=31241877
   - name: Medium
-    url: https://minutestomidnight.medium.com/a-human-readable-rss-feed-with-jekyll-minutes-to-midnight-e1cf8230220c
+    url: https://simonesilvestroni.medium.com/a-human-readable-rss-feed-with-jekyll-minutes-to-midnight-e1cf8230220c
   - name: /en/rss
     url: https://indieweb.xyz/en/rss
 ---
