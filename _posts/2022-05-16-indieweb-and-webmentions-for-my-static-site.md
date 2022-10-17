@@ -101,7 +101,6 @@ An [h-card](http://microformats.org/wiki/h-card) is for marking up people and or
     <a rel="me" href="https://www.youtube.com/@m2m">YouTube</a>
     <a rel="me" href="https://indieweb.social/@m2m">Mastodon</a>
     <a rel="me" href="https://oreganodangereux.wordpress.com">WordPress (Italian)</a>
-    <a rel="me" href="https://minutesto00.wordpress.com">WordPress</a>
     <a rel="me" href="https://minutestomidnight.medium.com/">Medium</a>
   </div>{% endraw %}
   [...]
