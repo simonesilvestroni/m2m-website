@@ -92,3 +92,8 @@ Note: unlike several bug reports on LineageOS’ forums about the Redmi Note 7 c
 ### Revert to MIUI?
 
 If, for whatever reason, I wish to go back to MIUI, all I have to do is download [Xiaomi’s flash tool](https://xiaomiflashtool.com/) and follow the instructions. I did exactly that when I bricked the phone, before re-flashing the recovery for the correct device, and it worked.
+
+## Edit: A month later
+
+1. The whole "Pro/non-Pro" issue was my fault. Apparently I had a [Mandela effect](https://en.wikipedia.org/wiki/False_memory#Mandela_Effect) on my own — in fact, I've found the original box, which clearly states it's a Redmi Note 7, not a Note 7 Pro.
+2. Issue number one mentioned above, related to QR codes, doesn't exist anymore. I've been using a different app which doesn't have the same problem. Whenever I have to load up the camera to shoot a QR code from different apps (i.e. Bitwarden, in case of new TOTPs), there it can freeze. To solve it, I just need to open the Google Camera app and go back: it works.
