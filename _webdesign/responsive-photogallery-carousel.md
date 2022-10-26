@@ -87,7 +87,7 @@ To break it down:
     - `filenameparts` takes the actual image path, split through the trail slash;
     - `imgCaption` takes the last part of the file name minus the directory path and removes file suffixes and all the bits that aren’t useful to generate the caption.
 
-This is the result, from my [About](/about/) page:
+This is the result:
 
 {% include pattern-figure.html image="/assets/images/gallery-thumbnails.jpg" alt="Column view thumbnail photo gallery" width="920" height="181" %}
 
