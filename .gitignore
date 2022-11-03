@@ -1,9 +1,7 @@
 .DS_Store
 .jekyll-cache/
 .jekyll-metadata
-.sass-cache/
 _site/
 assets/css/m2m.css
-assets/css/m2m.css.map
+assets/css/m2m_OLD.css
 local_netlify.rb
-node_modules/
