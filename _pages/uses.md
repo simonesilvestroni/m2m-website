@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Equipment I use'
+title: 'Uses'
 date: '2021-11-08 10:54:03'
 last_modified_at: '2022-08-19 11:28:26'
 description: "Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the uses.tech project."
@@ -15,8 +15,8 @@ toc: true
 - Maxed out 15-in [MacBook Pro i7 Mid 2015](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.5-15-iris-only-mid-2015-retina-display-specs.html) updated with a 1TB SSD by Samsung. 
 - 27-in Dell HD monitor
 - Wireless Apple Magic Keyboard 2
-- Wireless Apple Magic Mouse 2
-- [Razer Deathadder](https://www.razer.com/gaming-mice/razer-deathadder-v2/RZ01-03210100-R3U1) mouse
+- Wireless Logitech M350 Pebble mouse
+- [Razer Deathadder](https://www.razer.com/gaming-mice/razer-deathadder-v2/RZ01-03210100-R3U1) gaming mouse
 
 ### Music instruments
 
@@ -32,7 +32,7 @@ Previously: SWR Redhead (1990 to 2011) and Markbass Mini CMD 121P (2011 to 2016)
 - [Audient iD14](https://audient.com/products/audio-interfaces/id14/overview/)
 - Dedicated FX-Audio DAC-X6
 
-Previously: Focusrite Clarett 4Pre, Focusrite Saffire Pro 40 and Focusrite Saffire Pro 24.
+Previously: Focusrite Clarett 4Pre, Focusrite Saffire Pro 40 and Saffire Pro 24.
 
 ### Speakers and headphones
 
@@ -62,13 +62,13 @@ Previously: Focal Alpha 80 and AKG Studio K240.
 
 ### Mobile device
 
-- Redmi Note 7 dual-SIM by Xiaomi (since 2019), with 4GB RAM and 128GB storage with a 256 GB mini-SD card as additional storage.
+- Redmi Note 7 dual-SIM by Xiaomi (since 2019).
 
 Previously: Apple iPhone 4 to 8, iPad Pro and iPad Air.
 
 ### eReader
 
-- [Kobo Glo](https://www.the-ebook-reader.com/kobo-glo.html), kept in sync with [Calibre](https://calibre-ebook.com/)
+- [Kobo Glo](https://www.the-ebook-reader.com/kobo-glo.html) running [KOreader](http://koreader.rocks/) and kept in sync with [Calibre](https://calibre-ebook.com/).
 
 Previously: Kobo Touch and Kindle Paperwhite.
 
@@ -76,18 +76,17 @@ Previously: Kobo Touch and Kindle Paperwhite.
 
 ### Operating system(s)
 
-- macOS Monterey 12.5.1
+- macOS Catalina 10.15.7
 - Windows 11
-- Linux [Pop_OS!](https://pop.system76.com/)
 
 As a system-agnostic, I can easily work with any OS, depending on the task. I’m interested in experimentation but [opposed to updates for the sake of it](#update-policy).
 
 ### Digital Audio Workstations
 
 - [REAPER 6.x](https://www.reaper.fm/)&nbsp;(**[read why]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)**)
-- Logic Pro X 10.7.2
+- Logic Pro X 10.6.3
 - Pro Tools 12 (for legacy sessions)
-- Reason 8.2.3 (legacy edition that shouldn't theoretically work, but _it does_)
+- Reason 8.3.2 (legacy edition that shouldn't theoretically work, but _it does_)
 
 Previously: Notator, Cubasis Audio, Cubase VST 4, Logic Platinum 5 to Logic Pro 9, Pro Tools (subscription edition until 2021).
 
@@ -95,16 +94,12 @@ Previously: Notator, Cubasis Audio, Cubase VST 4, Logic Platinum 5 to Logic Pro 
 
 - [iZotope RX](https://www.izotope.com/en/products/rx.html)
 - [Triumph](https://www.zynaptiq.com/macaudioapps/)
-- [Audacity](https://www.audacityteam.org/)
 
 Previously: Cool Edit Pro, Sound Forge, Acid Pro, Vegas Pro, Apple Soundtrack, Adobe Audition, Steinberg WaveLab Pro.
 
 ### Audio software instruments
 
-Staples:
-
-- [Addictive Keys](https://www.xlnaudio.com/products/addictive_keys) by XLN
-- [Addictive Drums](https://www.xlnaudio.com/products/addictive_drums_2) by XLN
+- Addictive Drums and Addictive Keys by [XLN Audio](https://www.xlnaudio.com)
 - [Decent Sampler](https://www.decentsamples.com/product/decent-sampler-plugin/) by Decidedly, running the [Pianobook library](https://www.pianobook.co.uk/)
 - [LABS](https://labs.spitfireaudio.com/) by Spitfire
 - [Flow Motion FM Synth](https://www.waves.com/plugins/flow-motion-fm-synth) by Waves
@@ -113,38 +108,28 @@ Staples:
 - [XPand! 2](https://www.adsrsounds.com/product/software/air-music-tech-xpand2-all-in-one-workstation/) by Air
 - [Hollywood Strings Gold](https://www.soundsonline.com/hollywood-orchestra-opus-edition) by EastWest
 - [ReaSamplomatic 5000](https://reaperblog.net/2018/11/rs5k-velocity-round-robin/) by Cockos
-
-Other <abbr title="Virtual Instruments">VI</abbr>:
-
-- Logic native synthesizers and sampler
-- Reason 8.2.3 synthesizers and sampler
+- Reason 8.3.2 included VIs plus rack extensions such as Radical Piano and StringWERK
 - BBC Orchestra by Spitfire
-- [Iris 2](https://www.izotope.com/en/products/iris.html) by iZotope
-- [Workstation with Digital Synsation](https://www.uvi.net/en/vintage-corner/digital-synsations.html) library by UVI
 - [Bass Station](https://resource.novationmusic.com/software/bass-station) by Novation
 - [Podolski](https://u-he.com/products/podolski/) and [Tyrell](https://u-he.com/products/tyrelln6/) by U-he
-- [Surrealistic MG-1 Plus](https://cherryaudio.com/products/surrealistic-mg-1-plus) by Cherry Audio
 - [SR-88](https://www.audiothing.net/instruments/sr-88/) by AudioThing
-- [Syntronik Memory-V](https://www.ikmultimedia.com/products/synmemoryv/) by IK Multimedia
-- [Electric Grand 80](https://www.waves.com/plugins/electric-grand-80-piano#electric-grand-80-piano-virtual-instrument) by Waves
-- Retrologue by Steinberg 
 
 ### Audio processing plug-ins
 
-I focus on a few set of quality plug-ins, trying to learn them at my best.
+I only focus on a few set of quality plug-ins:
 
-- [Horizon bundle, Abbey Road, SSL 4000, CLA and API collections](https://www.waves.com/) plus others by Waves
-- [Soundtoys 5](https://www.soundtoys.com/product/soundtoys-5/) by soundtoys
-- [Ozone 9 advanced](https://www.izotope.com/en/shop/ozone-9-advanced.html) by iZotope
-- [SPAN plus](https://www.voxengo.com/product/spanplus/), MSED and [Correlometer](https://www.voxengo.com/product/correlometer/) by Voxengo
-- [VUMT deluxe](https://klanghelm.com/contents/products/VUMT.html) and [MJUC variable-tube compressor](https://klanghelm.com/contents/products/MJUC.html) by Klanghelm
-- [REAPER stock plug-ins](https://www.reaper.fm/reaplugs/) by Cockos
+- Horizon bundle, Abbey Road, SSL 4000, CLA and API series plus others by [Waves](https://www.waves.com/)
+- Soundtoys 5 by [soundtoys](https://www.soundtoys.com/product/soundtoys-5/)
+- SPAN plus, TEOTE, MSED and Correlometer by [Voxengo](https://www.voxengo.com)
+- VUMT deluxe and MJUC variable-tube compressor by [Klanghelm](https://klanghelm.com)
+- Ozone 9 advanced by [iZotope](https://www.izotope.com/en/shop/ozone-9-advanced.html)
+- REAPER stock plug-ins by [Cockos](https://www.reaper.fm/reaplugs/)
 
 Occasionally:
 
-- [Fog Convolver](https://www.audiothing.net/effects/fog-convolver/), Things collection and [Valves](https://www.audiothing.net/effects/valves/) by AudioThing
-- [Compressors Bank](https://www.mcdsp.com/plugin-index/compressor-bank/) by McDSP
-- [Melodyne 5](https://www.celemony.com/en/melodyne/melodyne-5-editions) by Celemony
+- Fog Convolver, Things collection and Valves by [AudioThing](https://www.audiothing.net)
+- Compressors Bank by [McDSP](https://www.mcdsp.com)
+- Melodyne 5 by [Celemony](https://www.celemony.com/)
 
 ### Game audio
 
@@ -155,16 +140,13 @@ Occasionally:
 
 Previously: [Microsoft’s XACT for Xbox]({{ site.url }}/projects/sound-design/console-game-ruff-trigger/#xbox) and in-house [MXE editor and middleware]({{ site.url }}/projects/sound-design/console-game-ruff-trigger).
 
-### Audio accessories
+### Audio-video accessories
 
 - [Stereo Monoizer](https://www.soundizers.com/)
 - [Myriad](https://www.zynaptiq.com/macaudioapps/)
-- [IINA player](https://iina.io/)
 - [Handbrake](https://handbrake.fr/)
 - [Explorer](https://soundparticles.com/products/explorer) by Sound Particles
-- [Adapter](https://macroplant.com/adapter)
 - [XLD](https://sourceforge.net/projects/xld/)
-- [MetaDigger](https://www.sound-ideas.com/Page/metadigger-data-management-software)
 
 ### Text editors
 
@@ -189,26 +171,18 @@ Previously: VS Code, Atom, Textmate, PS Pad.
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [Ungoogled Chromium]({{ site.url }}/blog/ungoogled-chromium/) (for testing purposes)
 - Safari (for testing purposes)
-- iOS Safari emulator (for testing purposes)
-
-Previously: Vivaldi, Chrome, Camino and Brave.
 
 ### E-mail
 
 - [Protonmail](https://proton.me/mail)
 - [Thunderbird](https://www.thunderbird.net)
 
-Previously: Fastmail, Gmail and Apple @mac.
-
 ### Image manipulation
 
 - [Sketch](https://www.sketch.com/) v59
-- [Figma](https://www.figma.com/)
 - [Pixelmator](https://www.pixelmator.com/)
 - [Graphic Converter](https://www.lemkesoft.de/en/products/graphicconverter/)
 - [ImageOptim](https://imageoptim.com/)
-- [GIMP](https://www.gimp.org/)
-- [Inkscape](https://inkscape.org/)
 
 Previously: Adobe Creative Suite.
 
@@ -220,14 +194,15 @@ Previously: Adobe InDesign, Quark Xpress and Aldus Pagemaker.
 
 ### Office
 
-- [LibreOffice](https://www.libreoffice.org/)
 - Apple's [Pages, Numbers, Keynote](https://www.apple.com/iwork/)
+- Google Workspace
+- Libreoffice
 
 ### RSS and news
 
-- [Reeder 5](https://reeder.app/) (for local RSS and Pocket articles)
+- [Feedbin](https://feedbin.com)
+- [Reeder 5](https://reeder.app/) (including Pocket for desktop)
 - [Pocket](https://www.mozilla.org/en-US/firefox/pocket/)
-- [Glider](https://f-droid.org/packages/nl.viter.glider/) (FOSS mobile client for Hacker News)
 
 ### Task management
 
@@ -239,17 +214,14 @@ Previously: Todoist, JIRA and Wunderlist.
 ### Messaging
 
 - [Telegram](https://telegram.org/)
-- [Signal](https://www.signal.org/)
 
 ### Music player
 
 - [Swinsian](http://www.swinsian.com)
-- [Retro Music](https://apt.izzysoft.de/fdroid/index/apk/code.name.monkey.retromusic) (FOSS mobile music player)
 
 ### Video player
 
 - [IINA](https://iina.io/)
-- [VLC](https://www.videolan.org/vlc/)
 
 ### Utilities
 
