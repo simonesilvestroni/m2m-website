@@ -4,7 +4,7 @@ title: 'Projects'
 date: '2021-11-08'
 last_modified_at: '2022-04-13 15:37:13'
 description: 'Alternating jobs between sound and web design, I’ve worked on many projects since the 1990s. A few highlights of the more representative.'
-excerpt: 'Alternating jobs between sound and web design, I’ve worked on many projects since the 1990s. The following are a selection of highlights for <a href="#sound-design"><strong>sound design</strong></a>, <a href="#web-design"><strong>web design</strong></a>, <a href="#publications"><strong>publications</strong></a> and <a href="#spotify-playlists"><strong>Spotify playlists</strong></a>. On a separate page it’s possible to read about my <a href="/music/"><strong>original music</strong></a>.'
+excerpt: 'Alternating jobs between sound and web design, I’ve worked on many projects since the 1990s. The following are a selection of highlights for <a href="#sound-design"><strong>sound design</strong></a>, <a href="#web-design"><strong>web design</strong></a>, <a href="#articles"><strong>articles</strong></a> and <a href="#spotify-playlists"><strong>Spotify playlists</strong></a>. On a separate page it’s possible to read about my <a href="/music/"><strong>original music</strong></a>.'
 permalink: '/projects/'
 ---
 {: .text-uppercase .border-white .text-center .text-md-start }
@@ -20,10 +20,10 @@ permalink: '/projects/'
 {% include card-project.html %}
 {% endfor %}
 
-<br>
-
 {: .text-uppercase .border-white .text-center .text-md-start }
 ## Web design
+
+There's also a [web design category](/blog/category/web-design/) in the blog, with insights and techniques.
 
 {%- assign webdesign = site.webdesign | reverse -%}
 
@@ -31,10 +31,8 @@ permalink: '/projects/'
 {% include card-project.html %}
 {% endfor %}
 
-<br>
-
 {: .text-uppercase .border-white .text-center .text-md-start }
-## Publications
+## Articles
 
 {% assign ebook = site.pages | where: "permalink", "/projects/project-management/" %}
 {% assign pubs = site.pubs %}
@@ -42,8 +40,6 @@ permalink: '/projects/'
 {% for project in publications %}
 {% include card-project.html %}
 {% endfor %}
-
-<br>
 
 {: .text-uppercase .border-white .text-center .text-md-start }
 ## Spotify playlists
