@@ -302,7 +302,7 @@ A more detailed example:
    * @returns string
    */
   function formatComments(comments) {
-    const headline = `<h2>${t('Comments')}</h2>`;
+    const headline = `<h2>${t('Webmentions')}</h2>`;
     const markup = comments
       .map((c) => {
         const image = reactImage(c, true);
