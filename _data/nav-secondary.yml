@@ -1,20 +1,33 @@
 - name: Newsletter
   link: /newsletter/
+  icon: 📒
 - name: RSS
   link: /rss/
+  icon: 📒
 - name: Archive
   link: /archive/
+  icon: 📒
 - name: Projects
   link: /projects/
-- name: Original music productions
+  icon: ⚙️
+- name: Original Music Productions
   link: /music/
-- name: Uses
-  link: /uses/
+  icon: ⚙️
 - name: Resume
   link: /resume/
-- name: Popular posts
+  icon: ⚙️
+- name: Uses
+  link: /uses/
+  icon: 📖
+- name: My Internet
+  link: /my-internet/
+  icon: 📖
+- name: Popular Posts
   link: /blog/popular/
+  icon: 📖
 - name: Blogroll
   link: /blogroll/
+  icon: 📖
 - name: Search
   link: /search/
+  icon: 🔎
