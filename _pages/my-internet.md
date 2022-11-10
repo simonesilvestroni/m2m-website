@@ -20,9 +20,9 @@ My first e-mail client was [Eudora](https://en.wikipedia.org/wiki/Eudora_(email_
 
 ## RSS
 
-[RSS](https://en.wikipedia.org/wiki/RSS) is still my primary mean to read online, as it has been for a long time. After using desktop clients for decades, I’ve recently switched to [Feedbin](https://feedbin.com/). The prompt was a need for consolidating several sources and cut the middle figures. Their business model seems honest enough and the UI/UX is satisfying.
+[RSS](https://en.wikipedia.org/wiki/RSS) is still my primary mean to read online, as it has been for a long time. After having used desktop clients for decades, I’ve recently switched to [Feedbin](https://feedbin.com/). The prompt was a need to consolidate several sources and cut the middle figures. Their business model seems honest enough and the UI/UX is satisfying.
 
-I can have my newsletter there, collected together with a single tag, follow my YouTube subscriptions while avoiding the website altogether. This allows to *fully ignore* their algorithm, along with the noise of comments and whatnot. If the urge to interact comes up, it’s easy to click the link and go to the website.
+I can read newsletters there, collected within a single tag, follow my YouTube subscriptions while avoiding the website altogether. This strips their algorithm out, along with the noise of comments and whatnot. If the urge to interact comes up, it’s easy to click the link and go to the website.
 
 There are desktop clients and mobile apps — in fact, I own [Reeder 5](https://reederapp.com/), which supports Feedbin accounts. However, I seem to enjoy the web app considerably more.
 
@@ -46,19 +46,17 @@ Ever since Reeder 5 has introduced the possibility to add a [Pocket](https://get
 
 ## Social interactions
 
-I joined Mastodon in 2017, only to leave after a few months because I still was on Twitter and its mechanism of keeping people hooked on the platform. Three years later, I’d deleted all my social media accounts and [re-joined the Fediverse](https://indieweb.social/web/@m2m).
+I joined Mastodon in 2017, only to leave after a few months because I still was on Twitter and its mechanism of keeping people hooked on the platform. In 2020, I’d deleted all my social media accounts and [re-joined the Fediverse](https://indieweb.social/web/@m2m).
 
-I’ve been enjoying the community of people I’ve found on Mastodon. There’s been a setback recently, brought from the user influx from Twitter. Specifically: people who don’t spend five minutes to acclimatize to the platform trying to understand its mood and how it works for everyone.
+Another angle on the Fediverse that I joined is [Pixelfed](https://pixelfed.social/@m2m). Promoted as a humane alternative to Instagram, is (intuitively) a photo-sharing platform. It’s quiet and relaxing, probably because it’s got a small number of subscribers.
 
-Another place on the Fediverse I joined is [Pixelfed](https://pixelfed.social/@m2m). Promoted as a humane alternative to Instagram, is (intuitively) a photo-sharing platform. It’s quiet and relaxing, probably because it’s got a small number of subscribers.
+Outside the fediverse, I follow a few onine forums, in particular [Reaper’s](https://forum.cockos.com/forumdisplay.php?f=20). My Reddit account is strictly in read-mode, subscribing to a small bunch of sound design and game audio-related groups and checking them once a week.
 
-Outside the fediverse, I follow a few onine forums, in particular the one about [Cockos’ Reaper](https://forum.cockos.com/forumdisplay.php?f=20). My Reddit account is strictly in read-mode, subscribing to a small bunch of sound design and game audio-related groups and checking them once a week.
-
-I started in the 1990s with BBSes and Usenet newsgroups. I still miss both.
+I started in the 1990s with BBSes and Usenet newsgroups. Still missing both.
 
 ## Personal and work websites
 
-[Work on my website](/colophon/) is performed manually, after years on WordPress. It’s a minimalistic approach which perfectly suits my need to cut down on bloat and (digital) noise. I use Jekyll with its Liquid template language, writing posts in Markdown and deploying to Netlify. I love the process and it doesn’t cost a dime. Along with Mastodon, the blog is my way to reach out.
+[Work on my website](/colophon/) is performed manually, after years on WordPress. It’s a minimalistic approach which perfectly suits the need to cut down on bloat and (digital) noise. I use Jekyll with its Liquid template language, writing posts in Markdown and deploying to Netlify. I love the process and it doesn’t cost a dime. Along with Mastodon, the blog is my way of reaching out.
 
 I started bloggin in March 2002.
 
@@ -70,7 +68,7 @@ If, for whatever reason, the need to read mainstream news headlines arises, I us
 
 ## Chat
 
-While I still prefer e-mail for communicating with people, I have an account on Telegram and — unfortunately — WhatsApp. The latter feels forced onto me by the fact I’m about to move abroad again, and apparently everyone in my home country is addicted to Meta. Talk about herd mentality.
+While I still prefer e-mail for communicating with people, I have an account on Telegram and — unfortunately — WhatsApp. The latter feels forced onto me by the fact I’m about to move abroad again, and apparently my home country is hooked on Meta.
 
 I used IRC for a very long time. Don’t even know why I stopped, maybe the [network effect](https://en.wikipedia.org/wiki/Network_effect).
 
