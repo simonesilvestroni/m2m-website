@@ -17,7 +17,7 @@ layout: default
   <span class="m2m-label text-center text-md-start pt-2">
     Topic: <a class="m2m-link text-uppercase p-1" href="/blog/category/{{ category | slugify | append: '/' }}"><span class="p-category">{{ category | upcase | replace:"-"," " }}</span></a>
   </span>
-  <span class="ps-3">💬 <a href="#comments">Comments</a></span>
+  <span class="ps-3">🔁 <a href="#comments">Reply</a></span>
   {%- endfor -%}
   <span class="d-none">
     {% include hcard-post.html %}
