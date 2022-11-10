@@ -9,7 +9,7 @@ permalink: '/more-links/'
 ---
 <ul>
   {% for item in site.data.nav-secondary -%}
-  <li>
+  <li class="py-1">
     <a class="pe-2{% if page.url == item.link %} m2m-current{% endif %}" href="{{ item.link }}" title="Go to: {{ item.name }}"><strong>{{ item.name }}</strong></a>
   </li>
   {% endfor -%}
