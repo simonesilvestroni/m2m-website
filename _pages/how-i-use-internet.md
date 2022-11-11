@@ -64,7 +64,7 @@ I started bloggin in March 2002.
 
 The only news outlet that I keep checking on regularly is [Legible News](https://legiblenews.com/). Like the newspapers of yore, they publish an update the day after. It’s slow, accurate, private and [doesn’t track](https://legiblenews.com/about).
 
-If, for whatever reason, the need to read mainstream news headlines arises, I use the [text version of NPR](https://text.npr.org/). Nine times out of ten, I don’t click the links. The number of times I find myself checking the site decreases exponentially over time.
+If, for whatever reason, the need to read mainstream news headlines arises, I use the [text version of NPR](https://text.npr.org/). Nine times out of ten, I don’t click the links. The number of times I find myself checking the site decreases exponentially over time. Every blue moon I check [The Guardian](https://www.theguardian.com/international) and [The Atlantic](https://www.theatlantic.com/world/), in search for long-form analysis that can be added to my read later list.
 
 ## Chat
 
