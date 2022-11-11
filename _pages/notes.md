@@ -10,6 +10,6 @@ robots: 'noindex,follow'
 ---
 <ul>
 {% for note in site.notes reversed %}
-  <li>📒 <a href="{{ note.url }}">{{ note.date | date: "%-d %b %Y %T" }}</a></li>
+  <li class="py-1">📒 <a href="{{ note.url }}">{{ note.date | date: "%-d %b %Y %T" }}</a></li>
 {% endfor %}
 </ul>
