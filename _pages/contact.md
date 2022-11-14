@@ -15,9 +15,11 @@ If you need bass tracks or production, it’s also possible to hire me through <
 
 While [I’m not]({{ site.url }}/blog/escape-from-social-media/) on Twitter, anything Meta or TikTok, it’s possible to get in touch on several platforms:
 
+<ul>
 {% for item in site.data.nav-social -%}
-- [{{ item.name }}]({{ item.link }} "{{ item.name }}")
+<li class="py-1"><a href="{{ item.link }}" title="{{ item.name }}">{{ item.name }}</a></li>
 {% endfor %}
+</ul>
 
 ## PGP key
 
