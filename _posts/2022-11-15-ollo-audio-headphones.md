@@ -17,7 +17,7 @@ featimage-alt: 'Ollo S4X headphones'
 ---
 Several months ago, after reading a tempting professional review of the same model, I opted out because I had different priorities and deemed them unaffordable. 
 
-Generally considered as the NS-10 of headphones, for several years a trusted classic Sony MDR-7506 were my go-to. Never had particular issues, except for ear fatigue over long sessions.
+Generally considered as the NS-10 of headphones, for several years the trusted classic Sony MDR-7506 were my go-to. Never had particular issues, except for ear fatigue over long sessions.
 
 ## 5 things I love about Ollo's S4X
 
@@ -33,7 +33,7 @@ Generally considered as the NS-10 of headphones, for several years a trusted cla
 
 5️⃣ As I've tried them on for hours, mixing and listening, I can report **no ear fatigue**, which is precious.
 
-## Reviews
+## Other reviews
 
 Unpacking, test, a bit of technical details and a funny comparison against the Sennheiser HD-600 by London-based mastering engineer Streaky:
 
