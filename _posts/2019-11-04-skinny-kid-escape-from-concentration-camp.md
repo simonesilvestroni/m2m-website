@@ -3,7 +3,7 @@ title: 'Skinny Kid: escape from a concentration camp'
 date: '2019-11-04'
 last_modified_at: '2021-11-13 13:29:01'
 categories:
-  - 'Video release'
+  - 'Music video'
 tags:
   - alternative rock
   - concept album

@@ -3,7 +3,7 @@ title: 'A Little Boy That Santa Claus Forgot On A B-29'
 date: '2020-08-06'
 last_modified_at: '2021-11-12 13:34:54'
 categories:
-  - 'Video release'
+  - 'Music video'
 tags:
   - atomic bomb
   - berlin
