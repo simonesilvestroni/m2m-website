@@ -12,6 +12,7 @@ description: ''
 excerpt: 'Four days ago my friend and music partner <a href="https://emilioalbertoni.com">Emilio</a> brought to my attention a fantastic 24-hours-only 40% discount on the S4X reference headphones by Ollo Audio. I bought them.'
 featimage: true
 featimage-name: 'ollo-s4x.jpg'
+featimage-url: '/assets/images/ollo-s4x.jpg'
 featimage-alt: 'Ollo S4X headphones'
 ---
 Several months ago, after reading a tempting professional review of the same model, I opted out because I had different priorities and deemed them unaffordable. 
