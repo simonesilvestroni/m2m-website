@@ -2,7 +2,7 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2022-11-10 00:31:54'
+last_modified_at: '2022-11-15 17:01:39'
 description: "Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the uses.tech project."
 excerpt: 'Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the <a href="https://uses.tech/">uses.tech</a> project. None of the links are affiliate.'
 permalink: '/uses/'
@@ -34,14 +34,19 @@ Previously: SWR Redhead (1990 to 2011) and Markbass Mini CMD 121P (2011 to 2016)
 
 Previously: Focusrite Clarett 4Pre, Focusrite Saffire Pro 40 and Saffire Pro 24.
 
-### Speakers and headphones
+### Speakers
 
 - Yamaha [HS5](https://www.yamaha.com/en/about/innovation/collection/detail/8050/)
-- Sony [MDR-7506](https://pro.sony/ue_US/products/headphones/mdr-7506)
-- Beyerdynamic [DT 770 Pro](https://global.beyerdynamic.com/dt-770-pro.html)
-- Sennheiser [HD 450BT](https://en-us.sennheiser.com/hd-450-bt) with active noise cancellation (not for production work)
 
-Previously: Focal Alpha 80 and AKG Studio K240.
+Previously: Focal Alpha 80.
+
+### Headphones
+
+- Ollo Audio [S4X](/blog/ollo-audio-headphones/)
+- Sony [MDR-7506](https://pro.sony/ue_US/products/headphones/mdr-7506) (for testing)
+- Beyerdynamic [DT 770 Pro](https://global.beyerdynamic.com/dt-770-pro.html) (for recording bass)
+
+Previously: AKG Studio K240.
 
 ### MIDI controllers
 
