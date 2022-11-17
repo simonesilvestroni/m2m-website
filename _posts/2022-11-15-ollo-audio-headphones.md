@@ -8,7 +8,7 @@ tags:
   - 'headphones'
   - 'ollo audio'
   - 'music equipment'
-description: ''
+description: 'I bought a new pair of exceptional open-back headphones by Ollo Audio, the S4X model. Here’s a quick review.'
 excerpt: 'Four days ago my friend and music partner <a href="https://emilioalbertoni.com">Emilio</a> brought to my attention a fantastic 24-hours-only 40% discount on the S4X reference headphones by Ollo Audio. I bought them.'
 featimage: true
 featimage-name: 'ollo-s4x.jpg'

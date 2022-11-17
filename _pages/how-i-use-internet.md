@@ -3,7 +3,7 @@ layout: page
 title: 'How I Use Internet'
 date: '2022-11-10 10:14:30'
 last_modified_at: '2022-11-10 10:14:34'
-description: ""
+description: "A brief description of how I use the internet in 2022, two years after leaving the major social networks."
 excerpt: 'Inspired by Michael Harley’s <a href="https://obsolete29.com/posts/2022/11/07/how-i-internet/">How I internet</a>, which was inspired by Cassey Lottman’s, <a href="https://www.cassey.dev/posts/2022-11-05-my-internet/">My Internet</a>, I’m sharing how I spend my time online.'
 permalink: '/how-i-use-internet/'
 toc: true
