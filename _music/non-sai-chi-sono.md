@@ -20,7 +20,7 @@ featimage: true
 ---
 ## Release
 
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=2164870187/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/track/non-sai-chi-sono-remix">Non sai chi sono (remix) by Minutes to Midnight + Emilio Albertoni</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=2164870187/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/track/non-sai-chi-sono-remix">Non sai chi sono (remix) by Minutes to Midnight + Emilio Albertoni</a></iframe>' %}
 
 ## Backstory
 

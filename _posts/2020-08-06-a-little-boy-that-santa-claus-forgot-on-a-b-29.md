@@ -72,7 +72,7 @@ The contrast between the Christmas carol-like music of the final section, and th
 
 Here is the demo of the song, at the time **entirely played by Paolo Clementi** with the acoustic viola. We recorded dozen of tracks, while he played the solo on top of these layers. Both the solo and the final viola riff made it to the final version.
 
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2694261691/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=793443290/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom-original-demos-outtakes">After 1989: A Trip To Freedom (Original Demos &amp; Outtakes) by Minutes to Midnight</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2694261691/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=793443290/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom-original-demos-outtakes">After 1989: A Trip To Freedom (Original Demos &amp; Outtakes) by Minutes to Midnight</a></iframe>' %}
 
 {: .text-center .fs-4 .my-5 .py-3 }
 📖 [Read the **album analysis** →]({{ site.url }}/music/after-1989/)

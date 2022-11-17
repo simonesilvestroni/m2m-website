@@ -16,7 +16,7 @@ On the music side:
 
 The new album, tentatively titled _Crossing The Rubicon_, will be produced by myself, with a very compact line-up. I will be working with two sets of people, one per language. For the English section I’ll be joined by multi-instrumentalist **Gerald Duchene from New York** and the amazing singer **Rachel Goodman from Augusta (Georgia)**.
 
-For the Italian section I’ll be working with fellow producer and multi-instrumentalist **Emilio Albertoni** from my hometown Ravenna, with whom I released a single last year titled [_Non sai chi sono_ ↗︎](https://music.minutestomidnight.co.uk/track/non-sai-chi-sono-remix).
+For the Italian section I’ll be working with fellow producer and multi-instrumentalist **Emilio Albertoni** from my hometown Ravenna, with whom I released a single last year titled [_Non sai chi sono_ ↗︎](https://minutestomidnight.bandcamp.com/track/non-sai-chi-sono-remix).
 
 In other news, I joined Mastodon a week ago, enjoying its noticeable difference from Twitter and mainstream social media. So far so good. Read the [**Mastodon update** ↗︎](/blog/joining-mastodon/).
 

@@ -19,7 +19,7 @@ featimage: true
 ---
 ## Release
 
-{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2694261691/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom-original-demos-outtakes">After 1989: A Trip To Freedom (Original Demos &amp; Outtakes) by Minutes to Midnight</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2694261691/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom-original-demos-outtakes">After 1989: A Trip To Freedom (Original Demos &amp; Outtakes) by Minutes to Midnight</a></iframe>' %}
 
 ## Production notes
 

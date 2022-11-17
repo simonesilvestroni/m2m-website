@@ -20,7 +20,7 @@ featimage: true
 ---
 ## Release
 
-{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=367059768/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/album/the-die-is-cast-ep-preview">The Die Is Cast (EP preview) by Minutes to Midnight + Antiquity</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=367059768/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/the-die-is-cast-ep-preview">The Die Is Cast (EP preview) by Minutes to Midnight + Antiquity</a></iframe>' %}
 
 ## Backstory
 

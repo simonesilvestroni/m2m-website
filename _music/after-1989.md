@@ -20,7 +20,7 @@ featimage: true
 ---
 ## Release
 
-{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 
 ## The story
 
@@ -29,7 +29,7 @@ featimage: true
 {: .text-center .fs-4 .my-5 .py-3 }
 📖 [Read the **full story** →]({{ site.url }}/blog/after-1989-full-story/)
 
-On [Bandcamp](https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom), the album features:
+On [Bandcamp](https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom), the album features:
 
 - online streaming,
 - download in **high-resolution audio**,
@@ -125,7 +125,7 @@ Fun fact: the very first version of the song _The Logic_ was written in Italian 
 
 ### Release
 
-**Christopher Carvalho** of Unlock Your Sound, manager for _After 1989_, massively helped with the release campaign, including on social media and music submission websites. A proper word-of-mouth was key, especially with the selling of the [limited edition CD](https://music.minutestomidnight.co.uk/album/after-1989-a-trip-to-freedom). I sold most copies by meeting with people and discussing the album.
+**Christopher Carvalho** of Unlock Your Sound, manager for _After 1989_, massively helped with the release campaign, including on social media and music submission websites. A proper word-of-mouth was key, especially with the selling of the [limited edition CD](https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom). I sold most copies by meeting with people and discussing the album.
 
 At the time, I chose **CD Baby** for digital distribution. As a member of PRS and PPL in the UK, I also went to CD Baby for publishing rights.
 

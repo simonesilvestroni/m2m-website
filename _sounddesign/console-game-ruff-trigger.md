@@ -85,7 +85,7 @@ Whenever I wanted to **offload CPU from Logic**, I tended to run Vegas Pro or Cu
 
 ### Adaptive soundtrack
 
-I initially worked with a colleague, a musician and 3D artist. Before he got permanently moved to the 3D department, we managed to record and mix several brilliant pieces who [went unused in the final game](https://music.minutestomidnight.co.uk/track/requiem), mostly because the game levels iterated frequently and the music wasn't right anymore.
+I initially worked with a colleague, a musician and 3D artist. Before he got permanently moved to the 3D department, we managed to record and mix several brilliant pieces who [went unused in the final game](https://minutestomidnight.bandcamp.com/track/requiem), mostly because the game levels iterated frequently and the music wasn't right anymore.
 
 Working closely with the audio programmer, I **implemented an adaptive soundtrack** within the in-house game engine MXE&reg;. What we did was deploying stems divided in overlaying chunks. Similarly to what can be achieved today with **audio middleware**, the layers could be triggered by specific parameters based on different situations in the gameplay, thus helping increase or decrease the tension.
 

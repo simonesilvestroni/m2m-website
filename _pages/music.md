@@ -17,4 +17,4 @@ permalink: '/music/'
 </section>
 
 {: .text-center .fs-4 }
-💿 [My music on **Bandcamp** ↗︎](https://music.minutestomidnight.co.uk)
+💿 [My music on **Bandcamp** ↗︎](https://minutestomidnight.bandcamp.com)

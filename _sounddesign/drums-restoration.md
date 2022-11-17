@@ -61,7 +61,7 @@ I chose a gentle **drum doubling technique**: after a full MIDI capture of kick,
 
 ## Isolating drums from a mastered track
 
-For the last twenty years, I've been obsessed with the idea of recovering my late cousin's drum playing so that I could have him on my tracks. I did it with my song [_The Logic_](https://music.minutestomidnight.co.uk/track/the-logic), however that was more of a drum replacement process. In fact, I mostly used short sections and drum fills that were already in isolation in their original form. When iZotope released _Master Rebalance_ as part of Ozone and RX, I tried the full process of taking the drums out of songs.
+For the last twenty years, I've been obsessed with the idea of recovering my late cousin's drum playing so that I could have him on my tracks. I did it with my song [_The Logic_](https://minutestomidnight.bandcamp.com/track/the-logic), however that was more of a drum replacement process. In fact, I mostly used short sections and drum fills that were already in isolation in their original form. When iZotope released _Master Rebalance_ as part of Ozone and RX, I tried the full process of taking the drums out of songs.
 
 - In **Reaper**, I imported a full track from a CD he released with his band in the late 1990s.
 - Several passages of Ozone's module later, I successfully **removed vocals and bass**.
