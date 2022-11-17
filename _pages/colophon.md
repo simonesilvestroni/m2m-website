@@ -19,7 +19,7 @@ Developed from scratch using:
 - Vanilla javascript for [search module](https://github.com/daviddarnes/jekyll-search-js) and [webmentions](http://beesbuzz.biz)
 - Table of contents Liquid code by [Vladimir "allejo" Jimenez](https://github.com/allejo/jekyll-toc)
 - [Node](https://nodejs.org/) for building purposes
-- [GitLab](https://gitlab.com/simonesilvestroni/m2m-website.git)
+- [GitLab](https://github.com/simonesilvestroni/m2m-website)
 - [Netlify](https://netlify.com)
 
 ## Performance
