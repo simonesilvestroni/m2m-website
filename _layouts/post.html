@@ -7,7 +7,7 @@ layout: default
 {%- assign categories = page.categories -%}
 {%- endif -%}
 <div class="post-meta my-4">
-  <span class="pe-3">🕚 <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time></span>
+  <span class="pe-3">🕚 <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %b %Y" }}</time></span>
   {%- for category in categories -%}
   <a class="m2m-link text-uppercase p-1" href="/blog/category/{{ category | slugify | append: '/' }}"><span class="p-category rounded border bg-light py-1 px-2">{{ category | upcase | replace:"-"," " }}</span></a>
   {%- endfor -%}
