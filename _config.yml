@@ -51,11 +51,7 @@ brand:
 # Exclusions
 # -------------------
 exclude:
-  - node_modules/
-  - sass/
   - README.md
-  - package.json
-  - package-lock.json
 
 # -------------------
 # Inclusions
