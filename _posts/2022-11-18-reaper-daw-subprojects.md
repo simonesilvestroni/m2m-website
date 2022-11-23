@@ -18,7 +18,7 @@ syndicate:
 ---
 ## Preparing an album for mastering
 
-I'm currently mixing a 6-song album for the Cambridge-based band [Ember Rev](https://emberrev.bandcamp.com). Since the project is approaching the stage where I deliver the final stereo files to the master engineer ([Ian Shepherd](productionadvice.co.uk/about/)), an idea popped in: testing the album by checking the songs one after the other&nbsp;—&nbsp;interspersed with a 2-second pause&nbsp;—&nbsp;in a similar fashion as the master would be initially laid out in a DAW.
+I'm currently mixing a 6-song album for the Cambridge-based band [Ember Rev](https://emberrev.bandcamp.com). Since the project is approaching the stage where I deliver the final stereo files to the master engineer ([Ian Shepherd](https://www.productionadvice.co.uk/about/)), an idea popped in: testing the album by checking the songs one after the other&nbsp;—&nbsp;interspersed with a 2-second pause&nbsp;—&nbsp;in a similar fashion as the master would be initially laid out in a DAW.
 
 To do so, all the stereo mixes are loaded sequentially into a new project. The usual workflow for fixing issues would be to open the mix source session, apply the change, bounce the stereo master and re-import the wave file in the general album project, replacing the previous one.
 
