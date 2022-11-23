@@ -84,7 +84,7 @@ toc: true
 - macOS Catalina 10.15.7
 - Windows 10
 
-As a [system-agnostic](/tools/), I can easily work with any OS, depending on the task. I’m interested in experimentation but opposed to updates for the sake of it.
+As a system-agnostic, I can easily work with any OS, depending on the task. I’m interested in experimentation but opposed to updates for the sake of it.
 
 ### Digital Audio Workstations
 
