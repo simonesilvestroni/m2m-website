@@ -13,13 +13,13 @@ Developed from scratch using:
 
 - [Jekyll 4.2.1](https://jekyllrb.com/)
 - [Markdown (extended)](https://www.markdownguide.org/getting-started/)
-- [SASS](https://sass-lang.com/)
-- [Bootstrap 5.1](https://getbootstrap.com/)
-- [PostCSS](https://postcss.org/)
+- ~~SASS~~
+- ~~Bootstrap 5.1~~
+- ~~PostCSS~~
 - Vanilla javascript for [search module](https://github.com/daviddarnes/jekyll-search-js) and [webmentions](http://beesbuzz.biz)
 - Table of contents Liquid code by [Vladimir "allejo" Jimenez](https://github.com/allejo/jekyll-toc)
-- [Node](https://nodejs.org/) for building purposes
-- [GitLab](https://github.com/simonesilvestroni/m2m-website)
+- Bash for building purposes
+- [Github](https://github.com/simonesilvestroni/m2m-website)
 - [Netlify](https://netlify.com)
 
 ## Performance
