@@ -12,11 +12,11 @@ toc: true
 
 ### Workstation
 
-- Maxed out 15-in [MacBook Pro i7 Mid 2015](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.5-15-iris-only-mid-2015-retina-display-specs.html) updated with a 1TB SSD by Samsung. 
+- Maxed out 15-in [MacBook Pro i7 Mid 2015](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.5-15-iris-only-mid-2015-retina-display-specs.html) upgraded with an internal 1TB SSD. 
 - 27-in Dell HD monitor
-- Wireless Apple Magic Keyboard 2
 - Wireless Logitech M350 Pebble mouse
 - [Razer Deathadder](https://www.razer.com/gaming-mice/razer-deathadder-v2/RZ01-03210100-R3U1) gaming mouse
+- ~~Wireless Apple Magic Keyboard 2~~
 
 ### Music instruments
 
@@ -24,29 +24,28 @@ toc: true
 - [Fretless Fender Jazz](https://www.fender.com/en-US/electric-basses/jazz-bass/jaco-pastorius-jazz-bass/0196208800.html) bass (since 2016)
 - [Fender Stratocaster](https://www.fender.com/en-US/electric-guitars/stratocaster/player-stratocaster/0144502506.html) electric guitar (black)
 - [Tech 21 NYC Sansamp](https://www.tech21nyc.com/products/sansamp/bassdriver-di/) Bass Driver v2
-
-Previously: SWR Redhead (1990 to 2011) and Markbass Mini CMD 121P (2011 to 2016).
+- ~~SWR Redhead~~ (1990 to 2011)
+- ~~Markbass Mini CMD 121P~~ (2011 to 2016).
 
 ### Audio interface
 
 - [Audient iD14](https://audient.com/products/audio-interfaces/id14/overview/)
 - Dedicated FX-Audio DAC-X6
-
-Previously: Focusrite Clarett 4Pre, Focusrite Saffire Pro 40 and Saffire Pro 24.
+- ~~Focusrite Clarett 4Pre~~
+- ~~Focusrite Saffire Pro~~
+- ~~Saffire Pro 24~~
 
 ### Speakers
 
 - Yamaha [HS5](https://www.yamaha.com/en/about/innovation/collection/detail/8050/)
-
-Previously: Focal Alpha 80.
+- ~~Focal Alpha 80~~
 
 ### Headphones
 
 - Ollo Audio [S4X](/blog/ollo-audio-headphones/)
 - Sony [MDR-7506](https://pro.sony/ue_US/products/headphones/mdr-7506) (for testing)
 - Beyerdynamic [DT 770 Pro](https://global.beyerdynamic.com/dt-770-pro.html) (for recording bass)
-
-Previously: AKG Studio K240.
+- ~~AKG Studio K240~~
 
 ### MIDI controllers
 
@@ -67,40 +66,49 @@ Previously: AKG Studio K240.
 
 ### Mobile device
 
-- Redmi Note 7 dual-SIM by Xiaomi (since 2019).
-
-Previously: Apple iPhone 4 to 8, iPad Pro and iPad Air.
+- Redmi Note 7 dual-SIM by Xiaomi (since 2019)
+- ~~Apple iPhone 4 to 8~~
+- ~~iPad Pro~~
+- ~~iPad Air~~
 
 ### eReader
 
 - [Kobo Glo](https://www.the-ebook-reader.com/kobo-glo.html) running [KOreader](http://koreader.rocks/) and kept in sync with [Calibre](https://calibre-ebook.com/).
-
-Previously: Kobo Touch and Kindle Paperwhite.
+- ~~Kindle Paperwhite~~
+- ~~Kobo Touch~~
 
 ## Software
 
 ### Operating system(s)
 
 - macOS Catalina 10.15.7
-- Windows 11
+- Windows 10
 
-As a system-agnostic, I can easily work with any OS, depending on the task. I’m interested in experimentation but [opposed to updates for the sake of it](#update-policy).
+As a [system-agnostic](/tools/), I can easily work with any OS, depending on the task. I’m interested in experimentation but opposed to updates for the sake of it.
 
 ### Digital Audio Workstations
 
 - [REAPER 6.x](https://www.reaper.fm/)&nbsp;(**[read why]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)**)
-- Logic Pro X 10.6.3
-- Pro Tools 12 (for legacy sessions)
-- Reason 8.3.2 (legacy edition that shouldn't theoretically work, but _it does_)
-
-Previously: Notator, Cubasis Audio, Cubase VST 4, Logic Platinum 5 to Logic Pro 9, Pro Tools (subscription edition until 2021).
+- Logic Pro X 10.6.3 (legacy sessions and clients compatibility)
+- Pro Tools 12 (legacy sessions and clients compatibility)
+- Reason 8.3.2
+- ~~Pro Tools~~ (subscription edition until 2021)
+- ~~Logic Platinum 5 to Logic Pro 9~~
+- ~~Cubase VST 4~~
+- ~~Cubasis Audio~~
+- ~~Notator~~
 
 ### Audio editors
 
 - [iZotope RX](https://www.izotope.com/en/products/rx.html)
 - [Triumph](https://www.zynaptiq.com/macaudioapps/)
-
-Previously: Cool Edit Pro, Sound Forge, Acid Pro, Vegas Pro, Apple Soundtrack, Adobe Audition, Steinberg WaveLab Pro.
+- ~~Steinberg WaveLab Pro~~
+- ~~Adobe Audition~~
+- ~~Apple Soundtrack~~
+- ~~Vegas Pro~~
+- ~~Acid Pro~~
+- ~~Sound Forge~~
+- ~~Cool Edit Pro~~
 
 ### Audio software instruments
 
@@ -158,18 +166,10 @@ Previously: [Microsoft’s XACT for Xbox]({{ site.url }}/projects/sound-design/c
 - [Sublime Text 4](http://www.sublimetext.com/)&nbsp;(**[read why](https://tonsky.me/blog/sublime/)**)
 - [Typora](https://typora.io/)
 - [iA Writer](https://ia.net/writer)
-
-Previously: VS Code, Atom, Textmate, PS Pad.
-
-### FTP
-
-- [Panic Transmit](https://panic.com/transmit/)
-
-### Git
-
-- Terminal
-- [Sublime Merge](https://www.sublimemerge.com/) (currently in trial)
-- [Kaleidoscope](https://kaleidoscope.app/)
+- ~~VS Code~~
+- ~~Atom~~
+- ~~Textmate~~
+- ~~PS Pad~~
 
 ### Browser
 
@@ -188,41 +188,42 @@ Previously: VS Code, Atom, Textmate, PS Pad.
 - [Pixelmator](https://www.pixelmator.com/)
 - [Graphic Converter](https://www.lemkesoft.de/en/products/graphicconverter/)
 - [ImageOptim](https://imageoptim.com/)
-
-Previously: Adobe Creative Suite.
+- ~~Adobe Creative Suite~~
 
 ### Desktop publishing
 
 - [Affinity Publisher](https://affinity.serif.com/en-us/publisher/)
-
-Previously: Adobe InDesign, Quark Xpress and Aldus Pagemaker.
+- ~~Adobe InDesign~~
+- ~~Quark Xpress~~
+- ~~Aldus Pagemaker~~
 
 ### Office
 
 - Apple's [Pages, Numbers, Keynote](https://www.apple.com/iwork/)
-- Google Workspace
 - Libreoffice
+- ~~Google Workspace~~
+- ~~Microsoft Office~~
 
 ### RSS and news
 
 - [Feedbin](https://feedbin.com)
-- [Reeder 5](https://reeder.app/) (including Pocket for desktop)
 - [Pocket](https://www.mozilla.org/en-US/firefox/pocket/)
+- ~~Reeder 5~~
+- ~~NetNewsWire~~
 
 ### Task management
 
 - [Todo.txt](https://github.com/todotxt)
 - Trello
-
-Previously: Todoist, JIRA and Wunderlist.
-
-### Messaging
-
-- [Telegram](https://telegram.org/)
+- ~~Todoist~~
+- ~~JIRA~~
+- ~~Wunderlist~~
 
 ### Music player
 
 - [Swinsian](http://www.swinsian.com)
+- ~~iTunes~~
+- ~~WinAmp~~
 
 ### Video player
 
@@ -243,18 +244,6 @@ Previously: Todoist, JIRA and Wunderlist.
 
 - [Carbon Copy Cloner](https://bombich.com/)
 - [Backblaze](https://www.backblaze.com/)
-
-### Update policy
-
-I’m opposed to updates for the sake of it. It means I only upgrade for:
-
-- much-needed fixes
-- security updates
-- _really new features_, maybe because their users requested so
-
-Brilliant examples come from [Cockos Incorporated](https://cockos.com/) (makers of Reaper) and [Sublime HQ Pty Ltd](https://www.sublimehq.com/) (makers of Sublime Text): small entities with a decent and well-thought business model that doesn’t rip off customers and can move swiftly when needed. I’m more than happy to support by buying and upgrading their products, because I know I’ll be listened to.
-
-For the same reasons, I refuse to use Avid's products and pretty much everything that is locked-in with a _subscription model_, as well as I stopped caring for Logic updates ever since Apple had decided to tie them to their insane and arbitrarily idiotic yearly cycle of forced OS “upgrades”. **Planned obsolescence** brought by multi-trillion-dollar companies is not my cup of tea.
 
 ---
 
