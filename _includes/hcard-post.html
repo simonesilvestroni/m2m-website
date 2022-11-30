@@ -2,7 +2,7 @@
   <img class="u-photo" src="{{ site.url }}/assets/images/minutestomidnight-avatar-uphoto.png" alt="Minutes to Midnight's avatar" width="48" height="48">
   <a class="p-name" href="{{ site.url }}" rel="author"><strong>Simone Silvestroni</strong></a>
 </span>
-<a class="u-url u-uid" href="{{ site.url }}{{ page.url }}" title="Permalink">Permalink: <em>{{ page.title }}</em></a>
+<a rel="me" class="u-url u-uid" href="{{ site.url }}{{ page.url }}" title="Permalink">Permalink: <em>{{ page.title }}</em></a>
 {% unless page.is_post %}
 {%- if page.syndication == true %}
   {% for s in page.syndicate -%}
