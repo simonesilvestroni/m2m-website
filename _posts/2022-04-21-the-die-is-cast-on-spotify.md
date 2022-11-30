@@ -27,4 +27,4 @@ excerpt: 'The EP <em>The Die Is Cast</em>, produced with <a href="https://minute
 [_The Die Is Cast_ on **YouTube Music** ↗︎](https://music.youtube.com/playlist?list=OLAK5uy_kCnefBUZzTLzVdXRUSXYZfxYwQgkd7hG8&feature=share)
 
 {: .d-inline-block .border .border-3 .rounded .my-5 .px-3 .py-3 }
-[Read the EP analysis →]({{ site.url }}/music/the-die-is-cast/)
+[Read the EP analysis →]({{ site.url }}/work/music/the-die-is-cast/)

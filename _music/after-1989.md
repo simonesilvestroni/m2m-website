@@ -48,7 +48,7 @@ _After 1989_ can also be found on:
 
 ## Production
 
-After completing the [demos]({{ site.url }}/music/after-1989-demos/), my friend and music partner [Paolo Clementi](https://www.discogs.com/artist/2390759-Paolo-Clementi-2) left the project in mid 2017. I'd decided to take some time and focus on graduating as a master engineer at Berklee, before spending most of 2018 working as a mix engineer and producer for clients in the UK and the US.
+After completing the [demos]({{ site.url }}/work/music/after-1989-demos/), my friend and music partner [Paolo Clementi](https://www.discogs.com/artist/2390759-Paolo-Clementi-2) left the project in mid 2017. I'd decided to take some time and focus on graduating as a master engineer at Berklee, before spending most of 2018 working as a mix engineer and producer for clients in the UK and the US.
 
 Alone with a project I've been working on for a long time and the 30th anniversary of the fall of the Berlin Wall approaching, I pushed towards revising the concept. A new synopsis with a simpler set of songs was drafted, while putting a new group of collaborators together.
 
@@ -95,7 +95,7 @@ Christopher Carvalho of [Unlock Your Sound](https://unlockyoursound.com), manage
 ## Reviews
 
 > Minutes to Midnight’s album is magical and haunting, giving the listener a way to both experience and reconcile the horrors and joys of the past. A journey of choices and consequences, a path of emotional growth. It is at once rock opera, gothic melancholy, family legend, and historical account, all blending together to create an album unlike any other.
-> <cite>— [Rosa Nadine Sanchéz Xochimilco]({{ site.url }}/music/after-1989-reviews/), author</cite>
+> <cite>— [Rosa Nadine Sanchéz Xochimilco]({{ site.url }}/work/music/after-1989-reviews/), author</cite>
 
 > The direct and immersive narrative allows history to speak for itself without being preachy or forced. The artist gives us a unique perspective of an outsider who manages to observe a great deal of pain without being directly subjected to it. Its themes are timely and human, and effortlessly connect with a modern audience. _After 1989_ is an immersive and interesting experiment in storytelling that will leave listeners meditating on its heavy themes.
 > <cite>— [IndieRepublik Berlin](https://indierepublik.com/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/)</cite>
