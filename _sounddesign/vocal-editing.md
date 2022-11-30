@@ -20,7 +20,7 @@ featimage: true
 featimage-url: '/assets/images/vocal-editing.jpg'
 featimage-height: '600'
 image-caption: true
-caption: 'Rachel Goodman, who <a href="/music/after-1989/">performed on my debut album</a>'
+caption: 'Rachel Goodman, who <a href="/work/music/after-1989/">performed on my debut album</a>'
 ---
 ## Vocal transformation
 
