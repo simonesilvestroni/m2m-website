@@ -43,7 +43,7 @@ The expression _minutes to midnight_ is a reference to the [Doomsday Clock](http
 
 ## About this website
 
-The website has been developed from scratch using:
+The website has been [developed from scratch](https://simonesilvestroni.com/projects/web-design/minutes-to-midnight/) using:
 
 - [Jekyll 4.2.1](https://jekyllrb.com/)
 - [Markdown (extended)](https://www.markdownguide.org/getting-started/)
