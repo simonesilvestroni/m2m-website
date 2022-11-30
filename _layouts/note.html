@@ -7,9 +7,6 @@ layout: default
       <time class="dt-published visually-hidden" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
     </span>
     <span class="d-inline-block border border-3 rounded px-3 py-3"><strong>In reply to</strong> <a href="{{ page.replyto }}" class="u-in-reply-to">{{ page.replyto }}</a> ↗</span>
-    <div class="visually-hidden">
-      {% include hcard-post.html %}
-    </div>
   </div>
   {{ content }}
 </div>

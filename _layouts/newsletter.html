@@ -8,9 +8,6 @@ layout: default
 </div>
 <div class="post-meta my-5">
   <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time><span class="ps-3"><em>Written by</em> Simone Silvestroni</span>
-  <span class="d-none">
-    {% include hcard-post.html %}
-  </span>
 </div>
 <div class="e-content">
   {{ content }}

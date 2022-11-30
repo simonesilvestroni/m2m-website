@@ -2,7 +2,6 @@
 layout: default
 ---
 <p>{% if page.author %}<em>Written by</em> {{page.author}}{% endif %}</p>
-
 <div class="post-meta mt-5">
   <div class="d-flex align-items-top">
     <div>
@@ -12,9 +11,7 @@ layout: default
       {% for skill in page.skillset -%}<span class="p-category rounded initialism border d-inline-block bg-light mb-2 me-1 py-0 px-1"><strong>{{ skill }}</strong></span>&nbsp;{%- endfor -%}  
     </div>
   </div>
-  <span class="visually-hidden">
-    {% include hcard-post.html %}
-  </span>
+  <span class="visually-hidden">{% include hcard-post.html %}</span>
 </div>
 <div class="e-content">
   {%- if page.featimage == true %}

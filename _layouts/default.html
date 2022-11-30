@@ -7,6 +7,9 @@
 {% endcomment %}
 {% include site-header.html %}
 <main class="h-entry m2m-main">
+  {% unless page.is_post %}
+  <span class="visually-hidden">{% include hcard-page.html %}</span>
+  {% endunless %}
   <article class="m2m-entry">
     <header class="mt-5">
       <div class="container m2m-container" id="m2m-content">
@@ -14,9 +17,7 @@
         {% if page.is_post %}
         <div class="post-meta my-5">
           <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time> {% if page.author %}<span>Written by {{page.author}}</span>{% endif %}
-          <span class="d-none">
-            {% include hcard-post.html %}
-          </span>
+          <span class="d-none">{% include hcard-post.html %}</span>
         </div>
         {% endif %}
         {%- if page.type == "tag" or page.type == "category" -%}
@@ -24,12 +25,7 @@
         {% endif %}
         {% unless page.layout == 'note' %}
         {%- if page.excerpt %}
-        <p class="p-summary lead">
-          {%- if page.collection == 'webdesign' %}
-          {{ page.summary }}
-          {% else %}
-          {{ page.excerpt }}</p>
-          {% endif %}
+        <p class="p-summary lead">{{ page.excerpt }}</p>
         {% endif -%}
         {% endunless %}
       </div>
