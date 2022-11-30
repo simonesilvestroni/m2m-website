@@ -2,10 +2,8 @@
 title: 'After 1989'
 date: '2019-11-09 10:51:42'
 last_modified_at: '2022-08-12 15:46:08'
-year: "2019"
-type: "music"
-subtype: "original music"
-kind: Album
+author: 'Simone Silvestroni'
+year: '2019'
 skillset: 
   - "composition"
   - "arrangement"
@@ -13,34 +11,29 @@ skillset:
   - "production"
   - "mix"
   - "logic pro"
-description: "After 1989 is a concept album about a young man who escaped Germany in 1945, while his grandson made the other way round, looking for answers in 2017."
-excerpt: "<strong><em>After 1989</em> is a concept album</strong> about how a young man escaped Germany during World War II, while his grandson retraced his steps 30 years after the Berlin wall."
+description: "A concept album about a young man who escaped Germany in 1945, while his grandson made the other way round, looking for answers in 2017."
+excerpt: "A concept album</strong> about how a young man escaped Germany during World War II, while his grandson retraced his steps 30 years after the Berlin wall."
 toc: true
 featimage: true
 ---
-## Release
+## The concept
+
+Three decades after the fall of the Berlin Wall, the autobiographical tale of how my grandfather escaped a concentration camp in 1945, while I made the other way round, looking for answers that I could only find in 2017.
+
+{: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
+Read the [**full story**]({{ site.url }}/blog/after-1989-full-story/) →
+
+## On Bandcamp
 
 {% include pattern-bandcamp.html size="bc-album" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 
-## The story
+The album features download in _high-resolution audio_, online streaming, a PDF booklet containing synopsis and lyrics (in English and Italian) and a beautiful [limited edition CD](https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom).
 
-**Three decades after the fall of the Berlin Wall**, the autobiographical tale of how my grandfather escaped a concentration camp in 1945, while I made the other way round, looking for answers that I could only find in 2017.
-
-{: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read the **full story** →]({{ site.url }}/blog/after-1989-full-story/)
-
-On [Bandcamp](https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom), the album features:
-
-- online streaming,
-- download in **high-resolution audio**,
-- a PDF booklet containing synopsis and lyrics (in English and Italian),
-- the beautiful **limited edition CD**.
-
-## Complete video playlist
+## On YouTube
 
 {% include pattern-video-list.html id="PLR26aYJQa09PleTolHJU9AXACUHWsdu6s" %}
 
-## Streaming on digital platforms
+## Streaming
 
 _After 1989_ can also be found on:
 
@@ -53,81 +46,51 @@ _After 1989_ can also be found on:
 - [Pandora](https://www.pandora.com/artist/minutes-to-midnight/after-1989-a-trip-to-freedom/ALzVZxbgvJ26zK6)
 - [Soundcloud](https://soundcloud.com/simonesilvestroni/sets/after-1989-a-trip-to-freedom)
 
-## Production notes
+## Production
 
-Mid 2017: after I [completed the demos]({{ site.url }}/music/after-1989-demos/) using Propellerhead's Reason, my friend and music partner Paolo left the project. I decided to take some time and focus on graduating as a **master engineer at Berklee**. I then spent most of 2018 working as a mix engineer and producer for clients in the UK and the US, including [performing in a dozen of live concerts]({{ site.url }}/blog/live-shows/) around the south of England.
+After completing the [demos]({{ site.url }}/music/after-1989-demos/), my friend and music partner [Paolo Clementi](https://www.discogs.com/artist/2390759-Paolo-Clementi-2) left the project in mid 2017. I'd decided to take some time and focus on graduating as a master engineer at Berklee, before spending most of 2018 working as a mix engineer and producer for clients in the UK and the US.
 
-At the end of the year, as the 30th anniversary of the fall of the Berlin Wall was approaching, I found myself alone with a project I've been working on for a long time. Surprisingly, this gave me a decisive push towards **revising the whole concept**. Even before Paolo left, I'd been unhappy about the creative direction for a while, so at the start of 2019 I drafted a new synopsis with a simpler set of songs and started putting together a new group of collaborators.
+Alone with a project I've been working on for a long time and the 30th anniversary of the fall of the Berlin Wall approaching, I pushed towards revising the concept. A new synopsis with a simpler set of songs was drafted, while putting a new group of collaborators together.
 
-The renewed project touched the same story but **changed the perspective**. No third-person narration, no _theatrical persona_. Since the inspiration was my grandfather and his traumatic experience in a concentration camp in Germany, _I became the narrator_. After a steady research through war archives, official letters, family tales and a quest to find out where he spent those four years, I connected my **young years spent during the Cold War** to his not-so-distant wartime.
+The renewed project revolved around the same story but _changed the perspective_. No third-person narration, no theatrical persona. Since my grandfather and his traumatic experience in a concentration camp in Germany was the inspiration, _I became the narrator_. 
 
-### The line-up
+While researching through war archives in two nations, official letters and family tales, the quest to unfurl his story connected with my youth during the Cold War.
 
-To efficiently convey the new storyline, my first decision was to abandon the idea of an instrumental album. I wanted songs, as in _music and lyrics_, therefore finding a lead singer was paramount. Since [Rachel Goodman](https://www.youtube.com/channel/UCGztQW1g4fPy1Bz1nmiIpJw) couldn't be available for a full album, I met [Dan Ecclestone]({{ site.url }}/blog/ember-rev-premonition-and-ruin/) in Cambridge and agreed on working together on our respective albums. I then involved [Gerald Duchene]({{ site.url}}/blog/tag/gerald-duchene/) to help with guitars and saxophone, [Andy Bonnor](http://www.inyourdreams.fi/) on drums and [Callum Gardner]({{ site.url}}/blog/tag/callum-gardner/) on acoustic guitar and backing vocals.
+### Band line-up
 
-Even though I initially considered scraping Paolo's contributions, I ended up keeping his amazing work on half of the songs, including several of his arrangements, a few guitar solos and his **beautiful viola**.
+To better convey the storyline, my first decision was to have songs instead of instrumentals. Since [Rachel Goodman](https://www.youtube.com/channel/UCGztQW1g4fPy1Bz1nmiIpJw) couldn't be available for a full album, finding a lead singer was paramount. After meeting [Dan Ecclestone]({{ site.url }}/blog/ember-rev-premonition-and-ruin/) in Cambridge, we agreed on working together on our respective albums. 
+
+I then involved [Gerald Duchene]({{ site.url}}/blog/tag/gerald-duchene/) to help with guitars and saxophone, [Andy Bonnor](http://www.inyourdreams.fi/) on drums and [Callum Gardner]({{ site.url}}/blog/tag/callum-gardner/) on acoustic guitar and backing vocals.
+
+I kept a good amount of Paolo's contributions, including a few arrangements, two guitar solos and his beautiful viola.
 
 ### Tracklist
 
-The songs followed this new idea of a _liaison_ between my grandfather's escape from Berlin and me going back to the same place decades later, **to see his prison**. I thought about representing the narration as a train trip to the concentration camp where each station, as announced by the tannoy system, was a different point in history.
+The songs followed a _liaison_ between my grandfather's escape from Berlin and me going back to the same place decades later, to see his prison in person. I wanted to represent the narration as a train trip to the concentration camp where each station, as announced by the tannoy system, was a different point in history.
 
-The album **shrinked from 16 pieces to 10 songs**. By axing redundant intros and all the instrumentals that I didn't write or didn't fit into my vision of the story, I managed to reduce the running time from `49` minutes to `32`. I also penned the closing track _Sachsenhausen_.
+The album shrinked from 16 pieces to 10 songs. By axing redundant intros and all the instrumentals that didn't fit the vision, the running time went from 50 minutes to 32.
 
 ### Workflow
 
-In between the two stages of _After 1989_, I **went back to Logic Pro**. Exported all the tracks with and without Reason's native processing, imported into Logic projects, rearranged sections, edited MIDI parts and wrote the lyrics. I then sung all the test vocals, played piano, rewrote previous ideas and morphed them into new songs. The peculiar and [complicated story of the leading single]({{ site.url }}/blog/skinny-kid-song-backstory/) is emblematic of this stage.
-
-All in all I had come up with **a complete new demo** in a relatively short time.
+In between the two stages of _After 1989_, I went back to Logic Pro. Importing all the tracks into Logic sessions allowed new arrangements to accommodate the lyrics I was writing. All in all, I had come up with a complete new demo in a relatively short time.
 
 ### Collaboration
 
-While Dan and I were both in Cambridge and Callum lived in nearby London, working with other collaborators wasn't difficult either. These days it's easy to master a <abbr title="Digital Audio Workstation">DAW</abbr> and use a shared cloud disk space. Gerald is a Logic Pro user so working with him was substantially straightforward. Everyone else had to **render their stems** using the correct formats and hand them over. I basically applied the same process when I had to import my own audio and MIDI tracks from the Reason demos.
+While Dan and I were both in Cambridge and Callum lived in nearby London, any work with other collaborators happened remotely. As a Logic user himself, working with Gerald was straightforward. Everyone else had to render their tracks using the correct formats and hand them over. I basically applied the same process when I had to import my own audio and MIDI tracks from the Reason demos.
 
-Overall, _After 1989_ was recorded in Ravenna and Milan (**Italy**), London and Cambridge (**UK**), Aiken and New York (**United States**), Mikkeli (**Finland**), Berlin (**Germany**).
+_After 1989_ was recorded in Italy, United Kingdom, United States, Finland and Germany.
 
 ### Mix and master
 
-The next phase was edit, polish and mix. I employed a technique borrowed from **Andrew Scheps**: work on three songs at the same time. This way I could focus on the big picture, exchanging methods between different pieces as I moved along.
+I employed a technique borrowed from Andrew Scheps: work on three songs at the same time. This way I could focus on the big picture, exchanging methods between different pieces as I moved along.
 
-I also eagerly dived more deeply into [Michael Brauer's multi-bus compression](https://brauerizing.wordpress.com/) technique, which I already experimented with in previous productions. More powerful and even better refined, today it's still a staple in my templates.
+I also dove into [Michael Brauer's multi-bus compression technique](https://brauerizing.wordpress.com/), which I already experimented with in previous productions.
 
-{: .detached .text-center .my-5 }
-![My current multi-bus tracks in REAPER]({{ site.url }}/assets/images/multi-bus-brauer.png){: width='420' height='687' }
-
-In a nutshell: instead of applying a single mix bus compressor, the multi-bus methodology requires sending different instruments, **grouped by function and frequency range**, to four different set of compressors. I route piano and other synths to bus A, drums and bass to bus B, guitars, certain strings and synths to bus C, sound effects plus reverbs and delays to bus D. This way, the compressors act on specific settings without squashing material that they're not suited for. A thorough [calibration](https://youtu.be/M0akUKhkok0) is required before starting to apply any routing.
-
-Once the mix was complete, I engaged with renowned master engineer **Ian Shepherd** (co-author of the famous _Loudness penalty_ website and organizer of Dynamic Range Day), who perfected it all.
-
-### Software used
-
-As a long-term project, it's hard to write down an exaustive list of all the software used by myself and my collaborators.
-
-<table class="table table-striped my-5">
-  <tr>
-    <th class="text-end"><strong>DAWs</strong></th>
-    <td>Reason, Logic Pro X, Pro Tools, Ableton Live, Cubase.</td>
-  </tr>
-  <tr>
-    <th class="text-end"><strong>Editors</strong></th>
-    <td>iZotope RX, Wavelab, DSP Quattro, Triumph.</td>
-  </tr>
-  <tr>
-    <th class="text-end"><strong>VST</strong></th>
-    <td>Waves, Soundtoys, iZotope Ozone Advanced, Klanghelm, Voxengo.</td>
-  </tr>
-  <tr>
-    <th class="text-end"><strong>VSTi</strong></th>
-    <td>Addictive Drums, Addictive Keys, Alchemy, EastWest Hollywood Strings.</td>
-  </tr>
-</table>
-
-Fun fact: the very first version of the song _The Logic_ was written in Italian in 1995, using **Cubasis Pro v1.0 and a QY20 by Yamaha**.
+Once the mix was complete, I engaged with renowned master engineer [Ian Shepherd](https://www.productionadvice.co.uk/about/), co-author of the famous _Loudness penalty_ website and organizer of Dynamic Range Day, who perfected it all.
 
 ### Release
 
-**Christopher Carvalho** of Unlock Your Sound, manager for _After 1989_, massively helped with the release campaign, including on social media and music submission websites. A proper word-of-mouth was key, especially with the selling of the [limited edition CD](https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom). I sold most copies by meeting with people and discussing the album.
-
-At the time, I chose **CD Baby** for digital distribution. As a member of PRS and PPL in the UK, I also went to CD Baby for publishing rights.
+Christopher Carvalho of [Unlock Your Sound](https://unlockyoursound.com), manager for _After 1989_, massively helped with the release campaign, including on social media and music submission websites. A proper word-of-mouth was key, especially with the selling of the [limited edition CD](https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom). I sold most copies by meeting with people and discussing the album.
 
 ## Reviews
 
@@ -137,163 +100,92 @@ At the time, I chose **CD Baby** for digital distribution. As a member of PRS an
 > The direct and immersive narrative allows history to speak for itself without being preachy or forced. The artist gives us a unique perspective of an outsider who manages to observe a great deal of pain without being directly subjected to it. Its themes are timely and human, and effortlessly connect with a modern audience. _After 1989_ is an immersive and interesting experiment in storytelling that will leave listeners meditating on its heavy themes.
 > <cite>— [IndieRepublik Berlin](https://indierepublik.com/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/)</cite>
 
-{: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read **all the reviews** →]({{ site.url }}/music/after-1989-reviews/)
+{: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
+Read the [**all the reviews**]({{ site.url }}/work/music/after-1989-reviews/) →
 
 ## Credits
 
-Music and lyrics by **Simone Silvestroni**.  
-<br>
-_13 Days_, _Unter Den Linden_ and _Berlin 91_ arranged with **Paolo Clementi**.  
-_Requiem_ arranged with **Giuseppe Bianchi**.  
-Guitar solos by **Paolo Clementi**, except for _Skinny Kid_ by **Gerald Duchene**.  
-Sax solos by **Gerald Duchene**.  
-Piano solo in _The Day Before_ by **Dan Ecclestone**.  
-Viola theme in _Berlin 91_ by **Paolo Clementi**.
+Written by Simone Silvestroni.<br>
+_13 Days_, _Unter Den Linden_, _Berlin 91_ arranged by Paolo Clementi.<br>
+_Requiem_ arranged by Giuseppe Bianchi.
+
+Guitar solos by Paolo Clementi, except for _Skinny Kid_ by Gerald Duchene.<br>
+Sax solos by Gerald Duchene.<br>
+Piano solo in _The Day Before_ by Dan Ecclestone.<br>
+Viola theme in _Berlin 91_ by Paolo Clementi.
 
 ### Performers
 
-<h4 class="text-uppercase">Skinny Kid</h4>
+**Simone Silvestroni**<br>
+Bass, piano, synth, strings, drums, sound effects
 
-**Dan Ecclestone** / Lead & backing vocals  
-**Rachel Goodman** / Vocals  
-**Keven Howard Bellamy** / Backing vocals  
-**Gerald Duchene** / Electric guitars  
-**Simone Silvestroni** / Bass, keyboards, drums  
+**Paolo Clementi**<br>
+Electric and acoustic guitars, viola
 
-<h4 class="text-uppercase">A Little Boy That Santa Claus Forgot On A B-29</h4>
+**Dan Ecclestone**<br>
+Vocals on all songs, ukulele and toy piano on _Little Boy_, metallophone and piano solo on _The Day Before_, piano on _Sachsenhausen_
 
-**Dan Ecclestone** / Vocals, ukulele, toy piano  
-**Paolo Clementi** / Viola  
-**Callum Gardner** / Acoustic guitar  
-**Simone Silvestroni** / Fretless bass, drums
+**Rachel Goodman**<br>
+Vocals on _Skinny Kid_ and _The Logic_
 
-<h4 class="text-uppercase">The Logic</h4>
+**Gerald Duchene**<br>
+Electric guitar on _Skinny Kid_, saxophone
 
-**Rachel Goodman** / Lead & backing vocals  
-**Dan Ecclestone** / Lead vocals  
-**Paolo Clementi** / Electric guitars  
-**Gerald Duchene** / Saxophone  
-**Michele Frumento** / Drums  
-**Simone Silvestroni** / Fretless bass, piano, additional drums
+**Callum Gardner**<br>
+Acoustic guitar on _The Day Before_ and _Sachsenhausen_, backing vocals
 
-<h4 class="text-uppercase">13 Days</h4>
+**Giuseppe Bianchi**<br>
+Piano on _Requiem_
 
-**Dan Ecclestone** / Vocals  
-**Paolo Clementi** / Electric & acoustic guitars  
-**Andy Bonnor** (AndiA) / Drums  
-**Simone Silvestroni** / Bass, additional drums
+**Michele Frumento**<br>
+Drums on _The Logic_
 
-<h4 class="text-uppercase">Unter Den Linden</h4>
+**Andy Bonnor** (AndiA)<br>
+Drums on _13 Days_
 
-**Dan Ecclestone** / Lead & backing vocals  
-**Paolo Clementi** / Electric & acoustic guitars  
-**Simone Silvestroni** / Bass, piano, drums
-
-<h4 class="text-uppercase">Love Field</h4>
-
-**Dan Ecclestone** / Lead & backing vocals  
-**Paolo Clementi** / Electric guitars, viola  
-**Simone Silvestroni** / Bass, keyboards, strings, drums
-
-<h4 class="text-uppercase">Requiem</h4>
-
-**Giuseppe Bianchi** / Piano  
-**Simone Silvestroni** / Fretless bass, synth bass
-
-<h4 class="text-uppercase">The Day Before</h4>
-
-**Dan Ecclestone** / Lead vocals, piano solo, metallophone  
-**Callum Gardner** / Acoustic guitars, backing vocals  
-**Gerald Duchene** / Saxophone  
-**Simone Silvestroni** / Fretless & fretted bass, piano, drums
-
-<h4 class="text-uppercase">Berlin 91</h4>
-
-**Dan Ecclestone** / Lead & backing vocals  
-**Callum Gardner** / Backing vocals  
-**Paolo Clementi** / Electric & acoustic guitars, viola  
-**Simone Silvestroni** / Bass, keyboards, drums
-
-<h4 class="text-uppercase">Sachsenhausen</h4>
-
-**Dan Ecclestone** / Lead & backing vocals, piano  
-**Callum Gardner** / Acoustic guitars  
-**Simone Silvestroni** / Fretless bass, drums  
+**Keven Howard Bellamy**<br>
+Backing vocals on _Skinny Kid_
 
 ### Sound effects
 
-Original sound effects recording, editing and historical samples restoration by Simone Silvestroni. Original sounds recorded in Berlin between 2017 and 2019 and Cambridge in 2019. All historical sound effects are in the public domain.
+Field recordings in Berlin between 2017 and 2019 and Cambridge in 2019. Editing and historical samples restoration by Simone Silvestroni. All historical sound effects are in the public domain.
 
-<table class="table table-striped caption-top mt-4 mb-5">
-  <caption class="text-center text-uppercase fw-bold"><strong>List of sound effects</strong></caption>
-  <tr>
-    <th class="text-end" width="220"><strong>All songs</strong></th>
-    <td>Tannoy system of the S-Bahn 1 train from Central Berlin to Oranienburg (recorded in 2019).</td>
-  </tr>
-  <tr>
-    <th class="text-end"><strong>Skinny Kid</strong></th>
-    <td>BBC radio announcement (April 1945).</td>
-  </tr>
-  <tr>
-    <th class="text-end"><strong>'Little Boy'</strong></th>
-    <td>Harry Truman, TV speech (August 1945).</td>
-  </tr>
-  <tr>
-    <th class="text-end"><strong>The Logic</strong></th>
-    <td>John F. Kennedy, TV speech (December 1961); East German soldier screaming.</td>
-  </tr>
-  <tr>
-    <th class="text-end"><strong>13 Days</strong></th>
-    <td>John F. Kennedy, TV speech (October 1962); Adlai Stevenson, United Nations speech (October 1962).</td>
-  </tr>
-  <tr>
-    <th class="text-end"><strong>Unter Den Linden</strong></th>
-    <td>John F. Kennedy speech in Berlin (June 1963).</td>
-  </tr>
-  <tr>
-    <th class="text-end"><strong>Love Field</strong></th>
-    <td>Dallas radio live report from Love Field airport; Dallas police (November 1963).</td>
-  </tr>
-  <tr>
-    <th class="text-end"><strong>Requiem</strong></th>
-    <td>Robert F. Kennedy eulogy for Martin Luther King, Indianapolis (April 1968).</td>
-  </tr>
-  <tr>
-    <th class="text-end"><strong>The Day Before</strong></th>
-    <td>Children in a playground, Cambridge, UK (2019).</td>
-  </tr>
-  <tr>
-    <th class="text-end"><strong>Berlin 91</strong></th>
-    <td>Berlin Wall Memorial (2017).</td>
-  </tr>
-  <tr>
-    <th class="text-end"><strong>Sachsenhausen</strong></th>
-    <td>Birds and cars passing by, Oranienburg (2019).</td>
-  </tr>
-</table>
+In order of appearance:
+
+- Tannoy system of the S-Bahn 1 train from Central Berlin to Oranienburg, on all songs except for _Sachsenhausen_.
+- BBC radio announcement, April 1945.
+- Harry Truman: TV speech, August 1945.
+- John F. Kennedy: TV speech, December 1961.
+- East German soldier screaming during a military excercise.
+- John F. Kennedy: TV speech, October 1962.
+- Adlai Stevenson: United Nations speech, October 1962.
+- John F. Kennedy: speech in Berlin, June 1963.
+- Dallas radio live report from _Love Field_ airport, 23 November 1963.
+- Dallas police, 23 November 1963.
+- Robert F. Kennedy: eulogy for Martin Luther King in Indianapolis, April 1968.
+- Children in a playground: Cambridge, 2019.
+- Berlin Wall Memorial, 2017.
+- Birds and cars passing by: Oranienburg, 2019.
 
 ### Production
 
-Recorded, produced and mixed by Minutes to Midnight at the Garden Room, Cambridge, UK.  
-Mastered by [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd).  
-Management by Christopher Carvalho, [Unlock Your Sound Ltd](https://unlockyoursound.com).  
+Recorded, produced and mixed by Simone Silvestroni, Cambridge, UK.<br>
+Mastered by Ian Shepherd.<br>
+Management by Christopher Carvalho.
 
 ### Design
 
-Sleeve design by Simone Silvestroni.  
-Photography and cover photo digital retouch by [Silvia Maggi](https://silviamaggidesign.com), Berlin, Oranienburg, 2017-2019.  
-Cover photo by Dan Budnik: _An elderly woman, standing at the Berlin Wall, West sector, with hands raised, waiting to see her East Berlin friends and relatives_ (1961).    
+Sleeve design by Simone Silvestroni.<br>
+CD photography (Berlin and Oranienburg, 2017-2019) and cover photo digital retouch by [Silvia Maggi](https://silviamaggidesign.com).<br>
+Cover photo by Dan Budnik: _An elderly woman, standing at the Berlin Wall, West sector, with hands raised, waiting to see her East Berlin friends and relatives_ (1961).<br>
 CD photo by [Adam Jones](https://www.flickr.com/people/adam_jones): _Prisoner's Uniform with Red Triangle of Political Enemy: Majdanek Concentration Camp, Lublin, Poland_.  
 
 ### Thanks
 
 I wish to thank my wife, my core family and close friends, all present and past performers and professionals involved, and Julie McCrae. Always grateful for the continuous support and help.
 
-<p class="detached"><mark class="m2m-highlight small">Album released <strong>November 9, 2019</strong>.</mark></p>
+{: .detached .small }
+<sup>&copy;</sup> 2019 Music and lyrics by Simone Silvestroni. All rights reserved. The copyright in this sound recording is owned by Minutes to Midnight. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected. Made in the EU.
 
-<p class="detached small">
-  <sup>&copy;</sup> 2019 Music and lyrics Simone Silvestroni. All rights reserved.<br>
-  &copysr; 2019 The copyright in this sound recording is owned by Minutes to Midnight. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.<br>
-  Made in the EU.
-</p>
+{: .detached }
+<mark class="m2m-highlight small">Released <strong>9 November 2019</strong>.</mark>

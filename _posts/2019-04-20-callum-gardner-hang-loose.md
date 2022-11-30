@@ -2,6 +2,7 @@
 title: 'New Production: ‘Hang Loose’ by Callum Gardner'
 date: '2019-04-20'
 last_modified_at: '2021-11-14 17:44:39'
+author: 'Simone Silvestroni'
 categories:
   - 'Music release'
 tags:
@@ -12,13 +13,19 @@ tags:
 description: "London-based singer-songwriter and multi-instrumentalist Callum Gardner’s new single, 'Hang Loose', is out now. Produced by Minutes to Midnight."
 excerpt: 'London-based singer-songwriter Callum Gardner’s new single, ‘Hang Loose’, is out now. Produced by Minutes to Midnight.'
 ---
-## Video
+## On YouTube
 
 {% include pattern-video.html id="OeDQvTX9jiA" %}
 
-## Elsewhere
+## On Bandcamp
 
-The song is also available on [Bandcamp](https://callumgardner.bandcamp.com/track/hang-loose) and [Spotify](https://open.spotify.com/track/4fjsetRyxT355DTvrmYNqm?si=60f237f722114c47). Watch a video teaser of _Hang Loose_ [performed live at the Strongroom](https://youtu.be/VqOZbBRU-H8), in London.
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1148436830/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/hang-loose">Hang Loose by Callum Gardner</a></iframe>' %}
+
+## On Spotify
+
+{% include pattern-spotify.html id="4fjsetRyxT355DTvrmYNqm" height="80" %}
+
+Watch a video teaser of _Hang Loose_ [performed live at the Strongroom](https://youtu.be/VqOZbBRU-H8), in London.
 
 ## Production notes
 
@@ -30,16 +37,22 @@ Besides recording and producing the song, I worked as a bassist, contributing to
 
 ## Credits
 
-### Performers
+**Callum Gardner**<br>
+Vocals, acoustic guitar
 
-**Callum Gardner** / vocals, acoustic guitar  
-**Hugh Wheatley** / electric guitar, backing vocals  
-**Simone Silvestroni** / bass  
-**Arlen Millwall** / drums, backing vocals
+**Hugh Wheatley**<br>
+Electric guitar, backing vocals
 
-### Production
+**Simone Silvestroni**<br>
+Bass
 
-**Music, lyrics, production** / Callum Gardner  
-**Production, mix, master** / Minutes to Midnight  
+**Arlen Millwall**<br>
+Drums, backing vocals
 
-<p class="detached"><mark class="m2m-highlight small"><strong>Released</strong>: April 19, 2019</mark></p>
+## Production
+
+Written by Callum Gardner<br>
+Produced, mixed and mastered by Simone Silvestroni
+
+{: .detached }
+<mark class="m2m-highlight small"><strong>Released</strong>: April 19, 2019</mark>

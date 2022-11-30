@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Newsletter
+title: 'Newsletter'
 date: '2022-04-29'
 last_modified_at: '2022-04-29 01:11:38'
-description: 'My aperiodic newsletter. I only send one when I actually have updates to share, mostly about releases or facts from the audio, game and web industries.'
-excerpt: 'Aperiodic newsletter. I only send one when I actually have updates to share, mostly about releases or facts from the audio, game and web industries. You can reply directly and start a conversation: I always respond.'
+description: 'Aperiodic newsletter. We only send one when there are updates to share, mostly about releases or facts from the audio and game industries.'
+excerpt: 'Aperiodic newsletter. We only send one when there are updates to share, mostly about releases or facts from the audio and game industries.'
 permalink: '/newsletter/'
 ---
 Check an archive of [previous issues]({{ site.url }}/newsletter/archives/).

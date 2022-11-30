@@ -2,17 +2,18 @@
 layout: default
 ---
 <div class="e-content my-5">
+  <div class="post-meta mt-3 mb-5">
+    <span>
+      <time class="dt-published visually-hidden" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
+    </span>
+    <span class="d-inline-block border border-3 rounded px-3 py-3"><strong>In reply to</strong> <a href="{{ page.replyto }}" class="u-in-reply-to">{{ page.replyto }}</a> ↗</span>
+    <div class="visually-hidden">
+      {% include hcard-post.html %}
+    </div>
+  </div>
   {{ content }}
 </div>
 <div class="m2m-label text-center text-md-start pt-2">
-  <kbd>
-    <a class="m2m-link text-uppercase" href="/notes/">← <span class="p-category">Notes</span></a>
-  </kbd>
-</div>
-<div class="post-meta my-3">
-  <span class="visually-hidden">
-    <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
-    {% include hcard-post.html %}
-  </span>
+  <a class="btn-cta-m2m-bg d-inline-block text-decoration-none rounded my-2 px-2 py-1" href="/notes/">← <span class="p-category">Notes</span></a>
 </div>
 {%- include pattern-responses.html -%}

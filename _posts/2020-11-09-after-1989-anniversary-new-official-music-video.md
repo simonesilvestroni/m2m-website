@@ -2,6 +2,7 @@
 title: 'After 1989 anniversary: new music video'
 date: '2020-11-09'
 last_modified_at: '2021-11-09 18:28:48'
+author: 'Simone Silvestroni'
 categories:
   - 'Music release'
 tags:
@@ -24,21 +25,29 @@ To celebrate the first anniversary of the release, I published the 5th official 
 
 ## Credits
 
-### Performers
+**Rachel Goodman**<br>
+Vocals
 
-**Vocals** / Rachel Goodman, Dan Ecclestone   
-**Guitars** / Paolo Clementi  
-**Sax** / Gerald Duchene  
-**Bass, piano, additional drums, sound effects** / Simone Silvestroni  
-**Drums** / Michele Frumento
+**Dan Ecclestone**<br>
+Vocals
 
-### Production
+**Paolo Clementi**<br>
+Guitars
 
-**Music, lyrics and production** / Simone Silvestroni  
-**Master** / [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd)  
-**Management** / Christopher Carvalho, [Unlock Your Sound](https://unlockyoursound.com/) Ltd.
+**Gerald Duchene**<br>
+Sax
 
-<p class="detached"><mark class="m2m-highlight small"><strong>Released</strong>: November 9, 2020</mark></p>
+**Michele Frumento**<br>
+Drums
 
-{: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read the **album analysis** →]({{ site.url }}/music/after-1989/)
+**Simone Silvestroni**<br>
+Bass, piano, additional drums, sound effects
+
+## Production
+
+Written and produced by Simone Silvestroni<br>
+Mastered by Ian Shepherd<br>
+Management Christopher Carvalho of Unlock Your Sound
+
+{: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
+[Read the album analysis →](/work/music/after-1989/)

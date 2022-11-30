@@ -2,6 +2,7 @@
 title: '‘Hidden Music’, new album by Dan Ecclestone'
 date: '2021-01-11'
 last_modified_at: '2021-11-08 21:50:17'
+author: 'Simone Silvestroni'
 categories:
   - 'Music release'
 tags:
@@ -32,22 +33,34 @@ A vocals-driven delicate and powerful 6-songs album, _Hidden Music_ is another b
 
 ## Credits
 
-### Performers
+**Dan Ecclestone**<br>
+Piano & vocals
 
-**Trumpet** / Jake Hatter  
-**Violin** / Julia Black  
-**Viola** / Katharine Parsons  
-**Cello** / Abby Wollston  
-**Piano & vocals** / Dan Ecclestone  
-**Double bass** / Richard Partridge  
-**Drums** / David Youngs  
+**Jake Hatter**<br>
+Trumpet
 
-### Production
+**Julia Black**<br>
+Violin
 
-**Words and music** / Dan Ecclestone  
-**Recorded by** / Sam Inglis  
-**Mix** / Simone Silvestroni    
-**Master** / Ian Shepherd  
-**Cover Photo** / Gary Bendig
+**Katharine Parsons**<br>
+Viola
 
-<p class="detached"><mark class="m2m-highlight small"><strong>Released</strong>: January 8, 2021</mark></p>
+**Abby Wollston**<br>
+Cello
+
+**Richard Partridge**<br>
+Double bass
+
+**David Youngs**<br>
+Drums
+
+## Production
+
+Words and music by Dan Ecclestone<br>
+Recorded by Sam Inglis<br>
+Mixed by Simone Silvestroni<br>
+Mastered by Ian Shepherd<br>
+Cover Photo by Gary Bendig
+
+{: .detached }
+<mark class="m2m-highlight small"><strong>Released</strong>: January 8, 2021</mark>

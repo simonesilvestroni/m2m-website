@@ -5,8 +5,8 @@ layout: none
 <?xml-stylesheet href="/newsletter.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="{{ site.lang }}">
   <channel>
-    <title>{{ site.title | xml_escape }} newsletter</title>
-    <description>Aperiodic newsletter. I only send one when I actually have updates to share, mostly about releases or facts from the audio, game and web industries. You can reply directly and start a conversation: I always respond.</description>
+    <title>{{ site.title | xml_escape }} - Newsletter RSS feed</title>
+    <description>Aperiodic newsletter. We only send one when there are updates to share, mostly about releases or facts from the audio and game industries.</description>
     <link>{{ site.url }}/newsletter/</link>
     <language>{{ site.lang }}</language>
     <copyright>{{ site.url }}/colophon/#copyright</copyright>

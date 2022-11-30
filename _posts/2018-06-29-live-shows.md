@@ -2,6 +2,7 @@
 title: 'Recent live shows'
 date: '2018-06-29'
 last_modified_at: '2021-11-16 12:39:49'
+author: 'Simone Silvestroni'
 categories:
   - 'Concerts'
 tags:
@@ -20,14 +21,21 @@ excerpt: 'A comprehensive list of the live shows I performed around England as a
 ---
 ## Band line-up
 
-**Callum Gardner** / lead vocals, acoustic guitar  
-**Hugh Whitley** / electric guitar, backing vocals  
-**Simone Silvestroni** / fretless bass  
-**Arlen Millwall** / drums, backing vocals  
+**Callum Gardner**<br>
+Vocals, acoustic guitar
+
+**Hugh Whitley**<br>
+Electric guitar, backing vocals
+
+**Simone Silvestroni**<br>
+Fretless bass  
+
+**Arlen Millwall**<br>
+Drums, backing vocals
 
 ### 2018
 
-<table class="table table-responsive table-striped mt-4 mb-5">
+<table class="table table-responsive mt-4 mb-5">
   <thead>
     <tr>
       <th scope="col" class="w-20">Date</th>

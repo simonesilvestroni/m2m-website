@@ -2,6 +2,7 @@
 title: "Interview to Susan Rogers (Pensado's Place)"
 date: '2021-04-07'
 last_modified_at: '2021-11-08 16:59:59'
+author: 'Simone Silvestroni'
 categories:
   - 'Psychoacoustics'
 tags:
@@ -16,6 +17,8 @@ tags:
 description: "I finally watched this amazing video interview with Susan Rogers, who had been sitting in my to-do list for a few weeks. The best interview in a long time."
 excerpt: "I watched this amazing video interview, arguably the best one in a while."
 ---
+{% include pattern-video.html id="AJExXyVSdUs" %}
+
 ## Who is Susan Rogers
 
 > Susan Rogers holds a doctoral degree in experimental psychology from McGill University (2010). Prior to her science career, Susan was a multiplatinum-earning record producer, mixer, engineer, and audio technician.
@@ -28,9 +31,7 @@ excerpt: "I watched this amazing video interview, arguably the best one in a whi
 
 I’ve listened to her in awe. In particular, regarding two points:
 
-- The importance of using panning to make the most of our perception of music, by exploiting **the different way our brain processes sounds**. I love how both Pensado and Trawick reacted to it.
+- The importance of using panning to make the most of our perception of music, by exploiting the different way our brain processes sounds. I love how both Pensado and Trawick reacted to it.
 - The crucial role that _non-musicians producers_ can have on the global vision of a song.
 
 I strongly advise you to watch the entire interview — it’s slightly 45 minutes, while the ‘core’ of the discussion is probably around half an hour. Skip to around `3'08"` for the proper content to start.
-
-{% include pattern-video.html id="AJExXyVSdUs" %}

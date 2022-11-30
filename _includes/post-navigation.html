@@ -1,22 +1,22 @@
-<div class="previous-next-post-links m2m-tx-shadow my-5 pt-3">
+<div class="previous-next-post-links my-5 pt-5">
   <div class="d-flex justify-content-center">
     <div class="previous-post-link w-50 pe-2 text-end">
       {%- if page.previous.url %}{% unless page.previous.hidden -%}
-      <a class="d-block text-decoration-none fs-5 m2m-transition-color-03s fw-bold" href="{{ page.previous.url }}">
+      <a class="d-block fs-6" href="{{ page.previous.url }}">
         <div>
-          <span class="btn-label-lg-m2m btn-label-m2m-bg d-inline-block rounded fw-bold mb-2 px-2 py-1">← <strong>PREV</strong></span>
+          <span class="btn-cta-m2m-bg d-inline-block rounded mb-2 px-2 py-1">← Previous post</span>
         </div>
-        {{ page.previous.title }}
+        <span class="text-uppercase"><strong>{{ page.previous.title }}</strong></span>
       </a>
       {% endunless %}{% endif %}
     </div>
     <div class="next-post-link w-50 ps-2">
       {%- if page.next.url %}{% unless page.next.hidden -%}
-      <a class="d-block text-decoration-none fs-5 m2m-transition-color-03s fw-bold" href="{{ page.next.url }}">
+      <a class="d-block fs-6" href="{{ page.next.url }}">
         <div>
-          <span class="btn-label-lg-m2m btn-label-m2m-bg d-inline-block rounded fw-bold mb-2 px-2 py-1"><strong>NEXT</strong> →</span>
+          <span class="btn-cta-m2m-bg d-inline-block rounded mb-2 px-2 py-1">Next post →</span>
         </div>
-        {{ page.next.title }}
+        <span class="text-uppercase"><strong>{{ page.next.title }}</strong></span>
       </a>
       {% endunless %}{% endif %}
     </div>

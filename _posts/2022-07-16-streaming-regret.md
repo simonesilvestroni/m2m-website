@@ -2,6 +2,7 @@
 title: 'Streaming regret'
 date: '2022-07-16 11:22:59'
 last_modified_at: '2022-07-16 11:23:02'
+author: 'Simone Silvestroni'
 categories:
   - 'Music'
 tags:

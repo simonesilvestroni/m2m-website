@@ -7,18 +7,6 @@
 <meta property="og:site_name" content="{{ site.title }}" />
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 <meta property="og:image" content="{% if page.featimage %}{{ site.url }}{{ page.featimage-url }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
-<!-- LinkedIn -->
-<meta prefix="og: https://ogp.me/ns#" property="og:title" content="{%- include site-meta-title.html -%}" />
-<meta prefix="og: https://ogp.me/ns#" property="og:type" content="website" />
-<meta prefix="og: https://ogp.me/ns#" property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-<meta prefix="og: https://ogp.me/ns#" property="og:image" content="{% if page.featimage %}{{ site.url }}{{ page.featimage-url }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
-<meta prefix="og: https://ogp.me/ns#" property="og:url" content="{{ page.url | prepend: site.url }}" />
-<!-- Twitter integration -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{%- include site-meta-title.html -%}" />
-<meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
-<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-<meta name="twitter:image" content="{% if page.featimage %}{{ site.url }}{{ page.featimage-url }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
 <!-- Schema -->
 <script type="application/ld+json">
 {

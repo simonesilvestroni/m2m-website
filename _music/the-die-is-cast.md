@@ -2,10 +2,8 @@
 title: 'The Die Is Cast'
 date: '2021-06-03 10:50:53'
 last_modified_at: '2021-11-08 10:50:56'
-year: "2021"
-type: "music"
-subtype: "original music"
-kind: EP
+author: 'Simone Silvestroni'
+year: '2021'
 skillset:
   - "composition"
   - "arrangement"
@@ -13,18 +11,17 @@ skillset:
   - "production"
   - "mix"
   - "reaper"
-description: "My upcoming 5-songs album is an autobiographical rumination about migration in Europe in a time of populism. This EP is an appetizer."
-excerpt: 'My <strong>upcoming 5-songs album</strong> is an autobiographical rumination about migration in Europe in a time of populism. This EP is an appetizer.'
-toc: true
+description: "An autobiographical rumination about migration in Europe in a time of populism."
+excerpt: 'Autobiographical rumination about migration in Europe in a time of populism. An appetizer for the next album, in collaboration with Antiquity.'
 featimage: true
 ---
-## Release
+## On Bandcamp
 
 {% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=367059768/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/the-die-is-cast-ep-preview">The Die Is Cast (EP preview) by Minutes to Midnight + Antiquity</a></iframe>' %}
 
 ## Backstory
 
-In 2018, together with Dan Ecclestone, songwriter for Cambridge-based band Ember Rev, I worked as a co-producer and mixer for their second album, [*Premonition And Ruin*]({{ site.url }}/projects/sound-design/premonition-and-ruin/). A song didn’t make the cut: *Land Of Kings* is my interpretation of it. Together with *Papillon*, they reference the painful process of living in England through Brexit.
+In 2018, together with Dan Ecclestone, songwriter for Cambridge-based band Ember Rev, I worked as a co-producer and mixer for their second album, [*Premonition And Ruin*]({{ site.url }}/work/music-production/premonition-and-ruin/). A song didn’t make the cut: *Land Of Kings* is my interpretation of it. Together with *Papillon*, they reference the painful process of living in England through Brexit.
 
 I had been living in the UK for five years when the referendum took place. That night I was up in front of the TV, watching my idea of the UK — England in particular — **crumble before my eyes**.
 
@@ -58,29 +55,27 @@ A couple of samples, a classic in my original productions, completed the remixes
 
 ## Credits
 
-### Land Of Kings
+**Simone Silvestroni**<br>
+Bass, piano, synth, drums, sound effects
 
-**Dan Ecclestone** / Vocals  
-**Romy Gensale** / Background vocals  
-**Gerald Duchene** / Flugel horn, synth vocals  
-**Simone Silvestroni** / Bass, synth, drums, sound effects  
+**Gerald Duchene**<br>
+Flugel horn, trumpet, guitars, synth, percussion, synth vocals
 
-### Papillon
+**Dan Ecclestone**<br>
+Vocals, mellotron, distorted guitar
 
-**Dan Ecclestone** / Vocals, mellotron, distorted guitar  
-**Gerald Duchene** / Flugel horn, trumpet, guitars, synth, percussion  
-**Simone Silvestroni** / Fretless bass, piano, synth, drums, sound effects  
-<br>
-—  
-Recorded between the UK, Italy and the United States.  
-_Papillon_ produced by Simone Silvestroni and Gerald Duchene.  
-_Land Of Kings_ produced by Simone Silvestroni.  
+**Romy Gensale**<br>
+Background vocals
+
+## Production
+
+Recorded between the UK, Italy and the United States.<br>
+_Papillon_ produced by Simone Silvestroni and Gerald Duchene. _Land Of Kings_ produced by Simone Silvestroni.<br>
 Mixed and mastered by Simone Silvestroni.
 
-<p class="detached"><mark class="m2m-highlight small">EP preview released <strong>June 3, 2021</strong>.</mark></p>
+{: .detached .small }
+<sup>&copy;</sup> 2018 Music and lyrics Dan Ecclestone.<br>
+<sup>&copy;</sup> 2021 Remix produced and arranged by Simone Silvestroni and Gerald Duchene. The copyright in this sound recording is owned by Minutes to Midnight and Gerald Duchene. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.
 
-<p class="detached small">
-  <sup>&copy;</sup> 2018 Music and lyrics Dan Ecclestone.<br>
-  <sup>&copy;</sup> 2021 Remix produced and arranged by Simone Silvestroni and Gerald Duchene.<br>
-  &copysr; 2021 The copyright in this sound recording is owned by Minutes to Midnight and Gerald Duchene. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.
-</p>
+{: .detached }
+<mark class="m2m-highlight small">Released <strong>3 June 2021</strong>.</mark>

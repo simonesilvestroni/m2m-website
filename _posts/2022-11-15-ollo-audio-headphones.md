@@ -2,6 +2,7 @@
 title: 'Ollo Audio headphones'
 date: '2022-11-15 12:11:52'
 last_modified_at: '2022-11-15 12:11:56'
+author: 'Simone Silvestroni'
 categories:
   - 'Music production' 
 tags:

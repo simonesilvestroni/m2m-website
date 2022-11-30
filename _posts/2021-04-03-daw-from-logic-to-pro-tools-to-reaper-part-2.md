@@ -2,6 +2,7 @@
 title: 'Switch DAW: Logic to Pro Tools to REAPER (Pt 2)'
 date: '2021-04-03'
 last_modified_at: '2021-11-08 18:29:03'
+author: 'Simone Silvestroni'
 categories:
   - 'Audio software'
 tags:
@@ -20,9 +21,9 @@ excerpt: "How REAPER improved my music workflow, part 2: customization, communit
 ---
 In **[part 1]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)** I discussed:
 
-1.  Cost
-2.  Multi-platform
-3.  A different workflow
+- Cost
+- Multi-platform
+- A different workflow
 
 ## Benefit 4: Customization
 
@@ -110,7 +111,5 @@ ___
 
 In **[part 3]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-3/)** I’ll be discussing:
 
-7.  Open architecture & development cycle
-8.  Efficiency
-
-Plus, a bonus section about working with clients and colleagues, and a little bit about integration with different software.
+- Open architecture & development cycle
+- Efficiency

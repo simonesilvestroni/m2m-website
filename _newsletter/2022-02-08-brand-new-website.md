@@ -1,11 +1,11 @@
 ---
-title: '📝 My brand new website is live'
+title: 'My brand new website is live'
 date: '2022-02-08'
 last_modified_at: '2022-02-08 21:21:28'
 description: 'I finally published my brand new website. Leaving the WordPress ecosystem felt good: a massive change with consequences over many aspect of my online presence.'
 excerpt: 'I finally published my brand new website. Leaving the WordPress ecosystem felt good: a massive change with consequences over many aspect of my online presence.'
 sitemap: false
-permalink: '/newsletter/archive/brand-new-website/'
+permalink: '/newsletter/archives/brand-new-website/'
 ---
 Briefly:
 
@@ -16,8 +16,7 @@ Briefly:
 - it runs on renewable energy servers and its light weight and absence of third-party scripts contribute to make it fully sustainable as well.
 - The content has also been reorganized. I now embrace both my skills: audio and web design. A new work page is centered around case studies.
 
-[**Read the post** ↗︎]({{ site.url }}/blog/website-redesign/) and check it out.
-
-<br>
+{: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
+[**Read the post**]({{ site.url }}/blog/website-redesign/) →
 
 Speak soon.

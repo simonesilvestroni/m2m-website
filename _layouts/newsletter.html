@@ -2,21 +2,16 @@
 layout: default
 ---
 <div class="m2m-label text-center text-md-start pt-2">
-  <span class="p-category rounded initialism border bg-light py-1 px-2">
-    <a class="m2m-link text-uppercase" href="/newsletter/archives/">← <span class="p-category">Newsletter archive</span></a>
+  <span class="p-category">
+    <a class="btn-cta-m2m-bg d-inline-block text-decoration-none rounded my-2 px-2 py-1" href="/newsletter/archives/">← <span class="p-category">Newsletter archive</span></a>
   </span>
 </div>
 <div class="post-meta my-5">
-  <p class="fs-5"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time></p>
+  <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time><span class="ps-3"><em>Written by</em> Simone Silvestroni</span>
   <span class="d-none">
     {% include hcard-post.html %}
   </span>
 </div>
-{% if page.excerpt %}
-<p class="p-summary lead">
-  {{ page.excerpt }}
-</p>
-{% endif %}
 <div class="e-content">
   {{ content }}
 </div>

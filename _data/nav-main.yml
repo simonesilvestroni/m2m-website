@@ -1,21 +1,13 @@
 menu:
   - name: About
     link: /about/
-    desc: 'Who I am and what’s my moniker about'
-  - name: Projects
-    link: /projects/
-    desc: 'A selection of my recent work'
-    hide: true
+    desc: 'Who we are and what’s the moniker about'
+  - name: Work
+    link: /work/
+    desc: 'A selection of our recent work'
   - name: Blog
     link: /blog/
-    desc: 'Articles, interviews and press releases'
-  - name: RSS
-    link: /rss/
-    desc: 'RSS feeds for blog and newsletter'
-    hide: true
+    desc: 'Articles, interviews, press releases'
   - name: Contact
     link: /contact/
-    desc: 'Hire me or get in touch'
-  - name: More
-    link: /more-links/
-    desc: 'Archives, in-depth pages and more ways to connect'
+    desc: 'Get in touch'

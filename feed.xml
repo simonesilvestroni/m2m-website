@@ -5,11 +5,11 @@ layout: none
 <?xml-stylesheet href="/feed.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="{{ site.lang }}">
   <channel>
-    <title>{{ site.title | xml_escape }} blog</title>
+    <title>{{ site.title | xml_escape }} - Blog RSS feed</title>
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}</link>
     <language>{{ site.lang }}</language>
-    <copyright>{{ site.url }}/colophon/#copyright</copyright>
+    <copyright>{{ site.url }}/about/#copyright</copyright>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     {% assign projects = site.documents | where:"layout", "project" %}
     {% assign blog = site.documents | where:"layout", "post" %}

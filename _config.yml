@@ -12,12 +12,13 @@ posts_limit: 20
 # SEO
 # -------------------
 title: Minutes to Midnight
-tagline: Sound and Web Designer
-description: I create and produce sound and music across multiple media and make websites using Jekyll or WordPress. Professional bass player, composer and field recordist.
+tagline: Music producers and sound designers
+description: Digital polymaths, we master the art of sound design, production and writing music since the 1990s.
 permalink: /blog/:title/
 keywords:
   minutes to midnight,
   simone silvestroni,
+  emilio albertoni,
   sound design,
   bass player,
   game audio,
@@ -28,24 +29,17 @@ keywords:
   reaper,
   pro tools,
   logic pro x,
-  web design,
-  web development,
-  front-end,
-  jekyll,
-  jamstack,
-  sass
-timezone: Europe/Rome
+timezone: Europe/Berlin
 logo: /assets/images/m2m-og-image.jpg
 author:
   name: Simone Silvestroni
-  email: contact@minutestomidnight.co.uk
+  email: simone@minutestomidnight.co.uk
 
 # -------------------
 # Brand
 # -------------------
 brand:
-  m2m_pitch: 'I’m Simone Silvestroni, a digital polymath between sound and web design'
-  m2m_intro: 'I create and produce sound and music across multiple media and make websites using Jekyll or WordPress. I started out in the publishing industry in 1994, soon transitioning to web design. I’m also a professional bass player, a composer and a field recordist.'
+  m2m_intro: 'Digital polymaths, we master the art of sound design, production and writing music since the 1990s.'
 
 # -------------------
 # Exclusions
@@ -83,7 +77,22 @@ defaults:
       layout: "page"
   - scope:
       path: ""
+      type: "music"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "musicproduction"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
       type: "sounddesign"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "gameaudio"
     values:
       layout: "project"
   - scope:
@@ -96,30 +105,23 @@ defaults:
       type: "notes"
     values:
       layout: "note"
-  - scope:
-      path: ""
-      type: "webdesign"
-    values:
-      layout: "project"
-  - scope:
-      path: ""
-      type: "music"
-    values:
-      layout: "project"
 
 # -------------------
 # Collections
 # -------------------
 collections:
-  sounddesign:
-    output: true
-    permalink: /projects/sound-design/:path/
-  webdesign:
-    output: true
-    permalink: /projects/web-design/:path/
   music:
     output: true
-    permalink: /music/:path/
+    permalink: /work/music/:path/
+  musicproduction:
+    output: true
+    permalink: /work/music-production/:path/
+  sounddesign:
+    output: true
+    permalink: /work/sound-design/:path/
+  gameaudio:
+    output: true
+    permalink: /work/game-audio/:path/
   newsletter:
     output: true
     permalink: /newsletter/archive/:path/
@@ -171,19 +173,6 @@ plugins:
 # Work endorsements
 # -------------------
 endorsements:
-  web:
-    - name: 'Neil Kenneth Palmer'
-      role: 'VP of product development at C6 Marketing'
-      url: 'https://www.linkedin.com/in/neil-k-palmer/'
-      quote: 'Simply put, Simone is one of the finest, and most passionate front-end developers that I have every come across. His knowledge on UI and UX is vast and combine this with his front-end development skills, he is one of the finest front end developers out there. It was a pleasure to manage and work with Simone and I hope to get the chance again in the future.'
-    - name: 'Michelle Anderson'
-      role: 'staff engineer at Deliveroo'
-      url: 'https://www.linkedin.com/in/michelledangeranderson/'
-      quote: 'Simone was an integral member of our team. His passion for the web and careful and persistent work ethic meant that he delivered consistently above expectations. His initiative is impressive. His experience makes him an expert in his field; has a firm understanding of front end web. With his sharp sense of humor, he would make a wonderful addition to any web team!'
-    - name: 'Gabriele Rosati'
-      role: 'UX and interaction design manager at UniCredit'
-      url: 'https://www.linkedin.com/in/rosati/'
-      quote: 'My experience of working with Simone has always been very positive and enjoyable. Simone always takes a pragmatic and investigative approach to finding solutions for our needs and has very friendly and helpful attitude. His attention to detail makes him always deliver perfect coded products, saving us time and concerns on the web projects he develops.'
   audio:
     - name: 'Jean-Claude Nouchy'
       role: 'FX Supervisor at Scanline VFX'
@@ -218,20 +207,12 @@ certifications:
     - name: 'Centro Professione Musica'
       href: 'https://www.cpm.it/corsi-musica-milano'
       desc: 'diploma (bass, music theory, harmony &amp; arrangement), Milan, 1993-1995'
-  web:
-    - name: 'Member of <a href="https://iwanet.org/">IWA</a>'
-    - name: 'Nielsen Norman Group UX Conference, 2010, London'
-    - name: 'PHP development course by HTML.IT, 2009, Milan'
 
 # -------------------
 # Publications
 # -------------------
 pubs:
-  - title: 'A trip to freedom from Berlin To Berlin'
+  - title: 'A trip to freedom from Berlin to Berlin'
     excerpt: 'A real-life story of imprisonment and liberty, between two wars and three generations.'
     url: 'https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e'
-    featimage: true
-  - title: 'A modern workflow for the multi-device web'
-    excerpt: 'A process analysis that has led UI Farm Ltd to their workflow for delivering modern web solutions.'
-    url: 'https://medium.com/ui-farm/how-we-work-a-modern-workflow-for-the-multi-device-web-4e0dcb081b5b'
     featimage: true

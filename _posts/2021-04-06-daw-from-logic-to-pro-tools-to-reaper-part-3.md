@@ -2,6 +2,7 @@
 title: 'Switch DAW: Logic to Pro Tools to REAPER (Pt 3)'
 date: '2021-04-06'
 last_modified_at: '2021-11-08 17:33:58'
+author: 'Simone Silvestroni'
 categories:
   - 'Audio software'
 tags:
@@ -20,12 +21,12 @@ excerpt: "How REAPER improved my music workflow, part 3: open architecture, deve
 ---
 In [**part 1**]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/) & [**part 2**]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/) I discussed:
 
-1.  Cost
-2.  Multi-platform
-3.  A different workflow
-4.  Customization
-5.  Community
-6.  Stock plug-ins
+- Cost
+- Multi-platform
+- A different workflow
+- Customization
+- Community
+- Stock plug-ins
 
 ## Benefit 7: Open architecture & development cycle
 
@@ -92,30 +93,22 @@ Switching DAW is a _dreadful task_ for many. If you work within a team of people
 
 ### My current setup
 
-I currently use REAPER for almost everything:
-
-- writing music
-- producing
-- editing audio
-- batch processing
-- mixing
-- stem rendering
-- pre-mastering
+I currently use REAPER for almost everything, writing music, producing, editing audio, batch processing, mixing, stem rendering, mastering.
 
 It’s an unbelieavably powerful, fast and flexible piece of software, I regret not having tried it sooner.
 
 ### Bonus: other software
 
-I still fire up Logic for its virtual instruments, especially for pure sound design. I do plan to try REAPER and Logic (or Reason) in sync: if the ventilation system of my machine doesn’t catch fire, I’d like to have the opportunity. For anything related to restoration, advanced audio editing and clean-up I set [iZotope RX](https://www.izotope.com/en/products/rx.html) as my default external editor. In this case, the workflow is:
+I do plan to try REAPER and Logic, or Reason, in sync: if the ventilation system of my machine doesn’t catch fire, I’d like to have the opportunity. For anything related to restoration, advanced audio editing and clean-up I set [iZotope RX](https://www.izotope.com/en/products/rx.html) as my default external editor. In this case, the workflow is:
 
-1. <kbd>right-click on an audio region</kbd>
-2. <kbd>edit in external editor</kbd>
-3. <kbd>fix it in RX</kbd>
-4. <kbd>save it and go back to REAPER</kbd>
-5. <kbd>done</kbd>
+- right-click on an audio region
+- edit in external editor
+- fix it in RX
+- save it and go back to REAPER
+- done
 
 ---
 
-Thanks for reading. I leave you with a video by American composer, producer and sound designer [Nick Peck](https://nicolaspeck.com/), who explains in 18 minutes his **11 reasons to switch from Pro Tools to REAPER**:
+Thanks for reading. I leave you with a video by American composer, producer and sound designer [Nick Peck](https://nicolaspeck.com/), who explains in 18 minutes his 11 reasons to switch from Pro Tools to REAPER:
 
 {% include pattern-video.html id="BKCvJsG-zrQ" %}

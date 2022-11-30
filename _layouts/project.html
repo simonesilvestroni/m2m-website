@@ -1,19 +1,12 @@
 ---
 layout: default
 ---
-{% capture CaseTypeURL %}
-  {%- if page.type == "web design" -%}
-  {{ site.url }}/projects/web-design/
-  {%- elsif page.type == "sound design" -%}
-  {{ site.url }}/projects/sound-design/
-  {%- elsif page.type == "music" -%}
-  {{ site.url }}/music/
-  {%- endif -%}
-{% endcapture %}
-<div class="post-meta mt-3">
+<p>{% if page.author %}<em>Written by</em> {{page.author}}{% endif %}</p>
+
+<div class="post-meta mt-5">
   <div class="d-flex align-items-top">
     <div>
-      <span class="pe-2">SKILLS:</span>
+      <span class="pe-2">Skills:</span>
     </div>
     <div class="flex-shrink-1">
       {% for skill in page.skillset -%}<span class="p-category rounded initialism border d-inline-block bg-light mb-2 me-1 py-0 px-1"><strong>{{ skill }}</strong></span>&nbsp;{%- endfor -%}  
@@ -35,18 +28,10 @@ layout: default
     {% endresponsive_image_block %}      
   </div>
   {% endif -%}
-  {%- if page.performance == true %}
-    {%- include pattern-performance.html -%}  
-  {% endif -%}
   {%- if page.toc == true %}
-  <div class="mt-5">
+  <div class="mt-3">
     {% include pattern-toc.html html=content sanitize=true class="inline_toc" id="toc" h_min=2 h_max=2 %}
   </div>
   {% endif -%}
   {{ content }}
-  {% if page.site-is-live == true %}
-  {% include pattern-button.html link=page.live-url center=true text="Visit the live website" %}
-  {% endif %}
 </div>
-{%- include pattern-responses.html -%}
-{%- include post-navigation.html -%}

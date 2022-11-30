@@ -1,6 +1,7 @@
 ---
 title: 'Michael C. Hall’s new band'
 date: '2022-02-11'
+author: 'Simone Silvestroni'
 type: note
 categories:
   - 'Music release'

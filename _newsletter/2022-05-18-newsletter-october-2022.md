@@ -1,11 +1,11 @@
 ---
-title: '💬 Newsletter October 2022'
+title: 'Newsletter October 2022'
 date: '2022-10-26 09:57:39'
 last_modified_at: '2022-10-26 09:57:43'
 description: 'As things are still moving at a slow pace, I have a few updates, both personal and work-related.'
 excerpt: 'As things are still moving at a slow pace, I have a few updates, both personal and work-related.'
 sitemap: false
-permalink: '/newsletter/archive/newsletter-october-2022/'
+permalink: '/newsletter/archives/newsletter-october-2022/'
 ---
 ## Moving again 🇬🇧
 
@@ -19,13 +19,13 @@ I’m proud to have mixed the beautiful song [*Nebbia (part one)*](https://arvav
 
 [▶️ Listen and buy *Tales from holographic seas* on Bandcamp](https://arvavacua.bandcamp.com/album/tales-from-holographic-seas)
 
-—
+---
 
 Also, together with Emilio Albertoni, I've mastered the song _I'm waiting (Imagine)_ by the Italian artist **AGA**. 
 
 ▶️ Watch the [official video on YouTube](https://youtu.be/BCJHjjzONf4) and read the [release article](https://www.rockon.it/musica/video/aga-guarda-il-nuovo-video-im-waiting-imagine/) (in Italian).
 
-—
+---
 
 I have worked for several clients over the last couple of months. The material is still unreleased, so I’ll send links as soon as they’re available:
 

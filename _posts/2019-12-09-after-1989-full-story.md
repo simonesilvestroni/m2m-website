@@ -2,6 +2,7 @@
 title: 'A Trip To Freedom: from Berlin to Berlin'
 date: '2019-12-09 10:52:30'
 last_modified_at: '2021-11-17 11:39:35'
+author: 'Simone Silvestroni'
 categories:
   - 'Personal'
 tags:
@@ -22,17 +23,13 @@ syndicate:
   - name: Medium
     url: https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e
 sitemap: false
+featimage: true
+featimage-name: 'full-story-featured.jpg'
+featimage-url: 'assets/images/full-story-featured.jpg'
+featimage-alt: 'Sachsenhausen concentration camp entrance gates'
 ---
-{% responsive_image_block %}
-  path: assets/images/full-story-featured.jpg
-  alt: Sachsenhausen concentration camp entrance gate
-{% endresponsive_image_block %}
-
-### A real-life story of imprisonment and liberty, between two wars and three generations.
-
-<div class="mx-auto text-center mt-5">
-  <p class="d-inline-block alert m2m-bg-alpha rounded-3 fs-6" role="alert">ℹ️ this article was first <a href="https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e" target="_blank">published on Medium</a>.</p>
-</div>
+{: .d-inline-block .border .border-3 .rounded .px-3 .py-3 }
+[This article was first published on Medium ↗](https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e)
 
 ## Roots
 
@@ -172,5 +169,5 @@ The car attracted my attention because it was the same model used by [Russel Oak
 
 {% include pattern-figure.html image="/assets/images/full-story-grandfather.jpg" caption="My grandfather working outside his shop in the summer. Some of the objects visible on the crate came from Germany" width="1024" height="722" %}
 
-{: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read the **album analysis** →]({{ site.url }}/music/after-1989/)
+{: .d-inline-block .border .border-3 .rounded .mt-5 .px-3 .py-3 }
+[Read the album analysis →](/work/music/after-1989/)

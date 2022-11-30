@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Newsletter archives
+title: 'Newsletter archives'
 date: '2022-05-08'
 last_modified_at: '2022-05-08 21:21:28'
 description: 'Archive of my aperiodic newsletter. I send one when I actually have updates to share, mostly about releases or facts from the audio, game and web industries.'

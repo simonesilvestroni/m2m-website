@@ -1,21 +1,16 @@
 {%- assign page = project -%}
-<div class="row gx-0 d-flex align-items-start my-5 m2m-transition-opacity-03s position-relative">
+<div class="row gx-0 d-flex align-items-start my-5 pb-5">
   <div class="col-12 col-md-3 d-flex justify-content-center justify-content-md-start">
     {%- if project.featimage == true -%}
     <picture class="mx-auto ms-md-0">
       <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".webp" }}" type="image/webp">
       <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" type="image/jpeg">
-      <img class="mt-4 mt-md-0" src="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" alt="{{ project.title }}" width="140" height="140">
+      <img class="rounded mt-4 mt-md-0" src="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" alt="{{ project.title }}" width="140" height="140">
     </picture>
     {%- endif -%}
   </div>
   <div class="col-12 col-md-9 ps-4 ps-md-0 pe-4">
-    {% if project.subtype %}
-    <div class="mt-5 mt-md-0 mb-2 text-center text-md-start">
-      <span class="p-category rounded initialism border bg-light py-1 px-2">{{ project.subtype }}</span>{% if project.kind %} &ndash; <span>{{ project.kind }}</span>{% endif %}
-    </div>
-    {% endif %}
-    <h3 class="text-center text-md-start mt-4 mt-md-0 mb-4 mb-md-3" id="{{ project.title | downcase | replace: " ","-" }}"><strong>{{ project.title }}</strong></h3>
+    <h3 class="text-center text-md-start mt-4 mt-md-0 mb-4 mb-md-3" id="{{ project.title | downcase | replace: " ","-" }}">{{ project.title }}</h3>
     <p class="p-summary card-text fs-5">
       {%- if project.type == "web design" -%}
         {{ project.description | strip_html }}
@@ -24,8 +19,7 @@
       {%- endif -%}
     </p>
     <p class="text-center text-md-start fs-5 mt-4 mt-md-3 mb-md-0">
-      <a class="u-url m2m-link stretched-link" href="{{ project.url }}" title="About {{ project.title }}"><strong>Read more</strong></a>
+      <a class="u-url btn-cta-m2m-bg d-inline-block rounded text-decoration-none my-2 px-2 py-1" href="{{ project.url }}" title="Read about {{ project.title }}">Read more →</a>
     </p>
   </div>
 </div>
-<hr>

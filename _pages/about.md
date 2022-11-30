@@ -1,52 +1,81 @@
 ---
 layout: page
-title: 'Who I am'
+title: 'About Minutes to Midnight'
 date: '2022-01-14'
-last_modified_at: '2022-04-13 15:14:31'
-description: 'A sound and web designer for two decades between Italy and the UK. I wrote a concept album about escaping war, which brought the moniker Minutes to Midnight.'
-excerpt: 'A sound and web designer for over two decades between Italy and the UK, I worked in game audio and wrote a concept album about escaping war. A more detailed <a href="/resume/"><strong>resume</strong></a> is available, or head over to an updated list of the <a href="/uses/"><strong>software and hardware</strong></a> that I’m using.'
+last_modified_at: '2022-11-30 10:50:29'
+description: 'Minutes to Midnight was founded by Simone Silvestroni in the UK in 2017. About the members, the name and the website.'
+excerpt: 'Founded by digital polymath Simone Silvestroni in Cambridge (UK) in 2017, Minutes to Midnight has been providing a vast array of audio production services such as mix, mastering and sound design.'
 permalink: '/about/'
 ---
-## Audio and web
+Also  releasing original music over the last {{ page.date | date: "%Y" | minus: 2019 }} years, in 2022 was joined by multi-instrumentalist and producer Emilio Albertoni.
 
-In the early 1990s, I started a side job in the publishing industry while graduating as a professional musician. A decade later I learned web design, fascinated by code as a digital evolution of my past experience with the printed page. In line with those origins, I still strive for minimalism.
+## About Simone Silvestroni
 
-**As a web designer**, I’m an expert in front-end development, some back-end, UI design, custom WordPress systems, accessibility and sustainability through a relentless stack optimization.
+{% include pattern-figure.html image="/assets/images/simone-silvestroni-warwick-bass.jpg" alt="Simone Silvestroni in Cambridge, standing, with the Warwick Thumb Bass" caption="Simone standing with a Warwick Thumb Bass - Photo by Silvia Maggi" width="1600" height="1066" %}
 
-After a long stint in a music studio acquiring recording skills, I became independent and landed a [game audio designer]({{ site.url }}/projects/sound-design/console-game-ruff-trigger/) role in 2002. I wrote an adaptive soundtrack while producing and implementing original sound effects. In the same period I started my first blog, writing about working long hours on a console video game while playing *Ico* during pauses. 
+A professional [bass player](https://soundbetter.com/profiles/206552-minutes-to-midnight){:target="_blank"}, after a 6-year stint in music studios acquiring producing skills during the 1990s, he landed a [game audio designer]({{ site.url }}/work/game-audio/console-game-ruff-trigger/) role in Milan (Italy) in 2000. While leading the audio team, he started his first blog, journaling about working long hours on a console video game while playing *Ico* during pauses.
 
-**As a sound designer**, I write and produce music from tracking to mastering, with mixing as my preferred stage. I’m also a professional bass player and a field recordist with Foley skills. I see game audio as the ultimate audio-visual narrative medium.
+As a music producer, he can handle the process from tracking to mastering, with mixing as the preferred stage. As a sound designer, he enjoys field recording and Foley. Simone sees game audio as the ultimate audio-visual narrative medium.
 
-## Passions and interests
+Constantly looking for a way to complete a task in less and more efficient steps, he wrote an ebook about [project management for musicians]({{ site.url }}/work/project-management/).
 
-I'm an avid reader, eager to know the latest about the audio and tech industries. I've always loved to lose myself in history essays, personal blogs and dystopian novels. Trivia: I have a longstanding ~~obsession~~ fascination for typography.
+He also has a parallel career in web design and front-end development, [carried out under his own name](https://simonesilvestroni.com).
 
-Constantly looking for a way to complete a task in less and more efficient steps, I ended up writing an ebook about [project management for musicians]({{ site.url }}/projects/project-management/).
+{: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
+Check out [**Simone’s equipment**](/uses#simone-silvestronis-equipment) →
+
+## About Emilio Albertoni
+
+{% include pattern-figure.html image="/assets/images/emilio-albertoni-playing-live.jpg" alt="Emilio Albertoni playing live" caption="Emilio Albertoni playing live" width="720" height="960" %}
+
+Born in Cremona (Italy), a passion for new wave, electronica and trip hop led him to learn to play guitar and synths. At 22, Emilio moved to Ravenna, where he got to work with several local bands, collaborating as multi-instrumentalist, producer and sound engineer in the studio. 
+
+He wrote and produced with Mono:fi, Bruno Valeri, Arva Vacua and IsadoraD. As of recently, he started a new collaboration with Simone Silvestroni of Minutes to Midnight (UK), with whom he's working at the debut album.
+
+{: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
+Check out [**Emilio’s equipment**](/uses#emilio-albertonis-equipment) →
 
 ## Name and logo
 
-Before releasing the theatrical concept [_After 1989_]({{ site.url }}/music/after-1989/), I wanted to establish a connection between work and personal history. The foundation for Minutes to Midnight’s name and logo is a tie with the unstable and risky world I grew up in during the Cold War.
-
 The expression _minutes to midnight_ is a reference to the [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock), while the logo is derivative of the radiation symbol combined with the glyph used in fallout shelter signs.
 
-## Website
+> Before releasing the theatrical concept [_After 1989_]({{ site.url }}/work/music/after-1989/), I wanted to establish a connection between work and personal history. The foundation for Minutes to Midnight’s name and logo is a tie with the unstable and risky world I grew up in during the Cold War.<cite>— Simone Silvestroni</cite>
 
-Details about this website can be found in the [colophon]({{ site.url }}/colophon/).
+## About this website
 
-## Contacts
+The website has been developed from scratch using:
 
-Find the best way to [get in touch]({{ site.url }}/contact/), and my [PGP public key]({{ site.url }}/pgp/).
+- [Jekyll 4.2.1](https://jekyllrb.com/)
+- [Markdown (extended)](https://www.markdownguide.org/getting-started/)
+- Vanilla javascript for [search module](https://github.com/daviddarnes/jekyll-search-js) and [webmentions](http://beesbuzz.biz)
+- Table of contents Liquid code by [Vladimir "allejo" Jimenez](https://github.com/allejo/jekyll-toc)
+- Bash for building purposes
+- [Github](https://github.com/simonesilvestroni/m2m-website)
+- [Netlify](https://netlify.com)
 
-## Press photos
+### Accessibility and sustainability
 
-Photography by <a href="https://silviamaggidesign.com">Silvia Maggi</a>.
+Fully compliant with <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> guidelines.
 
-{% include pattern-figure.html image="/assets/images/gallery-press/a_in-cambridge.jpg" alt="Simone Silvestroni in Cambridge, standing, with the Warwick Thumb Bass" caption="Standing, with a Warwick Thumb Bass" width="1600" height="1066" %}
+Only `0.04g` of CO2 is produced every time someone visits the homepage, which is cleaner than 96% of web pages tested.
 
-{% include pattern-figure.html image="/assets/images/gallery-press/b_in-cambridge.jpg" alt="Simone Silvestroni, playing the Warwick Thumb Bass" caption="Playing the Warwick Thumb Bass" width="1600" height="1066" %}
+The website is running on sustainable energy and does not request third-party resources, except for the blog posts, which are calling `webmention.io` to render web mentions. 
 
-{% include pattern-figure.html image="/assets/images/gallery-press/c_in-the-studio.jpg" alt="In the studio (Cambridge)" caption="In the studio (Cambridge)" width="1600" height="1066" %}
+There is no Javascript functionality preventing the content to be fully visible at any time. The dynamic [search engine](/search/) has an HTML alternative provided in the same page and the other script is processing webmentions. The website is fully accessible with Javascript turned off.
 
-{% include pattern-figure.html image="/assets/images/gallery-press/e_in-the-studio.jpg" alt="In the studio (Cambrdige), playing a fretless Fender Jazz bass" caption="In the studio (Cambrdige), playing a fretless Fender Jazz bass" width="1600" height="1066" %}
+The markup is valid, the homepage loads in `0.4` seconds and weigh `100kb` (uncompressed). Member of the [512kb club](https://512kb.club "Member of the 512kb Orange Team") and the [1Mb club](https://1mb.club/).
 
-{% include pattern-figure.html image="/assets/images/gallery-press/d_bass-strap.jpg" alt="Bass strap with West Berlin pin attached" caption="Bass strap with West Berlin pin attached" width="1600" height="1066" %}
+{: .d-inline-block .border .border-3 .rounded .my-5 .px-3 .py-3 }
+More about our [**ethical choices**](/ethics/) →
+
+## Copyright
+
+The _text content_ of this website is [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). It means you are free to share — copy and redistribute the material in any medium or format, adapt — remix, transform, and build upon the material for any purpose, even commercially. You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+Everything connected to sound and music in this website is strictly copyrighted.
+
+## Trademark
+
+Minutes to Midnight is a registered trademark in the UK. Minutes to Midnight&trade; brand and logo, in all its variants, are use trademarks for the trading name of Simone Silvestroni.
+
+{% include pattern-last-updated.html %}

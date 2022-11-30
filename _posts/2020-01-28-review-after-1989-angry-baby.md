@@ -2,6 +2,7 @@
 title: 'Angry Baby album review: ‘After 1989’'
 date: '2020-01-28'
 last_modified_at: '2021-11-12 22:21:10'
+author: 'Simone Silvestroni'
 categories:
   - 'Review'
 tags:
@@ -24,5 +25,5 @@ Angry Baby has been sharing new music from outstanding independent musicians for
 
 Thanks so much to Jane and Deb from _Angry Baby_ for this album review. And thanks to [Christopher Carvalho](https://www.youtube.com/channel/UCFYW6EZMLLT0jIi0SJQeUiQ) of Unlock Your Sound for another awesome feature about my album _After 1989_.
 
-{: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read the **album analysis** →]({{ site.url }}/music/after-1989/)
+{: .d-inline-block .border .border-3 .rounded .mt-5 .px-3 .py-3 }
+[Read the album analysis →](/work/music/after-1989/)

@@ -1,33 +1,17 @@
-- name: Newsletter
-  link: /newsletter/
-  icon: 📒
-- name: RSS
-  link: /rss/
-  icon: 📒
-- name: Archive
-  link: /archive/
-  icon: 📒
-- name: Projects
-  link: /projects/
-  icon: ⚙️
-- name: Original Music Productions
-  link: /music/
-  icon: ⚙️
-- name: Resume
-  link: /resume/
-  icon: ⚙️
-- name: Uses
-  link: /uses/
-  icon: 📖
-- name: How I Use Internet
-  link: /how-i-use-internet/
-  icon: 📖
-- name: Popular Posts
-  link: /blog/popular/
-  icon: 📖
-- name: Blogroll
-  link: /blogroll/
-  icon: 📖
-- name: Search
-  link: /search/
-  icon: 🔎
+menu:
+  - name: Newsletter
+    link: /newsletter/
+  - name: Ethics
+    link: /ethics/
+    desc: 'Philosophy on design, privacy and software'
+  - name: Uses
+    link: /uses/
+    desc: 'Equipment I use'
+  - name: Archive
+    link: /archive/
+  - name: RSS
+    link: /rss/
+    desc: 'RSS feed'
+  - name: Search
+    link: /search/
+    desc: 'Search for anything'

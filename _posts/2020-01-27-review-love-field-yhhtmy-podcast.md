@@ -2,6 +2,7 @@
 title: '‘Love Field’ reviewed on YHHTMY podcast'
 date: '2020-01-27'
 last_modified_at: '2021-11-12 22:26:40'
+author: 'Simone Silvestroni'
 categories:
   - 'Review'
 tags:
@@ -13,7 +14,7 @@ tags:
   - jfk assassination
   - dallas
 description: "YHHTMY podcast selected Minutes to Midnight's song 'Love Field' from the album 'After 1989' for their latest episode."
-excerpt: 'Minutes to Midnight song <em>Love Field</em> was selected for the latest episode of the podcast <em>You haven’t heard this music yet</em>.'
+excerpt: 'Minutes to Midnight’s song <em>Love Field</em> was selected for the latest episode of the podcast <em>You haven’t heard this music yet</em>.'
 ---
 ## About YHHTMY
 
@@ -23,7 +24,7 @@ A podcast exploring unheard music, which we feel is as good if not better than t
 > 
 > <cite>— YHHTMY</cite>
 
-## Listen to the Episode
+## On YouTube
 
 Here’s the relevant section, cut from the podcast episode:
 
@@ -35,7 +36,5 @@ The following is a playlist of the four songs played and discussed in the podcas
 
 {% include pattern-spotify.html id="4ea6J7vATyW23uD9HGjuYN" type="playlist" height="300" %}
 
-Thanks to [Christopher Carvalho](https://unlockyoursound.com/) for this feature.
-
-{: .text-center .fs-4 .my-5 .py-3 }
-📖 [Read the **album analysis** →]({{ site.url }}/music/after-1989/)
+{: .d-inline-block .border .border-3 .rounded .mt-5 .px-3 .py-3 }
+[Read the album analysis →](/work/music/after-1989/)

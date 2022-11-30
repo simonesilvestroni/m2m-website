@@ -2,249 +2,221 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2022-11-15 17:01:39'
-description: "Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the uses.tech project."
-excerpt: 'Specifics about the hardware and software equipment I use, for both sound and web design. The page is part of the <a href="https://uses.tech/">uses.tech</a> project. None of the links are affiliate.'
+last_modified_at: '2022-11-30 12:38:25'
+description: "Specifics about the hardware and software equipment we use. The page is part of the uses.tech project."
+excerpt: 'Specifics about the hardware and software equipment we use. The page is part of the <a href="https://uses.tech/">uses.tech</a> project.'
 permalink: '/uses/'
 toc: true
 ---
-## Hardware
+## Simone Silvestroni's equipment
 
 ### Workstation
 
-- Maxed out 15-in [MacBook Pro i7 Mid 2015](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.5-15-iris-only-mid-2015-retina-display-specs.html) upgraded with an internal 1TB SSD. 
+- Maxed out 15-in MacBook Pro i7 Mid 2015, upgraded with an internal 1TB SSD. 
 - 27-in Dell HD monitor
+- Wireless Apple Magic Keyboard 2
 - Wireless Logitech M350 Pebble mouse
-- [Razer Deathadder](https://www.razer.com/gaming-mice/razer-deathadder-v2/RZ01-03210100-R3U1) gaming mouse
-- ~~Wireless Apple Magic Keyboard 2~~
+- Razer Deathadder gaming mouse
 
 ### Music instruments
 
-- [Warwick Thumb](https://www.vintageguitar.com/32186/warwick-thumb-bass/) bass (since 1991)
-- [Fretless Fender Jazz](https://www.fender.com/en-US/electric-basses/jazz-bass/jaco-pastorius-jazz-bass/0196208800.html) bass (since 2016)
-- [Fender Stratocaster](https://www.fender.com/en-US/electric-guitars/stratocaster/player-stratocaster/0144502506.html) electric guitar (black)
-- [Tech 21 NYC Sansamp](https://www.tech21nyc.com/products/sansamp/bassdriver-di/) Bass Driver v2
-- ~~SWR Redhead~~ (1990 to 2011)
-- ~~Markbass Mini CMD 121P~~ (2011 to 2016).
+- Warwick Thumb bass, since 1991
+- Fretless Fender Jazz bass
+- Fender Stratocaster electric guitar
+- Tech 21 NYC Sansamp Bass Driver v2
 
 ### Audio interface
 
-- [Audient iD14](https://audient.com/products/audio-interfaces/id14/overview/)
+- Audient iD14
 - Dedicated FX-Audio DAC-X6
-- ~~Focusrite Clarett 4Pre~~
-- ~~Focusrite Saffire Pro~~
-- ~~Saffire Pro 24~~
 
 ### Speakers
 
-- Yamaha [HS5](https://www.yamaha.com/en/about/innovation/collection/detail/8050/)
-- ~~Focal Alpha 80~~
+- Yamaha HS5
 
 ### Headphones
 
-- Ollo Audio [S4X](/blog/ollo-audio-headphones/)
-- Sony [MDR-7506](https://pro.sony/ue_US/products/headphones/mdr-7506) (for testing)
-- Beyerdynamic [DT 770 Pro](https://global.beyerdynamic.com/dt-770-pro.html) (for recording bass)
-- ~~AKG Studio K240~~
+- Ollo Audio S4X
+- Sony MDR-7506
+- Beyerdynamic DT 770 Pro
 
 ### MIDI controllers
 
-- Novation [Launchkey Mini MkII](https://novationmusic.com/en/keys/launchkey-mini)
-- Behringer [X-Touch One](https://www.behringer.com/product.html?modelCode=P0CAP) control surface
-- Korg [Micro KEY 66](https://www.korg.com/us/products/computergear/microkey/) MIDI keyboard
+- Novation Launchkey Mini MkII
+- Behringer X-Touch One control surface
+- Korg Micro KEY 66 MIDI keyboard
 
 ### Recorder and microphones
 
-- Zoom [H5 field recorder](https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h5/)
-- Zoom [XY stereo mic](https://zoomcorp.com/en/us/accessories/mic-capsules-foot-switches-and-pedals/XYH-5/)
-- Zoom [SSH-6 mid-side stereo shotgun mic](https://zoomcorp.com/en/us/accessories/mic-capsules-foot-switches-and-pedals/SSH-6/)
-- Shure [SM58](https://www.shure.com/en-US/products/microphones/sm58) mic
-- Rode [NT5 condenser matched pair](https://rode.com/en/microphones/studio-condenser/nt5) mics
-- Rode [Stereo Bar SB20](https://rode.com/es/accessories/stands-bars/stereo-bar)
-- Thomann [SC 1100](https://www.thomannmusic.com/the_tbone_sc1100_grossmembranmikrofon.htm) studio large diaphragm mic
-- A couple of boompoles and tripods
-
-### Mobile device
-
-- Redmi Note 7 dual-SIM by Xiaomi (since 2019)
-- ~~Apple iPhone 4 to 8~~
-- ~~iPad Pro~~
-- ~~iPad Air~~
-
-### eReader
-
-- [Kobo Glo](https://www.the-ebook-reader.com/kobo-glo.html) running [KOreader](http://koreader.rocks/) and kept in sync with [Calibre](https://calibre-ebook.com/).
-- ~~Kindle Paperwhite~~
-- ~~Kobo Touch~~
-
-## Software
+- Zoom H5 field recorder
+- Zoom XY stereo mic
+- Zoom SSH-6 mid-side stereo shotgun mic
+- Shure SM58
+- Rode NT5 condenser matched pair
+- Rode Stereo Bar SB20
+- Thomann SC 1100 studio large diaphragm mic
 
 ### Operating system(s)
 
 - macOS Catalina 10.15.7
 - Windows 10
 
-As a system-agnostic, I can easily work with any OS, depending on the task. I’m interested in experimentation but opposed to updates for the sake of it.
-
 ### Digital Audio Workstations
 
-- [REAPER 6.x](https://www.reaper.fm/)&nbsp;(**[read why]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)**)
-- Logic Pro X 10.6.3 (legacy sessions and clients compatibility)
-- Pro Tools 12 (legacy sessions and clients compatibility)
+- [REAPER 6.x]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)
+- Logic Pro X 10.6.3
+- Pro Tools 12 perpetual
 - Reason 8.3.2
-- ~~Pro Tools~~ (subscription edition until 2021)
-- ~~Logic Platinum 5 to Logic Pro 9~~
-- ~~Cubase VST 4~~
-- ~~Cubasis Audio~~
-- ~~Notator~~
 
 ### Audio editors
 
-- [iZotope RX](https://www.izotope.com/en/products/rx.html)
-- [Triumph](https://www.zynaptiq.com/macaudioapps/)
-- ~~Steinberg WaveLab Pro~~
-- ~~Adobe Audition~~
-- ~~Apple Soundtrack~~
-- ~~Vegas Pro~~
-- ~~Acid Pro~~
-- ~~Sound Forge~~
-- ~~Cool Edit Pro~~
+- iZotope RX 6
+- Zynaptiq Triumph
 
 ### Audio software instruments
 
-- Addictive Drums and Addictive Keys by [XLN Audio](https://www.xlnaudio.com)
-- [Decent Sampler](https://www.decentsamples.com/product/decent-sampler-plugin/) by Decidedly, running the [Pianobook library](https://www.pianobook.co.uk/)
-- [LABS](https://labs.spitfireaudio.com/) by Spitfire
-- [Flow Motion FM Synth](https://www.waves.com/plugins/flow-motion-fm-synth) by Waves
-- [Vital](https://vital.audio/) by Matt Tytel
-- [Sitala](https://decomposer.de/sitala/) by Decomposer
-- [XPand! 2](https://www.adsrsounds.com/product/software/air-music-tech-xpand2-all-in-one-workstation/) by Air
-- [Hollywood Strings Gold](https://www.soundsonline.com/hollywood-orchestra-opus-edition) by EastWest
-- [ReaSamplomatic 5000](https://reaperblog.net/2018/11/rs5k-velocity-round-robin/) by Cockos
-- Reason 8.3.2 included VIs plus rack extensions such as Radical Piano and StringWERK
-- BBC Orchestra by Spitfire
-- [Bass Station](https://resource.novationmusic.com/software/bass-station) by Novation
-- [Podolski](https://u-he.com/products/podolski/) and [Tyrell](https://u-he.com/products/tyrelln6/) by U-he
-- [SR-88](https://www.audiothing.net/instruments/sr-88/) by AudioThing
+- XLN Audio Addictive Drums and Addictive Keys
+- Waldorf Streichfett
+- Decidedly Decent Sampler, running the [Pianobook library](https://www.pianobook.co.uk/)
+- Waves Flow Motion FM Synth
+- Spitfire LABS and BBC Orchestra
+- Matt Tytel's Vital
+- Decomposer Sitala
+- Air XPand! 2
+- EastWest Hollywood Strings Gold
+- Cockos ReaSamplomatic 5000
+- Reason 8.3.2 included VIs plus Radical Piano and StringWERK rack extensions
+- U-he Podolski and Tyrell
+- AudioThing SR-88
 
 ### Audio processing plug-ins
 
-I only focus on a few set of quality plug-ins:
-
-- Horizon bundle, Abbey Road, SSL 4000, CLA and API series plus others by [Waves](https://www.waves.com/)
-- Soundtoys 5 by [soundtoys](https://www.soundtoys.com/product/soundtoys-5/)
-- SPAN plus, TEOTE, MSED and Correlometer by [Voxengo](https://www.voxengo.com)
-- VUMT deluxe and MJUC variable-tube compressor by [Klanghelm](https://klanghelm.com)
-- Ozone 9 advanced by [iZotope](https://www.izotope.com/en/shop/ozone-9-advanced.html)
-- REAPER stock plug-ins by [Cockos](https://www.reaper.fm/reaplugs/)
-
-Occasionally:
-
-- Fog Convolver, Things collection and Valves by [AudioThing](https://www.audiothing.net)
-- Compressors Bank by [McDSP](https://www.mcdsp.com)
-- Melodyne 5 by [Celemony](https://www.celemony.com/)
+- Waves
+- Soundtoys 5
+- Voxengo SPAN plus, TEOTE, MSED and Correlometer
+- Klanghelm VUMT deluxe and MJUC variable-tube compressor
+- iZotope Ozone 9 advanced
+- AudioThing Fog Convolver, Things collection and Valves
+- McDSP Compressors Bank
+- Celemony Melodyne 5
 
 ### Game audio
 
-- [Audiokinetic's Wwise](https://www.audiokinetic.com/products/wwise/)
-- [FMOD studio](https://fmod.com/)
-- [Unreal Engine](https://www.unrealengine.com/)
-- [Unity](https://unity.com/)
+- Audiokinetic's Wwise
+- FMOD studio
+- Unreal Engine
+- Unity
 
-Previously: [Microsoft’s XACT for Xbox]({{ site.url }}/projects/sound-design/console-game-ruff-trigger/#xbox) and in-house [MXE editor and middleware]({{ site.url }}/projects/sound-design/console-game-ruff-trigger).
+Previously: [Microsoft’s XACT for Xbox]({{ site.url }}/work/sound-design/console-game-ruff-trigger/#xbox) and in-house [MXE editor and middleware]({{ site.url }}/work/sound-design/console-game-ruff-trigger).
 
 ### Audio-video accessories
 
-- [Stereo Monoizer](https://www.soundizers.com/)
-- [Myriad](https://www.zynaptiq.com/macaudioapps/)
-- [Handbrake](https://handbrake.fr/)
-- [Explorer](https://soundparticles.com/products/explorer) by Sound Particles
-- [XLD](https://sourceforge.net/projects/xld/)
-
-### Text editors
-
-- [Sublime Text 4](http://www.sublimetext.com/)&nbsp;(**[read why](https://tonsky.me/blog/sublime/)**)
-- [Typora](https://typora.io/)
-- [iA Writer](https://ia.net/writer)
-- ~~VS Code~~
-- ~~Atom~~
-- ~~Textmate~~
-- ~~PS Pad~~
-
-### Browser
-
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-- [Ungoogled Chromium]({{ site.url }}/blog/ungoogled-chromium/) (for testing purposes)
-- Safari (for testing purposes)
-
-### E-mail
-
-- [Protonmail](https://proton.me/mail)
-- [Thunderbird](https://www.thunderbird.net)
-
-### Image manipulation
-
-- [Sketch](https://www.sketch.com/) v59
-- [Pixelmator](https://www.pixelmator.com/)
-- [Graphic Converter](https://www.lemkesoft.de/en/products/graphicconverter/)
-- [ImageOptim](https://imageoptim.com/)
-- ~~Adobe Creative Suite~~
-
-### Desktop publishing
-
-- [Affinity Publisher](https://affinity.serif.com/en-us/publisher/)
-- ~~Adobe InDesign~~
-- ~~Quark Xpress~~
-- ~~Aldus Pagemaker~~
-
-### Office
-
-- Apple's [Pages, Numbers, Keynote](https://www.apple.com/iwork/)
-- Libreoffice
-- ~~Google Workspace~~
-- ~~Microsoft Office~~
-
-### RSS and news
-
-- [Feedbin](https://feedbin.com)
-- [Pocket](https://www.mozilla.org/en-US/firefox/pocket/)
-- ~~Reeder 5~~
-- ~~NetNewsWire~~
-
-### Task management
-
-- [Todo.txt](https://github.com/todotxt)
-- Trello
-- ~~Todoist~~
-- ~~JIRA~~
-- ~~Wunderlist~~
+- Stereo Monoizer
+- Zynaptiq Myriad
+- Handbrake
+- Sound Particles Explorer
 
 ### Music player
 
-- [Swinsian](http://www.swinsian.com)
-- ~~iTunes~~
-- ~~WinAmp~~
+- [Swinsian](http://www.swinsian.com) on macOS
 
 ### Video player
 
-- [IINA](https://iina.io/)
+- [IINA](https://iina.io/) on macOS
 
 ### Utilities
 
-- [Alfred](https://www.alfredapp.com/) as a multi-purpose launcher for macOS
-- [Bitwarden](https://bitwarden.com/) as a password manager
 - [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) for downloading videos from a multitude of online sources
 
 ### Cloud sync
 
 - [Syncthing](https://syncthing.net/)
-- [Dropbox](https://www.dropbox.com/) (in the browser, upload through Transmit)
+- Dropbox in the browser
 
 ### Backup
 
-- [Carbon Copy Cloner](https://bombich.com/)
-- [Backblaze](https://www.backblaze.com/)
+- Carbon Copy Cloner on macOS
+- Backblaze
 
 ---
 
-<span class="p-category dt-updated rounded initialism border bg-light py-2 px-2">Last update: <kbd>{{ page.last_modified_at }}</kbd></span>
+## Emilio Albertoni's equipment
+
+### Workstation
+
+- Mac mini late 2018 upgraded with 32GB RAM
+- 27-in Hp 2K monitor 
+- Wireless Apple Magic Keyboard 2
+- Logitec MX Master 2s mouse
+
+### Music instruments
+
+- Rickenbacker 4003 bass 
+- Precision bass built by liuther Carlos Michelutti from Cremona 
+- Fender Jaguar Original '60 USA 
+- Squier Jazzmaster J.Mascis customized with Curtis Novak Wide Range humbuckers Lee Ranaldo specs 
+- Yamaha CPX-8 Acoustic Guitar 
+- Brunetti Singleman 16w tube amp 
+- TwoNotes Captor 16 loadbox
+- Line6 HX Effects
+- DIY drive/fuzz pedals (ts9, SuperHardOn, Whooly Mammuth)
+- Sequential Prophet6 
+- Yamaha Clavinova digital piano
+
+### Audio interface
+
+- Universal Audio Apollo Twin X Heritage Edition
+- Universal Audio satellite
+
+### Speakers
+
+- Focal Shape 65
+
+### Headphones
+
+- Beyerdynamic DT 880 Pro
+- AKG Studio K240
+
+### MIDI controllers
+
+- Softube Console1
+- Arturia Keystep
+
+### Microphones
+
+- Behringer C1
+- Shure SM58
+
+### Digital Audio Workstations
+
+- [REAPER 6.x]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)
+- Logic Pro X 10.7.4
+- Pro Tools 11 perpetual
+
+### Audio editor
+
+- iZotope RX 8 Elements
+
+### Audio software instruments
+
+- XLN Audio Addictive Drums and Addictive Keys
+- Waldorf Streichfett 
+- Spitfire LABS and BBC Orchestra
+- Softube model 82
+- Sonic Charge Microtonic 
+- Sitala by Decomposer 
+
+### Audio processing plug-ins
+
+- Softube Console1 with SSL400 and SSL9000 plugin
+- Universal Audio UAD
+- Eventide H9 Plugin, Quadravox
+- Neural DSP Parallax
+- iZotope Ozone 9 standard
+- Celemony Melodyne 5
+- Line6 Helix Native 
+- Softube Wasted Space, Harmonics Analog saturator processor, Tape 
+- SSL Flexverb 
+- Plugin Alliance
+
+{% include pattern-last-updated.html %}

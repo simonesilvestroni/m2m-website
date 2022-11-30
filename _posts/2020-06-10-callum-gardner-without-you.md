@@ -2,6 +2,7 @@
 title: '‘Without You’ by Callum Gardner'
 date: '2020-06-10'
 last_modified_at: '2021-11-12 18:12:23'
+author: 'Simone Silvestroni'
 categories:
   - 'Music release'
 tags:
@@ -14,27 +15,36 @@ excerpt: 'Callum Gardner’s new single, <em>Without You</em>, is out now. Full 
 ---
 Like the previous singles, [_Hang Loose_]({{ site.url }}/blog/callum-gardner-hang-loose/) and [_Wriggle A Little_]({{ site.url }}/blog/callum-gardner-wriggle-a-little/), I recorded and produced the single, along with playing my Fender Jazz [fretless bass](https://soundbetter.com/profiles/206552-minutes-to-midnight).
 
-## Video
+## On YouTube
 
 {% include pattern-video.html id="YBhoeAqk2no" %}
 
-## Elsewhere
+## On Bandcamp
 
-The song is also available on [Bandcamp](https://callumgardner.bandcamp.com/track/without-you) and [Spotify](https://open.spotify.com/track/77TvW6kCTo3NlFlPsDWBMx).
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3806119580/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/without-you">Without You by Callum Gardner</a></iframe>' %}
+
+## On Spotify
+
+{% include pattern-spotify.html id="77TvW6kCTo3NlFlPsDWBMx" height="80" %}
 
 ## Credits
 
-### Performers
+**Callum Gardner**<br>
+Vocals and acoustic guitar
 
-**Vocals and acoustic guitar** / Callum Gardner  
-**Electric and lead guitar** / Hugh Wheatley  
-**Bass** / Simone Silvestroni  
-**Drums** / Arlen Millwall  
-**Backing vocals** / Callum Gardner, Hugh Wheatley, Arlen Millwall  
+**Hugh Wheatley**<br>
+Electric and lead guitar, backing vocals
 
-### Production
+**Simone Silvestroni**<br>
+Bass
 
-Music and lyrics / **Callum Gardner**  
-Production / **Minutes to Midnight**  
+**Arlen Millwall**<br>
+Drums, backing vocals
 
-<p class="detached"><mark class="m2m-highlight small"><strong>Released</strong>: May 29, 2020</mark></p>
+## Production
+
+Written by Callum Gardner<br>
+Produced, mixed and mastered by Simone Silvestroni
+
+{: .detached }
+<mark class="m2m-highlight small"><strong>Released</strong>: May 29, 2020</mark>

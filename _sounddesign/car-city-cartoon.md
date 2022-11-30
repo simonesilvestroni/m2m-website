@@ -3,8 +3,7 @@ title: 'Tom the Tow Truck cartoon'
 date: '2020-04-20'
 last_modified_at: '2021-12-16 13:53:59'
 year: "2020"
-type: "sound design"
-subtype: "game audio"
+author: 'Simone Silvestroni'
 skillset:
   - "sound effects"
   - "editing"
@@ -13,23 +12,19 @@ skillset:
   - "logic pro"
 description: "I worked as a sound designer for the Paris-based animation agency Amuse on their acclaimed YouTube show Tom the Tow Truck, part of a series called Car City."
 excerpt: 'Sound design for the Paris-based animation agency Amuse on their acclaimed YouTube show, part of a series called Car City.'
-toc: true
 featimage: true
 featimage-url: '/assets/images/tom-the-tow-truck-cartoon.jpg'
 featimage-height: '600'
-permalink: '/projects/sound-design/car-city-cartoon/'
 ---
 ## Releases
-
-These are a few episodes featuring my sound design.
 
 {% include pattern-video.html id="LLH6DfooMLg" title="Car City: Tom the Tow Truck" %}
 
 {% include pattern-video.html id="h66pXVCEbqw" title="Car City: Tom the Tow Truck" %}
 
-<h4 class="text-uppercase">About Amuse</h4>
+## About Amuse
 
-Founded in 2015, Amuse is dedicated to producing and distributing **kids' content across digital platforms**. 
+Founded in 2015, Amuse is dedicated to producing and distributing kids' content across digital platforms.
 
 > Located in the heart of Paris, our team of artists & animators, writers, developers and executives collaborate everyday to produce & distribute great shows throughout the world.
 
@@ -42,43 +37,43 @@ HR contacted me through [SoundLister](https://soundlister.com/portfolio/simone-s
 
 ## Onboarding
 
-Straightforward process: sign up for an account on their own online production management platform called _Scale3_, join their Slack, read a single induction document explaining the procedure from start to delivery, along with a **set of specifications** and how to file an invoice.
+For the straightforward process, I signed up for an account on their own online production management platform called _Scale3_, joined their Slack, read a single induction document explaining the procedure from start to delivery, along with a set of specifications and how to file an invoice.
 
 ## Project management
 
-The company adopts **agile processes** based on Scale3, to ensure a steady production schedule.
+The company adopts agile processes to ensure a steady production schedule.
 
-The job started before the pandemic and continued during the first lockdowns in Europe. I **interacted with the project manager** using Slack. All the episodes of _Car City_ in production were listed in the system, along with features such as state of completion, deadlines and the required documentation.
+The job started before the pandemic and continued during the first lockdowns in Europe. I interacted with the project manager through Slack. All the episodes of _Car City_ in production were listed in the system, along with features such as state of completion, deadlines and the required documentation.
 
 ## Cloud storage
 
-I had access to a cloud storage, where a certain amount of **audio libraries** created by Amuse were available to download and use. These included all the characters voices, reusable sounds and many car-related effects. While I was bound to use their characters libraries, they let me choose whether to adopt their other SFX folders or not. I ended up using a mix of theirs and mine.
+I had access to a cloud storage, where a certain amount of audio libraries created by Amuse were available to download and use. These included all the characters voices, reusable sounds and many car-related effects. While I was bound to use their characters libraries, they let me free to use whatever I wanted for the rest, so I ended up using a mix of both.
 
 ## Tasks
 
-I chose to book tasks based on the type of story and the fun I thought I would get from their complexity. On Scale3 all the working materials were downloadable from each episode's page: the **pre-recorded voice-over** in `.wav` format, the screenplay and a description of the general requirements.
+I chose to book tasks based on the type of story and the fun I thought I would get from their complexity. The working materials were downloadable from each episode's page: the pre-recorded voice-over in `.wav` format, along with the screenplay and a description of the general requirements.
 
 ## Workflow
 
 Once I familiarized with the screenplay and the silent video animation, my go-to actions were:
 
-- Open my **sound design template** in Logic Pro
+- Open my template in Logic Pro
 - Drag the video into the timeline
 - Create markers with the first obvious cues, such as the reusable scenes
-- Drag and precisely position audio files for the reusable scenes and the voice-overs (following the screenplay document)
+- Drag and precisely position audio files for the reusable scenes and the voice-overs, following the screenplay document
 
-Then it was a matter of following the story and create the sound design for the rest of the movie. Sometimes I kept an iPad in _sidecar mode_, so to have the video on its own.
+Then it was a matter of following the story and create the sound design for the rest of the movie. I kept an iPad as an external monitor, to always have the video on its own.
 
-I didn't particularly use plug-ins except for **reverb with impulse responses**, though I did rely a lot on Logic functionalities such as **item gain**, **pan**, and a whole lot of **automation**.
+I didn't use plug-ins except for impulse response reverbs, though I did rely a lot functionalities such as gain, pan, and a whole lot of automation.
 
 {: .detached .text-center .my-5 }
 ![Logic project with automation for Car City: Tom the Tow Track]({{ site.url }}/assets/images/carcity-tom-logic.jpg){: width='1024' height='604' }
 
-## Delivery & Feedback
+## Delivery
 
 Amuse requested the following specifications:
 
-<p class="detached"><strong>Audio</strong></p>
+**Audio**
 
 - `.wav`
 - Stereo
@@ -96,14 +91,10 @@ Amuse requested the following specifications:
 - HDV
 - `1280*720p`
 
-Once the mix was finalized and uploaded to Scale3, the project manager would listen to it and upload their feedback. I would receive a message on Slack, along with the possibility of having a discussion or asking for further explanations.
+Once the mix was finalized and uploaded, the project manager would listen to it and send their feedback. I would receive a message on Slack, along with the possibility of having a discussion or asking for further explanations.
 
-Once all the edits requested in the feedback were completed and a sign-off was obtained, I would proceed to master the audio  and export the video following the guidelines. The task would be **marked as complete**, usually in less than an hour.
+Once all the edits requested in the feedback were completed and a sign-off was obtained, I would proceed to master the audio  and export the video following the guidelines. The task would be marked as complete, usually in less than an hour.
 
-## Payment & Release
+## Release
 
-Payments would be sent each month on the same day following the upload of an invoice on Scale3, outlining all the signed-off tasks within that timeframe.
-
-The release of episodes on YouTube had a schedule that was outside my scope, but were never too far away: usually a couple of weeks after my delivery.
-
-{% include pattern-button.html link="/contact/" center=true text="Hire me" %}
+The episodes were released on YouTube following a specific schedule, usually a couple of weeks after delivery.

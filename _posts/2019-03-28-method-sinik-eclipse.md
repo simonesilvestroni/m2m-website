@@ -2,6 +2,7 @@
 title: 'New Production: ‘Eclipse’ by Method Sinik'
 date: '2019-04-20'
 last_modified_at: '2021-11-14 17:44:39'
+author: 'Simone Silvestroni'
 categories:
   - 'Music release'
 tags:
@@ -26,12 +27,11 @@ _Eclipse_ is a new single, part of a different batch of new releases, where I up
 
 ## Credits
 
-**Music, production** / Lenny Nathan Frumento  
-**Bass, production, mix, master** / Minutes to Midnight  
+**Lenny Nathan Frumento**<br>
+Music, production
 
-<p class="detached"><mark class="m2m-highlight small"><strong>Released</strong>: March 28, 2019</mark></p>
+**Minutes to Midnight**<br>
+Bass, production, mix, master
 
-## Follow Method Sinik
-
-* [Spotify](https://open.spotify.com/artist/2QVckmsvX8VWle4FU2xbKo)
-* [YouTube](https://www.youtube.com/channel/UCLDl0augblU14OXs7mzBFDg)
+{: .detached }
+<mark class="m2m-highlight small"><strong>Released</strong>: March 28, 2019</mark>

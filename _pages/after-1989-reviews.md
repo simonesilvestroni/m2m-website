@@ -3,41 +3,32 @@ layout: page
 title: 'After 1989: Reviews'
 date: '2020-11-09 10:52:12'
 last_modified_at: '2021-12-02 23:33:06'
-categories: "2020"
-tags: 
-  - "concept album"
-  - "world war ii"
-  - "cold war"
-  - "berlin"
-  - "germany"
-  - "reviews"
-  - "case study"
 description: "A collection in-depth analysis and reviews gathered from Bandcamp, music blogs, podcasts and social media."
-excerpt: 'This page collects <strong>three in-depth analysis</strong> of <a href="/music/after-1989/"><em>After 1989</em></a>, written by Rosa Nadine Xochimilco Sánchez, IndieRepublik (Berlin) and Angry Baby, followed by <strong>reviews</strong> gathered from Bandcamp, music blogs, podcasts and social media.'
+excerpt: 'This page collects three in-depth analysis of <a href="/work/music/after-1989/"><em>After 1989</em></a>, written by Rosa Nadine Xochimilco Sánchez, IndieRepublik (Berlin) and Angry Baby, followed by reviews gathered from Bandcamp, music blogs, podcasts and social media.'
 toc: true
-permalink: '/music/after-1989-reviews/'
+permalink: '/work/music/after-1989-reviews/'
 ---
 ## In-depth reviews
 
 ### Analysis by Rosa Nadine Xochimilco Sánchez
 
-<div class="row justify-content-center">
-  <div class="col-12 col-md-8">
-    <div class="d-flex align-items-center">
-      <div class="flex-shrink-0">
-        <img class="img-thumbnail" src="{{ site.url }}/assets/images/rnxs.jpg" width="100" height="100" alt="Portrait of Rosa Nadine Xochimilco Sánchez">
-      </div>
-      <p class="detached flex-grow-1 fs-6 ms-3 py-0 my-0">Author, small press founder and publisher of <a href="http://xochimilcopress.com/">Xochimilco Press</a>, Rosa has recently published the books of poems: <em>Blue Bones, Blood Roses, Black Eyes</em> and <em>Hearts Aflame, Still Burning</em>.</p>
-    </div>
+<div class="d-flex align-items-center">
+  <div class="flex-shrink-0">
+    <img class="img-thumbnail" src="{{ site.url }}/assets/images/rnxs.jpg" width="100" height="100" alt="Portrait of Rosa Nadine Xochimilco Sánchez">
   </div>
+  <p class="detached flex-grow-1 fs-6 ms-3 py-0 my-0">Author, small press founder and publisher of <a href="http://xochimilcopress.com/">Xochimilco Press</a>, Rosa has recently published the books of poems: <em>Blue Bones, Blood Roses, Black Eyes</em> and <em>Hearts Aflame, Still Burning</em>.</p>
 </div>
 
-<p class="detached">Minutes to Midnight’s new album <em>After 1989: A Trip to Freedom</em> is an incredible story and musical journey by Simone Silvestroni. It feels very personal while being uncompromisingly political. Each song is poignant and strong, showcasing a different historical moment or time, all along the main character’s path of discovery. I absolutely love the story and the songs, especially the way historical audio samples are woven throughout the album, anchoring it in reality, and making it feel incredibly emotional and genuine.</p>
+{: .detached }
+Minutes to Midnight’s new album _After 1989: A Trip to Freedom_ is an incredible story and musical journey by Simone Silvestroni. It feels very personal while being uncompromisingly political. Each song is poignant and strong, showcasing a different historical moment or time, all along the main character’s path of discovery.
 
-> Ultimately at the core of all the beautiful lyrics, very deliberate melodies, and incredible choice of historical audio samples, this is the story of family.
-> <cite>— Rosa Nadine Xochimilco Sánchez</cite>
+I absolutely love the story and the songs, especially the way historical audio samples are woven throughout the album, anchoring it in reality, and making it feel incredibly emotional and genuine.
 
-The subject matter of the concentration camps, the Cold War, and the Berlin Wall all underline the music, and the two things are inseparable from each other as the stories are told. There are echoes of Pink Floyd and The Who in its cinematic scope, as well as darkly emotive lyrics and vocals you might find in tracks by Wolfsheim, Covenant, or Nine Inch Nails. The use of mixed sounds to help develop the story also call upon techniques used by Cirque du Soleil and Gotan Project; and the album even calls back to the works of Robbie Robertson and VNV Nation by including deliberately chosen samples. 
+> Ultimately at the core of all the beautiful lyrics, very deliberate melodies, and incredible choice of historical audio samples, this is the story of family.<cite>— Rosa Nadine Xochimilco Sánchez</cite>
+
+The subject matter of the concentration camps, the Cold War, and the Berlin Wall all underline the music, and the two things are inseparable from each other as the stories are told. There are echoes of Pink Floyd and The Who in its cinematic scope, as well as darkly emotive lyrics and vocals you might find in tracks by Wolfsheim, Covenant, or Nine Inch Nails.
+
+The use of mixed sounds to help develop the story also call upon techniques used by Cirque du Soleil and Gotan Project; and the album even calls back to the works of Robbie Robertson and VNV Nation by including deliberately chosen samples. 
 
 All of these techniques combine to bring together the bouquet of emotional notes which set the story and songs in a carefully constructed web of conflicts and questions, inviting us to follow the pilgrimage hand in hand with the main character.
 
@@ -101,7 +92,7 @@ We can reflect on our journey as the main character reflects on their own, and t
 
 #### Sachsenhausen
 
-The final song on _After 1989: A Trip to Freedom_ is **_Sachsenhausen_**. The journey is so powerful on this album that I initially struggled with this song simply because I didn’t want the journey to end. The opening with the birds signals morning as opposed to mourning. It finally is a new dawn for our character, and really for each of us that has accompanied them. We have hope again, there is birth and rebirth. 
+The final song on _After 1989: A Trip to Freedom_ is _Sachsenhausen_. The journey is so powerful on this album that I initially struggled with this song simply because I didn’t want the journey to end. The opening with the birds signals morning as opposed to mourning. It finally is a new dawn for our character, and really for each of us that has accompanied them. We have hope again, there is birth and rebirth. 
 
 We have come full circle, back to the camps, and we stand with our hero, speaking softly but strong as ever, and just as ready to fight fascism, defending the hope of the world against the darkness. The fantastic layering of vocals gives us the feeling that all incarnations of our main character are singing together, along with their ancestors — a kind of chorus through time — to all be there together, all in this together. Backed by gorgeous acoustic guitar we are comforted by the feeling of everything being together, of layers and layers of feelings finally settling into place. 
 
@@ -117,50 +108,55 @@ Ultimately at the core of all the beautiful lyrics, very deliberate melodies, an
 
 I look forward to sharing it with family and friends who love history and great music as well as DJs who I know would love to have several of the tracks on their dance floor. A great project, well developed, and beautifully accomplished, _After 1989: A Trip to Freedom_, is a journey I look forward to going on again and again.
 
+---
+
 ### A journey of choices & consequences, by IndieRepublik (Berlin)
 
-**Written by** [John Hennessy](https://indierepublik.com/music/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/), November 25, 2019.  
-<br>
+25 November 2019 _Written by_ [John Hennessy](https://indierepublik.com/music/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/)
+
 With a dark and melancholic rock backdrop, the singer-songwriter uses multi-generational experience to explore themes of freedom, memory and personal growth, pieced together with immersive news coverage and a U-bahn journey from central Berlin to Sachsenhausen.  
 
-The first track **_Skinny Kid_** opens with some soft piano and a sombre Bowie-like baritone. The song begins with the narrator’s grandfather telling the young artist of his experiences surviving the holocaust. Eventually we hear the full scope of grunge instrumentation over a hard-hitting classic rock groove, the repetition of the title establishing an innocent perspective that we imagine will change over the course of the record.
+The first track _Skinny Kid_ opens with some soft piano and a sombre Bowie-like baritone. The song begins with the narrator’s grandfather telling the young artist of his experiences surviving the holocaust. Eventually we hear the full scope of grunge instrumentation over a hard-hitting classic rock groove, the repetition of the title establishing an innocent perspective that we imagine will change over the course of the record.
 
-> _After 1989_’s themes are timely and human, and effortlessly connect with a modern audience.
-> <cite>— IndieRepublik</cite>
+> _After 1989_’s themes are timely and human, and effortlessly connect with a modern audience.<cite>— IndieRepublik</cite>
 
-The cleverly named **_A Little Boy that Santa Claus Forgot on a B-29_** documents the grandfather and his friend fleeing Berlin toward the end of the war, also providing a parallel narrative of the atomic bombs being dropped on Hiroshima and Nagasaki. Again, _Little Boy_ comes from a place of innocence which is cleverly complimented by a toy piano and some beautiful viola playing.  
+The cleverly named _A Little Boy that Santa Claus Forgot on a B-29_ documents the grandfather and his friend fleeing Berlin toward the end of the war, also providing a parallel narrative of the atomic bombs being dropped on Hiroshima and Nagasaki. Again, _Little Boy_ comes from a place of innocence which is cleverly complimented by a toy piano and some beautiful viola playing.  
 
-**_The Logic_** decries the decision to build the Berlin wall as being both “cynical” and “cyclical”, possibly a subtle reference to modern issues. Guitars range from twangy and sinister to aggressively distorted, giving this song more of an edge than the previous numbers.  
+_The Logic_ decries the decision to build the Berlin wall as being both “cynical” and “cyclical”, possibly a subtle reference to modern issues. Guitars range from twangy and sinister to aggressively distorted, giving this song more of an edge than the previous numbers.  
 
-**_13 Days_** leans further into grunge territory, with instrumental tones and chords hinting at Soundgarden and Chris Cornell. Lyrically the song deals with the thirteen days of the Cuban missile crisis, attacking attitudes toward nuclear arms at the time. A tastefully spacious rhythm section allows for an unrestrained operatic guitar solo, a particular musical highlight.  
+_13 Days_ leans further into grunge territory, with instrumental tones and chords hinting at Soundgarden and Chris Cornell. Lyrically the song deals with the thirteen days of the Cuban missile crisis, attacking attitudes toward nuclear arms at the time. A tastefully spacious rhythm section allows for an unrestrained operatic guitar solo, a particular musical highlight.  
 
-**_Unter Den Linden_** covers John F. Kennedy’s well received “Ich bin ein Berliner” speech in 1963. The hope is tangible in the line _this time we need to be seen_ and the gentle, breezy chords underscore a more optimistic perspective.  
+_Unter Den Linden_ covers John F. Kennedy’s well received “Ich bin ein Berliner” speech in 1963. The hope is tangible in the line _this time we need to be seen_ and the gentle, breezy chords underscore a more optimistic perspective.  
 
-The hopeful message is offset by the next track **_Love Field_**, which covers the crowd that greeted the president in Dallas an hour before he was tragically assassinated. These songs also connect the story to the present, as it’s clear the narrator identifies with these crowds.  
+The hopeful message is offset by the next track _Love Field_, which covers the crowd that greeted the president in Dallas an hour before he was tragically assassinated. These songs also connect the story to the present, as it’s clear the narrator identifies with these crowds.  
 
-**_Requiem_** jumps ahead in time to the assassination of Martin Luther King, another moment of lost hope that’s presented over a beautiful fretless bass melody. The atmospheric piece ends with a repetition of the words “compassion and love”, presented here as a way of processing pain during these shocking and upsetting events.  
+_Requiem_ jumps ahead in time to the assassination of Martin Luther King, another moment of lost hope that’s presented over a beautiful fretless bass melody. The atmospheric piece ends with a repetition of the words “compassion and love”, presented here as a way of processing pain during these shocking and upsetting events.  
 
-**_The Day Before_** is a heavily jazz influenced piece, with some of the most advanced and interesting playing on the record, particularly in the piano and saxophone parts.  
+_The Day Before_ is a heavily jazz influenced piece, with some of the most advanced and interesting playing on the record, particularly in the piano and saxophone parts.  
 
-The last two tracks bring the album full circle, with the narrator’s trip to Berlin in 1991 serving as the final chapter in the odyssey. **_Berlin 91_** is a touching tribute to a former girlfriend — and friend — who accompanied him on the journey, and finally **_Sachsenhausen_** is a beautifully raw ballad based on a visit to the concentration camp that once imprisoned the narrator’s grandfather. According to the artist, this was the experience that personally clarified the album’s central theme of prison, be it a physical, social or personal prison. Having grown up with the cold war tension and inherited trauma, it’s clear that this was a life affirming event for the narrator and it serves as a satisfying conclusion to a deeply reflective album.  
+The last two tracks bring the album full circle, with the narrator’s trip to Berlin in 1991 serving as the final chapter in the odyssey. 
+
+_Berlin 91_ is a touching tribute to a former girlfriend — and friend — who accompanied him on the journey, and finally _Sachsenhausen_ is a beautifully raw ballad based on a visit to the concentration camp that once imprisoned the narrator’s grandfather. According to the artist, this was the experience that personally clarified the album’s central theme of prison, be it a physical, social or personal prison. 
+
+Having grown up with the cold war tension and inherited trauma, it’s clear that this was a life affirming event for the narrator and it serves as a satisfying conclusion to a deeply reflective album.  
 
 Overall there’s a lot to chew on with this record. The direct and immersive narrative allows history to speak for itself without being preachy or forced. The artist gives us a unique perspective of an outsider who manages to observe a great deal of pain without being directly subjected to it. Its themes are timely and human, and effortlessly connect with a modern audience. 
 
-_After 1989_ is **an immersive and interesting experiment in storytelling** that will leave listeners meditating on its heavy themes. If you’re short on time I would recommend checking out the album opener — it’s very likely that you’ll want to hear the rest of the story.
+_After 1989_ is an immersive and interesting experiment in storytelling that will leave listeners meditating on its heavy themes. If you’re short on time I would recommend checking out the album opener — it’s very likely that you’ll want to hear the rest of the story.
 
 ### A trip to freedom, by _Angry Baby_
 
-**Written by** [Angry Baby](https://www.angrybaby.co.uk/minutes-to-midnight-after-1989-a-trip-to-freedom/), January 27, 2020.  
-<br>
+27 January 27 2020 _Written by_ [Angry Baby](https://www.angrybaby.co.uk/minutes-to-midnight-after-1989-a-trip-to-freedom/)
+
 _After 1989 – A Trip to Freedom_ is Minutes to Midnight's first album and is what the concept was set up to showcase. It tells the story from Simone’s perspective as a grandson, following the trail of his grandfather who managed to escape Germany in 1945.  
 
-The album starts off at the very beginning of the story, with _Skinny Kid_, in which we hear about his grandfather’s escape after the fall of Berlin in 1945. This sets the scene literally and musically for the rest of the album with a fine gravelly voice and an **unmistakably indie vibe**.  
+The album starts off at the very beginning of the story, with _Skinny Kid_, in which we hear about his grandfather’s escape after the fall of Berlin in 1945. This sets the scene literally and musically for the rest of the album with a fine gravelly voice and an unmistakably indie vibe.  
 
-Further on, the album gives us a sense of how Simone felt about both his grandfather’s war experience and growing up **under the cloud of the cold war**. The political face of Europe, particularly Eastern Europe has undergone immense change since 1989 and it’s easy to forget the isolation that East Germany and the rest of the Eastern Bloc endured, or the downplayed but ever present threat of the cold war turning nuclear.  
+Further on, the album gives us a sense of how Simone felt about both his grandfather’s war experience and growing up under the cloud of the cold war. The political face of Europe, particularly Eastern Europe has undergone immense change since 1989 and it’s easy to forget the isolation that East Germany and the rest of the Eastern Bloc endured, or the downplayed but ever present threat of the cold war turning nuclear.  
 
-**The fall of the Berlin wall** began a process that enabled Simone to retrace his grandfather’s footsteps in separate trips. The impact of this is explored in _Unter den Linden_ and _Sachsenhausen_, the latter an acoustic filled, almost bleak sound that explores the affect of war on subsequent generations, not just those who lived through the trauma. We all have our prisons, and those that take a non physical form are no less confining.  
+The fall of the Berlin wall began a process that enabled Simone to retrace his grandfather’s footsteps in separate trips. The impact of this is explored in _Unter den Linden_ and _Sachsenhausen_, the latter an acoustic filled, almost bleak sound that explores the affect of war on subsequent generations, not just those who lived through the trauma. We all have our prisons, and those that take a non physical form are no less confining.  
 
-Throughout _After 1989_, Simone uses archive material to accentuate the music and narrative, most effectively in _Love Field_, about JFK. The insertion of JFK’s “Ich bin ein Berliner” speech and the commentary on the leadup to his assassination in Dallas are especially poignant and **speak to our collective experiences** of the last sixty years. Yet, you remain aware that the album is also a personal journey and one family’s history — the story and the music will stay with you long after the music finishes.
+Throughout _After 1989_, Simone uses archive material to accentuate the music and narrative, most effectively in _Love Field_, about JFK. The insertion of JFK’s “Ich bin ein Berliner” speech and the commentary on the leadup to his assassination in Dallas are especially poignant and speak to our collective experiences of the last sixty years. Yet, you remain aware that the album is also a personal journey and one family’s history — the story and the music will stay with you long after the music finishes.
 
 ## Reviews from the music industry
 

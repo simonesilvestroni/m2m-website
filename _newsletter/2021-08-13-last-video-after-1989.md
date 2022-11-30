@@ -1,11 +1,11 @@
 ---
-title: '🎥 The last music video from my concept album'
+title: 'The last music video from my concept album'
 date: '2021-08-13'
 last_modified_at: '2021-08-13 21:21:28'
 description: 'On the 60th anniversary of the building of the Berlin Wall, I’ve decided to release the last video from my album ‘After 1989’.'
 excerpt: 'On the 60th anniversary of the building of the Berlin Wall, I’ve decided to release the last video from my album <em>After 1989</em>.'
 sitemap: false
-permalink: '/newsletter/archive/last-video-after-1989/'
+permalink: '/newsletter/archives/last-video-after-1989/'
 ---
 _Berlin 91_ is actually the first video I worked on, two years ago. In a suggestive room in Copenhagen, I spent a few hours editing footage shot by Derek Williams in 1990 (thanks Derek!). The genuine approach, along with the fact his images perfectly reflected my memories of Berlin in those days, convinced me.
 

@@ -2,6 +2,7 @@
 title: 'Managing albums with Reaper’s subprojects'
 date: '2022-11-18 12:38:53'
 last_modified_at: '2022-11-18 12:38:57'
+author: 'Simone Silvestroni'
 categories:
   - 'Music production' 
 tags:

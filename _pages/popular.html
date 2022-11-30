@@ -3,13 +3,13 @@ layout: page
 title: 'Popular posts'
 date: '2022-02-08 18:06:49'
 last_modified_at: '2022-04-27 19:44:12'
-description: 'The 5 most popular posts, based on a mix of reactions on social media, private emails and what a few search engines are reporting as search terms.'
-excerpt: 'Based on a mix of reactions on social media, private emails and what a few search engines are reporting as search terms.'
+description: 'The 5 most popular posts, based on a mix of reactions on Mastodon, private emails and what a few search engines are reporting as search terms.'
+excerpt: 'Based on a mix of reactions on Mastodon, private emails and what a few search engines are reporting as search terms.'
 permalink: '/blog/popular/'
 ---
-<section class="h-feed m2m-entry" id="blog-popular-posts">
+<section class="h-feed m2m-entry my-5" id="blog-popular-posts">
   {% assign popular = site.posts | where: "tags", "popular" %}
-  <ol class="h-feed">
+  <ul class="h-feed">
     {%- for post in popular limit:5 -%}
     {% if post %}
     {% assign categories = post.categories %}
@@ -18,5 +18,5 @@ permalink: '/blog/popular/'
     {% endif %}
     <li class="my-2"><a class="p-name u-url m2m-link pe-2" href="{{ post.url }}">{{ post.title }}</a>&nbsp;{%- for category in categories -%}<span class="p-category d-inline-block rounded initialism border bg-light py-0 px-1">#{{ category | upcase | replace:"-"," " }}</span>{% endfor %}</li>
     {%- endfor -%}
-  </ol>
+  </ul>
 </section>
