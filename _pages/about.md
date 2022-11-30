@@ -17,7 +17,7 @@ A professional [bass player](https://soundbetter.com/profiles/206552-minutes-to-
 
 As a music producer, he can handle the process from tracking to mastering, with mixing as the preferred stage. As a sound designer, he enjoys field recording and Foley. Simone sees game audio as the ultimate audio-visual narrative medium. 
 
-Ever since he moved to the UK he worked with local and overseas artists such as Gerald Duchene, Rachel Goodman, Ember Rev and Callum Gardner. Constantly looking for a way to complete a task in less and more efficient steps, he wrote an ebook about [project management for musicians]({{ site.url }}/work/project-management/).
+Ever since moving to the UK he's worked with local and overseas artists such as Gerald Duchene, Rachel Goodman, Ember Rev and Callum Gardner. Constantly looking for a way to complete a task in less and more efficient steps, he wrote an ebook about [project management for musicians]({{ site.url }}/work/project-management/).
 
 He also has a parallel career in web design and front-end development, [carried out under his own name](https://simonesilvestroni.com).
 
