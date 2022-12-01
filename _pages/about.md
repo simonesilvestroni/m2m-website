@@ -80,6 +80,6 @@ Everything connected to sound and music in this website is strictly copyrighted.
 
 ## Trademark
 
-Minutes to Midnight is a registered trademark in the UK. Minutes to Midnight&trade; brand and logo, in all its variants, are use trademarks for the trading name of Simone Silvestroni.
+Minutes to Midnight is a registered trademark in the UK and worldwide. Minutes to Midnight&trade; brand and logo, in all its variants, are use trademarks for the trading name of Simone Silvestroni.
 
 {% include pattern-last-updated.html %}
