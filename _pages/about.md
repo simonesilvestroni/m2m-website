@@ -17,7 +17,7 @@ A professional [bass player](https://soundbetter.com/profiles/206552-minutes-to-
 
 As a music producer, he can handle the process from tracking to mastering, with mixing as the preferred stage. As a sound designer, he enjoys field recording and Foley. Simone sees game audio as the ultimate audio-visual narrative medium. 
 
-After moving to the UK he's worked with local and overseas artists such as Gerald Duchene, Rachel Goodman, Ember Rev and Callum Gardner. Constantly looking for a way to complete a task in less and more efficient steps, he wrote an ebook about [project management for musicians]({{ site.url }}/work/project-management/).
+After moving to the UK he's worked with local and overseas artists such as Gerald Duchene, Rachel Goodman, Ember Rev, Mally Harpaz, Ciara Clifford and Callum Gardner. Constantly looking for a way to complete a task in less and more efficient steps, he wrote an ebook about [project management for musicians]({{ site.url }}/work/project-management/).
 
 He also has a parallel career in web design and front-end development, [carried out under his own name](https://simonesilvestroni.com).
 
@@ -28,7 +28,11 @@ Check out [**Simone’s equipment**](/uses#simone-silvestronis-equipment) →
 
 {% include pattern-figure.html image="/assets/images/emilio-albertoni-playing-live.jpg" alt="Emilio Albertoni playing live" caption="Emilio Albertoni playing live" width="720" height="960" %}
 
-Born in Cremona (Italy), a passion for new wave, electronica and trip hop led him to learn to play guitar and synths. At 22, Emilio moved to Ravenna, where he got to work with several local bands, collaborating as multi-instrumentalist, producer and sound engineer in the studio. 
+Born in Cremona (Italy), a passion for new wave, electronica and trip hop led him to learn to play guitar and synths. At 22, Emilio moved to Ravenna, where he got to work with several local bands, collaborating as multi-instrumentalist, producer and sound engineer in the studio.
+
+He'd toured from 2010 al 2015 with Bruno Valeri and Nevica, taking charge of concert production and defining all the technical facets of the live shows.
+ 
+In 2022, Emilio co-founded Lagnofono Factory, a small independent label where he curates and manages artistic productions. 
 
 He wrote and produced with Mono:fi, Bruno Valeri, Arva Vacua and IsadoraD. As of recently, he started a new collaboration with Simone Silvestroni of Minutes to Midnight (UK), with whom he's working at the debut album.
 
