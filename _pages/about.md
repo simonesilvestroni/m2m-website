@@ -69,7 +69,7 @@ There is no Javascript functionality preventing the content to be fully visible 
 
 The markup is valid, the homepage loads in `0.4` seconds and weigh `100kb` (uncompressed). Member of the [512kb club](https://512kb.club "Member of the 512kb Orange Team") and the [1Mb club](https://1mb.club/).
 
-{: .d-inline-block .border .border-3 .rounded .my-5 .px-3 .py-3 }
+{: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
 More about our [**ethical choices**](/ethics/) →
 
 ## Copyright
