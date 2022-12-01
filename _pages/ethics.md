@@ -26,7 +26,7 @@ In line with a minimalist approach, fighting against bloatware means that this w
 By adopting a static web generator as the dynamic engine for a static website, we [fight webwaste](https://silviamaggidesign.com/design-digested/biased-ai/#webwaste). Compared to the previous version, the website saw an impressive reduction of **724MB** in size.
 
 {: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
-Technical [**details about the website**](/about/#about-the-website) →
+Technical [**details about the website**](/about/#about-this-website) →
 
 ## Decentralization
 
@@ -34,7 +34,7 @@ The website is part of [Indieweb](https://indieweb.org/), therefore it’s capab
 
 ## Small web
 
-Minutes to Midnight is not on any mainstream social media. We used to be on Twitter, Facebook, Instagram and Reddit. That's all gone now, since 2020.
+Minutes to Midnight is not on mainstream social media. We used to be on Twitter, Facebook, Instagram and Reddit. That's all gone now, since 2020.
 
 > Most websites today are built like commercial products by professionals and marketers, optimised to draw the largest audience, generate engagement and ‘convert’. But there is also a smaller, less-visible web designed by regular people to simply to share their interests and hobbies with the world. A web that is unpolished, often quirky but often also fun, creative and interesting.<cite>—&nbsp;Parimal Satyal</cite>
 
@@ -46,11 +46,11 @@ Pretty much all the software we use, with few and rare exceptions, can be instal
 
 ## Subscriptions and walled gardens
 
-Everything that is locked within a _subscription model_ doesn't get attention nor money from us. Similarly, we don't subscribe to any _echosystem_. Albeit slightly less convenient, it allows freedom to move around.
+Everything that is locked within a _subscription model_ doesn't get neither attention nor money from us. Similarly, we don't subscribe to any _ecosystem_. Albeit slightly less convenient, it allows freedom to move around.
 
 The business model that interests us have brilliant examples such as [Cockos Incorporated](https://cockos.com/), makers of _Reaper_, and [Sublime HQ Pty Ltd](https://www.sublimehq.com/), makers of _Sublime Text_: small but solid entities that can move swiftly when needed, with a well-thought model that doesn’t rip off customers. 
 
-We're more than happy to support by buying and upgrading their products, because we'll be listened to. None of them have a marketing department shoving ads to everywhere.
+We're more than happy to support by buying and upgrading their products, because we'll be listened to. None of them have a marketing department shoving ads everywhere.
 
 ## Updates
 
