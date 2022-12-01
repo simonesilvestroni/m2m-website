@@ -24,8 +24,12 @@ last_modified_at: '2022-08-19 10:36:28'
     -------------------------*
   {% endcomment %}
   <section class="h-feed">
-    {%- assign sounddesign = site.sounddesign -%}
-    {%- assign sortedprojects = sounddesign | sort: 'date' | reverse -%}
+    {%- assign originalmusic = site.music | reverse -%}
+    {%- assign musicproduction = site.musicproduction | reverse -%}
+    {%- assign gameaudio = site.gameaudio | reverse -%}
+    {%- assign sounddesign = site.sounddesign | reverse -%}
+    {%- assign = casestudies = originalmusic | concat: musicproduction | concat: gameaudio | concat: sounddesign -%}
+    {%- assign sortedprojects = casestudies | sort: 'date' | reverse -%}
     <h2 class="mb-4 h3">Work</h2>
     <ul class="list-unstyled ps-0 mb-0">
     {% for project in sortedprojects limit: 3 %}

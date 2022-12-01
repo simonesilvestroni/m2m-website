@@ -3,8 +3,8 @@ layout: page
 title: 'Work'
 date: '2021-11-08 10:51:46'
 last_modified_at: '2022-11-30 10:50:29'
-description: 'A few highlights of representative work produced by Minutes to Midnight.'
-excerpt: 'A few highlights of representative work produced by Minutes to Midnight.'
+description: 'Highlights of representative work produced by Minutes to Midnight.'
+excerpt: 'Highlights of representative work produced by Minutes to Midnight.'
 permalink: '/work/'
 toc: true
 ---
