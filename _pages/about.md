@@ -13,13 +13,13 @@ Also  releasing original music over the last {{ page.date | date: "%Y" | minus: 
 
 {% include pattern-figure.html image="/assets/images/simone-silvestroni-warwick-bass.jpg" alt="Simone Silvestroni in Cambridge, standing, with the Warwick Thumb Bass" caption="Simone standing with a Warwick Thumb Bass - Photo by Silvia Maggi" width="1600" height="1066" %}
 
-A professional [bass player](https://soundbetter.com/profiles/206552-minutes-to-midnight){:target="_blank"}, after a 6-year stint in music studios acquiring producing skills during the 1990s, he landed a [game audio designer]({{ site.url }}/work/game-audio/console-game-ruff-trigger/) role in 2000. While leading the audio team, he started his first blog, journaling about working long hours on a console video game while playing *Ico* during pauses.
+Born in Italy at the beginning of the 1970s, he started as a professional [bass player](https://soundbetter.com/profiles/206552-minutes-to-midnight){:target="_blank"} both in the studio and live. After a 6-year stint in music studios acquiring producing skills during the 1990s, he landed a [game audio designer]({{ site.url }}/work/game-audio/console-game-ruff-trigger/) role in 2000. While leading the audio team, he started his first blog, journaling about working long hours on a console video game while playing *Ico* during pauses.
 
 As a music producer, he can handle the process from tracking to mastering, with mixing as the preferred stage. As a sound designer, he enjoys field recording and Foley. Simone sees game audio as the ultimate audio-visual narrative medium. 
 
-After moving to the UK he's worked with local and overseas artists such as Gerald Duchene, Rachel Goodman, Ember Rev, Mally Harpaz, Ciara Clifford and Callum Gardner. Constantly looking for a way to complete a task in less and more efficient steps, he wrote an ebook about [project management for musicians]({{ site.url }}/work/project-management/).
+After moving to the UK in 2011, he's worked with local and overseas artists such as Gerald Duchene, Rachel Goodman, Ember Rev, Mally Harpaz, Ciara Clifford and Callum Gardner. Constantly looking for a way to complete a task in less and more efficient steps, he wrote an ebook about [project management for musicians]({{ site.url }}/work/project-management/).
 
-He also has a parallel career in web design and front-end development, [carried out under his own name](https://simonesilvestroni.com).
+Simone also has a parallel career in web design and front-end development, [carried out under his own name](https://simonesilvestroni.com).
 
 {: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
 Check out [**Simone’s equipment**](/uses#simone-silvestronis-equipment) →
@@ -28,7 +28,7 @@ Check out [**Simone’s equipment**](/uses#simone-silvestronis-equipment) →
 
 {% include pattern-figure.html image="/assets/images/emilio-albertoni-playing-live.jpg" alt="Emilio Albertoni playing live" caption="Emilio Albertoni playing live" width="720" height="960" %}
 
-Born in Cremona (Italy), a passion for new wave, electronica and trip hop led him to learn to play guitar and synths. At 22, Emilio moved to Ravenna, where he got to work with several local bands, collaborating as multi-instrumentalist, producer and sound engineer in the studio.
+Born in Cremona (Italy) in the second half of the 1970s, a passion for new wave, electronica and trip hop led him to learn to play guitar and synths. At 22, Emilio moved to Ravenna, where he got to work with several local bands, collaborating as multi-instrumentalist, producer and sound engineer in the studio.
 
 He'd toured from 2010 al 2015 with Bruno Valeri and Nevica, taking charge of concert production and defining all the technical facets of the live shows.
  
