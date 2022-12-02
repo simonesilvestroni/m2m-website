@@ -24,12 +24,16 @@ featimage-url: '/assets/images/minutes-to-midnight-productions-2017-2022.jpg'
 featimage-height: '600'
 ---
 {: .mt-5 .pt-5 }
-## Nebbia (Part One), single by Arva Vacua 🇮🇹
+## Nebbia (Part One), song by Arva Vacua 🇮🇹
 
 {: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
 Mix
 
 {% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3121255947/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/track=1132146010/transparent=true/" seamless><a href="https://arvavacua.bandcamp.com/album/tales-from-holographic-seas">Tales from holographic seas by Arva Vacua</a></iframe>' %}
+
+{: .mb-5 }
+[Blog post →]({{ site.url }}/blog/arva-vacua-debut-ep/)
+
 
 ---
 
@@ -45,7 +49,7 @@ Master
 ## Ciara Clifford, album by Ciara Clifford 🇬🇧
 
 {: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-String production, Recording
+Strings production, Recording
 
 {% include pattern-spotify.html id="4jaYdZbqJG4JVJrUVujqV7" type="album" height="390" %}
 
@@ -54,7 +58,7 @@ String production, Recording
 ## Zoom In Zoom Out, album by Mally Harpaz 🇬🇧
 
 {: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-String production, Recording
+Strings production, Recording
 
 {% include pattern-bandcamp.html align="left" size="bc-album" iframecode='<iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=1269621726/size=large/bgcol=333333/linkcol=ffffff/transparent=true/" seamless><a href="https://mallyharpaz.bandcamp.com/album/zoom-in-zoom-out">Zoom In Zoom Out by Mally Harpaz</a></iframe>' %}
 
