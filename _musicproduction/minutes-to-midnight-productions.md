@@ -8,6 +8,8 @@ skillset:
   - "bass"
   - "production"
   - "editing"
+  - "reaper"
+  - "pro tools"
   - "logic pro"
   - "reason"
   - "strings"
