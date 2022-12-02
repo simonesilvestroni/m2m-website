@@ -18,7 +18,7 @@ description: 'A collection of productions released through the years that don’
 excerpt: 'A collection of productions released through the years that don’t have a full-fledged case study in the page <a href="/work#music-production">Work</a>.'
 toc: true
 featimage: true
-featimage-url: '/assets/images/producing-commit-to-the-list-by-callum-gardner.jpg'
+featimage-url: '/assets/images/minutes-to-midnight-productions-2017-2022.jpg'
 featimage-height: '600'
 ---
 {: .mt-5 .pt-5 }
