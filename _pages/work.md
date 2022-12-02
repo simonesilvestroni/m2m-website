@@ -56,3 +56,5 @@ toc: true
 {% include pattern-spotify.html id="1EC2Hm0xSywc5pITPMhuIA" type="playlist" height="290" margin="mt-3" %}
 
 {% include pattern-spotify.html id="6yRM57FJ9JKONDAXaLBAdx" type="playlist" height="290" margin="mt-3" %}
+
+{% include pattern-spotify.html id="2IqnJFtKWrnI6JPVjkXHif" type="playlist" height="290" margin="mt-3" %}
