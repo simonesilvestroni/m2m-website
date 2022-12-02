@@ -12,7 +12,7 @@
     '''
     Content-Security-Policy = '''
       default-src 'self' https://webmention.io;
-      style-src 'self';
+      style-src 'self' 'unsafe-inline';
       img-src 'self' https://webmention.io https://*.amazonaws.com;
       script-src 'self' https://s4.bcbits.com;
       frame-src https://www.youtube-nocookie.com/embed/ https://open.spotify.com/embed/ https://w.soundcloud.com/player/ https://bandcamp.com/EmbeddedPlayer/ https://embed.music.apple.com
