@@ -2,11 +2,13 @@
 <div class="row gx-0 d-flex align-items-start my-5 pb-5">
   <div class="col-12 col-md-3 d-flex justify-content-center justify-content-md-start">
     {%- if project.featimage == true -%}
-    <picture class="mx-auto ms-md-0">
-      <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".webp" }}" type="image/webp">
-      <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" type="image/jpeg">
-      <img class="rounded mt-4 mt-md-0" src="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" alt="{{ project.title }}" width="140" height="140">
-    </picture>
+    <a href="{{ project.url }}">
+      <picture class="mx-auto ms-md-0">
+        <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".webp" }}" type="image/webp">
+        <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" type="image/jpeg">
+        <img class="rounded mt-4 mt-md-0" src="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" alt="{{ project.title }}" width="140" height="140">
+      </picture>
+    </a>
     {%- endif -%}
   </div>
   <div class="col-12 col-md-9 ps-4 ps-md-0 pe-4">
