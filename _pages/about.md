@@ -26,7 +26,7 @@ Check out [**Simone’s equipment**](/uses#simone-silvestronis-equipment) →
 
 ## About Emilio Albertoni
 
-{% include pattern-figure.html image="/assets/images/emilio-albertoni-playing-live.jpg" alt="Emilio Albertoni playing live" caption="Emilio Albertoni playing live" width="720" height="960" %}
+{% include pattern-figure.html image="/assets/images/emilio-albertoni-playing-live.jpg" alt="Emilio Albertoni playing live" caption="Emilio playing live" width="720" height="960" %}
 
 Born in Cremona (Italy) in the second half of the 1970s, a passion for new wave, electronica and trip hop led him to learn to play guitar and synths. At 22, Emilio moved to Ravenna, where he got to work with several local bands, collaborating as multi-instrumentalist, producer and sound engineer in the studio.
 
