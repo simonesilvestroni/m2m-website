@@ -11,7 +11,7 @@ last_modified_at: '2022-08-19 10:36:28'
   {% endcomment %}
   <section class="h-feed">
     {%- assign recentPosts = site.posts | sort: 'date' | reverse -%}
-    <h3 class="mb-4 h3">Blog</h3>
+    <h2 class="mb-4 h3">Blog</h2>
     <ul class="list-unstyled ps-0 mb-0">
     {%- for post in recentPosts limit: 4 -%}
     <li class="mt-2 fs-5"><a href="{{ post.url }}" title="Read the post">{{ post.title }}</a></li>
