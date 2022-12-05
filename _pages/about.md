@@ -61,9 +61,9 @@ The website has been [developed from scratch](https://simonesilvestroni.com/proj
 
 Compliant with <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> guidelines.
 
-Only `0.04g` of CO2 is produced every time someone visits the homepage, which is cleaner than 96% of web pages tested. The website is running on sustainable energy and does not request third-party resources, except for the blog posts, which are calling `webmention.io` to render web mentions.
+Only 0.04g of CO2 is produced every time someone visits the homepage, which is cleaner than 96% of web pages tested. The website is running on sustainable energy and does not request third-party resources, except for the blog posts, which are calling `webmention.io` to render web mentions.
 
-The markup is valid, the homepage loads in 0.4 seconds and weigh 265KB (uncompressed). Member of the [512kb club](https://512kb.club "Member of the 512kb Orange Team") and the [1Mb club](https://1mb.club/).
+The markup is valid, the homepage loads in 0.4 seconds and weighs 265KB (uncompressed). Member of the [512kb club](https://512kb.club "Member of the 512kb Orange Team") and the [1Mb club](https://1mb.club/).
 
 No Javascript functionality is preventing the content to be fully visible at any time. The dynamic [search engine](/search/) has an HTML alternative provided in the same page, based on DuckDuckGo, and a second script is processing webmentions. The website is fully accessible with Javascript turned off.
 
