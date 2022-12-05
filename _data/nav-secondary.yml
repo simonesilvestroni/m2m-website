@@ -1,12 +1,12 @@
 menu:
-  - name: Newsletter
-    link: /newsletter/
   - name: Ethics
     link: /ethics/
     desc: 'Philosophy on design, privacy and software'
+  - name: Newsletter
+    link: /newsletter/
   - name: Uses
     link: /uses/
-    desc: 'Equipment I use'
+    desc: 'Equipment we use'
   - name: Archive
     link: /archive/
   - name: RSS
