@@ -23,11 +23,11 @@ featimage: true
 
 In 2018, together with Dan Ecclestone, songwriter for Cambridge-based band Ember Rev, I worked as a co-producer and mixer for their second album, [*Premonition And Ruin*]({{ site.url }}/work/music-production/premonition-and-ruin/). A song didn’t make the cut: *Land Of Kings* is my interpretation of it. Together with *Papillon*, they reference the painful process of living in England through Brexit.
 
-I had been living in the UK for five years when the referendum took place. That night I was up in front of the TV, watching my idea of the UK — England in particular — **crumble before my eyes**.
+I had been living in the UK for five years when the referendum took place. That night I was up in front of the TV, watching my idea of the UK — England in particular — crumble before my eyes.
 
 {% include pattern-video.html id="SAn9Dw_srPA" %}
 
-At five in the morning, right after **the BBC declared the result**, I stood alone in the garden. It was sunny, a good fresh smell in the air. Gobsmacked and incapable of thinking clearly, I felt betrayed.
+At five in the morning, right after the BBC declared the result, I stood alone in the garden. It was sunny, a good fresh smell in the air. Gobsmacked and incapable of thinking clearly, I felt betrayed.
 
 Then, the most pantomimic four years came and went, and all I could see is ‘Rule Britannia’, which looked so out of touch with the world at large. [My wife and I left the UK]({{ site.url }}/blog/back-to-the-future-leaving-the-uk/), and our good friends there, last September. I haven’t yet come to terms with the seismic change.
 
@@ -39,15 +39,15 @@ These two songs, even if written by someone else, prefectly encapsulate those da
 
 ## Production notes
 
-_Papillon_ started with Gerald. He sent the full **Logic Pro X project**, which featured a few instruments I didn't anticipate. The flugelhorn in particular caught me off-guard: it fit the sound so well that when I produced _Land of Kings_ I specifically asked Gerald to write another solo with it.
+_Papillon_ started with Gerald. He sent the full Logic Pro X project, which featured a few instruments I didn't anticipate. The flugelhorn in particular caught me off-guard: it fit the sound so well that when I produced _Land of Kings_ I specifically asked Gerald to write another solo with it.
 
-I produced both songs using REAPER, as I had [recently switched from Pro Tools]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/). With _Papillon_ I worked intensively for a full day, adding the **fretless bass**, editing the drums and enhancing the rhythm with some drum doubling and a new groove using a custom patch on REAPER, where I summed my trusted **XLN Addictive Drums** to **Steven Slate Drums 5**. I wrote a piano theme, refactored all the vocals effect following the same reverb I did use in the original version, and optimized all Gerald's parts.
+I produced both songs using REAPER, as I had [recently switched from Pro Tools]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/). With _Papillon_ I worked intensively for a full day, adding the fretless bass, editing the drums and enhancing the rhythm with some drum doubling and a new groove using a custom patch on REAPER, where I summed my trusted XLN Addictive Drums to Steven Slate Drums 5. I wrote a piano theme, refactored all the vocals effect following the same reverb I did use in the original version, and optimized all Gerald's parts.
 
-For _Land of Kings_ I started with the **Warwick** bass. I replaced all the original harmonium parts with a few synths, one of which is **Logic's Alchemy**, and used the bass to build a delay-driven arpeggio who pretty much served as a leading melody. For both songs, I employed my REAPER presets — which replicate the same patches I've had for years in Logic and then Pro Tools — including **send effects** (verbs, delays) and my interpretation of Michael Brauer's **multi-bus compression**.
+For _Land of Kings_ I started with the [Warwick bass](/uses/). I replaced all the original harmonium parts with a few synths, one of which is Logic's Alchemy, and used the bass to build a delay-driven arpeggio who pretty much served as a leading melody. For both songs, I employed my REAPER presets — which replicate the same patches I've had for years in Logic and then Pro Tools — including send effects (verbs, delays) and my interpretation of Michael Brauer's multi-bus compression.
 
 ### Vocals
 
-I treated all the vocal tracks with my go-to set of multiple tracks running **parallel compression**. LA-2A, a Vari-Mu (I'm currently using a premium Klanghelm plugin), an 1176 and a Fairchild.
+I treated all the vocal tracks with my go-to set of multiple tracks running parallel compression. LA-2A, a Vari-Mu (I'm currently using a premium Klanghelm plugin), an 1176 and a Fairchild.
 
 ### Sound effects
 
