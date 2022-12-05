@@ -34,7 +34,7 @@ He'd toured from 2010 al 2015 with Bruno Valeri and Nevica, taking charge of con
  
 In 2022, Emilio co-founded Lagnofono Factory, a small independent label where he curates and manages artistic productions. 
 
-He wrote and produced with Mono:fi, Bruno Valeri, Arva Vacua and IsadoraD. As of recently, he started a new collaboration with Simone Silvestroni of Minutes to Midnight (UK), with whom he's working at the debut album.
+He wrote and produced with Mono:fi, Bruno Valeri, [Arva Vacua](https://arvavacua.it) and IsadoraD. As of recently, he started a new collaboration with Simone Silvestroni of Minutes to Midnight (UK), with whom he's working at the debut album.
 
 {: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
 Check out [**Emilio’s equipment**](/uses#emilio-albertonis-equipment) →
