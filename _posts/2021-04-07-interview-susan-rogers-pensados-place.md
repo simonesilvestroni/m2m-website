@@ -23,7 +23,7 @@ excerpt: "I watched this amazing video interview, arguably the best one in a whi
 
 > Susan Rogers holds a doctoral degree in experimental psychology from McGill University (2010). Prior to her science career, Susan was a multiplatinum-earning record producer, mixer, engineer, and audio technician.
 <br><br> 
-> She is best known for her work with **Prince** during his peak creative period (1983-1987) but production, engineering, mix credits also include David Byrne, Barenaked Ladies, Geggy Tah, Nil Lara, Robben Ford, Tricky, Michael Penn, Jeff Black, and many more.
+> She is best known for her work with Prince during his peak creative period (1983-1987) but production, engineering, mix credits also include David Byrne, Barenaked Ladies, Geggy Tah, Nil Lara, Robben Ford, Tricky, Michael Penn, Jeff Black, and many more.
 <br><br>
 > She is currently a Professor in the departments of Music Production & Engineering and Liberal Arts at [Berklee College of Music, Boston](https://www.berklee.edu/), where she teaches psychoacoustics, record production and analog recording techniques.
 

@@ -33,7 +33,7 @@ From REAPER's official manual:
 
 ## My REAPER project containing 6 subprojects
 
-Although several ways to add a subproject to a REAPER project are possible, I hit the menu **Insert** and chose "Media file&hellip;" (Fig. 1).
+Although several ways to add a subproject to a REAPER project are possible, I hit the menu Insert and chose "Media file&hellip;" (Fig. 1).
 
 {% include pattern-figure.html image="/assets/images/reaper-subproject-combo-01-add-project.jpg" alt="REAPER software showing an open Insert menu saying Media file" caption="Fig. 1 — Adding a project into another project" width="1024" height="640" %}
 

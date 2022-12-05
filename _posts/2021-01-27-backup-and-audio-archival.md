@@ -15,7 +15,7 @@ excerpt: "A quick explanation of my strategy for saving and preserving audio mat
 ---
 ## Why offer audio archival to clients?
 
-I believe audio archiving is a nice-to-have additional feature to offer to clients. Think about **future potential re-mixing or re-mastering**, for instance. Audio stems from each session can be carefully filed to multiple sources, to guarantee the **preservation of the material** for years to come. Please note that I don’t offer _full sessions archives_, as that’s unrealistic.
+I believe audio archiving is a nice-to-have additional feature to offer to clients. Think about future potential re-mixing or re-mastering, for instance. Audio stems from each session can be carefully filed to multiple sources, to guarantee the preservation of the material for years to come. Please note that I don’t offer _full sessions archives_, as that’s unrealistic.
 
 ## Perfecting the backup strategy
 

@@ -29,19 +29,19 @@ In **[part 1]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)
 
 ### Themes
 
-Pretty much everything can be customized, down to the look & feel. Like [its creator](https://en.wikipedia.org/wiki/Justin_Frankel)‘s first successful software, **Winamp**, REAPER supports themes. Though it’s not my main interest, there are plenty of excellent (and awful) [skins](https://stash.reaper.fm/tag/Themes) out there.
+Pretty much everything can be customized, down to the look & feel. Like [its creator](https://en.wikipedia.org/wiki/Justin_Frankel)‘s first successful software, Winamp, REAPER supports themes. Though it’s not my main interest, there are plenty of excellent (and awful) [skins](https://stash.reaper.fm/tag/Themes) out there.
 
 ### Scripts & macros
 
-This is a huge one for me. REAPER has a [scripting engine](https://www.reaper.fm/sdk/reascript/reascript.php). It’s a DAW that can be **manipulated through programming**, whether it’s Python, Lua, or its own open source language (EEL). Even without being a coder, a lot can still be achieved with the myriad of stock commands (_actions_), shortcuts and mouse modifiers alone, not to mention the possibility of creating multi-layered **custom actions** (basically: macros).
+This is a huge one for me. REAPER has a [scripting engine](https://www.reaper.fm/sdk/reascript/reascript.php). It’s a DAW that can be manipulated through programming, whether it’s Python, Lua, or its own open source language (EEL). Even without being a coder, a lot can still be achieved with the myriad of stock commands (_actions_), shortcuts and mouse modifiers alone, not to mention the possibility of creating multi-layered custom actions (basically: macros).
 
 {% include pattern-figure.html image="/assets/images/daw-reaper-custom-actions.png" caption="The actions window, featuring my current custom macros at the top" width="768" height="339" %}
 
-**REAPER is fast** and allows access to each and every function by hitting the <kbd>?</kbd> shortcut, which opens the **actions list**.
+*REAPER is fast* and allows access to each and every function by hitting the <kbd>?</kbd> shortcut, which opens the actions list.
 
 ### Making the DAW work my way
 
-Personal example: through the creation of custom actions, I embedded some of my most used workflows from Logic and Pro Tools. I even **applied the same keyboard shortcuts** in several cases, so that I didn’t have to “rewire” my muscle memory. Custom toolbars can be created as well. As opposed to the always-on main toolbar, which holds frequently used commands, I recall a **floating toolbar** with a shortcut. It has actions and macros — in the form of buttons — that I only need sometimes. Once I’m done, it hides with the escape key. I’m scratching the surface here, the possibilities are endless.
+Personal example: through the creation of custom actions, I embedded some of my most used workflows from Logic and Pro Tools. I even applied the same keyboard shortcuts in several cases, so that I didn’t have to “rewire” my muscle memory. Custom toolbars can be created as well. As opposed to the always-on main toolbar, which holds frequently used commands, I recall a floating toolbar with a shortcut. It has actions and macros — in the form of buttons — that I only need sometimes. Once I’m done, it hides with the escape key. I’m scratching the surface here, the possibilities are endless.
 
 {% include pattern-figure.html image="/assets/images/daw-reaper-custom-toolbar.png" caption="A floating toolbar I created, containing some of my custom actions" width="768" height="138" %}
 
@@ -82,7 +82,7 @@ Cockos is [made of two programmers and a few collaborators](http://cockos.com/te
 
 > Cockos is like a family-owned small business. They’re amazingly talented and hard working to compete with other DAW companies that hire whole slews of programmers and graphic designers.
 
-Being **open to third-party interventions**, the obvious brilliant result is that many talented people can create plug-ins, skins and extensions. With such an architecture, REAPER doesn’t depend on a centralized, slow and distant big corporation. Besides the mentioned Stash, [ReaPack](https://reapack.com/) and the [SWS/S&M extension](https://www.sws-extension.org/) are other amazing places where to find brilliant add-ons. These are all open source projects hosted on Github.
+Being open to third-party interventions, the obvious brilliant result is that many talented people can create plug-ins, skins and extensions. With such an architecture, REAPER doesn’t depend on a centralized, slow and distant big corporation. Besides the mentioned Stash, [ReaPack](https://reapack.com/) and the [SWS/S&M extension](https://www.sws-extension.org/) are other amazing places where to find brilliant add-ons. These are all open source projects hosted on Github.
 
 ### A personal experience: X-Touch One
 
@@ -94,7 +94,7 @@ Like other tools who adopts the Mackie protocol though, the X-Touch One handles 
 
 On a Gearspace thread, plenty of producers were complaining about the same issue. Even someone from Behringer was involved. At a certain point, a user pointed out that in the REAPER’s forum there was a solution, specific to that DAW. That’s how I found CSI, a custom-created extension for external controllers. Again: it’s open source and hosted on Github.
 
-Downloaded for free, I [installed it and configured in minutes](https://github.com/GeoffAWaddington/reaper_csurf_integrator/wiki/Installation). Now, when I select a track with the mouse in REAPER, that same track is automatically reflected in X-Touch One, ready to be worked fast with fader, pan, solo, mute and more. This **spirit of community** and the admirable level of flexibility are impossible to find within corporate-made software.
+Downloaded for free, I [installed it and configured in minutes](https://github.com/GeoffAWaddington/reaper_csurf_integrator/wiki/Installation). Now, when I select a track with the mouse in REAPER, that same track is automatically reflected in X-Touch One, ready to be worked fast with fader, pan, solo, mute and more. This *spirit of community* and the admirable level of flexibility are impossible to find within corporate-made software.
 
 ## Benefit 6: Stock plug-ins
 
@@ -103,7 +103,7 @@ The question of stock plug-ins is a neverending debate in the music production b
 - are stock plug-ins okay to use?
 - can I use them to produce good music or shall I buy the commercial ones?
 
-I had decided a while back to settle on [very few third-party plug-ins](/uses/), and learn them in depth. I was using Logic at the time, and my intent was to be as **platform agnostic** as possible. Now that I’ve experimented with Cockos’ native FXs, I can safely say that I don’t need anything new for the foreseeable future. My existing commercial plug-ins, plus the REAPER integrated arsenal, is more than enough. On the topic, there’s also a video series by the great Dan Worrall.
+I had decided a while back to settle on [very few third-party plug-ins](/uses/), and learn them in depth. I was using Logic at the time, and my intent was to be as platform agnostic as possible. Now that I’ve experimented with Cockos’ native FXs, I can safely say that I don’t need anything new for the foreseeable future. My existing commercial plug-ins, plus the REAPER integrated arsenal, is more than enough. On the topic, there’s also a video series by the great Dan Worrall.
 
 {% include pattern-video.html id="3OoVnTO3AB4" %}
 
