@@ -36,27 +36,27 @@
     "@type": "WebPage",
     "@id": "{{ site.url }}{{ page.url }}"
   },
-  "sameAs": [
-    "https://indieweb.social/@m2m",
-    "https://www.linkedin.com/in/simonesilvestroni/",
-    "https://github.com/simonesilvestroni/",
-    "https://minutestomidnight.bandcamp.com/",
-    "https://www.youtube.com/@m2m",
-  ],
   {%- if page.featimage %}
   "image": {
     "@type": "ImageObject",
     "width": "1024",
     "height": "765",
     "url": "{{ site.url }}{{ page.featimage-url }}"
-  }
+  },
   {%- else %}
   "image": {
     "@type": "ImageObject",
     "width": "1200",
     "height": "628",
     "url": "{{ site.url }}{{ site.logo }}"
-  }
+  },
   {%- endif %}
+  "sameAs": [
+    "https://indieweb.social/@m2m",
+    "https://www.linkedin.com/in/simonesilvestroni/",
+    "https://github.com/simonesilvestroni/",
+    "https://minutestomidnight.bandcamp.com/",
+    "https://www.youtube.com/@m2m",
+  ]
 }
 </script>
