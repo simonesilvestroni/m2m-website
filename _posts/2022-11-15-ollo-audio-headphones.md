@@ -28,7 +28,7 @@ Generally considered as the NS-10 of headphones, for several years the trusted c
 
 3️⃣ The sound is magnificent, moving the bar of perceived audio quality up several notches. After loading a mixing session I've been working on yesterday, I could quickly pinpoint a few spots where to fix a less than perfect amount of low-end in acoustic instruments, such as nylon guitars.
 
-4️⃣ Right to repair and [durability](/blog/degrowth/). This is big to me: since Ollo is not a soulless large corporation, they can be bothered with providing the actual frequency response test printed on paper and hand signed by the technician. They value the money people spend on their products, also offering a 5-year warranty. A section of their website is dedicated to shopping for spare parts.
+4️⃣ Right to repair and [durability](https://simonesilvestroni.com/blog/degrowth/). This is big to me: since Ollo is not a soulless large corporation, they can be bothered with providing the actual frequency response test printed on paper and hand signed by the technician. They value the money people spend on their products, also offering a 5-year warranty. A section of their website is dedicated to shopping for spare parts.
 
 > We strongly believe that modern products should be designed with serviceability in mind. Any and all spare parts must be available and exchangeable with home tools.<cite>—**Ollo**</cite>
 

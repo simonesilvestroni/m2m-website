@@ -22,7 +22,7 @@ After moving to the UK in 2011, he's worked with local and overseas artists such
 Simone also has a parallel career in web design and front-end development, [carried out under his own name](https://simonesilvestroni.com).
 
 {: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
-Check out [**Simone’s equipment**](/uses#simone-silvestronis-equipment) →
+Check out [**Simone’s equipment**](/uses/) →
 
 ## About Emilio Albertoni
 
@@ -37,7 +37,7 @@ In 2022, Emilio co-founded Lagnofono Factory, a small independent label where he
 He wrote and produced with Mono:fi, Bruno Valeri, [Arva Vacua](https://arvavacua.it) and IsadoraD. As of recently, he started a new collaboration with Simone Silvestroni of Minutes to Midnight (UK), with whom he's working at the debut album.
 
 {: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
-Check out [**Emilio’s equipment**](/uses#emilio-albertonis-equipment) →
+Check out [**Emilio’s equipment**](/uses/) →
 
 ## Name and logo
 

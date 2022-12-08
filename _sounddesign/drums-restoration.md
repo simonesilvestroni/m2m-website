@@ -21,7 +21,7 @@ featimage-height: '600'
 ---
 ## Drums restoration & doubling
 
-In 2017 I was playing bass and [producing the debut single]({{ site.url }}/blog/callum-gardner-debut-single/) for London-based singer-songwriter Callum Gardner. Most of the tracking was handled externally at SAE in London.
+In 2017 I was playing bass and [producing the debut single]({{ site.url }}/work/music-production/callum-gardner-debut-single/) for London-based singer-songwriter Callum Gardner. Most of the tracking was handled externally at SAE in London.
 
 After receiving the audio tracks, I noticed two issues with the drums.
 

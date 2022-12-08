@@ -107,7 +107,7 @@ toc: true
 - Unreal Engine
 - Unity
 
-Previously: [Microsoft’s XACT for Xbox]({{ site.url }}/work/sound-design/console-game-ruff-trigger/#xbox) and in-house [MXE editor and middleware]({{ site.url }}/work/sound-design/console-game-ruff-trigger).
+Previously: [Microsoft’s XACT for Xbox]({{ site.url }}/work/game-audio/console-game-ruff-trigger/#xbox) and in-house [MXE editor and middleware]({{ site.url }}/work/game-audio/console-game-ruff-trigger).
 
 ### Audio-video accessories
 

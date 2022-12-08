@@ -17,7 +17,7 @@ skillset:
   - "mix"
   - "master"
 description: 'A collection of productions released through the years that don’t have a full-fledged case study in the page Work.'
-excerpt: 'A collection of productions released through the years that don’t have a full-fledged case study in the page <a href="/work#music-production">Work</a>.'
+excerpt: 'A collection of productions released through the years that don’t have a full-fledged case study in the page <a href="/work/">Work</a>.'
 toc: true
 featimage: true
 featimage-url: '/assets/images/minutes-to-midnight-productions-2017-2022.jpg'
