@@ -9,7 +9,7 @@ permalink: '/download/success/'
 robots: 'noindex,follow'
 sitemap: false
 ---
-Also, thank you for subscribing to my newsletter. You will receive an email confirmation soon. Should you change your mind, [tell me via email](mailto:contact@minutestomidnight.co.uk).
+Also, thank you for subscribing to my newsletter. You will receive an email confirmation soon. Should you change your mind, [tell me via email](mailto:hello@minutestomidnight.co.uk).
 
 {: .m2m-bg-alpha .border .border-3 .rounded .p-3 .mb-5 .fs-5 }
 [Go back →](/work/)
