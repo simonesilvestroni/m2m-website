@@ -13,11 +13,11 @@ Also  releasing original music over the last {{ page.date | date: "%Y" | minus: 
 
 {% include pattern-figure.html image="/assets/images/simone-silvestroni-warwick-bass.jpg" alt="Simone Silvestroni in Cambridge, standing, with the Warwick Thumb Bass" caption="Simone standing with a Warwick Thumb Bass - Photo by Silvia Maggi" width="1600" height="1066" %}
 
-Born in Italy at the beginning of the 1970s, he started as a professional [bass player](https://soundbetter.com/profiles/206552-minutes-to-midnight){:target="_blank"} both in the studio and live. After a 6-year stint in music studios acquiring producing skills during the 1990s, he landed a [game audio designer]({{ site.url }}/work/game-audio/console-game-ruff-trigger/) role in 2000. While leading the audio team, he started his first blog, journaling about working long hours on a console video game while playing *Ico* during pauses.
+Born in Italy at the beginning of the 1970s, he started as a professional [bass player](https://soundbetter.com/profiles/206552-minutes-to-midnight){:target="_blank"} both in the studio and live after graduating at the CPM school in Milan. After a 6-year stint in music studios acquiring producing skills during the 1990s, he landed a [game audio designer]({{ site.url }}/work/game-audio/console-game-ruff-trigger/) role in 2000. While leading the audio team, he started his first blog, journaling about working long hours on a console video game while playing *Ico* during pauses.
 
 As a music producer, he can handle the process from tracking to mastering, with mixing as the preferred stage. As a sound designer, he enjoys field recording and Foley. Simone sees game audio as the ultimate audio-visual narrative medium. 
 
-After moving to the UK in 2011, he's worked with local and overseas artists such as Gerald Duchene, Rachel Goodman, Ember Rev, Mally Harpaz, Ciara Clifford and Callum Gardner. Constantly looking for a way to complete a task in less and more efficient steps, he wrote an ebook about [project management for musicians]({{ site.url }}/work/project-management/).
+After moving to the UK in 2011 and graduating at Berklee in music production and audio mastering, he's worked with local and overseas artists such as Gerald Duchene, Rachel Goodman, Ember Rev, Mally Harpaz, Ciara Clifford and Callum Gardner. Constantly looking for a way to complete a task in less and more efficient steps, he wrote an ebook about [project management for musicians]({{ site.url }}/work/project-management/). Apple certified for Logic Pro X.
 
 Simone also has a parallel career in web design and front-end development, [carried out under his own name](https://simonesilvestroni.com).
 
