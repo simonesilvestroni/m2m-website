@@ -2,12 +2,12 @@ menu:
   - name: About
     link: /about/
     desc: 'Who we are and what’s the moniker about'
-  - name: Work
-    link: /work/
-    desc: 'A selection of our recent work'
   - name: Blog
     link: /blog/
     desc: 'Articles, interviews, press releases'
+  - name: Work
+    link: /work/
+    desc: 'A selection of our recent work'
   - name: Contact
     link: /contact/
     desc: 'Get in touch'
