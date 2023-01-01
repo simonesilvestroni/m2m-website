@@ -7,7 +7,7 @@ description: 'Minutes to Midnight was founded by Simone Silvestroni in the UK in
 excerpt: 'Founded by digital polymath Simone Silvestroni in Cambridge (UK) in 2017, Minutes to Midnight has been providing a vast array of audio production services such as mix, mastering and sound design.'
 permalink: '/about/'
 ---
-Also  releasing original music over the last {{ page.date | date: "%Y" | minus: 2019 }} years, in 2022 was joined by multi-instrumentalist and producer Emilio Albertoni.
+Also releasing original music over the last {{ page.date | date: "%Y" | minus: 2019 }} years, in 2022 was joined by multi-instrumentalist and producer Emilio Albertoni.
 
 ## About Simone Silvestroni
 
