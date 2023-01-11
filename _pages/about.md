@@ -24,6 +24,9 @@ Simone also has a parallel career in web design and front-end development, [carr
 {: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
 Check out [**Simone’s equipment**](/uses/) →
 
+{: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
+Full resume [**on LinkedIn**](https://www.linkedin.com/in/simonesilvestroni/) →
+
 ## About Emilio Albertoni
 
 {% include pattern-figure.html image="/assets/images/emilio-albertoni-playing-live.jpg" alt="Emilio Albertoni playing live" caption="Emilio playing live" width="720" height="960" %}
