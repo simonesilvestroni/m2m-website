@@ -2,7 +2,7 @@
 layout: page
 title: 'Ethics'
 date: '2022-11-23 11:23:18'
-last_modified_at: '2022-11-30 15:50:33'
+last_modified_at: '2023-01-11 10:17:41'
 description: 'Ethics and philosophy over privacy, design, web architecture and the software we use.'
 excerpt: 'Instead of a privacy policy page, here is a manifesto of what Minutes to Midnight adhere to.'
 permalink: '/ethics/'
