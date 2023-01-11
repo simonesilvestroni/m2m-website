@@ -65,7 +65,6 @@ toc: true
 
 - [REAPER 6.x]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)
 - Logic Pro X 10.6.3
-- Pro Tools 12 perpetual
 - Reason 8.3.2
 
 ### Audio editors

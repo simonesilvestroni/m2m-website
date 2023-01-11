@@ -44,6 +44,8 @@ After stopping being attached to a particular brand, becoming _system agnostic_ 
 
 Pretty much all the software we use, with few and rare exceptions, can be installed and run from any operating system.
 
+We don't use illegal software.
+
 ## Subscriptions and walled gardens
 
 Everything that is locked within a _subscription model_ doesn't get neither attention nor money from us. Similarly, we don't subscribe to any _ecosystem_. Albeit slightly less convenient, it allows freedom to move around.
@@ -60,8 +62,6 @@ At the same time, we stopped caring for all Apple updates ever since they had ch
 
 ## Newsletter
 
-If you subscribe to our newsletter, we will collect your email address, which will be stored on ProtonMail's secure servers. It will be used solely to send you emails. We do not share it with third parties. You can unsubscribe at any moment via the link in any newsletter.
-
-Learn more about [ProtonMail’s privacy practices ↗](https://protonmail.com/privacy-policy/) (paragraph: _Data Collection_).
+If you subscribe to our newsletter, we will collect your email address, which will be safely stored. It will be used solely to send you emails. We do not share it with third parties. You can unsubscribe at any moment via the link in any newsletter.
 
 {% include pattern-last-updated.html %}
