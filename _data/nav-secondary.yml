@@ -12,6 +12,9 @@ menu:
   - name: RSS
     link: /rss/
     desc: 'RSS feed'
+  - name: Colophon
+    link: /colophon/
+    desc: 'About this website'
   - name: Search
     link: /search/
     desc: 'Search for anything'
