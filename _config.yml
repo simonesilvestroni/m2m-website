@@ -12,13 +12,12 @@ posts_limit: 20
 # SEO
 # -------------------
 title: Minutes to Midnight
-tagline: Music producers and sound designers
-description: Digital polymaths, we master the art of sound design, production and writing music since the 1990s.
+tagline: Music producer and sound designer
+description: Digital polymath, I master the art of sound design and music production since the 1990s.
 permalink: /blog/:title/
 keywords:
   minutes to midnight,
   simone silvestroni,
-  emilio albertoni,
   sound design,
   bass player,
   game audio,
@@ -39,7 +38,7 @@ author:
 # Brand
 # -------------------
 brand:
-  m2m_intro: 'Digital polymaths, we master the art of sound design, production and writing music since the 1990s.'
+  m2m_intro: 'Digital polymath, I master the art of sound design and music production since the 1990s'
 
 # -------------------
 # Exclusions
@@ -173,40 +172,38 @@ plugins:
 # Work endorsements
 # -------------------
 endorsements:
-  audio:
-    - name: 'Jean-Claude Nouchy'
-      role: 'FX Supervisor at Scanline VFX'
-      url: 'https://www.linkedin.com/in/jcn-visualcortexlab/'
-      quote: 'When passion goes beyond working duties... here’s Simone. Addiction and reliability are two great details you cant easily find nowadays in a professional and he gets both.'
-    - name: 'Christopher Carvalho'
-      role: 'Founder at Unlock Your Sound'
-      url: 'https://unlockyoursound.com/'
-      quote: 'What’s always impressed me about Simone is his attention to detail, which he demonstrates in every area of his work. Not only is he a prolific producer and bassist, but he easily comprehends and executes on the most abstract concepts across tech, audio, marketing, branding, and visual arts. When you work with Simone, everything is down, documented, and organised, which makes it very easy to work with him directly or in the context of a team.'
-    - name: 'Chris Pavey'
-      role: 'Mastering engineer at CPM'
-      url: 'https://www.linkedin.com/in/chris-pavey-12034559/'
-      quote: 'Simone is a gifted musician, producer and all round creative, with every project we have worked on being greatly improved by his talents. Impressive technical proficiency with various DAWs (ProTools, Wavelab, RX) as well as the creative knowledge to craft with them what ever is required for the project. When working with Simone, his precise and detailed manor make him an excellent addition to any project or team.'
+  - name: 'Jean-Claude Nouchy'
+    role: 'FX Supervisor at Scanline VFX'
+    url: 'https://www.linkedin.com/in/jcn-visualcortexlab/'
+    quote: 'When passion goes beyond working duties... here’s Simone. Addiction and reliability are two great details you cant easily find nowadays in a professional and he gets both.'
+  - name: 'Christopher Carvalho'
+    role: 'Founder at Unlock Your Sound'
+    url: 'https://unlockyoursound.com/'
+    quote: 'What’s always impressed me about Simone is his attention to detail, which he demonstrates in every area of his work. Not only is he a prolific producer and bassist, but he easily comprehends and executes on the most abstract concepts across tech, audio, marketing, branding, and visual arts. When you work with Simone, everything is down, documented, and organised, which makes it very easy to work with him directly or in the context of a team.'
+  - name: 'Chris Pavey'
+    role: 'Mastering engineer at CPM'
+    url: 'https://www.linkedin.com/in/chris-pavey-12034559/'
+    quote: 'Simone is a gifted musician, producer and all round creative, with every project we have worked on being greatly improved by his talents. Impressive technical proficiency with various DAWs (ProTools, Wavelab, RX) as well as the creative knowledge to craft with them what ever is required for the project. When working with Simone, his precise and detailed manor make him an excellent addition to any project or team.'
 
 # -------------------
 # Work certifications
 # -------------------
 certifications:
-  sound:
-    - name: 'Berklee College Of Music'
-      href: 'https://www.berklee.edu/'
-      desc: '(audio master engineering, music production, electric bass), 2011-2016'
-    - name: 'Apple Pro Certified'
-      href: 'https://training.apple.com/us/en/recognition'
-      desc: 'Logic Pro X 10.3, London, 2018'
-    - name: 'Game Developer Conference'
-      href: 'https://www.gdconf.com/'
-      desc: 'San Jose (California), 2002'
-    - name: 'Game Audio Network Guild'
-      href: 'https://www.audiogang.org/'
-      desc: 'bronze member, San Jose (California), 2002'
-    - name: 'Centro Professione Musica'
-      href: 'https://www.cpm.it/corsi-musica-milano'
-      desc: 'diploma (bass, music theory, harmony &amp; arrangement), Milan, 1993-1995'
+  - name: 'Berklee College Of Music'
+    href: 'https://www.berklee.edu/'
+    desc: '(audio master engineering, music production, electric bass), 2011-2016.'
+  - name: 'Apple Pro Certified'
+    href: 'https://training.apple.com/us/en/recognition'
+    desc: 'Logic Pro X 10.3, London, 2018.'
+  - name: 'Game Developer Conference'
+    href: 'https://www.gdconf.com/'
+    desc: 'San Jose (CA), 2002.'
+  - name: 'Game Audio Network Guild'
+    href: 'https://www.audiogang.org/'
+    desc: 'bronze member, San Jose (CA), 2002.'
+  - name: 'Centro Professione Musica'
+    href: 'https://www.cpm.it/corsi-musica-milano'
+    desc: 'diploma (bass, music theory, harmony &amp; arrangement), Milan, 1993-1995.'
 
 # -------------------
 # Publications
