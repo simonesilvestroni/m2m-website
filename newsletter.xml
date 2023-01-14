@@ -6,7 +6,7 @@ layout: none
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="{{ site.lang }}">
   <channel>
     <title>{{ site.title | xml_escape }} - Newsletter RSS feed</title>
-    <description>Aperiodic newsletter. We only send one when there are updates to share, mostly about releases or facts from the audio and game industries.</description>
+    <description>Aperiodic newsletter. I only send one when there are updates to share, mostly about releases or facts from the audio and game industries.</description>
     <link>{{ site.url }}/newsletter/</link>
     <language>{{ site.lang }}</language>
     <copyright>{{ site.url }}/colophon/#copyright</copyright>
