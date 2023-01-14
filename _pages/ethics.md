@@ -2,7 +2,7 @@
 layout: page
 title: 'Ethics'
 date: '2022-11-23 11:23:18'
-last_modified_at: '2023-01-11 10:17:41'
+last_modified_at: '2023-01-14 18:45:25'
 description: 'Ethics and philosophy over privacy, design, web architecture and the software I use.'
 excerpt: 'Here is a manifesto of what I adhere to in terms of privacy, design, web architecture and the software I use.'
 permalink: '/ethics/'
@@ -26,7 +26,7 @@ In line with a minimalist approach, fighting against bloatware means that this w
 By adopting an <abbr title="Static Site Generator">SSG</abbr> as the dynamic engine to build a static website, I pursue [fighting webwaste](https://silviamaggidesign.com/design-digested/biased-ai/#webwaste). Compared to the previous version, the website has an impressive reduction of **724MB** in size.
 
 {: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
-[**Technical details about the website**](/colophon/) →
+[Technical details about the website](/colophon/) →
 
 ## Decentralization
 
