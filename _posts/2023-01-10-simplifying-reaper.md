@@ -9,8 +9,8 @@ tags:
   - 'reaper'
   - 'daw'
   - 'digital audio workstation'
-description: "How I managed to simplify REAPER for my own good while helping a collaborator with his transition from Logic."
-excerpt: 'While helping <a href="/about/">Emilio Albertoni</a> with his transition from Logic to REAPER, I realized how I enjoyed the process of simplifying my workflow as well.'
+description: "How I managed to simplify REAPER for my own good while helping another producer with his transition from Logic."
+excerpt: 'While helping another producer transitioning from Logic to REAPER, I realized how I enjoyed the process of simplifying my workflow as well.'
 ---
 I'm going to be quick and straight to the point: no matter how much experience I have with the software, I've found the act of removing custom keyboard shortcuts and turning them into a new toolbar very refreshing.
 
