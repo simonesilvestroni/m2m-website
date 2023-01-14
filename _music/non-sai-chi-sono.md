@@ -11,7 +11,7 @@ skillset:
   - "master"
   - "pro tools"
 description: "How we came to write, produce and release a remix of a song written by our old friend and collaborator Gianluca Lo Presti."
-excerpt: 'In January 2020, before the pandemic struck, Gianluca Lo Presti, aka ‘Nevica’, invited us to remix a song of his for an upcoming project.'
+excerpt: 'In January 2020, before the pandemic struck, Gianluca Lo Presti, aka ‘Nevica’, invited me to participate to a remix for his upcoming project.'
 featimage: true
 ---
 ## On Bandcamp
@@ -22,7 +22,7 @@ featimage: true
 
 January 2020, an old friend and former music partner, [Gianluca Lo Presti](https://open.spotify.com/artist/0ugkXokPU3KaXX3X9BFes7), had recently lost his father. A new album dedicated to reflecting on their time together was in the works. The idea included a companion EP of remixes, done by friends and former collaborators.
 
-Gianluca asked us to choose a song to our liking and produce a remix together. We had complete creative freedom, and several months at our disposal. After listening, in isolation, to an early demo of the album, we selected the same song: _Non so chi sei_ (“I don’t know you”).
+Gianluca asked Emilio Albertoni and I to choose a song to our liking and produce a remix together. We had complete creative freedom, and several months at our disposal. After listening, in isolation, to an early demo of the album, we selected the same song: _Non so chi sei_ (“I don’t know you”).
 
 Then Covid arrived. After a few months and several chats, Emilio would start drafting ideas in Logic and send them over. Simone would then see his direction and decide how to interact with his own production.
 
@@ -38,9 +38,6 @@ The first draft sounded completely new compared to the original, yet perfectly r
 Simone wrote the bass part in a way that was coherent with Emilio’s tracked line, but at the same time convey the fractured feelings expressed in the song. He also added back a section of Gianluca’s vocals, cut in a way that would slightly twist the meaning, creating _a mirror of the original title_. This is how we ended up re-titling our remix _Non sai chi sono_ (“You don’t know me”).
 
 We wanted to make this a dialogue, where the original song and our remix approached the father-son relationship from different point of views.
-
-> We listened to the song at lenght, making an effort to understand its feelings, and this was arguably the most relevant technique we applied.
-> <cite>&mdash; Emilio Albertoni</cite>
 
 ## Production notes
 
