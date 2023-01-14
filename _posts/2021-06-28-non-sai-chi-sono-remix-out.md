@@ -8,10 +8,7 @@ categories:
 tags:
   - bass
   - bassist
-  - emilio albertoni
-  - gianluca lo presti
   - ravenna
-  - italia
   - italy
   - music producer
   - music production
