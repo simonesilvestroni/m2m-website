@@ -13,7 +13,7 @@ permalink: '/archive/'
 {%- assign gameaudio = site.gameaudio | sort: 'date' | reverse -%}
 <h2 class="p-name" id="projects">Work</h2>
 <section class="h-feed">
-  <h3 class="p-name" id="music">Music</h3>
+  <h3 class="p-name" id="music">Original music</h3>
   <ul class="h-feed h-feed list-unstyled list-inline ps-0">
   {% for project in music %}
     <li><a class="p-name u-url" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a></li>
