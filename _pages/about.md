@@ -2,85 +2,67 @@
 layout: page
 title: 'About Minutes to Midnight'
 date: '2022-01-14'
-last_modified_at: '2022-11-30 10:50:29'
-description: 'Minutes to Midnight was founded by Simone Silvestroni in the UK in 2017. About the members, the name and the website.'
-excerpt: 'Founded by digital polymath Simone Silvestroni in Cambridge (UK) in 2017, Minutes to Midnight has been providing a vast array of audio production services such as mix, mastering and sound design.'
+last_modified_at: '2023-01-14 13:49:43'
+description: 'Minutes to Midnight is the outlet of digital polymath Simone Silvestroni, providing a vast array of audio production services.'
+excerpt: 'Founded by digital polymath Simone Silvestroni in Cambridge (UK) in 2017, Minutes to Midnight has been providing a vast array of audio production services such as mix, mastering and sound design. Also releasing original music since 2019.'
 permalink: '/about/'
 ---
-Also releasing original music over the last {{ page.date | date: "%Y" | minus: 2019 }} years, in 2022 was joined by multi-instrumentalist and producer Emilio Albertoni.
-
 ## About Simone Silvestroni
 
-{% include pattern-figure.html image="/assets/images/simone-silvestroni-warwick-bass.jpg" alt="Simone Silvestroni in Cambridge, standing, with the Warwick Thumb Bass" caption="Simone standing with a Warwick Thumb Bass - Photo by Silvia Maggi" width="1600" height="1066" %}
+{% include pattern-figure.html image="/assets/images/simone-silvestroni-warwick-bass.jpg" alt="Simone Silvestroni in Cambridge, standing, with the Warwick Thumb Bass" caption="Standing with a Warwick Thumb Bass in Cambridge (UK) - Photo by Silvia Maggi" width="1600" height="1066" %}
 
-Born in Italy at the beginning of the 1970s, he started as a professional [bass player](https://soundbetter.com/profiles/206552-minutes-to-midnight){:target="_blank"} both in the studio and live after graduating at the CPM music institute in Milan. After a 6-year stint in music studios acquiring producing skills during the 1990s, he landed a [game audio designer]({{ site.url }}/work/game-audio/console-game-ruff-trigger/) role in 2000. While leading the audio team, he started his first blog, journaling about working long hours on a console video game while playing *Ico* during pauses.
+### Beginnings
 
-As a music producer, he can handle the process from tracking to mastering, with mixing as the preferred stage. As a sound designer, he enjoys field recording and Foley. Simone sees game audio as the ultimate audio-visual narrative medium. 
+Born at the beginning of the 1970s, I started as a professional [bass player](https://soundbetter.com/profiles/206552-minutes-to-midnight){:target="_blank"} both in the studio and live after graduating at the CPM music institute in Milan. After a 6-year stint in music studios acquiring producing skills during the 1990s, I landed a [game audio designer]({{ site.url }}/work/game-audio/console-game-ruff-trigger/) role in 2000. While leading the audio team, I started his first blog, journaling about working long hours on a console video game while playing *Ico* during pauses.
 
-After moving to the UK in 2011 and graduating at Berklee in music production and audio mastering, he's worked with local and overseas artists such as Gerald Duchene, Rachel Goodman, Ember Rev, Mally Harpaz, Ciara Clifford and Callum Gardner. Constantly looking for a way to complete a task in less and more efficient steps, he wrote an ebook about [project management for musicians]({{ site.url }}/work/project-management/). Apple certified for Logic Pro X.
+### Main skills
 
-Simone also has a parallel career in web design and front-end development, [carried out under his own name](https://simonesilvestroni.com).
+As a music producer, I can handle the process from tracking to mastering, with mixing as my preferred stage. As a sound designer, I enjoy field recording and Foley and see game audio as the ultimate audio-visual narrative medium.
 
-{: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
-Check out [**Simone’s equipment**](/uses/) →
+Apple certified for Logic Pro X, I fully transitioned to Pro Tools and later to REAPER.
 
-{: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
-Full resume [**on LinkedIn**](https://www.linkedin.com/in/simonesilvestroni/) →
+### Collaborations
 
-## About Emilio Albertoni
+After moving from Italy to the UK in 2011 and graduating at Berklee in music production and audio mastering, I've been working with local and overseas artists such as Gerald Duchene, Dan Ecclestone, Rachel Goodman, Ember Rev, Mally Harpaz, Ciara Clifford and Callum Gardner. Constantly looking for a way to complete a task in less and more efficient steps, I wrote an ebook about [project management for musicians]({{ site.url }}/work/project-management/). 
 
-{% include pattern-figure.html image="/assets/images/emilio-albertoni-playing-live.jpg" alt="Emilio Albertoni playing live" caption="Emilio playing live" width="720" height="960" %}
-
-Born in Cremona (Italy) in the second half of the 1970s, a passion for new wave, electronica and trip hop led him to learn to play guitar and synths. At 22, Emilio moved to Ravenna, where he got to work with several local bands, collaborating as multi-instrumentalist, producer and sound engineer in the studio.
-
-He'd toured from 2010 al 2015 with Bruno Valeri and Nevica, taking charge of concert production and defining all the technical facets of the live shows.
- 
-In 2022, Emilio co-founded Lagnofono Factory, a small independent label where he curates and manages artistic productions. 
-
-He wrote and produced with Mono:fi, Bruno Valeri, [Arva Vacua](https://arvavacua.it) and IsadoraD. As of recently, he started a new collaboration with Simone Silvestroni of Minutes to Midnight (UK), with whom he's working at the debut album.
+I also have a parallel career in web design and front-end development, [carried out under his own name](https://simonesilvestroni.com).
 
 {: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
-Check out [**Emilio’s equipment**](/uses/) →
+[**My equipment**](/uses/) →
+
+## Education
+
+<ul>
+{% for item in site.certifications -%}
+  <li><a href="{{ item.href }}" title="{{ item.desc }}">{{ item.name }}</a> {{ item.desc }}</li>
+{% endfor -%}
+</ul>
+
+## Endorsements
+
+<ul class="list-unstyled ps-0">
+{% for item in site.endorsements -%}
+  <li>
+    <blockquote>
+      <p>{{ item.quote }}</p>
+      <cite><a href="{{ item.url }}">{{ item.name }}</a> — {{ item.role }}</cite>
+    </blockquote>
+  </li>
+{% endfor -%}
+</ul>
+
+{: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
+[<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" viewBox="0 0 16 16" role="img" aria-label="LinkedIn logo"><path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z"/></svg> **Resume and endorsements on LinkedIn**](https://www.linkedin.com/in/simonesilvestroni/) →
 
 ## Name and logo
 
 The expression _minutes to midnight_ is a reference to the [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock), while the logo is derivative of the radiation symbol combined with the glyph used in fallout shelter signs.
 
-> Before releasing the theatrical concept [_After 1989_]({{ site.url }}/work/music/after-1989/), I wanted to establish a connection between work and personal history. The foundation for Minutes to Midnight’s name and logo is a tie with the unstable and risky world I grew up in during the Cold War.<cite>— Simone Silvestroni</cite>
-
-## About this website
-
-The website has been [developed from scratch](https://simonesilvestroni.com/projects/web-design/minutes-to-midnight/) using:
-
-- [Jekyll 4.2.1](https://jekyllrb.com/)
-- [Markdown (extended)](https://www.markdownguide.org/getting-started/)
-- Vanilla javascript for [search module](https://github.com/daviddarnes/jekyll-search-js) and [webmentions](http://beesbuzz.biz)
-- Table of contents Liquid code by [Vladimir "allejo" Jimenez](https://github.com/allejo/jekyll-toc)
-- Bash for building purposes
-- [Github](https://github.com/simonesilvestroni/m2m-website)
-- [Netlify](https://netlify.com)
-
-### Accessibility and sustainability
-
-Compliant with <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> guidelines.
-
-Only 0.04g of CO2 is produced every time someone visits the homepage, which is cleaner than 96% of web pages tested. The website is running on sustainable energy and does not request third-party resources, except for the blog posts, which are calling `webmention.io` to render web mentions.
-
-The markup is valid, the homepage loads in 0.4 seconds and weighs 265KB (uncompressed). Member of the [512kb club](https://512kb.club "Member of the 512kb Orange Team") and the [1Mb club](https://1mb.club/).
-
-No Javascript functionality is preventing the content to be fully visible at any time. The dynamic [search engine](/search/) has an HTML alternative provided in the same page, based on DuckDuckGo, and a second script is processing webmentions. The website is fully accessible with Javascript turned off.
+Before releasing the theatrical concept [_After 1989_]({{ site.url }}/work/music/after-1989/), I wanted to establish a connection between work and personal history. The foundation for Minutes to Midnight’s name and logo is a tie with the unstable and risky world I grew up in during the Cold War.
 
 {: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
-More about our [**ethical choices**](/ethics/) →
+[**About this website**](/colophon/) →
 
-## Copyright
-
-The _text content_ of this website is [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). It means you are free to share — copy and redistribute the material in any medium or format, adapt — remix, transform, and build upon the material for any purpose, even commercially. You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-
-Everything connected to sound and music in this website is strictly copyrighted.
-
-## Trademark
-
-Minutes to Midnight is a registered trademark in the UK and worldwide. Minutes to Midnight&trade; brand and logo, in all its variants, are use trademarks for the trading name of Simone Silvestroni.
+***
 
 {% include pattern-last-updated.html %}
