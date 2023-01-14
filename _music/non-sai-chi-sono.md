@@ -10,7 +10,7 @@ skillset:
   - "mix"
   - "master"
   - "pro tools"
-description: "How we came to write, produce and release a remix of a song written by our old friend and collaborator Gianluca Lo Presti."
+description: "How I came to collaborate on producing and releasing a remix of a song written by my old friend and collaborator Gianluca Lo Presti."
 excerpt: 'In January 2020, before the pandemic struck, Gianluca Lo Presti, aka ‘Nevica’, invited me to participate to a remix for his upcoming project.'
 featimage: true
 ---

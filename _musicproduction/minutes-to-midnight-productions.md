@@ -23,26 +23,21 @@ featimage: true
 featimage-url: '/assets/images/minutes-to-midnight-productions-2017-2022.jpg'
 featimage-height: '600'
 ---
-{: .mt-5 .pt-5 }
-## Nebbia (Part One), song by Arva Vacua 🇮🇹
+## The Eclipse, single by Antiquity 🇺🇸
+
+{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
+Production
+
+{% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2746368137/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-eclipse">The Eclipse by Antiquity</a></iframe>' %}
+
+---
+
+## Hidden Music, album by Dan Ecclestone 🇬🇧
 
 {: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
 Mix
 
-{% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3121255947/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/track=1132146010/transparent=true/" seamless><a href="https://arvavacua.bandcamp.com/album/tales-from-holographic-seas">Tales from holographic seas by Arva Vacua</a></iframe>' %}
-
-{: .mb-5 }
-[Blog post →]({{ site.url }}/blog/arva-vacua-debut-ep/)
-
-
----
-
-## Waiting (Imagine), single by AGA 🇮🇹
-
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Master
-
-{% include pattern-video.html id="BCJHjjzONf4" %}
+{% include pattern-bandcamp.html align="left" size="bc-album" iframecode='<iframe style="border: 0; width: 350px; height: 654px;" src="https://bandcamp.com/EmbeddedPlayer/album=3656047790/size=large/bgcol=333333/linkcol=ffffff/transparent=true/" seamless><a href="https://danecclestone.bandcamp.com/album/hidden-music">Hidden Music by Dan Ecclestone</a></iframe>' %}
 
 ---
 
@@ -64,15 +59,6 @@ Strings production, Recording
 
 ---
 
-## Hidden Music, album by Dan Ecclestone 🇬🇧
-
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Mix
-
-{% include pattern-bandcamp.html align="left" size="bc-album" iframecode='<iframe style="border: 0; width: 350px; height: 654px;" src="https://bandcamp.com/EmbeddedPlayer/album=3656047790/size=large/bgcol=333333/linkcol=ffffff/transparent=true/" seamless><a href="https://danecclestone.bandcamp.com/album/hidden-music">Hidden Music by Dan Ecclestone</a></iframe>' %}
-
----
-
 ## From The Country To The City To The Sea, album by Ember Rev 🇬🇧
 
 {: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
@@ -88,15 +74,6 @@ Mix
 Bass
 
 {% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=416597860/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-rules-of-night-and-day">The Rules Of Night And Day by Antiquity</a></iframe>' %}
-
----
-
-## The Eclipse, single by Antiquity 🇺🇸
-
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Production
-
-{% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2746368137/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-eclipse">The Eclipse by Antiquity</a></iframe>' %}
 
 ---
 
@@ -217,5 +194,28 @@ Bass, Production, Mix, Master
 
 {: .mb-5 }
 [Blog post →]({{ site.url }}/blog/method-sinik-eclipse/)
+
+---
+
+{: .mt-5 .pt-5 }
+## Nebbia (Part One), song by Arva Vacua 🇮🇹
+
+{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
+Mix
+
+{% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3121255947/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/track=1132146010/transparent=true/" seamless><a href="https://arvavacua.bandcamp.com/album/tales-from-holographic-seas">Tales from holographic seas by Arva Vacua</a></iframe>' %}
+
+{: .mb-5 }
+[Blog post →]({{ site.url }}/blog/arva-vacua-debut-ep/)
+
+
+---
+
+## Waiting (Imagine), single by AGA 🇮🇹
+
+{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
+Master
+
+{% include pattern-video.html id="BCJHjjzONf4" %}
 
 ---

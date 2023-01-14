@@ -1,13 +1,13 @@
 menu:
   - name: About
     link: /about/
-    desc: 'Who we are and what’s the moniker about'
+    desc: 'Who I am and what’s the moniker about'
   - name: Blog
     link: /blog/
     desc: 'Articles, interviews, press releases'
   - name: Work
     link: /work/
-    desc: 'A selection of our recent work'
+    desc: 'A selection of my recent work'
   - name: Contact
     link: /contact/
     desc: 'Get in touch'

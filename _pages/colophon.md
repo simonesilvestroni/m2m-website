@@ -29,7 +29,7 @@ The markup is valid, the homepage loads in 0.4 seconds and weighs 265KB (uncompr
 No Javascript functionality is preventing the content to be fully visible at any time. The dynamic [search engine](/search/) has an HTML alternative provided in the same page, based on DuckDuckGo, and a second script is processing webmentions. The website is fully accessible with Javascript turned off.
 
 {: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
-More about our [**ethical choices**](/ethics/) →
+[More about my ethical choices](/ethics/) →
 
 ## Copyright
 

@@ -12,11 +12,9 @@ permalink: '/contact/'
 
 ## Bass tracks
 
-Simone is available through [SoundBetter](https://soundbetter.com/profiles/206552-minutes-to-midnight), a safe and secure platform for freelance musicians.
+I'm available through [SoundBetter](https://soundbetter.com/profiles/206552-minutes-to-midnight), a safe and secure platform for freelance musicians.
 
-## Follow us
-
-It’s possible to follow and get in touch on the following platforms:
+## Follow me
 
 <ul>
 {% for item in site.data.nav-social -%}
