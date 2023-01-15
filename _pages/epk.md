@@ -15,7 +15,7 @@ permalink: '/epk/'
 
 ## Bio
 
-[Minutes to Midnight](/about/), launched in 2019 a music project specifically to tell a real-life tale of imprisonment and liberty. [*After 1989: A Trip To Freedom*]({{ site.url }}/work/music/after-1989/) tells the story from the perspective as a grandson, who has only recently uncovered answers to how his grandfather managed to escape Germany in 1945. A modern-day attempt at storytelling, the album is a glimpse into hope.
+[Minutes to Midnight](/about/) launched in 2019 a music project specifically to tell a real-life tale of imprisonment and liberty. [*After 1989: A Trip To Freedom*]({{ site.url }}/work/music/after-1989/) tells the story from the perspective as a grandson, who has only recently uncovered answers to how his grandfather managed to escape Germany in 1945. A modern-day attempt at storytelling, the album is a glimpse into hope.
 
 ## On Bandcamp
 
