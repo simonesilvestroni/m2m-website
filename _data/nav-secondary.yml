@@ -4,14 +4,16 @@ menu:
     desc: 'Philosophy on design, privacy and software'
   - name: Newsletter
     link: /newsletter/
+    desc: 'Aperiodic newsletter'
   - name: Uses
     link: /uses/
-    desc: 'Equipment we use'
+    desc: 'Equipment I use'
   - name: Archive
     link: /archive/
+    desc: 'Blog posts, case studies, tags and categories'
   - name: RSS
     link: /rss/
-    desc: 'RSS feed'
+    desc: 'RSS feeds'
   - name: Colophon
     link: /colophon/
     desc: 'About this website'
