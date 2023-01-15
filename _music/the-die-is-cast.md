@@ -29,7 +29,7 @@ I had been living in the UK for five years when the referendum took place. That 
 
 At five in the morning, right after the BBC declared the result, I stood alone in the garden. It was sunny, a good fresh smell in the air. Gobsmacked and incapable of thinking clearly, I felt betrayed.
 
-Then, the most pantomimic four years came and went, and all I could see is ‘Rule Britannia’, which looked so out of touch with the world at large. [My wife and I left the UK](https://simonesilvestroni.com/blog/blog/back-to-the-future-leaving-the-uk/), and our good friends there, last September. I haven’t yet come to terms with the seismic change.
+Then, the most pantomimic four years came and went, and all I could see is ‘Rule Britannia’, which looked so out of touch with the world at large. [My wife and I left the UK](https://simonesilvestroni.com/blog/back-to-the-future-leaving-the-uk/), and our good friends there, last September. I haven’t yet come to terms with the seismic change.
 
 These two songs, even if written by someone else, prefectly encapsulate those days in June 2016. I spoke with [Gerald Duchene](https://antiquity-music.com/), long-time collaborator and friend of mine, about the idea of working together at these remixes. We both love a challenge, so off we went.
 
