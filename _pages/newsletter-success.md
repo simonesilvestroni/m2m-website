@@ -9,5 +9,5 @@ permalink: '/newsletter/success/'
 robots: 'noindex,follow'
 sitemap: false
 ---
-{: .text-center .fs-4 .my-5 }
-📝 [Go to the newsletter archives →](/newsletter/archives/)
+{: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
+[Go to the newsletter archive →](/newsletter/archives/)
