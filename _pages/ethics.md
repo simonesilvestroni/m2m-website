@@ -4,7 +4,7 @@ title: 'Ethics'
 date: '2022-11-23 11:23:18'
 last_modified_at: '2023-01-14 18:45:25'
 description: 'Ethics and philosophy over privacy, design, web architecture and the software I use.'
-excerpt: 'Here is a manifesto of what I adhere to in terms of privacy, design, web architecture and the software I use.'
+excerpt: 'A manifesto of what I adhere to in terms of privacy, design, web architecture and the software I use.'
 permalink: '/ethics/'
 ---
 ## Privacy
@@ -15,7 +15,7 @@ A full [content security policy ↗](https://simonesilvestroni.com/blog/content-
 
 ## Design
 
-I fully subscribe to the _brutalist design manifesto_ by David Bryant Copeland.
+I subscribe to the _brutalist design manifesto_ by David Bryant Copeland.
 
 > A website is for a visitor, using a browser, running on a computer to read, watch, listen, or perhaps to interact. A website that embraces Brutalist Web Design is raw in its focus on content, and prioritization of the website visitor.<cite>—&nbsp;[Brutalist Web Design](https://brutalist-web.design/)</cite>
 
@@ -23,14 +23,14 @@ In line with a minimalist approach, fighting against bloatware means that this w
 
 ## Website architecture
 
-By adopting an <abbr title="Static Site Generator">SSG</abbr> as the dynamic engine to build a static website, I pursue [fighting webwaste](https://silviamaggidesign.com/design-digested/biased-ai/#webwaste). Compared to the previous version, the website has an impressive reduction of **724MB** in size.
+By adopting an <abbr title="Static Site Generator">SSG</abbr> as the dynamic engine to build a static website, I pursue [fighting webwaste](https://silviamaggidesign.com/design-digested/biased-ai/#webwaste). The impressive reduction in size, compared to the previous version, is `724 MB`.
 
 {: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
 [Technical details about the website](/colophon/) →
 
 ## Decentralization
 
-The website is part of [Indieweb](https://indieweb.org/), therefore it’s capable of sending and receiving [webmentions](https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet/), a quasi-web standard for replying, liking and reposting other people’s posts on their websites.
+Part of [Indieweb](https://indieweb.org/), the website is capable of sending and receiving [webmentions](https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet/), a quasi-web standard for replying, liking and reposting other people’s posts on their websites.
 
 ## Small web
 
@@ -42,23 +42,23 @@ I used to be on Twitter, Facebook, Instagram and Reddit. That's all gone now, si
 
 After stopping being attached to a particular brand, becoming _system agnostic_ has become second nature.
 
-Pretty much all the software I use, with few and rare exceptions, can be installed and run from any operating system.
+Pretty much all the software I use, with rare exceptions, can be installed and run from any operating system.
 
 I don't use illegal software.
 
 ## Subscriptions and walled gardens
 
-Everything that is locked within a _subscription model_ doesn't get neither attention nor money from me. Similarly, I don't subscribe to any _ecosystem_. Albeit slightly less convenient, it allows freedom to move around.
+A software business model based on a subscription doesn't get attention from me. Similarly, I don't subscribe to an _ecosystem_. Albeit slightly less convenient, it gives me considerable freedom.
 
-The business model that interests me have brilliant examples such as [Cockos Incorporated](https://cockos.com/), makers of _Reaper_, and [Sublime HQ Pty Ltd](https://www.sublimehq.com/), makers of _Sublime Text_: small but solid entities that can move swiftly when needed, with a well-thought model that doesn’t rip off customers.
+I'm more than happy to support brilliant companies such as [Cockos Incorporated](https://cockos.com/), makers of _Reaper_, and [Sublime HQ Pty Ltd](https://www.sublimehq.com/), makers of _Sublime Text_: small but solid entities that can move swiftly when needed, with a well-thought model that doesn’t rip off customers.
 
-I'm more than happy to support by buying and upgrading their products, because I'll be listened to. None of them have a marketing department shoving ads anywhere.
+None of them have a marketing department shoving ads everywhere.
 
 ## Updates
 
 I'm opposed to updates _for the sake of it_. It means that I only follow security updates, bug fixes and actual new useful features.
 
-At the same time, I stopped caring for all Apple updates ever since they had chosen an insane and arbitrary yearly cycle of forced OS “upgrades”. That's part of their _planned obsolescence_ and therefore can stay out.
+At the same time, I stopped caring for any arbitrary yearly cycle of forced upgrades. If it's part of a _planned obsolescence_ strategy, it can stay out.
 
 ## Newsletter
 
