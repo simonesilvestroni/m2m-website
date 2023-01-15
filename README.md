@@ -1,7 +1,3 @@
 # Minutes to Midnight
 
-Website of sound designer and musician Simone Silvestroni.
-
-## Music bio
-
-Storytelling with music was always a huge magnet for Minutes to Midnight, hence why the concept album is our favorite medium.
+Digital polymath, I master the art of sound design and music production since the 1990s. Minutes to Midnight is the moniker of music producer, bassist and sound designer Simone Silvestroni.
