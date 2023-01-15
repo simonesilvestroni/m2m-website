@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Newsletter: successfully subscribed! 🏃🏻‍♂️'
+title: 'Newsletter: subscribed! 🏃🏻‍♂️'
 date: '2022-05-10'
 last_modified_at: '2022-05-10 23:04:41'
 description: 'Success page for the newsletter subscription form.'
