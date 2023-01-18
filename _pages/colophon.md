@@ -12,6 +12,7 @@ Developed from scratch using:
 
 - [Jekyll 4.2.1](https://jekyllrb.com/) with the following Ruby gems: `jekyll-sitemap`, `jekyll-archives` and `jekyll-responsive-image`
 - [Markdown (extended)](https://www.markdownguide.org/getting-started/)
+- HTML and CSS
 - Vanilla javascript for [search module](https://github.com/daviddarnes/jekyll-search-js) and [webmentions](https://github.com/fluffy-critter/webmention)
 - [Table of contents](https://github.com/allejo/jekyll-toc)
 - Bash for building purposes
