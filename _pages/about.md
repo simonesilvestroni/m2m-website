@@ -2,12 +2,14 @@
 layout: page
 title: 'About Minutes to Midnight'
 date: '2022-01-14'
-last_modified_at: '2023-01-15 14:36:40'
+last_modified_at: '2023-02-03 16:27:19'
 description: 'Minutes to Midnight is the outlet of digital polymath Simone Silvestroni, providing a vast array of audio production services.'
-excerpt: 'Founded by digital polymath Simone Silvestroni in Cambridge (UK) in 2017. Besides releasing original music since 2019, Minutes to Midnight has been providing a vast array of audio production services such as mix, mastering and sound design.'
+excerpt: 'Minutes to Midnight is the outlet of digital polymath Simone Silvestroni, providing a vast array of audio production services.'
 permalink: '/about/'
 ---
 ## About Simone Silvestroni
+
+A graduated musician, sound designer and producer since the 1990s, I founded Minutes to Midnight in Cambridge (UK) in 2017. Besides releasing original music, I've been providing services such as mix, mastering and sound design.
 
 {% include pattern-figure.html image="/assets/images/simone-silvestroni-warwick-bass.jpg" alt="Simone Silvestroni in Cambridge, standing, with the Warwick Thumb Bass" caption="Standing with a Warwick Thumb Bass in Cambridge (UK) - Photo by Silvia Maggi" width="1600" height="1066" %}
 
