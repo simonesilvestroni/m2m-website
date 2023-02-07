@@ -1,5 +1,5 @@
 - name: Bandcamp
-  link: https://minutestomidnight.bandcamp.com/
+  link: https://minutestomidnight.bandcamp.com/follow_me
   title: Follow the Bandcamp profile
   icon: <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" viewBox="0 0 32 32" role="img" aria-label="Bandcamp logo"><title>Bandcamp</title><path d="M15.96 0C7.144 0 0 7.145 0 15.96c0 8.813 7.145 15.958 15.96 15.958 8.813 0 15.958-7.145 15.958-15.959S24.773 0 15.96 0zm5.21 23.137H4.113l6.635-14.356h17.06L21.17 23.137z" /></svg>
 - name: YouTube
