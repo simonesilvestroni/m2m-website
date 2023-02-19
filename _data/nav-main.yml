@@ -2,6 +2,9 @@ menu:
   - name: About
     link: /about/
     desc: 'Who I am and what’s the moniker about'
+  - name: Now
+    link: /now/
+    desc: 'What I’ve been doing recently'
   - name: Blog
     link: /blog/
     desc: 'Articles, interviews, press releases'

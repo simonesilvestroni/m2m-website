@@ -3,8 +3,8 @@
   Main navigation
   -------------------------*
 {%- endcomment -%}
-<nav id="m2m-menu" class="nav nav-main justify-content-center justify-content-sm-start align-items-center pt-4 pt-sm-4" aria-label="Navigation">
+<nav id="m2m-menu" class="nav nav-main nav-m2m justify-content-center justify-content-sm-start align-items-center pt-4 pt-sm-4" aria-label="Navigation">
 {% for item in site.data.nav-main.menu -%}
-  <a class="fs-5 pe-4 {% if page.url contains item.link %} fw-bold{% endif %}" href="{{ item.link }}" title="{{ item.desc }}">{{ item.name }}</a>
+  <a class="{% unless forloop.last %}pe-4{% endunless %} {% if page.url contains item.link %} fw-bold{% endif %}" href="{{ item.link }}" title="{{ item.desc }}">{{ item.name }}</a>
 {% endfor -%}
 </nav>
