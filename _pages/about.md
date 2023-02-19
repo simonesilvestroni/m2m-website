@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 'About Minutes to Midnight'
+title: 'About'
 date: '2022-01-14'
 last_modified_at: '2023-02-03 16:27:19'
 description: 'Minutes to Midnight is the outlet of digital polymath Simone Silvestroni, providing a vast array of audio production services.'
-excerpt: 'Minutes to Midnight is the outlet of digital polymath Simone Silvestroni, providing a vast array of audio production services.'
+excerpt: '<strong>Minutes to Midnight</strong> is the outlet of digital polymath Simone Silvestroni, providing a vast array of audio production services.'
 permalink: '/about/'
 ---
 ## About Simone Silvestroni
