@@ -36,7 +36,7 @@ Part of [Indieweb](https://indieweb.org/), the website is capable of sending and
 
 > Most websites today are built like commercial products by professionals and marketers, optimised to draw the largest audience, generate engagement and ‘convert’. But there is also a smaller, less-visible web designed by regular people to simply to share their interests and hobbies with the world. A web that is unpolished, often quirky but often also fun, creative and interesting.<cite>—&nbsp;Parimal Satyal</cite>
 
-I used to be on Twitter, Facebook, Instagram and Reddit. That's all gone now, since 2020. I'm only on Mastodon and [Airwiggles](https://www.airwiggles.com) now.
+I used to be on Twitter, Facebook, Instagram and Reddit. That's gone, since 2020. I'm only on Mastodon and [Airwiggles](https://www.airwiggles.com) now.
 
 ## Tools
 
@@ -50,7 +50,7 @@ I don't use illegal software.
 
 A software business model based on a subscription doesn't get attention from me. Similarly, I don't subscribe to an _ecosystem_. Albeit slightly less convenient, it gives me considerable freedom.
 
-I'm more than happy to support brilliant companies such as [Cockos Incorporated](https://cockos.com/), makers of _Reaper_, and [Sublime HQ Pty Ltd](https://www.sublimehq.com/), makers of _Sublime Text_: small but solid entities that can move swiftly when needed, with a well-thought model that doesn’t rip off customers.
+I'm more than happy to support <abbr title="Free and Open-Source Software">FOSS</abbr> projects and brilliant companies such as [Cockos Incorporated](https://cockos.com/), makers of _Reaper_, and [Sublime HQ Pty Ltd](https://www.sublimehq.com/), makers of _Sublime Text_: small but solid entities that can move swiftly when needed, with a well-thought model that doesn’t rip off customers.
 
 None of them have a marketing department shoving ads everywhere.
 
