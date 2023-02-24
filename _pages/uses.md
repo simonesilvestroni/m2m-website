@@ -2,7 +2,7 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2022-11-30 12:38:25'
+last_modified_at: '2023-02-24 19:00:09'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
 excerpt: 'Specifics about the hardware and software equipment I use. The page is part of the <a href="https://uses.tech/">uses.tech</a> project.'
 permalink: '/uses/'
@@ -44,11 +44,15 @@ toc: true
 - Behringer X-Touch One control surface
 - Korg Micro KEY 66 MIDI keyboard
 
-## Recorder and microphones
+## Recorder, microphones and accessories
 
 - Zoom H5 field recorder
 - Zoom XY stereo mic
 - Zoom SSH-6 mid-side stereo shotgun mic
+- Movo shock mount
+- Ulanzy mini tripod MT-08
+- Telephone pick-up coil mic
+- Korg contact microphone CM-300
 - Shure SM58
 - Rode NT5 condenser matched pair
 - Rode Stereo Bar SB20
