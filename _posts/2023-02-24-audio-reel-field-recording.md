@@ -12,11 +12,11 @@ tags:
   - 'zoom h5'
   - 'handheld recorder'
   - 'reaper'
-description: ''
-excerpt: ''
+description: 'Field recording is an enjoyable experience, especially when done with a precise plan.'
+excerpt: 'Field recording is great fun, especially when done with a precise plan.'
 featimage: true
 featimage-name: 'field-recording.jpg'
-featimage-url: 'assets/images/field-recording.jpg'
+featimage-url: '/assets/images/field-recording.jpg'
 featimage-alt: 'Sit in a park setting up the Zoom H5 handheld recorder for a session of field recording. Photo by Silvia Maggi.'
 ---
 I finally started using my [Zoom H5](/uses/) for field recording. I've been quite consistently capturing several audio sources inside and outside the house. Here on the Lake Maggiore, there are several spots where to record interesting sounds. 
