@@ -23,6 +23,9 @@ layout: default
   {% endfor %}
 </ul>
 {% endif -%}
+{% if page.canonical %}
+<p class="mt-5"><small><strong>Crossposted from</strong>: <a href="{{ page.canonical }}">{{ page.canonical }}</a></small></p>
+{% endif -%}
 <div class="d-inline-block btn-label-m2m-bg rounded my-5 px-3 py-2">
   {%- if post -%}
   {%- assign categories = post.categories -%}
