@@ -2,7 +2,7 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2023-02-24 19:00:09'
+last_modified_at: '2023-02-27 18:00:14'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
 excerpt: 'Specifics about the hardware and software equipment I use. The page is part of the <a href="https://uses.tech/">uses.tech</a> project.'
 permalink: '/uses/'
@@ -10,18 +10,18 @@ toc: true
 ---
 ## Workstation
 
-- Maxed out 15-in MacBook Pro i7 Mid 2015, upgraded with an internal 1TB SSD. 
-- 27-in Dell HD monitor
-- Wireless Apple Magic Keyboard 2
-- Wireless Logitech M350 Pebble mouse
+- Mid 2015 MacBook Pro i7, upgraded with an internal 1TB SSD 
+- 27-in Dell HD screen
+- Apple Magic Keyboard 2
+- Logitech M350 Pebble mouse
 - Razer Deathadder gaming mouse
 
 ## Music instruments
 
-- Warwick Thumb bass, since 1991
+- Warwick Thumb bass (1991)
 - Fretless Fender Jazz bass
 - Fender Stratocaster electric guitar
-- Tech 21 NYC Sansamp Bass Driver v2
+- Tech 21 Sansamp Bass Driver v2
 
 ## Audio interface
 
@@ -44,18 +44,20 @@ toc: true
 - Behringer X-Touch One control surface
 - Korg Micro KEY 66 MIDI keyboard
 
-## Recorder, microphones and accessories
+## Field recording
 
 - Zoom H5 field recorder
 - Zoom XY stereo mic
 - Zoom SSH-6 mid-side stereo shotgun mic
-- Movo shock mount
 - Ulanzy mini tripod MT-08
+- Movo shock mount
 - Telephone pick-up coil mic
 - Korg contact microphone CM-300
+
+## Microphones
+
 - Shure SM58
-- Rode NT5 condenser matched pair
-- Rode Stereo Bar SB20
+- Røde NT5 condenser matched pair, with SB20 stereo bar
 - Thomann SC 1100 studio large diaphragm mic
 
 ## Operating system(s)
@@ -74,20 +76,20 @@ toc: true
 - iZotope RX 6
 - Zynaptiq Triumph
 
-## Audio software instruments
+## Software instruments
 
+- Kilohearts Phase Plant
 - XLN Audio Addictive Drums and Addictive Keys
+- Radical Piano rack extension for Reason
+- Cockos ReaSamplomatic 5000
 - Waves Flow Motion FM Synth
-- Decidedly Decent Sampler, running the [Pianobook library](https://www.pianobook.co.uk/)
+- Decidedly Decent Sampler
 - Waldorf Streichfett
+- Vital
 - Decomposer Sitala
-- Reason 8.3.2 included VIs plus Radical Piano and StringWERK rack extensions
 - Spitfire LABS and BBC Orchestra
-- Matt Tytel's Vital
 - Air XPand! 2
 - EastWest Hollywood Strings Gold
-- Cockos ReaSamplomatic 5000
-- U-he Podolski and Tyrell
 - AudioThing SR-88
 
 ## Audio processing plug-ins
@@ -95,7 +97,7 @@ toc: true
 - Waves
 - Soundtoys 5
 - Voxengo SPAN plus, TEOTE, MSED and Correlometer
-- Klanghelm VUMT deluxe and MJUC variable-tube compressor
+- Klanghelm VUMT deluxe and MJUC vari-mu compressor
 - iZotope Ozone 9 advanced
 - AudioThing Fog Convolver, Things collection and Valves
 - McDSP Compressors Bank
@@ -110,24 +112,23 @@ toc: true
 
 Previously: [Microsoft’s XACT for Xbox]({{ site.url }}/work/game-audio/console-game-ruff-trigger/#xbox) and in-house [MXE editor and middleware]({{ site.url }}/work/game-audio/console-game-ruff-trigger).
 
-## Audio-video accessories
+## Audio software utilities
 
 - Stereo Monoizer
 - Zynaptiq Myriad
-- Handbrake
-- Sound Particles Explorer
 
 ## Music player
 
 - [Swinsian](http://www.swinsian.com) on macOS
 
-## Video player
+## Video
 
-- [IINA](https://iina.io/) on macOS
+- [IINA](https://iina.io/) video player on macOS
+- Handbrake video processor
 
 ## Utilities
 
-- [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) for downloading videos from a multitude of online sources
+- [`yt-dlp`](https://github.com/yt-dlp/yt-dlp)
 
 ## Cloud sync
 
@@ -136,7 +137,6 @@ Previously: [Microsoft’s XACT for Xbox]({{ site.url }}/work/game-audio/console
 
 ## Backup
 
-- Carbon Copy Cloner on macOS
-- Backblaze
+- Carbon Copy Cloner
 
 {% include pattern-last-updated.html %}
