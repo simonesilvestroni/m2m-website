@@ -2,7 +2,7 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2023-02-27 18:00:14'
+last_modified_at: '2023-02-27 18:50:52'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
 excerpt: 'Specifics about the hardware and software equipment I use. The page is part of the <a href="https://uses.tech/">uses.tech</a> project.'
 permalink: '/uses/'
@@ -10,133 +10,149 @@ toc: true
 ---
 ## Workstation
 
-- Mid 2015 MacBook Pro i7, upgraded with an internal 1TB SSD 
-- 27-in Dell HD screen
-- Apple Magic Keyboard 2
-- Logitech M350 Pebble mouse
-- Razer Deathadder gaming mouse
+Computer
+: 2015 MacBook Pro i7, upgraded with an internal 1TB SSD and running both macOS and Windows.
 
-## Music instruments
+Screen
+: 27-in Dell
 
-- Warwick Thumb bass (1991)
-- Fretless Fender Jazz bass
-- Fender Stratocaster electric guitar
-- Tech 21 Sansamp Bass Driver v2
+Keyboard
+: Apple Magic Keyboard 2
 
-## Audio interface
+Mouse
+: Logitech M350 Pebble mouse
+: Razer Deathadder gaming mouse
 
-- Audient iD14
-- Dedicated FX-Audio DAC-X6
+## Instrumentation
 
-## Speakers
+Bass
+: Warwick Thumb bass (1991)
+: Fretless Fender Jazz bass
+: Tech 21 Sansamp Bass Driver v2
 
-- Yamaha HS5
+Guitar
+: Fender Stratocaster electric guitar
 
-## Headphones
+## Audio and MIDI
 
-- Ollo Audio S4X
-- Sony MDR-7506
-- Beyerdynamic DT 770 Pro
+Audio interface
+: Audient iD14
+: Dedicated FX-Audio DAC-X6
 
-## MIDI controllers
+Speakers
+: Yamaha HS5
 
-- Novation Launchkey Mini MkII
-- Behringer X-Touch One control surface
-- Korg Micro KEY 66 MIDI keyboard
+Headphones
+: Ollo Audio S4X
+: Sony MDR-7506
+: Beyerdynamic DT 770 Pro
 
-## Field recording
+Keyboards
+: Novation Launchkey Mini MkII
+: Korg Micro KEY 66
 
-- Zoom H5 field recorder
-- Zoom XY stereo mic
-- Zoom SSH-6 mid-side stereo shotgun mic
-- Ulanzy mini tripod MT-08
-- Movo shock mount
-- Telephone pick-up coil mic
-- Korg contact microphone CM-300
+Controller
+: Behringer X-Touch One
 
-## Microphones
+## Recording
 
-- Shure SM58
-- Røde NT5 condenser matched pair, with SB20 stereo bar
-- Thomann SC 1100 studio large diaphragm mic
+Microphones
+: Shure SM58
+: Røde NT5 condenser matched pair, with SB20 stereo bar
+: Thomann SC 1100 studio large diaphragm mic
 
-## Operating system(s)
+Field recording
+: Zoom H5
+: Ulanzy mini tripod MT-08
+: Movo shock mount
+: Zoom XY stereo mic
+: Zoom SSH-6 mid-side stereo shotgun mic
+: Telephone pick-up coil mic
+: Korg contact microphone CM-300
 
-- macOS Catalina 10.15.7
-- Windows 10
+## Audio software
 
-## Digital Audio Workstations
+DAW
+: [REAPER 6.x]({{ site.url }}/blog/tag/reaper/)
+: Logic Pro X 10.7.7
+: Reason 8.3.2
 
-- [REAPER 6.x]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)
-- Logic Pro X 10.6.3
-- Reason 8.3.2
+Editors
+: iZotope RX 6
+: Zynaptiq Triumph
 
-## Audio editors
+Virtual instruments
+: Kilohearts Phase Plant
+: XLN Audio Addictive Drums and Addictive Keys
+: Radical Piano rack extension for Reason
+: Cockos ReaSamplomatic 5000
+: Waves Flow Motion FM Synth
+: Decidedly Decent Sampler
+: Waldorf Streichfett
+: Vital
+: Decomposer Sitala
+: Air XPand! 2
+: EastWest Hollywood Strings Gold
+: AudioThing SR-88
 
-- iZotope RX 6
-- Zynaptiq Triumph
+Plug-ins
+: Waves
+: Soundtoys 5
+: Voxengo SPAN plus, TEOTE, MSED and Correlometer
+: Klanghelm VUMT deluxe and MJUC vari-mu compressor
+: iZotope Ozone 9 advanced
+: AudioThing Fog Convolver, Things collection and Valves
+: McDSP Compressors Bank
+: Celemony Melodyne 5
 
-## Software instruments
+Game audio
+: Audiokinetic Wwise
+: FMOD studio
+: Unreal Engine
+: Unity
+: [Microsoft’s XACT for Xbox]({{ site.url }}/work/game-audio/console-game-ruff-trigger/#xbox)
+: In-house [MXE editor and middleware]({{ site.url }}/work/game-audio/console-game-ruff-trigger)
 
-- Kilohearts Phase Plant
-- XLN Audio Addictive Drums and Addictive Keys
-- Radical Piano rack extension for Reason
-- Cockos ReaSamplomatic 5000
-- Waves Flow Motion FM Synth
-- Decidedly Decent Sampler
-- Waldorf Streichfett
-- Vital
-- Decomposer Sitala
-- Spitfire LABS and BBC Orchestra
-- Air XPand! 2
-- EastWest Hollywood Strings Gold
-- AudioThing SR-88
+Utilities
+: Stereo Monoizer
+: Zynaptiq Myriad
 
-## Audio processing plug-ins
+Music player
+: [Swinsian](http://www.swinsian.com) on macOS
 
-- Waves
-- Soundtoys 5
-- Voxengo SPAN plus, TEOTE, MSED and Correlometer
-- Klanghelm VUMT deluxe and MJUC vari-mu compressor
-- iZotope Ozone 9 advanced
-- AudioThing Fog Convolver, Things collection and Valves
-- McDSP Compressors Bank
-- Celemony Melodyne 5
+## Video software
 
-## Game audio
+Video player
+: [IINA](https://iina.io/) video player on macOS
+: VLC
 
-- Audiokinetic's Wwise
-- FMOD studio
-- Unreal Engine
-- Unity
+Utilities
+: [`yt-dlp`](https://github.com/yt-dlp/yt-dlp)
+: Handbrake video processor
 
-Previously: [Microsoft’s XACT for Xbox]({{ site.url }}/work/game-audio/console-game-ruff-trigger/#xbox) and in-house [MXE editor and middleware]({{ site.url }}/work/game-audio/console-game-ruff-trigger).
+## Editing
 
-## Audio software utilities
+Image manipulation
+: Sketch v59
+: Pixelmator classic
 
-- Stereo Monoizer
-- Zynaptiq Myriad
+Image management
+: Graphic Converter 12
+: ImageOptim
 
-## Music player
+Text editor
+: Sublime Text 4 ([read why ↗](https://tonsky.me/blog/sublime/))
+: Typora
+: iA Writer
+: Obsidian on Android
 
-- [Swinsian](http://www.swinsian.com) on macOS
+## Archiving
 
-## Video
+Sync
+: [Syncthing](https://syncthing.net/)
+: Dropbox in the browser
 
-- [IINA](https://iina.io/) video player on macOS
-- Handbrake video processor
-
-## Utilities
-
-- [`yt-dlp`](https://github.com/yt-dlp/yt-dlp)
-
-## Cloud sync
-
-- [Syncthing](https://syncthing.net/)
-- Dropbox in the browser
-
-## Backup
-
-- Carbon Copy Cloner
+Backup
+: Carbon Copy Cloner
 
 {% include pattern-last-updated.html %}
