@@ -13,7 +13,7 @@ posts_limit: 20
 # -------------------
 title: Minutes to Midnight
 tagline: Music producer and sound designer
-description: Digital polymath, I’ve been working as a sound designer and music producer since the 1990s.
+description: Digital polymath, I’ve been working as a sound designer and music producer since the 1990s. Honest and opinionated.
 permalink: /blog/:title/
 keywords:
   minutes to midnight,
@@ -38,7 +38,7 @@ author:
 # Brand
 # -------------------
 brand:
-  m2m_intro: 'Digital polymath, I’ve been working as a sound designer and music producer since the 1990s'
+  m2m_intro: 'Digital polymath, I’ve been working as a sound designer and music producer since the 1990s. Honest and opinionated.'
 
 # -------------------
 # Exclusions
