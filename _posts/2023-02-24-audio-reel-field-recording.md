@@ -19,7 +19,7 @@ featimage-name: 'field-recording.jpg'
 featimage-url: '/assets/images/field-recording.jpg'
 featimage-alt: 'Sit in a park setting up the Zoom H5 handheld recorder for a session of field recording. Photo by Silvia Maggi.'
 ---
-I finally started using my [Zoom H5](/uses/) for field recording. I've been quite consistently capturing several audio sources inside and outside the house. Here on the Lake Maggiore, there are several spots where to record interesting sounds. 
+I finally re-started using my [Zoom H5](/uses/) for field recording. I've been quite consistently capturing several audio sources inside and outside the house. Here on the Lake Maggiore, there are several spots where to record interesting sounds. 
 
 I've been particularly enjoying experimenting with two mics, which coincidentally are also the cheapest in my rig. One is a [telephone pick-up coil mic](https://www.amazon.com/Telephone-Microphone-Suction-Cup-Pickup/dp/B0034I75IK) that I bought off Amazon last year for 3 dollars, the second is a [Korg contact microphone](https://www.korg.com/us/products/tuners/cm_300/) that's way cheaper than the usual suspects and is usually employed to tune instruments.
 
