@@ -6,7 +6,6 @@ last_modified_at: '2023-02-27 18:10:35'
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
 excerpt: 'This is a <em>now page</em>, from a brilliant idea by Derek Sivers. It tells what I’m really focused on at this point in life. If you have your own site, <a href="https://nownownow.com/about">you should make one, too</a>.'
 permalink: '/now/'
-toc: true
 ---
 ## Where?
 
