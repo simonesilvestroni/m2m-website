@@ -120,7 +120,7 @@ Utilities
 Music player
 : [Swinsian](http://www.swinsian.com) on macOS
 
-## Video software
+## Video
 
 Video player
 : [IINA](https://iina.io/) video player on macOS
@@ -146,11 +146,32 @@ Text editor
 : iA Writer
 : Obsidian on Android
 
-## Archiving
+## Reading
+
+Browser
+: Firefox (primary)
+: Safari
+: [Ungoogled Chromium](https://simonesilvestroni.com/blog/ungoogled-chromium/)
+
+RSS
+: Feedbin
+
+E-reader
+: Kobo Glo
+: Calibre
+
+## Management
+
+Tasks
+: [Todo.txt](https://github.com/todotxt)
+: Trello
 
 Sync
 : [Syncthing](https://syncthing.net/)
 : Dropbox in the browser
+
+FTP
+: Transmit
 
 Backup
 : Carbon Copy Cloner
