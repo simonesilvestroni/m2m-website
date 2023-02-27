@@ -1,7 +1,7 @@
 ---
 title: "Efficient productivity for music professionals"
 date: '2021-11-08 10:50:21'
-last_modified_at: '2021-11-08 10:50:24'
+last_modified_at: '2023-02-27 18:10:47'
 description: "Download my free ebook about project management in the music industry. Based on a real-life album production."
 excerpt: "Download my free ebook about project management in the music industry, based on a real-life album production. No strings attached, the book is a 13.2MB PDF file."
 featimage: true
