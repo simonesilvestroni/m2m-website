@@ -2,15 +2,15 @@
 layout: page
 title: 'Now'
 date: '2023-02-19 21:14:17'
-last_modified_at: '2023-02-19 21:14:22'
+last_modified_at: '2023-02-27 17:01:19'
 description: 'A “now” page tells you what the person is focused on at this point in their life.'
-excerpt: 'This is a <strong>now page</strong>, and if you have your own site, <a href="https://nownownow.com/about">you should make one, too</a>. From an idea by Derek Sivers.'
+excerpt: 'This is a <em>now page</em>, inspired by a brilliant idea by Derek Sivers. It tells what I’m really focused on at this point in my life. If you have your own site, <a href="https://nownownow.com/about">you should make one, too</a>.'
 permalink: '/now/'
+toc: true
 ---
-{: .small .d-inline-block .btn-label-m2m-bg .rounded .my-5 .px-2 .py-1 }
-**Updated**: {{ page.last_modified_at | date: "%-d %B %Y" }}
+## Where?
 
-Currently living between Arona and Milan, my plan for 2023 is to go back to the UK, hopefully soon.
+Currently living between Arona and Milan. The plan for 2023 is to go back to the UK, hopefully soon because <a href="{{ site.url }}/blog/making-mistakes/">I'm not happy in my native country</a>.
 
 ## Sound design
 
@@ -30,6 +30,12 @@ While I'm laying down the structure for the German remix of my song _Skinny Kid_
 
 Heavily struggling to focus on one book at a time. My Kobo tells me I'm currently reading something in the range of 17 or 18 books. If I had to narrow down to the three books I've been more focused on I'd say: _Stasiland_ by Anna Funder, _Everything That Remains_ by Joshua Fields Millburn and _Industrial Society And Its Future_ by Ted Kaczynski.
 
+## Growth?
+
+I'm convinced that there is no future without the acceptance that humanity needs to face [degrowth](/blog/degrowth/) as a proper voluntary choice. I've been involved with degrowth and minimalism for a while now.
+
 ## Online communities
 
-I've been making fruitful conversations and connections on Mastodon (link in footer) and [Airwiggles](https://www.airwiggles.com/home).
+I've been making fruitful conversations and connections on [Mastodon](https://indieweb.social/@m2m) and [Airwiggles](https://www.airwiggles.com/home).
+
+{% include pattern-last-updated.html %}
