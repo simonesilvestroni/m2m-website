@@ -10,7 +10,7 @@ permalink: '/newsletter/archives/brand-new-website/'
 Briefly:
 
 - migrating to the static site generator Jekyll and deploying to Netlify set me free from my hosting provider, saving me money.
-- as everything is now built from scratch by myself, I have full control over code, images and the whole process of publishing my content.
+- as everything is now built from scratch by myself, I have full control over code, images and the whole process of publishing my material.
 - getting rid of the cumbersome and vulnerable server-side mechanism behind a database-driven system such as WordPress, meant reducing my files weight by an incredible 89%.
 - the website is fully accessible from all devices.
 - it runs on renewable energy servers and its light weight and absence of third-party scripts contribute to make it fully sustainable as well.
