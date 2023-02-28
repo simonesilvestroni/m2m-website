@@ -7,7 +7,7 @@ description: 'Minutes to Midnight is the outlet of digital polymath Simone Silve
 excerpt: '<strong>Minutes to Midnight</strong> is the outlet of digital polymath Simone Silvestroni, providing an array of audio production services.'
 permalink: '/about/'
 ---
-## About Simone Silvestroni
+## I'm Simone Silvestroni 👋
 
 A graduated musician, sound designer and producer since the 1990s, I founded Minutes to Midnight in Cambridge (UK) in 2017. Besides releasing original music, I've been providing services such as mix, mastering and sound design.
 
