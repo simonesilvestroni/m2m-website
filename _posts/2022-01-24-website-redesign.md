@@ -39,7 +39,7 @@ The homepage is `100KB` uncompressed and loads in less than half a second.
 
 ## Accessibility
 
-Besides being fully validated, the site doesn't have Javascript functionality preventing the content to be fully visible at any time. Nothing in the website is dependent on it. The dynamic [search engine](/search/) has an HTML alternative provided in the same page and the other script is processing webmentions. The website is fully accessible with Javascript turned off.
+Besides being fully validated, the site doesn't have Javascript functionality preventing a page to be fully visible at any time. Nothing in the website depends on it. The dynamic [search engine](/search/) has an HTML alternative provided in the same page and the other script is processing webmentions. The website is fully accessible with Javascript turned off.
 
 ## Tracking and surveillance
 
