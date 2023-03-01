@@ -16,18 +16,16 @@
         <h1 class="fs-1">{% if page.url == "/" %}Updates{% else %}{% if page.url contains "/tag/" %}{{ page.title | capitalize }}{% else %}{{ page.title }}{% endif %}{% endif %}{% if page.layout == 'note' %}: {{ page.date | date: "%-d %B %Y" }}{% endif %}</h1>
         {% if page.is_post %}
         <div class="post-meta my-5">
-          <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>{% if page.author %} &middot; <span>Written by {{page.author}}</span>{% endif %}
+          <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>{% if page.author %}&nbsp;&middot;&nbsp;<span>Written by {{page.author}}</span>{% endif %}
           <span class="d-none">{% include hcard-post.html %}</span>
         </div>
         {% endif %}
         {%- if page.type == "tag" or page.type == "category" -%}
         <p class="p-summary lead my-3">This is an archive page for the {% if page.type == "tag" %}tag.{% elsif page.type == "category" %}category.{% endif %}</p>
         {% endif %}
-        {% unless page.layout == 'note' %}
-        {%- if page.excerpt %}
-        <p class="p-summary lead">{{ page.excerpt }}</p>
-        {% endif -%}
-        {% endunless %}
+        {%- if page.layout == 'project' -%}
+        <p class="p-summary lead">{{ page.description }}</p>
+        {% endif %}
       </div>
     </header>
     {% comment %}
