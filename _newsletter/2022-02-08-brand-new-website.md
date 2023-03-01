@@ -3,10 +3,11 @@ title: 'My brand new website is live'
 date: '2022-02-08'
 last_modified_at: '2022-02-08 21:21:28'
 description: 'I finally published my brand new website. Leaving the WordPress ecosystem felt good: a massive change with consequences over many aspect of my online presence.'
-excerpt: 'I finally published my brand new website. Leaving the WordPress ecosystem felt good: a massive change with consequences over many aspect of my online presence.'
 sitemap: false
 permalink: '/newsletter/archives/brand-new-website/'
 ---
+I finally published my brand new website. Leaving the WordPress ecosystem felt good: a massive change with consequences over many aspect of my online presence.
+
 Briefly:
 
 - migrating to the static site generator Jekyll and deploying to Netlify set me free from my hosting provider, saving me money.

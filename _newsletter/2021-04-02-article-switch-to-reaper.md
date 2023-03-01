@@ -3,11 +3,12 @@ title: 'Article about why I switched to REAPER'
 date: '2021-04-02'
 last_modified_at: '2021-04-02 21:21:28'
 description: 'I published the first article of a 3-part series about how and why I switched from Pro Tools to REAPER.'
-excerpt: 'I published the first article of a 3-part series about how and why I switched from Pro Tools to REAPER.'
 sitemap: false
 permalink: '/newsletter/archives/article-switch-to-reaper/'
 ---
-In this first instalment, I focused on the first three benefits (out of 8) that I’ve experienced:
+I published the first article of a 3-part series about how and why I switched from Pro Tools to REAPER.
+
+In the first instalment, I focused on the first three benefits (out of 8) that I’ve experienced:
 
 - Cost
 - Multi-platform software

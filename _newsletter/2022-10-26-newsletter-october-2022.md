@@ -3,27 +3,28 @@ title: 'Newsletter October 2022'
 date: '2022-10-26 09:57:39'
 last_modified_at: '2022-10-26 09:57:43'
 description: 'As things are still moving at a slow pace, I have a few updates, both personal and work-related.'
-excerpt: 'As things are still moving at a slow pace, I have a few updates, both personal and work-related.'
 sitemap: false
 permalink: '/newsletter/archives/newsletter-october-2022/'
 ---
+As things are still moving at a slow pace, I have a few updates, both personal and work-related.
+
 ## Moving again 🇬🇧
 
-Sometime in early 2023 **I’ll be moving back to the UK**. It’s not a decision taken on a whim, and despite being initially driven by tax reasons, I have to admit a timid build-up of excitement. The hope is to spend a few more years in the country and being able to witness a positive change from the decade-long conservative regime.
+Sometime in 2023 **I’ll be moving back to the UK**. It’s not a decision taken on a whim, and despite being initially driven by tax reasons, I have to admit a timid build-up of excitement. The hope is to spend a few more years in the country and being able to witness a positive change from the decade-long conservative regime.
 
 ## Music I worked on
 
-The fantastic debut EP by Italian band **Arva Vacua**, *Tales from holographic seas*, is officially out now. Based in my hometown Ravenna, they range between cinematic suggestions and an indie-rock feeling, shifting the perspective of a diverse music background.
+The debut EP by Italian band **Arva Vacua**, *Tales from holographic seas*, is officially out now. Based in my hometown Ravenna, they range between cinematic suggestions and an indie-rock feeling, shifting the perspective of a diverse music background.
 
-I’m proud to have mixed the beautiful song [*Nebbia (part one)*](https://arvavacua.bandcamp.com/track/nebbia-part-one).
+I mixed the song [*Nebbia (part one)*](https://arvavacua.bandcamp.com/track/nebbia-part-one).
 
-[▶️ Listen and buy *Tales from holographic seas* on Bandcamp](https://arvavacua.bandcamp.com/album/tales-from-holographic-seas)
+[▶️ Listen to *Tales from holographic seas* on Bandcamp](https://arvavacua.bandcamp.com/album/tales-from-holographic-seas)
 
 ---
 
 Also, together with Emilio Albertoni, I've mastered the song _I'm waiting (Imagine)_ by the Italian artist **AGA**. 
 
-▶️ Watch the [official video on YouTube](https://youtu.be/BCJHjjzONf4) and read the [release article](https://www.rockon.it/musica/video/aga-guarda-il-nuovo-video-im-waiting-imagine/) (in Italian).
+▶️ Watch the [official video on YouTube](https://youtu.be/BCJHjjzONf4).
 
 ---
 
@@ -35,7 +36,7 @@ I have worked for several clients over the last couple of months. The material i
 
 ## Minutes to Midnight 🎵
 
-While not ready to unveil it yet, I can say **Minutes to Midnight is changing**. With a new line-up and upcoming new material, the moniker will be reserved to original music only. I recently bought my personal web domain, which will be the destination of all the work-related pages and blog currently present on minutestomidnight.co.uk.
+With upcoming new material, the moniker will be reserved to original music only. I recently bought my personal web domain, which will be the destination of all the work-related pages and blog currently present on minutestomidnight.co.uk.
 
 ## Game audio progress 🎮
 

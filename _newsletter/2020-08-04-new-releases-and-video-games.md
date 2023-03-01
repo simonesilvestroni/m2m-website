@@ -3,7 +3,6 @@ title: 'New releases and video games'
 date: '2020-08-04'
 last_modified_at: '2020-08-04 21:21:28'
 description: 'In this issue: leaving social media, a review for my song 13 Days, a new single by Antiquity with my bass, a post about the video game Attentat 1942.'
-excerpt: 'Welcome to Minutes to Midnight’s newsletter. In this issue: leaving social media, a marvellous review for my song 13 Days (plus the official video), a new single by Antiquity with my bass, a post about the video game <em>Attentat 1942</em>.'
 sitemap: false
 permalink: '/newsletter/archives/new-releases-and-video-games/'
 ---
