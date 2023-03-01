@@ -4,7 +4,7 @@
       {%- if page.previous.url %}{% unless page.previous.hidden -%}
       <a class="d-block fs-6" href="{{ page.previous.url }}">
         <div>
-          <span class="btn-cta-m2m-bg d-inline-block rounded mb-2 px-2 py-1">← Previous post</span>
+          <span class="btn-cta-m2m-bg d-inline-block rounded mb-2 px-2 py-1">← Previous</span>
         </div>
         <span class="text-uppercase"><strong>{{ page.previous.title }}</strong></span>
       </a>
@@ -14,7 +14,7 @@
       {%- if page.next.url %}{% unless page.next.hidden -%}
       <a class="d-block fs-6" href="{{ page.next.url }}">
         <div>
-          <span class="btn-cta-m2m-bg d-inline-block rounded mb-2 px-2 py-1">Next post →</span>
+          <span class="btn-cta-m2m-bg d-inline-block rounded mb-2 px-2 py-1">Next →</span>
         </div>
         <span class="text-uppercase"><strong>{{ page.next.title }}</strong></span>
       </a>
