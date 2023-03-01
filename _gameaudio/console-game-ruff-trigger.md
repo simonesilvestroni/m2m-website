@@ -17,13 +17,14 @@ skillset:
   - "sound forge"
   - "studio building"
   - "alienbrain"
-description: "I spent 5 years as an audio team leader for the console game ‘Ruff Trigger’. I directed the soundtrack as well as created and edited all the sound effects."
-excerpt: 'As the audio team leader for the Playstation2 game <em>Ruff Trigger</em>, I directed the soundtrack as well as created the sound effects.'
-toc: true
+description: "As the audio team leader for the Playstation2 game ‘Ruff Trigger’, I directed the soundtrack as well as created and edited all the sound effects."
 featimage: true
-featimage-url: '/assets/images/ruff-trigger-console-game.jpg'
-featimage-height: '600'
 ---
+{% responsive_image_block %}
+  path: assets/images/ruff-trigger-console-game.jpg
+  alt: Ruff Trigger game cover
+{% endresponsive_image_block %}
+
 ## How I got into game audio
 
 In January 2000 a company called Playstos Entertainment offered me a job as a web developer. A web designer himself, one of Playstos' co-founders was looking for someone who understood both aspects, creative and technical.
