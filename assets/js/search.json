@@ -10,11 +10,7 @@ sitemap: false
     {%- for doc in docs %}
       {
         "title": {{ doc.title | jsonify }},
-        {%- if doc.url contains '/web-design/' %}
-        "excerpt": {{ doc.summary | markdownify | strip_html | jsonify }},
-        {% else %}
-        "excerpt": {{ doc.excerpt | markdownify | strip_html | jsonify }},
-        {% endif -%}
+        "excerpt": {{ doc.description | markdownify | strip_html | jsonify }},
         "url": {{ site.url | append: doc.url | jsonify }}
       },
     {% endfor -%}
@@ -23,7 +19,7 @@ sitemap: false
   {%- for page in pages %}
   {
     "title": {{ page.title | jsonify }},
-    "excerpt": {{ page.excerpt | markdownify | strip_html | jsonify }},
+    "excerpt": {{ page.description | markdownify | strip_html | jsonify }},
     "url": {{ site.url | append: page.url | jsonify }}
   }{%- unless forloop.last %},{% endunless -%}
   {% endfor -%}

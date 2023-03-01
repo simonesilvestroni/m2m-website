@@ -17,7 +17,8 @@ layout: none
         <title>{{ post.title | xml_escape }}</title>
         <author>{{ site.author.email }} ({{ site.author.name }})</author>
         <description><![CDATA[
-          {{ post.excerpt }}
+          {{ post.description }}
+          <hr>
           {{ post.content }}
           <hr /><p><a href="mailto:{{ site.author.email }}?subject={{ post.title | uri_escape }}">Reply via email</a></p>]]>
         </description>
