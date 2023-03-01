@@ -4,10 +4,10 @@ title: 'Newsletter archives'
 date: '2022-05-08'
 last_modified_at: '2022-05-08 21:21:28'
 description: 'Aperiodic newsletter. I only send one when there are updates to share, mostly about releases or facts from the audio and game industries.'
-excerpt: 'Aperiodic newsletter. I only send one when there are updates to share, mostly about releases or facts from the audio and game industries. Subscribe <a href="/newsletter/#newsletter-subscribe">via RSS or email</a>.
-'
 permalink: '/newsletter/archives/'
 ---
+Subscribe [via RSS or email](/newsletter/#newsletter-subscribe).
+
 <table class="table">
   <thead>
     <tr>

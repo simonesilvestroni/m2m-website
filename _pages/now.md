@@ -3,13 +3,14 @@ layout: page
 title: 'Now'
 date: '2023-02-19 21:14:17'
 last_modified_at: '2023-02-27 18:10:35'
-description: 'A “now” page tells you what the person is focused on at this point in their life.'
-excerpt: 'This is a <em>now page</em>, from a brilliant idea by Derek Sivers. It tells what I’m really focused on at this point in life. If you have your own site, <a href="https://nownownow.com/about">you should make one, too</a>.'
+description: 'What I am focused on at this point in my life?'
 permalink: '/now/'
 ---
+This is a _now page_, from a brilliant idea by Derek Sivers. It tells what I’m really focused on at this point in life. If you have your own site, [you could make one, too](https://nownownow.com/about).
+
 ## Where?
 
-Currently living between Arona and Milan. The plan for 2023 is to go back to the UK, hopefully soon because <a href="{{ site.url }}/blog/making-mistakes/">I'm not happy in my native country</a>.
+Currently living between the shores of Lake Maggiore and Milan. The plan for 2023 is to go back to the UK, hopefully soon because <a href="{{ site.url }}/blog/making-mistakes/">I'm not happy in my native country</a>.
 
 ## Sound design
 

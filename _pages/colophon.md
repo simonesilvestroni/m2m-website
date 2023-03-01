@@ -2,22 +2,38 @@
 layout: page
 title: 'Colophon'
 date: '2023-01-14 13:49:31'
-last_modified_at: '2023-01-14 13:49:37'
+last_modified_at: '2023-03-01 18:04:02'
 description: 'Tools, methodology and benchmarks about this website.'
 permalink: '/colophon/'
 ---
 ## About this website
 
-Developed from scratch using:
+I designed developed the site from scratch, using the following tech:
 
-- [Jekyll 4.2.1](https://jekyllrb.com/) with the following Ruby gems: `jekyll-sitemap`, `jekyll-archives` and `jekyll-responsive-image`
-- [Markdown (extended)](https://www.markdownguide.org/getting-started/)
-- HTML and CSS
-- Vanilla javascript for [search module](https://github.com/daviddarnes/jekyll-search-js) and [webmentions](https://github.com/fluffy-critter/webmention)
-- [Table of contents](https://github.com/allejo/jekyll-toc)
-- Bash for building purposes
-- Repository on [Github](https://github.com/simonesilvestroni/m2m-website)
-- Hosted on [Netlify](https://netlify.com)
+Platform and build
+: [Jekyll v4.2.1 ↗](https://jekyllrb.com/)
+: `jekyll-sitemap` Ruby gem
+: `jekyll-archives` Ruby gem
+: `jekyll-responsive-image` Ruby gem
+: [Table of contents Liquid add-on ↗](https://github.com/allejo/jekyll-toc)
+: Bash
+: [Apple Shortcuts ↗](https://simonesilvestroni.com/blog/automation-for-my-blog-publishing-workflow/)
+
+Languages
+: HTML
+: CSS
+: [Markdown (extended) ↗](https://www.markdownguide.org/getting-started/)
+: [Vanilla javascript for the search module ↗](https://github.com/daviddarnes/jekyll-search-js)
+: [Vanilla javascript for the webmentions ↗](https://github.com/fluffy-critter/webmention)
+
+Imagery
+: Sketch
+: Pixelmator
+: ImgOptim
+
+Code repository and hosting
+: [Github ↗](https://github.com/simonesilvestroni/m2m-website)
+: [Netlify ↗](https://netlify.com)
 
 ### Accessibility and sustainability
 

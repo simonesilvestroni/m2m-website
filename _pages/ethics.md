@@ -3,13 +3,12 @@ layout: page
 title: 'Ethics'
 date: '2022-11-23 11:23:18'
 last_modified_at: '2023-01-14 18:45:25'
-description: 'Ethics and philosophy over privacy, design, web architecture and the software I use.'
-excerpt: 'A manifesto of what I adhere to in terms of privacy, design, web architecture and the software I use.'
+description: 'A manifesto of what I adhere to in terms of privacy, design, web architecture and the software I use.'
 permalink: '/ethics/'
 ---
 ## Privacy
 
-The website doesn’t collect personal data, it doesn’t run analytics software, it doesn’t have ads, affiliate links or tracking. Unless you [tell me](/contact/), there is no way to know you've been here.
+I don't collect personal data, don't run analytics software, ads, affiliate links or tracking. [Unless you tell me](/contact/), there is no way for me to know you've been here.
 
 A full [content security policy ↗](https://simonesilvestroni.com/blog/content-security-policy/) have been implemented.
 

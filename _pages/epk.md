@@ -2,26 +2,25 @@
 layout: page
 title: '‘After 1989’ Press Kit'
 date: '2019-11-08 10:28:19'
-last_modified_at: '2021-11-18 18:12:31'
-description: 'How a young escaped Germany in 1945, while his grandson made the other way round, looking for answers that he could only find in 2017.'
-excerpt: '<strong>30 years after the Berlin Wall</strong>, the tale of how a young escaped Germany in 1945, while his grandson made the other way round, looking for answers that he could only find in 2017.'
+last_modified_at: '2023-03-01 18:05:46'
+description: '30 years after the Berlin Wall, the tale of how a young man escaped Germany in 1945, while his grandson made the other way round, looking for answers that he could only find in 2017.'
 robots: 'noindex,follow'
 sitemap: false
 permalink: '/epk/'
 ---
-## Teaser
+## Video teaser
 
 {% include pattern-video.html id="q148xmdgHrY" %}
 
-## Bio
+## Biography
 
-[Minutes to Midnight](/about/) launched in 2019 a music project specifically to tell a real-life tale of imprisonment and liberty. [*After 1989: A Trip To Freedom*]({{ site.url }}/work/music/after-1989/) tells the story from the perspective as a grandson, who has only recently uncovered answers to how his grandfather managed to escape Germany in 1945. A modern-day attempt at storytelling, the album is a glimpse into hope.
+Music producer and sound designer [Minutes to Midnight](/about/) launched in 2019 a music project specifically to tell a real-life tale of imprisonment and liberty. 
 
-## On Bandcamp
+[*After 1989: A Trip To Freedom*]({{ site.url }}/work/music/after-1989/) tells the story from the perspective as a grandson, who has only recently uncovered answers to how his grandfather managed to escape from a concentration camp near Berlin in 1945. A modern-day attempt at storytelling, the album is a glimpse into hope.
 
-{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 
-## YouTube playlist
+## Official music videos playlist
 
 {% include pattern-video-list.html id="PLR26aYJQa09PleTolHJU9AXACUHWsdu6s" %}
 

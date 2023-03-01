@@ -3,9 +3,7 @@ layout: page
 title: 'After 1989: Reviews'
 date: '2020-11-09 10:52:12'
 last_modified_at: '2021-12-02 23:33:06'
-description: "A collection in-depth analysis and reviews gathered from Bandcamp, music blogs, podcasts and social media."
-excerpt: 'This page collects three in-depth analysis of <a href="/work/music/after-1989/"><em>After 1989</em></a>, written by Rosa Nadine Xochimilco Sánchez, IndieRepublik (Berlin) and Angry Baby, followed by reviews gathered from Bandcamp, music blogs, podcasts and social media.'
-toc: true
+description: "A collection of in-depth analysis and reviews for ‘After 1989’, gathered from various sources including Bandcamp, music blogs, podcasts and social media."
 permalink: '/work/music/after-1989-reviews/'
 ---
 ## In-depth reviews
@@ -34,11 +32,15 @@ All of these techniques combine to bring together the bouquet of emotional notes
 
 #### Skinny Kid
 
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=3005791226/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
+
 We begin with _Skinny Kid_, a driving song which sets the stage for the landscape ahead. Setting up the why and the how of the story, we are introduced to the past and the concept of loss and longing within this family. With a memorable melody, the vocals coax you into what will become a meaningful tour through the past of this character and others, the focus often shifting, but the vision remains the same. 
 
 With a piercing guitar track and potent lyrics talking of “faceless strangers” and “a dream has swollen,” there is an inevitability in the language, a feeling that the stage is set and that we are here for the duration. Perhaps my favorite turn of phrase is that “He can’t stop the corrosion/ He’s losing his grip,” as there are so many layers to the lyrics, yet all of them are relatable. By the end of the track we have joined the trek toward truth and ready for more.
 
 #### A Little Boy That Santa Claus Forgot On A B-29
+
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=468925954/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 
 _A Little Boy That Santa Claus Forgot on a B-29_ begins to show us the darkness in the story to come. The lightness of the music, using the xylophone as the faint tinkling of bells, is in direct contrast to the message of American president Harry Truman talking about the need to drop the Atomic Bomb, and a lovely gentle introduction to what will become a deeper feeling of disparity between the public and private spheres of the characters as well as the inconsistency between what the politicians are saying versus doing. 
 
@@ -46,11 +48,15 @@ Truman’s message of saving American lives feels hollow knowing how many people
 
 #### The Logic
 
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=897883044/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
+
 In _The Logic_ we move forward in the narrative, continuing with that same sense of dissonance and uncertainty. We as listeners feel unsettled as we are given both soft saxophone and hard guitar melodies at the same time, creating the feeling that something must be wrong. The lyrics are persuasive and pleasing to the ear, while their message is one of deep concern. 
 
 There is almost a sense of sensuality to this song, luring us deeper into the story, despite the lyrics clearly telling us things are wrong in the world. Despite the lightness of the musicality and the transition to delicate female vocals, we know we are being led down the garden path. “I’ve got my side, you’ve got yours/ We keep an eye open wide indoors” is incredibly heavy in concept — showing that trust is lost even within the family, making our story even more complex.
 
 #### 13 Days
+
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=3013383160/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 
 Being a student of history, and particularly this time period in America, _13 Days_ was such a pleasure to listen to, especially with the incredible choice of samples in this song. John F. Kennedy’s participation and handling of the Cuban Missile Crisis is a key moment in history, and a poignant time in America. While that alone makes this one of my favorite songs on the album, the opening guitar riffs make sure the listener knows that things are changing. The music and the lyrics continue the downward spiral of reality that began in _The Logic_. 
 
@@ -60,11 +66,15 @@ The underlying bass guitar begins as background, but despite a more prominent gu
 
 #### Unter Den Linden
 
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=449979971/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
+
 Transitioning into _Unter Den Linden_, as the audience, the music cues us to know that this is the “let’s go” song in the album; the barricade has been built, and it’s time for action. This the call to arms for the audience. The language and the music combine to make us feel that the main character’s journey isn’t theirs’ alone, but one that we are all on. 
 
 Being the fifth song on the album, we are far enough along into the story to know what is happening, and what we want to happen. We are in the trenches with the main character and feel close to them. “Wake Up/ Gotta go now to the place we can’t be afraid of/ Join me” is an emotional call and response buried within the song; for at this point, there is a definite emotional turn for the listener, it isn’t just their story, it’s our story, and we feel it with a gravitas that has slowly crept in, almost surprising when you realize how invested you are. When we hear “This time I can be me/ This time we’re gonna be free” we are right there ready to join the fight.
 
 #### Love Field
+
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=835682863/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 
 The next song, _Love Field_, is my favorite in the album. It is the most emotional and heart-wrenching; it’s the zenith of the anxiety and uncertainty they’ve been feeling. Continuing with the dissonance of the cheering crowd against the serious music, once again juxtaposing our feelings and what we want to happen versus what we already know happened in the past. 
 
@@ -74,11 +84,15 @@ This use of JFK’s assassination to echo the darkness of the worst parts of the
 
 #### Requiem
 
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=50827913/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
+
 There, in the sea of feelings, we come to _Requiem_, a song that has our hearts in our throats. Here, we are allowed to feel sad, and it really lets the audience process all that they’ve experienced so far. It’s a hard transition from the death of JFK to that of Martin Luther King Jr, both assassinations, and both assaults on the hope of a brighter future. 
 
 The application of a beautiful sample reminds us that we have a choice. That there, in the depths of despair and loss, we can still choose love over hate. We are there with our main character as we realize we too are in the middle of everything, perhaps complicit even, but that we have a choice of where to go next.
 
 #### The Day Before
+
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=659009313/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 
 _The Day Before_ begins our path back through Europe as we revisit the musical themes and feelings from _Skinny Kid_, our opening song. We are invited to look at what is happening with our main character, and how they are changing. It’s 1983, and a chance for re-evaluation. It is a deeper opportunity for us to look at ourselves as well, of how we choose to live and how our choices can deeply affect us and others. 
 
@@ -86,11 +100,15 @@ The song is the twin to _Unter Der Linden_ as it is the group collective in acti
 
 #### Berlin 91
 
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=520753597/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
+
 A pause on our journey, _Berlin 91_ continues the emotional wave of _The Day Before_ and is a patch of light through the clouds. “The wind of East Berlin is ruby red when lost in your hair” is an excellent line and is incredibly evocative as we see the use of color to show feelings in a different way. It acknowledges the darkness we have traveled through, and calls for us to really feel the meaning of that change. 
 
 We can reflect on our journey as the main character reflects on their own, and the powerful language of the recurring chorus is a hard line against complacency. “That was me watching the no man’s land/ This is me changing the life I planned.” It’s poetic and stalwart, and just as much as a call to arms as the feelings from _Unter Den Linden_. This is an incredibly powerful song and an excellent choice for the penultimate moment on the album.
 
 #### Sachsenhausen
+
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=2745540238/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 
 The final song on _After 1989: A Trip to Freedom_ is _Sachsenhausen_. The journey is so powerful on this album that I initially struggled with this song simply because I didn’t want the journey to end. The opening with the birds signals morning as opposed to mourning. It finally is a new dawn for our character, and really for each of us that has accompanied them. We have hope again, there is birth and rebirth. 
 
@@ -98,7 +116,7 @@ We have come full circle, back to the camps, and we stand with our hero, speakin
 
 The final emotive notes of the album are that of longing, but it is still loving. We look back at the journey we have traveled, but are looking out at the horizon to our bright future at the same time.
 
----
+### Conclusions
 
 This album is a marvel of time and place as well as the use of music and lyrics to convey feelings and experiences that simply can not be conveyed with text. While the history of this time is incredibly dynamic, it is too often told in a cold and distant way, completely eliminating the intimacy of a true story so many of our relatives experienced. 
 
@@ -193,6 +211,10 @@ Throughout _After 1989_, Simone uses archive material to accentuate the music an
 
 > It’s a greatly inspiring album, where the sounds blend perfectly with the strength of the feelings evoked, all mentioned facts being part of our collective unconscious although personal for the artist.
 > <cite>— Giuliana Graniti, from Bandcamp</cite>
+
+> What a powerful piece of work. I would like to see it performed in Germany and England. A musical and historical journey with depths. <cite>BeaK, from Bandcamp</cite>
+
+> The crystal clear mix, the engrossing story, the lovely bass. I’ll often end up with the chorus to ‘Skinny Kid’ stuck in my head without warning.<cite>Mykie Frankenstein, from Bandcamp</cite>
 
 > What a ride! The album is definitely a trip, and a very satisfying one to boot. The words “concept album” may carry some tricky baggage with them: shall I listen very carefully not to miss the point? Will I be forced to slog through convoluted passages with no musical relevance, stuck there to serve the concept only?  
 > Rest assured, none of this applies to _After 1989 – A Trip To Freedom_. Listened to it three times in a row. Flows perfectly, loved the unique voice of it all – and the Pink Floyd vibes here and there (the bass in Love Field, the “Waters-esque” feeling in _Sachsenhausen_)!  

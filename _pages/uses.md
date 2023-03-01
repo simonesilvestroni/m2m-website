@@ -2,11 +2,9 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2023-02-27 18:50:52'
+last_modified_at: '2023-03-01 10:28:27'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
-excerpt: 'Specifics about the hardware and software equipment I use. The page is part of the <a href="https://uses.tech/">uses.tech</a> project.'
 permalink: '/uses/'
-toc: true
 ---
 ## Workstation
 
@@ -155,6 +153,7 @@ Browser
 
 RSS
 : Feedbin
+: Netnewswire ([read why ↗](https://inessential.com/2023/02/20/on_not_taking_money_for_netnewswire))
 
 E-reader
 : Kobo Glo

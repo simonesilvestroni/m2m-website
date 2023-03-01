@@ -3,10 +3,11 @@ layout: page
 title: RSS
 date: '2022-05-09'
 last_modified_at: '2022-05-09 12:22:01'
-description: 'Subscribe to my RSS feeds (latest 20 posts) by copying the URL into your news reader.'
-excerpt: 'The best way to follow my posts is by subscribing to the RSS feed (latest 20 posts) for the <a href="/feed.xml">blog</a> or <a href="/newsletter.xml">newsletter</a> by copying the URL into your news reader.'
+description: 'The best way to follow my posts is by subscribing to the RSS feed (latest 20 posts) by copying the URL into your news reader.'
 permalink: '/rss/'
 ---
+I have an RSS feed for the <a href="/feed.xml">blog</a> and one for the <a href="/newsletter.xml">newsletter</a>.
+
 ## What is RSS?
 
 Web feeds are also known as <abbr title="RDF Site Summary or Really Simple Syndication">RSS</abbr> feeds.

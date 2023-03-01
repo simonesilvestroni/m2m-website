@@ -4,7 +4,6 @@ title: Archive
 date: '2021-11-08 10:27:47'
 last_modified_at: '2021-11-08 10:27:41'
 description: 'Browse the full archive of selected projects, blog posts by year, categories and tags.'
-excerpt: 'Browse the full archive of projects, posts by year, <a href="#blog-categories">categories</a> and <a href="#blog-tags">tags</a>.'
 permalink: '/archive/'
 ---
 {%- assign music = site.music | sort: 'date' | reverse -%}
@@ -77,7 +76,7 @@ permalink: '/archive/'
   {%- for category in sorted_cats -%}
   {%- assign c = category | first -%}
     <li class="list-inline-item me-3 my-3">
-      <a class="text-decoration-none p-name u-url" href="/blog/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><span class="rounded border border-3 bg-light py-2 px-3"><strong>{{ c | upcase }}</strong></span></a>
+      <a class="p-name u-url text-decoration-none fs-6" href="/blog/category/{{ c | slugify }}/" title="Go to the archive page for: {{ c }}"><span class="rounded border border-3 bg-light py-2 px-3">{{ c | upcase }}</span></a>
     </li>
   {%- endfor -%}
   </ol>
@@ -89,7 +88,7 @@ permalink: '/archive/'
   {%- for tag in sorted_tags -%}
   {%- assign t = tag | first -%}
     <li class="list-inline-item me-3 my-3">
-      <a class="p-name u-url text-decoration-none fs-5" href="/blog/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><span class="rounded border border-3 bg-light py-2 px-3"><strong>{{ t | upcase }}</strong></span></a>
+      <a class="p-name u-url text-decoration-none fs-6" href="/blog/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><span class="rounded border border-3 bg-light py-2 px-3">{{ t | upcase }}</span></a>
     </li>
   {%- endfor -%}
   </ol>
