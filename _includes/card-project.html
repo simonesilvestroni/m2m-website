@@ -14,11 +14,7 @@
   <div class="col-12 col-md-9 ps-4 ps-md-0 pe-4">
     <h3 class="text-center text-md-start mt-4 mt-md-0 mb-4 mb-md-3" id="{{ project.title | downcase | replace: " ","-" }}">{{ project.title }}</h3>
     <p class="p-summary card-text fs-5">
-      {%- if project.type == "web design" -%}
-        {{ project.description | strip_html }}
-      {%- else -%}
-        {{ project.excerpt | strip_html }}
-      {%- endif -%}
+      {{ project.description | strip_html }}
     </p>
     <p class="text-center text-md-start fs-5 mt-4 mt-md-3 mb-md-0">
       <a class="u-url btn-cta-m2m-bg d-inline-block rounded text-decoration-none my-2 px-2 py-1" href="{{ project.url }}" title="Read about {{ project.title }}">Read more →</a>
