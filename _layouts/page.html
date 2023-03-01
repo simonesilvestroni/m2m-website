@@ -4,6 +4,7 @@ layout: default
 {%- if page.toc == true %}
   {% include pattern-toc.html html=content sanitize=true class="inline_toc" id="toc" h_min=2 h_max=2 %}
 {% endif -%}
+<p class="p-summary">{{ page.description }}</p>
 <div class="e-content">
-{{ content }}
+  {{ content }}
 </div>
