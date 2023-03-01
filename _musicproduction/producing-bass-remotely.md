@@ -3,7 +3,6 @@ title: 'Producing bass remotely'
 date: '2020-09-12'
 last_modified_at: '2021-12-07 17:00:42'
 year: "2020"
-author: 'Simone Silvestroni'
 skillset: 
   - "bass"
   - "recording"
@@ -11,11 +10,8 @@ skillset:
   - "editing"
   - "pro tools"
   - "logic pro x"
-description: "Exposing the process for producing effective bass tracks for the New York-based band, Antiquity."
-excerpt: "Exposing the process for producing effective bass tracks for the New York-based band, Antiquity."
+description: "Exposing the process for producing effective bass tracks for the New York-based band Antiquity."
 featimage: true
-featimage-url: '/assets/images/producing-bass-remotely.jpg'
-featimage-height: '600'
 canonical: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'
 syndication: true
 syndicate:
@@ -23,11 +19,14 @@ syndicate:
     url: https://unlockyoursound.com/producing-bass-tracks-remotely/
 sitemap: false
 ---
+{% responsive_image_block %}
+  path: assets/images/producing-bass-remotely.jpg
+  alt: Simone Silvestroni (Minutes to Midnight) in the studio recording bass
+{% endresponsive_image_block %}
+
 The following analysis was written in June 2020, based on my work for [Antiquity](https://antiquity-music.com/) and their single _The Far Side Of The Sun_. They are based in New York, while I had been living in the UK at the time.
 
-## On Bandcamp
-
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://antiquitysessions1.bandcamp.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
 
 ## Stage 1: Assessment
 

@@ -3,22 +3,25 @@ title: "Producing Commit To The List by Callum Gardner"
 date: '2017-05-15'
 last_modified_at: '2021-11-14 20:43:08'
 year: "2017"
-author: 'Simone Silvestroni'
 skillset: 
   - "production"
   - "editing"
   - "logic pro"
   - "mix"
   - "master"
-description: "How Callum Gardner and I met, got to know each other and started producing his debut single"
-excerpt: 'How Callum Gardner and I met, got to know each other and started producing his debut single.'
+description: "How Callum Gardner and I met, got to know each other and started producing his debut single."
 featimage: true
-featimage-url: '/assets/images/producing-commit-to-the-list-by-callum-gardner.jpg'
-featimage-height: '600'
 ---
-## On Spotify
+{% responsive_image_block %}
+  path: assets/images/producing-commit-to-the-list-by-callum-gardner.jpg
+  alt: Cover for the single Commit to the List
+{% endresponsive_image_block %}
+
+## Stream from Spotify
 
 {% include pattern-spotify.html id="4e2PTyfPfvw9WunM9nG0nT" height="80" %}
+
+## Backstory
 
 A few years ago I got in touch with [Ciara Clifford](https://open.spotify.com/artist/6y4HZjrBa7CMWVdyIkV5RQ), who was looking for a new bassist to play in a trio. Unfortunately, my schedule was incompatible with the required effort, but I went to her next live gig at the _Nambucca_. Besides being finally able to meet her and see [Joe Meek’s former studio](https://en.wikipedia.org/wiki/Joe_Meek) in Holloway Road, there was one further highlight that evening. 
 
@@ -67,4 +70,5 @@ Drums
 ## Production
 
 Written by Callum Gardner<br>
+Recorded at SAE (London) and the Garden Room Studio (Cambridge)<br>
 Produced, mixed and mastered by Simone Silvestroni

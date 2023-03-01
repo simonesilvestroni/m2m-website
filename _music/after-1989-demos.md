@@ -2,7 +2,6 @@
 title: 'After 1989 Demos'
 date: '2019-11-08 10:52:30'
 last_modified_at: '2021-11-17 11:40:27'
-author: 'Simone Silvestroni'
 year: '2020'
 skillset: 
   - "composition"
@@ -10,13 +9,10 @@ skillset:
   - "instrument"
   - "production"
   - "reason"
-description: "A companion to the concept album ’After 1989‘, ’Original Demos and Outtakes‘ is a rough and unpolished partial testimony of a different approach."
-excerpt: "A companion to the concept album released in 2019, <em>Original Demos and Outtakes</em> is a rough and unpolished partial testimony of a different approach."
+description: "A companion to the concept album ‘After 1989’, ‘Original Demos and Outtakes’ is a rough and unpolished partial testimony of a different approach."
 featimage: true
 ---
-## On Bandcamp
-
-{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2694261691/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom-original-demos-outtakes">After 1989: A Trip To Freedom (Original Demos &amp; Outtakes) by Minutes to Midnight</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 350px; height: 753px;" src="https://bandcamp.com/EmbeddedPlayer/album=2694261691/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom-original-demos-outtakes">After 1989: A Trip To Freedom (Original Demos &amp; Outtakes) by Minutes to Midnight</a></iframe>' %}
 
 ## Production
 

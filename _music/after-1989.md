@@ -2,7 +2,6 @@
 title: 'After 1989'
 date: '2019-11-09 10:51:42'
 last_modified_at: '2022-08-12 15:46:08'
-author: 'Simone Silvestroni'
 year: '2019'
 skillset: 
   - "composition"
@@ -13,21 +12,18 @@ skillset:
   - "logic pro"
 description: "A concept album about a young man who escaped Germany in 1945, while his grandson made the other way round, looking for answers in 2017."
 excerpt: "A concept album</strong> about how a young man escaped Germany during World War II, while his grandson retraced his steps 30 years after the Berlin wall."
-toc: true
 featimage: true
 ---
+{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 350px; height: 853px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=large/bgcol=ffffff/linkcol=333333/package=12488683/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
+
+<small><em>After 1989</em> can be downloaded in high-resolution audio and/or streamed through the free Bandcamp app. It features a PDF booklet containing synopsis and lyrics (in English and Italian) along with a beautiful [limited edition CD](https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom).</small>
+
 ## The concept
 
 Three decades after the fall of the Berlin Wall, the autobiographical tale of how my grandfather escaped a concentration camp in 1945, while I made the other way round, looking for answers that I could only find in 2017.
 
 {: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
 Read the [**full story**]({{ site.url }}/blog/after-1989-full-story/) →
-
-## On Bandcamp
-
-{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
-
-The album features download in _high-resolution audio_, online streaming, a PDF booklet containing synopsis and lyrics (in English and Italian) and a beautiful [limited edition CD](https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom).
 
 ## On YouTube
 

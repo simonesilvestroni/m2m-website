@@ -3,7 +3,6 @@ title: "Minutes to Midnight productions 2017-2022"
 date: '2022-12-01 21:37:18'
 last_modified_at: '2022-12-01 21:37:23'
 year: "2017"
-author: 'Simone Silvestroni'
 skillset: 
   - "bass"
   - "production"
@@ -17,12 +16,13 @@ skillset:
   - "mix"
   - "master"
 description: 'A collection of productions released through the years that don’t have a full-fledged case study in the page Work.'
-excerpt: 'A collection of productions released through the years that don’t have a full-fledged case study in the page <a href="/work/">Work</a>.'
-toc: true
 featimage: true
-featimage-url: '/assets/images/minutes-to-midnight-productions-2017-2022.jpg'
-featimage-height: '600'
 ---
+{% responsive_image_block %}
+  path: assets/images/minutes-to-midnight-productions-2017-2022.jpg
+  alt: A collection of music covers from music productions 2017-2022
+{% endresponsive_image_block %}
+
 ## The Eclipse, single by Antiquity 🇺🇸
 
 {: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
