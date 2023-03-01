@@ -16,7 +16,6 @@ tags:
   - web sustainability
   - small web
 description: "Minutes to Midnight’s new redesigned website is easier to navigate and straight to the point. Built with Jekyll, Github and Netlify."
-excerpt: "Minutes to Midnight’s new redesigned website is easier to navigate and straight to the point. Built with Jekyll, Github and Netlify."
 ---
 ## Platform
 

@@ -11,18 +11,11 @@ tags:
   - gerald duchene
   - independent music
   - new york
-description: "'In Our Dreams' written, produced and mixed by Gerald Duchene. Vocals and melody Dan Ecclestone. Bass Minutes to Midnight. Mastering Chris Pavey."
-excerpt: '<em>In Our Dreams</em> is out now. Written, produced and mixed by Gerald Duchene. Vocals and melody by Dan Ecclestone. Bass by Minutes to Midnight. Mastered by Chris Pavey.'
+description: "'In Our Dreams' written, produced and mixed by Gerald Duchene. Vocals by Dan Ecclestone, bass by Minutes to Midnight."
 ---
-I always enjoy being a part of [Gerald’s fabulous songs]({{ site.url}}/blog/tag/antiquity/). This one was particularly exciting to work on, since I rarely have the chance to play bass in songs where drums are nowhere to be heard. I believe the result is stunning.
+I always enjoy being a part of [Gerald’s music]({{ site.url}}/blog/tag/antiquity/). This song was particularly exciting to work on, since I rarely have the chance to play bass where drums are nowhere to be heard. I believe the result is stunning.
 
-## On Bandcamp
-
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=984842794/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://antiquitysessions1.bandcamp.com/track/in-our-dreams">In Our Dreams by Antiquity</a></iframe>' %}
-
-## Official Video
-
-{% include pattern-video.html id="_9KP8rPjsrM" %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=984842794/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/in-our-dreams">In Our Dreams by Antiquity</a></iframe>' %}
 
 ## Credits
 

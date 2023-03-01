@@ -2,6 +2,7 @@
 title: 'How I use the internet'
 date: '2022-11-23 17:21:41'
 last_modified_at: '2022-11-23 17:21:44'
+author: 'Simone Silvestroni'
 categories:
   - 'Technology'
 tags:
@@ -10,7 +11,7 @@ tags:
   - firefox
   - rss
   - feedbin
-  - reeder
+  - netnewswire
   - social media
   - mastodon
   - pixelfed
@@ -20,10 +21,16 @@ tags:
   - duckduckgo
   - startpage
   - marginalia
-description: "A brief description of how I use the internet in 2022, two years after leaving the major social networks."
-excerpt: 'Inspired by Michael Harley’s <a href="https://obsolete29.com/posts/2022/11/07/how-i-internet/">How I Internet</a>, which was inspired by Cassey Lottman’s, <a href="https://www.cassey.dev/posts/2022-11-05-my-internet/">My Internet</a>, I’m sharing how I spend my time online.'
+description: "A brief description of how I use the internet in 2022, two years after leaving all mainstream social networks."
 canonical: 'https://simonesilvestroni.com/blog/how-i-use-internet/'
+sitemap: false
+syndication: true
+syndicate:
+  - name: simonesilvestroni.com
+    url: hhttps://simonesilvestroni.com/blog/how-i-use-internet/
 ---
+This post is inspired by Michael Harley’s [_How I Internet_](https://obsolete29.com/posts/2022/11/07/how-i-internet/), which was inspired by Cassey Lottman’s, [_My Internet_](https://www.cassey.dev/posts/2022-11-05-my-internet/).
+
 ## E-mail
 
 I still prefer e-mail over any other form of communication.
@@ -40,7 +47,7 @@ My first e-mail client was [Eudora](https://en.wikipedia.org/wiki/Eudora_(email_
 
 I can read newsletters there, collected within a single tag, follow my YouTube subscriptions while avoiding the website altogether. This strips their algorithm out, along with the noise of comments and whatnot. If the urge to interact comes up, it’s easy to click the link and go to the website.
 
-While I enjoy the web app on Android, I've been using [Reeder 5](https://reederapp.com/) on macOS, which perfectly supports Feedbin accounts.
+While I enjoy the web app on Android, I've been using the free and open-source [NetNewsWire 6](https://netnewswire.com/) on macOS, which supports Feedbin accounts in the best and cleaner possible way.
 
 Since I’m [not following mainstream news](/blog/degrowth/), the categories in Feedbin reflects my main interests:
 
@@ -58,7 +65,7 @@ Besides following subscriptions through RSS, I tend to save important videos off
 
 ## Read later
 
-After discovering the [pages functionality in Feedbin](https://feedbin.com/blog/2019/08/20/save-webpages-to-read-later/), I ditched my Pocket account. Reeder 5 handles them well, making it easy to save articles from the Mac.
+After discovering the [pages functionality in Feedbin](https://feedbin.com/blog/2019/08/20/save-webpages-to-read-later/), I ditched my Pocket account. NetNewsWire handles them well, making it easy to save articles from the Mac.
 
 ## Social interactions
 

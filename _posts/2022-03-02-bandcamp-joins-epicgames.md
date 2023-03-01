@@ -10,7 +10,6 @@ tags:
   - music distribution
   - streaming
 description: "Bandcamp CEO Ethan Diamond announces his company is joining Epic Games, the makers of Fortnite and Unreal Engine."
-excerpt: "Bandcamp joins Epic Games, the makers of Fortnite and Unreal Engine and champions for a fair and open Internet, says Bandcamp's CEO Ethan Diamond."
 ---
 I just got this email from Bandcamp, signed by its CEO Ethan Diamond:
 
@@ -26,7 +25,7 @@ Personally, I think this might be exciting news, I hope Epic could help Bandcamp
 
 Of course I'm painfully aware how lots of acquisitions in the tech industry were immediately followed by a similar e-mail from the current CEO, only to completely change over a matter of months or a year.
 
-## EDIT: reactions from Hacker News
+## Reactions from Hacker News
 
 A consistent amount of comments are on the negative side (as usual for these events), though I want to focus on a few point of views that are more or less in line with my thought:
 

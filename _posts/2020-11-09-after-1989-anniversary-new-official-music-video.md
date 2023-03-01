@@ -1,5 +1,5 @@
 ---
-title: 'After 1989 anniversary: new music video'
+title: '‘After 1989’ anniversary: new music video'
 date: '2020-11-09'
 last_modified_at: '2021-11-09 18:28:48'
 author: 'Simone Silvestroni'
@@ -11,11 +11,10 @@ tags:
   - berlin wall
   - cold war
   - concept album
-  - music video
-description: "New music video, to celebrate the first anniversary of my debut solo album, 'After 1989: A Trip to Freedom'."
-excerpt: "A year ago today, on the 30th anniversary of the fall of the Berlin Wall, I published my debut solo album, <em>After 1989: A Trip to Freedom</em>."
+  - video
+description: 'New music video to celebrate the first anniversary of my debut solo album, ‘After 1989: A Trip to Freedom’.'
 ---
-To celebrate the first anniversary of the release, I published the 5th official video from the album, on my [YouTube channel](https://www.youtube.com/@m2m). The song is _The Logic_.
+A year ago today, on the 30th anniversary of the fall of the Berlin Wall, I published my debut solo album, _After 1989: A Trip to Freedom_. To celebrate the release, I just published on my [YouTube channel](https://www.youtube.com/@m2m) the fifth official video from the album. The song is _The Logic_.
 
 {% include pattern-video.html id="r9NyAYXOnyk" %}
 

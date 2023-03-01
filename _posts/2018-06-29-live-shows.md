@@ -16,8 +16,11 @@ tags:
   - london
   - portsmouth
   - victorious festival
-description: "A comprehensive list of the live shows I performed around England as a bass player, between 2017 and 2018, with Callum Gardner and his band."
-excerpt: 'A comprehensive list of the live shows I performed around England as a bass player, between 2017 and 2018, with Callum Gardner and his band.'
+description: 'A comprehensive list of the live shows I performed around England as a bass player, between 2017 and 2018, with Callum Gardner and his band.'
+featimage: true
+featimage-name: 'live-with-callum-gardner.jpg'
+featimage-url: '/assets/images/live-with-callum-gardner.jpg'
+featimage-alt: 'Live in London with Callum Gardner and band. Photo by Silvia Maggi.'
 ---
 ## Band line-up
 

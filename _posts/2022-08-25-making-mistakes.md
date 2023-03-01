@@ -2,6 +2,7 @@
 title: 'Making mistakes (and owning them)'
 date: '2022-08-25 12:31:02'
 last_modified_at: '2022-08-25 12:31:02'
+author: 'Simone Silvestroni'
 categories:
   - 'Personal' 
 tags:
@@ -10,8 +11,12 @@ tags:
   - 'italy'
   - 'europe'
 description: 'A frustration-fueled post on how migrating back to Italy two years ago was not the solution.'
-excerpt: 'A frustration-fueled post on how migrating back to Italy two years ago was not the solution.'
 canonical: 'https://simonesilvestroni.com/blog/making-mistakes/'
+sitemap: false
+syndication: true
+syndicate:
+  - name: simonesilvestroni.com
+    url: https://simonesilvestroni.com/blog/making-mistakes/
 ---
 A two-year anniversary of *temporarily* [moving back to Italy](https://simonesilvestroni.com/blog/back-to-the-future-leaving-the-uk/) is approaching, and I’m here ruminating on how naively optimistic we were when we took that decision. Nothing really went the way we hoped for, no matter how much we tried. 
 

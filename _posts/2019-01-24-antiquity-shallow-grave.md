@@ -1,5 +1,5 @@
 ---
-title: "'Shallow Grave' by Antiquity"
+title: "‘Shallow Grave’ by Antiquity"
 date: '2019-01-24'
 last_modified_at: '2021-11-14 20:35:27'
 author: 'Simone Silvestroni'
@@ -11,12 +11,9 @@ tags:
   - gerald duchene
   - independent music
   - new york
-description: "I’m happy Gerald Duchene asked me to write and play a bass track for this beautiful song. It’s my second collaboration with his project Antiquity Sessions."
-excerpt: 'I’m happy Gerald Duchene asked me to write and play a bass track for this beautiful song. It’s my second collaboration with his project Antiquity Sessions.'
+description: "I’m happy Gerald Duchene asked me to record a bass track for this beautiful song. It’s my second collaboration with his project Antiquity Sessions."
 ---
-## On Bandcamp
-
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=1048816351/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://antiquitysessions1.bandcamp.com/track/shallow-grave">Shallow Grave by Antiquity</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1048816351/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/shallow-grave">Shallow Grave by Antiquity</a></iframe>' %}
 
 ## Production
 
@@ -31,16 +28,16 @@ Also, I love when I’m presented with a proper challenge. As a songwriter, Gera
 ## Credits
 
 **Gerald Duchene**<br>
-Words Music and Instrumentation
+All instrumentation
 
 **Dan Ecclestone**<br>
-Melody and Vocals
+Melody and vocals
 
 **Simone Silvestroni**<br>
 Fretless bass
 
-**Chris Pavey**<br>
-Mastering
+Written and mixed by Gerald Duchene<br>
+Mastered by Chris Pavey
 
 {: .detached }
 <mark class="m2m-highlight small"><strong>Released</strong>: January 18, 2019</mark>

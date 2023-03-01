@@ -10,13 +10,12 @@ tags:
   - 'ollo audio'
   - 'music equipment'
 description: 'I bought a new pair of exceptional open-back headphones by Ollo Audio, the S4X model. Here’s a quick review.'
-excerpt: 'Four days ago another producer brought to my attention a fantastic 24-hours-only 40% discount on the S4X reference headphones by Ollo Audio. I bought them.'
 featimage: true
 featimage-name: 'ollo-s4x.jpg'
 featimage-url: '/assets/images/ollo-s4x.jpg'
 featimage-alt: 'Ollo S4X headphones'
 ---
-Several months ago, after reading a tempting professional review of the same model, I opted out because I had different priorities and deemed them unaffordable. 
+Four days ago another producer brought to my attention a fantastic 24-hours-only 40% discount on the S4X reference headphones by Ollo Audio. I bought them. Several months ago, after reading a tempting professional review of the same model, I opted out because I had different priorities and deemed them unaffordable. 
 
 Generally considered as the NS-10 of headphones, for several years the trusted classic Sony MDR-7506 were my go-to. Never had particular issues, except for ear fatigue over long sessions.
 

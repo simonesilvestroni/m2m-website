@@ -11,16 +11,9 @@ tags:
   - gerald duchene
   - independent music
   - new york
-description: "A bass track I produced for yet another stunning track by Gerald Duchene of Antiquity. Arguably, one of my most sumptuous fretless bass ever."
-excerpt: 'Another stunning track by Gerald Duchene, where I produced one of my most sumptuous fretless bass tracks ever.'
+description: 'Another beautiful track by Gerald Duchene where I produced one of my most sumptuous fretless bass ever.'
 ---
-## On Bandcamp
-
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://antiquitysessions1.bandcamp.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
-
-## On YouTube
-
-{% include pattern-video.html id="MRVQPSV_6SQ" %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
 
 ## Credits
 

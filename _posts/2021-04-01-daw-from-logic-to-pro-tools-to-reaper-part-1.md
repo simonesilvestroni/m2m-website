@@ -17,9 +17,10 @@ tags:
   - music production
   - game audio
   - popular
-description: "Over 12 months I've managed to revolutionize my workflow, twice. Here's part 1 of how I migrated DAW, from Logic to Pro Tools, and finally to REAPER."
-excerpt: "Over the past twelve months I’ve managed to revolutionize my music software workflow, twice. In this series, I describe the 8 major benefits that REAPER brought to my music production workflow, and how they pushed me toward a full switch from Pro Tools."
+description: "In 12 months I've managed to revolutionize my workflow, twice. Part 2 of why I migrated to REAPER is about cost, multi-platform and a different workflow."
 ---
+In this series, I describe eight major benefits that REAPER brought to my music production workflow, and how they pushed me toward a full switch from Pro Tools.
+
 {: .mt-5 }
 **Part 1**
 
@@ -41,7 +42,7 @@ excerpt: "Over the past twelve months I’ve managed to revolutionize my music s
 8.  Efficiency
 
 {: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
-**Disclaimer** — This article reflects my own personal opinions, which are related to how I use a DAW. It’s not meant to judge any of these software. As a matter of fact, I still own and occasionally use both Logic and Pro Tools for their own peculiarities. This is not a tutorial.
+**Disclaimer** — This article reflects my own personal opinions, which are related to how I use a DAW. It’s not meant to judge any of these software. As a matter of fact, I still own and occasionally use both Logic and Pro Tools.
 
 ## Logic
 
@@ -174,10 +175,12 @@ Similarly to Pro Tools, I can group tracks together, for mixing or editing. Howe
 Same as for the routing, there is a grouping matrix window, where more complex connections can be applied quickly to the entire project.
 
 {% include pattern-figure.html image="/assets/images/daw-reaper-grouping-matrix.png" caption="REAPER grouping matrix" width="768" height="466" %}
-___
 
-In **[part 2]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/)**, I’ll be discussing:
-
-- Customization
-- Community
-- Stock plug-ins
+<div class="m2m-bg-alpha rounded-3 px-4 py-3">
+  <p>In <strong><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/">part 2</a></strong>, I’ll be discussing:</p>
+  <ul class="mb-0">
+    <li>Customization</li>
+    <li>Community</li>
+    <li>Stock plug-ins</li>
+  </ul>
+</div>

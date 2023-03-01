@@ -10,14 +10,17 @@ tags:
   - 'youtube music'
   - 'apple music'
   - 'spotify'
-description: 'People delegate music curation to distant corporations, forgetting that they can take it away on a whim. On losing control over the music we love.'
-excerpt: 'I properly tried music streaming a few years back: I never was fully into it. Only after a while I was able to pinpoint my unease: it implies delegating music to a silo, or anyway a distant corporation. I’ve always been in control of curating the music that I like throughout my life. I quickly jumped out of that wagon and I’ve been happily back to having a local music repository ever since.'
+description: 'People delegate music curation to distant corporations nowadays, forgetting that these can change it on a whim. We’re losing control over the music we love.'
 syndication: yes
 syndicate:
   - name: Mastodon
     url: https://indieweb.social/@m2m/108656389900836564
 ---
-The moral is always the same: when you fully subscribe to an ecosystem or a third-party entity who takes away full control over your files, you become dependent on a corporation whose core business is money, not your interests. Where the money goes, the business goes, along with — in this case — all your music.
+I properly tried music streaming a few years back, I never fell in love with it. Only after a while I was able to pinpoint my unease: it implies delegating music to a distant corporation’s silo, creating a huge waste of broadband. 
+
+I’ve always been in control of curating music so I jumped out of that wagon, going back to having a local music repository.
+
+The moral is always the same: when you fully subscribe to an ecosystem or a third-party entity who takes away full control over your files, you become dependent on a corporation **whose core business is money, not your interests**. Where the money goes, the business goes, along with — in this case — all your music.
 
 This post is inspired by a quote found on Hacker News months ago. It's centered around Google Play Music, but the concept extends to all the music streaming players.
 

@@ -1,5 +1,5 @@
 ---
-title: "Nova Music reviews 'Skinny Kid'"
+title: "Nova Music reviews ‘Skinny Kid’"
 date: '2020-02-21'
 last_modified_at: '2021-11-12 22:13:50'
 author: 'Simone Silvestroni'
@@ -13,8 +13,7 @@ tags:
   - sachsenhausen
   - history
   - world war ii
-description: "Stunning review by Nova Music Blog for the single 'Skinny Kid', taken from the album 'After 1989' released on the 30th of the fall of the Berlin Wall."
-excerpt: 'Stunning review by Nova Music Blog for <em>Skinny Kid</em>, the opening single from the album <em>After 1989</em>.'
+description: 'Stunning review by Nova Music Blog for ‘Skinny Kid’, the opening single from my debut album ‘After 1989’.'
 ---
 ## About Nova Music
 

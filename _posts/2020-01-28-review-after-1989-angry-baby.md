@@ -12,8 +12,7 @@ tags:
   - history
   - cold war
   - world war ii
-description: "Another amazing album review about my album 'After 1989': Angry Baby wade every week through great new indie music tracks to find the best gems."
-excerpt: 'Another amazing album review. Angry Baby wade every week through great new indie music tracks to find the best gems.'
+description: 'Another amazing album review for ‘After 1989’: Angry Baby wade every week through great new indie music tracks to find the best gems.'
 ---
 ## About Angry Baby
 

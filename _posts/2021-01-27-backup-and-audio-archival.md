@@ -10,8 +10,7 @@ tags:
   - backup
   - archival
   - audio preservation
-description: "Backup and audio archival: a quick explanation of my strategy for saving and preserving sound material, both for personal use and for my clients."
-excerpt: "A quick explanation of my strategy for saving and preserving audio material, both for personal use and for my clients."
+description: "Quick explanation of my strategy for saving and preserving sound material, both for personal use and for my clients."
 ---
 ## Why offer audio archival to clients?
 

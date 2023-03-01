@@ -10,8 +10,7 @@ tags:
   - 'daw'
   - 'music production'
   - 'mixing'
-description: 'Short post outlining how I exploit a functionality of REAPER, subprojects, to save time on mixing an album.'
-excerpt: 'The following is a short post outlining the REAPER’s amazing feature called subprojects. I have a longer post digging deeper into the functionality, which will be published as soon as the EP it’s based on will be released.'
+description: 'How I exploit the subproject functionality of REAPER to save time on mixing an album.'
 syndication: yes
 syndicate:
   - name: Mastodon

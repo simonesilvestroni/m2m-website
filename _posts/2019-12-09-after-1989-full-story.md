@@ -15,22 +15,17 @@ tags:
   - sachsenhausen
   - world war ii
   - popular
-description: "A short chronicle of what I did to retrace my grandfather's steps in Sachsenhausen concentration camp."
-excerpt: "I went back to Berlin, retracing my grandfather's steps in Sachsenhausen concentration camp. In the process, I wrote a concept album."
+description: "A partial chronicle of what I did to retrace my grandfather’s steps in Sachsenhausen concentration camp. In the process, I wrote my debut concept album."
 canonical: 'https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e'
 syndication: true
 syndicate:
   - name: Medium
     url: https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e
-sitemap: false
 featimage: true
 featimage-name: 'full-story-featured.jpg'
 featimage-url: 'assets/images/full-story-featured.jpg'
 featimage-alt: 'Sachsenhausen concentration camp entrance gates'
 ---
-{: .d-inline-block .border .border-3 .rounded .px-3 .py-3 }
-[This article was first published on Medium ↗](https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e)
-
 ## Roots
 
 I’ve always known about my maternal grandfather: he deserted the Army during World War II because of his refusal to support the fascist policies of the Italian totalitarian government. He ran with his wife and two toddlers (my mother and my uncle). For several years, they stayed in hiding in the countryside marsh. I couldn’t imagine how harsh a time that was, but these tales made me proud, even when, as a child, I couldn’t fully grasp the context.

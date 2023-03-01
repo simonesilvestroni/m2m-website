@@ -2,6 +2,7 @@
 title: 'Happy with my current tech stack'
 date: '2022-12-21 01:05:18'
 last_modified_at: '2022-12-21 01:05:21'
+author: 'Simone Silvestroni'
 categories: 
   - 'Technology'
 tags:
@@ -12,17 +13,21 @@ tags:
   - 'macbook pro'
   - 'windows'
   - 'syncthing'
-description: "How I'm finding myself eerily happy with my current tech stack, while being outside digital ecosystems"
-excerpt: "I’ve been having interesting discussions on Mastodon recently about whether a tech stack is satisfactory or if better solutions lie ahead."
+description: "I'm finding myself eerily happy with my current tech stack, while being outside digital ecosystems."
 canonical: 'https://simonesilvestroni.com/blog/happy-with-my-current-tech-stack/'
+sitemap: false
+syndication: true
+syndicate:
+  - name: simonesilvestroni.com
+    url: https://simonesilvestroni.com/blog/happy-with-my-current-tech-stack/
 ---
-What "tech stack" means: computer, software, mobile phone, operating systems, data sync and how easy is to manage the relationship between these parts.
+I’ve been having interesting discussions on Mastodon recently about whether a tech stack is satisfactory or if better solutions lie ahead. What _tech stack_ means: computer, software, mobile phone, operating systems, data sync and how easy is to manage the relationship between these parts.
 
 I've been following [degrowth]({{ site.url }}/blog/degrowth/) principles, slowly applying them to get to a more [frugal use of my technology](https://simonesilvestroni.com/blog/on-the-concept-of-frugal-computing/). Even though this is not the first time I've felt content with my tech stack, it's a welcome change from the hyper-complicated downward spiral experienced since the advent of _smart_ mobile phones.
 
 ## Laptop
 
-Tried Big Sur and Monterey for a while, before realizing they weren't my thing and downgraded. MacOS 10.15.7 "Catalina" performs amazingly on my {{ page.date | date: "%Y" | minus: 2015 }}-year-old MacBook Pro.
+macOS Monterey is the last version that Apple will support on my 2015 MacBook Pro, which is a relief. It's up to date enough to get security patches for a while, yet no nagging to upgrade to a newer operating system.
 
 I need Windows 10 for game audio, so a dual boot on the internal SSD allows it to natively run on the same machine.
 

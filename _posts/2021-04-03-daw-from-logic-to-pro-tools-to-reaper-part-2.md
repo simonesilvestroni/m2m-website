@@ -16,20 +16,22 @@ tags:
   - sound design 
   - music production
   - game audio
-description: "In 12 months I've managed to revolutionize my workflow, twice. Here's part 2 of how I migrated DAW, from Logic to Pro Tools, and finally to REAPER."
-excerpt: "How REAPER improved my music workflow, part 2: customization, community, stock plug-ins."
+description: "In 12 months I've managed to revolutionize my workflow, twice. Part 2 of why I migrated to REAPER is about customization, community, stock plug-ins."
 ---
-In **[part 1]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/)** I discussed:
-
-- Cost
-- Multi-platform
-- A different workflow
+<div class="m2m-bg-alpha rounded-3 px-4 py-3">
+  <p>In <strong><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/">part 1</a></strong> I discussed:</p>
+  <ul class="mb-0">
+    <li>Cost</li>
+    <li>Multi-platform</li>
+    <li>A different workflow</li>
+  </ul>
+</div>
 
 ## Benefit 4: Customization
 
 ### Themes
 
-Pretty much everything can be customized, down to the look & feel. Like [its creator](https://en.wikipedia.org/wiki/Justin_Frankel)‘s first successful software, Winamp, REAPER supports themes. Though it’s not my main interest, there are plenty of excellent (and awful) [skins](https://stash.reaper.fm/tag/Themes) out there.
+Pretty much everything can be customized, down to the look & feel. Like [its creator](https://en.wikipedia.org/wiki/Justin_Frankel)’s first successful software, Winamp, REAPER supports themes. Though it’s not my main interest, there are plenty of excellent (and awful) [skins](https://stash.reaper.fm/tag/Themes) out there.
 
 ### Scripts & macros
 
@@ -72,7 +74,7 @@ Quick and efficient custom actions
 
 The repository for all custom themes — as well as extensions, scripts and more — is the [REAPER stash](https://stash.reaper.fm/). Talking about aesthetics, I’m not a fan of the many themes trying to recreate the GUI of other DAWs. I keep alternating a design called _Smooth_ with the default theme for v6.
 
-{% include pattern-figure.html image="/assets/images/daw-reaper-session.jpg" caption="REAPER running the theme Smooth v6" width="768" height="480" %}
+{% include pattern-figure.html image="/assets/images/daw-reaper-session.jpg" caption="REAPER running the theme Smooth" width="768" height="480" %}
 
 Incredibly detailed and well crafted, _Smooth_ was created for free by a guy who only asks to be [supported on Bandcamp](https://forum.cockos.com/showthread.php?p=2219276), where he published a slightly bizarre but captivating sci-fi concept. Which brings me to the next benefit. 
 
@@ -107,9 +109,10 @@ I had decided a while back to settle on [very few third-party plug-ins](/uses/),
 
 {% include pattern-video.html id="3OoVnTO3AB4" %}
 
-___
-
-In **[part 3]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-3/)** I’ll be discussing:
-
-- Open architecture & development cycle
-- Efficiency
+<div class="m2m-bg-alpha rounded-3 px-4 py-3">
+  <p>In <strong><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-3/">part 3</a></strong> I’ll be discussing:</p>
+  <ul class="mb-0">
+    <li>Open architecture &amp; development cycle</li>
+    <li>Efficiency</li>
+  </ul>
+</div>

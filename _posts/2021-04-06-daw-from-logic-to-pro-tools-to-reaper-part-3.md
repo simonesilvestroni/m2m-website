@@ -16,17 +16,19 @@ tags:
   - sound design 
   - music production
   - game audio
-description: "In 12 months I've managed to revolutionize my workflow, twice. Here's part 3 of how I migrated DAW, from Logic to Pro Tools, and finally to REAPER."
-excerpt: "How REAPER improved my music workflow, part 3: open architecture, development cycle, efficiency."
+description: "In 12 months I've managed to revolutionize my workflow, twice. Part 3 of why I migrated to REAPER is about open architecture, development cycle, efficiency."
 ---
-In [**part 1**]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/) & [**part 2**]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/) I discussed:
-
-- Cost
-- Multi-platform
-- A different workflow
-- Customization
-- Community
-- Stock plug-ins
+<div class="m2m-bg-alpha rounded-3 px-4 py-3">
+  <p>In <a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/"><strong>part 1</strong></a> &amp; <a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/"><strong>part 2</strong></a> I discussed:</p>
+  <ul class="mb-0">
+    <li>Cost</li>
+    <li>Multi-platform</li>
+    <li>A different workflow</li>
+    <li>Customization</li>
+    <li>Community</li>
+    <li>Stock plug-ins</li>
+  </ul>
+</div>
 
 ## Benefit 7: Open architecture & development cycle
 

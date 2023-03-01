@@ -16,13 +16,8 @@ tags:
   - antiquity
   - dan ecclestone
 description: "New mini EP released today, in collaboration with Antiquity. Introducing topics from the next concept album."
-excerpt: "New mini EP released today, in collaboration with Antiquity. Introducing topics from the next concept album."
 ---
-## On Bandcamp
-
-{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=367059768/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/the-die-is-cast-ep-preview">The Die Is Cast (EP preview) by Minutes to Midnight + Antiquity</a></iframe>' %}
-
-## Backstory
+{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe style="border: 0; width: 350px; height: 522px;" src="https://bandcamp.com/EmbeddedPlayer/album=367059768/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/the-die-is-cast-ep">The Die Is Cast (EP) by Minutes to Midnight + Antiquity</a></iframe>' %}
 
 When I co-produced and mixed Ember Rev's [second album, _Premonition and Ruin_](/work/music-production/premonition-and-ruin/), a song that I liked didn’t make the final cut. It was a piece divided in two short parts, bookending the album. 
 

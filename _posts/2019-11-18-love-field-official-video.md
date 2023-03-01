@@ -1,5 +1,5 @@
 ---
-title: 'Love Field video: the JFK assassination'
+title: '‘Love Field’ video: the JFK assassination'
 date: '2019-11-18'
 last_modified_at: '2021-11-12 23:20:26'
 author: 'Simone Silvestroni'
@@ -15,12 +15,12 @@ tags:
   - dallas
   - jackie
   - lee harvey oswald
-description: "Cheering crowds greet the President at Dallas airport, 'Love Field'. As the motorcade cuts through the city, I stand still while everything changes."
-excerpt: 'Cheering crowds greet the President at Dallas airport. As the motorcade cuts through the city, I stand still while everything changes.'
+  - video
+description: 'Cheering crowds greet the President at Dallas airport. As the motorcade cuts through the city, I imagine to stand still while everything changes.'
 ---
-Dallas, November 1963 — Warm weather and cheering crowds greet the President when he lands at Love Field airport. As the motorcade cuts through the city, I fantasise about waving at Jack and Jackie, or leaning over the window of a sixth floor, or being Abraham Zapruder, standing still while everything changes.
+Dallas, November 1963. Warm weather and cheering crowds greet the President when he lands at _Love Field_ airport. As the motorcade cuts through the city, I fantasise about waving at Jack and Jackie, or leaning over the window of a sixth floor, or being Abraham Zapruder, standing still while everything changes.
 
-## On YouTube
+## Official video
 
 {% include pattern-video.html id="oTR5ZJQdRXM" %}
 

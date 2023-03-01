@@ -10,22 +10,9 @@ tags:
   - independent music
   - indie
   - singer-songwriter
-description: "London-based singer-songwriter and multi-instrumentalist Callum Gardner’s new single, 'Hang Loose', is out now. Produced by Minutes to Midnight."
-excerpt: 'London-based singer-songwriter Callum Gardner’s new single, ‘Hang Loose’, is out now. Produced by Minutes to Midnight.'
+description: 'London-based singer-songwriter Callum Gardner’s new single, ‘Hang Loose’, is out now. Produced by Minutes to Midnight.'
 ---
-## On YouTube
-
-{% include pattern-video.html id="OeDQvTX9jiA" %}
-
-## On Bandcamp
-
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1148436830/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/hang-loose">Hang Loose by Callum Gardner</a></iframe>' %}
-
-## On Spotify
-
-{% include pattern-spotify.html id="4fjsetRyxT355DTvrmYNqm" height="80" %}
-
-Watch a video teaser of _Hang Loose_ [performed live at the Strongroom](https://youtu.be/VqOZbBRU-H8), in London.
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1148436830/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/hang-loose">Hang Loose by Callum Gardner</a></iframe>' %}
 
 ## Production notes
 
@@ -34,6 +21,16 @@ Besides recording and producing the song, I worked as a bassist, contributing to
 > This song is all about missed opportunities and blessings in disguise. I wrote _Hang Loose_ after failing to pounce upon a great chance to change my career, but little did I know that this mistake would become the catalyst for me to take on my musical journey as a full-time artist.
 > 
 > <cite>— Callum Gardner</cite>
+
+## Official video
+
+{% include pattern-video.html id="OeDQvTX9jiA" %}
+
+## Live
+
+Watch a video teaser of _Hang Loose_ [performed live at the Strongroom](/blog/live-shows/), in London:
+
+{% include pattern-video.html id="VqOZbBRU-H8" %}
 
 ## Credits
 

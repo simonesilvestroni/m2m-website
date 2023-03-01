@@ -14,15 +14,8 @@ tags:
   - music production
   - remix
 description: "New single out. Included in the new EP ‘Aperture’ by Italian artist Nevica, ‘Non sai chi sono’ is the remix by Emilio Albertoni and Minutes to Midnight."
-excerpt: "New single out today. Included in the new EP <em>Aperture</em>, <em>Non sai chi sono</em> is the remix of an original song by Italian artist and producer Nevica, aka Gianluca Lo Presti."
 ---
-## On Bandcamp
-
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/track=2164870187/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/track/non-sai-chi-sono-remix">Non sai chi sono (remix) by Minutes to Midnight + Emilio Albertoni</a></iframe>' %}
-
-### On Spotify
-
-{% include pattern-spotify.html id="1MJqWAZgGIXineH03NkLMj" height="80" %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2164870187/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/track/non-sai-chi-sono-remix">Non sai chi sono (remix) by Minutes to Midnight</a></iframe>' %}
 
 The idea included an album of original songs and a companion EP of remixes of the same material, produced by friends and former collaborators. Gianluca asked Emilio and I to choose a song to our liking and produce a remix together. We had complete creative freedom, and several months at our disposal.
 

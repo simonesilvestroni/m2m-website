@@ -11,14 +11,13 @@ tags:
   - 'music production'
   - 'sound particles'
   - 'sound manager'
-description: 'Explorer is an audio application for managing sounds. Working with mono, stereo and surround files, it can find, organize, edit and integrate sound in a DAW.'
-excerpt: 'Explorer is an audio application which allows to manage sounds. Working with mono, stereo and surround files, it’s an amazing tool to find, organize, edit and integrate audio within a DAW. All of this for free.'
+description: 'Explorer is a free audio application for managing sounds. Working with mono, stereo and surround files, it can find, organize, edit and integrate sound in a DAW.'
 syndication: true
 syndicate:
   - name: Mastodon
     url: https://indieweb.social/@m2m/108521965165452360
 ---
-After downloading Explorer just over a month ago, I've finally started using it. An amazing revelation: it's currently the best sound manager I've ever used — especially at this price point. It's intuitive, powerful, elastic and shows all the info I might need from a sound manager. Here's a quick look at its features.
+After downloading the free Explorer application just over a month ago, I've finally started using it. It's currently the best sound manager I've ever used — especially at this price point. It's intuitive, powerful, elastic and shows all the info I might need from a sound manager. Here's a quick look at its features.
 
 ## Interface
 
@@ -83,3 +82,5 @@ The scope where I would use Explorer the most, besides looking for interesting s
 ## Info
 
 I think it's pretty unbelieavable that this piece of software is completely free. [Download it for macOS and Windows](https://soundparticles.com/products/explorer).
+
+> **Post edit, March 2023** — After a recent update, Explorer became slower, sloppy to the point of being unusable, at least on my older machine. I'm not sure if the addition of a — for me unwanted — cloud-based sample shop is at the root of the lack of performance, either way I switched to [Reaper's Media Explorer](https://www.youtube.com/watch?v=zwTzHOedfYg).

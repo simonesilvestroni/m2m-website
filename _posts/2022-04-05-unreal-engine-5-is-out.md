@@ -12,9 +12,8 @@ tags:
   - playstation
   - xbox
 description: "Unreal Engine 5 is out now. It will enable next-generation real-time 3D content and experiences with greater freedom, fidelity, and flexibility."
-excerpt: "Unreal Engine 5 will enable next-generation real-time 3D content and experiences with greater freedom, fidelity, and flexibility."
 ---
-From the [announcement page](https://www.unrealengine.com/en-US/blog/introducing-the-matrix-awakens-an-unreal-engine-5-experience):
+Unreal Engine 5 will enable next-generation real-time 3D content and experiences with greater freedom, fidelity, and flexibility. From the [announcement page](https://www.unrealengine.com/en-US/blog/introducing-the-matrix-awakens-an-unreal-engine-5-experience):
 
 > Epic Games is excited to announce that The Matrix Awakens: An Unreal Engine 5 Experience is now available to download for free on PlayStation 5 and Xbox Series X/S.
 
@@ -22,6 +21,6 @@ From the [announcement page](https://www.unrealengine.com/en-US/blog/introducing
 
 > The demo features the performance and likeness of Keanu Reeves and Carrie-Anne Moss as incredibly realistic digital humans. To achieve this, Epic’s [3Lateral team](https://www.3lateral.com/) captured high-fidelity 3D scans of the actor’s faces and 4D captures of their performances in their Novi Sad studio.
 
-Enjoy.
+Watch the demo:
 
 {% include pattern-video.html id="WU0gvPcc3jQ" %}

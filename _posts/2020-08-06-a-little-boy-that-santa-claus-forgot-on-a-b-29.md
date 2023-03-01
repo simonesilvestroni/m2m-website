@@ -16,11 +16,11 @@ tags:
   - japan
   - nagasaki
   - nuclear era
-  - world war ii  
-description: "75 years ago, while two young men escaped from Sachsenhausen concentration camp, the US nuked Hiroshima with a bomb named Little Boy."
-excerpt: '75 years ago, while two young men escaped from Sachsenhausen concentration camp in Berlin, the United States nuked a city for the first time in history.'
+  - world war ii
+  - video
+description: '75 years ago, while two young men escaped from Sachsenhausen concentration camp, the US nuked Hiroshima with a bomb named Little Boy.'
 ---
-## On YouTube
+## Official video
 
 {% include pattern-video.html id="5M1XTw483Ew" %}
 

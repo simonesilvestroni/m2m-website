@@ -10,16 +10,9 @@ tags:
   - dan ecclestone
   - mixing
   - music production
-description: "Dan Ecclestone’s solo album, 'Hidden Music', is out now. Recorded by Sam Inglis, mixed by Minutes to Midnight, mastered by Ian Shepherd."
-excerpt: "Dan Ecclestone’s solo album, <em>Hidden Music</em>, is out now. Recorded by Sam Inglis, mixed by Minutes to Midnight, mastered by Ian Shepherd."
+description: "Dan Ecclestone’s solo album, ‘Hidden Music’, is out now. Recorded by Sam Inglis, mixed by Minutes to Midnight, mastered by Ian Shepherd."
 ---
-## On Bandcamp
-
-{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=3656047790/size=large/bgcol=ffffff/linkcol=e99708/artwork=small/transparent=true/" seamless=""><a href="https://danecclestone.bandcamp.com/album/hidden-music">Hidden Music by Dan Ecclestone</a></iframe>' %}
-
-## On Spotify
-
-{% include pattern-spotify.html id="1vDENKNKnaFdnapeXFKsed" type="album" height="280" %}
+{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 350px; height: 654px;" src="https://bandcamp.com/EmbeddedPlayer/album=3656047790/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="https://danecclestone.bandcamp.com/album/hidden-music">Hidden Music by Dan Ecclestone</a></iframe>' %}
 
 A vocals-driven delicate and powerful 6-songs album, _Hidden Music_ is another brilliant collaboration with Dan, after the co-productions with [Ember Rev's latest albums]({{ site.url }}/work/music-production/premonition-and-ruin/).
 

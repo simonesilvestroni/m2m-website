@@ -12,8 +12,7 @@ tags:
   - 'zoom h5'
   - 'handheld recorder'
   - 'reaper'
-description: 'Field recording is an enjoyable experience, especially when done with a precise plan.'
-excerpt: 'Field recording is great fun, especially when done with a precise plan.'
+description: 'Field recording is great fun, especially when done with a precise plan.'
 featimage: true
 featimage-name: 'field-recording.jpg'
 featimage-url: '/assets/images/field-recording.jpg'
