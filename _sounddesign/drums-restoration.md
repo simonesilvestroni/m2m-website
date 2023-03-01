@@ -16,9 +16,12 @@ skillset:
 description: "Cleaning up annoying undetected noise; restoring the stereo image with drum doubling and drum replacing; extracting drums from a stereo track."
 excerpt: "Cleaning up annoying noise; restoring the stereo image with drum doubling and replacing; extracting drums from a stereo track."
 featimage: true
-featimage-url: '/assets/images/drums-restoration.jpg'
-featimage-height: '600'
 ---
+{% responsive_image_block %}
+  path: assets/images/drums-restoration.jpg
+  alt: Arlen Millwall on drums
+{% endresponsive_image_block %}
+
 ## Drums restoration & doubling
 
 In 2017 I was playing bass and [producing the debut single]({{ site.url }}/work/music-production/callum-gardner-debut-single/) for London-based singer-songwriter Callum Gardner. Most of the tracking was handled externally at SAE in London.

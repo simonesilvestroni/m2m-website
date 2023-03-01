@@ -3,7 +3,6 @@ title: 'Tom the Tow Truck cartoon'
 date: '2020-04-20'
 last_modified_at: '2021-12-16 13:53:59'
 year: "2020"
-author: 'Simone Silvestroni'
 skillset:
   - "sound effects"
   - "editing"
@@ -13,10 +12,8 @@ skillset:
 description: "I worked as a sound designer for the Paris-based animation agency Amuse on their acclaimed YouTube show Tom the Tow Truck, part of a series called Car City."
 excerpt: 'Sound design for the Paris-based animation agency Amuse on their acclaimed YouTube show, part of a series called Car City.'
 featimage: true
-featimage-url: '/assets/images/tom-the-tow-truck-cartoon.jpg'
-featimage-height: '600'
 ---
-## Releases
+## Cartoon series episodes
 
 {% include pattern-video.html id="LLH6DfooMLg" title="Car City: Tom the Tow Truck" %}
 

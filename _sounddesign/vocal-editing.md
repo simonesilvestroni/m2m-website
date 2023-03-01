@@ -3,7 +3,6 @@ title: 'Vocal editing'
 date: '2020-09-16'
 last_modified_at: '2022-01-27 12:39:54'
 year: "2018-2020"
-author: 'Simone Silvestroni'
 skillset: 
   - "recording"
   - "editing"
@@ -15,13 +14,16 @@ skillset:
   - "iZotope RX"
   - "Soundtoys"
 description: "Morphing vocals from a song to another using pitch and tempo editing; noise removal and cleaning up historical speeches."
-excerpt: "Morphing vocals from a song to another using pitch and tempo editing; noise removal and cleaning up historical speeches."
 featimage: true
-featimage-url: '/assets/images/vocal-editing.jpg'
-featimage-height: '600'
 image-caption: true
-caption: 'Rachel Goodman, who <a href="/work/music/after-1989/">performed on my debut album</a>'
 ---
+{% responsive_image_block %}
+  path: assets/images/vocal-editing.jpg
+  alt: Rachel Goodman singing in front of a microphone
+  caption-true: {{ page.image-caption }}
+  caption: Rachel Goodman, who <a href="/work/music/after-1989/">performed on my debut album</a>
+{% endresponsive_image_block %}
+
 ## Vocal transformation
 
 After the [demo stage of my album]({{ site.url }}/work/music/after-1989-demos/) _After 1989_, I scrapped a song called _Niemandsland_, featuring a marvellous vocal performance by Rachel Goodman. Since the lyrics were critical for the concept, I repurposed them for the new lead single _Skinny Kid_. 
