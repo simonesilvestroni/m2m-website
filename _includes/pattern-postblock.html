@@ -18,7 +18,7 @@
     <time class="dt-published m2m-font-micro" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time>
   </p>
   <div class="e-content">
-    <p class="p-summary text-start mt-2">{{ post.excerpt | markdownify | strip_html }}</p>
+    <p class="p-summary text-start mt-2">{{ post.description | markdownify | strip_html }}</p>
     <a class="btn-cta-m2m-bg d-inline-block text-decoration-none rounded my-2 px-2 py-1" href="{{ post.url }}" title="Read the post"><strong>Read the post →</strong></a>
   </div>
 </article>
