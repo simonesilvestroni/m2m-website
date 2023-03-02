@@ -109,7 +109,7 @@ Game audio
 : Unreal Engine
 : Unity
 : [Microsoft’s XACT for Xbox]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/#xbox)
-: In-house [MXE editor and middleware]({{ site.url }}/work/game-audio/console-game-ruff-trigger)
+: In-house [MXE editor and middleware]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/)
 
 Utilities
 : Stereo Monoizer

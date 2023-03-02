@@ -34,7 +34,7 @@ Read the [**full story**]({{ site.url }}/blog/after-1989-full-story/) →
 _After 1989_ can also be found on:
 
 - [Spotify](https://open.spotify.com/album/6laoaYjYzB9LDqx8sUe2zv)
-- [Apple Music](https://music.apple.com/gb/album/after-1989-a-trip-to-freedom/1483027738?app=music&ign-mpt=uo%3D4)
+- [Apple Music](https://music.apple.com/gb/album/after-1989-a-trip-to-freedom/1483027738)
 - [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_kRJwq0brD8ECaWdhsEx-9BrfEleYQjPlI)
 - [Amazon Music](https://music.amazon.com/albums/B07Z8HH5XL?tag=featurefmuk-21)
 - [Tidal](https://tidal.com/browse/album/119837352)

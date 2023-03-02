@@ -33,7 +33,7 @@ Imagery
 
 Code repository and hosting
 : [Github ↗](https://github.com/simonesilvestroni/m2m-website)
-: [Netlify ↗](https://netlify.com)
+: [Netlify ↗](https://www.netlify.com)
 
 ### Accessibility and sustainability
 

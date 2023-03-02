@@ -50,7 +50,7 @@ Personal example: through the creation of custom actions, I embedded some of my 
 After less than two weeks using REAPER, I have, among other things:
 
 Custom screensets
-: Multiple [windows setup](https://reaperblog.net/2020/05/how-to-use-screensets-in-reaper-2/), to efficiently manage different stages of production.
+: Multiple [windows setup](https://reaper.blog/2020/05/how-to-use-screensets-in-reaper-2/), to efficiently manage different stages of production.
 
 Master channel strip
 : Always visible, docked to the left of the arrange window for a quick check.

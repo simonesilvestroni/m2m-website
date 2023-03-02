@@ -69,7 +69,7 @@ Drums, backing vocals
     </tr>
     <tr>
       <td>24 February</td>
-      <td><a href="https://www.colourshoxton.com/" target="_blank" rel="noopener noreferrer">Colours Hoxton</a>, London</td>
+      <td><a href="https://colourshoxton.com/" target="_blank" rel="noopener noreferrer">Colours Hoxton</a>, London</td>
       <td></td>
     </tr>
   </tbody>
@@ -123,7 +123,7 @@ Drums, backing vocals
     </tr>
     <tr>
       <td>5 May</td>
-      <td><a href="https://www.centuryclub.co.uk/" target="_blank" rel="noopener noreferrer">Century Club</a>, London</td>
+      <td><a href="https://centuryclub.co.uk/" target="_blank" rel="noopener noreferrer">Century Club</a>, London</td>
       <td></td>
     </tr>
   </tbody>
