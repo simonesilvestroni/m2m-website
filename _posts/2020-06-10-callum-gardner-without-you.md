@@ -12,7 +12,7 @@ tags:
   - singer-songwriter
 description: "Singer-songwriter Callum Gardner’s new single, ‘Without You’, is out now. Bass and production by Minutes to Midnight."
 ---
-Like the previous singles, [_Hang Loose_]({{ site.url }}/blog/callum-gardner-hang-loose/) and [_Wriggle A Little_]({{ site.url }}/blog/callum-gardner-wriggle-a-little/), I recorded and produced the single, along with playing my Fender Jazz [fretless bass](https://soundbetter.com/profiles/206552-minutes-to-midnight).
+Like the previous singles, [_Hang Loose_]({{ site.url }}/blog/callum-gardner-hang-loose/) and [_Wriggle A Little_]({{ site.url }}/blog/callum-gardner-wriggle-a-little/), I recorded and produced the single, along with playing my Fender Jazz [fretless bass](https://soundbetter.com/profiles/206552-simone-silvestroni).
 
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3806119580/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/without-you">Without You by Callum Gardner</a></iframe>' %}
 

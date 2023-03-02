@@ -14,7 +14,7 @@ A graduated musician, sound designer and producer since the 1990s, I founded Min
 
 ### Beginnings
 
-I started as a professional [bass player](https://soundbetter.com/profiles/206552-minutes-to-midnight){:target="_blank"} both in the studio and live after graduating at the CPM music institute in Milan. Following a 6-year stint in music studios acquiring production skills during the 90s, I landed a [game audio designer]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/) role in 2000. While leading the audio team, I started my first blog, journaling about working long hours on a console video game while playing *Ico* during pauses.
+I started as a professional [bass player](https://soundbetter.com/profiles/206552-simone-silvestroni){:target="_blank"} both in the studio and live after graduating at the CPM music institute in Milan. Following a 6-year stint in music studios acquiring production skills during the 90s, I landed a [game audio designer]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/) role in 2000. While leading the audio team, I started my first blog, journaling about working long hours on a console video game while playing *Ico* during pauses.
 
 ### Main skills
 

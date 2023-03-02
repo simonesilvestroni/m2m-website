@@ -11,7 +11,7 @@ permalink: '/contact/'
 
 ## Bass tracks
 
-I'm available through [SoundBetter](https://soundbetter.com/profiles/206552-minutes-to-midnight), a safe and secure platform for freelance musicians.
+I'm available through [SoundBetter](https://soundbetter.com/profiles/206552-simone-silvestroni), a safe and secure platform for freelance musicians.
 
 ## Follow me
 

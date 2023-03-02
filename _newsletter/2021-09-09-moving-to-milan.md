@@ -10,7 +10,7 @@ After 9 years in England, and eleven months in a limbo in my hometown, I’m abo
 
 I wrote a blog post explaining my next venture. It’s focused on how I’m going to give back dignity to my other skills other than music.
 
-I’ve also been recording bass tracks on [SoundBetter ↗︎](https://soundbetter.com/profiles/206552-minutes-to-midnight), and collaborating with [Gerald Duchene ↗︎](https://sessions.antiquity-music.com/) on his new fantastic song.
+I’ve also been recording bass tracks on [SoundBetter ↗︎](https://soundbetter.com/profiles/206552-simone-silvestroni), and collaborating with [Gerald Duchene ↗︎](https://sessions.antiquity-music.com/) on his new fantastic song.
 
 Read the post [Loops, transitions, identity ↗︎](https://simonesilvestroni.com/blog/loops-transitions-identity/)
 
