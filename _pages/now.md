@@ -3,7 +3,7 @@ layout: page
 title: 'Now'
 date: '2023-02-19 21:14:17'
 last_modified_at: '2023-02-27 18:10:35'
-description: 'What I am focused on at this point in my life?'
+description: 'What am I focused on at this point in my life?'
 permalink: '/now/'
 ---
 This is a _now page_, from a brilliant idea by Derek Sivers. It tells what I’m really focused on at this point in life. If you have your own site, [you could make one, too](https://nownownow.com/about).
