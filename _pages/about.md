@@ -26,7 +26,7 @@ Apple certified for Logic Pro X, [I transitioned to Pro Tools and later REAPER](
 
 After moving from Italy to the UK in 2011 and graduating at Berklee in music production and audio mastering, I've been working with local and overseas artists such as Gerald Duchene, Dan Ecclestone, Rachel Goodman, Ember Rev, Mally Harpaz, Ciara Clifford and Callum Gardner.
 
-As a mixer, I’ve often worked with renowned master engineer [Ian Shepherd](https://www.productionadvice.co.uk/about/).
+As a mixer, I’ve often worked with renowned master engineer [Ian Shepherd](https://productionadvice.co.uk/about/).
 
 Constantly looking for a way to complete a task in less and more efficient steps, I wrote an ebook about [project management for musicians]({{ site.url }}/work/project-management/). 
 

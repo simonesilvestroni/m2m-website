@@ -82,7 +82,7 @@ I employed a technique borrowed from Andrew Scheps: work on three songs at the s
 
 I also dove into [Michael Brauer's multi-bus compression technique](https://brauerizing.wordpress.com/), which I already experimented with in previous productions.
 
-Once the mix was complete, I engaged with renowned master engineer [Ian Shepherd](https://www.productionadvice.co.uk/about/), co-author of the famous _Loudness penalty_ website and organizer of Dynamic Range Day, who perfected it all.
+Once the mix was complete, I engaged with renowned master engineer [Ian Shepherd](https://productionadvice.co.uk/about/), co-author of the famous _Loudness penalty_ website and organizer of Dynamic Range Day, who perfected it all.
 
 ### Release
 
@@ -94,7 +94,7 @@ Christopher Carvalho of [Unlock Your Sound](https://unlockyoursound.com), manage
 > <cite>— [Rosa Nadine Sanchéz Xochimilco]({{ site.url }}/work/music/after-1989-reviews/), author</cite>
 
 > The direct and immersive narrative allows history to speak for itself without being preachy or forced. The artist gives us a unique perspective of an outsider who manages to observe a great deal of pain without being directly subjected to it. Its themes are timely and human, and effortlessly connect with a modern audience. _After 1989_ is an immersive and interesting experiment in storytelling that will leave listeners meditating on its heavy themes.
-> <cite>— [IndieRepublik Berlin](https://indierepublik.com/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/)</cite>
+> <cite>— [IndieRepublik Berlin](https://indierepublik.com/music/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/)</cite>
 
 {: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
 Read the [**all the reviews**]({{ site.url }}/work/music/after-1989-reviews/) →
