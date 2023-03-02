@@ -14,7 +14,7 @@
   <div class="col-12 col-md-8">
     <div class="mt-4 mt-md-0 text-center text-md-start">
       <mark class="d-inline-block mb-2">{{ page.date | date: "%Y" }}</mark>
-      <h2 class="mt-0 mb-4 mb-md-3" id="{{ project.title | downcase | replace: " ","-" }}"><a href="{{ project.url }}" title="Read about {{ project.title }}">{{ project.title }} →</a></h2>
+      <h2 class="mt-0 mb-4 mb-md-3" id="{{ project.title | downcase | replace: " ","-" }}"><a href="{{ project.url }}" title="Read about {{ project.title }}">{{ project.title }}&nbsp;→</a></h2>
     </div>
     <p class="p-summary card-text">{{ project.description | strip_html }}</p>
   </div>
