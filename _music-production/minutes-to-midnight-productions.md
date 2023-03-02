@@ -2,7 +2,6 @@
 title: "Minutes to Midnight productions 2017-2022"
 date: '2022-12-01 21:37:18'
 last_modified_at: '2022-12-01 21:37:23'
-year: "2017"
 skillset: 
   - "bass"
   - "production"

@@ -2,7 +2,6 @@
 title: 'After 1989 Demos'
 date: '2019-11-08 10:52:30'
 last_modified_at: '2021-11-17 11:40:27'
-year: '2020'
 skillset: 
   - "composition"
   - "arrangement"
