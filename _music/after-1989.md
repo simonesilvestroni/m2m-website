@@ -25,7 +25,7 @@ Three decades after the fall of the Berlin Wall, the autobiographical tale of ho
 {: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
 Read the [**full story**]({{ site.url }}/blog/after-1989-full-story/) →
 
-## On YouTube
+## Official music videos playlist
 
 {% include pattern-video-list.html id="PLR26aYJQa09PleTolHJU9AXACUHWsdu6s" %}
 
@@ -54,11 +54,11 @@ While researching through war archives in two nations, official letters and fami
 
 ### Band line-up
 
-To better convey the storyline, my first decision was to have songs instead of instrumentals. Since [Rachel Goodman](https://www.youtube.com/channel/UCGztQW1g4fPy1Bz1nmiIpJw) couldn't be available for a full album, finding a lead singer was paramount. After meeting [Dan Ecclestone]({{ site.url }}/work/music-production/premonition-and-ruin/) in Cambridge, we agreed on working together on our respective albums. 
+To better convey the storyline, my first decision was to have songs instead of instrumentals. Since [Rachel Goodman](https://www.youtube.com/channel/UCGztQW1g4fPy1Bz1nmiIpJw) couldn't be available for a full album, finding a lead singer was paramount. After meeting [Dan Ecclestone]({{ site.url }}/work/music-production/premonition-and-ruin/) in Cambridge, we agreed on working together.
 
 I then involved [Gerald Duchene]({{ site.url}}/blog/tag/gerald-duchene/) to help with guitars and saxophone, [Andy Bonnor](https://www.youtube.com/channel/UC-eZGjyZv67Xn-qvBNOmfyA) on drums and [Callum Gardner]({{ site.url}}/blog/tag/callum-gardner/) on acoustic guitar and backing vocals.
 
-I kept a good amount of Paolo's contributions, including a few arrangements, two guitar solos and his beautiful viola.
+A good amount of Paolo's contributions survived, including a few arrangements, two guitar solos and his beautiful viola.
 
 ### Tracklist
 
