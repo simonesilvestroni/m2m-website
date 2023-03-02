@@ -13,28 +13,55 @@ last_modified_at: '2022-08-19 10:36:28'
     {%- assign recentPosts = site.posts | sort: 'date' | reverse -%}
     <h2 class="mb-4 h3">Blog</h2>
     <ul class="list-unstyled ps-0 mb-0">
-    {%- for post in recentPosts limit: 4 -%}
-    <li class="mt-2 fs-5"><a href="{{ post.url }}" title="Read the post">{{ post.title }}</a></li>
+    {%- for post in recentPosts limit: 2 -%}
+    <li class="mt-2 fs-5"><small><mark>{{ post.date | date: "%b %Y" }}</mark></small> <a href="{{ post.url }}" title="Read the post">{{ post.title }}</a></li>
     {% endfor -%}
     </ul>
+    <p class="d-inline-block border border-3 rounded mt-4 mb-0 px-3 py-2"><a class="text-uppercase" href="/blog/"><small>All posts →</small></a></p>
   </section>
   {% comment %}
     *-------------------------
-    Latest projects
+    Latest original music
     -------------------------*
   {% endcomment %}
   <section class="h-feed">
     {%- assign originalmusic = site.music | reverse -%}
-    {%- assign musicproduction = site.musicproduction | reverse -%}
-    {%- assign gameaudio = site.gameaudio | reverse -%}
-    {%- assign sounddesign = site.sounddesign | reverse -%}
-    {%- assign = casestudies = originalmusic | concat: musicproduction | concat: gameaudio | concat: sounddesign -%}
-    {%- assign sortedprojects = casestudies | sort: 'date' | reverse -%}
-    <h2 class="mb-4 h3">Work</h2>
+    <h2 class="mb-4 h3">Original music</h2>
     <ul class="list-unstyled ps-0 mb-0">
-    {% for project in sortedprojects limit: 4 %}
-    <li class="mt-2 fs-5"><a href="{{ project.url }}" title="Read the case study">{{ project.title }}</a></li>
+    {% for project in originalmusic limit: 2 %}
+    <li class="mt-2 fs-5"><small><mark>{{ project.date | date: "%b %Y" }}</mark></small> <a href="{{ project.url }}" title="Read the case study">{{ project.title }}</a></li>
     {% endfor %}
     </ul>
+    <p class="d-inline-block border border-3 rounded mt-4 mb-0 px-3 py-2"><a class="text-uppercase" href="/work/music/"><small>All original music →</small></a></p>
+  </section>
+  {% comment %}
+    *-------------------------
+    Latest sound designs
+    -------------------------*
+  {% endcomment %}
+  <section class="h-feed">
+    {%- assign sounddesign = site.sounddesign | reverse -%}
+    <h2 class="mb-4 h3">Sound design</h2>
+    <ul class="list-unstyled ps-0 mb-0">
+    {% for project in sounddesign limit: 2 %}
+    <li class="mt-2 fs-5"><small><mark>{{ project.date | date: "%b %Y" }}</mark></small> <a href="{{ project.url }}" title="Read the case study">{{ project.title }}</a></li>
+    {% endfor %}
+    </ul>
+    <p class="d-inline-block border border-3 rounded mt-4 mb-0 px-3 py-2"><a class="text-uppercase" href="/work/sound-design/"><small>All sound designs →</small></a></p>
+  </section>
+  {% comment %}
+    *-------------------------
+    Latest productions
+    -------------------------*
+  {% endcomment %}
+  <section class="h-feed">
+    {%- assign musicproduction = site.musicproduction | reverse -%}
+    <h2 class="mb-4 h3">Music production</h2>
+    <ul class="list-unstyled ps-0 mb-0">
+    {% for project in musicproduction limit: 2 %}
+    <li class="mt-2 fs-5"><small><mark>{{ project.date | date: "%b %Y" }}</mark></small> <a href="{{ project.url }}" title="Read the case study">{{ project.title }}</a></li>
+    {% endfor %}
+    </ul>
+    <p class="d-inline-block border border-3 rounded mt-4 mb-0 px-3 py-2"><a class="text-uppercase" href="/work/music-production/"><small>All music productions →</small></a></p>
   </section>
 </div>
