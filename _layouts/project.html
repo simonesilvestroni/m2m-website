@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-<p>{% if page.author %}<em>Written by</em> {{page.author}}{% endif %}</p>
 <div class="post-meta mt-5">
   <div class="d-flex align-items-top">
     <div>
-      <span class="pe-2">Skills:</span>
+      <p class="p-category d-inline-block me-2"><span class="initialism"><strong>Skills</strong></span></p>
     </div>
-    <div class="flex-shrink-1">
-      {% for skill in page.skillset -%}<span class="p-category rounded initialism border d-inline-block bg-light mb-2 me-1 py-0 px-1"><strong>{{ skill }}</strong></span>&nbsp;{%- endfor -%}  
+    <div class="flex-shrink-1 next-post-link">
+      <p class="ps-2">{% for skill in page.skillset -%}<span class="p-category">{{ skill | capitalize }}{% unless forloop.last %},&nbsp;{% endunless %}</span>{%- endfor -%}</p>
     </div>
   </div>
   <span class="visually-hidden">{% include hcard-post.html %}</span>
@@ -21,3 +20,4 @@ layout: default
   {% endif -%}
   {{ content }}
 </div>
+{%- include post-navigation.html -%}

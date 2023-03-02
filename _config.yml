@@ -75,12 +75,12 @@ defaults:
       layout: "project"
   - scope:
       path: ""
-      type: "musicproduction"
+      type: "music-production"
     values:
       layout: "project"
   - scope:
       path: ""
-      type: "sounddesign"
+      type: "sound-design"
     values:
       layout: "project"
   - scope:
@@ -101,10 +101,10 @@ collections:
   music:
     output: true
     permalink: /work/music/:path/
-  musicproduction:
+  music-production:
     output: true
     permalink: /work/music-production/:path/
-  sounddesign:
+  sound-design:
     output: true
     permalink: /work/sound-design/:path/
   newsletter:

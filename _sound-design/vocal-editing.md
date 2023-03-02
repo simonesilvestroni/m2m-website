@@ -1,8 +1,7 @@
 ---
 title: 'Vocal editing'
-date: '2020-09-16'
+date: '2019-11-09'
 last_modified_at: '2022-01-27 12:39:54'
-year: "2018-2020"
 skillset: 
   - "recording"
   - "editing"
@@ -13,7 +12,7 @@ skillset:
   - "logic pro"
   - "iZotope RX"
   - "Soundtoys"
-description: "Morphing vocals from a song to another using pitch and tempo editing; noise removal and cleaning up historical speeches."
+description: "Taking a vocal performance from a song to another morphing pitch, formants and tempo; noise removal and cleaning up historical speeches."
 featimage: true
 image-caption: true
 ---

@@ -3,54 +3,29 @@ layout: page
 title: 'Work'
 date: '2021-11-08 10:51:46'
 last_modified_at: '2022-11-30 10:50:29'
-description: 'Highlights of representative work produced by Minutes to Midnight.'
+description: 'The facets of my work in the audio field: sound and game audio designer, professional bass player, music composer and producer — mix and master above all.'
 permalink: '/work/'
 ---
-{%- assign originalmusic = site.music | reverse -%}
-{%- assign musicproduction = site.musicproduction | reverse -%}
-{%- assign sounddesign = site.sounddesign | reverse -%}
+## Selection of highlights
+
+<div class="text-center mt-5">
+  <a class="d-inline-block border border-2 rounded m2m-bg-alpha text-center my-3 mx-3 px-3 py-3" href="/work/sound-design/">
+    <img src="/assets/images/work-sound-design.gif" alt="Animated icon showing scenes from my sound design projects" width="128" height="128">
+    <span class="d-block text-center initialism mt-2"><strong>Sound Design</strong> →</span>
+  </a>
+  <a class="d-inline-block border border-2 rounded m2m-bg-alpha text-center my-3 mx-3 px-3 py-3" href="/work/music/">
+    <img src="/assets/images/work-music.gif" alt="Animated icon showing myself playing a bass guitar" width="128" height="128">
+    <span class="d-block text-center initialism mt-2"><strong>Original Music</strong> →</span>
+  </a>
+  <a class="d-inline-block border border-2 rounded m2m-bg-alpha text-center my-3 mx-3 px-3 py-3" href="/work/music-production/">
+    <img src="/assets/images/work-music-production.gif" alt="Animated icon showing me in the studio working on some production project" width="128" height="128">
+    <span class="d-block text-center initialism mt-2"><strong>Music production</strong> →</span>
+  </a>
+</div>
 
 {: .pb-3 }
-## Original music
+## Books and articles
 
-{%- for project in originalmusic %}
-{% include card-project.html %}
-{% endfor %}
+In 2018 I wrote the free ebook [_Efficient Productivity for Music Professionals_](/work/project-management/) about project management in the music industry. Based on a real-life album production.
 
-{: .pb-3 }
-## Music production
-  
-{%- for project in musicproduction %}
-{% include card-project.html %}
-{% endfor %}
-
-{: .pb-3 }
-## Sound design
-
-{%- for project in sounddesign %}
-{% include card-project.html %}
-{% endfor %}
-
-{: .pb-3 }
-## Articles
-
-{% assign ebook = site.pages | where: "permalink", "/work/project-management/" %}
-{% assign pubs = site.pubs %}
-{% assign publications = ebook | concat:pubs %}
-{% for project in publications %}
-{% include card-project.html %}
-{% endfor %}
-
-## Spotify playlists
-
-### Bass
-
-{% include pattern-spotify.html id="1EC2Hm0xSywc5pITPMhuIA" type="playlist" height="152" %}
-
-### Production
-
-{% include pattern-spotify.html id="6yRM57FJ9JKONDAXaLBAdx" type="playlist" height="152" %}
-
-### Strings
-
-{% include pattern-spotify.html id="2IqnJFtKWrnI6JPVjkXHif" type="playlist" height="152" %}
+In 2019 I published on the Medium magazine "Lessons From History" the article [_A Trip to Freedom, From Berlin to Berlin_ ↗](https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e). I described my personal journey towards retracing my grandfather's experience in 1940-1945, when he was deported to Sachsenhausen and then managed to escape a few days before the Soviets stormed in. This story was the basis for my debut album [_After 1989_](/work/music/after-1989/).

@@ -2,15 +2,14 @@
 title: 'Tom the Tow Truck cartoon'
 date: '2020-04-20'
 last_modified_at: '2021-12-16 13:53:59'
-year: "2020"
 skillset:
   - "sound effects"
   - "editing"
   - "mix"
   - "master"
   - "logic pro"
-description: "I worked as a sound designer for the Paris-based animation agency Amuse on their acclaimed YouTube show Tom the Tow Truck, part of a series called Car City."
-excerpt: 'Sound design for the Paris-based animation agency Amuse on their acclaimed YouTube show, part of a series called Car City.'
+  - "post-production"
+description: "During the pandemic I worked for the Paris-based animation agency Amuse on their acclaimed show ‘Tom the Tow Truck’, part of a series called Car City."
 featimage: true
 ---
 ## Cartoon series episodes

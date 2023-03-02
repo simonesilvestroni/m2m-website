@@ -10,8 +10,7 @@ skillset:
   - "mix"
   - "master"
   - "pro tools"
-description: "How I came to collaborate on producing and releasing a remix of a song written by my old friend and collaborator Gianluca Lo Presti."
-excerpt: 'In January 2020, before the pandemic struck, Gianluca Lo Presti, aka ‘Nevica’, invited me to participate to a remix for his upcoming project.'
+description: "Before the pandemic struck, I collaborated on producing a remix of a song written by my old friend and collaborator Gianluca Lo Presti."
 featimage: true
 ---
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2164870187/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/track/non-sai-chi-sono-remix">Non sai chi sono (remix) by Minutes to Midnight</a></iframe>' %}

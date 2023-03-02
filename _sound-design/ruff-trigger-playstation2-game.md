@@ -1,8 +1,7 @@
 ---
-title: 'Ruff Trigger console game'
+title: 'Ruff Trigger Playstation2 game'
 date: '2007-05-12'
 last_modified_at: '2021-12-07 17:00:42'
-year: "2007"
 author: 'Simone Silvestroni'
 skillset: 
   - "game audio"
@@ -14,14 +13,13 @@ skillset:
   - "master"
   - "middleware"
   - "logic pro"
-  - "sound forge"
-  - "studio building"
+  - "soundforge"
   - "alienbrain"
-description: "As the audio team leader for the Playstation2 game ‘Ruff Trigger’, I directed the soundtrack as well as created and edited all the sound effects."
+description: "As audio team leader for 5 years I created soundtrack and sound effects, bootstrapping design and development for the Playstation2 game ‘Ruff Trigger’."
 featimage: true
 ---
 {% responsive_image_block %}
-  path: assets/images/ruff-trigger-console-game.jpg
+  path: assets/images/ruff-trigger-playstation2-game.jpg
   alt: Ruff Trigger game cover
 {% endresponsive_image_block %}
 

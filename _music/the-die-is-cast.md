@@ -10,8 +10,7 @@ skillset:
   - "production"
   - "mix"
   - "reaper"
-description: "An autobiographical rumination about migration in Europe in a time of populism."
-excerpt: 'Autobiographical rumination about migration in Europe in a time of populism. An appetizer for the next album, in collaboration with Antiquity.'
+description: "An autobiographical rumination about migration in Europe during a time of populism. In collaboration with Antiquity."
 featimage: true
 ---
 {% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe style="border: 0; width: 350px; height: 522px;" src="https://bandcamp.com/EmbeddedPlayer/album=367059768/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/the-die-is-cast-ep">The Die Is Cast (EP) by Minutes to Midnight + Antiquity</a></iframe>' %}

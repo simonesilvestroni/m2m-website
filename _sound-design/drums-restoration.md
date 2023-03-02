@@ -1,8 +1,7 @@
 ---
 title: 'Drums restoration'
-date: '2020-09-16'
+date: '2017-06-20'
 last_modified_at: '2022-01-27 12:40:09'
-year: "2018-2020"
 author: 'Simone Silvestroni'
 skillset: 
   - "recording"
@@ -13,8 +12,7 @@ skillset:
   - "pro tools"
   - "logic pro"
   - "iZotope RX"
-description: "Cleaning up annoying undetected noise; restoring the stereo image with drum doubling and drum replacing; extracting drums from a stereo track."
-excerpt: "Cleaning up annoying noise; restoring the stereo image with drum doubling and replacing; extracting drums from a stereo track."
+description: 'Removing an annoying undetected hi-hat noise; restoring the stereo image with drum doubling and drum replacing; extracting drums from a stereo track.'
 featimage: true
 ---
 {% responsive_image_block %}
