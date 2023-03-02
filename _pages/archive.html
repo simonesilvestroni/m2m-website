@@ -7,8 +7,8 @@ description: 'Browse the full archive of selected projects, blog posts by year, 
 permalink: '/archive/'
 ---
 {%- assign music = site.music | sort: 'date' | reverse -%}
-{%- assign musicproduction = site.musicproduction | sort: 'date' | reverse -%}
-{%- assign sounddesign = site.sounddesign | sort: 'date' | reverse -%}
+{%- assign musicproduction = site.music-production | sort: 'date' | reverse -%}
+{%- assign sounddesign = site.sound-design | sort: 'date' | reverse -%}
 <h2 class="p-name" id="projects">Work</h2>
 <section class="h-feed">
   <h3 class="p-name" id="music">Original music</h3>

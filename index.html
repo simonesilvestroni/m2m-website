@@ -21,6 +21,21 @@ last_modified_at: '2022-08-19 10:36:28'
   </section>
   {% comment %}
     *-------------------------
+    Latest sound designs
+    -------------------------*
+  {% endcomment %}
+  <section class="h-feed">
+    {%- assign sounddesign = site.sound-design | reverse -%}
+    <h2 class="mb-4 h3">Sound design</h2>
+    <ul class="list-unstyled ps-0 mb-0">
+    {% for project in sounddesign limit: 2 %}
+    <li class="mt-2 fs-5"><small><mark>{{ project.date | date: "%b %Y" }}</mark></small> <a href="{{ project.url }}" title="Read the case study">{{ project.title }}</a></li>
+    {% endfor %}
+    </ul>
+    <p class="d-inline-block border border-3 rounded mt-4 mb-0 px-3 py-2"><a class="text-uppercase" href="/work/sound-design/"><small>All sound designs →</small></a></p>
+  </section>
+  {% comment %}
+    *-------------------------
     Latest original music
     -------------------------*
   {% endcomment %}
@@ -36,26 +51,11 @@ last_modified_at: '2022-08-19 10:36:28'
   </section>
   {% comment %}
     *-------------------------
-    Latest sound designs
-    -------------------------*
-  {% endcomment %}
-  <section class="h-feed">
-    {%- assign sounddesign = site.sounddesign | reverse -%}
-    <h2 class="mb-4 h3">Sound design</h2>
-    <ul class="list-unstyled ps-0 mb-0">
-    {% for project in sounddesign limit: 2 %}
-    <li class="mt-2 fs-5"><small><mark>{{ project.date | date: "%b %Y" }}</mark></small> <a href="{{ project.url }}" title="Read the case study">{{ project.title }}</a></li>
-    {% endfor %}
-    </ul>
-    <p class="d-inline-block border border-3 rounded mt-4 mb-0 px-3 py-2"><a class="text-uppercase" href="/work/sound-design/"><small>All sound designs →</small></a></p>
-  </section>
-  {% comment %}
-    *-------------------------
     Latest productions
     -------------------------*
   {% endcomment %}
   <section class="h-feed">
-    {%- assign musicproduction = site.musicproduction | reverse -%}
+    {%- assign musicproduction = site.music-production | reverse -%}
     <h2 class="mb-4 h3">Music production</h2>
     <ul class="list-unstyled ps-0 mb-0">
     {% for project in musicproduction limit: 2 %}

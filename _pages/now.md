@@ -14,7 +14,7 @@ Currently living between the shores of Lake Maggiore and Milan. The plan for 202
 
 ## Sound design
 
-Since the goal is to get hired by a video game company, I'm studying the audio middleware tools **Wwise** and **FMOD**. Despite my past experience, I want to get up to speed with game audio technology after a [15-years hiatus](/work/game-audio/console-game-ruff-trigger/). 
+Since the goal is to get hired by a video game company, I'm studying the audio middleware tools **Wwise** and **FMOD**. Despite my past experience, I want to get up to speed with game audio technology after a [15-years hiatus](/work/sound-design/ruff-trigger-playstation2-game/). 
 
 The main focus is on Wwise: I've already completed the 101 and 201 courses, while right now I'm at the final stages of 251. I haven't decided on whether trying to get certified or not.
 
