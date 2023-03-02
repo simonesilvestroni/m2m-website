@@ -9,7 +9,6 @@ permalink: '/archive/'
 {%- assign music = site.music | sort: 'date' | reverse -%}
 {%- assign musicproduction = site.musicproduction | sort: 'date' | reverse -%}
 {%- assign sounddesign = site.sounddesign | sort: 'date' | reverse -%}
-{%- assign gameaudio = site.gameaudio | sort: 'date' | reverse -%}
 <h2 class="p-name" id="projects">Work</h2>
 <section class="h-feed">
   <h3 class="p-name" id="music">Original music</h3>
@@ -31,14 +30,6 @@ permalink: '/archive/'
   <h3 class="p-name" id="music-production">Sound design</h3>
   <ul class="h-feed h-feed list-unstyled list-inline ps-0">
   {% for project in sounddesign %}
-    <li><a class="p-name u-url" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a></li>
-  {% endfor %}
-  </ul>
-</section>
-<section class="h-feed">
-  <h3 class="p-name" id="music-production">Game audio</h3>
-  <ul class="h-feed h-feed list-unstyled list-inline ps-0">
-  {% for project in gameaudio %}
     <li><a class="p-name u-url" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a></li>
   {% endfor %}
   </ul>

@@ -8,7 +8,6 @@ permalink: '/work/'
 ---
 {%- assign originalmusic = site.music | reverse -%}
 {%- assign musicproduction = site.musicproduction | reverse -%}
-{%- assign gameaudio = site.gameaudio | reverse -%}
 {%- assign sounddesign = site.sounddesign | reverse -%}
 
 {: .pb-3 }
@@ -22,13 +21,6 @@ permalink: '/work/'
 ## Music production
   
 {%- for project in musicproduction %}
-{% include card-project.html %}
-{% endfor %}
-
-{: .pb-3 }
-## Game audio
-
-{%- for project in gameaudio %}
 {% include card-project.html %}
 {% endfor %}
 

@@ -85,11 +85,6 @@ defaults:
       layout: "project"
   - scope:
       path: ""
-      type: "gameaudio"
-    values:
-      layout: "project"
-  - scope:
-      path: ""
       type: "newsletter"
     values:
       layout: "newsletter"
@@ -112,9 +107,6 @@ collections:
   sounddesign:
     output: true
     permalink: /work/sound-design/:path/
-  gameaudio:
-    output: true
-    permalink: /work/game-audio/:path/
   newsletter:
     output: true
     permalink: /newsletter/archive/:path/
