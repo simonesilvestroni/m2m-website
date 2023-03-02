@@ -11,7 +11,7 @@ tags:
   - productivity
   - remote work
   - workflow
-description: "Originally published by Unlock Your Sound, this article features the real-life scenario of a bass part produced for the single ‘The Far Side of the Sun’ by Antiquity."
+description: "Published by Unlock Your Sound, this article features the real-life scenario of a bass part produced for the single ‘The Far Side of the Sun’ by Antiquity."
 ---
 Originally published by Unlock Your Sound, this article features the real-life scenario of a bass part produced for the single _The Far Side of the Sun_ by Antiquity.
 

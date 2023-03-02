@@ -11,7 +11,7 @@ tags:
   - 'music production'
   - 'sound particles'
   - 'sound manager'
-description: 'Explorer is a free audio application for managing sounds. Working with mono, stereo and surround files, it can find, organize, edit and integrate sound in a DAW.'
+description: 'Explorer is a free audio application for managing sounds. Working with mono, stereo and surround, it can find, organize, edit and integrate files in a DAW.'
 syndication: true
 syndicate:
   - name: Mastodon
