@@ -27,7 +27,7 @@ Gerald also received this magnificent endorsement by [Leland Sklar](https://en.w
 
 ## Production notes
 
-I’ve had the pleasure to co-produce the single, working with [Dan Ecclestone]({{ site.url }}/blog/hidden-music-dan-ecclestone/) on his vocal parts, helping create what seems to be our most powerful release to date. Gerald completed the mix, [Chris Pavey](https://chrispaveymastering.com/) of CPM mastered.
+I’ve had the pleasure to co-produce the single, working with [Dan Ecclestone]({{ site.url }}/blog/hidden-music-dan-ecclestone/) on his vocal parts, helping create what seems to be our most powerful release to date. Gerald completed the mix, [Chris Pavey](https://www.chrispaveymastering.com/) of CPM mastered.
 
 I’ve asked the guys to let me know their feelings about **the process** that lead to this gem of a song. These are their impressions.
 

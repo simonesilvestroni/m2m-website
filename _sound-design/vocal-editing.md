@@ -56,4 +56,4 @@ I love restoring audio for historical speeches. A famous eulogy given by Robert 
 ## Reviews
 
 > Simone is a gifted musician, producer and all round creative, with every project we have worked on being greatly improved by his talents. Impressive technical proficiency with various DAW’s (ProTools, Wavelab, RX) as well as the creative knowledge to craft with them what ever is required for the project. When working with Simone, his precise and detailed manor make him an excellent addition to any project or team.
-> <cite>— Chris Pavey, [Chris Pavey Mastering](https://chrispaveymastering.com)</cite>
+> <cite>— Chris Pavey, [Chris Pavey Mastering](https://www.chrispaveymastering.com)</cite>

@@ -27,7 +27,7 @@ sitemap: false
 syndication: true
 syndicate:
   - name: simonesilvestroni.com
-    url: hhttps://simonesilvestroni.com/blog/how-i-use-internet/
+    url: https://simonesilvestroni.com/blog/how-i-use-internet/
 ---
 This post is inspired by Michael Harley’s [_How I Internet_](https://obsolete29.com/posts/2022/11/07/how-i-internet/), which was inspired by Cassey Lottman’s, [_My Internet_](https://www.cassey.dev/posts/2022-11-05-my-internet/).
 

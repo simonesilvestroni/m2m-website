@@ -70,7 +70,7 @@ I record the bass through a [SansAmp BassDriver DI v2](/uses/), rarely applying 
 I’m an exception to the rule _the first take is always the best_. I tend to see the early attempts as rehearsals. I rarely do punch-ins. If I make an unrecoverable mistake, unless there’s something I really want to keep, I stop and delete. I always start with a default good take, using: 
 
 - [takes](https://youtu.be/9zyld5BicWQ) in Reaper
-- [playlists](http://www.avidblogs.com/pro-tools-2018-1-playlist-comping/) in Pro Tools
+- [playlists](https://www.avid.com/resource-center/whats-new-in-pro-tools) in Pro Tools
 - [comp edit](https://www.macprovideo.com/article/logic-pro/heres-how-to-quickly-comp-audio-takes-in-logic-pro-x) in Logic
  
 In Pro Tools I can select a section and quickly swap between takes in loop mode using a keyboard shortcut. The comp is done on the whole track, moving forward from start to end. I check each section of the song, following the markers. I always remember where I played interesting riffs, so I tend to primarily focus on those. When needed, I record a punch-in to fix minor problems.

@@ -52,7 +52,7 @@ After starting out with Cubase in 1995 and using it until v4, I moved to eMagic�
 
 ## Pro Tools
 
-I used plenty of other audio software over time and had always felt like Logic was never the best choice for post-production. After a problematic job, last year I finally jumped ship and paid Avid for 12 months of [Pro Tools subscription](https://avid.com/pro-tools/comparison). Despite being already familiar with the program, it substantially changed my workflow for the better.
+I used plenty of other audio software over time and had always felt like Logic was never the best choice for post-production. After a problematic job, last year I finally jumped ship and paid Avid for 12 months of [Pro Tools subscription](https://www.avid.com/pro-tools/comparison). Despite being already familiar with the program, it substantially changed my workflow for the better.
 
 I see it as a brilliant computer metaphor for someone who learned the craft in the analog world. The management of the I/O, the way it handles sends and returns, and above all, the powerful and fast audio editing. Yet, there’s something about it that always felt awkward to me. I didn’t enjoy its distinct lack of personalization, the difficult compatibility, and the unpredictability software-wise. Too many random crashes and obscure error messages that never quite stood up to its price.
 

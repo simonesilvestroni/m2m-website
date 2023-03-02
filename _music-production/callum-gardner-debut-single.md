@@ -25,7 +25,7 @@ featimage: true
 
 A few years ago I got in touch with [Ciara Clifford](https://open.spotify.com/artist/6y4HZjrBa7CMWVdyIkV5RQ), who was looking for a new bassist to play in a trio. Unfortunately, my schedule was incompatible with the required effort, but I went to her next live gig at the _Nambucca_. Besides being finally able to meet her and see [Joe Meek’s former studio](https://en.wikipedia.org/wiki/Joe_Meek) in Holloway Road, there was one further highlight that evening. 
 
-The opening act was a young singer-songwriter playing an acoustic solo set, [Callum Gardner](http://www.callumgardnerofficial.com/). Captivated by his performance, I went to congratulate him, taking note of his online presence to follow the progress.
+The opening act was a young singer-songwriter playing an acoustic solo set, [Callum Gardner](https://callumgardnerofficial.com/). Captivated by his performance, I went to congratulate him, taking note of his online presence to follow the progress.
 
 > Sometimes things really do happen for a reason. It’s those coincidences that put you in a situation that just would never have happened otherwise. I was filling in last minute for a solo act opening at _Nambucca_ after a friend had kindly waved my name over to an independent promoter. Two people I was introduced to during that show went on to join my musical journey, and we are still in collaboration to this day.
 > 

@@ -14,7 +14,7 @@ permalink: '/work/music/after-1989-reviews/'
   <div class="flex-shrink-0">
     <img class="img-thumbnail" src="{{ site.url }}/assets/images/rnxs.jpg" width="100" height="100" alt="Portrait of Rosa Nadine Xochimilco Sánchez">
   </div>
-  <p class="detached flex-grow-1 fs-6 ms-3 py-0 my-0">Author, small press founder and publisher of <a href="http://xochimilcopress.com/">Xochimilco Press</a>, Rosa has recently published the books of poems: <em>Blue Bones, Blood Roses, Black Eyes</em> and <em>Hearts Aflame, Still Burning</em>.</p>
+  <p class="detached flex-grow-1 fs-6 ms-3 py-0 my-0"><a href="https://rosanadinex.com/">Author, small press founder and editor</a>, Rosa has recently published the books of poems: <em>Blue Bones, Blood Roses, Black Eyes</em> and <em>Hearts Aflame, Still Burning</em>.</p>
 </div>
 
 {: .detached }
@@ -191,7 +191,7 @@ Throughout _After 1989_, Simone uses archive material to accentuate the music an
 
 > _Love Field_ is another striking track from Minutes To Midnight. The video takes us through the arrival of JFK and his wife Jackie in Dallas before his infamous demise. Through a variety of black and white and colour video clips we see the joy, celebration and devastation created by one event as JFK is shot.  
 > The entire video tells this story in an honest and emotional way. Simone fantasises about waving at Jack and Jackie, or leaning over the window of a sixth floor, or being Abraham Zapruder, standing still while everything changes.
-> <cite>— <a href="http://www.indiebuddie.com/minutes-to-midnight-love-field-video-premiere/" target="_blank" rel="noreferrer noopener">Indiebuddie</a></cite>
+> <cite>— <a href="https://www.indiebuddie.com/minutes-to-midnight-love-field-video-premiere/" target="_blank" rel="noreferrer noopener">Indiebuddie</a></cite>
 
 > It really impacted me, I listened to the entire album which is something I rarely do with submissions.
 > <cite>— <a href="https://youtu.be/wb2hRjPuU6Y" target="_blank" rel="noreferrer noopener">You haven’t heard this music podcast</a></cite>

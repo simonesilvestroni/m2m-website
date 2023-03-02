@@ -64,7 +64,7 @@ Drums, backing vocals
     </tr>
     <tr>
       <td>6 April</td>
-      <td><a href="http://www.troubadourlondon.com/" target="_blank" rel="noopener noreferrer">The Trobadour</a>, London</td>
+      <td><a href="https://www.troubadourlondon.com/" target="_blank" rel="noopener noreferrer">The Trobadour</a>, London</td>
       <td></td>
     </tr>
     <tr>
@@ -93,7 +93,7 @@ Drums, backing vocals
     </tr>
     <tr>
       <td>6 October</td>
-      <td><a href="http://www.troubadourlondon.com/" target="_blank" rel="noopener noreferrer">The Trobadour</a>, London</td>
+      <td><a href="https://www.troubadourlondon.com/" target="_blank" rel="noopener noreferrer">The Trobadour</a>, London</td>
       <td></td>
     </tr>
     <tr>

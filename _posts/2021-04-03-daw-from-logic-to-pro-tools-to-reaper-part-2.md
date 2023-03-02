@@ -96,7 +96,7 @@ Like other tools who adopts the Mackie protocol though, the X-Touch One handles 
 
 On a Gearspace thread, plenty of producers were complaining about the same issue. Even someone from Behringer was involved. At a certain point, a user pointed out that in the REAPER’s forum there was a solution, specific to that DAW. That’s how I found CSI, a custom-created extension for external controllers. Again: it’s open source and hosted on Github.
 
-Downloaded for free, I [installed it and configured in minutes](https://github.com/GeoffAWaddington/reaper_csurf_integrator/wiki/Installation). Now, when I select a track with the mouse in REAPER, that same track is automatically reflected in X-Touch One, ready to be worked fast with fader, pan, solo, mute and more. This *spirit of community* and the admirable level of flexibility are impossible to find within corporate-made software.
+Downloaded for free, I [installed it and configured in minutes](https://github.com/GeoffAWaddington/CSI30Wiki/blob/master/Installation-and-Setup.md). Now, when I select a track with the mouse in REAPER, that same track is automatically reflected in X-Touch One, ready to be worked fast with fader, pan, solo, mute and more. This *spirit of community* and the admirable level of flexibility are impossible to find within corporate-made software.
 
 ## Benefit 6: Stock plug-ins
 
