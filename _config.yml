@@ -1,3 +1,6 @@
+# -------------------
+# Main
+# -------------------
 host: "localhost"
 url: "https://minutestomidnight.co.uk"
 baseurl: ""
@@ -9,7 +12,7 @@ lang: "en-US"
 posts_limit: 20
 
 # -------------------
-# SEO
+# Configuration
 # -------------------
 title: Minutes to Midnight
 tagline: Music producer and sound designer
@@ -21,10 +24,12 @@ keywords:
   sound design,
   bass player,
   game audio,
+  foley,
+  field recording,
   music production,
-  concept album,
-  mixing,
-  mastering,
+  music composer,
+  mix,
+  master,
   reaper,
   pro tools,
   logic pro x,
@@ -33,6 +38,9 @@ logo: /assets/images/m2m-og-image.jpg
 author:
   name: Simone Silvestroni
   email: hello@minutestomidnight.co.uk
+mastodon:
+  instance: indieweb.social
+  username: m2m
 
 # -------------------
 # Exclusions
