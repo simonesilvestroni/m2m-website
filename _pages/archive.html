@@ -11,7 +11,7 @@ permalink: '/archive/'
 {%- assign sounddesign = site.sound-design | sort: 'date' | reverse -%}
 <h2 class="p-name" id="projects">Work</h2>
 <section class="h-feed">
-  <h3 class="p-name" id="music">Original music</h3>
+  <h3 class="p-name" id="music"><mark>Original music</mark></h3>
   <ul class="h-feed h-feed list-unstyled list-inline ps-0">
   {% for project in music %}
     <li><a class="p-name u-url" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a></li>
@@ -19,7 +19,7 @@ permalink: '/archive/'
   </ul>
 </section>
 <section class="h-feed">
-  <h3 class="p-name" id="music-production">Music production</h3>
+  <h3 class="p-name" id="music-production"><mark>Music production</mark></h3>
   <ul class="h-feed h-feed list-unstyled list-inline ps-0">
   {% for project in musicproduction %}
     <li><a class="p-name u-url" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a></li>
@@ -27,7 +27,7 @@ permalink: '/archive/'
   </ul>
 </section>
 <section class="h-feed">
-  <h3 class="p-name" id="music-production">Sound design</h3>
+  <h3 class="p-name" id="music-production"><mark>Sound design</mark></h3>
   <ul class="h-feed h-feed list-unstyled list-inline ps-0">
   {% for project in sounddesign %}
     <li><a class="p-name u-url" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a></li>
@@ -41,7 +41,7 @@ permalink: '/archive/'
   {%- capture next_year -%}{{ post.previous.date | date: "%Y" }}{%- endcapture -%}
   {%- if forloop.first -%}
   <div class="mb-5">
-    <h3 id="{{ this_year }}-ref">{{ this_year }}</h3>
+    <h3 id="{{ this_year }}-ref"><mark>{{ this_year }}</mark></h3>
     <ul class="h-feed list-unstyled list-inline ps-0">
   {%- endif -%}
       <li><a class="p-name u-url" href="{{ post.url }}">{{ post.title }}</a></li>
@@ -54,7 +54,7 @@ permalink: '/archive/'
   </ul>
 </div>
 <div class="mb-5">
-  <h3 id="{{ next_year }}-ref">{{ next_year }}</h3>
+  <h3 id="{{ next_year }}-ref"><mark>{{ next_year }}</mark></h3>
   <ul class="h-feed list-unstyled list-inline ps-0">
   {%- endif -%}
   {%- endif -%}
