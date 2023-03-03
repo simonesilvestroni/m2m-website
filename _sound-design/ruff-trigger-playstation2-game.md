@@ -241,7 +241,7 @@ At the end of that year, I left.
 
 ## Aftermath
 
-Once Playstos found a publisher (Natsume), the game completed its transition from a multi-platform ambitious project to something else. The audio was offloaded to a third party, therefore most of my contributions were relegated in the credits as "prototype sound designer".
+Once Playstos found a publisher (Natsume), the game completed its transition from a multi-platform ambitious project to something else and was [released in 2007](https://www.mobygames.com/game/34741/ruff-trigger-the-vanocore-conspiracy/).
 
 {: .detached .text-center .my-5 }
 ![Ruff Trigger's official packaging]({{ site.url }}/assets/images/playstos-ruff-trigger.jpg){: width='458' height='640' }
