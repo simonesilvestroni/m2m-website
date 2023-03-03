@@ -10,7 +10,6 @@ skillset:
   - "mix"
   - "logic pro"
 description: "A concept album about a young man who escaped Germany in 1945, while his grandson made the other way round, looking for answers in 2017."
-excerpt: "A concept album</strong> about how a young man escaped Germany during World War II, while his grandson retraced his steps 30 years after the Berlin wall."
 featimage: true
 ---
 {% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 350px; height: 853px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=large/bgcol=ffffff/linkcol=333333/package=12488683/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
@@ -20,6 +19,14 @@ featimage: true
 ## The concept
 
 Three decades after the fall of the Berlin Wall, the autobiographical tale of how my grandfather escaped a concentration camp in 1945, while I made the other way round, looking for answers that I could only find in 2017.
+
+Summer, mid-eighties. During a family dinner, after a glass too many, my grandfather let a story slip from his past. He told us how fascists captured and sent him to Germany, where he spent four years in Sachsenhausen concentration camp, on the outskirts of Berlin. The Nazis spared his life because of his craftsmanship as a shoemaker. In April 1945, a few days before the Allies stormed into the city, he managed to escape with a fellow Russian inmate. They crossed Europe and came back home.
+
+I grew up during the Cold War, obsessed by a shared feeling of impending doom. My very first trip was to Prague and Berlin, a few months after the collapse of the Wall. I watched a divided city as it still was, but didn’t dare to visit the camp. Many years later, I was able to put my resolve to the test.
+
+Present day. Once again, I’m back in Berlin, this time to finally see the Konzentrationslager. I’m on the S-Bahn train to Oranienburg. At each station, my mind goes back in time, to the tumultuous decades that preceded the 9th of November 1989, when people were able to cross the Wall. I’m thinking about the connection between my grandfather’s story and the convoluted menacing world order that came out of it.
+
+When I finally cross the steel gate of Sachsenhausen, I realise how this whole story is about being a prisoner. Whether in a concentration camp, behind a wall, caught within propaganda or fearing a nuclear holocaust.
 
 {: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
 Read the [**full story**]({{ site.url }}/blog/after-1989-full-story/) →
