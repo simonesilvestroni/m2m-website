@@ -2,7 +2,7 @@
 layout: page
 title: 'Now'
 date: '2023-02-19 21:14:17'
-last_modified_at: '2023-02-27 18:10:35'
+last_modified_at: '2023-03-03 10:32:17'
 description: 'What am I focused on at this point in my life?'
 permalink: '/now/'
 ---
@@ -10,7 +10,7 @@ This is a _now page_, from a brilliant idea by Derek Sivers. It tells what I’m
 
 ## Where?
 
-Currently living between the shores of Lake Maggiore and Milan. The plan for 2023 is to go back to the UK, hopefully soon because <a href="{{ site.url }}/blog/making-mistakes/">I'm not happy in my native country</a>.
+After 10 years in England, I'm currently living between the shores of Lake Maggiore and Milan. The plan for 2023 is to go back to the UK, hopefully soon because <a href="{{ site.url }}/blog/making-mistakes/">I don't fit in my native country</a>.
 
 ## Sound design
 
@@ -32,7 +32,7 @@ Heavily struggling to focus on one book at a time. My Kobo tells me I'm currentl
 
 ## Growth?
 
-I'm convinced that there is no future without the acceptance that humanity needs to face [degrowth](/blog/degrowth/) as a proper voluntary choice. I've been involved with degrowth and minimalism for a while now.
+I'm convinced that there is no future without the acceptance that humanity needs to face [degrowth](/blog/degrowth/) as a proper voluntary choice. I've been involved with it, and minimalism, for a while now.
 
 ## Online communities
 

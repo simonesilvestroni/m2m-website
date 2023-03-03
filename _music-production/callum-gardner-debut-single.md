@@ -8,7 +8,7 @@ skillset:
   - "logic pro"
   - "mix"
   - "master"
-description: "How Callum Gardner and I met, got to know each other and started producing his debut single."
+description: "After meeting London-based singer-songwriter Callum Gardner, we got to know each other and started producing his debut single."
 featimage: true
 ---
 {% responsive_image_block %}

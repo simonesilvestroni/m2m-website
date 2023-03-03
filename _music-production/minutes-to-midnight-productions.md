@@ -14,7 +14,7 @@ skillset:
   - "arrangement"
   - "mix"
   - "master"
-description: 'A collection of productions released through the years that don’t have a full-fledged case study in the page Work.'
+description: 'A collection of productions released through the years that don’t have a full-fledged case study.'
 featimage: true
 ---
 {% responsive_image_block %}
