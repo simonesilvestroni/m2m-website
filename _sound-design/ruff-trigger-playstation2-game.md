@@ -248,7 +248,7 @@ Once Playstos found a publisher (Natsume), the game completed its transition fro
 
 ## Reactions
 
-Most of the less favorable feedback is focused on a couple of factors: a general lackluster gameplay and the excessive similarity with _Ratchet and Clank_. Our game intentionally wanted to resemble that title as an homage to the genre, however Playstos chose to sacrifice the initial ambition to limit the economic loss of a 7-year massive project, ending up accused of releasing a cheap rip-off.
+Most of the less favorable feedback is focused on a couple of factors: a general lackluster gameplay and the excessive similarity with _Ratchet and Clank_. Our game intentionally wanted to resemble that title as an homage to the genre, however the initial ambition was sacrificed to limit the economic loss of a 7-year massive project, ending up with a cheap rip-off label attached to.
 
 ## Why didn't I join another game company
 

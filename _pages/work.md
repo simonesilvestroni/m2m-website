@@ -6,19 +6,21 @@ last_modified_at: '2022-11-30 10:50:29'
 description: 'The facets of my work in the audio field: sound and game audio designer, professional bass player, music composer and producer — mix and master above all.'
 permalink: '/work/'
 ---
-## Selection of highlights
+## Highlights
 
-<div class="text-center mt-5">
+Each section features a line-up of case studies from my recent years.
+
+<div class="text-center mt-4">
   <a class="d-inline-block border border-2 rounded m2m-bg-alpha text-center my-3 mx-3 px-3 py-3" href="/work/sound-design/">
-    <img src="/assets/images/work-sound-design.gif" alt="Animated icon showing scenes from my sound design projects" width="128" height="128">
+    <img src="/assets/images/work-sound-design.gif" alt="Animated icon showing scenes from my sound design projects" width="140" height="140">
     <span class="d-block text-center initialism mt-2"><strong>Sound Design</strong> →</span>
   </a>
   <a class="d-inline-block border border-2 rounded m2m-bg-alpha text-center my-3 mx-3 px-3 py-3" href="/work/music/">
-    <img src="/assets/images/work-music.gif" alt="Animated icon showing myself playing a bass guitar" width="128" height="128">
+    <img src="/assets/images/work-music.gif" alt="Animated icon showing myself playing a bass guitar" width="140" height="140">
     <span class="d-block text-center initialism mt-2"><strong>Original Music</strong> →</span>
   </a>
   <a class="d-inline-block border border-2 rounded m2m-bg-alpha text-center my-3 mx-3 px-3 py-3" href="/work/music-production/">
-    <img src="/assets/images/work-music-production.gif" alt="Animated icon showing me in the studio working on some production project" width="128" height="128">
+    <img src="/assets/images/work-music-production.gif" alt="Animated icon showing me in the studio working on some production project" width="140" height="140">
     <span class="d-block text-center initialism mt-2"><strong>Music production</strong> →</span>
   </a>
 </div>
