@@ -42,7 +42,7 @@ Once happy with the master, I bounced three versions, each one with a progressiv
 
 ## Checking loudness
 
-With [SWS](https://www.sws-extension.org/) installed, checking on loudness is a breeze. Besides having useful metering plug-ins, I love how quickly I can select multiple audio items, click on the Extensions menu and select <kbd>Loudness</kbd> to [see the analysis on all the audio items in a neat table](https://wiki.cockos.com/wiki/index.php/Measure_and_normalize_loudness_with_SWS).
+With [SWS](https://www.sws-extension.org/) installed, checking on loudness is a breeze. Besides having useful metering plug-ins, I love how quickly I can select multiple audio items, click on the Extensions menu and select <kbd>Loudness</kbd> to [see the complete analysis in a neat table](https://wiki.cockos.com/wiki/index.php/Measure_and_normalize_loudness_with_SWS).
 
 {% include pattern-figure.html image="/assets/images/ipogeo-final-check.jpeg" alt="Final session with the 3 mastered songs on different tracks, to check on loudness and consistency" caption="Final session with the mastered songs, to check on loudness and consistency" width="1200" height="750" %}
 
