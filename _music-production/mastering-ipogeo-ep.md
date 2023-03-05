@@ -34,7 +34,7 @@ So far, I haven't seen anyone else using the same procedure, so this is to be co
 
 ## Mastering _Ipogeo_
 
-I had to go back to the stems a couple times, because of minor loudness adjustments. Normally, I would have adopted a multi-band compressor on certain frequency ranges; since I have subprojects available, I simply double-cliked and opened the original stem stession, applied the corrections on drums and bass without touching vocals and the remaining instrumentation.
+I had to go back to the stems a couple times, because of minor loudness adjustments. Normally, I would have adopted a multi-band compressor on certain frequency ranges; since subprojects are available, I simply double-cliked and opened the original stem stession, applied the corrections on drums and bass without touching vocals and the remaining instrumentation.
 
 Once happy with the master, I bounced three versions, each one with a progressively higher loudness level. In the following screengrab, the subproject (yellow audio item) had retained the original session markers as item/take markers, which helped with automating the limiter in certain sections.
 
