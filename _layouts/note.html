@@ -7,9 +7,7 @@ layout: default
   </span>
   <span class="d-inline-block border border-3 rounded px-3 py-3"><strong>In reply to</strong> <a href="{{ page.replyto }}" class="u-in-reply-to">{{ page.replyto }}</a> ↗</span>
   {%- if page.originalpost -%}
-  <span class="visually-hidden">
-    ↪️ [Original post]({{ site.url }}/blog/{{ page.originalpostURL }}/)
-  </span>
+  <span class="visually-hidden">↪️ <a href="{{ site.url }}/blog/{{ page.originalpostURL }}/" class="u-in-reply-to">Original post</a></span>
   {% endif %}
 </div>
 <div class="e-content my-5">
