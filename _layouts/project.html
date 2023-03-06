@@ -7,7 +7,7 @@ layout: default
       <p class="p-category d-inline-block me-2"><span class="initialism"><strong>Skills</strong></span></p>
     </div>
     <div class="flex-shrink-1 next-post-link">
-      <p class="ps-2">{% for skill in page.skillset -%}<span class="p-category">{{ skill | capitalize }}{% unless forloop.last %},&nbsp;{% endunless %}</span>{%- endfor -%}</p>
+      <p class="ps-2">{% for skill in page.skillset -%}<span class="p-category">{{ skill | capitalize }}{% unless forloop.last %}, {% endunless %}</span>{%- endfor -%}</p>
     </div>
   </div>
   <span class="visually-hidden">{% include hcard-post.html %}</span>
