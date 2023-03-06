@@ -32,7 +32,7 @@ The website is now part of [Indieweb](https://indieweb.org/), therefore it's cap
 
 ## Sustainability and performance
 
-The fight against a bloated web is a crusade I've been part of for a long time. See [this digest from Silvia Maggi](https://silviamaggidesign.com/design-digested/biased-ai/#webwaste) about the book _Webwaste_. Minutes to Midnight's previous website weighted around 730MB, while it's now shrinked to 12MB.
+The fight against a bloated web is a crusade I've been part of for a long time. See [this digest from Silvia Maggi](https://silviamaggidesign.com/design-digested/biased-ai/#webwaste) about the book _Webwaste_. Minutes to Midnight's previous website weighted around 730MB, while it's now shrunk to 12MB.
 
 The homepage is `100KB` uncompressed and loads in less than half a second.
 

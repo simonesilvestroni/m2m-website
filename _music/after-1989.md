@@ -70,7 +70,7 @@ A good amount of Paolo's contributions survived, including a few arrangements, t
 
 The songs followed a _liaison_ between my grandfather's escape from Berlin and me going back to the same place decades later, to see his prison in person. I wanted to represent the narration as a train trip to the concentration camp where each station, as announced by the tannoy system, was a different point in history.
 
-The album shrinked from 16 pieces to 10 songs. By axing redundant intros and all the instrumentals that didn't fit the vision, the running time went from 50 minutes to 32.
+The album shrunk from 16 pieces to 10 songs. By axing redundant intros and all the instrumentals that didn't fit the vision, the running time went from 50 minutes to 32.
 
 ### Workflow
 
