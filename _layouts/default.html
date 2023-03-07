@@ -5,9 +5,9 @@
   Header
   -------------------------*
 {% endcomment %}
-{% include site-header.html %}
-<main class="h-entry m2m-main">
-  {% unless page.is_post %}
+{%- include site-header.html -%}
+<main class="h-entry">
+  {%- unless page.is_post %}
   <span class="visually-hidden">{% include hcard-page.html %}</span>
   {% endunless %}
   <article class="m2m-entry">

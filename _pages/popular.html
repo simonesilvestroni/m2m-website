@@ -6,7 +6,7 @@ last_modified_at: '2022-04-27 19:44:12'
 description: 'The 5 most popular posts based on private feedback, reactions on Mastodon and what search engines are reporting as search terms.'
 permalink: '/blog/popular/'
 ---
-<section class="h-feed m2m-entry my-5" id="blog-popular-posts">
+<section class="h-feed my-5" id="blog-popular-posts">
   {% assign popular = site.posts | where: "tags", "popular" %}
     {%- for post in popular limit:5 -%}
     {% if post %}
@@ -15,7 +15,7 @@ permalink: '/blog/popular/'
     {% assign categories = page.categories %}
     {% endif %}
     <p>
-      <small><mark>{{ post.date | date: "%b %Y" }}</mark></small>&nbsp;<a class="p-name u-url m2m-link pe-2" href="{{ post.url }}">{{ post.title }}&nbsp;→</a>
+      <small><mark>{{ post.date | date: "%b %Y" }}</mark></small>&nbsp;<a class="p-name u-url pe-2" href="{{ post.url }}">{{ post.title }}&nbsp;→</a>
     </p>
     {%- endfor -%}
 </section>

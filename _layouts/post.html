@@ -30,9 +30,9 @@ layout: default
   {%- assign categories = page.categories -%}
   {%- endif -%}
   {%- for category in categories -%}
-  <span class="pe-3">Category:&nbsp;<a class="p-category m2m-link p-1" href="/blog/category/{{ category | slugify | append: '/' }}"><span class="initialism"><strong>{{ category | upcase | replace:"-"," " }}</strong></span></a>
+  <span class="pe-3">Category:&nbsp;<a class="p-category p-1" href="/blog/category/{{ category | slugify | append: '/' }}"><span class="initialism"><strong>{{ category | upcase | replace:"-"," " }}</strong></span></a>
     {%- endfor -%}</span>
-  Tagged:&nbsp;{%- for tag in page.tags -%}<a class="p-category m2m-link" href="/blog/tag/{{ tag | slugify | append: '/' }}"><span class="initialism"><strong>{{ tag | upcase }}</strong></span></a>{% unless forloop.last %}<span class="pe-1">,</span> {% endunless %}{%- endfor -%}
+  Tagged:&nbsp;{%- for tag in page.tags -%}<a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}"><span class="initialism"><strong>{{ tag | upcase }}</strong></span></a>{% unless forloop.last %}<span class="pe-1">,</span> {% endunless %}{%- endfor -%}
 </div>
 {%- include pattern-responses.html -%}
 {%- include post-navigation.html -%}
