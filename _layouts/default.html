@@ -24,10 +24,10 @@
         </div>
         {% endif %}
         {%- if page.type == "tag" or page.type == "category" -%}
-        <p class="p-summary lead my-3">This is an archive page for the {% if page.type == "tag" %}tag.{% elsif page.type == "category" %}category.{% endif %}</p>
+        <p class="p-summary my-3">This is an archive page for the {% if page.type == "tag" %}tag.{% elsif page.type == "category" %}category.{% endif %}</p>
         {% endif %}
         {%- if page.layout == 'project' -%}
-        <p class="p-summary lead">{{ page.description }}</p>
+        <p class="p-summary">{{ page.description }}</p>
         {% endif %}
       </div>
     </header>
