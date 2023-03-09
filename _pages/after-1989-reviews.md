@@ -206,15 +206,19 @@ Throughout _After 1989_, Simone uses archive material to accentuate the music an
 > Track after track, Minutes to Midnight takes us to a journey that is both personal and part of the shared history that shaped our lives and the current affairs. Each song is a unique blend of beautifully crafted sounds and samples from crucial historical events, delivered with the help of incredibly talented collaborators.
 > <cite>— Silvia Maggi, from Bandcamp</cite>
 
-> This album is quite simply one of the finest pieces of storytelling ever put to sound.
-> <cite>— Christopher Carvalho, from Bandcamp</cite>
-
 > It’s a greatly inspiring album, where the sounds blend perfectly with the strength of the feelings evoked, all mentioned facts being part of our collective unconscious although personal for the artist.
 > <cite>— Giuliana Graniti, from Bandcamp</cite>
 
-> What a powerful piece of work. I would like to see it performed in Germany and England. A musical and historical journey with depths. <cite>BeaK, from Bandcamp</cite>
+> This album is quite simply one of the finest pieces of storytelling ever put to sound.
+> <cite>— Christopher Carvalho, from Bandcamp</cite>
 
-> The crystal clear mix, the engrossing story, the lovely bass. I’ll often end up with the chorus to ‘Skinny Kid’ stuck in my head without warning.<cite>Mykie Frankenstein, from Bandcamp</cite>
+> What a powerful piece of work. I would like to see it performed in Germany and England. A musical and historical journey with depths. <cite>— BeaK, from Bandcamp</cite>
+
+> The crystal clear mix, the engrossing story, the lovely bass. I’ll often end up with the chorus to ‘Skinny Kid’ stuck in my head without warning.<cite>— Mykie Frankenstein, from Bandcamp</cite>
+
+> Superbly crafted thematic album, with each song contributing to the overall experience. <cite>— David Dellacroce, from Bandcamp</cite>
+
+> This album straight up changed my ideas of what kind of music I could write myself. Huge inspiration. <cite>— Garrett Mickley, from Bandcamp</cite>
 
 > What a ride! The album is definitely a trip, and a very satisfying one to boot. The words “concept album” may carry some tricky baggage with them: shall I listen very carefully not to miss the point? Will I be forced to slog through convoluted passages with no musical relevance, stuck there to serve the concept only?  
 > Rest assured, none of this applies to _After 1989 – A Trip To Freedom_. Listened to it three times in a row. Flows perfectly, loved the unique voice of it all – and the Pink Floyd vibes here and there (the bass in Love Field, the “Waters-esque” feeling in _Sachsenhausen_)!  
