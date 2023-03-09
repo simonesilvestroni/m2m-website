@@ -8,7 +8,7 @@ categories:
 tags:
   - concept album
   - independent music
-  - music review
+  - reviews
   - concentration camp
   - sachsenhausen
   - history

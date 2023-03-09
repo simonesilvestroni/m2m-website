@@ -11,7 +11,7 @@ tags:
   - cuban missile crisis
   - jfk
   - music video
-  - music review
+  - reviews
 description: "Secret Eclectic review for my song ‘13 Days’. A London-based website, they’re a team of people who love supporting emerging acts."
 ---
 > The song exists between two worlds. The inner and the outer. It starts in the outer world where the spoken samples and the lyrics get us in the mood and captures the tense of crisis from an external point of view. Then the song transfers us into the inner world, we are no longer an outsider but on the contrary, we are in the heart of the scene, where ”Helen stares at the window”. This change does not only happen through the lyrics. It is the chord progression, the melodies, the whole song itself, that moves between these two parallel worlds. 
