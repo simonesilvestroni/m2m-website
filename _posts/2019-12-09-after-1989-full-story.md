@@ -18,8 +18,9 @@ tags:
 description: "A partial chronicle of what I did to retrace my grandfather’s steps in Sachsenhausen concentration camp. In the process, I wrote my debut concept album."
 featimage: true
 featimage-name: 'full-story-featured.jpg'
-featimage-url: 'assets/images/full-story-featured.jpg'
 featimage-alt: 'Sachsenhausen concentration camp entrance gates'
+image-caption: true
+caption: Photo by Silvia Maggi, Sachsenhausen (2019)
 ---
 ## Roots
 
