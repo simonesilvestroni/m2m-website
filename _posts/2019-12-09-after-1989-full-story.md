@@ -16,12 +16,6 @@ tags:
   - world war ii
   - popular
 description: "A partial chronicle of what I did to retrace my grandfather’s steps in Sachsenhausen concentration camp. In the process, I wrote my debut concept album."
-canonical: 'https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e'
-sitemap: false
-syndication: true
-syndicate:
-  - name: Medium
-    url: https://medium.com/lessons-from-history/a-trip-to-freedom-from-berlin-to-berlin-e9725231eb2e
 featimage: true
 featimage-name: 'full-story-featured.jpg'
 featimage-url: 'assets/images/full-story-featured.jpg'
