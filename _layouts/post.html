@@ -5,6 +5,8 @@ layout: default
   {% responsive_image_block %}
     path: assets/images/{{ page.featimage-name }}
     alt: {{ page.featimage-alt }}
+    caption-true: {{ page.image-caption }}
+    caption: {{ page.caption }}
   {% endresponsive_image_block %}
 {% endif -%}
 {%- if page.mention == true %}
