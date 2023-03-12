@@ -13,7 +13,7 @@ permalink: '/contact/'
 
 I'm available through [SoundBetter](https://soundbetter.com/profiles/206552-simone-silvestroni), a safe and secure platform for freelance musicians.
 
-## Follow me
+## Find me elsewhere
 
 <ul>
 {% for item in site.data.nav-social -%}
