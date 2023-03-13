@@ -48,5 +48,4 @@ The crucial consideration is: I don't care that I spent more money than what I e
 
 {% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=de270f/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 
-{: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
-<small>Part 2 of this 2-part series will be published next week.</small>
+<mark>Part 2 of this 2-part series will be published next week.</mark>
