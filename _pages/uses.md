@@ -2,7 +2,7 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2023-03-01 10:28:27'
+last_modified_at: '2023-03-14 17:43:42'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
 permalink: '/uses/'
 ---
@@ -139,10 +139,10 @@ Image management
 : ImageOptim
 
 Text editor
-: Sublime Text 4 ([read why ↗](https://tonsky.me/blog/sublime/))
-: Typora
+: Obsidian
 : iA Writer
-: Obsidian on Android
+: Sublime Text 4 ([read why ↗](https://tonsky.me/blog/sublime/))
+: Typora (for markdown tables)
 
 ## Reading
 
@@ -162,8 +162,7 @@ E-reader
 ## Management
 
 Tasks
-: [Todo.txt](https://github.com/todotxt)
-: Trello
+: [Todo.txt methodology](https://github.com/todotxt) applied with Obsidian and the _Kanban_ plug-in
 
 Sync
 : [Syncthing](https://syncthing.net/)
