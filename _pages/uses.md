@@ -124,7 +124,12 @@ Video player
 : [IINA](https://iina.io/) video player on macOS
 : VLC
 
+Video editor
+: REAPER
+: Shotcut
+
 Utilities
+: LosslessCut
 : [`yt-dlp`](https://github.com/yt-dlp/yt-dlp)
 : Handbrake video processor
 
