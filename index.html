@@ -14,7 +14,7 @@ last_modified_at: '2022-08-19 10:36:28'
     <h2 class="mb-4 h3">Blog</h2>
     <ul class="list-unstyled ps-0 mb-0">
     {%- for post in recentPosts limit: 3 -%}
-    <li class="mt-2 fs-5"><small><mark>{{ post.date | date: "%b %Y" }}</mark></small>&nbsp;&nbsp;<a href="{{ post.url }}" title="Read the post">{{ post.title }}</a></li>
+    <li class="mt-2 fs-5"><a href="{{ post.url }}" title="Read the post">{{ post.title }}</a></li>
     {% endfor -%}
     </ul>
     <p class="d-inline-block border border-3 rounded mt-4 mb-0 px-3 py-2"><a class="text-uppercase" href="/blog/"><small>All posts →</small></a></p>
@@ -29,7 +29,7 @@ last_modified_at: '2022-08-19 10:36:28'
     <h2 class="mb-4 h3">Sound design</h2>
     <ul class="list-unstyled ps-0 mb-0">
     {% for project in sounddesign limit: 3 %}
-    <li class="mt-2 fs-5"><small><mark>{{ project.date | date: "%b %Y" }}</mark></small>&nbsp;&nbsp;<a href="{{ project.url }}" title="Read the case study">{{ project.title }}</a></li>
+    <li class="mt-2 fs-5"><small><mark>{{ project.date | date: "%Y" }}</mark></small>&nbsp;&nbsp;<a href="{{ project.url }}" title="Read the case study">{{ project.title }}</a></li>
     {% endfor %}
     </ul>
     <p class="d-inline-block border border-3 rounded mt-4 mb-0 px-3 py-2"><a class="text-uppercase" href="/work/sound-design/"><small>All sound designs →</small></a></p>
@@ -44,7 +44,7 @@ last_modified_at: '2022-08-19 10:36:28'
     <h2 class="mb-4 h3">Original music</h2>
     <ul class="list-unstyled ps-0 mb-0">
     {% for project in originalmusic limit: 3 %}
-    <li class="mt-2 fs-5"><small><mark>{{ project.date | date: "%b %Y" }}</mark></small>&nbsp;&nbsp;<a href="{{ project.url }}" title="Read the case study">{{ project.title }}</a></li>
+    <li class="mt-2 fs-5"><small><mark>{{ project.date | date: "%Y" }}</mark></small>&nbsp;&nbsp;<a href="{{ project.url }}" title="Read the case study">{{ project.title }}</a></li>
     {% endfor %}
     </ul>
     <p class="d-inline-block border border-3 rounded mt-4 mb-0 px-3 py-2"><a class="text-uppercase" href="/work/music/"><small>All original music →</small></a></p>
@@ -59,7 +59,7 @@ last_modified_at: '2022-08-19 10:36:28'
     <h2 class="mb-4 h3">Music production</h2>
     <ul class="list-unstyled ps-0 mb-0">
     {% for project in musicproduction limit: 3 %}
-    <li class="mt-2 fs-5"><small><mark>{{ project.date | date: "%b %Y" }}</mark></small>&nbsp;&nbsp;<a href="{{ project.url }}" title="Read the case study">{{ project.title }}</a></li>
+    <li class="mt-2 fs-5"><small><mark>{{ project.date | date: "%Y" }}</mark></small>&nbsp;&nbsp;<a href="{{ project.url }}" title="Read the case study">{{ project.title }}</a></li>
     {% endfor %}
     </ul>
     <p class="d-inline-block border border-3 rounded mt-4 mb-0 px-3 py-2"><a class="text-uppercase" href="/work/music-production/"><small>All music productions →</small></a></p>
