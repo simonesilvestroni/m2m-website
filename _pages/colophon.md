@@ -39,7 +39,7 @@ Code repository and hosting
 
 Compliant with <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> guidelines.
 
-Only 0.04g of CO2 is produced every time someone visits the homepage, which is cleaner than 96% of web pages tested. The website is running on sustainable energy and does not request third-party resources, except for the blog posts, which are calling `webmention.io` to render web mentions.
+Only [0.04g of CO2 is produced every time someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/), which is cleaner than 96% of web pages tested. The website is running on sustainable energy and does not request third-party resources, except for the blog posts, which are calling `webmention.io` to render web mentions.
 
 The markup is valid, the homepage loads in <mark>0.4 seconds</mark> and weighs 144KB (uncompressed). Member of the [512kb club](https://512kb.club "Member of the 512kb Orange Team") and the [1Mb club](https://1mb.club/).
 
