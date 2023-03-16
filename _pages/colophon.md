@@ -2,13 +2,13 @@
 layout: page
 title: 'Colophon'
 date: '2023-01-14 13:49:31'
-last_modified_at: '2023-03-01 18:04:02'
+last_modified_at: '2023-03-16 20:39:08'
 description: 'Tools, methodology and benchmarks about this website.'
 permalink: '/colophon/'
 ---
 ## About this website
 
-I designed developed the site from scratch, using the following tech:
+I designed and developed the site using the following:
 
 Platform and build
 : [Jekyll v4.2.1 ↗](https://jekyllrb.com/)
@@ -26,12 +26,15 @@ Languages
 : [Vanilla javascript for the search module ↗](https://github.com/daviddarnes/jekyll-search-js)
 : [Vanilla javascript for the webmentions ↗](https://github.com/fluffy-critter/webmention)
 
+Typography
+: System font stack except for headings and navigation, where I used [Supreme Regular](https://www.fontshare.com/fonts/supreme) (19 KB).
+
 Imagery
 : Sketch
 : Pixelmator
 : ImgOptim
 
-Code repository and hosting
+Repository and hosting
 : [Github ↗](https://github.com/simonesilvestroni/m2m-website)
 : [Netlify ↗](https://www.netlify.com)
 
