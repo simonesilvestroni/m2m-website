@@ -1,5 +1,6 @@
 .DS_Store
 .jekyll-cache/
 .jekyll-metadata
+.obsidian/
 _site/
 assets/css/m2m.css
