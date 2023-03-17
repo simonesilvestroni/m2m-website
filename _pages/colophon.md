@@ -38,9 +38,9 @@ Repository and hosting
 : [Github ↗](https://github.com/simonesilvestroni/m2m-website)
 : [Netlify ↗](https://www.netlify.com)
 
-### Accessibility and sustainability
+### Sustainability
 
-Compliant with <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> guidelines.
+*A note about accessibility*: despite the website resulting compliant with <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> guidelines, based on multiple tests, I know it’s incomplete and lacking on certain crucial details. I’m on a neverending quest to change and fix things on that front.
 
 Only [0.04g of CO2 is produced every time someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/), which is cleaner than 96% of web pages tested. The website is running on sustainable energy and does not request third-party resources, except for the blog posts, which are calling `webmention.io` to render web mentions.
 
