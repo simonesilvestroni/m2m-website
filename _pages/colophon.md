@@ -3,12 +3,10 @@ layout: page
 title: 'Colophon'
 date: '2023-01-14 13:49:31'
 last_modified_at: '2023-03-17 09:59:25'
-description: 'Tools, methodology and benchmarks about this website.'
+description: 'I developed the site from scratch, including designing the theme. Here is a list of tools, methodology, benchmarks and considerations.'
 permalink: '/colophon/'
 ---
 ## About this website
-
-I designed and developed the site using the following:
 
 Platform and build
 : [Jekyll v4.2.1 ↗](https://jekyllrb.com/)
