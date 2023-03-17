@@ -13,8 +13,8 @@ last_modified_at: '2022-08-19 10:36:28'
     {%- assign recentPosts = site.posts | sort: 'date' | reverse -%}
     <h2 class="mb-4 h3">Blog</h2>
     <ul class="list-unstyled ps-0 mb-0">
-    {%- for post in recentPosts limit: 3 -%}
-    <li class="mt-2 fs-5"><a href="{{ post.url }}" title="Read the post">{{ post.title }}</a></li>
+    {%- for post in recentPosts limit: 5 -%}
+    <li class="mt-2 fs-5">📄&nbsp;<a href="{{ post.url }}" title="Read the post">{{ post.title }}</a></li>
     {% endfor -%}
     </ul>
     <p class="d-inline-block border border-3 rounded mt-4 mb-0 px-3 py-2"><a class="text-uppercase" href="/blog/"><small>All posts →</small></a></p>
