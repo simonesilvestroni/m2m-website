@@ -2,7 +2,7 @@
 layout: page
 title: 'Now'
 date: '2023-02-19 21:14:17'
-last_modified_at: '2023-03-03 10:32:17'
+last_modified_at: '2023-03-17 10:48:19'
 description: 'What am I focused on at this point in my life?'
 permalink: '/now/'
 ---
@@ -28,7 +28,7 @@ While I'm laying down the structure for the German remix of my song _Skinny Kid_
 
 ## Reading
 
-Heavily struggling to focus on one book at a time. My Kobo tells me I'm currently reading something in the range of 17 or 18 books. If I had to narrow down to the three books I've been more focused on I'd say: _Stasiland_ by Anna Funder, _Everything That Remains_ by Joshua Fields Millburn and _Industrial Society And Its Future_ by Ted Kaczynski.
+I usually struggle to focus on one book at a time. My Kobo tells me I'm currently reading something in the range of 17 or 18 books. However, I’ve recently managed to focus only on [*Kallocain* by Karin Boye](https://en.wikipedia.org/wiki/Kallocain).
 
 ## Growth?
 
