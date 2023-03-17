@@ -28,7 +28,7 @@ While I'm laying down the structure for the German remix of my song _Skinny Kid_
 
 ## Reading
 
-I usually struggle to focus on one book at a time. My Kobo tells me I'm currently reading something in the range of 17 or 18 books. However, I’ve recently managed to focus only on [*Kallocain* by Karin Boye](https://en.wikipedia.org/wiki/Kallocain).
+I usually struggle to focus on one book at a time. My Kobo tells me I'm currently reading something in the range of 17 or 18 books. However, I’ve recently managed to focus on [*Kallocain* by Karin Boye](https://en.wikipedia.org/wiki/Kallocain).
 
 ## Growth?
 
