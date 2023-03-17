@@ -13,7 +13,6 @@ Platform and build
 : `jekyll-sitemap` Ruby gem
 : `jekyll-archives` Ruby gem
 : `jekyll-responsive-image` Ruby gem
-: [Table of contents Liquid add-on ↗](https://github.com/allejo/jekyll-toc)
 : Bash
 : [Apple Shortcuts ↗](https://simonesilvestroni.com/blog/automation-for-my-blog-publishing-workflow/)
 

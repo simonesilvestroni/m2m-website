@@ -13,11 +13,6 @@ layout: default
   <span class="visually-hidden">{% include hcard-post.html %}</span>
 </div>
 <div class="e-content">
-  {%- if page.toc == true %}
-  <div class="mt-3">
-    {% include pattern-toc.html html=content sanitize=true class="inline_toc" id="toc" h_min=2 h_max=2 %}
-  </div>
-  {% endif -%}
   {{ content }}
 </div>
 {%- include post-navigation.html -%}
