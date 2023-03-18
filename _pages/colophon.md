@@ -24,7 +24,7 @@ Languages
 : [Vanilla javascript for the webmentions ↗](https://github.com/fluffy-critter/webmention)
 
 Typography
-: System font stack except for headings and navigation, where I used [Supreme Regular](https://www.fontshare.com/fonts/supreme) (19 KB).
+: System font stack except for headings, where I used [Reglo](https://github.com/sebsan/Reglo) (10 KB).
 
 Imagery
 : Sketch
