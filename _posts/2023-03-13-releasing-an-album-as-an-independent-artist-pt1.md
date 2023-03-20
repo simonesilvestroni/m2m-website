@@ -2,6 +2,7 @@
 title: My experience releasing an album as an independent artist (part 1)
 date: '2023-03-13 14:57:56'
 last_modified_at: '2023-03-13 14:57:59'
+author: 'Simone Silvestroni'
 categories: 
   - 'Music'
 tags:
@@ -18,8 +19,14 @@ syndicate:
   - name: Mastodon
     url: https://indieweb.social/@m2m/110016368797042587
 ---
-{: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
-**Part 1** is about what the album meant to me and a few considerations about what a successful release is and isn't.<br>**Part 2** will be about the type of release campaign, how we approached the concept of social media marketing, why it failed and what changed in the aftermath.
+Part 1 is about what the album meant to me and a few considerations about what a successful release is and isn't.
+
+[Part 2 →](/blog/releasing-an-album-as-an-independent-artist-pt2/) is about the type of release campaign, how we approached the concept of social media marketing, why it failed and what changed in the aftermath.
+
+<div class="border border-3 rounded mt-5 px-3 py-3">
+  <p>Here’s the opening single, <em>Skinny Kid</em>:</p>
+  {% include pattern-bandcamp.html size='bc-single' my='my-0' iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=3005791226/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
+</div>
 
 ## What releasing a concept album meant to me
 
@@ -42,7 +49,3 @@ Speaking about expenses, I also didn't care of reaching a break-even point. Too 
 Anyway, considering the expenses derived from the pure production and release process, I made a third of the money I spent. Had I mastered the songs and managed the release myself, _I would have had my break-even moment now_. Of course it's a moot point: without my then manager and the mastering engineer I wouldn't have had the precious amount of insights and experience I gained through those collaborations.
 
 The crucial consideration is: I don't care that I spent more money than what I earned from it. All I wanted was to tell a story in the best possible way I was capable of, hopefully expressing feelings that could resonate with someone else. That I've done. Way more people than I expected [have been enjoying the songs](/blog/new-reviews-after-1989/) and the story to the point of telling it publicly.
-
-{% include pattern-bandcamp.html iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=de270f/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
-
-<mark>Part 2 of this 2-part series will be published next week.</mark>
