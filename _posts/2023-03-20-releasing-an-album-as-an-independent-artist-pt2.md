@@ -17,6 +17,10 @@ tags:
   - 'fediverse'
   - 'mastodon'
 description: 'Three and a half years later, an analysis on how releasing my debut concept album had informed my journey as a person more than as an indie artist.'
+syndication: true
+syndicate:
+  - name: Mastodon
+    url: https://indieweb.social/@m2m/110057816455118169
 ---
 [← Part 1](/blog/releasing-an-album-as-an-independent-artist-pt1/) was about what the album meant to me and a few considerations about what a successful release is and isn't.
 
