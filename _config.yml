@@ -214,12 +214,3 @@ certifications:
   - name: 'Centro Professione Musica'
     href: 'https://www.cpm.it/corsi-musica-milano'
     desc: 'diploma (bass, music theory, harmony &amp; arrangement), Milan, 1993-1995.'
-
-# -------------------
-# Publications
-# -------------------
-pubs:
-  - title: 'A trip to freedom from Berlin to Berlin'
-    excerpt: 'A real-life story of imprisonment and liberty, between two wars and three generations.'
-    url: '/blog/after-1989-full-story/'
-    featimage: true
