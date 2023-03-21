@@ -2,7 +2,7 @@
 layout: page
 title: 'Ethics'
 date: '2022-11-23 11:23:18'
-last_modified_at: '2023-01-14 18:45:25'
+last_modified_at: '2023-03-21 11:28:27'
 description: 'A manifesto of what I adhere to in terms of privacy, design, web architecture and the software I use.'
 permalink: '/ethics/'
 ---
@@ -22,7 +22,7 @@ In line with a minimalist approach, [fighting against bloatware](/colophon/) mea
 
 ## Website architecture
 
-By adopting an <abbr title="Static Site Generator">SSG</abbr> as the dynamic engine to build a static website, I pursue [fighting webwaste](https://silviamaggidesign.com/design-digested/biased-ai/#webwaste). The impressive reduction in size, compared to the previous version, is `724 MB`.
+I constantly [fight webwaste](https://silviamaggidesign.com/design-digested/biased-ai/#webwaste). Over the last two years, I reduced the overall website weight by roughly `724 MB`.
 
 {: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
 [Technical details about the website](/colophon/) →

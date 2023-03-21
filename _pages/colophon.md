@@ -2,7 +2,7 @@
 layout: page
 title: 'Colophon'
 date: '2023-01-14 13:49:31'
-last_modified_at: '2023-03-17 10:04:33'
+last_modified_at: '2023-03-21 11:22:23'
 description: 'I developed the site from scratch, including designing the theme. Here is a list of tools, benchmarks and considerations.'
 permalink: '/colophon/'
 ---
