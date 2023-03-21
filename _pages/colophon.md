@@ -37,7 +37,7 @@ Repository and hosting
 
 ### Sustainability
 
-{: .border .border-3 .rounded .mt-5 .px-3 .py-3 }
+{: .border .border-3 .rounded .px-3 .py-3 }
 A note about accessibility: despite the website resulting compliant with <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> guidelines based on multiple tests, I know it’s incomplete and lacking on crucial details. I’m on a neverending quest to change and fix things on that front.
 
 Only [0.04g of CO<sub>2</sub> is produced every time someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/), which is cleaner than 96% of web pages tested. The website is running on sustainable energy and does not request third-party resources, except for the blog posts, which are calling `webmention.io` to render web mentions. [Scores 100 on Ecograder](https://ecograder.com/report/CYFdKg62wGIsfEWJoa8uLAIE).
