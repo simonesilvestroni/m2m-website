@@ -2,7 +2,7 @@
 layout: page
 title: 'Colophon'
 date: '2023-01-14 13:49:31'
-last_modified_at: '2023-03-21 11:22:23'
+last_modified_at: '2023-03-22 09:44:04'
 description: 'I developed the site from scratch, including designing the theme. Here is a list of tools, benchmarks and considerations.'
 permalink: '/colophon/'
 ---
@@ -23,7 +23,7 @@ Languages
 : Vanilla javascript for [the search module ↗](https://github.com/daviddarnes/jekyll-search-js) and [webmentions ↗](https://github.com/fluffy-critter/webmention)
 
 Typography
-: [Reglo (9 KB)](https://github.com/sebsan/Reglo) for the headings, system font stacks for everything else.
+: [Industry font stack](https://github.com/system-fonts/modern-font-stacks#industrial) for the headings, [Transitional font stack](https://github.com/system-fonts/modern-font-stacks#transitional) for serif interventions and [System UI font stack](https://github.com/system-fonts/modern-font-stacks#system-ui) for everything else.
 
 Imagery
 : Sketch
