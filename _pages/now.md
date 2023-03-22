@@ -2,7 +2,7 @@
 layout: page
 title: 'Now'
 date: '2023-02-19 21:14:17'
-last_modified_at: '2023-03-17 10:48:19'
+last_modified_at: '2023-03-22 23:37:50'
 description: 'What am I focused on at this point in my life?'
 permalink: '/now/'
 ---
@@ -14,21 +14,19 @@ After 10 years in England, I'm currently living between the shores of Lake Maggi
 
 ## Sound design
 
-Since the goal is to get hired by a video game company, I'm studying the audio middleware tools **Wwise** and **FMOD**. Despite my past experience, I want to get up to speed with game audio technology after a [15-years hiatus](/work/sound-design/ruff-trigger-playstation2-game/). 
+Since the goal is to get hired by a video game company, I'm studying the audio middleware tools **Wwise** and **FMOD** and their integration with game engines such as **Unity** and **Unreal**. Despite [my past experience](/work/sound-design/ruff-trigger-playstation2-game/), I want to get up to speed with game audio technology after a 15-years hiatus.
 
-The main focus is on Wwise: I've already completed the 101 and 201 courses, while right now I'm at the final stages of 251. I haven't decided on whether trying to get certified or not.
-
-As part of my daily routine, I'm practicing field recording, Foley, sound design creation using synthesis, editing and finalizing the production with [REAPER](/blog/tag/reaper/).
+As part of my daily routine, I'm practicing field recording, Foley, sound design creation with synthesis (in particular using Phase Plant by Kilohearts), editing and finalizing the production with [REAPER](/blog/tag/reaper/).
 
 The short-term goal is to complete a good sound design reel.
 
 ## Music
 
-While I'm laying down the structure for the German remix of my song _Skinny Kid_, I'm also planning a follow-up album to [_After 1989_](/work/music/after-1989/). Currently, I'm at the preliminar synopsis stage.
+With the follow-up album to [_After 1989_](/work/music/after-1989/) currently in stand-by, I'm laying down the structure for the German remix of my song _Skinny Kid_.
 
 ## Reading
 
-I usually struggle to focus on one book at a time. My Kobo tells me I'm currently reading something in the range of 17 or 18 books. However, I’ve recently managed to focus on [*Kallocain* by Karin Boye](https://en.wikipedia.org/wiki/Kallocain).
+I struggle to focus on one book at a time. My Kobo tells me I'm reading something in the range of 18 books. However, I’ve recently managed to focus on [*Kallocain* by Karin Boye](https://en.wikipedia.org/wiki/Kallocain).
 
 ## Growth?
 
