@@ -8,28 +8,18 @@ permalink: '/colophon/'
 ---
 ## Tech
 
-Platform and build
-: [Jekyll v4.2.2 ↗](https://jekyllrb.com/)
-: `jekyll-sitemap` Ruby gem
-: `jekyll-archives` Ruby gem
-: `jekyll-responsive-image` Ruby gem
+Build
+: [Jekyll v4.2.2 ↗](https://jekyllrb.com/) featuring the Ruby gems `jekyll-sitemap`, `jekyll-archives` and `jekyll-responsive-image`
 : Bash
 : [Apple Shortcuts ↗](https://simonesilvestroni.com/blog/automation-for-my-blog-publishing-workflow/)
 
-Languages
-: HTML
-: CSS
-: [Markdown (extended) ↗](https://www.markdownguide.org/getting-started/)
+Code and imagery
+: HTML, CSS, [Markdown (extended) ↗](https://www.markdownguide.org/getting-started/)
 : Vanilla javascript for [the search module ↗](https://github.com/daviddarnes/jekyll-search-js) and [webmentions ↗](https://github.com/fluffy-critter/webmention)
+: [WebP ↗](https://simonesilvestroni.com/blog/implementing-webp-images-in-jekyll/)
 
 Typography
 : [Industrial font stack](https://github.com/system-fonts/modern-font-stacks#industrial) for the headings, [Transitional font stack](https://github.com/system-fonts/modern-font-stacks#transitional) for serif interventions and [System UI font stack](https://github.com/system-fonts/modern-font-stacks#system-ui) for everything else.
-
-Imagery
-: Sketch
-: Pixelmator
-: ImgOptim
-: [WebP ↗](https://simonesilvestroni.com/blog/implementing-webp-images-in-jekyll/)
 
 Repository and hosting
 : [Github ↗](https://github.com/simonesilvestroni/m2m-website)
