@@ -23,7 +23,7 @@ Languages
 : Vanilla javascript for [the search module ↗](https://github.com/daviddarnes/jekyll-search-js) and [webmentions ↗](https://github.com/fluffy-critter/webmention)
 
 Typography
-: [Industry font stack](https://github.com/system-fonts/modern-font-stacks#industrial) for the headings, [Transitional font stack](https://github.com/system-fonts/modern-font-stacks#transitional) for serif interventions and [System UI font stack](https://github.com/system-fonts/modern-font-stacks#system-ui) for everything else.
+: [Industrial font stack](https://github.com/system-fonts/modern-font-stacks#industrial) for the headings, [Transitional font stack](https://github.com/system-fonts/modern-font-stacks#transitional) for serif interventions and [System UI font stack](https://github.com/system-fonts/modern-font-stacks#system-ui) for everything else.
 
 Imagery
 : Sketch
