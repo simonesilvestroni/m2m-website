@@ -25,7 +25,7 @@ Repository and hosting
 : [Github ↗](https://github.com/simonesilvestroni/m2m-website)
 : [Netlify ↗](https://www.netlify.com)
 
-### Sustainability
+## Sustainability
 
 {: .border .border-3 .rounded .px-3 .py-3 }
 A note about accessibility: despite the website resulting compliant with <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> guidelines based on multiple tests, I know it’s incomplete and lacking on crucial details. I’m on a neverending quest to change and fix things on that front.
