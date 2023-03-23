@@ -6,6 +6,7 @@ author: 'Simone Silvestroni'
 categories:
   - 'Music production'
 tags:
+  - song backstory
   - concept album
   - history
   - independent music
@@ -25,13 +26,13 @@ The experiment was a success, so we decided to repeat the process for some of th
 
 Despite a fantastic chemistry with the [drummer](https://www.discogs.com/artist/1836203-Carlo-Prussiani), I parted ways with the band a few weeks later. However, I was smart enough to _keep the source files_ of my complex arrangement.
 
-## Nine Eleven
+## ‘Nine Eleven’
 
 After stripping away the guitar, I rewrote again the piece with a similar bass on a different groove, new piano and synth parts on a reimagined chord structure. It was a solid backbone for something, and I was excited. Next, was blending in a piano sequence from my [years as a composer for video games]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/). Originally written right before 9/11 happened, it fit beautifully. Like most people, I’ve experienced that dreadful day on live television, so I decided to make this new music go along with some of the original live commentaries.
 
 I enhanced the piano progression, added a tom roll in anticipation for the choruses and wrote a guitar solo. Finally, I sampled the audio from the [footage shot around the WTC](https://www.youtube.com/watch?v=IJpql03lDKQ) where the events unfolded. The song, titled _Nine Eleven_, later morphed into _Skinny Kid_, the opening single and lead song for my album [_After 1989_]({{ site.url }}/work/music/after-1989/).
 
-## _Nine Eleven_ instrumental demo
+## ‘Nine Eleven’ instrumental demo
 
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2694261691/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=3370953346/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom-original-demos-outtakes">After 1989: A Trip To Freedom (Original Demos &amp; Outtakes) by Minutes to Midnight</a></iframe>' %}
 
@@ -64,7 +65,7 @@ _Skinny Kid_ was the first piece that I turned into a proper song when I refacto
 > _Skinny Kid_ is a tender delicate number as Simone expresses emotional and harrowing themes through a bitter, icy piano and tense progressive soundscapes. With a steady beat pounding through weaving guitars and ominous rumble on bass, the track projects images of isolation and loneliness by means of sinister chilling twinkles and tender vocals. The haunting backing vocals and lamenting pines on guitar have a chilling element as Simone portrays this harsh experience with sublime instrumentation and vivid musicianship.<cite>— [Indie Buddie](https://www.indiebuddie.com/minutes-to-midnight-skinny-kid-video-premiere/)</cite>
 
 
-## Credits for _Skinny Kid_
+## Credits for ‘Skinny Kid’
 
 **Dan Ecclestone**<br>
 Vocals
@@ -81,7 +82,7 @@ Backing vocals
 **Simone Silvestroni**<br>
 Bass, drums, piano, synth, sound effects
 
-## Credits for _Nine Eleven_
+## Credits for ‘Nine Eleven’
 
 **Simone Silvestroni**<br>
 Bass, drums, piano, synth, sound effects
@@ -94,7 +95,7 @@ Guitars, viola
 Written, produced and mixed by Simone Silvestroni<br>
 Music video by [Silvia Maggi](https://silviamaggidesign.com/)<br>
 Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/)<br>
-Management by Christopher Carvalho of Unlock Your Sound
+Management by Christopher Carvalho of [Unlock Your Sound](https://unlockyoursound.com/)
 
 {: .d-inline-block .border .border-3 .rounded .mt-5 .px-3 .py-3 }
 [Read the album analysis →](/work/music/after-1989/)
