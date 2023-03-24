@@ -1,16 +1,14 @@
 ---
 layout: default
 ---
-<div class="post-meta mt-3 mb-5">
-  <span>
-    <time class="dt-published visually-hidden" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
-  </span>
-  <span class="d-inline-block border border-3 rounded px-3 py-3"><strong>In reply to</strong> <a href="{{ page.replyto }}" class="u-in-reply-to">{{ page.replyto }}</a> ↗</span>
+<div class="post-meta">
+  <span><time class="dt-published visually-hidden" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time></span>
+  <span class="d-inline-block border border-3 rounded px-3 py-3 mb-4"><strong>In reply to</strong> <a href="{{ page.replyto }}" class="u-in-reply-to">{{ page.replyto }}</a> ↗</span>
   {%- if page.originalpost -%}
   <span class="visually-hidden">↪️ <a href="{{ site.url }}/blog/{{ page.originalpostURL }}/" class="u-in-reply-to">Original post</a></span>
   {% endif %}
 </div>
-<div class="e-content my-5">
+<div class="e-content">
   {{ content }}
 </div>
 <div class="m2m-label text-center text-md-start pt-2">

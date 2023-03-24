@@ -120,7 +120,7 @@ collections:
     permalink: /newsletter/archive/:path/
   notes:
     output: true
-    permalink: /note/:path/
+    permalink: /notes/:path/
 
 # -------------------
 # Archives

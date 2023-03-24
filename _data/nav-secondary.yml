@@ -8,6 +8,9 @@ menu:
   - name: RSS
     link: /rss/
     desc: 'RSS feeds'
+  - name: Notes
+    link: /notes/
+    desc: 'Replies and webmentions'
   - name: Newsletter
     link: /newsletter/
     desc: 'Aperiodic newsletter'

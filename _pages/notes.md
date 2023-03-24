@@ -10,8 +10,8 @@ robots: 'noindex,follow'
 ---
 Inspired by [Wouter Groeneveld](https://brainbaking.com/notes/).
 
-<ul class="list-unstyled ps-0 mt-5">
+<ul class="list-unstyled ps-0">
 {% for note in site.notes reversed %}
-  <li class="py-1"><a href="{{ note.url }}">{{ note.date | date: "%-d %b %Y %T" }}</a></li>
+  <li class="py-1"><a href="{{ note.url }}">{{ note.date | date: "%-d %b %Y %T" }}</a> in reply to <a href="{{ note.replyto }}">{{ note.replytouser }}</a></li>
 {% endfor %}
 </ul>
