@@ -3,16 +3,14 @@ title: 'Google rejects ‘Attentat 1942’ from German store'
 date: '2020-07-21'
 last_modified_at: '2021-11-12 15:34:41'
 author: 'Simone Silvestroni'
-categories:
-  - 'Videogames'
 tags:
-  - attentat 1942
-  - charles games
-  - gamasutra
-  - google
-  - history
-  - nazism
-  - world war ii  
+  - 'attentat 1942'
+  - 'charles games'
+  - 'google'
+  - 'history'
+  - 'nazism'
+  - 'world war ii'
+  - 'video game'
 description: "Despite the developer's effort, Google refused to publish the game ‘Attentat 1942’ on their Play Store in Germany, France, Austria and Russia."
 ---
 Brilliant article by [Game Developer](https://www.gamedeveloper.com) about the release of the videogame [_Attentat 1942_](https://attentat1942.com/). Despite the developer’s effort, Google refused to publish the game on their Play Store in Germany, France, Austria and Russia. I wholeheartedly agree with the company:

@@ -3,14 +3,15 @@ title: "‘Shallow Grave’ by Antiquity"
 date: '2019-01-24'
 last_modified_at: '2021-11-14 20:35:27'
 author: 'Simone Silvestroni'
-categories:
-  - 'Music release'
 tags:
-  - alternative rock
-  - antiquity
-  - gerald duchene
-  - independent music
-  - new york
+  - 'alternative rock'
+  - 'antiquity'
+  - 'gerald duchene'
+  - 'bass player'
+  - 'bassist'
+  - 'independent music'
+  - 'music release'
+  - 'new york'
 description: "I’m happy Gerald Duchene asked me to record a bass track for this beautiful song. It’s my second collaboration with his project Antiquity Sessions."
 ---
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1048816351/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/shallow-grave">Shallow Grave by Antiquity</a></iframe>' %}

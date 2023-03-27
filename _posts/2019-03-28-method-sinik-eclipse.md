@@ -3,13 +3,13 @@ title: 'New Production: ‘Eclipse’ by Method Sinik'
 date: '2019-04-20'
 last_modified_at: '2021-11-14 17:44:39'
 author: 'Simone Silvestroni'
-categories:
-  - 'Music release'
 tags:
-  - independent music
-  - indie
-  - trap
-  - method sinik
+  - 'independent music'
+  - 'indie'
+  - 'trap'
+  - 'bass player'
+  - 'bassist'
+  - 'music release'
 description: 'Following my principle of trying to get out of my comfort zone, I helped the promising young artist Method Sinik with the production of his recent EP.'
 ---
 ## Stream on YouTube Music

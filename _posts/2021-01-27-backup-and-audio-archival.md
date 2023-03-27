@@ -3,13 +3,12 @@ title: 'Backup and audio archival'
 date: '2021-01-27'
 last_modified_at: '2021-11-08 21:37:08'
 author: 'Simone Silvestroni'
-categories:
-  - 'Workflow'
 tags:
-  - "3-2-1 backup"
-  - backup
-  - archival
-  - audio preservation
+  - 'workflow'
+  - '3-2-1 backup'
+  - 'backup'
+  - 'archival'
+  - 'audio preservation'
 description: "Quick explanation of my strategy for saving and preserving sound material, both for personal use and for my clients."
 ---
 ## Why offer audio archival to clients?

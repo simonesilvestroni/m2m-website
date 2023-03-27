@@ -3,13 +3,17 @@ title: 'New Production: ‘Hang Loose’ by Callum Gardner'
 date: '2019-04-20'
 last_modified_at: '2021-11-14 17:44:39'
 author: 'Simone Silvestroni'
-categories:
-  - 'Music release'
 tags:
-  - callum gardner
-  - independent music
-  - indie
-  - singer-songwriter
+  - 'callum gardner'
+  - 'independent music'
+  - 'indie'
+  - 'singer-songwriter'
+  - 'bass player'
+  - 'bassist'
+  - 'music release'
+  - 'music production'
+  - 'mixing'
+  - 'mastering'
 description: 'London-based singer-songwriter Callum Gardner’s new single, ‘Hang Loose’, is out now. Produced by Minutes to Midnight.'
 ---
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1148436830/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/hang-loose">Hang Loose by Callum Gardner</a></iframe>' %}

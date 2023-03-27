@@ -3,19 +3,19 @@ title: 'Recent live shows'
 date: '2018-06-29'
 last_modified_at: '2021-11-16 12:39:49'
 author: 'Simone Silvestroni'
-categories:
-  - 'Concerts'
 tags:
-  - bassist
-  - live
-  - gigs
-  - concert
-  - show
-  - callum gardner
-  - music band
-  - london
-  - portsmouth
-  - victorious festival
+  - 'bassist'
+  - 'bass player'
+  - 'live'
+  - 'gigs'
+  - 'concert'
+  - 'show'
+  - 'callum gardner'
+  - 'music band'
+  - 'london'
+  - 'portsmouth'
+  - 'victorious festival'
+  - 'uk'
 description: 'A comprehensive list of the live shows I performed around England as a bass player, between 2017 and 2018, with Callum Gardner and his band.'
 featimage: true
 featimage-name: 'live-with-callum-gardner.jpg'

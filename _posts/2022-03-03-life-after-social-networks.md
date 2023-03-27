@@ -3,15 +3,15 @@ title: 'Life after social networks'
 date: '2022-03-03'
 last_modified_at: '2022-03-03 14:59:00'
 author: 'Simone Silvestroni'
-categories: 
-  - 'Social media'
 tags:
-  - facebook
-  - twitter
-  - instagram
-  - behavioral modification
-  - small web
-  - popular
+  - 'facebook'
+  - 'twitter'
+  - 'instagram'
+  - 'behavioral modification'
+  - 'small web'
+  - 'social media'
+  - 'personal'
+  - 'popular'
 description: "My point of view about the pros of being outside mainstream social networks for the last 19 months."
 canonical: 'https://simonesilvestroni.com/blog/life-after-social-networks/'
 sitemap: false

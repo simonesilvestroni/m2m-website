@@ -3,13 +3,12 @@ title: 'Streaming regret'
 date: '2022-07-16 11:22:59'
 last_modified_at: '2022-07-16 11:23:02'
 author: 'Simone Silvestroni'
-categories:
-  - 'Music'
 tags:
   - 'streaming'
   - 'youtube music'
   - 'apple music'
   - 'spotify'
+  - 'music industry'
 description: 'People delegate music curation to distant corporations nowadays, forgetting that these can change it on a whim. We’re losing control over the music we love.'
 syndication: yes
 syndicate:

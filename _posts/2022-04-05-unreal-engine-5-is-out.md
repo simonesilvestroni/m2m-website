@@ -2,15 +2,14 @@
 title: Unreal Engine 5 is out
 date: '2022-04-05 20:11:43'
 last_modified_at: '2022-04-05 20:00:59'
-categories: 
-  - 'Videogames'
 tags:
-  - unreal engine
-  - epic
-  - matrix
-  - "3d"
-  - playstation
-  - xbox
+  - 'unreal engine'
+  - 'epic'
+  - 'matrix'
+  - '3d'
+  - 'playstation'
+  - 'xbox'
+  - 'video game'
 description: "Unreal Engine 5 is out now. It will enable next-generation real-time 3D content and experiences with greater freedom, fidelity, and flexibility."
 ---
 Unreal Engine 5 will enable next-generation real-time 3D content and experiences with greater freedom, fidelity, and flexibility. From the [announcement page](https://www.unrealengine.com/en-US/blog/introducing-the-matrix-awakens-an-unreal-engine-5-experience):

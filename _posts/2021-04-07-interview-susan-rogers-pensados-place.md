@@ -3,17 +3,16 @@ title: "Interview to Susan Rogers (Pensado's Place)"
 date: '2021-04-07'
 last_modified_at: '2021-11-08 16:59:59'
 author: 'Simone Silvestroni'
-categories:
-  - 'Psychoacoustics'
 tags:
-  - susan rogers 
-  - dave pensado
-  - herb trawick
-  - berklee
-  - music listening
-  - music producer
-  - audio technician
-  - prince
+  - 'susan rogers '
+  - 'dave pensado'
+  - 'herb trawick'
+  - 'berklee'
+  - 'music listening'
+  - 'music producer'
+  - 'audio technician'
+  - 'prince'
+  - 'psychoacoustics'
 description: "I watched an amazing video interview with Susan Rogers, who had been sitting in my to-do list for a few weeks. The best interview in a long time."
 ---
 I’ve listened to her in awe. In particular, regarding two points:

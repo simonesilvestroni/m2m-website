@@ -3,18 +3,18 @@ title: 'A Trip To Freedom: from Berlin to Berlin'
 date: '2019-12-09 10:52:30'
 last_modified_at: '2021-11-17 11:39:35'
 author: 'Simone Silvestroni'
-categories:
-  - 'Personal'
 tags:
-  - concept album
-  - history
-  - independent music
-  - berlin
-  - germany
-  - concentration camp
-  - sachsenhausen
-  - world war ii
-  - popular
+  - 'personal'
+  - 'concept album'
+  - 'music production'
+  - 'history'
+  - 'independent music'
+  - 'berlin'
+  - 'germany'
+  - 'concentration camp'
+  - 'sachsenhausen'
+  - 'world war ii'
+  - 'popular'
 description: "A partial chronicle of what I did to retrace my grandfather’s steps in Sachsenhausen concentration camp. In the process, I wrote my debut concept album."
 featimage: true
 featimage-name: 'full-story-featured.jpg'

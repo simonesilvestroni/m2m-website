@@ -3,14 +3,13 @@ title: 'New reviews for ‘After 1989’'
 date: '2023-03-09 15:40:25'
 last_modified_at: '2023-03-09 15:40:28'
 author: 'Simone Silvestroni'
-categories:
-  - 'Music release'
 tags:
   - 'after 1989'
   - 'concept album'
-  - reviews
-  - cold war
-  - bandcamp
+  - 'review'
+  - 'cold war'
+  - 'music release'
+  - 'bandcamp'
 description: 'My debut concept album has been receiving a bit more attention recently, especially after I stopped trying to sell it.'
 ---
 Whether the new influx is determined by my choice to stop acting like [a seller who needs to monetise a product](/blog/de-brand/) or not, I'm happy to see fresh reactions from people I don't even know. It takes a minimal effort to write a review on Bandcamp (I'm guilty of being constantly behind my to-do list on this matter), however few people do.

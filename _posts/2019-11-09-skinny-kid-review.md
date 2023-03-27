@@ -3,19 +3,18 @@ title: '‘Skinny Kid’ video reviewed by Indiebuddie'
 date: '2019-11-09'
 last_modified_at: '2019-11-09 23:30:54'
 author: 'Simone Silvestroni'
-categories:
-  - 'Music release'
 tags:
-  - alternative rock
-  - concept album
-  - independent music
-  - history
-  - cold war
-  - berlin
-  - berlin wall
-  - world war ii
-  - video
-  - reviews
+  - 'music release'
+  - 'alternative rock'
+  - 'concept album'
+  - 'independent music'
+  - 'history'
+  - 'cold war'
+  - 'berlin'
+  - 'berlin wall'
+  - 'world war ii'
+  - 'music video'
+  - 'review'
 description: 'Indiebuddie reviews ‘Skinny Kid’, the launch single from my debut concept album ‘After 1989’.'
 ---
 A beautiful review arrived today. Indie Buddie is "a blog about amazing new music from exciting bands and artists who deserve recognition".

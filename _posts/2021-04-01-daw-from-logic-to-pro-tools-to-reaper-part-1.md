@@ -3,20 +3,19 @@ title: 'Switch DAW: Logic to Pro Tools to REAPER (Pt 1)'
 date: '2021-04-01'
 last_modified_at: '2021-11-08 19:19:33'
 author: 'Simone Silvestroni'
-categories:
-  - 'Audio software'
 tags:
-  - cockos
-  - reaper
-  - apple
-  - logic pro x
-  - avid
-  - pro tools
-  - daw
-  - sound design 
-  - music production
-  - game audio
-  - popular
+  - 'cockos'
+  - 'reaper'
+  - 'apple'
+  - 'logic pro x'
+  - 'avid'
+  - 'pro tools'
+  - 'daw'
+  - 'sound design'
+  - 'audio software'
+  - 'music production'
+  - 'game audio'
+  - 'popular'
 description: "In 12 months I've managed to revolutionize my workflow, twice. Part 2 of why I migrated to REAPER is about cost, multi-platform and a different workflow."
 ---
 In this series, I describe eight major benefits that REAPER brought to my music production workflow, and how they pushed me toward a full switch from Pro Tools.

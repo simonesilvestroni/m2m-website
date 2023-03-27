@@ -3,12 +3,11 @@ title: 'Explorer by Sound Particles'
 date: '2022-06-22 14:56:43'
 last_modified_at: '2022-06-22 14:56:49'
 author: 'Simone Silvestroni'
-categories:
-  - 'Sound design'
 tags:
   - 'audio tools'
-  - metadata
+  - 'metadata'
   - 'music production'
+  - 'sound design'
   - 'sound particles'
   - 'sound manager'
 description: 'Explorer is a free audio application for managing sounds. Working with mono, stereo and surround, it can find, organize, edit and integrate files in a DAW.'

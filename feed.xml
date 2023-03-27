@@ -27,11 +27,6 @@ layout: none
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ site.url }}{{ post.url }}</link>
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-        {% if post.categories %}
-          {% for category in post.categories %}
-          <category>{{ category | xml_escape }}</category>
-          {% endfor %}
-        {% endif %}
         {% for tag in post.tags %}
           <category>{{ tag | xml_escape | capitalize }}</category>
         {% endfor %}

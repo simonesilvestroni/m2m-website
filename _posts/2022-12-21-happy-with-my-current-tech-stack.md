@@ -3,8 +3,6 @@ title: 'Happy with my current tech stack'
 date: '2022-12-21 01:05:18'
 last_modified_at: '2022-12-21 01:05:21'
 author: 'Simone Silvestroni'
-categories: 
-  - 'Technology'
 tags:
   - 'macos'
   - 'android'
@@ -12,6 +10,7 @@ tags:
   - 'redmi note 7'
   - 'macbook pro'
   - 'windows'
+  - 'technology'
   - 'syncthing'
 description: "I'm finding myself eerily happy with my current tech stack, while being outside digital ecosystems."
 canonical: 'https://simonesilvestroni.com/blog/happy-with-my-current-tech-stack/'

@@ -3,24 +3,23 @@ title: 'How I use the internet'
 date: '2022-11-23 17:21:41'
 last_modified_at: '2022-11-23 17:21:44'
 author: 'Simone Silvestroni'
-categories:
-  - 'Technology'
 tags:
-  - internet
-  - web
-  - firefox
-  - rss
-  - feedbin
-  - netnewswire
-  - social media
-  - mastodon
-  - pixelfed
-  - fediverse
-  - email
-  - mailbox
-  - duckduckgo
-  - startpage
-  - marginalia
+  - 'internet'
+  - 'web'
+  - 'firefox'
+  - 'rss'
+  - 'feedbin'
+  - 'netnewswire'
+  - 'social media'
+  - 'mastodon'
+  - 'pixelfed'
+  - 'fediverse'
+  - 'email'
+  - 'mailbox.org'
+  - 'duckduckgo'
+  - 'startpage'
+  - 'technology'
+  - 'marginalia'
 description: "A brief description of how I use the internet in 2022, two years after leaving all mainstream social networks."
 canonical: 'https://simonesilvestroni.com/blog/how-i-use-internet/'
 sitemap: false

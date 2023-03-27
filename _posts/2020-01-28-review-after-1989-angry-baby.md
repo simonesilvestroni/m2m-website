@@ -3,15 +3,13 @@ title: 'Angry Baby album review: ‘After 1989’'
 date: '2020-01-28'
 last_modified_at: '2021-11-12 22:21:10'
 author: 'Simone Silvestroni'
-categories:
-  - 'Review'
 tags:
-  - concept album
-  - independent music
-  - reviews
-  - history
-  - cold war
-  - world war ii
+  - 'concept album'
+  - 'independent music'
+  - 'history'
+  - 'cold war'
+  - 'world war ii'
+  - 'review'
 description: 'Another amazing album review for ‘After 1989’: Angry Baby wade every week through great new indie music tracks to find the best gems.'
 ---
 ## About Angry Baby

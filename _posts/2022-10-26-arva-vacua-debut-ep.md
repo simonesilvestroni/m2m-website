@@ -1,10 +1,9 @@
 ---
 title: 'Arva Vacua debut EP'
 date: '2022-10-26 10:33:03'
-last_modified_at: '2023-02-28 13:03:27'
-categories:
-  - 'Music release' 
+last_modified_at: '2023-02-28 13:03:27' 
 tags:
+  - 'music release'
   - 'mixing'
   - 'music'
   - 'italy'

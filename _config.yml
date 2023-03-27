@@ -78,21 +78,6 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "music"
-    values:
-      layout: "project"
-  - scope:
-      path: ""
-      type: "music-production"
-    values:
-      layout: "project"
-  - scope:
-      path: ""
-      type: "sound-design"
-    values:
-      layout: "project"
-  - scope:
-      path: ""
       type: "newsletter"
     values:
       layout: "newsletter"
@@ -106,15 +91,6 @@ defaults:
 # Collections
 # -------------------
 collections:
-  music:
-    output: true
-    permalink: /work/music/:path/
-  music-production:
-    output: true
-    permalink: /work/music-production/:path/
-  sound-design:
-    output: true
-    permalink: /work/sound-design/:path/
   newsletter:
     output: true
     permalink: /newsletter/archive/:path/
@@ -127,11 +103,9 @@ collections:
 # -------------------
 jekyll-archives:
   enabled:
-    - categories
     - tags
-  layout: cats-tags
+  layout: tags
   permalinks:
-    category: '/blog/category/:name/'
     tag: '/blog/tag/:name/'
   slug_mode: latin
 

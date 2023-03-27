@@ -14,7 +14,7 @@ permalink: '/work/music/after-1989-reviews/'
   <div class="flex-shrink-0">
     <img class="img-thumbnail" src="{{ site.url }}/assets/images/rnxs.jpg" width="100" height="100" alt="Portrait of Rosa Nadine Xochimilco Sánchez">
   </div>
-  <p class="detached flex-grow-1 fs-6 ms-3 py-0 my-0"><a href="https://rosanadinex.com/">Author, small press founder and editor</a>, Rosa has recently published the books of poems: <em>Blue Bones, Blood Roses, Black Eyes</em> and <em>Hearts Aflame, Still Burning</em>.</p>
+  <p class="detached flex-grow-1 ms-3 py-0 my-0"><a href="https://rosanadinex.com/">Author, small press founder and editor</a>, Rosa has recently published the books of poems: <em>Blue Bones, Blood Roses, Black Eyes</em> and <em>Hearts Aflame, Still Burning</em>.</p>
 </div>
 
 {: .detached }

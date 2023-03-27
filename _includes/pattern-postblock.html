@@ -1,24 +1,17 @@
-<article class="h-entry m2m-entry my-4 py-3">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <mark class="p-category text-uppercase initialism"><strong>{{ category | upcase | replace:"-"," " }}</strong></mark>
-  {% endfor %}
-  <h2 class="fs-3 p-name my-4"><a href="{{ post.url }}" title="Read the post ‘{{ post.title }}’">{{ post.title }}&nbsp;→</a></h2>
-  {%- if post -%}
-    {% assign date = post.date %}
-  {%- elsif page -%}
-    {% assign date = page.date %}
-  {%- endif -%}
-  <p class="mb-3">
+{%- if post -%}
+  {% assign date = post.date %}
+{%- elsif page -%}
+  {% assign date = page.date %}
+{%- endif -%}
+<article class="h-entry my-5">
+  <h2 class="p-name"><a href="{{ post.url }}" title="Read the post ‘{{ post.title }}’">{{ post.title }}&nbsp;→</a></h2>
+  <p>
     <span class="visually-hidden">By <span class="p-author h-card">Simone Silvestroni</span></span>
-    <time class="dt-published m2m-font-micro" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time>
+    <small><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time></small>
   </p>
   <div class="e-content">
     <p class="p-summary text-start mt-2">{{ post.description | markdownify | strip_html }}</p>
   </div>
 </article>
 <hr class="visually-hidden">
+    

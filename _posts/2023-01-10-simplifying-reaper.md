@@ -3,11 +3,10 @@ title: Simplifying REAPER
 date: '2023-01-10 17:22:50'
 last_modified_at: '2023-01-10 17:22:52'
 author: 'Simone Silvestroni'
-categories: 
-  - 'Music production'
 tags:
   - 'reaper'
   - 'daw'
+  - 'music production'
   - 'digital audio workstation'
 description: "Helping another producer with his transition from Logic made me value a simpler REAPER for my own good."
 ---

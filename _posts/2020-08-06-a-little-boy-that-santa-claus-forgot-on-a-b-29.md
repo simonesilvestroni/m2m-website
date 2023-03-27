@@ -3,21 +3,19 @@ title: 'A Little Boy That Santa Claus Forgot On A B-29'
 date: '2020-08-06'
 last_modified_at: '2021-11-12 13:34:54'
 author: 'Simone Silvestroni'
-categories:
-  - 'Music video'
 tags:
-  - atomic bomb
-  - berlin
-  - cold war
-  - concentration camps
-  - enola gay
-  - harry truman
-  - hiroshima
-  - japan
-  - nagasaki
-  - nuclear era
-  - world war ii
-  - video
+  - 'atomic bomb'
+  - 'berlin'
+  - 'cold war'
+  - 'concentration camps'
+  - 'enola gay'
+  - 'harry truman'
+  - 'hiroshima'
+  - 'japan'
+  - 'nagasaki'
+  - 'nuclear era'
+  - 'world war ii'
+  - 'music video'
 description: '75 years ago, while two young men escaped from Sachsenhausen concentration camp, the US nuked Hiroshima with a bomb named Little Boy.'
 ---
 ## Official video

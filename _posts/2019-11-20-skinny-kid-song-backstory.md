@@ -3,19 +3,18 @@ title: '‘Skinny Kid’ song backstory'
 date: '2019-11-20'
 last_modified_at: '2021-11-12 22:33:14'
 author: 'Simone Silvestroni'
-categories:
-  - 'Music production'
 tags:
-  - song backstory
-  - concept album
-  - history
-  - independent music
-  - berlin
-  - germany
-  - concentration camp
-  - sachsenhausen
-  - world war ii
-  - popular
+  - 'music production'
+  - 'song backstory'
+  - 'concept album'
+  - 'history'
+  - 'independent music'
+  - 'berlin'
+  - 'germany'
+  - 'concentration camp'
+  - 'sachsenhausen'
+  - 'world war ii'
+  - 'popular'
 description: 'How an arrangement for another band became the opening single and lead song for Minutes to Midnight’s concept album ‘After 1989’.'
 ---
 ## Origin

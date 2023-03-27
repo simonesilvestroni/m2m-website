@@ -3,13 +3,12 @@ title: My experience releasing an album as an independent artist (part 1)
 date: '2023-03-13 14:57:56'
 last_modified_at: '2023-03-13 14:57:59'
 author: 'Simone Silvestroni'
-categories: 
-  - 'Music'
 tags:
   - 'music production'
   - 'music release'
   - 'indie'
   - 'indie music'
+  - 'independent music'
   - 'indie musician'
   - 'social media'
   - 'music marketing'

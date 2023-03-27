@@ -3,14 +3,15 @@ title: '‘In Our Dreams’ by Antiquity'
 date: '2020-07-30'
 last_modified_at: '2021-11-12 15:25:40'
 author: 'Simone Silvestroni'
-categories:
-  - 'Music release'
 tags:
-  - alternative rock
-  - antiquity
-  - gerald duchene
-  - independent music
-  - new york
+  - 'music release'
+  - 'alternative rock'
+  - 'antiquity'
+  - 'gerald duchene'
+  - 'bass player'
+  - 'bassist'
+  - 'independent music'
+  - 'new york'
 description: "'In Our Dreams' written, produced and mixed by Gerald Duchene. Vocals by Dan Ecclestone, bass by Minutes to Midnight."
 ---
 I always enjoy being a part of [Gerald’s music]({{ site.url}}/blog/tag/antiquity/). This song was particularly exciting to work on, since I rarely have the chance to play bass where drums are nowhere to be heard. I believe the result is stunning.

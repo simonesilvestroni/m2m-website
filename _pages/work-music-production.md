@@ -6,7 +6,7 @@ last_modified_at: '2023-03-02 11:38:07'
 description: 'As a music producer, I can write and play solid bass parts, handle the process from recording to mastering, with mixing as my preferred stage.'
 permalink: '/work/music-production/'
 ---
-{%- assign musicproduction = site.music-production | reverse -%}
+{%- assign musicproduction = site.posts | where_exp:'post','post.tags contains "music production" and post.tags contains "case study"' -%}
 {%- for project in musicproduction %}
 {% include card-project.html %}
 {% endfor %}

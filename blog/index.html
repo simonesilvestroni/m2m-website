@@ -9,11 +9,6 @@ description: 'I’ve been running a blog since March 2002. This version is focus
 <section class="h-feed mt-5" id="blog-all-posts">
   <h2 class="p-name visually-hidden text-center text-uppercase">All the posts</h2>
   {%- for post in site.posts %}
-  {%- if post %}
-  {% assign categories = post.categories %}
-  {% else -%}
-  {% assign categories = page.categories %}
-  {%- endif -%}
-  {% include pattern-postblock.html %}
+    {% include pattern-postblock.html %}
   {% endfor %}
 </section>

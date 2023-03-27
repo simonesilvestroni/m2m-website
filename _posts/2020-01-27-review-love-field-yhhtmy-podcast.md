@@ -3,16 +3,16 @@ title: '‘Love Field’ reviewed on YHHTMY podcast'
 date: '2020-01-27'
 last_modified_at: '2021-11-12 22:26:40'
 author: 'Simone Silvestroni'
-categories:
-  - 'Review'
 tags:
-  - concept album
-  - independent music
-  - reviews
-  - history
-  - cold war
-  - jfk assassination
-  - dallas
+  - 'concept album'
+  - 'independent music'
+  - 'history'
+  - 'cold war'
+  - 'jfk assassination'
+  - 'dallas'
+  - 'alternative rock'
+  - 'love field'
+  - 'review'
 description: 'YHHTMY podcast selected my song ‘Love Field’ from the album ‘After 1989’ for their latest episode.'
 ---
 ## About YHHTMY

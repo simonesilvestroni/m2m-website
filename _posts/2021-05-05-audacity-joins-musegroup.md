@@ -2,17 +2,16 @@
 title: 'Audacity joins Muse'
 date: '2021-05-05'
 last_modified_at: '2021-11-08 16:55:41'
-categories:
-  - 'Audio software'
 tags:
-  - audacity
-  - audio editing
-  - audio editor
-  - audio tools
-  - daw
-  - foss
-  - open source 
-  - muse group
+  - 'audacity'
+  - 'audio editing'
+  - 'audio editor'
+  - 'audio software'
+  - 'audio tools'
+  - 'daw'
+  - 'foss'
+  - 'open source '
+  - 'muse group'
 description: "The company behind MuseScore has announced the acquisition of the well known FOSS audio editor, Audacity."
 ---
 As stated on their website:

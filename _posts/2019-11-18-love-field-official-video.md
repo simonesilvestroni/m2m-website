@@ -3,19 +3,19 @@ title: '‘Love Field’ video: the JFK assassination'
 date: '2019-11-18'
 last_modified_at: '2021-11-12 23:20:26'
 author: 'Simone Silvestroni'
-categories:
-  - 'Music video'
 tags:
-  - alternative rock
-  - cold war
-  - concept album
-  - history
-  - independent music
-  - jfk assassination
-  - dallas
-  - jackie
-  - lee harvey oswald
-  - video
+  - 'music release'
+  - 'alternative rock'
+  - 'cold war'
+  - 'concept album'
+  - 'history'
+  - 'independent music'
+  - 'jfk assassination'
+  - 'dallas'
+  - 'love field'
+  - 'jackie'
+  - 'lee harvey oswald'
+  - 'music video'
 description: 'Cheering crowds greet the President at Dallas airport. As the motorcade cuts through the city, I imagine to stand still while everything changes.'
 ---
 Dallas, November 1963. Warm weather and cheering crowds greet the President when he lands at _Love Field_ airport. As the motorcade cuts through the city, I fantasise about waving at Jack and Jackie, or leaning over the window of a sixth floor, or being Abraham Zapruder, standing still while everything changes.

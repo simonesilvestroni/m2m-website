@@ -3,17 +3,17 @@ title: '‘13 Days’ official video: the Cuban crisis'
 date: '2020-05-31'
 last_modified_at: '2021-11-12 18:29:23'
 author: 'Simone Silvestroni'
-categories:
-  - 'Music video'
 tags:
-  - alternative rock
-  - cold war
-  - concept album
-  - cuba missile crisis
-  - history
-  - independent music
-  - jfk
-  - video
+  - 'alternative rock'
+  - 'cold war'
+  - 'concept album'
+  - 'cuba missile crisis'
+  - 'history'
+  - 'independent music'
+  - 'bass player'
+  - 'bassist'
+  - 'jfk'
+  - 'music video'
 description: 'The Cuban crisis of 1962. President Kennedy announces proof of a build-up of Soviet missiles on the island. The world is one step from nuclear war.'
 ---
 President Kennedy goes live on TV, announcing he has proof of a build-up of Soviet missiles in Cuba. The threat of a pre-emptive strike to America is real. The level of military readiness is set one step from a global nuclear war.

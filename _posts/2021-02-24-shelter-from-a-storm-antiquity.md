@@ -3,16 +3,15 @@ title: '‘Shelter From A Storm’ by Antiquity'
 date: '2021-02-24'
 last_modified_at: '2021-11-08 20:00:10'
 author: 'Simone Silvestroni'
-categories:
-  - 'Music release'
 tags:
-  - antiquity
-  - gerald duchene
-  - bass
-  - bassist
-  - music producer
-  - music production
-  - new york
+  - 'antiquity'
+  - 'gerald duchene'
+  - 'bass'
+  - 'bassist'
+  - 'music release'
+  - 'music producer'
+  - 'music production'
+  - 'new york'
 description: "The new single by Antiquity, 'Shelter From A Storm' is my new bass recording and co-production, together with Gerald Duchene."
 ---
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2838120524/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/shelter-from-a-storm">Shelter From A Storm by Antiquity</a></iframe>' %}

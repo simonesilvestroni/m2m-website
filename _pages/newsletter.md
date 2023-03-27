@@ -10,18 +10,18 @@ permalink: '/newsletter/'
 
 ## Past issues
 
-<table class="table">
-  <thead>
+<table class="table m2m-table-archive table-borderless">
+  <thead class="visually-hidden">
     <tr>
-      <th>Newsletter subject</th>
       <th>Date</th>
+      <th>Newsletter subject</th>
     </tr>
   </thead>
   <tbody>
     {% for post in site.newsletter reversed %}
     <tr>
+      <td class="m2m-post-feat_date"><small><mark class="border-radius">{{ post.date | date: "%-d&nbsp;%b&nbsp;%Y" }}</mark>&nbsp;&nbsp;</small></td>
       <td><a href="{{ post.url }}">{{ post.title }}</a></td>
-      <td><span class="initialism">{{ post.date | date: "%-d %b %Y" }}</span></td>
     </tr>
     {% endfor %}
   </tbody>

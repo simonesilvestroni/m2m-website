@@ -6,62 +6,40 @@ last_modified_at: '2022-08-19 10:36:28'
 <div class="h-entry">
   {% comment %}
     *-------------------------
-    Latest posts
+    Latest
     -------------------------*
   {% endcomment %}
   <section class="h-feed">
-    {%- assign recentPosts = site.posts | sort: 'date' | reverse -%}
-    <h2>Blog</h2>
-    <ul>
-    {%- for post in recentPosts limit: 4 -%}
-    <li class="mt-2"><a href="{{ post.url }}" title="Read the post">{{ post.title }}</a></li>
-    {% endfor -%}
-    </ul>
-    <p class="d-inline-block border border-3 rounded mt-4 px-3 py-2"><a class="text-uppercase" href="/blog/"><small>All posts →</small></a></p>
+    <table class="table m2m-table-archive table-borderless">
+      <thead class="visually-hidden">
+        <tr>
+          <th scope="col">Date</th>
+          <th scope="col">Post title</th>
+        </tr>
+      </thead>
+      <tbody>
+        {%- for post in site.posts limit: 6 -%}
+        <tr>
+          <td class="m2m-post-feat_date"><small><mark class="border-radius">{{ post.date | date: "%-d&nbsp;%b&nbsp;%Y" }}</mark></small>&nbsp;&nbsp;</td>
+          <td><a href="{{ post.url }}" title="Read the post">{{ post.title }}</a></td>
+        </tr>
+        {% endfor -%}
+      </tbody>
+    </table>
   </section>
-  {% comment %}
-    *-------------------------
-    Latest sound designs
-    -------------------------*
-  {% endcomment %}
-  <section class="h-feed">
-    {%- assign sounddesign = site.sound-design | reverse -%}
-    <h2>Sound design</h2>
-    <ul>
-    {% for project in sounddesign limit: 3 %}
-    <li class="mt-2"><a href="{{ project.url }}" title="Read the case study">{{ project.title }}</a></li>
-    {% endfor %}
-    </ul>
-    <p class="d-inline-block border border-3 rounded mt-4 px-3 py-2"><a class="text-uppercase" href="/work/sound-design/"><small>All sound designs →</small></a></p>
-  </section>
-  {% comment %}
-    *-------------------------
-    Latest original music
-    -------------------------*
-  {% endcomment %}
-  <section class="h-feed">
-    {%- assign originalmusic = site.music | reverse -%}
-    <h2>Original music</h2>
-    <ul>
-    {% for project in originalmusic limit: 3 %}
-    <li class="mt-2"><a href="{{ project.url }}" title="Read the case study">{{ project.title }}</a></li>
-    {% endfor %}
-    </ul>
-    <p class="d-inline-block border border-3 rounded mt-4 px-3 py-2"><a class="text-uppercase" href="/work/music/"><small>All original music →</small></a></p>
-  </section>
-  {% comment %}
-    *-------------------------
-    Latest productions
-    -------------------------*
-  {% endcomment %}
-  <section class="h-feed">
-    {%- assign musicproduction = site.music-production | reverse -%}
-    <h2>Music production</h2>
-    <ul>
-    {% for project in musicproduction limit: 3 %}
-    <li class="mt-2"><a href="{{ project.url }}" title="Read the case study">{{ project.title }}</a></li>
-    {% endfor %}
-    </ul>
-    <p class="d-inline-block border border-3 rounded mt-4 px-3 py-2"><a class="text-uppercase" href="/work/music-production/"><small>All music productions →</small></a></p>
-  </section>
+  <h2>Work highlights</h2>
+  <div class="text-center mt-4">
+    <a class="d-inline-block border border-2 rounded m2m-bg-alpha text-center my-3 mx-3 px-3 py-3" href="/work/sound-design/">
+      <img src="/assets/images/work-sound-design.gif" alt="Animated icon showing scenes from my sound design projects" width="140" height="140">
+      <span class="d-block text-center initialism mt-2"><strong>Sound Design</strong> →</span>
+    </a>
+    <a class="d-inline-block border border-2 rounded m2m-bg-alpha text-center my-3 mx-3 px-3 py-3" href="/work/music/">
+      <img src="/assets/images/work-music.gif" alt="Animated icon showing myself playing a bass guitar" width="140" height="140">
+      <span class="d-block text-center initialism mt-2"><strong>Original Music</strong> →</span>
+    </a>
+    <a class="d-inline-block border border-2 rounded m2m-bg-alpha text-center my-3 mx-3 px-3 py-3" href="/work/music-production/">
+      <img src="/assets/images/work-music-production.gif" alt="Animated icon showing me in the studio working on some production project" width="140" height="140">
+      <span class="d-block text-center initialism mt-2"><strong>Music production</strong> →</span>
+    </a>
+  </div>
 </div>

@@ -1,21 +1,27 @@
 ---
 layout: page
-title: 'Popular posts'
+title: 'Popular'
 date: '2022-02-08 18:06:49'
 last_modified_at: '2022-04-27 19:44:12'
 description: 'The 5 most popular posts based on private feedback, reactions on Mastodon and what search engines are reporting as search terms.'
 permalink: '/blog/popular/'
 ---
+{% assign popular = site.posts | where: "tags", "popular" %}
 <section class="h-feed my-5" id="blog-popular-posts">
-  {% assign popular = site.posts | where: "tags", "popular" %}
-    {%- for post in popular limit:5 -%}
-    {% if post %}
-    {% assign categories = post.categories %}
-    {% else %}
-    {% assign categories = page.categories %}
-    {% endif %}
-    <p>
-      <small><mark>{{ post.date | date: "%b %Y" }}</mark></small>&nbsp;<a class="p-name u-url ps-2" href="{{ post.url }}">{{ post.title }}&nbsp;→</a>
-    </p>
-    {%- endfor -%}
+  <table class="table table-borderless">
+    <thead class="visually-hidden">
+      <tr>
+        <th scope="col">Date</th>
+        <th scope="col">Post title</th>
+      </tr>
+    </thead>
+    <tbody>
+      {%- for post in popular limit:5 -%}
+      <tr>
+        <td class="m2m-post-feat_date"><small><mark class="border-radius">{{ post.date | date: "%-d&nbsp;%b&nbsp;%Y" }}</mark></small>&nbsp;&nbsp;</td>
+        <td><a href="{{ post.url }}" title="Read the post">{{ post.title }}</a></td>
+      </tr>
+      {% endfor -%}
+    </tbody>
+  </table>
 </section>

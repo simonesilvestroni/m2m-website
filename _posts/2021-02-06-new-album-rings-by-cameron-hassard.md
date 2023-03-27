@@ -3,15 +3,14 @@ title: 'New album ‘Rings’ by Cameron Hassard'
 date: '2021-02-06'
 last_modified_at: '2021-11-08 21:29:01'
 author: 'Simone Silvestroni'
-categories:
-  - 'Review'
 tags:
-  - bandcamp
-  - berlin
-  - cameron hassard
-  - famous gold watch studios
-  - indierepublik
-  - mark lanegan
+  - 'bandcamp'
+  - 'berlin'
+  - 'cameron hassard'
+  - 'famous gold watch studios'
+  - 'indierepublik'
+  - 'mark lanegan'
+  - 'review'
 description: "The debut album from Berlin-based recording artist and multi-instrumentalist Cameron Hassard."
 ---
 Saturday, time for some new music. I’ve been following the online magazine Indierepublik (formerly <em>Indie Berlin</em>) for a while now, way before they wrote a [really good review for _After 1989_]({{ site.url }}/work/music/after-1989/#reviews).

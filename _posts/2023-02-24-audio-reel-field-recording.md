@@ -3,12 +3,11 @@ title: 'Towards my audio reel: field recording'
 date: '2023-02-24 18:22:18'
 last_modified_at: '2023-02-24 18:22:21'
 author: 'Simone Silvestroni'
-categories: 
-  - 'Sound design'
 tags:
   - 'field recording'
   - 'audio reel'
   - 'sound effects'
+  - 'sound design'
   - 'zoom h5'
   - 'handheld recorder'
   - 'reaper'

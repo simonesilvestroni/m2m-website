@@ -4,7 +4,7 @@ menu:
     desc: 'Philosophy on design, privacy and software'
   - name: Archive
     link: /archive/
-    desc: 'Blog posts, case studies, tags and categories'
+    desc: 'Blog posts, case studies and tags'
   - name: RSS
     link: /rss/
     desc: 'RSS feeds'

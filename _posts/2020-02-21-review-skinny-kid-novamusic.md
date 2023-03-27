@@ -3,16 +3,14 @@ title: "Nova Music reviews ‘Skinny Kid’"
 date: '2020-02-21'
 last_modified_at: '2021-11-12 22:13:50'
 author: 'Simone Silvestroni'
-categories:
-  - 'Review'
 tags:
-  - concept album
-  - independent music
-  - reviews
-  - concentration camp
-  - sachsenhausen
-  - history
-  - world war ii
+  - 'concept album'
+  - 'independent music'
+  - 'review'
+  - 'concentration camp'
+  - 'sachsenhausen'
+  - 'history'
+  - 'world war ii'
 description: 'Stunning review by Nova Music Blog for ‘Skinny Kid’, the opening single from my debut album ‘After 1989’.'
 ---
 ## About Nova Music

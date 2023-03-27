@@ -3,12 +3,12 @@ title: 'Bandcamp is joining Epic Games'
 date: '2022-03-02'
 last_modified_at: '2022-03-02 18:32:24'
 author: 'Simone Silvestroni'
-categories: 
-  - 'Bandcamp'
 tags:
-  - epic games
-  - music distribution
-  - streaming
+  - 'bandcamp'
+  - 'epic games'
+  - 'music distribution'
+  - 'music industry'
+  - 'streaming'
 description: "Bandcamp CEO Ethan Diamond announces his company is joining Epic Games, the makers of Fortnite and Unreal Engine."
 ---
 I just got this email from Bandcamp, signed by its CEO Ethan Diamond:
