@@ -4,7 +4,7 @@
       {%- if page.previous.url %}{% unless page.previous.hidden -%}
       <a class="d-block" href="{{ page.previous.url }}">
         <div>
-          <span class="d-inline-block text-uppercase mb-2 px-2 py-1">← Previous</span>
+          <span class="d-inline-block text-uppercase mb-2 px-2 py-1">← Older</span>
         </div>
         <span class="h4 m2m-font-custom"><strong>{{ page.previous.title }}</strong></span>
       </a>
@@ -14,7 +14,7 @@
       {%- if page.next.url %}{% unless page.next.hidden -%}
       <a class="d-block" href="{{ page.next.url }}">
         <div>
-          <span class="d-inline-block text-uppercase mb-2 px-2 py-1">Next →</span>
+          <span class="d-inline-block text-uppercase mb-2 px-2 py-1">Newer →</span>
         </div>
         <span class="h4 m2m-font-custom"><strong>{{ page.next.title }}</strong></span>
       </a>
