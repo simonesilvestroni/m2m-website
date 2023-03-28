@@ -17,10 +17,10 @@ menu:
   - name: Free ebook
     link: /work/project-management/
     desc: 'A free ebook on how to efficiently manage a music project'
-  - name: Uses
+  - name: Equipment
     link: /uses/
     desc: 'Equipment I use'
-  - name: Colophon
+  - name: Website
     link: /colophon/
     desc: 'About this website'
   - name: Search

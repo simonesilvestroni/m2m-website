@@ -11,27 +11,21 @@ permalink: '/archive/'
 {%- assign musicproduction = site.posts | where_exp:'post','post.tags contains "music production" and post.tags contains "case study"' -%}
 <section class="h-feed">
   <h2 class="p-name" id="music-production">Sound design</h2>
-  <ul class="h-feed h-feed list-unstyled list-inline ps-0">
   {% for project in sounddesign %}
-    <li><a class="p-name u-url" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a></li>
-  {% endfor %}
-  </ul>
+  <p><a class="u-url" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a></p>
+  {% endfor %}  
 </section>
 <section class="h-feed">
   <h2 class="p-name" id="music">Original music</h2>
-  <ul class="h-feed h-feed list-unstyled list-inline ps-0">
   {% for project in originalmusic %}
-    <li><a class="p-name u-url" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a></li>
+  <p><a class="p-name u-url" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a></p>
   {% endfor %}
-  </ul>
 </section>
 <section class="h-feed">
   <h2 class="p-name" id="music-production">Music production</h2>
-  <ul class="h-feed h-feed list-unstyled list-inline ps-0">
   {% for project in musicproduction %}
-    <li><a class="p-name u-url" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a></li>
+  <p><a class="p-name u-url" href="{{ project.url }}" title="Read the case study '{{ project.title }}'">{{ project.title }}</a></p>
   {% endfor %}
-  </ul>
 </section>
 <section class="h-feed">
   <h2 class="p-name" id="blog">Blog</h2>
@@ -41,49 +35,24 @@ permalink: '/archive/'
   {%- if forloop.first -%}
   <div class="mb-5">
     <h3 id="{{ this_year }}-ref">{{ this_year }}</h3>
-    <table class="h-feed m2m-table-archive table table-borderless">
-      <thead class="visually-hidden">
-        <tr>
-          <th scope="col">Date</th>
-          <th scope="col">Post title</th>
-        </tr>
-      </thead>
-      <tbody>
   {%- endif -%}
-      <tr>
-        <td class="m2m-post-feat_date"><small><mark class="border-radius">{{ post.date | date: "%-d&nbsp;%b" }}</mark></small>&nbsp;&nbsp;</td>
-        <td><a href="{{ post.url }}" title="Read the post">{{ post.title }}</a></td>
-      </tr>
+    <p><small><mark class="border-radius">{{ post.date | date: "%-d&nbsp;%b" }}</mark></small>&nbsp;&nbsp;<a href="{{ post.url }}" title="Read the post">{{ post.title }}</a></p>
   {%- if forloop.last -%}
-    </table>
   </div>
 </section>
   {%- else -%}
   {%- if this_year != next_year -%}
-  </table>
 </div>
 <div class="mb-5">
   <h3 id="{{ next_year }}-ref">{{ next_year }}</h3>
-  <table class="h-feed m2m-table-archive table table-borderless">
-    <thead class="visually-hidden">
-      <tr>
-        <th scope="col">Date</th>
-        <th scope="col">Post title</th>
-      </tr>
-    </thead>
-    <tbody>
   {%- endif -%}
   {%- endif -%}
   {%- endfor -%}
 <section class="h-feed">
   <h2 class="p-name" id="blog-tags">Tags</h2>
-  <ol class="h-feed list-unstyled list-inline ps-0">
   {%- assign sorted_tags = site.tags | sort -%}
   {%- for tag in sorted_tags -%}
   {%- assign t = tag | first -%}
-    <li class="list-inline-item me-3 my-3">
-      <a class="p-name u-url text-decoration-none" href="/blog/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><span class="rounded border border-3 bg-light py-2 px-3">{{ t | upcase }}</span></a>
-    </li>
+  <p><a class="p-name u-url" href="/blog/tag/{{ t | slugify }}/" title="Go to the archive page for: {{ t }}"><span>{{ t | upcase | prepend:'#' }}</span></a>&nbsp;&nbsp;</p>
   {%- endfor -%}
-  </ol>
 </section>

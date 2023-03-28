@@ -10,20 +10,10 @@ last_modified_at: '2022-08-19 10:36:28'
     -------------------------*
   {% endcomment %}
   <section class="h-feed">
-    <table class="table m2m-table-archive table-borderless">
-      <thead class="visually-hidden">
-        <tr>
-          <th scope="col">Date</th>
-          <th scope="col">Post title</th>
-        </tr>
-      </thead>
-      <tbody>
-        {%- for post in site.posts limit: 6 -%}
-        <tr>
-          <td class="m2m-post-feat_date"><small><mark class="border-radius">{{ post.date | date: "%-d&nbsp;%b&nbsp;’%y" }}</mark></small>&nbsp;&nbsp;</td>
-          <td><a href="{{ post.url }}" title="Read the post">{{ post.title }}</a></td>
-        </tr>
-        {% endfor -%}
-      </tbody>
-    </table>
+      {%- for post in site.posts limit: 6 -%}
+      <p>
+        <small><mark class="border-radius">{{ post.date | date: "%d&nbsp;%b&nbsp;’%y" }}</mark></small>&nbsp;&nbsp;<a href="{{ post.url }}" title="Read the post">{{ post.title }}</a>
+      </p>
+      {% endfor -%}
   </section>
+</div>

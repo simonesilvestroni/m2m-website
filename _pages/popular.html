@@ -8,20 +8,8 @@ permalink: '/blog/popular/'
 ---
 {% assign popular = site.posts | where: "tags", "popular" %}
 <section class="h-feed my-5" id="blog-popular-posts">
-  <table class="table table-borderless">
-    <thead class="visually-hidden">
-      <tr>
-        <th scope="col">Date</th>
-        <th scope="col">Post title</th>
-      </tr>
-    </thead>
-    <tbody>
-      {%- for post in popular limit:5 -%}
-      <tr>
-        <td class="m2m-post-feat_date"><small><mark class="border-radius">{{ post.date | date: "%-d&nbsp;%b&nbsp;%Y" }}</mark></small>&nbsp;&nbsp;</td>
-        <td><a href="{{ post.url }}" title="Read the post">{{ post.title }}</a></td>
-      </tr>
-      {% endfor -%}
-    </tbody>
-  </table>
-</section>
+{%- for post in popular limit:5 -%}
+<p>
+  <small><mark class="border-radius">{{ post.date | date: "%-d&nbsp;%b&nbsp;’%y" }}</mark></small>&nbsp;&nbsp;<a href="{{ post.url }}" title="Read the post">{{ post.title }}</a>
+</p>
+{% endfor -%}
