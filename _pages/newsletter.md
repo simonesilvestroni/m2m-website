@@ -20,7 +20,7 @@ permalink: '/newsletter/'
   <tbody>
     {% for post in site.newsletter reversed %}
     <tr>
-      <td class="m2m-post-feat_date"><small><mark class="border-radius">{{ post.date | date: "%-d&nbsp;%b&nbsp;%Y" }}</mark>&nbsp;&nbsp;</small></td>
+      <td class="m2m-post-feat_date"><small><mark class="border-radius">{{ post.date | date: "%-d&nbsp;%b&nbsp;’%y" }}</mark>&nbsp;&nbsp;</small></td>
       <td><a href="{{ post.url }}">{{ post.title }}</a></td>
     </tr>
     {% endfor %}
