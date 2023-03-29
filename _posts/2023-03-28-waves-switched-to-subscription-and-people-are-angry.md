@@ -79,4 +79,8 @@ I don’t actually give a shit about large corporations and I’m not a fanboy. 
 
 I’ll leave with this:
 
-{% include pattern-video.html id="5VEVklK_a1U" %}
+{% include pattern-video.html id="SWF85nOOTD8" %}
+
+## Edit: Waves performed a U-turn
+
+[As expected](https://www.waves.com/news/perpetual-waves-licenses-are-back).
