@@ -6,7 +6,7 @@ last_modified_at: '2022-05-09 12:22:01'
 description: 'The best way to follow my posts is by subscribing to the RSS feed (latest 20 posts) by copying the URL into your news reader.'
 permalink: '/rss/'
 ---
-I have an RSS feed for <a href="/feed.xml">blog and case studies</a> and another for the <a href="/newsletter.xml">newsletter</a>.
+I have an RSS feed for <a href="/feed.xml">the blog</a> and another for <a href="/newsletter.xml">the newsletter</a>.
 
 ## What is RSS?
 
