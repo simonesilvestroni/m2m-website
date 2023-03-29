@@ -9,7 +9,7 @@ permalink: '/colophon/'
 ## Tech
 
 Build
-: [Jekyll v4.2.2 ↗](https://jekyllrb.com/) featuring the Ruby gems `jekyll-sitemap`, `jekyll-archives` and `jekyll-responsive-image`
+: [Jekyll v4.2.2 ↗](https://jekyllrb.com/) featuring the Ruby gems `jekyll-sitemap` and `jekyll-archives`
 : Bash
 : [Apple Shortcuts ↗](https://simonesilvestroni.com/blog/automation-for-my-blog-publishing-workflow/)
 

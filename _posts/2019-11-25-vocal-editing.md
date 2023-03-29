@@ -12,21 +12,18 @@ tags:
   - "reaper"
   - "pro tools"
   - "logic pro"
-  - "iZotope RX"
+  - "izotope rx"
   - "Soundtoys"
   - "case study"
 description: "Taking a vocal performance from a song to another morphing pitch, formants and tempo; noise removal and cleaning up historical speeches."
-image: true
-image-caption: true
+featimage: true
+featimage-name: 'vocal-editing.jpg'
+featimage-alt: Rachel Goodman singing in front of a microphone
+featimage-caption: Rachel Goodman, who performed on my debut album
+featimage-width: 600
+featimage-height: 600
 permalink: /work/sound-design/vocal-editing/
 ---
-{% responsive_image_block %}
-  path: assets/images/vocal-editing.jpg
-  alt: Rachel Goodman singing in front of a microphone
-  caption-true: {{ page.image-caption }}
-  caption: Rachel Goodman, who <a href="/work/music/after-1989/">performed on my debut album</a>
-{% endresponsive_image_block %}
-
 ## Vocal transformation
 
 After the [demo stage of my album]({{ site.url }}/work/music/after-1989-demos/) _After 1989_, I scrapped a song called _Niemandsland_, featuring a marvellous vocal performance by Rachel Goodman. Since the lyrics were critical for the concept, I repurposed them for the new lead single _Skinny Kid_. 

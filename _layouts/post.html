@@ -1,14 +1,18 @@
 ---
 layout: default
 ---
-{%- if page.featimage == true %}
-  {% responsive_image_block %}
-    path: assets/images/{{ page.featimage-name }}
-    alt: {{ page.featimage-alt }}
-    caption-true: {{ page.image-caption }}
-    caption: {{ page.caption }}
-  {% endresponsive_image_block %}
-{% endif -%}
+{% unless page.thumbOnly == true %}
+{% if page.featimage == true %}
+<figure class="my-5 text-center">
+  <picture>
+    <source srcset="{{ site.url }}/assets/images/{{ page.featimage-name | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }}" type="image/webp">
+    <source srcset="/assets/images/{{ page.featimage-name }}" {% if page.featimage-name contains '.jpg' or include.image contains '.jpeg' %}type="image/jpeg"{% elsif page.featimage-name contains '.png' %}type="image/png"{% endif %}>
+    <img class="mx-auto" src="{{ site.url }}/assets/images/{{ page.featimage-name }}" alt="{{ page.featimage-alt }}" {{ page.featimage-width | prepend: 'width="' | append: '"' }} {{ page.featimage-height | prepend: 'height="' | append: '"' }}>
+  </picture>
+  <figcaption class="p-name mt-3 caption">{{ page.featimage-caption }}</figcaption>
+</figure>
+{% endif %}
+{% endunless %}
 {%- if page.mention == true %}
 <div class="m2m-bg-alpha rounded-3 p-3 mb-5">
   <span>{% if page.mentionType == 'like' %} 🧡 A like of {% elsif page.mentionType == 'repost' %} 🔄 A repost of {% elsif page.mentionType == 'reply' %} ↪️ In reply to {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></span>

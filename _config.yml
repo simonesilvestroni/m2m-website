@@ -112,29 +112,11 @@ jekyll-archives:
 excerpt_separator: <!--more-->
 
 # -------------------
-# Responsive images
-# -------------------
-responsive_image:
-  template: _includes/pattern-responsive-image.html
-  sizes:
-    - width: 576
-      quality: 80
-    - width: 768
-      quality: 80
-    - width: 992
-      quality: 80
-    - width: 1200
-      quality: 85
-  strip: true
-  output_path_format: assets/images/responsive/%{width}/%{basename}
-
-# -------------------
 # Plugins
 # -------------------
 plugins:
   - jekyll-sitemap
   - jekyll-archives
-  - jekyll-responsive-image
 
 # -------------------
 # Work endorsements

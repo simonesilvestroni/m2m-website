@@ -19,14 +19,10 @@ tags:
   - "mastering"
   - "case study"
 description: 'A collection of productions released through the years that don’t have a full-fledged case study.'
-image: true
+featimage: true
+thumbOnly: true
 permalink: /work/music-production/minutes-to-midnight-productions/
 ---
-{% responsive_image_block %}
-  path: assets/images/minutes-to-midnight-productions-2017-2022.jpg
-  alt: A collection of music covers from music productions 2017-2022
-{% endresponsive_image_block %}
-
 ## The Eclipse, single by Antiquity 🇺🇸
 
 {: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}

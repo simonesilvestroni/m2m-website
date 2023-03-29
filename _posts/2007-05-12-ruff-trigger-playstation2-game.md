@@ -21,14 +21,13 @@ tags:
   - "alienbrain"
   - "case study"
 description: "As audio team leader for 5 years I created soundtrack and sound effects, bootstrapping design and development for the Playstation2 game ‘Ruff Trigger’."
-image: true
+featimage: true
+featimage-name: 'ruff-trigger-playstation2-game.jpg'
+featimage-alt: Ruff Trigger game cover
+featimage-width: 600
+featimage-height: 600
 permalink: /work/sound-design/ruff-trigger-playstation2-game/
 ---
-{% responsive_image_block %}
-  path: assets/images/ruff-trigger-playstation2-game.jpg
-  alt: Ruff Trigger game cover
-{% endresponsive_image_block %}
-
 ## How I got into game audio
 
 In January 2000 a company called Playstos Entertainment offered me a job as a web developer. A web designer himself, one of Playstos' co-founders was looking for someone who understood both aspects, creative and technical.

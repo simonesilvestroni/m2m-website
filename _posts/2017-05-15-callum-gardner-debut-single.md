@@ -16,14 +16,13 @@ tags:
   - 'mastering'
   - "case study"
 description: "After meeting London-based singer-songwriter Callum Gardner, we got to know each other and started producing his debut single."
-image: true
+featimage: true
+featimage-name: 'producing-commit-to-the-list-by-callum-gardner.jpg'
+featimage-alt: Cover for the single Commit to the List
+featimage-width: 600
+featimage-height: 600
 permalink: /work/music-production/callum-gardner-debut-single/
 ---
-{% responsive_image_block %}
-  path: assets/images/producing-commit-to-the-list-by-callum-gardner.jpg
-  alt: Cover for the single Commit to the List
-{% endresponsive_image_block %}
-
 ## Stream from Spotify
 
 {% include pattern-spotify.html id="4e2PTyfPfvw9WunM9nG0nT" height="80" %}

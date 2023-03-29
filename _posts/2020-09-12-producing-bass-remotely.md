@@ -15,7 +15,11 @@ tags:
   - 'logic pro x'
   - 'case study'
 description: "Exposing the process for producing effective bass tracks for the New York-based band Antiquity."
-image: true
+featimage: true
+featimage-name: 'producing-bass-remotely.jpg'
+featimage-alt: Simone Silvestroni in the studio, recording bass
+featimage-width: 600
+featimage-height: 600
 canonical: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'
 syndication: true
 syndicate:
@@ -24,11 +28,6 @@ syndicate:
 sitemap: false
 permalink: /work/music-production/producing-bass-remotely/
 ---
-{% responsive_image_block %}
-  path: assets/images/producing-bass-remotely.jpg
-  alt: Simone Silvestroni (Minutes to Midnight) in the studio recording bass
-{% endresponsive_image_block %}
-
 The following analysis was written in June 2020, based on my work for [Antiquity](https://antiquity-music.com/) and their single _The Far Side Of The Sun_. They are based in New York, while I had been living in the UK at the time.
 
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
