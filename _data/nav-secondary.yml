@@ -1,7 +1,7 @@
 menu:
   - name: Ethics
     link: /ethics/
-    desc: 'Philosophy on design, privacy and software'
+    desc: 'A manifesto'
   - name: Archive
     link: /archive/
     desc: 'Blog posts, case studies and tags'
