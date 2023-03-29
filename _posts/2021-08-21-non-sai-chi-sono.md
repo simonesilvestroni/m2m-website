@@ -15,10 +15,13 @@ tags:
   - "mastering"
   - "pro tools"
 description: "Before the pandemic struck, I collaborated on producing a remix of a song written by my old friend and collaborator Gianluca Lo Presti."
-image: true
+featimage: true
+thumbOnly: true
 permalink: /work/music/non-sai-chi-sono/
 ---
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2164870187/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/track/non-sai-chi-sono-remix">Non sai chi sono (remix) by Minutes to Midnight</a></iframe>' %}
+## Bandcamp
+
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2164870187/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/track/non-sai-chi-sono-remix">Non sai chi sono (remix) by Minutes to Midnight</a></iframe>' %}
 
 ## Backstory
 
@@ -89,4 +92,4 @@ Mixed and mastered by Simone Silvestroni.
 The copyright of the sound recording (master) owned by Simone Silvestroni and Emilio Albertoni. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.
 
 {: .detached }
-<mark class="m2m-highlight small">Released <strong>28 June 2021</strong>.</mark>
+Released <strong>28 June 2021</strong>.

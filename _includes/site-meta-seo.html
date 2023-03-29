@@ -6,7 +6,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="{{ site.title }}" />
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-<meta property="og:image" content="{% if page.featimage %}{{ site.url }}{{ page.featimage-url }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
+<meta property="og:image" content="{% if page.featimage == true %}{{ site.url }}/assets/images/{{ page.featimage-name }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
 <!-- Schema -->
 <script type="application/ld+json">
 {
@@ -36,12 +36,12 @@
     "@type": "WebPage",
     "@id": "{{ site.url }}{{ page.url }}"
   },
-  {%- if page.featimage %}
+  {% if page.featimage == true %}
   "image": {
     "@type": "ImageObject",
     "width": "1024",
     "height": "765",
-    "url": "{{ site.url }}{{ page.featimage-url }}"
+    "url": "{{ site.url }}/assets/images/{{ page.featimage-name }}"
   },
   {%- else %}
   "image": {
@@ -53,10 +53,10 @@
   {%- endif %}
   "sameAs": [
     "https://indieweb.social/@m2m",
-    "https://www.linkedin.com/in/simonesilvestroni/",
-    "https://github.com/simonesilvestroni/",
     "https://minutestomidnight.bandcamp.com/",
     "https://www.youtube.com/@m2m"
+    "https://github.com/simonesilvestroni/",
+    "https://www.linkedin.com/in/simonesilvestroni/",
   ]
 }
 </script>

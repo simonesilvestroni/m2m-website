@@ -14,7 +14,11 @@ tags:
   - "post-production"
   - "case study"
 description: "During the pandemic I worked for the Paris-based animation agency Amuse on their acclaimed show ‘Tom the Tow Truck’, part of a series called Car City."
-image: true
+featimage: true
+featimage-name: 'car-city-cartoon.jpg'
+featimage-alt: Logic session for a Car City cartoon episode
+featimage-width: 1024
+featimage-height: 604
 permalink: /work/sound-design/car-city-cartoon/
 ---
 ## Cartoon series episodes

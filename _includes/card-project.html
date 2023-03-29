@@ -1,6 +1,6 @@
 <div class="row gx-0 d-flex align-items-start my-5 pb-3">
   <div class="col-12 col-md-4 d-flex justify-content-center justify-content-md-start">
-    {%- if project.image == true -%}
+    {%- if project.featimage == true -%}
     <a href="{{ project.url }}">
       <picture class="mx-auto ms-md-0">
         <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".webp" }}" type="image/webp">

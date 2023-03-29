@@ -11,8 +11,10 @@ tags:
 description: 'I bought a new pair of exceptional open-back headphones by Ollo Audio, the S4X model. Here’s a quick review.'
 featimage: true
 featimage-name: 'ollo-s4x.jpg'
-featimage-url: '/assets/images/ollo-s4x.jpg'
-featimage-alt: 'Ollo S4X headphones'
+featimage-alt: Ollo S4X headphones
+featimage-caption: Ollo S4X headphones
+featimage-width: 1005
+featimage-height: 892
 ---
 Four days ago another producer brought to my attention a fantastic 24-hours-only 40% discount on the S4X reference headphones by Ollo Audio. I bought them. Several months ago, after reading a tempting professional review of the same model, I opted out because I had different priorities and deemed them unaffordable. 
 

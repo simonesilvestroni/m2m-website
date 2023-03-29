@@ -12,7 +12,8 @@ tags:
   - "project management"
   - "case study"
 description: "How I co-produced ‘Premonition and Ruin’, a superb concept album by Ember Rev around a lament for the European ideal."
-image: true
+featimage: true
+thumbOnly: true
 permalink: /work/music-production/premonition-and-ruin/
 ---
 {% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 350px; height: 654px;" src="https://bandcamp.com/EmbeddedPlayer/album=4041862783/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="https://emberrev.bandcamp.com/album/premonition-and-ruin">Premonition and Ruin by Ember Rev</a></iframe>' %}

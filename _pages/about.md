@@ -3,28 +3,31 @@ layout: page
 title: 'About'
 date: '2022-01-14'
 last_modified_at: '2023-02-03 16:27:19'
-description: 'Minutes to Midnight is the outlet of digital polymath Simone Silvestroni, providing an array of audio production services.'
+description: 'I’m Simone Silvestroni, a digital polymath providing an array of audio production services since the 1990s.'
+featimage: true
+featimage-name: 'simone-silvestroni-warwick-bass.jpg'
+featimage-alt: Simone Silvestroni in Cambridge, standing, with the Warwick Thumb Bass
+featimage-caption: Photo by Silvia Maggi, Cambridge (UK) 2019
+featimage-width: 720
+featimage-height: 960
+permalink: '/work/project-management/'
 permalink: '/about/'
 ---
-## I'm Simone Silvestroni 👋
-
-A graduated musician, sound designer and producer since the 1990s, I founded Minutes to Midnight in Cambridge (UK) in 2017. Besides releasing original music, I've been providing services such as mix, mastering and sound design.
-
-{% include pattern-figure.html image="/assets/images/simone-silvestroni-warwick-bass.jpg" alt="Simone Silvestroni in Cambridge, standing, with the Warwick Thumb Bass" caption="Standing with a Warwick Thumb Bass in Cambridge (UK) - Photo by Silvia Maggi" width="1600" height="1066" %}
+A graduated musician, sound designer and producer, in 2017 I founded Minutes to Midnight in Cambridge (UK). Besides releasing original music, I've been working as a sound designer, bass player and producer, from recording to the final mix.
 
 ### Beginnings
 
-I started as a professional [bass player](https://soundbetter.com/profiles/206552-simone-silvestroni){:target="_blank"} both in the studio and live after graduating at the CPM music institute in Milan. Following a 6-year stint in music studios acquiring production skills during the 90s, I landed a [game audio designer]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/) role in 2000. While leading the audio team, I started my first blog, journaling about working long hours on a console video game while playing *Ico* during pauses.
+I started as a professional [bass player](https://soundbetter.com/profiles/206552-simone-silvestroni){:target="_blank"} both in the studio and live after graduating at the CPM music institute in Milan. Following a 6-year stint in music studios acquiring audio skills during the 90s, I landed a [game audio designer]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/) role in 2000. While leading the audio team, I started my first blog, journaling about working long hours on a console video game while playing *Ico* during pauses.
 
-### Main skills
+### Other skills
 
-As a music producer, I can handle the process from tracking to mastering, with mixing as my preferred stage. As a sound designer, I enjoy field recording and Foley and see game audio as the ultimate audio-visual narrative medium.
+As a sound designer, I enjoy field recording and Foley and see game audio as the ultimate audio-visual narrative medium.
 
 Apple certified for Logic Pro X, [I transitioned to Pro Tools and later REAPER](/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/).
 
 ### Collaborations
 
-After moving from Italy to the UK in 2011 and graduating at Berklee in music production and audio mastering, I've been working with local and overseas artists such as Gerald Duchene, Dan Ecclestone, Rachel Goodman, Ember Rev, Mally Harpaz, Ciara Clifford and Callum Gardner.
+After graduating at Berklee in music production and audio mastering, I've been working with UK-based and overseas artists such as Gerald Duchene, Dan Ecclestone, Rachel Goodman, Ember Rev, Mally Harpaz (Anna Calvi), Ciara Clifford and Callum Gardner.
 
 As a mixer, I’ve often worked with renowned master engineer [Ian Shepherd](https://productionadvice.co.uk/about/).
 

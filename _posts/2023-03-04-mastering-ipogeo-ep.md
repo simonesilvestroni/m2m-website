@@ -13,7 +13,8 @@ tags:
   - "stem mastering"
   - "case study"
 description: "I mastered the debut EP for IsadoraD, a project by Italian multi-instrumentalists and composers Emilio Albertoni and Bruno Valeri. A blend of electronica, pop and indie."
-image: true
+featimage: true
+thumbOnly: true
 permalink: /work/music-production/mastering-ipogeo-ep/
 ---
 {% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe style="border: 0; width: 350px; height: 555px;" src="https://bandcamp.com/EmbeddedPlayer/album=3556110038/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="https://isadorad.bandcamp.com/album/ipogeo">Ipogeo by IsadoraD</a></iframe>' %}

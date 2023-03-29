@@ -14,10 +14,16 @@ tags:
   - "mastering"
   - "reaper"
 description: "An autobiographical rumination about migration in Europe during a time of populism. In collaboration with Antiquity."
-image: true
+featimage: true
+featimage-name: 'the-die-is-cast.jpg'
+featimage-alt: Cover for the EP ‘The Die Is Cast’
+featimage-width: 600
+featimage-height: 600
 permalink: /work/music/the-die-is-cast/
 ---
-{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe style="border: 0; width: 350px; height: 522px;" src="https://bandcamp.com/EmbeddedPlayer/album=367059768/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/the-die-is-cast-ep">The Die Is Cast (EP) by Minutes to Midnight + Antiquity</a></iframe>' %}
+## Bandcamp
+
+{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=367059768/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/the-die-is-cast-ep">The Die Is Cast (EP) by Minutes to Midnight + Antiquity</a></iframe>' %}
 
 ## Backstory
 

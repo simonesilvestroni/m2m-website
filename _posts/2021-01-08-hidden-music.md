@@ -12,7 +12,8 @@ tags:
   - "project management"
   - "case study"
 description: "A delicate 6-songs album, ‘Hidden Music’ is another successful collaboration with Cambridge-based multi-instrumentalist Dan Ecclestone."
-image: true
+featimage: true
+thumbOnly: true
 permalink: /work/music-production/hidden-music/
 ---
 {% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 350px; height: 654px;" src="https://bandcamp.com/EmbeddedPlayer/album=3656047790/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="https://danecclestone.bandcamp.com/album/hidden-music">Hidden Music by Dan Ecclestone</a></iframe>' %}
