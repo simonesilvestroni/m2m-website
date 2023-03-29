@@ -5,7 +5,18 @@ date: '2021-11-06 14:11:45'
 last_modified_at: '2022-03-19 16:15:21'
 description: 'I’ve been running a blog since March 2002. This version is focused on sound design, music production, video games and some personal reflections.'
 ---
-<p>There are <strong>{{ site.posts | size }} posts</strong> so far. Check out the <a href="/blog/popular/">5 most popular</a>, browse the <a href="/archive/">archive</a> or <a href="/search/">search</a>.</p>
+<p class="mb-4">There are <strong>{{ site.posts | size }} posts</strong> so far. Browse through the <a href="/archive/">archive</a> or <a href="/search/">search</a>.</p>
+
+{% assign popular = site.posts | where: "tags", "popular" %}
+<section class="h-feed border border-3 rounded px-4 py-3" id="blog-popular-posts">
+  <h3 class="mt-0">The 3 most popular posts</h3>
+  {%- for post in popular limit:3 -%}
+  <p{% if forloop.last %} class="mb-0"{% endif %}>
+    <small><mark class="border-radius">{{ post.date | date: "%-d&nbsp;%b&nbsp;’%y" }}</mark></small>&nbsp;&nbsp;<a href="{{ post.url }}" title="Read the post">{{ post.title }}</a>
+  </p>
+  {% endfor -%}
+</section>
+
 <section class="h-feed mt-5" id="blog-all-posts">
   <h2 class="p-name visually-hidden text-center text-uppercase">All the posts</h2>
   {%- for post in site.posts %}
