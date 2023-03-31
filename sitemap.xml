@@ -1,0 +1,29 @@
+---
+layout: none
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- assign blog = site.documents | where:"layout", "post" | sort: 'date' | reverse %}
+{%- for post in blog %}
+  <url>
+    <loc>{{ site.url }}{{ post.url }}</loc>
+    <lastmod>{{ post.last_modified_at | date_to_xmlschema }}</lastmod>
+  </url>
+  {%- endfor -%}
+  {%- assign pages = site.pages | where:"layout", "page" %}
+  {%- for page in pages %}
+  {%- unless page.sitemap == false %}
+  <url>
+    <loc>{{ site.url }}{{ page.url }}</loc>
+    <lastmod>{{ page.last_modified_at | date_to_xmlschema }}</lastmod>
+  </url>
+  {%- endunless -%}
+  {% endfor -%}
+  {% assign sorted_tags = site.tags | sort %}
+  {%- for tag in sorted_tags -%}
+  {%- assign t = tag | first %}
+  <url>
+    <loc>{{ site.url }}/blog/tag/{{ t | slugify }}/</loc>
+  </url>
+  {%- endfor %}
+</urlset>

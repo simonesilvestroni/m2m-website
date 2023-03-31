@@ -1,0 +1,6 @@
+---
+layout: none
+---
+User-Agent: ChatGPT-User
+Disallow: *
+Sitemap: {{ site.url}}/sitemap.xml
