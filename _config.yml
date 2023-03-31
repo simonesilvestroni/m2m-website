@@ -93,7 +93,7 @@ defaults:
 collections:
   newsletter:
     output: true
-    permalink: /newsletter/archive/:path/
+    permalink: /newsletter/archives/:path/
   notes:
     output: true
     permalink: /notes/:path/
