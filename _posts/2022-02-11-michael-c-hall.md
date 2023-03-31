@@ -1,6 +1,7 @@
 ---
 title: 'Michael C. Hall’s new band'
 date: '2022-02-11'
+last_modified_at: '2022-02-11 17:21:39' 
 author: 'Simone Silvestroni'
 tags:
   - 'music release'
