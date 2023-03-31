@@ -115,7 +115,6 @@ excerpt_separator: <!--more-->
 # Plugins
 # -------------------
 plugins:
-  - jekyll-sitemap
   - jekyll-archives
 
 # -------------------
