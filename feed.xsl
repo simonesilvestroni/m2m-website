@@ -28,7 +28,7 @@
           </div>
         </header>
         <main>
-          <h2>Recent posts</h2>
+          <h2>Latest 20 posts</h2>
           <xsl:for-each select="/rss/channel/item">
             <article>
               <h3><a hreflang="en"><xsl:attribute name="href"><xsl:value-of select="link"/></xsl:attribute><xsl:value-of select="title"/></a></h3>

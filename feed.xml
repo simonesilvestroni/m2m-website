@@ -9,12 +9,10 @@ layout: none
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}</link>
     <language>{{ site.lang }}</language>
-    <copyright>{{ site.url }}/about/#copyright</copyright>
+    <copyright>{{ site.url }}/colophon/#copyright</copyright>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-    {% assign projects = site.documents | where:"layout", "project" %}
-    {% assign blog = site.documents | where:"layout", "post" %}
-    {% assign posts = projects | concat: blog | sort: 'date' | reverse %}
-    {% for post in posts limit:site.posts_limit %}
+    {% assign blog = site.documents | where:"layout", "post" | sort: 'date' | reverse %}
+    {% for post in blog limit:site.posts_limit %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <author>{{ site.author.email }} ({{ site.author.name }})</author>
