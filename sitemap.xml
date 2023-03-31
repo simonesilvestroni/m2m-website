@@ -6,7 +6,7 @@ layout: none
 {%- assign blog = site.documents | where:"layout", "post" | sort: 'date' | reverse %}
 {%- for post in blog %}
   <url>
-    <loc>{{ site.url }}{{ post.url }}</loc>
+    <loc title='{{ post.title }}'>{{ site.url }}{{ post.url }}</loc>
     <lastmod>{{ post.last_modified_at | date_to_xmlschema }}</lastmod>
   </url>
   {%- endfor -%}
