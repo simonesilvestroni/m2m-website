@@ -2,9 +2,6 @@ menu:
   - name: Ethics
     link: /ethics/
     desc: 'A manifesto'
-  - name: Archive
-    link: /archive/
-    desc: 'Blog posts, case studies and tags'
   - name: RSS
     link: /rss/
     desc: 'RSS feeds'
@@ -26,3 +23,6 @@ menu:
   - name: Search
     link: /search/
     desc: 'Search for anything'
+  - name: Sitemap
+    link: /sitemap/
+    desc: 'A full sitemap of the website'

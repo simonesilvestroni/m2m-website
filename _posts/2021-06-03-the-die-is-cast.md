@@ -13,6 +13,7 @@ tags:
   - "mixing"
   - "mastering"
   - "reaper"
+  - "case study"
 description: "An autobiographical rumination about migration in Europe during a time of populism. In collaboration with Antiquity."
 featimage: true
 featimage-name: 'the-die-is-cast.jpg'

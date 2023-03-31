@@ -1,0 +1,44 @@
+---
+layout: page
+title: Sitemap
+date: '2023-03-31 12:22:58'
+last_modified_at: '2023-03-31 12:23:01'
+description: 'A full map for the website, including blog posts, case studies, pages and tags.'
+permalink: '/sitemap/'
+---
+<h2>Posts</h2>
+{%- assign blog = site.documents | where:"layout", "post" | sort: 'date' | reverse %}
+{%- for post in blog %}
+<ul>
+  <li>
+    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;<mark>CASE STUDY</mark>{% endif %}<br>
+    <span><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time></span>
+  </li>
+</ul>
+{%- endfor -%}
+
+<h2>Pages</h2>
+{%- assign pages = site.pages | where:"layout", "page" | sort: 'title' %}
+{%- for page in pages %}
+{%- unless page.sitemap == false %}
+<ul>
+  <li>
+    <a href="{{ site.url }}{{ page.url }}"><strong>{{ page.title }}</strong></a><br>
+    {% unless page.title == 'Sitemap' %}
+    <span>Updated <time>{{ page.last_modified_at | date: "%-d %B %Y" }}</time></span>
+    {% endunless %}
+  </li>
+</ul>
+{%- endunless -%}
+{% endfor -%}
+
+<h2>Tags</h2>
+{% assign sorted_tags = site.tags | sort %}
+{%- for tag in sorted_tags -%}
+{%- assign t = tag | first %}
+<ul>
+  <li>
+    <a href="{{ site.url }}/blog/tag/{{ t | slugify }}/">{{ t | upcase | prepend: '#' }}</a>
+  </li>
+</ul>
+{%- endfor %}

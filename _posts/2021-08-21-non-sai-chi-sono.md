@@ -14,6 +14,7 @@ tags:
   - "mixing"
   - "mastering"
   - "pro tools"
+  - "case study"
 description: "Before the pandemic struck, I collaborated on producing a remix of a song written by my old friend and collaborator Gianluca Lo Presti."
 featimage: true
 thumbOnly: true
