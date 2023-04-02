@@ -44,9 +44,13 @@ There are four main tabs in the left sidebar.
 | <kbd>Folders</kbd>   | Mimics the folder structure of the imported files. If your local libraries are well organized, this would make for a familiar navigation. |
 | <kbd>Audio</kbd>     | Lists the catalogue by audio features, such as sample rate and more. |
 
-{% include pattern-figure-cols.html image1="/assets/images/explorer-sidebar-category.png" alt1="Explorer sidebar: category tab" width1="290" height1="556" image2="/assets/images/explorer-sidebar-playlist.png" alt2="Explorer sidebar: playlist tab" width2="290" height2="556" caption="Explorer organization tabs: category and playlist" %}
+{% include pattern-figure.html image="/assets/images/explorer-sidebar-category.png" alt="Explorer sidebar: category tab" width="290" height="556" %}
 
-{% include pattern-figure-cols.html image1="/assets/images/explorer-sidebar-folder.png" alt1="Explorer sidebar: folder tab" width1="290" height1="556" image2="/assets/images/explorer-sidebar-audio.png" alt2="Explorer sidebar: audio tab" width2="290" height2="556" caption="Explorer organization tabs: folder and audio" %}
+{% include pattern-figure.html image="/assets/images/explorer-sidebar-playlist.png" alt="Explorer sidebar: playlist tab" caption="Explorer organization tabs: category and playlist" width="290" height="556" %}
+
+{% include pattern-figure.html image="/assets/images/explorer-sidebar-folder.png" alt="Explorer sidebar: folder tab" width1="290" height1="556" %}
+
+{% include pattern-figure.html image="/assets/images/explorer-sidebar-audio.png" alt="Explorer sidebar: audio tab" width="290" height="556" caption="Explorer organization tabs: folder and audio" %}
 
 ### Search
 

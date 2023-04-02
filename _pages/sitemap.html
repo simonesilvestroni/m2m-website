@@ -11,7 +11,7 @@ permalink: '/sitemap/'
 {%- for post in blog %}
 <ul>
   <li>
-    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;<mark>CASE STUDY</mark>{% endif %}<br>
+    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;<mark>CASE STUDY</mark>{% endif %}{% if post.tags contains "popular" %}&nbsp;<mark>POPULAR</mark>{% endif %}<br>
     <span><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time></span>
   </li>
 </ul>

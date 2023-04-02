@@ -1,20 +1,17 @@
-<div class="row gx-0 d-flex align-items-start my-5 pb-3">
-  <div class="col-12 col-md-4 d-flex justify-content-center justify-content-md-start">
-    {%- if project.featimage == true -%}
-    <a href="{{ project.url }}">
-      <picture class="mx-auto ms-md-0">
-        <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".webp" }}" type="image/webp">
-        <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" type="image/jpeg">
-        <img class="mt-4 mt-md-0" src="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" alt="{{ project.title }}" width="200" height="200">
-      </picture>
-    </a>
-    {%- endif -%}
+<div>
+  {%- if project.featimage == true -%}
+  <a href="{{ project.url }}">
+    <picture>
+      <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".webp" }}" type="image/webp">
+      <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" type="image/jpeg">
+      <img src="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" alt="{{ project.title }}" width="200" height="200">
+    </picture>
+  </a>
+  {%- endif -%}
   </div>
-  <div class="col-12 col-md-8">
-    <div class="mt-4 mt-md-0 text-center text-md-start">
-      <mark class="d-inline-block mb-2">{{ project.date | date: "%Y" }}</mark>
-      <h2 class="mt-0 mb-4 mb-md-3" id="{{ project.title | downcase | replace: " ","-" }}"><a href="{{ project.url }}" title="Read about {{ project.title }}">{{ project.title }}&nbsp;→</a></h2>
-    </div>
-    <p class="p-summary card-text">{{ project.description | strip_html }}</p>
+  <div>
+    <mark>{{ project.date | date: "%Y" }}</mark>
+    <h2 id="{{ project.title | downcase | replace: " ","-" }}"><a href="{{ project.url }}" title="Read about {{ project.title }}">{{ project.title }}&nbsp;→</a></h2>
+    <p class="p-summary">{{ project.description | strip_html }}</p>
   </div>
 </div>

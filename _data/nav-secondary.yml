@@ -1,25 +1,7 @@
 menu:
-  - name: Ethics
-    link: /ethics/
-    desc: 'A manifesto'
   - name: RSS
     link: /rss/
     desc: 'RSS feeds'
-  - name: Notes
-    link: /notes/
-    desc: 'Replies and webmentions'
-  - name: Newsletter
-    link: /newsletter/
-    desc: 'Aperiodic newsletter'
-  - name: Free ebook
-    link: /work/project-management/
-    desc: 'A free ebook on how to efficiently manage a music project'
-  - name: Equipment
-    link: /uses/
-    desc: 'Equipment I use'
-  - name: Website
-    link: /colophon/
-    desc: 'About this website'
   - name: Search
     link: /search/
     desc: 'Search for anything'

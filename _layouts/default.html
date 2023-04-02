@@ -1,54 +1,33 @@
-{%- include site-head.html %}
-<body class="layout-{{ page.layout }} {% if page.is_post %}post{% elsif page.type %}{{ page.type }}{% else %}page{% endif %}-{{ page.title | slugify }}" id="top">
-{% comment %}
-  *-------------------------
-  Header
-  -------------------------*
-{% endcomment %}
-{%- include site-header.html -%}
-<main class="h-entry">
-  {%- unless page.is_post %}
-  <span class="visually-hidden">{% include hcard-page.html %}</span>
-  {% endunless %}
-  <article class="m2m-entry">
-    <header class="mt-5">
-      <div class="container m2m-container" id="m2m-content">
+{% include site-head.html %}
+<body class="layout-{{ page.layout }} id="top">
+{% include site-header.html %}
+<hr>
+<main id="m2m-content">
+  <article class="h-entry">
+    <header>
+      <div>
         {%- if page.layout == 'project' -%}
-        <a class="d-inline-block initialism mb-5" href="/work/{{ page.collection }}/"><mark><strong>← {{ page.collection | replace: "-"," " }}</strong></mark></a>
+        <a href="/work/{{ page.collection }}/"><mark><strong>← {{ page.collection | replace: "-"," " }}</strong></mark></a>
         {% endif %}
         <h1 class="p-name">{% if page.url == "/" %}Updates{% else %}{% if page.url contains "/tag/" %}{{ page.title | capitalize }}{% else %}{{ page.title }}{% endif %}{% endif %}{% if page.layout == 'note' %}: {{ page.date | date: "%-d %B %Y" }}{% endif %}</h1>
         {% if page.is_post %}
-        <div class="post-meta my-5">
+        <div>
           <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>{% if page.author %}&nbsp;&middot;&nbsp;<span>Written by {{page.author}}</span>{% endif %}
-          <span class="d-none">{% include hcard-post.html %}</span>
+          <span>{% include hcard-post.html %}</span>
         </div>
         {% endif %}
         {%- if page.type == "tag" -%}
-        <p class="p-summary my-3">This is an archive page for the tag <mark>{{ page.title | upcase | prepend: '#' }}</mark>.</p>
+        <p class="p-summary">This is an archive page for the tag <mark>{{ page.title | upcase | prepend: '#' }}</mark>.</p>
         {% endif %}
       </div>
     </header>
-    {% comment %}
-      *-------------------------
-      Content
-      -------------------------*
-    {% endcomment %}
-    <div class="container m2m-container">
+    <div>
       {{ content }}
     </div>
   </article>
 </main>
-{% comment %}
-  *-------------------------
-  Footer
-  -------------------------*
-{% endcomment %}
+<hr>
 {% include site-footer.html %}
-{% comment %}
-  *-------------------------
-  Javascript
-  -------------------------*
-{% endcomment %}
 {%- if page.url contains '/search' or page.url contains '404.html' -%}
 {%- if jekyll.environment == "production" %}
 <script src="/assets/js/search-m2m.min.js"></script>

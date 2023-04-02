@@ -10,14 +10,10 @@ permalink: '/work/music/after-1989-reviews/'
 
 ### Analysis by Rosa Nadine Xochimilco Sánchez
 
-<div class="d-flex align-items-center">
-  <div class="flex-shrink-0">
-    <img class="img-thumbnail" src="{{ site.url }}/assets/images/rnxs.jpg" width="100" height="100" alt="Portrait of Rosa Nadine Xochimilco Sánchez">
-  </div>
-  <p class="detached flex-grow-1 ms-3 py-0 my-0"><a href="https://rosanadinex.com/">Author, small press founder and editor</a>, Rosa has recently published the books of poems: <em>Blue Bones, Blood Roses, Black Eyes</em> and <em>Hearts Aflame, Still Burning</em>.</p>
-</div>
+![Portrait of Rosa Nadine Xochimilco Sánchez]({{ site.url }}/assets/images/rnxs.jpg)
 
-{: .detached }
+[Author, small press founder and editor](https://rosanadinex.com/), Rosa has recently published the books of poems: _Blue Bones, Blood Roses, Black Eyes_ and _Hearts Aflame, Still Burning_.
+
 Minutes to Midnight’s new album _After 1989: A Trip to Freedom_ is an incredible story and musical journey by Simone Silvestroni. It feels very personal while being uncompromisingly political. Each song is poignant and strong, showcasing a different historical moment or time, all along the main character’s path of discovery.
 
 I absolutely love the story and the songs, especially the way historical audio samples are woven throughout the album, anchoring it in reality, and making it feel incredibly emotional and genuine.

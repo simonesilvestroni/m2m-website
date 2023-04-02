@@ -1,15 +1,12 @@
 <header>
-  <div class="container m2m-container pt-4">
-    <a class="visually-hidden-focusable" href="#m2m-menu">Skip to the menu</a>
+  <div>
+    <a href="#m2m-menu">Skip to the menu</a>
     {% include site-logo.html %}
-    <p class="p-summary mt-3 mb-0">{{ site.description }}</p>
+    <p class="p-summary">{{ site.description }}</p>
   </div>
-  <div class="mt-4 dirt pb-4">
-    <div class="container m2m-container">
-      <div class="d-flex flex-wrap justify-content-center justify-content-lg-start" id="m2m-top">
-        <a class="visually-hidden-focusable" href="#m2m-content">Skip to the content</a>
-        {% include site-nav-main.html %}
-      </div>
-    </div>
+  <hr>
+  <div id="m2m-top">
+    <a href="#m2m-content">Skip to the content</a>
+    {% include site-nav-main.html %}
   </div>
 </header>

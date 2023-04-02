@@ -3,6 +3,15 @@ layout: default
 ---
 <div class="h-feed">
 {% for post in page.posts %}
-  {% include pattern-postblock.html %}
+  {%- if post -%}{% assign date = post.date %}
+  {%- elsif page -%}{% assign date = page.date %}
+  {%- endif -%}
+  <article class="h-entry">
+    <h2 class="p-name"><a href="{{ post.url }}" title="Read the post ‘{{ post.title }}’">{{ post.title }}</a></h2>
+    <p><small><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time></small></p>
+    <div class="e-content">
+      <p class="p-summary">{{ post.description | markdownify | strip_html }}</p>
+    </div>
+  </article>
 {% endfor %}
 </div>

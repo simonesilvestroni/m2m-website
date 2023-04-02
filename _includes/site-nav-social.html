@@ -1,5 +1,7 @@
-<nav class="navigation" aria-label="Social media and feed">
+<nav aria-label="Social media and feed">
+  <ul>
   {% for item in site.data.nav-social -%}
-  <a class="d-inline-block py-2{% unless forloop.last %} pe-4{% endunless %}" href="{{ item.link }}" title="{{ item.title }}">{{ item.icon }}<span class="visually-hidden">{{ item.name }}</span></a>
+  <li><a href="{{ item.link }}" title="{{ item.title }}">{{ item.icon }}</a></li>
   {% endfor -%}
+  </ul>
 </nav>

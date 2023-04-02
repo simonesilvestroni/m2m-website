@@ -5,6 +5,6 @@
   /ytplaylist
   -------------------------*
 {% endcomment %}
-<div class="video iframe-container{{ include.margin | default: "my-5" | prepend: ' ' }}">
+<div class="iframe-container">
   <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/videoseries?list={{ include.id }}" frameborder="0" allow="picture-in-picture" allowfullscreen title="{{ include.title | default: "Video playlist" }}"></iframe>
 </div>

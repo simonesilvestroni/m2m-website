@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 'Ethics'
+title: 'Manifesto'
 date: '2022-11-23 11:23:18'
-last_modified_at: '2023-03-21 11:28:27'
+last_modified_at: '2023-04-02 18:53:06'
 description: 'A manifesto of what I adhere to in terms of privacy, design, web architecture and the software I use.'
-permalink: '/ethics/'
+permalink: '/manifesto/'
 ---
 ## Privacy
 

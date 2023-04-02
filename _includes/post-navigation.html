@@ -1,24 +1,18 @@
-<div class="previous-next-post-links my-5 pt-5">
-  <div class="d-flex justify-content-center">
-    <div class="previous-post-link w-50 pe-2 text-end">
-      {%- if page.previous.url %}{% unless page.previous.hidden -%}
-      <a class="d-block" href="{{ page.previous.url }}">
-        <div>
-          <span class="d-inline-block text-uppercase mb-2 px-2 py-1">← Older</span>
-        </div>
-        <span class="h4 m2m-font-custom"><strong>{{ page.previous.title }}</strong></span>
-      </a>
-      {% endunless %}{% endif %}
-    </div>
-    <div class="next-post-link w-50 ps-2">
-      {%- if page.next.url %}{% unless page.next.hidden -%}
-      <a class="d-block" href="{{ page.next.url }}">
-        <div>
-          <span class="d-inline-block text-uppercase mb-2 px-2 py-1">Newer →</span>
-        </div>
-        <span class="h4 m2m-font-custom"><strong>{{ page.next.title }}</strong></span>
-      </a>
-      {% endunless %}{% endif %}
-    </div>
+<div>
+  <div>
+    {%- if page.previous.url %}{% unless page.previous.hidden -%}
+    <a href="{{ page.previous.url }}">
+      <div><span>← Older</span></div>
+      <span><strong>{{ page.previous.title }}</strong></span>
+    </a>
+    {% endunless %}{% endif %}
+  </div>
+  <div>
+    {%- if page.next.url %}{% unless page.next.hidden -%}
+    <a href="{{ page.next.url }}">
+      <div><span>Newer →</span></div>
+      <span><strong>{{ page.next.title }}</strong></span>
+    </a>
+    {% endunless %}{% endif %}
   </div>
 </div>

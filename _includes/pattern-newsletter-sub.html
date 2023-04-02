@@ -1,12 +1,12 @@
 <p>Get new issues directly in your news reader <a href="{{ site.url }}/newsletter.xml">via <strong>RSS</strong></a>, or delivered to your inbox:</p>
-<div class="newsletter-subscription m2m-bg-alpha rounded mt-4 px-4 py-4">
+<div>
   <form action="/newsletter/success/" name="newsletterSubscription" netlify netlify-honeypot="not-for-humans">
-    <div class="visually-hidden">
+    <div>
       <label>Don’t fill this out if you're human: <input name="not-for-humans" /></label>
     </div>
-    <label class="form-label" for="subscriberEmail">Email address</label>
-    <input class="form-control form-control-lg" placeholder="i.e.: name@email.com" type="email" name="email" id="subscriberEmail" required>
-    <button class="btn-label-m2m-bg border border-3 rounded fw-bold py-2 px-4 mt-3" type="submit" aria-label="Submit">Subscribe</button>
+    <label for="subscriberEmail">Email address</label>
+    <input placeholder="i.e.: name@email.com" type="email" name="email" id="subscriberEmail" required>
+    <button type="submit" aria-label="Submit">Subscribe</button>
   </form>
-  <p class="mt-4 mb-0"><small>Read about <a href="/ethics/" title="Go to the Privacy Policy page">privacy</a>.</small></p>
+  <p><small>Read about <a href="/ethics/" title="Go to the Privacy Policy page">privacy</a>.</small></p>
 </div>

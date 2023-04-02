@@ -1,19 +1,14 @@
 ---
-title: 'Minutes to Midnight - Sound & web designer'
+title: 'Minutes to Midnight, Sound designer bass player and music producer'
 date: '2021-11-06 13:41:57'
-last_modified_at: '2022-08-19 10:36:28'
+last_modified_at: '2023-04-02 17:40:35'
 ---
 <div class="h-entry">
-  {% comment %}
-    *-------------------------
-    Latest
-    -------------------------*
-  {% endcomment %}
   <section class="h-feed">
-      {%- for post in site.posts limit: 6 -%}
-      <p>
-        <small><mark class="border-radius">{{ post.date | date: "%d&nbsp;%b&nbsp;’%y" }}</mark></small>&nbsp;&nbsp;<a href="{{ post.url }}" title="Read the post">{{ post.title }}</a>
-      </p>
+    <ul>
+      {% for post in site.posts limit: 3 -%}
+      <li><a href="{{ post.url }}" title="Read the post">{{ post.title }}</a><br><small>{{ post.date | date: "%d %b %Y" }}</small></li>
       {% endfor -%}
+    </ul>
   </section>
 </div>

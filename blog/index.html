@@ -2,24 +2,27 @@
 layout: blog
 title: 'Blog'
 date: '2021-11-06 14:11:45'
-last_modified_at: '2022-03-19 16:15:21'
+last_modified_at: '2023-04-02 18:01:26'
 description: 'I’ve been running a blog since March 2002. This version is focused on sound design, music production, video games and some personal reflections.'
 ---
-<p class="mb-4">There are <strong>{{ site.posts | size }} posts</strong> so far. Browse through the <a href="/sitemap/">sitemap</a> or <a href="/search/">search</a>.</p>
-
-{% assign popular = site.posts | where: "tags", "popular" %}
-<section class="h-feed border border-3 rounded px-4 py-3" id="blog-popular-posts">
-  <h3 class="mt-0">The 3 most popular posts</h3>
-  {%- for post in popular limit:3 -%}
-  <p{% if forloop.last %} class="mb-0"{% endif %}>
-    <small><mark class="border-radius">{{ post.date | date: "%-d&nbsp;%b&nbsp;’%y" }}</mark></small>&nbsp;&nbsp;<a href="{{ post.url }}" title="Read the post">{{ post.title }}</a>
-  </p>
-  {% endfor -%}
-</section>
-
-<section class="h-feed mt-5" id="blog-all-posts">
-  <h2 class="p-name visually-hidden text-center text-uppercase">All the posts</h2>
+<p>There are <strong>{{ site.posts | size }} posts</strong> so far. Browse through the <a href="/sitemap/">sitemap</a> or <a href="/search/">search</a>.</p>
+<section class="h-feed">
   {%- for post in site.posts %}
-    {% include pattern-postblock.html %}
-  {% endfor %}
+  {%- if post -%}{% assign date = post.date %}
+  {%- elsif page -%}{% assign date = page.date %}
+  {%- endif -%}
+  {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+    {% if forloop.first %}
+    <h2 class="p-name" id="{{ this_year }}-ref">{{ this_year }}</h2>
+    {% endif %}
+    <article>
+      <header><a class="p-name u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}"><strong>{{ post.title }}</strong></a>{% if post.tags contains "case study" %}&nbsp;<mark>CASE STUDY</mark>{% endif %}{% if post.tags contains "popular" %}&nbsp;<mark>POPULAR</mark>{% endif %}</header>    
+      <span class="p-summary">{{ post.description | markdownify | strip_html }}</span>
+      <footer><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time></footer>
+    </article>
+    {% if this_year != next_year %}
+    <h2 id="{{ next_year }}-ref">{{ next_year }}</h2>
+    {% endif %}
+  {% endfor %}  
 </section>
