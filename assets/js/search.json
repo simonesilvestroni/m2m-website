@@ -6,8 +6,9 @@ sitemap: false
 [
   {%- assign collections = site.collections | where_exp:'collection','collection.output != false' -%}
   {%- for collection in collections %}
-    {%- assign docs = collection.docs | where_exp:'doc','doc.sitemap != false' -%}
+    {%- assign docs = collection.docs -%}
     {%- for doc in docs %}
+    
       {
         "title": {{ doc.title | jsonify }},
         "excerpt": {{ doc.description | markdownify | strip_html | jsonify }},

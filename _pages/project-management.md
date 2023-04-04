@@ -7,11 +7,10 @@ description: "Minutes to Midnight’s free ebook about project management in the
 featimage: true
 featimage-name: 'efficient-productivity-ebook.png'
 featimage-alt: Efficient productivity for music professionals (ebook cover)
-featimage-width: 1024
-featimage-height: 669
+featimage-width: 960
+featimage-height: 881
 permalink: '/work/project-management/'
 ---
 No strings attached, the book is a <mark>13.2 MB PDF</mark> file.
 
-{: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
 [Download the free ebook](/assets/files/minutes-to-midnight_efficient-productivity-for-music-professionals.pdf)&nbsp;→

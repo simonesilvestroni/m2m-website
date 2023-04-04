@@ -16,31 +16,28 @@ tags:
   - 'music production'
   - 'game audio'
   - 'popular'
-description: "In 12 months I've managed to revolutionize my workflow, twice. Part 2 of why I migrated to REAPER is about cost, multi-platform and a different workflow."
+description: "In 12 months I’ve managed to revolutionize my workflow, twice. Part 1 of why I migrated to REAPER is about cost, multi-platform and a different workflow."
 ---
 In this series, I describe eight major benefits that REAPER brought to my music production workflow, and how they pushed me toward a full switch from Pro Tools.
 
-{: .mt-5 }
 **Part 1**
 
 1.  Cost
 2.  Multi-platform
 3.  A different workflow
 
-{: .mt-5 }
 **[Part 2]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/)**
 
 4.  Customization
 5.  Community
 6.  Stock plug-ins
 
-{: .mt-5 }
 **[Part 3]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-3/)**
 
 7.  Open architecture & development cycle
 8.  Efficiency
 
-{: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
+{: .notice }
 **Disclaimer** — This article reflects my own personal opinions, which are related to how I use a DAW. It’s not meant to judge any of these software. As a matter of fact, I still own and occasionally use both Logic and Pro Tools.
 
 ## Logic
@@ -128,7 +125,7 @@ This was a biggie for me. I was stunned to discover that REAPER doesn’t have t
 - Mono
 - Stereo
 
-{% include pattern-figure.html image="/assets/images/daw-pro-tools-new-tracks.jpeg" caption="Create new tracks in Pro Tools" width="500" height="179" %}
+{% include pattern-figure.html image="/assets/images/daw-pro-tools-new-tracks.jpeg" caption="Create new tracks in Pro Tools" width="720" height="258" %}
 
 {% include pattern-figure.html image="/assets/images/daw-logic-pro-x-new-track.png" caption="Create new tracks in Logic Pro X" width="1262" height="654" %}
 
@@ -140,7 +137,6 @@ As for pretty much everything in REAPER, a track can be created in three ways: d
 
 Drag an audio file, whether mono, stereo or multichannel, and the track accepts it; do the same by dropping a MIDI file. It also doesn’t care if the audio files are at different sample rates. Later, you can decide if it has to be mono or stereo, assign outputs and/or sends and whatnot. Also, and this is utterly cool: I can have a mono audio, a stereo (or surround) audio and a MIDI sequence all in one track:
 
-{: .detached .text-center .my-5 }
 ![A track in REAPER holding a MIDI part, together with stereo and mono audio recordings]({{ site.url }}/assets/images/daw-reaper-multi-track-scaled.jpg){: width='1200' height='378' }
 
 It’s a different metaphor, and it leads to a whole new workflow. It’s become an unbelievably efficient timesaver to me. Reproducing all my Logic or Pro Tools templates, including creating groups of track presets first, only took a few minutes.
@@ -175,11 +171,8 @@ Same as for the routing, there is a grouping matrix window, where more complex c
 
 {% include pattern-figure.html image="/assets/images/daw-reaper-grouping-matrix.png" caption="REAPER grouping matrix" width="768" height="466" %}
 
-<div class="m2m-bg-alpha rounded-3 px-4 py-3">
-  <p>In <strong><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/">part 2</a></strong>, I’ll be discussing:</p>
-  <ul class="mb-0">
-    <li>Customization</li>
-    <li>Community</li>
-    <li>Stock plug-ins</li>
-  </ul>
-</div>
+In [part 2]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/), I’ll be discussing:
+
+- Customization
+- Community
+- Stock plug-ins

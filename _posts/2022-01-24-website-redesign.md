@@ -18,7 +18,7 @@ description: "Minutes to Midnight’s new redesigned website is easier to naviga
 ---
 ## Platform
 
-While the previous version had been running on WordPress since its debut, it's now switched to [JAMstack](https://jamstack.org/what-is-jamstack/). The code, whether dynamic or static, is handwritten.
+While the recent versions had been running on WordPress, it's now switched to [JAMstack](https://jamstack.org/what-is-jamstack/). All code is handwritten.
 
 ## Decentralized conversations
 

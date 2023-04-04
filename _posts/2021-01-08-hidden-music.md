@@ -16,7 +16,7 @@ featimage: true
 thumbOnly: true
 permalink: /work/music-production/hidden-music/
 ---
-{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 350px; height: 654px;" src="https://bandcamp.com/EmbeddedPlayer/album=3656047790/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="https://danecclestone.bandcamp.com/album/hidden-music">Hidden Music by Dan Ecclestone</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=3656047790/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://danecclestone.bandcamp.com/album/hidden-music">Hidden Music by Dan Ecclestone</a></iframe>' %}
 
 ## Production
 
@@ -55,15 +55,12 @@ Double bass
 **David Youngs**<br>
 Drums
 
-## Production
+### Production
 
-Recorded by Sam Inglis<br>
-Mixed by Simone Silvestroni of [Minutes to Midnight](https://minutestomidnight.co.uk)<br>
-Mastered by Ian Shepherd<br>
-Cover Photo by Gary Bendig
+- Recorded by Sam Inglis
+- Mixed by Simone Silvestroni of [Minutes to Midnight](https://minutestomidnight.co.uk)
+- Mastered by Ian Shepherd
 
-{: .detached .small }
-<sup>&copy;</sup> 2021 Music and lyrics Dan Ecclestone.
+<small>&copy; 2021 Music and lyrics Dan Ecclestone.</small>
 
-{: .detached }
-<mark class="m2m-highlight small">Released <strong>8 January 2021</strong>.</mark>
+Released: 8 January 2021.

@@ -37,12 +37,16 @@ I also have a parallel career in web design and front-end development, [carried 
 ## Endorsements
 
 {% for item in site.endorsements -%}
-> {{ item.quote }}<br>
-> <cite><a href="{{ item.url }}">{{ item.name }}</a> — {{ item.role }}</cite>
-<hr>
+<blockquote>
+  <p>
+    {{ item.quote }}
+    <cite><a href="{{ item.url }}">{{ item.name }}</a> — {{ item.role }}</cite>
+  </p>
+</blockquote>
 {% endfor %}
 
-[Full resume on LinkedIn](https://www.linkedin.com/in/simonesilvestroni/)&nbsp;→
+{: .notice }
+[Full resume on LinkedIn](https://www.linkedin.com/in/simonesilvestroni/)&nbsp;↗︎
 
 ## Education
 
@@ -55,5 +59,3 @@ I also have a parallel career in web design and front-end development, [carried 
 The expression _minutes to midnight_ is a reference to the [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock), while the logo is derivative of the radiation symbol combined with the glyph used in fallout shelter signs.
 
 Before releasing the theatrical concept [_After 1989_]({{ site.url }}/work/music/after-1989/), I wanted to establish a connection between work and personal history. The foundation for Minutes to Midnight’s name and logo is a tie with the unstable and risky world I grew up in during the Cold War.
-
-{% include pattern-last-updated.html %}

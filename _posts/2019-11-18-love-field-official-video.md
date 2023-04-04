@@ -16,9 +16,9 @@ tags:
   - 'jackie'
   - 'lee harvey oswald'
   - 'music video'
-description: 'Cheering crowds greet the President at Dallas airport. As the motorcade cuts through the city, I imagine to stand still while everything changes.'
+description: 'Cheering crowds greet the President at Love Field, the Dallas airport. As the motorcade cuts through the city, I imagine to be there, standing still while everything changes.'
 ---
-Dallas, November 1963. Warm weather and cheering crowds greet the President when he lands at _Love Field_ airport. As the motorcade cuts through the city, I fantasise about waving at Jack and Jackie, or leaning over the window of a sixth floor, or being Abraham Zapruder, standing still while everything changes.
+November 1963. A warm weather greets the President when he lands at _Love Field_. Following the motorcade, I fantasise about waving at Jack and Jackie, or leaning over the window of a sixth floor, or being Abraham Zapruder, standing still while everything changes.
 
 ## Official video
 
@@ -37,10 +37,10 @@ Bass, piano, synth, strings, drums, sound effects
 
 ## Production
 
-Written, produced and mixed by Simone Silvestroni<br>
-Mastered by [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd)<br>
-Video by [Silvia Maggi](https://silviamaggidesign.com)<br>
-Management by Christopher Carvalho of [Unlock Your Sound Ltd](https://unlockyoursound.com/)
+- Written, produced and mixed by Simone Silvestroni
+- Mastered by [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd)
+- Video by [Silvia Maggi](https://silviamaggidesign.com)
+- Management by Christopher Carvalho of [Unlock Your Sound Ltd](https://unlockyoursound.com/)
 
-{: .d-inline-block .border .border-3 .rounded .mt-5 .px-3 .py-3 }
+{: .notice }
 [Read the album analysis →](/work/music/after-1989/)

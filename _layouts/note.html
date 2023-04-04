@@ -1,17 +1,16 @@
 ---
 layout: default
 ---
-<div class="post-meta">
-  <span><time class="dt-published visually-hidden" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time></span>
-  <span class="d-inline-block border border-3 rounded px-3 py-3 mb-4"><strong>In reply to</strong> <a href="{{ page.replyto }}" class="u-in-reply-to">{{ page.replyto }}</a> ↗</span>
+<p>
+  <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time><br>
+  <strong>In reply to</strong> <a href="{{ page.replyto }}" class="u-in-reply-to">{{ page.replyto }}</a>&nbsp;↗
   {%- if page.originalpost -%}
-  <span class="visually-hidden">↪️ <a href="{{ site.url }}/blog/{{ page.originalpostURL }}/" class="u-in-reply-to">Original post</a></span>
+  <br>
+  ↪️ <a href="{{ site.url }}/blog/{{ page.originalpostURL }}/" class="u-in-reply-to">Original post</a>
   {% endif %}
-</div>
+</p>
 <div class="e-content">
   {{ content }}
 </div>
-<div class="m2m-label text-center text-md-start pt-2">
-  <a class="btn-cta-m2m-bg d-inline-block text-decoration-none rounded my-2 px-2 py-1" href="/notes/">← <span class="p-category">Notes</span></a>
-</div>
+<a href="/notes/">← <span class="p-category">Notes</span></a>
 {%- include pattern-responses.html -%}

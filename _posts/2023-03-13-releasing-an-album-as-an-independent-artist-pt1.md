@@ -18,14 +18,12 @@ syndicate:
   - name: Mastodon
     url: https://indieweb.social/@m2m/110016368797042587
 ---
-Part 1 is about what the album meant to me and a few considerations about what a successful release is and isn't.
+{: .notice }
+Part 1 is about what the album meant to me and a few considerations about what a successful release is and isn't.<br><br>[Part 2 →](/blog/releasing-an-album-as-an-independent-artist-pt2/) is about the type of release campaign, how we approached the concept of social media marketing, why it failed and what changed in the aftermath.
 
-[Part 2 →](/blog/releasing-an-album-as-an-independent-artist-pt2/) is about the type of release campaign, how we approached the concept of social media marketing, why it failed and what changed in the aftermath.
+Here’s the opening single, _Skinny Kid_:
 
-<div class="border border-3 rounded mt-5 px-3 py-3">
-  <p>Here’s the opening single, <em>Skinny Kid</em>:</p>
-  {% include pattern-bandcamp.html size='bc-single' my='my-0' iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=3005791226/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
-</div>
+{% include pattern-bandcamp.html size='bc-single' iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=3005791226/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 
 ## What releasing a concept album meant to me
 

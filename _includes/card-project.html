@@ -1,4 +1,8 @@
-<div>
+<article>
+  <header>
+    <h3 id="{{ project.title | downcase | replace: " ","-" }}"><a href="{{ project.url }}" title="Read about {{ project.title }}">{{ project.title }}</a></h3>
+  </header>
+  <p><mark><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ project.date | date: "%Y" }}</time></mark></p>
   {%- if project.featimage == true -%}
   <a href="{{ project.url }}">
     <picture>
@@ -8,10 +12,5 @@
     </picture>
   </a>
   {%- endif -%}
-  </div>
-  <div>
-    <mark>{{ project.date | date: "%Y" }}</mark>
-    <h2 id="{{ project.title | downcase | replace: " ","-" }}"><a href="{{ project.url }}" title="Read about {{ project.title }}">{{ project.title }}&nbsp;→</a></h2>
-    <p class="p-summary">{{ project.description | strip_html }}</p>
-  </div>
-</div>
+  <p class="p-summary">{{ project.description | strip_html }}</p>
+</article>

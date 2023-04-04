@@ -179,5 +179,3 @@ FTP
 
 Backup
 : Carbon Copy Cloner
-
-{% include pattern-last-updated.html %}

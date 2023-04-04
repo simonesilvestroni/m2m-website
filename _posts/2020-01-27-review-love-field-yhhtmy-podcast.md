@@ -17,7 +17,7 @@ description: 'YHHTMY podcast selected my song ‘Love Field’ from the album �
 ---
 ## About YHHTMY
 
-_You Haven't Heard This Music Yet_ is a podcast exploring unheard music, which they feel is as good if not better than that of the mainstream. With challenges laughs and banter along the way.
+[_You Haven't Heard This Music Yet_](https://www.youtube.com/@YHHTMPC) is a podcast exploring unheard music, which they feel is as good if not better than that of the mainstream. With challenges laughs and banter along the way.
 
 A quote from their review of _Love Field_:
 
@@ -31,11 +31,5 @@ Here’s the relevant section:
 
 {% include pattern-video.html id="wb2hRjPuU6Y" %}
 
-## Spotify playlist
-
-The following is a playlist of the four songs played and discussed in the podcast:
-
-{% include pattern-spotify.html id="4ea6J7vATyW23uD9HGjuYN" type="playlist" height="450" %}
-
-{: .d-inline-block .border .border-3 .rounded .mt-5 .px-3 .py-3 }
+{: .notice }
 [Read the album analysis →](/work/music/after-1989/)

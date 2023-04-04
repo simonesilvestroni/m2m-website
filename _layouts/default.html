@@ -1,7 +1,6 @@
 {% include site-head.html %}
-<body class="layout-{{ page.layout }} id="top">
+<body class="layout-{{ page.layout }}" id="top">
 {% include site-header.html %}
-<hr>
 <main id="m2m-content">
   <article class="h-entry">
     <header>
@@ -12,8 +11,7 @@
         <h1 class="p-name">{% if page.url == "/" %}Updates{% else %}{% if page.url contains "/tag/" %}{{ page.title | capitalize }}{% else %}{{ page.title }}{% endif %}{% endif %}{% if page.layout == 'note' %}: {{ page.date | date: "%-d %B %Y" }}{% endif %}</h1>
         {% if page.is_post %}
         <div>
-          <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>{% if page.author %}&nbsp;&middot;&nbsp;<span>Written by {{page.author}}</span>{% endif %}
-          <span>{% include hcard-post.html %}</span>
+          <time class="dt-published dim" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>&nbsp;&middot;&nbsp;Written by <span class="p-author h-card">Simone Silvestroni</span>&nbsp;&middot;&nbsp;<a rel="me" class="u-url u-uid" href="{{ site.url }}{{ page.url }}" title="Permalink">Permalink</a>
         </div>
         {% endif %}
         {%- if page.type == "tag" -%}
@@ -26,7 +24,6 @@
     </div>
   </article>
 </main>
-<hr>
 {% include site-footer.html %}
 {%- if page.url contains '/search' or page.url contains '404.html' -%}
 {%- if jekyll.environment == "production" %}

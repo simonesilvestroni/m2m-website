@@ -10,7 +10,6 @@ permalink: '/newsletter/archives/new-releases-and-video-games/'
 
 Finally, I’m leaving social media — Facebook, Twitter, Instagram, Reddit — redirecting my attention and my time to something more productive. 
 
-{: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
 [**Read the post**](https://simonesilvestroni.com/blog/escape-from-social-media/) →
 
 ## _13 Days_ Official Video and New Review

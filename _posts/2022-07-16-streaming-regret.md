@@ -9,7 +9,7 @@ tags:
   - 'apple music'
   - 'spotify'
   - 'music industry'
-description: 'People delegate music curation to distant corporations nowadays, forgetting that these can change it on a whim. We’re losing control over the music we love.'
+description: 'Delegating music curation to soulless corporations doesn’t take into consideration that they can take it away on a whim. We’re losing control over the music we love.'
 syndication: yes
 syndicate:
   - name: Mastodon

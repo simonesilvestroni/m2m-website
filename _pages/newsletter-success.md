@@ -8,5 +8,4 @@ permalink: '/newsletter/success/'
 robots: 'noindex,follow'
 sitemap: false
 ---
-{: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
 [Go to the newsletter archive →](/newsletter/archives/)

@@ -2,7 +2,7 @@
 <div>
   <form action="/newsletter/success/" name="newsletterSubscription" netlify netlify-honeypot="not-for-humans">
     <div>
-      <label>Don’t fill this out if you're human: <input name="not-for-humans" /></label>
+      <label><input type="hidden" name="not-for-humans" /></label>
     </div>
     <label for="subscriberEmail">Email address</label>
     <input placeholder="i.e.: name@email.com" type="email" name="email" id="subscriberEmail" required>

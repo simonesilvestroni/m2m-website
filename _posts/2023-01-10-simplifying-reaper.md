@@ -8,7 +8,7 @@ tags:
   - 'daw'
   - 'music production'
   - 'digital audio workstation'
-description: "Helping another producer with his transition from Logic made me value a simpler REAPER for my own good."
+description: "Helping another producer with his transition from Logic made me re-evaluate a simpler REAPER for my own good."
 ---
 I'm going to be quick and straight to the point: no matter how much experience I have with the software, I've found the act of removing custom keyboard shortcuts and turning them into a new toolbar very refreshing.
 

@@ -12,12 +12,12 @@ tags:
   - "subprojects"
   - "stem mastering"
   - "case study"
-description: "I mastered the debut EP for IsadoraD, a project by Italian multi-instrumentalists and composers Emilio Albertoni and Bruno Valeri. A blend of electronica, pop and indie."
+description: "I mastered the debut EP for IsadoraD, an Italian duo of multi-instrumentalists. A blend of electronica, pop and indie."
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/mastering-ipogeo-ep/
 ---
-{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe style="border: 0; width: 350px; height: 555px;" src="https://bandcamp.com/EmbeddedPlayer/album=3556110038/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="https://isadorad.bandcamp.com/album/ipogeo">Ipogeo by IsadoraD</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=3556110038/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://isadorad.bandcamp.com/album/ipogeo">Ipogeo by IsadoraD</a></iframe>' %}
 
 ## Stem mastering
 
@@ -37,7 +37,7 @@ The crucial difference is that if I then double-click the child project (rendere
 
 So far, I haven't seen anyone else using the same procedure, so this is to be considered my take on stem mastering using subprojects in Reaper.
 
-## Mastering _Ipogeo_
+## Mastering ‘Ipogeo’
 
 I had to go back to the stems a couple times, because of minor loudness adjustments. Normally, I would have adopted a multi-band compressor on certain frequency ranges; since subprojects are available, I simply double-cliked and opened the original stem stession, applied the corrections on drums and bass without touching vocals and the remaining instrumentation.
 
@@ -55,5 +55,4 @@ With [SWS](https://www.sws-extension.org/) installed, checking on loudness is a 
 
 {% include pattern-video.html id="kXk8FZjz4OU" %}
 
-{: .detached }
-<mark class="m2m-highlight small">Released <strong>3 March 2023</strong>.</mark>
+<mark><small>Released 3 March 2023.</small></mark>

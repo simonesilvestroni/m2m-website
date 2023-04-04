@@ -14,9 +14,9 @@ tags:
   - 'music production'
   - 'mixing'
   - 'mastering'
-description: 'New single out now by singer-songwriter and multi-instrumentalist Callum Gardner, ‘Wriggle A Little’. Produced by Minutes to Midnight.'
+description: 'New single out now by singer-songwriter and multi-instrumentalist Callum Gardner, ‘Wriggle A Little’. Bass and full production by Minutes to Midnight.'
 ---
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1398022832/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/wriggle-a-little">Wriggle a Little by Callum Gardner</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1398022832/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/wriggle-a-little">Wriggle a Little by Callum Gardner</a></iframe>' %}
 
 ## Producing ‘Wriggle a Little’
 
@@ -44,10 +44,9 @@ Bass
 **Arlen Millwall**<br>
 Drums, backing vocals
 
-## Production
+### Production
 
-Written by Callum Gardner<br>
-Produced, mixed and mastered by Simone Silvestroni
+- Written by Callum Gardner
+- Produced, mixed and mastered by Simone Silvestroni
 
-{: .detached }
-<mark class="m2m-highlight small"><strong>Released</strong>: June 15, 2019</mark>
+Released: June 15, 2019

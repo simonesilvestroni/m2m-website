@@ -10,5 +10,4 @@ A new single by Antiquity, _Shelter From A Storm_ is out now. I played bass and 
 
 My performance on bass received an amazing endorsement by **Leland Sklar**, bassist for Phil Collins, Toto and many more 🎉
 
-{: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
 [**Read the blog post**]({{ site.url }}/blog/shelter-from-a-storm-antiquity/) →

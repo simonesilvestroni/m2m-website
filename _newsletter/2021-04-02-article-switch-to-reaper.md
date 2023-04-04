@@ -16,5 +16,4 @@ In the first instalment, I focused on the first three benefits (out of 8) that I
 
 The next episode will go online on the 4th of April.
 
-{: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
 [**Read and share**]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/) →

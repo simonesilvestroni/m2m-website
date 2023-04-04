@@ -12,5 +12,4 @@ It's made of six songs, written for piano and vocals, where the delicate sound o
 
 I’ve mixed the album, recorded by [Sound On Sound&nbsp;↗︎](https://www.soundonsound.com/) director Sam Inglis and mastered by Ian Shepherd, co-author of [Loudness Penalty&nbsp;↗︎](https://www.loudnesspenalty.com/).
 
-{: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
 [**Read the blog post**]({{ site.url }}/work/music-production/hidden-music/) →

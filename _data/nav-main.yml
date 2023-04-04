@@ -1,10 +1,10 @@
 menu:
-  - name: About
+  - name: ABOUT
     link: /about/
     desc: 'Who I am and what’s the moniker about'
-  - name: Blog
+  - name: BLOG
     link: /blog/
     desc: 'Articles, interviews, press releases'
-  - name: Contact
-    link: /contact/
+  - name: CONTACTS
+    link: /contacts/
     desc: 'Get in touch'

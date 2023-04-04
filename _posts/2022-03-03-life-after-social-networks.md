@@ -42,7 +42,7 @@ Above all, I stopped caring about whatever CEO billionaire do or say, while foll
 
 ## Audience
 
-I can understand the argument about having an _audience_ (though [I dislike the term](/blog/de-brand/)), and I get people when they tell me they can’t leave a particular social network because of the relationships they built there. Yet, my escape pushed me to **actually speak to the people I used to hang around** on those networks. I got in touch, asked for their emails and sometimes their phone numbers.
+I can understand the argument about having an _audience_ (though [I dislike the term]({{ site.url }}/blog/de-brand/)), and I get people when they tell me they can’t leave a particular social network because of the relationships they built there. Yet, my escape pushed me to **actually speak to the people I used to hang around** on those networks. I got in touch, asked for their emails and sometimes their phone numbers.
 
 I now talk to them asynchronously and it feels genuine, real. We have stuff to discuss about, without the usual _oh yeah, I saw it earlier on Facebook_. I nurtured my email newsletter and stayed in touch with a larger amount of people than expected through either email, newsletters, RSS and sometimes Telegram or Signal. 
 
@@ -56,4 +56,6 @@ I keep asking: what if these soulless machines stopped working? We all remember 
 
 My answer was, and still is: have your own space [on the internet](https://www.onebigfluke.com/2012/07/focusing-on-positives-why-i-have-my-own.html).
 
-> **Post edit, March 2022** — On 10 March I re-joined [Mastodon](https://mastodon.help/), as an experiment. I did try it five years ago, to no avail. I immediately understood why everyone says _it's not_ Twitter. It sure feels like a totally different space.
+### Edit, March 2022
+
+On 10 March I re-joined [Mastodon](https://mastodon.help/), as an experiment. I did try it five years ago, to no avail. I immediately understood why everyone says _it's not_ Twitter. It sure feels like a totally different space.

@@ -17,7 +17,6 @@ Briefly:
 - it runs on renewable energy servers and its light weight and absence of third-party scripts contribute to make it fully sustainable as well.
 - The content has also been reorganized. I now embrace both my skills: audio and web design. A new work page is centered around case studies.
 
-{: .d-inline-block .border .border-3 .rounded .my-3 .px-3 .py-3 }
 [**Read the post**]({{ site.url }}/blog/website-redesign/) →
 
 Speak soon.

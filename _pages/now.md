@@ -35,5 +35,3 @@ I'm convinced that there is no future without the acceptance that humanity needs
 ## Online communities
 
 I've been making fruitful conversations and connections on [Mastodon](https://indieweb.social/@m2m) and [Airwiggles](https://www.airwiggles.com/home).
-
-{% include pattern-last-updated.html %}

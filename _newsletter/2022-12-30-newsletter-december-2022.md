@@ -12,5 +12,5 @@ I finally ended the ambiguity of my dual skillset, dividing my website in two: t
 
 This newsletter stays under Minutes to Midnight as it’s always been and won’t change its nature: still about audio, music and (soon) video games.
 
-Happy new year.\
+Happy new year.<br>
 Simone

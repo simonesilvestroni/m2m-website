@@ -1,10 +1,12 @@
 <footer>
-  <div>
-    <p><small>&copy; 2002-{{ site.time | date: '%Y' }} for <a href="{{ site.url }}/colophon/#copyright">some sections</a></small></p>
-    <div>{%- include site-nav-secondary.html %}</div>
-    <div>{%- include site-nav-social.html %}</div>
-  </div>
+  <ul>
+    <li>
+      &copy; 2002-{{ site.time | date: '%Y' }} Simone Silvestroni
+    </li>
+    <li>{% include site-nav-secondary.html %}</li>
+  </ul>
+  {%- include site-nav-social.html %}
   <div>
     <a href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/previous"><span>←</span></a>&nbsp;IndieWeb webring&nbsp;<a href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/next"><span>→</span></a>
-  </div>    
+  </div>
 </footer>

@@ -1,11 +1,4 @@
-{% comment %}
-  *-------------------------
-  Include with Alfred:
-
-  /figure
-  -------------------------*
-{% endcomment %}
-<figure class="{{ include.class }}">
+<figure>
   <picture>
     <source srcset="{{ include.image | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }}" type="image/webp">
     <source srcset="{{ include.image }}" {% if include.image contains '.jpg' or include.image contains '.jpeg' %}type="image/jpeg"{% elsif include.image contains '.png' %}type="image/png"{% endif %}>

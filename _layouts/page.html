@@ -2,16 +2,17 @@
 layout: default
 ---
 {% if page.featimage == true %}
-<figure class="my-5 text-center">
+<figure>
   <picture>
     <source srcset="{{ site.url }}/assets/images/{{ page.featimage-name | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }}" type="image/webp">
     <source srcset="/assets/images/{{ page.featimage-name }}" {% if page.featimage-name contains '.jpg' or include.image contains '.jpeg' %}type="image/jpeg"{% elsif page.featimage-name contains '.png' %}type="image/png"{% endif %}>
-    <img class="mx-auto" src="{{ site.url }}/assets/images/{{ page.featimage-name }}" alt="{{ page.featimage-alt }}" {{ page.featimage-width | prepend: 'width="' | append: '"' }} {{ page.featimage-height | prepend: 'height="' | append: '"' }}>
+    <img src="{{ site.url }}/assets/images/{{ page.featimage-name }}" alt="{{ page.featimage-alt }}" {{ page.featimage-width | prepend: 'width="' | append: '"' }} {{ page.featimage-height | prepend: 'height="' | append: '"' }}>
   </picture>
-  <figcaption class="p-name mt-3 caption">{{ page.featimage-caption }}</figcaption>
+  <figcaption class="p-name">{{ page.featimage-caption }}</figcaption>
 </figure>
 {% endif %}
 <p class="p-summary">{{ page.description }}</p>
 <div class="e-content">
-  {{ content }}
+{{ content }}
+<section>{% include pattern-last-updated.html %}</section>
 </div>

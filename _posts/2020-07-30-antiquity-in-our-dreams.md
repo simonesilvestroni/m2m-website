@@ -12,11 +12,11 @@ tags:
   - 'bassist'
   - 'independent music'
   - 'new york'
-description: "'In Our Dreams' written, produced and mixed by Gerald Duchene. Vocals by Dan Ecclestone, bass by Minutes to Midnight."
+description: "‘In Our Dreams’ is the new single by Gerald Duchene. Vocals by Dan Ecclestone, bass by Minutes to Midnight."
 ---
-I always enjoy being a part of [Gerald’s music]({{ site.url}}/blog/tag/antiquity/). This song was particularly exciting to work on, since I rarely have the chance to play bass where drums are nowhere to be heard. I believe the result is stunning.
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=984842794/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/in-our-dreams">In Our Dreams by Antiquity</a></iframe>' %}
 
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=984842794/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/in-our-dreams">In Our Dreams by Antiquity</a></iframe>' %}
+I always enjoy being a part of [Gerald’s music]({{ site.url}}/blog/tag/antiquity/). This song was particularly exciting to work on, since I rarely have the chance to play bass where drums are nowhere to be heard. I believe the result is stunning.
 
 ## Credits
 
@@ -29,5 +29,9 @@ Vocals and melody
 **Simone Silvestroni**<br>
 Bass
 
-Written, produced and mixed by Gerald Duchene<br>
-Mastered by Chris Pavey
+### Production
+
+- Written, produced and mixed by Gerald Duchene
+- Mastered by Chris Pavey
+
+Released: 3 July 2020.

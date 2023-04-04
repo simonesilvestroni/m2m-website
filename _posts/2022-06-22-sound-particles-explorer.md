@@ -16,7 +16,7 @@ syndicate:
   - name: Mastodon
     url: https://indieweb.social/@m2m/108521965165452360
 ---
-After downloading the free Explorer application just over a month ago, I've finally started using it. It's currently the best sound manager I've ever used — especially at this price point. It's intuitive, powerful, elastic and shows all the info I might need from a sound manager. Here's a quick look at its features.
+After downloading the program just over a month ago, I've finally started using it. It's currently the best sound manager I've ever used — especially at this price point. It's intuitive, powerful, elastic and shows all the info I might need from a sound manager. Here's a quick look at its features.
 
 ## Interface
 
@@ -36,21 +36,17 @@ The full catalogue can be organized in multiple separate databases. In fact, I k
 
 There are four main tabs in the left sidebar.
 
-{: .table }
-| Name       | Content                                                      |
+| Tab       | Content                                                      |
 | --------- | ------------------------------------------------------------ |
 | <kbd>Category</kbd>  | Explorer will categorize all the imported sounds into categories, following the [Universal Category System](https://universalcategorysystem.com/). Super useful for sound design. |
 | <kbd>Playlists</kbd> | I can organize sounds that I need to pick up quickly and often. |
 | <kbd>Folders</kbd>   | Mimics the folder structure of the imported files. If your local libraries are well organized, this would make for a familiar navigation. |
 | <kbd>Audio</kbd>     | Lists the catalogue by audio features, such as sample rate and more. |
 
-{% include pattern-figure.html image="/assets/images/explorer-sidebar-category.png" alt="Explorer sidebar: category tab" width="290" height="556" %}
-
-{% include pattern-figure.html image="/assets/images/explorer-sidebar-playlist.png" alt="Explorer sidebar: playlist tab" caption="Explorer organization tabs: category and playlist" width="290" height="556" %}
-
-{% include pattern-figure.html image="/assets/images/explorer-sidebar-folder.png" alt="Explorer sidebar: folder tab" width1="290" height1="556" %}
-
-{% include pattern-figure.html image="/assets/images/explorer-sidebar-audio.png" alt="Explorer sidebar: audio tab" width="290" height="556" caption="Explorer organization tabs: folder and audio" %}
+![Explorer sidebar: category tab](/assets/images/explorer-sidebar-category.png)
+![Explorer sidebar: playlist tab](/assets/images/explorer-sidebar-playlist.png)
+![Explorer sidebar: folder tab](/assets/images/explorer-sidebar-folder.png)
+![Explorer sidebar: audio tab](/assets/images/explorer-sidebar-audio.png)
 
 ### Search
 
@@ -72,13 +68,13 @@ It’s also possible to convert mono to stereo, stereo to mono or to multichanne
 
 A further useful feature is a visual representation of a clipped audio, shown in the waveform and its miniature as a vertical red line.
 
-{% include pattern-figure.html image="/assets/images/explorer-peak-over.png" alt="Section of a waveform file showing an overload peak of 0.1dB" caption="Section of a file showing a peak of +0.1dB" width="360" height="301" %}
+{% include pattern-figure.html image="/assets/images/explorer-peak-over.png" alt="Section of a waveform file showing an overload peak of 0.1dB" caption="Section of a file showing a peak of +0.1dB" width="720" height="602" %}
 
 ### Editing
 
 It’s possible to edit, cut, copy and paste, select and apply fade-in and fade-out. An export option allows to save as `wav`, `aiff` or `flac`, apply a bit depth of 16, 24 or 32 bit floating point. Options to sample rate conversion and metadata inclusion are present as well.  Please note that the audio can also be shown as a spectral view by clicking the <kbd>FFT</kbd> button in the transport bar.
 
-The scope where I would use Explorer the most, besides looking for interesting samples for music production, is sound effects. Finding sounds, selecting the right section, editing if needed and sending the piece of audio to [my DAW](/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/) is super easy — just right-click on the wave selection and choose <kbd>Spot to → Reaper</kbd>. Other popular DAWs are present, such as Pro Tools, Logic and Nuendo.
+The scope where I would use Explorer the most, besides looking for interesting samples for music production, is sound effects. Finding sounds, selecting the right section, editing if needed and sending the piece of audio to [my DAW](/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/) is super easy — just right-click on the wave selection and choose Spot to → Reaper. Other popular DAWs are present, such as Pro Tools, Logic and Nuendo.
 
 {% include pattern-figure.html image="/assets/images/explorer-send-to-daw.png" alt="Section of a sound file and the functionality to send it over to a DAW" caption="Explorer can send the selected audio to a DAW" width="1024" height="622" %}
 
@@ -86,4 +82,6 @@ The scope where I would use Explorer the most, besides looking for interesting s
 
 I think it's pretty unbelieavable that this piece of software is completely free. [Download it for macOS and Windows](https://soundparticles.com/products/explorer).
 
-> **Post edit, March 2023** — After a recent update, Explorer became slower, sloppy to the point of being unusable, at least on my older machine. I'm not sure if the addition of a — for me unwanted — cloud-based sample shop is at the root of the lack of performance, either way I switched to [Reaper's Media Explorer](https://www.youtube.com/watch?v=zwTzHOedfYg).
+### Edit, March 2023
+
+After a recent update, Explorer became slower, sloppy to the point of being unusable, at least on my older machine. I'm not sure if the addition of a — for me unwanted — cloud-based sample shop is at the root of the lack of performance, either way I switched to [Reaper's Media Explorer](https://www.youtube.com/watch?v=zwTzHOedfYg).

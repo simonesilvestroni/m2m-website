@@ -16,5 +16,4 @@ Use web feeds to subscribe to websites and get the latest content in one place. 
 
 Had enough? Easy: unsubscribe from the feed. You just need a special app called a newsreader.
 
-{: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
 To know more read the article [**About Feeds** ↗︎](https://aboutfeeds.com/)

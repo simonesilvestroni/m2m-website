@@ -9,4 +9,6 @@ permalink: '/work/music/'
 {%- assign originalmusic = site.posts | where_exp:'post','post.tags contains "original music"' -%}
 {%- for project in originalmusic %}
 {% include card-project.html %}
+{% unless forloop.last %}
+{% endunless %}
 {% endfor %}

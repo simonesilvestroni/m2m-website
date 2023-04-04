@@ -68,29 +68,22 @@ We exchanged opinions about the rough mixes, efficiently collaborating to the ed
 
 ## Credits
 
-### Minutes to Midnight
-
 **Simone Silvestroni**<br>
 Fretless bass, drums, sound effects
 
 **Emilio Albertoni**<br>
 Electric guitars, synths, fretted bass, drums  
 
-### Collaborators
-
 **Gianluca Lo Presti**<br>
 Vocals, synth, sound effects  
 
 ### Production
 
-Recorded in Italy.  
-Produced by Minutes to Midnight.  
-Mixed and mastered by Simone Silvestroni.  
+- Produced by Simone Silvestroni and Emilio Albertoni
+- Mixed and mastered by Simone Silvestroni
 
-{: .detached .small }
-<sup>&copy;</sup> 2020 Music and lyrics by Gianluca Lo Presti.<br>
-<sup>&copy;</sup> 2021 Remix produced and arranged by Emilio Albertoni and Minutes to Midnight.
-The copyright of the sound recording (master) owned by Simone Silvestroni and Emilio Albertoni. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.
+<small>&copy; 2020 Music and lyrics by Gianluca Lo Presti.</small>
 
-{: .detached }
-Released <strong>28 June 2021</strong>.
+<small>&copy; 2021 Remix produced and arranged by Emilio Albertoni and Minutes to Midnight. The copyright of the sound recording (master) owned by Simone Silvestroni and Emilio Albertoni. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.</small>
+
+Released: 28 June 2021.

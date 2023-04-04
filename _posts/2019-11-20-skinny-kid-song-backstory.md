@@ -33,7 +33,7 @@ I enhanced the piano progression, added a tom roll in anticipation for the choru
 
 ## ‘Nine Eleven’ instrumental demo
 
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2694261691/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=3370953346/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom-original-demos-outtakes">After 1989: A Trip To Freedom (Original Demos &amp; Outtakes) by Minutes to Midnight</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2694261691/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=3370953346/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom-original-demos-outtakes">After 1989: A Trip To Freedom (Original Demos &amp; Outtakes) by Minutes to Midnight</a></iframe>' %}
 
 ## About the production
 
@@ -52,7 +52,7 @@ Since I wrote the song during different time frames, it went through a diverse s
 
 I’m in Berlin. After boarding the S-Bahn 1 to Oranienburg, I relive the decades that followed World War II. A few miles away, the concentration camp where my grandfather was held prisoner by the Nazi. It’s not easy to try figuring what his ordeal might have been before he managed to escape in the spring of 1945. 
 
-_Skinny Kid_ was the first piece that I turned into a proper song when I refactored my album at the beginning of 2019. I adapted the lyrics I wrote for a different tune — now discarded from the project — and re-arranged the structure for a linear narration. The first version of _Nine Eleven_ lasted 8 minutes and 30 seconds. _Skinny Kid_ is now a 3-minutes song with a standard structure. It’s also a personal statement about simplicity, and a desire to **go to the core of things**.
+_Skinny Kid_ was the first piece that I turned into a proper song when I refactored my album at the beginning of 2019. I adapted the lyrics I wrote for a different tune — now discarded from the project — and re-arranged the structure for a linear narration. The first version of _Nine Eleven_ lasted 8 minutes and 30 seconds. _Skinny Kid_ is now a 3-minutes song with a standard structure. It’s also a personal statement about simplicity, and a desire to go to the core of things.
 
 ## Official music video
 
@@ -89,12 +89,12 @@ Bass, drums, piano, synth, sound effects
 **Paolo Clementi**<br>
 Guitars, viola
 
-## Production
+### Production
 
-Written, produced and mixed by Simone Silvestroni<br>
-Music video by [Silvia Maggi](https://silviamaggidesign.com/)<br>
-Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/)<br>
-Management by Christopher Carvalho of [Unlock Your Sound](https://unlockyoursound.com/)
+- Written, produced and mixed by Simone Silvestroni
+- Music video by [Silvia Maggi](https://silviamaggidesign.com/)
+- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/)
+- Management by Christopher Carvalho of [Unlock Your Sound](https://unlockyoursound.com/)
 
-{: .d-inline-block .border .border-3 .rounded .mt-5 .px-3 .py-3 }
+{: .notice }
 [Read the album analysis →](/work/music/after-1989/)

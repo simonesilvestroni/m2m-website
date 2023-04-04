@@ -18,19 +18,20 @@ description: "Exposing the process for producing effective bass tracks for the N
 featimage: true
 featimage-name: 'producing-bass-remotely.jpg'
 featimage-alt: Simone Silvestroni in the studio, recording bass
-featimage-width: 600
-featimage-height: 600
+featimage-width: 720
+featimage-height: 720
 canonical: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'
 syndication: true
 syndicate:
   - name: Unlock Your Sound
     url: https://unlockyoursound.com/producing-bass-tracks-remotely/
 sitemap: false
+search: true
 permalink: /work/music-production/producing-bass-remotely/
 ---
-The following analysis was written in June 2020, based on my work for [Antiquity](https://antiquity-music.com/) and their single _The Far Side Of The Sun_. They are based in New York, while I had been living in the UK at the time.
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
 
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
+The following analysis was written in June 2020, based on my work for [Antiquity](https://antiquity-music.com/) and their single _The Far Side Of The Sun_. They are based in New York, while I had been living in the UK at the time.
 
 ## Stage 1: Assessment
 
@@ -87,7 +88,7 @@ The final step is listening to the track in context with the mix. If I’m happy
 
 After enabling [elastic audio](https://www.pro-tools-expert.com/home-page/2017/5/25/free-puremix-tutorial-how-to-use-elastic-audio-in-pro-tools) in Pro Tools (monophonic, real-time processing), I go in and adjust the transient sensitivity. I want to get to a point where only the correct hits are detected. It’s the best way to avoid irritating artifacts. This is especially useful with a fretless bass.
 
-{% include pattern-figure.html image="/assets/images/protools-elasticaudio-monophonic-minutes-to-midnight.jpg" caption="Pro Tools algorithm options for elastic audio" width="295" height="209" %}
+{% include pattern-figure.html image="/assets/images/protools-elasticaudio-monophonic-minutes-to-midnight.jpg" caption="Pro Tools algorithm options for elastic audio" width="720" height="510" %}
 
 After switching the track view to `Analysis`, excessive transients that might have slipped through the previous step are removed, then in `Warp` view I check if there are obvious mistakes in the timing. Working in grid mode makes it easy to see which notes are off. I tend to only adjust what's obviously out of place, rather than generically quantize.
 

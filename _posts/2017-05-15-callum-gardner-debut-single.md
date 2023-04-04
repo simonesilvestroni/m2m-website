@@ -19,17 +19,15 @@ description: "After meeting London-based singer-songwriter Callum Gardner, we go
 featimage: true
 featimage-name: 'producing-commit-to-the-list-by-callum-gardner.jpg'
 featimage-alt: Cover for the single Commit to the List
-featimage-width: 600
-featimage-height: 600
+featimage-width: 720
+featimage-height: 720
 permalink: /work/music-production/callum-gardner-debut-single/
 ---
-## Stream from Spotify
-
 {% include pattern-spotify.html id="4e2PTyfPfvw9WunM9nG0nT" height="80" %}
 
 ## Backstory
 
-A few years ago I got in touch with [Ciara Clifford](https://open.spotify.com/artist/6y4HZjrBa7CMWVdyIkV5RQ), who was looking for a new bassist to play in a trio. Unfortunately, my schedule was incompatible with the required effort, but I went to her next live gig at the _Nambucca_. Besides being finally able to meet her and see [Joe Meek’s former studio](https://en.wikipedia.org/wiki/Joe_Meek) in Holloway Road, there was one further highlight that evening. 
+A few years ago I got in touch with [Ciara Clifford](https://open.spotify.com/artist/6y4HZjrBa7CMWVdyIkV5RQ), who was looking for a new bassist to play in a trio. Unfortunately, my schedule was incompatible with the required effort, but I went to her next live gig at the _Nambucca_. Besides being finally able to meet Ciara and also see [Joe Meek’s former studio](https://en.wikipedia.org/wiki/Joe_Meek) in Holloway Road, there was one further highlight that evening. 
 
 The opening act was a young singer-songwriter playing an acoustic solo set, [Callum Gardner](https://callumgardnerofficial.com/). Captivated by his performance, I went to congratulate him, taking note of his online presence to follow the progress.
 
@@ -75,6 +73,8 @@ Drums
 
 ## Production
 
-Written by Callum Gardner<br>
-Recorded at SAE (London) and the Garden Room Studio (Cambridge)<br>
-Produced, mixed and mastered by Simone Silvestroni
+- Written by Callum Gardner
+- Recorded at SAE (London) and the Garden Room Studio (Cambridge)
+- Produced, mixed and mastered by Simone Silvestroni
+
+Released: May 2017

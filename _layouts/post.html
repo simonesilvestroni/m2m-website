@@ -1,36 +1,39 @@
 ---
 layout: default
 ---
+<fieldset class="tldr">
+  <legend>TL;DR</legend>
+  <p class="p-summary">
+    {{ page.description }}
+  </p>
+</fieldset>
 {% unless page.thumbOnly == true %}
 {% if page.featimage == true %}
-<figure class="my-5 text-center">
+<figure>
   <picture>
     <source srcset="{{ site.url }}/assets/images/{{ page.featimage-name | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }}" type="image/webp">
     <source srcset="/assets/images/{{ page.featimage-name }}" {% if page.featimage-name contains '.jpg' or include.image contains '.jpeg' %}type="image/jpeg"{% elsif page.featimage-name contains '.png' %}type="image/png"{% endif %}>
-    <img class="mx-auto" src="{{ site.url }}/assets/images/{{ page.featimage-name }}" alt="{{ page.featimage-alt }}" {{ page.featimage-width | prepend: 'width="' | append: '"' }} {{ page.featimage-height | prepend: 'height="' | append: '"' }}>
+    <img src="{{ site.url }}/assets/images/{{ page.featimage-name }}" alt="{{ page.featimage-alt }}" {{ page.featimage-width | prepend: 'width="' | append: '"' }} {{ page.featimage-height | prepend: 'height="' | append: '"' }}>
   </picture>
-  <figcaption class="p-name mt-3 caption">{{ page.featimage-caption }}</figcaption>
+  <figcaption class="p-name">{{ page.featimage-caption }}</figcaption>
 </figure>
 {% endif %}
 {% endunless %}
 {%- if page.mention == true %}
-<div class="m2m-bg-alpha rounded-3 p-3 mb-5">
+<div>
   <span>{% if page.mentionType == 'like' %} 🧡 A like of {% elsif page.mentionType == 'repost' %} 🔄 A repost of {% elsif page.mentionType == 'reply' %} ↪️ In reply to {% endif %}<a class="{% if page.mentionType == 'like' %}u-like-of{% elsif page.mentionType == 'repost' %}u-repost-of{% elsif page.mentionType == 'reply' %}u-in-reply-to{% endif %}" href="{{ page.mentionReplyUrl }}">{{ page.mentionReplyTitle }}</a></span>
 </div>
 {% endif -%}
 <div class="e-content">
   {{ content }}
-  <div class="my-5">
-    <span class="visually-hidden">Tagged: </span>{%- for tag in page.tags -%}<a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}"><span class="pe-2"><strong>{{ tag | upcase | prepend: '#' }}</strong></span></a>{% unless forloop.last %}<span class="visually-hidden">,</span> {% endunless %}{%- endfor -%}
-  </div>
+  <section>
+    <p>{% for tag in page.tags -%}<a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase }}</a>{% unless forloop.last %}, {% endunless %}{%- endfor -%}</p>
+  </section>
 </div>
 {% if page.syndication == true %}
-<p class="mt-5">Also posted on:</p>
-<ul class="list-unstyled ps-0">
-  {% for s in page.syndicate %}
-  <li>🔄 <a class="u-syndication" href="{{ s.url }}">{{ s.name }}</a></li>
-  {% endfor %}
-</ul>
+<section>
+  <p>🔄 Also posted on {% for s in page.syndicate %}<a class="u-syndication" href="{{ s.url }}">{{ s.name }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
+</section>
 {% endif -%}
 {%- include pattern-responses.html -%}
 {%- include post-navigation.html -%}

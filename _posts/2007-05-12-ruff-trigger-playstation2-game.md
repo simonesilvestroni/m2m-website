@@ -1,5 +1,5 @@
 ---
-title: 'Ruff Trigger Playstation2 game'
+title: 'Ruff Trigger Playstation2 video game'
 date: '2007-05-12'
 last_modified_at: '2021-12-07 17:00:42'
 author: 'Simone Silvestroni'
@@ -20,12 +20,12 @@ tags:
   - "xbox"
   - "alienbrain"
   - "case study"
-description: "As audio team leader for 5 years I created soundtrack and sound effects, bootstrapping design and development for the Playstation2 game ‘Ruff Trigger’."
+description: "As an audio team leader for 5 years I wrote music and sound effects, bootstrapping the first stage of the Playstation2 video game ‘Ruff Trigger’."
 featimage: true
 featimage-name: 'ruff-trigger-playstation2-game.jpg'
 featimage-alt: Ruff Trigger game cover
-featimage-width: 600
-featimage-height: 600
+featimage-width: 720
+featimage-height: 720
 permalink: /work/sound-design/ruff-trigger-playstation2-game/
 ---
 ## How I got into game audio
@@ -50,23 +50,48 @@ Using Logic as the main DAW, I ran Cubase on the Dell as a secondary sequencer. 
 
 {% include pattern-figure.html image="/assets/images/playstos-studio.jpg" caption="Audio studio, circa 2002" width="800" height="531" %}
 
-### Hardware
+### Workstations
 
-- Mac G4, later swapped with a G5 "cheesegrater", equipped with a Creamware Pulsar II sound card
-- First Dell PC for audio editing and in-house audio middleware, equipped with a Creamware Pulsar II sound card
-- Second Dell PC as an audio sample server
-- Custom built PC as a redundant daily backup
+- Mac G4, later swapped with a G5 "cheesegrater"
+- Dell PC for audio editing and in-house audio middleware
+- Dell PC as an audio sample server
+- Custom-built PC for redundant daily backup
+
+### Audio interfaces
+
+- DSP-powered Creamware Pulsar II sound cards
+
+### MIDI
+
 - MOTU Midi Express XT MIDI interface
-- Roland JV-2080 synth module
-- Korg Trinity Pro synth keyboard
-- Korg Triton module
-- Novation A-station module
+- Roland PC-200 master keyboard
+
+### MIDI sound modules
+
 - Yamaha Clavinova digital piano
+- Korg Trinity Pro
+- Korg Triton module
+- Roland JV-2080 module
+- Novation A-station module
+
+### Microphones
+
+- SM57
+- SM58
+
+### Instrumentation
+
 - Fender Jazz bass
+
+### Outboard and speakers
+
 - Yamaha 01W digital mixer
+- Sony PCM-R300 DAT Player Recorder Deck
 - Yamaha NS-10 speakers
 - Sony additional surround speakers
-- Sony PCM-R300 DAT Player Recorder Deck
+
+### Console SDKs
+
 - Sony Playstation2 SDK kit
 - Xbox SDK kit
 
@@ -74,85 +99,49 @@ Using Logic as the main DAW, I ran Cubase on the Dell as a secondary sequencer. 
 
 - Emagic Logic Audio Platinum 5
 - Steinberg Cubase VST 4
-- BIAS Peak audio editor
-- SoundForge and Vegas Pro audio and video editors by Sonic Foundry
-- In-house MXE<sup>&reg;</sup> level editor & audio middleware
+- [BIAS Peak audio](https://en.wikipedia.org/wiki/BIAS_Peak) editor
+- SoundForge and Vegas Pro audio and video editors
+- In-house MXE<sup>&reg;</sup> game engine & audio middleware
 - Xbox XACT audio middleware
 - Alienbrain assets manager
 
-{% include pattern-figure.html image="/assets/images/playstos-studio-2.jpg" caption="Audio studio, 2003 (Xbox SDK visible at the top of the rack)" width="1200" height="900" %}
+{% include pattern-figure.html image="/assets/images/playstos-studio-2.jpg" caption="Audio studio, circa 2003 (Xbox SDK visible at the top of the rack)" width="1200" height="900" %}
 
 ## Adaptive soundtrack
 
-I initially worked with a colleague, a musician and 3D artist. Before he got permanently moved to the 3D department, we managed to record and mix several brilliant pieces who [went unused in the final game](https://minutestomidnight.bandcamp.com/track/requiem), mostly because the game levels iterated frequently and the music wasn't right anymore.
-
-Working closely with the audio programmer, I implemented an _adaptive soundtrack_ within the in-house game engine MXE&reg;. What we did was deploying stems divided in overlaying chunks. Similarly to what can be achieved today with modern audio middleware such as Wwise and FMOD, the layers could be triggered by specific parameters based on different situations in the gameplay, thus helping increase or decrease the tension.
+Working closely with the audio programmers, I implemented an _adaptive soundtrack_ within the in-house game engine MXE<small><sup>&reg;</sup></small>. What we did was deploying stems divided in overlaying chunks. Similarly to what can be achieved today with modern audio middleware such as Wwise and FMOD, the layers could be triggered by specific game parameters based on different runtime situations, thus helping increase or decrease the tension.
 
 ### Examples
 
-{: .m2m-bg-alpha .border .border-3 .rounded .p-3 .mb-5 }
-Warning — The following songs are demos _rendered in their linear versions_. They don't reflect their original behavior in the gameplay, where each song had distinct instrument layers that were activated or deactivated following cues from the game engine. As they're the original demos, they arent properly mixed nor mastered
+The following songs are demos _rendered in their linear versions_. They don't reflect their original behavior in the gameplay, where each song had layers that were activated or deactivated following cues from the game engine. They aren't properly mixed nor mastered.
 
-<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 mt-4 mb-5">
-  <div class="col">
-    <div class="card border text-dark">
-      {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671219%3Fsecret_token%3Ds-NZEFQ&color=%23b0b0b0&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
-      <div class="card-body">
-        <h5 class="card-title mt-0">Industrial City</h5>
-        <small class="card-text">Divided in two distinct sections, it reflected the completely different situations happening during a day/night cycle.</small>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card border text-dark">
-      {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671240%3Fsecret_token%3Ds-Z0Awt&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
-      <div class="card-body">
-        <h5 class="card-title mt-0">Farm</h5>
-        <small class="card-text">One of six atmospheric pieces triggered by remote parts of a specific game level. The wind effect was created using a Korg Trinity.</small>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card border text-dark">
-      {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671210%3Fsecret_token%3Ds-szxDn&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
-      <div class="card-body">
-        <h5 class="card-title mt-0">Racing part 1</h5>
-        <small class="card-text">I had fun with the bass! As this level had a fixed time, the duration reflects how long was needed to complete the mission.</small>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card border text-dark">
-      {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671156%3Fsecret_token%3Ds-MN1dE&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
-      <div class="card-body">
-        <h5 class="card-title mt-0">TexMex</h5>
-        <small class="card-text">Originally written by my colleague Giuseppe Bianchi, it was set in a Mexican-like environment that was axed early on.</small>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card border text-dark">
-      {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671060%3Fsecret_token%3Ds-vGqvZ&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
-      <div class="card-body">
-        <h5 class="card-title mt-0">Tribal Cave</h5>
-        <small class="card-text">More fun bass parts to play with! Made of many interchangeable music layers, I don't know if the level was included in the release.</small>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card border text-dark">
-      {% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671009%3Fsecret_token%3Ds-mEJW4&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
-      <div class="card-body">
-        <h5 class="card-title mt-0">Run For Your Life</h5>
-        <small class="card-text">In a labyrinthine area where the boss, unseen, was approaching the player, the piece served as anticipation of something evil.</small>
-      </div>
-    </div>
-  </div>
-</div>
+#### Industrial City
+
+Divided in two distinct sections, it reflected the completely different situations happening during a day/night cycle.
+
+{% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671219%3Fsecret_token%3Ds-NZEFQ&color=%23b0b0b0&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
+
+#### Racing Pt 1
+
+I had fun with the bass. As this level had a fixed time, the duration reflects how long it took to complete the mission.
+
+{% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671210%3Fsecret_token%3Ds-szxDn&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
+
+#### TexMex
+
+Written by my colleague Giuseppe Bianchi and produced by myself, it was set in a fun Mexican-like environment that was axed early on.
+
+{% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671156%3Fsecret_token%3Ds-MN1dE&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
+
+#### Tribal Cave
+
+More fun bass parts to play with. Made of many interchangeable music layers, I'm not sure if the level was included in the release.
+
+{% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671060%3Fsecret_token%3Ds-vGqvZ&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
 
 ## Leading a team
 
-Although my initial focus was creating and implementing the sound effects, a lot of music was written between 2001 and 2003. After realizing I wasn't able to dedicate enough time to the soundtrack, I asked to hire a new professional. Someone who used to work for Sony in Liverpool arrived, which prompted my promotion to _team leader_: along with project management, I re-centered my efforts.
+Although my initial focus was on creating and implementing the sound effects, a lot of music was written between 2001 and 2003. After realizing I wasn't able to dedicate enough time to the soundtrack, I asked to hire a new professional. Someone who used to work for Sony in Liverpool arrived, which prompted my promotion to _team leader_: along with project management, I re-centered my efforts.
 
 ## Sound effects
 
@@ -185,9 +174,9 @@ After obtaining a license to develop the game for Playstation2, we worked to get
 
 {% include pattern-figure.html image="/assets/images/xact_microsoft.jpg" caption="Microsoft XACT v2.0" width="850" height="540" %}
 
-The dev team in Playstos had done a great job integrating all the required Xbox libraries and dependencies, so that we could work with XACT using calls from the game engine to trigger both sound effects and the adaptive soundtrack.
+The internal dev team had done a great job integrating all the required Xbox libraries and dependencies, so that we could work with XACT using calls from the game engine to trigger both sound effects and the adaptive soundtrack.
 
-We managed and implemented audio for two different major console platforms, using different tools, assets and specifics. Until 2003, when the Xbox was dropped from the project.
+Until 2003, when the Xbox was dropped from the project, we implemented audio for two different major console platforms using specific tools and assets within different constraints.
 
 
 ## Game Developer Conference and G.A.N.G.
@@ -196,25 +185,23 @@ In January 2002 the CEO informed me that I'd be one of twelve colleagues who wou
 
 The motto for that edition was _Make Better Games_.
 
-{% include pattern-figure.html image="/assets/images/gdc-2002-entrance.jpg" caption="GDC 2002: Entrance of the Convention Center in San Jose" width="640" height="480" %}
+{% include pattern-figure.html image="/assets/images/gdc-2002-entrance.jpg" caption="GDC 2002: Entrance of the Convention Center in San Jose" width="720" height="540" %}
 
-Around ten thousand people took part that year. A formative experience, it pushed me out of my comfort zone like anything has ever done before. I met with strangers from all over the world, exchanged views and contacts, took an astounding amount of notes.
-
-Audio conferences only started on the 20<sup>th</sup>, so I spent the day before wandering around the suburbs for many hours. I ended up buying the iPod first edition at the massive _San Antonio Shopping Center_. Ironically, I met a sound designer there with whom I chatted for a while.
-
-{% include pattern-figure.html image="/assets/images/gdc-2002-attendants.jpg" caption="GDC 2002: Attendance at a workshop" width="768" height="519" %}
+Around ten thousand people participated. A formative experience, it pushed me out of my comfort zone like anything has ever done before. I met with strangers from all over the world, exchanged views and contacts, taking an astounding amount of notes.
 
 My first day was entirely filled with the 8-hours workshop _Using DirectMusic for Music and Sound FX_, with Brian Schmidt and Scott Selfon among others. Amazing insights about XACT and how to optimize the audio delivery on an Xbox.
 
-Beyond the [first unveiling of Steam](https://www.gamespot.com/articles/gdc-2002-valve-unveils-steam/1100-2857298/) by Valve on the 22<sup>nd</sup>, I took part in the historical event for the game audio industry the day before: the foundation of the [Game Audio Network Guild](https://www.audiogang.org/), with Tommy Tallarico, Brian Schmidt, Thomas Dolby and many others. 
+{% include pattern-figure.html image="/assets/images/gdc-2002-attendants.jpg" caption="GDC 2002: Attendance at a workshop" width="768" height="519" %}
+
+Besides the [unveiling of Steam](https://www.gamespot.com/articles/gdc-2002-valve-unveils-steam/1100-2857298/) by Valve on the 22<sup>nd</sup>, I took part in the historical event for the game audio industry the day before: the foundation of the [Game Audio Network Guild](https://www.audiogang.org/), with Tommy Tallarico, Brian Schmidt, Thomas Dolby and many others. 
 
 I still have my bronze member certification. The end of that same day was highlighted by _Using a Live Orchestra in Game Soundtracks_ with Michael Giacchino and others.
-
-{% include pattern-figure.html image="/assets/images/gdc-2002-locator-badge.jpg" caption="GDC 2002: Conference locator and my entrance badge" width="758" height="1024" %}
 
 The culmination was the keynote given by [Martin O'Donnell](https://en.wikipedia.org/wiki/Martin_O'Donnell), audio director for Bungie on Saturday the 23<sup>rd</sup>. I experienced _The Audio Production for Halo_ in a room absolutely packed. 
 
 Besides the technical aspects of him showing production screenshots and playing audio demos, I remember filling half a journal with notes about how sound can empower a non-linear story.
+
+{% include pattern-figure.html image="/assets/images/gdc-2002-locator-badge.jpg" caption="GDC 2002: Conference locator and my entrance badge" width="758" height="1024" %}
 
 ## After the GDC
 
@@ -222,7 +209,7 @@ Back in Milan, something changed. I was optimistic and excited about the vast am
 
 ## Team management
 
-During my stint at Playstos I happened to manage the work of five people. The best time was between 2002 and 2003, where two sound engineers and an audio programmer worked together in the studio.
+During my stint at Playstos I happened to manage the work of five people. My best time with the company was in 2001-2002, where two sound engineers and an audio programmer worked well together.
 
 I attended plenty of meetings where I offered suggestions and voiced our concerns, co-ordinating with the producers while meeting the agreed schedule.
 
@@ -236,7 +223,7 @@ To appeal to smaller publishers, the game _had to change_. New people with highe
 
 ### Burnout
 
-Some of the new leaders criticized the game, judging it as puerile. What was _Ruff Trigger_ as I knew it changed rapidly. Striving to be constructive, I supported a few decisions whilst debating others, and for that I was asked to _stop creating problems_. At the end of 2003 it looked like the sole goal was to cut corners and publish the game whatever the cost.
+Some of the new leaders criticized the game, calling it puerile. What was _Ruff Trigger_ as I knew it changed rapidly. Striving to be constructive, I supported a few decisions whilst debating others, and for that I was asked to _stop creating problems_. At the end of 2003 it looked like the goal was to cut corners and publish the game, whatever the cost.
 
 I asked to step down as team leader and renegotiated a new contract at the beginning of 2004, when I started working from home. A special VPN connection allowed me to use the internal assets and go to the studios once a month to check on the progress. Despite the renewed situation and being away from the office politics, I discovered how burned out I was.
 
@@ -248,20 +235,19 @@ At the end of that year, I left.
 
 Once Playstos found a publisher (Natsume), the game completed its transition from a multi-platform ambitious project to something else and was [released in 2007](https://www.mobygames.com/game/34741/ruff-trigger-the-vanocore-conspiracy/).
 
-{: .detached .text-center .my-5 }
-![Ruff Trigger's official packaging]({{ site.url }}/assets/images/playstos-ruff-trigger.jpg){: width='458' height='640' }
+{% include pattern-figure.html image="/assets/images/playstos-ruff-trigger.jpg" alt="Ruff Trigger's official packaging" caption="Ruff Trigger's official packaging" width="720" height="1006" %}
 
 ## Reactions
 
-Most of the less favorable feedback is focused on a couple of factors: a general lackluster gameplay and the excessive similarity with _Ratchet and Clank_. Our game intentionally wanted to resemble that title as an homage to the genre, however the initial ambition was sacrificed to limit the economic loss of a 7-year massive project, ending up with a cheap rip-off label attached to.
+Most of the less favorable feedback is focused on a couple of factors: a general lackluster gameplay and the excessive similarity with _Ratchet and Clank_. Originally, the game intentionally wanted to resemble that title as an homage to the genre, however the initial ambition was sacrificed to limit the economic loss of a 7-year massive project, ending up with a cheap rip-off label attached. Shame.
 
 ## Why didn't I join another game company
 
-Even though I kept working with audio, I turned most of my interest to web design. What started as time off the game industry turned into a different kind of career.
+Even though I kept working with audio, I turned most of my interest to web design. What started as time off the game industry turned into [a different kind of career](https://simonesilvestroni.com).
 
 Between 2016 and 2019 I wrote an autobiographical concept album where a few songs were made of [unused music]({{ site.url }}/blog/skinny-kid-song-backstory/) from the Playstos years. Initially conceived as a theatrical piece, it rekindled my passion for audio-visual narration prompting me to go back to game audio.
 
-While I updated my skills by studying Wwise, FMOD and how they interact with major game engines, I got to work as a [sound designer for Paris-based Amuse Animations]({{ site.url }}/work/sound-design/car-city-cartoon/).
+While I updated my skills by studying Wwise, FMOD and how they integrate with major game engines, I got to work as a [sound designer for Paris-based Amuse Animations]({{ site.url }}/work/sound-design/car-city-cartoon/).
 
 ## Reviews from Playstos
 

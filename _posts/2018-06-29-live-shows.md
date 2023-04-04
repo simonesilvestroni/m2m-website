@@ -16,7 +16,7 @@ tags:
   - 'portsmouth'
   - 'victorious festival'
   - 'uk'
-description: 'A comprehensive list of the live shows I performed around England as a bass player, between 2017 and 2018, with Callum Gardner and his band.'
+description: 'A comprehensive list of live shows that I performed around England as a bass player, between 2017 and 2018, with Callum Gardner and his band.'
 featimage: true
 featimage-name: 'live-with-callum-gardner.jpg'
 featimage-alt: Live in London with Callum Gardner and band
@@ -52,7 +52,7 @@ Drums, backing vocals
     <tr>
       <td>29 June</td>
       <td><a href="https://nottinghillartsclub.com/" target="_blank" rel="noopener noreferrer">Notting Hill Arts Club</a>, London</td>
-      <td><a href="https://youtu.be/pXi5-hiRKuM" target="_blank" rel="noopener noreferrer">Video</a> (YouTube)</td>
+      <td><a href="https://youtu.be/pXi5-hiRKuM" target="_blank" rel="noopener noreferrer">Video</a></td>
     </tr>
     <tr>
       <td>12 May</td>
@@ -116,7 +116,7 @@ Drums, backing vocals
     <tr>
       <td>19 July</td>
       <td><a href="https://www.strongroombar.com/" target="_blank" rel="noopener noreferrer">Strongroom</a>, London</td>
-      <td><a href="https://youtu.be/VqOZbBRU-H8" target="_blank" rel="noopener noreferrer">Video</a> (YouTube)</td>
+      <td><a href="https://youtu.be/VqOZbBRU-H8" target="_blank" rel="noopener noreferrer">Video</a></td>
     </tr>
     <tr>
       <td>1 July</td>
@@ -133,9 +133,7 @@ Drums, backing vocals
 
 ## Set list
 
-List of the songs we performed live. Music and lyrics: Callum Gardner.
-
-<p class="detached"><mark class="m2m-highlight small"><sup>[*]</sup> Studio version produced by <strong>Simone Silvestroni</strong>.</mark></p>
+List of the songs we performed live.
 
 <table class="table table-responsive table-striped mt-4 mb-5">
   <thead>
@@ -149,63 +147,67 @@ List of the songs we performed live. Music and lyrics: Callum Gardner.
   <tbody>
     <tr>
       <td>1</td>
-      <td>Commit To The List <sup>[*]</sup></td>
+      <td><em>Commit To The List</em> <sup>[*]</sup></td>
       <td><a href="https://open.spotify.com/track/4e2PTyfPfvw9WunM9nG0nT" target="_blank" rel="noopener noreferrer">Spotify</a></td>
-      <td>—</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Hang Loose <sup>[*]</sup></td>
+      <td><em>Hang Loose</em> <sup>[*]</sup></td>
       <td><a href="https://callumgardner.bandcamp.com/track/hang-loose" target="_blank" rel="noopener noreferrer">Bandcamp</a>, <a href="https://open.spotify.com/track/4fjsetRyxT355DTvrmYNqm" target="_blank" rel="noopener noreferrer">Spotify</a></td>
       <td><a href="https://youtu.be/OeDQvTX9jiA" target="_blank" rel="noopener noreferrer">YouTube</a></td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Wriggle A Little <sup>[*]</sup></td>
+      <td><em>Wriggle A Little</em> <sup>[*]</sup></td>
       <td><a href="https://callumgardner.bandcamp.com/track/wriggle-a-little" target="_blank" rel="noopener noreferrer">Bandcamp</a></td>
       <td><a href="https://youtu.be/DFX53PxJk5c" target="_blank" rel="noopener noreferrer">YouTube</a></td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Without You <sup>[*]</sup></td>
+      <td><em>Without You</em> <sup>[*]</sup></td>
       <td><a href="https://callumgardner.bandcamp.com/track/without-you" target="_blank" rel="noopener noreferrer">Bandcamp</a>, <a href="https://open.spotify.com/track/77TvW6kCTo3NlFlPsDWBMx" target="_blank" rel="noopener noreferrer">Spotify</a></td>
       <td><a href="https://youtu.be/YBhoeAqk2no" target="_blank" rel="noopener noreferrer">YouTube</a></td>
     </tr>
     <tr>
       <td>5</td>
-      <td>Optimism Is Dangerous <sup>[*]</sup></td>
-      <td>—</td>
-      <td>—</td>
+      <td><em>Optimism Is Dangerous</em> <sup>[*]</sup></td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>Here And Now</td>
+      <td><em>Here And Now</em></td>
       <td><a href="https://callumgardner.bandcamp.com/track/here-now" target="_blank" rel="noopener noreferrer">Bandcamp</a> (solo version)</td>
-      <td>—</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>Real With Me</td>
+      <td><em>Real With Me</em></td>
       <td><a href="https://callumgardner.bandcamp.com/track/real-with-me" target="_blank" rel="noopener noreferrer">Bandcamp</a> (solo version)</td>
       <td><a href="https://youtu.be/pXi5-hiRKuM" target="_blank" rel="noopener noreferrer">YouTube</a> (band live version)</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>Things That Go On</td>
+      <td><em>Things That Go On</em></td>
       <td><a href="https://soundcloud.com/callum_gardner/things-that-go-on-callum-gardner?si=5048f2d1df6048d98c8679661d630b18" target="_blank" rel="noopener noreferrer">SoundCloud</a></td>
-      <td>—</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>Piece Of Mind</td>
+      <td><em>Piece Of Mind</em></td>
       <td><a href="https://soundcloud.com/callum_gardner/piece-of-mind?si=0465f130489548b5b590841d4aea1ff1" target="_blank" rel="noopener noreferrer">SoundCloud</a></td>
-      <td>—</td>
+      <td>-</td>
     </tr>    
     <tr>
       <td>10</td>
-      <td>Performance</td>
+      <td><em>Performance</em></td>
       <td><a href="https://soundcloud.com/callum_gardner/performance-callum-gardner?si=9d15d36744bf470892b046cf87ef4b09" target="_blank" rel="noopener noreferrer">SoundCloud</a></td>
-      <td>—</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
+
+<small>&copy; Music and lyrics: Callum Gardner.</small>
+
+<sup>[*]</sup> Studio version produced by Simone Silvestroni.

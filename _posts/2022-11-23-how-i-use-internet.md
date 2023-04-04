@@ -46,7 +46,7 @@ My first e-mail client was [Eudora](https://en.wikipedia.org/wiki/Eudora_(email_
 
 I can read newsletters there, collected within a single tag, follow my YouTube subscriptions while avoiding the website altogether. This strips their algorithm out, along with the noise of comments and whatnot. If the urge to interact comes up, it’s easy to click the link and go to the website.
 
-While I enjoy the web app on Android, I've been using the free and open-source [NetNewsWire 6](https://netnewswire.com/) on macOS, which supports Feedbin accounts in the best and cleaner possible way.
+While I enjoy the web app on Android, I've been using the free and open-source [NetNewsWire](https://netnewswire.com/) on macOS, which supports Feedbin accounts in the best and cleaner possible way.
 
 Since I’m [not following mainstream news](/blog/degrowth/), the categories in Feedbin reflects my main interests:
 
@@ -68,38 +68,34 @@ After discovering the [pages functionality in Feedbin](https://feedbin.com/blog/
 
 ## Social interactions
 
-I joined Mastodon in 2017, only to leave after a few months because I still was on Twitter and its mechanism of keeping people hooked on the platform. In 2020, I’d deleted all my social media accounts and re-joined the Fediverse.
+I joined [Mastodon](https://indieweb.social/@m2m) in 2017, only to leave after a few months because I still was hooked on Twitter. In 2020, I’d deleted all my social media accounts and re-joined.
 
-Another angle on the Fediverse that I joined is [Pixelfed](https://pixelfed.social/@m2m). Promoted as a humane alternative to Instagram, is (intuitively) a photo-sharing platform. It’s quiet and relaxing, probably because it’s got a small number of subscribers.
-
-Outside the fediverse, I follow a few onine forums, in particular [Reaper’s](https://forum.cockos.com/forumdisplay.php?f=20). My Reddit account is strictly in read-mode, subscribing to a small bunch of sound design and game audio-related groups and checking them once a week.
+Outside the fediverse, I follow a couple of forums, namely [Reaper](https://forum.cockos.com/forumdisplay.php?f=20) and [Airwiggles](https://www.airwiggles.com).
 
 I started in the 1990s with BBSes and Usenet newsgroups. Still missing both.
 
 ## Personal and work websites
 
-Work on my websites is performed manually, after years on WordPress. It’s a minimalistic approach which perfectly suits the need to cut down on bloat and (digital) noise. I use Jekyll with its Liquid template language, writing posts in Markdown and deploying to Netlify. I love the process and it doesn’t cost a dime. Along with Mastodon, the blog is my way of reaching out.
+Work on my websites is performed manually, after years on WordPress. Its minimalistic approach perfectly suits the need to cut down on bloat and (digital) noise. I use [Jekyll](https://jekyllrb.com/) with its Liquid template language, writing posts in Markdown and deploying to Netlify. I love the process and it doesn’t cost a dime.
 
 I started blogging in March 2002.
 
 ## Traditional media online
 
-The only news outlet that I keep checking on regularly is [Legible News](https://legiblenews.com/). Like the newspapers of yore, they publish an update the day after. It’s slow, accurate, private and [doesn’t track](https://legiblenews.com/about).
+The only news outlet that I check somewhat regularly is [Legible News](https://legiblenews.com/). Like physical newspapers, they publish an update the day after. It’s slow, carefully sourced, and doesn’t track.
 
-If, for whatever reason, the need to read mainstream news headlines arises, I use the [text version of NPR](https://text.npr.org/). Nine times out of ten, I don’t click the links. The number of times I find myself checking the site decreases exponentially over time. Every blue moon I check [The Guardian](https://www.theguardian.com/international) and [The Atlantic](https://www.theatlantic.com/world/), in search for long-form analysis that can be added to my read later list.
+If, for whatever reason, the need to read mainstream news headlines arises, I sometimes use the [text version of NPR](https://text.npr.org/). The number of times I find myself checking the site decreases exponentially over time. When I stopped checking _The Guardian_, I simply subscribed to a couple of their weekly or monthly [newsletters](https://www.theguardian.com/email-newsletters), the ones about art, music and long-form reads.
 
 ## Search
 
-It might be 4 or 5 years since I stopped using Google as my search engine. Today I use a mix of [DuckDuckGo](https://duckduckgo.com/) and [Startpage](https://www.startpage.com/). Sometimes, [Marginalia](https://search.marginalia.nu/) is a good place to go to find weirder and authentic things.
+It might be 4 or 5 years since I stopped using Google as my search engine. I now use a mix of [DuckDuckGo](https://duckduckgo.com/) and [Startpage](https://www.startpage.com/). Sometimes, [Marginalia](https://search.marginalia.nu/) is a good place where to find interesting and hidden things.
 
 ## Browser
 
-My daily rider has been Firefox for more than a year, on both desktop and mobile. I use a Mozilla account to keep them in sync.
+My daily rider is Firefox on both desktop and mobile. I use a Mozilla account to keep them in sync.
 
 ## Chat
 
-While I still prefer e-mail for communicating with people, I have an account on Telegram and — unfortunately — WhatsApp. The latter feels forced onto me by the fact I’m about to move abroad again, and apparently my home country is hooked on Meta.
+While I still prefer e-mail for communicating with people, I have an account with Signal, Telegram and — unfortunately — WhatsApp. The latter feels forced onto me by the fact I’m about to move abroad again, and apparently my home country is hooked on Meta.
 
 I used IRC for a very long time. Don’t even know why I stopped, maybe the [network effect](https://en.wikipedia.org/wiki/Network_effect).
-
-I also maintain a [/uses page](/uses/) with a detailed list of equipment, both hardware and software.

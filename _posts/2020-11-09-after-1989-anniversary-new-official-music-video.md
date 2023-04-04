@@ -40,11 +40,11 @@ Drums
 **Simone Silvestroni**<br>
 Bass, piano, additional drums, sound effects
 
-## Production
+### Production
 
-Written and produced by Simone Silvestroni<br>
-Mastered by Ian Shepherd<br>
-Management Christopher Carvalho of Unlock Your Sound
+- Written and produced by Simone Silvestroni
+- Mastered by Ian Shepherd
+- Management Christopher Carvalho of Unlock Your Sound
 
-{: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
+{: .notice }
 [Read the album analysis →](/work/music/after-1989/)

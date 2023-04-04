@@ -12,9 +12,9 @@ tags:
   - 'music producer'
   - 'music production'
   - 'new york'
-description: "The new single by Antiquity, 'Shelter From A Storm' is my new bass recording and co-production, together with Gerald Duchene."
+description: "The new single by Antiquity, ‘Shelter From A Storm’ is my new bass recording and co-production, together with Gerald Duchene."
 ---
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2838120524/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/shelter-from-a-storm">Shelter From A Storm by Antiquity</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2838120524/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/shelter-from-a-storm">Shelter From A Storm by Antiquity</a></iframe>' %}
 
 Crafted by [Gerald](https://antiquitysessions1.bandcamp.com/track/shelter-from-a-storm) while an actual storm was battering New York, this song immediately captured my imagination. When he said “it’s calling for your bass”, I agreed. Recorded with a very few takes, cleaned up in half an hour, it’s unquestionably my best bass recording yet. 
 
@@ -67,9 +67,10 @@ Vocals and melody
 **Simone Silvestroni**<br>
 Bass
 
-Written and mixed by Gerald Duchene<br>
-Produced by Gerald Duchene and Simone Silvestroni<br>
-Mastered by Chris Pavey
+### Production
 
-{: .detached }
-<mark class="m2m-highlight small"><strong>Released</strong>: February 12, 2021.</mark>
+- Written and mixed by Gerald Duchene
+- Produced by Gerald Duchene and Simone Silvestroni
+- Mastered by Chris Pavey
+
+Released: 12 February, 2021.

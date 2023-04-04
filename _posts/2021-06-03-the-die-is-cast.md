@@ -18,8 +18,8 @@ description: "An autobiographical rumination about migration in Europe during a 
 featimage: true
 featimage-name: 'the-die-is-cast.jpg'
 featimage-alt: Cover for the EP ‘The Die Is Cast’
-featimage-width: 600
-featimage-height: 600
+featimage-width: 720
+featimage-height: 720
 permalink: /work/music/the-die-is-cast/
 ---
 ## Bandcamp
@@ -74,15 +74,15 @@ Vocals, mellotron, distorted guitar
 **Romy Gensale**<br>
 Background vocals
 
-## Production
+### Production
 
-Recorded between the UK, Italy and the United States.<br>
-_Papillon_ produced by Simone Silvestroni and Gerald Duchene. _Land Of Kings_ produced by Simone Silvestroni.<br>
-Mixed and mastered by Simone Silvestroni.
+- Recorded between the UK, Italy and the United States
+- _Papillon_ produced by Simone Silvestroni and Gerald Duchene
+- _Land Of Kings_ produced by Simone Silvestroni
+- Mixed and mastered by Simone Silvestroni
 
-{: .detached .small }
-<sup>&copy;</sup> 2018 Music and lyrics Dan Ecclestone.<br>
-<sup>&copy;</sup> 2021 Remix produced and arranged by Simone Silvestroni and Gerald Duchene. The copyright in this sound recording is owned by Minutes to Midnight and Gerald Duchene. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.
+<small>&copy; 2018 Music and lyrics Dan Ecclestone.</small>
 
-{: .detached }
-Released <strong>3 June 2021</strong>.
+<small>&copy; 2021 Remix produced and arranged by Simone Silvestroni and Gerald Duchene. The copyright in this sound recording is owned by Minutes to Midnight and Gerald Duchene. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.</small>
+
+Released: 3 June 2021.

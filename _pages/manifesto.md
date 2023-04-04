@@ -53,5 +53,3 @@ At the same time, I stopped caring for any arbitrary yearly cycle of forced upgr
 ## Newsletter
 
 If you subscribe to my newsletter, I will collect your email address, which will be safely stored. It will be used solely to send you emails. I do not share it with third parties. You can unsubscribe at any moment via the link in any newsletter.
-
-{% include pattern-last-updated.html %}

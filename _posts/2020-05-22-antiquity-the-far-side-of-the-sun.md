@@ -14,7 +14,7 @@ tags:
   - 'new york'
 description: 'Another beautiful track by Gerald Duchene where I produced one of my most sumptuous fretless bass ever.'
 ---
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
 
 ## Credits
 
@@ -27,8 +27,12 @@ Vocals and melody
 **Simone Silvestroni**<br>
 Bass
 
-Written, produced and mixed by Gerald Duchene<br>
-Mastered by Chris Pavey
+### Production
 
-{: .d-inline-block .border .border-3 .rounded .mt-5 .px-3 .py-3 }
+- Written, produced and mixed by Gerald Duchene
+- Mastered by Chris Pavey
+
+Released: 14 May 2020.
+
+{: .notice }
 [Read the project analysis →](/work/music-production/producing-bass-remotely/)

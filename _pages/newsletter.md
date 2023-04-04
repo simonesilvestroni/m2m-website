@@ -10,8 +10,12 @@ permalink: '/newsletter/'
 
 ## Past issues
 
-{% for post in site.newsletter reversed %}
-<p>
-  <small><mark class="border-radius">{{ post.date | date: "%d&nbsp;%b&nbsp;’%y" }}</mark></small>&nbsp;&nbsp;<a href="{{ post.url }}" title="Read the post">{{ post.title }}</a>
-</p>
-{% endfor %}
+<ul>
+  {%- for post in site.newsletter reversed %}
+  <li>
+    <a href="{{ post.url }}" title="Read the post">{{ post.title }}</a><br>
+    <small>{{ post.date | date: "%d %b %Y" }}</small>
+  </li>
+  <hr>
+  {% endfor -%}
+</ul>

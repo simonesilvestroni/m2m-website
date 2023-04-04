@@ -1,8 +1,8 @@
-<div>
+<div class="post-navigation">
   <div>
     {%- if page.previous.url %}{% unless page.previous.hidden -%}
     <a href="{{ page.previous.url }}">
-      <div><span>← Older</span></div>
+      <mark>←&nbsp;Older</mark><br><br>
       <span><strong>{{ page.previous.title }}</strong></span>
     </a>
     {% endunless %}{% endif %}
@@ -10,7 +10,7 @@
   <div>
     {%- if page.next.url %}{% unless page.next.hidden -%}
     <a href="{{ page.next.url }}">
-      <div><span>Newer →</span></div>
+      <mark>Newer&nbsp;→</mark><br><br>
       <span><strong>{{ page.next.title }}</strong></span>
     </a>
     {% endunless %}{% endif %}

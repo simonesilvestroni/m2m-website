@@ -31,5 +31,5 @@ A musical and historical journey with depths.
 
 I'm very thankful for the lovely feedback, especially for a 4-year-old album.
 
-{: .d-inline-block .border .border-3 .rounded .mt-3 .px-3 .py-3 }
+{: .notice }
 [All the album reviews →](/work/music/after-1989-reviews/)

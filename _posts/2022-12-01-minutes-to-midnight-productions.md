@@ -23,199 +23,154 @@ featimage: true
 thumbOnly: true
 permalink: /work/music-production/minutes-to-midnight-productions/
 ---
-## The Eclipse, single by Antiquity 🇺🇸
+## The Eclipse
 
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Production
+Single by **Antiquity**<br>
+Role: <mark>Production</mark><br>
+Country: USA
 
-{% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2746368137/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-eclipse">The Eclipse by Antiquity</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2746368137/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-eclipse">The Eclipse by Antiquity</a></iframe>' %}
 
----
+## Hidden Music
 
-## Hidden Music, album by Dan Ecclestone 🇬🇧
+Album by **Dan Ecclestone**<br>
+Role: <mark>Mix</mark><br>
+Country: UK
 
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Mix
+{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=3656047790/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://danecclestone.bandcamp.com/album/hidden-music">Hidden Music by Dan Ecclestone</a></iframe>' %}
 
-{% include pattern-bandcamp.html align="left" size="bc-album" iframecode='<iframe style="border: 0; width: 350px; height: 654px;" src="https://bandcamp.com/EmbeddedPlayer/album=3656047790/size=large/bgcol=333333/linkcol=ffffff/transparent=true/" seamless><a href="https://danecclestone.bandcamp.com/album/hidden-music">Hidden Music by Dan Ecclestone</a></iframe>' %}
+## Ciara Clifford
 
----
-
-## Ciara Clifford, album by Ciara Clifford 🇬🇧
-
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Strings production, Recording
+Album by **Ciara Clifford**<br>
+Role: <mark>Strings production</mark> <mark>Recording</mark><br>
+Country: UK
 
 {% include pattern-spotify.html id="4jaYdZbqJG4JVJrUVujqV7" type="album" height="390" %}
 
----
+## Zoom In Zoom Out
 
-## Zoom In Zoom Out, album by Mally Harpaz 🇬🇧
+Album by **Mally Harpaz**<br>
+Role: <mark>Strings production</mark> <mark>Recording</mark><br>
+Country: UK
 
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Strings production, Recording
+{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=1269621726/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://mallyharpaz.bandcamp.com/album/zoom-in-zoom-out">Zoom In Zoom Out by Mally Harpaz</a></iframe>' %}
 
-{% include pattern-bandcamp.html align="left" size="bc-album" iframecode='<iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=1269621726/size=large/bgcol=333333/linkcol=ffffff/transparent=true/" seamless><a href="https://mallyharpaz.bandcamp.com/album/zoom-in-zoom-out">Zoom In Zoom Out by Mally Harpaz</a></iframe>' %}
+## From The Country To The City To The Sea
 
----
+Album by **Ember Rev**<br>
+Role: <mark>Mix</mark><br>
+Country: UK
 
-## From The Country To The City To The Sea, album by Ember Rev 🇬🇧
+{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=404229151/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://emberrev.bandcamp.com/album/from-the-country-to-the-city-to-the-sea-2">From The Country To The City To The Sea by Ember Rev</a></iframe>' %}
 
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Mix
+## The Rules Of Night And Day
 
-{% include pattern-bandcamp.html align="left" size="bc-album" iframecode='<iframe style="border: 0; width: 350px; height: 753px;" src="https://bandcamp.com/EmbeddedPlayer/album=404229151/size=large/bgcol=333333/linkcol=ffffff/transparent=true/" seamless><a href="https://emberrev.bandcamp.com/album/from-the-country-to-the-city-to-the-sea-2">From The Country To The City To The Sea by Ember Rev</a></iframe>' %}
+Single by **Antiquity**<br>
+Role: <mark>Bass</mark><br>
+Country: USA
 
----
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=416597860/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-rules-of-night-and-day">The Rules Of Night And Day by Antiquity</a></iframe>' %}
 
-## The Rules Of Night And Day, single by Antiquity 🇺🇸
+## Funky Bacterium
 
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Bass
+Single by **Antiquity**<br>
+Role: <mark>Production</mark><br>
+Country: USA
 
-{% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=416597860/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-rules-of-night-and-day">The Rules Of Night And Day by Antiquity</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=4262932484/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/funky-bacterium">Funky Bacterium by Antiquity</a></iframe>' %}
 
----
+## In Our Dreams
 
-## Funky Bacterium, single by Antiquity 🇺🇸
+Single by **Antiquity**<br>
+Role: <mark>Bass</mark><br>
+Country: USA
 
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Production
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=984842794/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/in-our-dreams">In Our Dreams by Antiquity</a></iframe>' %}
 
-{% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=4262932484/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/funky-bacterium">Funky Bacterium by Antiquity</a></iframe>' %}
+## Without You
 
----
+Single by **Callum Gardner**<br>
+Role: <mark>Bass</mark> <mark>Production</mark> <mark>Mix</mark> <mark>Master</mark><br>
+Country: UK
 
-## In Our Dreams, single by Antiquity 🇺🇸
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3806119580/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/without-you">Without You by Callum Gardner</a></iframe>' %}
 
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Bass
+## Shelter From A Storm
 
-{% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=984842794/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/in-our-dreams">In Our Dreams by Antiquity</a></iframe>' %}
+Single by **Antiquity**<br>
+Role: <mark>Bass</mark> <mark>Production</mark><br>
+Country: USA
 
-{: .mb-5 }
-[Blog post →]({{ site.url }}/blog/antiquity-in-our-dreams/)
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2838120524/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/shelter-from-a-storm">Shelter From A Storm by Antiquity</a></iframe>' %}
 
----
+## Wriggle A Little
 
-## Shelter From A Storm, single by Antiquity 🇺🇸
+Single by **Callum Gardner**<br>
+Role: <mark>Bass</mark> <mark>Production</mark> <mark>Mix</mark> <mark>Master</mark><br>
+Country: UK
 
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Bass, Production
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1398022832/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/wriggle-a-little">Wriggle a Little by Callum Gardner</a></iframe>' %}
 
-{% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2838120524/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/shelter-from-a-storm">Shelter From A Storm by Antiquity</a></iframe>' %}
+## The Far Side Of The Sun
 
-{: .mb-5 }
-[Blog post →]({{ site.url }}/blog/shelter-from-a-storm-antiquity/)
+Single by **Antiquity**<br>
+Role: <mark>Bass</mark><br>
+Country: USA
 
----
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
 
-## The Far Side Of The Sun, single by Antiquity 🇺🇸
+## Hang Loose
 
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Bass
+Single by **Callum Gardner**<br>
+Role: <mark>Bass</mark> <mark>Production</mark> <mark>Mix</mark> <mark>Master</mark><br>
+Country: UK
 
-{% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1148436830/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/hang-loose">Hang Loose by Callum Gardner</a></iframe>' %}
 
-{: .mb-5 }
-[Case study →]({{ site.url }}/work/music-production/producing-bass-remotely/)
+## The Road From Salvation
 
----
+Single by **Antiquity**<br>
+Role: <mark>Bass</mark><br>
+Country: USA
 
-## The Road From Salvation, single by Antiquity 🇺🇸
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3254822052/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-road-from-salvation">The Road From Salvation by Antiquity</a></iframe>' %}
 
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Bass
+## The Evil Between Us
 
-{% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3254822052/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-road-from-salvation">The Road From Salvation by Antiquity</a></iframe>' %}
+Single by **Antiquity**<br>
+Role: <mark>Bass</mark><br>
+Country: USA
 
----
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=497731326/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-evil-between-us">The Evil Between Us by Antiquity</a></iframe>' %}
 
-## The Evil Between Us, single by Antiquity 🇺🇸
+## The Experience
 
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Bass
+Album by **Antiquity**<br>
+Role: <mark>Bass</mark><br>
+Country: USA
 
-{% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=497731326/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-evil-between-us">The Evil Between Us by Antiquity</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3153550265/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/album/the-experience-the-album">The Experience (The Album) by Antiquity</a></iframe>' %}
 
----
+## Eclipse/Kupatwa
 
-## The Experience, album by Antiquity 🇺🇸
-
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Bass
-
-{% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=3153550265/size=large/bgcol=333333/linkcol=ffffff/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/album/the-experience-the-album">The Experience (The Album) by Antiquity</a></iframe>' %}
-
----
-
-## Hang Loose, single by Callum Gardner 🇬🇧
-
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Bass, Production, Mix, Master
-
-{% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1148436830/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/hang-loose">Hang Loose by Callum Gardner</a></iframe>' %}
-
-{: .mb-5 }
-[Blog post →]({{ site.url }}/blog/callum-gardner-hang-loose/)
-
----
-
-## Wriggle A Little, single by Callum Gardner 🇬🇧
-
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Bass, Production, Mix, Master
-
-{% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1398022832/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/wriggle-a-little">Wriggle a Little by Callum Gardner</a></iframe>' %}
-
-{: .mb-5 }
-[Blog post →]({{ site.url }}/blog/callum-gardner-wriggle-a-little/)
-
----
-
-## Without You, single by Callum Gardner 🇬🇧
-
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Bass, Production, Mix, Master
-
-{% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3806119580/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/without-you">Without You by Callum Gardner</a></iframe>' %}
-
-{: .mb-5 }
-[Blog post →]({{ site.url }}/blog/callum-gardner-without-you/)
-
----
-
-## Eclipse/Kupatwa, single by Method Sinik 🇮🇹
-
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Bass, Production, Mix, Master
+Single by **Method Sinik**<br>
+Role: <mark>Bass</mark> <mark>Production</mark> <mark>Mix</mark> <mark>Master</mark><br>
+Country: Italy
 
 {% include pattern-video.html id="D0mFNEwirGg" %}
 
-{: .mb-5 }
-[Blog post →]({{ site.url }}/blog/method-sinik-eclipse/)
+## Nebbia (Part One)
 
----
+Song by **Arva Vacua**<br>
+Role: <mark>Mix</mark><br>
+Country: Italy
 
-{: .mt-5 .pt-5 }
-## Nebbia (Part One), song by Arva Vacua 🇮🇹
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3121255947/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://arvavacua.bandcamp.com/album/tales-from-holographic-seas">Tales from holographic seas by Arva Vacua</a></iframe>' %}
 
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Mix
+## Waiting (Imagine)
 
-{% include pattern-bandcamp.html align="left" size="bc-single" iframecode='<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3121255947/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/track=1132146010/transparent=true/" seamless><a href="https://arvavacua.bandcamp.com/album/tales-from-holographic-seas">Tales from holographic seas by Arva Vacua</a></iframe>' %}
-
-{: .mb-5 }
-[Blog post →]({{ site.url }}/blog/arva-vacua-debut-ep/)
-
-
----
-
-## Waiting (Imagine), single by AGA 🇮🇹
-
-{: .rounded .border .d-inline-block .mb-0 .me-1 .py-0 .px-2}
-Master
+Single by **AGA**<br>
+Role: <mark>Master</mark><br>
+Country: Italy
 
 {% include pattern-video.html id="BCJHjjzONf4" %}
-
----

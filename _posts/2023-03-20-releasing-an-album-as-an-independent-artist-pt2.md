@@ -21,14 +21,13 @@ syndicate:
   - name: Mastodon
     url: https://indieweb.social/@m2m/110057816455118169
 ---
-[← Part 1](/blog/releasing-an-album-as-an-independent-artist-pt1/) was about what the album meant to me and a few considerations about what a successful release is and isn't.
+{: .notice }
+[← Part 1](/blog/releasing-an-album-as-an-independent-artist-pt1/) was about what the album meant to me and a few considerations about what a successful release is and isn't.<br><br>I’ll explore now the release campaign, how we approached the concept of social media marketing, why it failed (for me) and what changed in the aftermath.
 
-I’ll explore now the release campaign, how we approached the concept of social media marketing, why it failed (for me) and what changed in the aftermath.
+Here’s the song _Unter Den Linden_, arranged with [Paolo Clementi](https://www.discogs.com/artist/2142806-Paolo-Clementi):
 
-<div class="border border-3 rounded mt-5 px-3 py-3">
-  <p>Here’s the song <em>Unter Den Linden</em>, arranged with <a href="https://www.discogs.com/artist/2142806-Paolo-Clementi">Paolo Clementi</a>:</p>
-  {% include pattern-bandcamp.html size='bc-single' my='my-0' iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=449979971/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
-</div>
+{% include pattern-bandcamp.html size='bc-single' iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=449979971/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
+
 ## The release campaign
 
 I hired [Christopher Carvalho of Unlock Your Sound](https://unlockyoursound.com/christopher-carvalho/) as a manager for *After 1989* way ahead of my ideal album release day, 9 November 2019. The date wasn’t randomly chosen, as it was a double anniversary: the fall of the Berlin Wall (30 years) and the [Kristallnacht](https://en.wikipedia.org/wiki/Kristallnacht) (81 years).
@@ -53,7 +52,7 @@ That was also a time where I found myself increasingly at odds with mainstream s
 
 Something that truly bothered me was the fact that Spotify completed the commodification of music in a way that I couldn’t stand. Everyone kept repeating how good of a *marketing tool* for musicians it was. I could never see that. Spotify don't tell you who your fans are, don't allow fans to get in touch with you and surely isn’t interested in making indie music profitable.
 
-{% include pattern-figure.html image="/assets/images/releasing-album-spotify-bandcamp.png" alt="Post on Mastodon where the author says ‘Spotify: 25000 people listened to your album, we’ll never tell you who they are and how they found you! Here’s $1.74.’ Bandcamp: 30 people bought your album and left a comment! Here’s $250’" caption="A recent post on Mastodon" width="551" height="223" %}
+{% include pattern-figure.html image="/assets/images/releasing-album-spotify-bandcamp.png" alt="Post on Mastodon where the author says ‘Spotify: 25000 people listened to your album, we’ll never tell you who they are and how they found you! Here’s $1.74.’ Bandcamp: 30 people bought your album and left a comment! Here’s $250’" caption="A recent post on Mastodon" width="720" height="309" %}
 
 It wasn’t the ridiculous trickle of pennies that the streaming services sent me over the next thirty-eight months, nor the fact that Bandcamp was indeed in a different league (I knew my followers, got messages, reviews, sold CDs and digital albums). It was the obnoxious feeling that corporate social media, and Spotify, weren’t a place where I wanted to be.
 

@@ -9,9 +9,8 @@ tags:
   - 'music production'
   - 'sound design'
   - 'waves'
-description: 'The software company announced their switch to a subscription-only business model, leaving behind a loyal user base of several decades. People are not happy.'
+description: 'The software company announced their switch to a subscription-only business model, leaving behind a loyal user base of several decades.'
 ---
-
 From their announcement (emphasis mine):
 
 > Since we started Waves, our goal has been to give all music and audio creators full, **affordable access** to the largest, most diverse set of  top-quality audio tools.
@@ -35,7 +34,7 @@ Besides the evident gaslighting in their marketing announcement — who asked to
 - A subscription-based business model on its own isn’t new and attractive anymore, especially after realising that they sum up to make an often unsustainable amount each month.
 - People seems finally tired of *not owning anything* anymore. Which to me is another side of corporate walled gardens.
 
-## Gaslighting marketing
+## Gaslight marketing
 
 Besides Waves’ own FAQ, I’ve also seen music producers around YouTube promoting this refrain: *nothing has changed*. It goes like this: since the now obsolete Waves Update Plan was $240 per year, where’s the issue? You only have to pay 10 bucks on top of that and you get access to everything.
 

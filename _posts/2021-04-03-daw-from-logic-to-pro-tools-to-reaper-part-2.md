@@ -15,16 +15,13 @@ tags:
   - 'audio software'
   - 'music production'
   - 'game audio'
-description: "In 12 months I've managed to revolutionize my workflow, twice. Part 2 of why I migrated to REAPER is about customization, community, stock plug-ins."
+description: "In 12 months I’ve managed to revolutionize my workflow, twice. Part 2 of why I migrated to REAPER is about customization, community, stock plug-ins."
 ---
-<div class="m2m-bg-alpha rounded-3 px-4 py-3">
-  <p>In <strong><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/">part 1</a></strong> I discussed:</p>
-  <ul class="mb-0">
-    <li>Cost</li>
-    <li>Multi-platform</li>
-    <li>A different workflow</li>
-  </ul>
-</div>
+In [part 1]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/) I discussed:
+
+- Cost
+- Multi-platform
+- A different workflow
 
 ## Benefit 4: Customization
 
@@ -108,10 +105,7 @@ I had decided a while back to settle on [very few third-party plug-ins](/uses/),
 
 {% include pattern-video.html id="3OoVnTO3AB4" %}
 
-<div class="m2m-bg-alpha rounded-3 px-4 py-3">
-  <p>In <strong><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-3/">part 3</a></strong> I’ll be discussing:</p>
-  <ul class="mb-0">
-    <li>Open architecture &amp; development cycle</li>
-    <li>Efficiency</li>
-  </ul>
-</div>
+In [part 3]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-3/) I’ll be discussing:
+
+- Open architecture &amp; development cycle
+- Efficiency

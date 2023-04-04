@@ -20,7 +20,5 @@ Angry Baby has been sharing new music from outstanding independent musicians for
 > 
 > <cite>— [Angry Baby](https://www.angrybaby.co.uk/minutes-to-midnight-after-1989-a-trip-to-freedom/)</cite>
 
-Thanks so much to Jane and Deb from _Angry Baby_ for this album review. And thanks to [Christopher Carvalho](https://www.youtube.com/channel/UCFYW6EZMLLT0jIi0SJQeUiQ) of Unlock Your Sound for another awesome feature about my album _After 1989_.
-
-{: .d-inline-block .border .border-3 .rounded .mt-5 .px-3 .py-3 }
+{: .notice }
 [Read the album analysis →](/work/music/after-1989/)

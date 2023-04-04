@@ -24,7 +24,7 @@ description: '75 years ago, while two young men escaped from Sachsenhausen conce
 
 ## Backstory
 
-6 August 1945: at 8:15am (Hiroshima time), an atomic bomb called _Little Boy_, the first ever to be dropped on a populated city, took less than 50 seconds to fall from the _Enola Gay_ to the city. The _B-29_ stayed over the target area for two minutes and was ten miles away when the bomb detonated.
+6 August 1945, at 8:15am (Hiroshima time), an atomic bomb called _Little Boy_, the first ever to be dropped on a populated city, took less than 50 seconds to fall from the _Enola Gay_ to the city. The _B-29_ stayed over the target area for two minutes and was ten miles away when the bomb detonated.
 
 {% include pattern-figure.html image="/assets/images/hiroshima_aftermath.jpg" caption="The aftermath, Hiroshima" width="780" height="546" %}
 
@@ -56,17 +56,17 @@ Acoustic guitar
 **Simone Silvestroni**<br>
 Bass, drums, sound effects
 
-## Production
+### Production
 
-Written and produced by Simone Silvestroni<br>
-Mastered by Ian Shepherd<br>
-Management by Christopher Carvalho of Unlock Your Sound
+- Written and produced by Simone Silvestroni
+- Mastered by Ian Shepherd
+- Management by Christopher Carvalho of Unlock Your Sound
 
-## Footage
+### Footage
 
-Prelinger Archive<br>
-U.S. Army<br>
-Barbed wire design by freepik.com
+- Prelinger Archive
+- U.S. Army
+- Barbed wire design by freepik.com
 
-{: .d-inline-block .border .border-3 .rounded .mt-5 .px-3 .py-3 }
+{: .notice }
 [Read the album analysis →](/work/music/after-1989/)
