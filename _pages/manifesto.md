@@ -18,7 +18,7 @@ I subscribe to the _brutalist design manifesto_ by David Bryant Copeland.
 
 > A website is for a visitor, using a browser, running on a computer to read, watch, listen, or perhaps to interact. A website that embraces Brutalist Web Design is raw in its focus on content, and prioritization of the website visitor.<cite>—&nbsp;[Brutalist Web Design](https://brutalist-web.design/)</cite>
 
-In line with a minimalist approach, [fighting against bloatware](/colophon/) means that this website keeps resources at the bare minimum. It doesn't weigh on broadband and electricity with useless scripts, tracking, ads or pointless stock photos. Over the last two years, I reduced the overall size by roughly <mark>724 MB</mark>.
+In line with a minimalist approach, [fighting against bloatware](/manifesto/) means that this website keeps resources at the bare minimum. It doesn't weigh on broadband and electricity with useless scripts, tracking, ads or pointless stock photos. Over the last two years, I reduced the overall size by roughly <mark>724 MB</mark>.
 
 ## Decentralization
 

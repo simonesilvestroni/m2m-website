@@ -11,8 +11,14 @@ layout: default
   <figcaption class="p-name">{{ page.featimage-caption }}</figcaption>
 </figure>
 {% endif %}
-<p class="p-summary">{{ page.description }}</p>
+<fieldset class="tldr">
+  <legend>TL;DR</legend>
+  <p class="p-summary">
+    {{ page.description }}
+  </p>
+</fieldset>
 <div class="e-content">
 {{ content }}
-<section>{% include pattern-last-updated.html %}</section>
+<br>
+{% include pattern-last-updated.html %}
 </div>

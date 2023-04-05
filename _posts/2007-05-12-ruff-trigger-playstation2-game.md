@@ -22,7 +22,7 @@ tags:
   - "case study"
 description: "As an audio team leader for 5 years I wrote music and sound effects, bootstrapping the first stage of the Playstation2 video game ‘Ruff Trigger’."
 featimage: true
-featimage-name: 'ruff-trigger-playstation2-game.jpg'
+featimage-name: 'ruff-trigger-playstation2-video-game.jpg'
 featimage-alt: Ruff Trigger game cover
 featimage-width: 720
 featimage-height: 720

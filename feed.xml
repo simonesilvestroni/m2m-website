@@ -9,7 +9,7 @@ layout: none
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}</link>
     <language>{{ site.lang }}</language>
-    <copyright>{{ site.url }}/colophon/#copyright</copyright>
+    <copyright>{{ site.url }}/credits/#copyright</copyright>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     {% assign blog = site.documents | where:"layout", "post" | sort: 'date' | reverse %}
     {% for post in blog limit:site.posts_limit %}

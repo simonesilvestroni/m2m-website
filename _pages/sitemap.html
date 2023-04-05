@@ -7,20 +7,7 @@ description: 'A full map for the website, including blog posts, case studies, pa
 permalink: '/sitemap/'
 ---
 <section>
-  <h2>Posts</h2>
-  {%- assign blog = site.documents | where:"layout", "post" | sort: 'date' | reverse %}
-  {%- for post in blog %}
-  <ul>
-    <li>
-      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark><small>CASE STUDY</small></mark>{% endif %}{% if post.tags contains "popular" %}&nbsp;&nbsp;<mark><small>POPULAR</small></mark>{% endif %}<br>
-      <small class="dim"><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time></small>
-    </li>
-  </ul>
-  {%- endfor -%}
-</section>
-
-<section>
-  <h2>Pages</h2>
+  <h2>Pages <sup><small>({{ site.pages | where:"layout", "page" | size }})</small></sup></h2>
   {%- assign pages = site.pages | where:"layout", "page" | sort: 'title' %}
   {%- for page in pages %}
   {%- unless page.sitemap == false %}
@@ -37,7 +24,20 @@ permalink: '/sitemap/'
 </section>
 
 <section>
-  <h2>Tags</h2>
+  <h2>Posts <sup><small>({{ site.posts | size }})</small></sup></h2>
+  {%- assign blog = site.documents | where:"layout", "post" | sort: 'date' | reverse %}
+  {%- for post in blog %}
+  <ul>
+    <li>
+      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark><small>CASE STUDY</small></mark>{% endif %}{% if post.tags contains "popular" %}&nbsp;&nbsp;<mark><small>POPULAR</small></mark>{% endif %}<br>
+      <small class="dim"><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time></small>
+    </li>
+  </ul>
+  {%- endfor -%}
+</section>
+
+<section>
+  <h2>Tags <sup><small>({{ site.tags | size }})</small></sup></h2>
   {% assign sorted_tags = site.tags | sort %}
   {%- for tag in sorted_tags -%}
   {%- assign t = tag | first %}

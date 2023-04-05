@@ -1,14 +1,16 @@
 ---
-title: 'Minutes to Midnight, Sound designer bass player and music producer'
+title: 'Hi, Simone Silvestroni here 👋'
 date: '2021-11-06 13:41:57'
 last_modified_at: '2023-04-02 17:40:35'
 ---
 <div class="h-entry">
-  <section class="h-feed">
-    <ul>
-      {% for post in site.posts limit: 3 -%}
-      <li><a href="{{ post.url }}" title="Read the post">{{ post.title }}</a><br><small>{{ post.date | date: "%d %b %Y" }}</small></li>
-      {% endfor -%}
-    </ul>
-  </section>
+  <p class="p-summary">I’m a digital polymath focused on high-quality audio productions since 1992.</p>
+  <p>I <a href="/blog/">write about</a> music, sound design, video games and how I use technology to translate audio into an enjoyable experience.</p>
+  <br>
+  <fieldset>
+    <legend><strong>LATEST POST</strong></legend>
+    {% for post in site.posts limit: 1 -%}
+    <a href="{{ post.url }}" title="Read the post">{{ post.title }}</a><br><small>{{ post.date | date: "%d %b %Y" }}</small>
+    {% endfor -%}
+  </fieldset>
 </div>

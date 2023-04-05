@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 'Colophon'
+title: 'Credits'
 date: '2023-01-14 13:49:31'
 last_modified_at: '2023-03-22 09:44:04'
 description: 'I developed the site from scratch, including designing the theme. Here is a list of tools, benchmarks and considerations.'
-permalink: '/colophon/'
+permalink: '/credits/'
 ---
 ## Tech
 

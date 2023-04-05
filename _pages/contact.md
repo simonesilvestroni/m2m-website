@@ -1,29 +1,23 @@
 ---
 layout: page
-title: Contacts
+title: Contact
 date: '2021-11-08'
 last_modified_at: '2023-04-04 18:32:46'
 description: 'The best way to get in touch is to reach out via email and we’ll take it from there.'
-permalink: '/contacts/'
+permalink: '/contact/'
 ---
 {: .notice }
 ✍️ [Send an email →](mailto:hello@minutestomidnight.co.uk)
 
-## Bass tracks
+## Work together
 
-I'm available through [SoundBetter&nbsp;↗︎](https://soundbetter.com/profiles/206552-simone-silvestroni), a safe and secure platform for freelance musicians.
+For bass tracks, I'm available on [SoundBetter&nbsp;↗︎](https://soundbetter.com/profiles/206552-simone-silvestroni) — a safe and secure platform for freelance musicians.
 
-## Find me elsewhere
-
-<ul>
-  {% for item in site.data.nav-social -%}
-  <li><a href="{{ item.link }}" title="{{ item.name }}">{{ item.name }}</a></li>
-  {% endfor -%}
-</ul>
+For anything else [connect via LinkedIn&nbsp;↗︎](https://www.linkedin.com/in/simonesilvestroni/) or reach out via email.
 
 ## PGP key
 
-Fingerprint <code>DE83 606B EFEF 6726 05DE 3D4B D780 2B3D 11F5 85E5</code>.
+If secure communication is needed, my key fingerprint is <code>DE83 606B EFEF 6726 05DE 3D4B D780 2B3D 11F5 85E5</code>.
 
 <details>
   <summary>🔐 <strong>Public key</strong></summary>

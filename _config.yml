@@ -149,23 +149,3 @@ endorsements:
     role: 'Music composer and producer'
     url: 'https://soundbetter.com/profiles/174278-martin-wykes'
     quote: 'Simone, is a wonderful bass player and an absolute professional to work with. He does exactly what he says on the tin and delivers musical and imaginative bass lines that help make the track shine. He is extremely detailed and musical and he definitely brings a style of his own to the project which made the song better. He also has an absolute pro sound that fits right into a mix. Just brilliant.'
-
-# -------------------
-# Work certifications
-# -------------------
-certifications:
-  - name: 'Berklee College Of Music'
-    href: 'https://www.berklee.edu/'
-    desc: '(audio master engineering, music production, electric bass), 2011-2016.'
-  - name: 'Apple Pro Certified'
-    href: 'https://training.apple.com/'
-    desc: 'Logic Pro X 10.3, London, 2017.'
-  - name: 'Game Developer Conference'
-    href: 'https://gdconf.com/'
-    desc: 'San Jose (CA), 2002.'
-  - name: 'Game Audio Network Guild'
-    href: 'https://www.audiogang.org/'
-    desc: 'bronze member, San Jose (CA), 2002.'
-  - name: 'Centro Professione Musica'
-    href: 'https://www.cpm.it/corsi-musica-milano'
-    desc: 'diploma (bass, music theory, harmony &amp; arrangement), Milan, 1993-1995.'

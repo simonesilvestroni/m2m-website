@@ -5,6 +5,9 @@ menu:
   - name: BLOG
     link: /blog/
     desc: 'Articles, interviews, press releases'
-  - name: CONTACTS
-    link: /contacts/
+  - name: WORK
+    link: /work/
+    desc: 'Recent projects'
+  - name: CONTACT
+    link: /contact/
     desc: 'Get in touch'
