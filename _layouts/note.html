@@ -1,16 +1,29 @@
 ---
 layout: default
 ---
-<p>
-  <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time><br>
-  <strong>In reply to</strong> <a href="{{ page.replyto }}" class="u-in-reply-to">{{ page.replyto }}</a>&nbsp;↗
-  {%- if page.originalpost -%}
-  <br>
-  ↪️ <a href="{{ site.url }}/blog/{{ page.originalpostURL }}/" class="u-in-reply-to">Original post</a>
-  {% endif %}
-</p>
-<div class="e-content">
-  {{ content }}
-</div>
-<a href="/notes/">← <span class="p-category">Notes</span></a>
-{%- include pattern-responses.html -%}
+<article>
+  <header>
+    <h1 class="p-name">{{ page.title }}: {{ page.date | date: "%-d %B %Y %T" }}</h1>
+    <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a rel="me" class="u-url u-uid dim" href="{{ site.url }}{{ page.url }}" title="Permalink">{{ page.date | date: "%-d %B %Y" }}</a></time> &middot <span class="p-author h-card">Written by <img class="u-photo hidden" src="{{ site.url }}/assets/images/favicons/favicon.svg" alt="Minutes to Midnight's avatar" width="24" height="24"> <a class="p-name" href="{{ site.url }}/about/" rel="author">Simone Silvestroni</a></span> 
+  </header>
+  <fieldset class="tldr">
+    <legend>
+      {%- comment %}<!-- //// REPLY \\\\ -->{% endcomment -%}
+      {%- if page.replyto %}
+      <svg width="24" height="24" fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.704 16.294a1 1 0 1 1-1.415 1.414l-4.997-5.004a1 1 0 0 1 0-1.413L8.29 6.293a1 1 0 0 1 1.415 1.414L6.41 11H13a8 8 0 0 1 7.996 7.75L21 19a1 1 0 1 1-2 0 6 6 0 0 0-5.775-5.996L13 13H6.414l3.29 3.294Z" fill="currentColor"/></svg>&nbsp;In reply to <a href="{{ page.replyto }}" class="u-in-reply-to"><mark>{{ page.replytouser }}</mark></a>
+      {%- comment %}<!-- //// LIKE \\\\  -->{% endcomment -%}
+      {% elsif page.likeof %}
+      <svg width="24" height="24" fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m12.82 5.58-.82.822-.824-.824a5.375 5.375 0 1 0-7.601 7.602l7.895 7.895a.75.75 0 0 0 1.06 0l7.902-7.897a5.376 5.376 0 0 0-.001-7.599 5.38 5.38 0 0 0-7.611 0Z" fill="currentColor"/></svg>&nbsp;A like of
+      {% endif -%}
+    </legend>
+    {%- if page.replyto %}
+    <div class="e-content">{{ content }}</div>
+    {% elsif page.likeof %}
+    <p><a href="{{ page.likeof }}" class="u-like-of">{{ page.likeoftitle }}</a> by <mark>{{ page.likeofuser }}</mark></p>
+    {% endif -%}
+  </fieldset>
+  {%- comment %}<!-- //// ORIGINAL POST \\\\  -->{% endcomment -%}
+  {%- if page.originalpost %}<span class="hidden"><a href="{{ site.url }}/blog/{{ page.originalpostURL }}/" class="u-in-reply-to">Original post</a></span>{% endif -%}
+  {%- comment %}<!-- //// RESPONSES \\\\  -->{% endcomment -%}
+  {%- include pattern-responses.html -%}
+</article>

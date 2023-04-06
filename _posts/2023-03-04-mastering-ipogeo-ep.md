@@ -55,4 +55,4 @@ With [SWS](https://www.sws-extension.org/) installed, checking on loudness is a 
 
 {% include pattern-video.html id="kXk8FZjz4OU" %}
 
-<mark><small>Released 3 March 2023.</small></mark>
+Released: 3 March 2023

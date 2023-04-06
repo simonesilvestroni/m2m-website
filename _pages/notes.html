@@ -1,0 +1,20 @@
+---
+layout: page
+title: Notes
+date: '2022-05-12'
+last_modified_at: '2023-04-06 18:41:25'
+permalink: '/notes/'
+description: 'I’m using notes as Indieweb replies and likes sent through webmentions.'
+sitemap: false
+robots: 'noindex,follow'
+---
+<ul>
+  {% for note in site.notes reversed -%}
+  <li><a href="{{ note.url }}">{{ note.date | date: "%-d %b %Y %T" }}</a>&nbsp;
+    {%- if note.replyto -%}
+    in <strong>reply</strong> to&nbsp;<a href="{{ note.replyto }}"><code>{{ note.replytouser }}</code></a>
+    {%- elsif note.likeof %}
+    a <strong>like</strong> of <a href="{{ note.likeof }}">{{ note.likeoftitle }} by&nbsp;<code>{{ note.likeofuser }}</code></a>
+    {%- endif %}</li><hr>
+  {% endfor -%}
+</ul>

@@ -14,15 +14,15 @@ Finally, I’m leaving social media — Facebook, Twitter, Instagram, Reddit —
 
 ## _13 Days_ Official Video and New Review
 
-Secret Eclectic is a London-based website founded by a team who love supporting emerging acts. Their [review of 13 Days&nbsp;↗︎](/blog/secret-eclectic-review-13-days/) is an amazing act of love for people who likes to listen to albums and dig deeper into music.
+Secret Eclectic is a London-based website founded by a team who love supporting emerging acts. Their [review of 13 Days](/blog/secret-eclectic-review-13-days/) is an amazing act of love for people who likes to listen to albums and dig deeper into music.
 
 ## _In Our Dreams_ by Antiquity
 
-_In Our Dreams_ is out now. Written, produced & mixed by Gerald Duchene. Vocals & melody by Dan Ecclestone. Bass by Minutes to Midnight. Mastered by Chris Pavey. [Listen to the song&nbsp;↗︎](/blog/antiquity-in-our-dreams/)
+_In Our Dreams_ is out now. Written, produced & mixed by Gerald Duchene. Vocals & melody by Dan Ecclestone. Bass by Minutes to Midnight. Mastered by Chris Pavey. [Listen to the song](/blog/antiquity-in-our-dreams/)
 
 ## Google Rejects _Attentat 1942_
 
-Brilliant article by Gamasutra about the release of the videogame _Attentat 1942_, about World War II. Despite the developer’s effort, Google refused to publish the game on their Play Store in Germany, France, Austria and Russia. [Read the post & watch the teaser&nbsp;↗︎](/blog/google-rejects-attentat-1942-from-play-store/)
+Brilliant article by Gamasutra about the release of the videogame _Attentat 1942_, about World War II. Despite the developer’s effort, Google refused to publish the game on their Play Store in Germany, France, Austria and Russia. [Read the post & watch the teaser](/blog/google-rejects-attentat-1942-from-play-store/)
 
 <br>
 

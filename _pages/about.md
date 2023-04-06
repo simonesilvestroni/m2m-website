@@ -3,75 +3,69 @@ layout: page
 title: 'About'
 date: '2022-01-14'
 last_modified_at: '2023-02-03 16:27:19'
-description: 'A graduated bassist and producer, I founded Minutes to Midnight as an outlet for releasing music and work on sound design, game audio, bass tracks and other productions.'
-# featimage: true
-# featimage-name: 'simone-silvestroni-warwick-bass.jpg'
-# featimage-alt: Simone Silvestroni in Cambridge, standing, with the Warwick Thumb Bass
-# featimage-caption: Photo by Silvia Maggi, Cambridge (UK) 2019
-# featimage-width: 720
-# featimage-height: 960
+description: 'A graduated bassist and producer, I founded Minutes to Midnight to release my music and provide services such as sound design, game audio, bass tracks and production.'
+featimage: true
+featimage-name: 'simone-silvestroni-in-the-studio.png'
+featimage-alt: Simone Silvestroni in the studio in Cambridge, sitting while playing a Fender Jazz bass
+featimage-width: 720
+featimage-height: 960
 permalink: '/about/'
 ---
 ## Quick facts
 
-- I lived for 16 years in Milan.
-  <hr>
-- Had a 6-year stint in high-end music studios acquiring audio skills during the 1990s.
-  <hr>
-- Started as a professional bass player both in the studio and live after graduating in 1995 at the CPM Music Institute.
-  <hr>
+- First name is pronounced `see-mow-nay`.
+  <br><br>
+- My first live gig was in 1988, followed by an 8-year stint in high-end music studios acquiring audio skills.
+  <br><br>
+- Worked as a professional bass player after graduating at the CPM Music Institute in 1995.
+  <br><br>
+- I lived and worked for 16 years in Milan.
+  <br><br>
 - Participated to the Game Developer Conference in 2002, where I witnessed to the launch of Steam by Valve and joined as a Bronze Member the [Game Audio Guild Network](/work/sound-design/ruff-trigger-playstation2-game/#game-developer-conference-and-gang) on the day of its foundation.
-  <hr>
+  <br><br>
+- In the same year, I started my first blog, journaling about working long hours on a console video game while playing *Ico* during pauses.
+  <br><br>
 - Moved to the UK in 2011, first London then Cambridge.
-  <hr>
-- Graduated at Berklee Music College (bass, audio mastering and music production) 2011-2016.
-  <hr>
+  <br><br>
+- Graduated at the Berklee College of Music (audio mastering and music production) in 2017.
+  <br><br>
 - I see video games as the ultimate audio-visual narrative medium.
-  <hr>
+  <br><br>
 
 ## Accomplishments
 
-- [Game audio designer]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/) in the early noughties. While leading the audio team, in March 2002 I **started my first blog**, journaling about working long hours on a console video game while playing *Ico* during pauses.
-  <hr>
+- [Lead game audio designer]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/) in the early noughties, with 1 title published.
+  <br><br>
 - Crafted a [parallel career in web development](https://simonesilvestroni.com) out of my love for a previous job in the print industry.
-  <hr>
+  <br><br>
 - Released a [personal story as a concept album](/work/music/after-1989/) on the 30<sup><small>th</small></sup> anniversary of the opening of the Berlin Wall.
-  <hr>
+  <br><br>
 - Worked as a [sound designer for a cartoon series](/work/sound-design/car-city-cartoon/).
-  <hr>
+  <br><br>
 - Built two music studios from the ground-up.
-  <hr>
+  <br><br>
 - Apple certified for Logic Pro X, [I transitioned to Pro Tools and later REAPER](/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/).
-  <hr>
-- I've been working with UK and US-based artists such as Gerald Duchene, Dan Ecclestone, Rachel Goodman, Ember Rev, Mally Harpaz (Anna Calvi), Ciara Clifford and Callum Gardner.
-  <hr>
-- Constantly looking for a way to complete a task in less and more efficient steps, I wrote an ebook about [project management for musicians]({{ site.url }}/work/project-management/).
-  <hr>
+  <br><br>
+- I've been working with [UK and US-based artists](/work/music-production/) such as Gerald Duchene, Dan Ecclestone, Rachel Goodman, Ember Rev, Mally Harpaz (Anna Calvi), Ciara Clifford and Callum Gardner.
+  <br><br>
 - As a mixer, I often share projects with renowned master engineer [Ian Shepherd](https://productionadvice.co.uk/about/).
-  <hr>
+  <br><br>
+- Constantly looking for a way to complete a task in less and more efficient steps, I wrote an ebook about [project management for musicians]({{ site.url }}/work/project-management/).
+  <br><br>
 - Endorsed by [Leland Sklar and others](/work/endorsements/).
-  <hr>
+  <br><br>
 
 ## Skills
 
 - Bass
-  <hr>
 - Recording
-  <hr>
 - Editing
-  <hr>
 - Mixing (my favourite stage of production)
-  <hr>
 - Mastering
-  <hr>
 - Field recording
-  <hr>
 - Foley
-  <hr>
 - Game audio integration: Wwise, Unity, FMOD and Unreal
-  <hr>
 - After switching from analog to digital two decades ago, I currently work entirely in the box
-  <hr>
 
 ## Updates
 
@@ -89,6 +83,6 @@ permalink: '/about/'
 
 ## More about me
 
-- [What I use](/uses/)
 - [A personal manifesto](/manifesto/)
+- [What I use](/uses/)
 - About [Minutes to Midnight's name and logo](/about/name-and-logo/)

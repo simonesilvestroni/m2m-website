@@ -16,4 +16,4 @@ permalink: '/work/endorsements/'
 {% endfor %}
 
 {: .notice }
-[More on LinkedIn](https://www.linkedin.com/in/simonesilvestroni/)&nbsp;↗︎
+[More on LinkedIn](https://www.linkedin.com/in/simonesilvestroni/)

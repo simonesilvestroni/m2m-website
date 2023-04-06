@@ -9,8 +9,7 @@ permalink: '/work/music-production/'
 {%- assign musicproduction = site.posts | where_exp:'post','post.tags contains "music production" and post.tags contains "case study"' -%}
 {%- for project in musicproduction %}
 {% include card-project.html %}
-{% unless forloop.last %}
-{% endunless %}
+<hr>
 {% endfor %}
 
 ## Playlist with a selection of my bass recordings

@@ -19,6 +19,6 @@ Amazing article by Om Malik, where he argues the merits of sustainable business 
 
 > Spotify has started to transform itself into a data-driven, radio-like service. I used to love their curation, but now I find like almost all large platforms, it has started to become very heavy handed in pushing the algorithmic autocracy on me.
 
-[**Read Om Malik's post**](https://om.co/2020/04/10/streaming-music-is-easy-and-thats-the-problem-why-we-need-to-rethink-how-to-support-music-and-creativity/) ↗︎
+[**Read Om Malik's post**](https://om.co/2020/04/10/streaming-music-is-easy-and-thats-the-problem-why-we-need-to-rethink-how-to-support-music-and-creativity/)
 
 Till next time.

@@ -1,24 +1,30 @@
 ---
 layout: default
 ---
-{% if page.featimage == true %}
-<figure>
-  <picture>
-    <source srcset="{{ site.url }}/assets/images/{{ page.featimage-name | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }}" type="image/webp">
-    <source srcset="/assets/images/{{ page.featimage-name }}" {% if page.featimage-name contains '.jpg' or include.image contains '.jpeg' %}type="image/jpeg"{% elsif page.featimage-name contains '.png' %}type="image/png"{% endif %}>
-    <img src="{{ site.url }}/assets/images/{{ page.featimage-name }}" alt="{{ page.featimage-alt }}" {{ page.featimage-width | prepend: 'width="' | append: '"' }} {{ page.featimage-height | prepend: 'height="' | append: '"' }}>
-  </picture>
-  <figcaption class="p-name">{{ page.featimage-caption }}</figcaption>
-</figure>
-{% endif %}
-<fieldset class="tldr">
-  <legend>TL;DR</legend>
-  <p class="p-summary">
-    {{ page.description }}
-  </p>
-</fieldset>
-<div class="e-content">
-{{ content }}
-<br>
-{% include pattern-last-updated.html %}
-</div>
+<article>
+  <header>
+    <h1 class="p-name">{{ page.title }}</h1>
+  </header>
+  {%- if page.featimage == true %}
+  <figure>
+    <picture>
+      <source srcset="{{ site.url }}/assets/images/{{ page.featimage-name | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }}" type="image/webp">
+      <source srcset="/assets/images/{{ page.featimage-name }}" {% if page.featimage-name contains '.jpg' or include.image contains '.jpeg' %}type="image/jpeg"{% elsif page.featimage-name contains '.png' %}type="image/png"{% endif %}>
+      <img src="{{ site.url }}/assets/images/{{ page.featimage-name }}" alt="{{ page.featimage-alt }}" {{ page.featimage-width | prepend: 'width="' | append: '"' }} {{ page.featimage-height | prepend: 'height="' | append: '"' }}>
+    </picture>
+    {%- if page.featimage-caption %}
+    <figcaption>{{ page.featimage-caption }}</figcaption>
+    {% endif -%}
+  </figure>
+  {% endif -%}
+  <fieldset class="tldr">
+    <legend>TL;DR</legend>
+    <p class="p-summary">
+      {{ page.description }}
+    </p>
+  </fieldset>
+  <div class="e-content">
+    {{ content }}
+    {%- include pattern-last-updated.html %}
+  </div>
+</article>

@@ -1,4 +1,4 @@
-<nav id="m2m-menu" aria-label="Navigation">
+<nav aria-label="Main navigation">
   {% for item in site.data.nav-main.menu -%}
   <a{% if page.url contains item.link %} class="current"{% endif %} href="{{ item.link }}" title="{{ item.desc }}">{{ item.name }}{% if page.url contains item.link %}</strong>{% endif %}</a>
   {% endfor -%}

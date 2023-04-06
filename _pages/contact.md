@@ -11,16 +11,16 @@ permalink: '/contact/'
 
 ## Work together
 
-For bass tracks, I'm available on [SoundBetter&nbsp;↗︎](https://soundbetter.com/profiles/206552-simone-silvestroni) — a safe and secure platform for freelance musicians.
+For bass tracks, I'm available on [SoundBetter](https://soundbetter.com/profiles/206552-simone-silvestroni), a safe and secure platform for freelance musicians.
 
-For anything else [connect via LinkedIn&nbsp;↗︎](https://www.linkedin.com/in/simonesilvestroni/) or reach out via email.
+For anything else reach out via email, or [connect on LinkedIn](https://www.linkedin.com/in/simonesilvestroni/).
 
-## PGP key
+## PGP
 
 If secure communication is needed, my key fingerprint is <code>DE83 606B EFEF 6726 05DE 3D4B D780 2B3D 11F5 85E5</code>.
 
 <details>
-  <summary>🔐 <strong>Public key</strong></summary>
+  <summary>🔐 Public key</summary>
   <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 mQINBGKc8F4BEAC2NQ5Etkht6Hcni7Eft1W46Lyb0L9EGAMvPCcx5kx+GnJ7Ujcl

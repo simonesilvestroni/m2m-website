@@ -12,4 +12,4 @@ I completed my 3-part series about how and why I switched from Pro Tools to REAP
 - [**Part 2**: complete customization and the value of community](/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/).
 - [**Part 3**: fast development cycle and a massive efficiency improvement](/blog/daw-from-logic-to-pro-tools-to-reaper-part-3/).
 
-Finally, I just pushed online a link, with my brief reaction about the magnificent interview to Susan Rogers on [Pensado’s Place ↗︎](https://youtu.be/AJExXyVSdUs?t=187).
+Finally, I just pushed online a link, with my brief reaction about the magnificent interview to Susan Rogers on [Pensado’s Place](https://youtu.be/AJExXyVSdUs?t=187).

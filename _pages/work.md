@@ -2,8 +2,8 @@
 layout: page
 title: 'Work'
 date: '2021-11-08 10:51:46'
-last_modified_at: '2022-11-30 10:50:29'
-description: 'The facets of my work in the audio field: sound and game audio designer, professional bass player, music composer and producer — mix and master above all.'
+last_modified_at: '2023-04-06 10:15:06'
+description: 'The facets of my work in the audio field: sound designer, professional bass player, music composer and producer, game audio.'
 permalink: '/work/'
 ---
 - [Sound Design](/work/sound-design/)

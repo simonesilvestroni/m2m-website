@@ -1,16 +1,17 @@
 <article>
-  <header>
-    <h3 id="{{ project.title | downcase | replace: " ","-" }}"><a href="{{ project.url }}" title="Read about {{ project.title }}">{{ project.title }}</a></h3>
-  </header>
-  <p><mark><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ project.date | date: "%Y" }}</time></mark></p>
-  {%- if project.featimage == true -%}
-  <a href="{{ project.url }}">
-    <picture>
-      <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".webp" }}" type="image/webp">
-      <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" type="image/jpeg">
-      <img src="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" alt="{{ project.title }}" width="200" height="200">
-    </picture>
+  <a class="card-project_link" href="{{ project.url }}" title="Read about {{ project.title }}" style="display: block">
+    <header>
+      <h3 id="{{ project.title | downcase | replace: " ","-" }}">{{ project.title }}</h3>
+    </header>
+    {%- if project.featimage == true -%}
+    <div class="card-project">
+      <picture class="card-project_picture">
+        <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".webp" }}" type="image/webp">
+        <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" type="image/jpeg">
+        <img src="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" alt="{{ project.title }}" width="200" height="200">
+      </picture>
+      {%- endif -%}
+      <p class="p-summary card-project_description">{{ project.description | strip_html }}<br><br><small class="button"><strong>READ THE POST</strong>&nbsp;→</small></p>
+    </div>
   </a>
-  {%- endif -%}
-  <p class="p-summary">{{ project.description | strip_html }}</p>
 </article>

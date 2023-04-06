@@ -3,7 +3,7 @@ layout: page
 title: 'Now'
 date: '2023-02-19 21:14:17'
 last_modified_at: '2023-03-22 23:37:50'
-description: 'What am I focused on at this point in my life? I can’t express this on social media, because it wouldn’t be the big picture.'
+description: 'What am I focused on at this point in my life? A message on social media can’t express this, because status messages can’t carry the big picture.'
 permalink: '/now/'
 ---
 ## 🌍 Where am I?

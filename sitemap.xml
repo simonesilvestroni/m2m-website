@@ -3,12 +3,14 @@ layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{%- assign blog = site.documents | where:"layout", "post" | sort: 'date' | reverse %}
-{%- for post in blog %}
+  {%- assign blog = site.documents | where:"layout", "post" | sort: 'date' | reverse %}
+  {%- for post in blog %}
+  {%- unless post.sitemap == false %}
   <url>
     <loc title='{{ post.title }}'>{{ site.url }}{{ post.url }}</loc>
     <lastmod>{{ post.last_modified_at | date_to_xmlschema }}</lastmod>
   </url>
+  {%- endunless -%}
   {%- endfor -%}
   {%- assign pages = site.pages | where:"layout", "page" %}
   {%- for page in pages %}

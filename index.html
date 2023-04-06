@@ -1,11 +1,15 @@
 ---
+layout: default
 title: 'Hi, Simone Silvestroni here 👋'
 date: '2021-11-06 13:41:57'
 last_modified_at: '2023-04-02 17:40:35'
 ---
-<div class="h-entry">
-  <p class="p-summary">I’m a digital polymath focused on high-quality audio productions since 1992.</p>
-  <p>I <a href="/blog/">write about</a> music, sound design, video games and how I use technology to translate audio into an enjoyable experience.</p>
+<article class="h-entry">
+  <header>
+    <h1 class="p-name">{{ page.title }}</h1>
+  </header>
+  <p class="p-summary">A digital polymath focused on high-quality audio productions since 1992.</p>
+  <p class="e-content">I <a href="/blog/">write about</a> music, sound design, video games and how I use technology to translate audio into an enjoyable experience. <a href="/about/">More about me</a>.</p>
   <br>
   <fieldset>
     <legend><strong>LATEST POST</strong></legend>
@@ -13,4 +17,4 @@ last_modified_at: '2023-04-02 17:40:35'
     <a href="{{ post.url }}" title="Read the post">{{ post.title }}</a><br><small>{{ post.date | date: "%d %b %Y" }}</small>
     {% endfor -%}
   </fieldset>
-</div>
+</article>

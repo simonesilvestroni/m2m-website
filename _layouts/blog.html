@@ -1,12 +1,17 @@
 ---
 layout: default
 ---
-<fieldset class="tldr">
-  <legend>TL;DR</legend>
-  <p class="p-summary">
-    {{ page.description }}
-  </p>
-</fieldset>
-<div class="e-content">
-{{ content }}
-</div>
+<article>
+  <header>
+    <h1 class="p-name">{{ page.title }}</h1>
+  </header>
+  <fieldset class="tldr">
+    <legend>TL;DR</legend>
+    <p class="p-summary">
+      {{ page.description }}
+    </p>
+  </fieldset>
+  <div class="e-content">
+  {{ content }}
+  </div>
+</article>

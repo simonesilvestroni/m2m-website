@@ -1,7 +1,10 @@
 menu:
   - name: RSS
     link: /rss/
-    desc: 'RSS feeds'
+    desc: 'Follow the RSS feeds'
+  - name: Now
+    link: /now/
+    desc: 'What have I been up to?'
   - name: Search
     link: /search/
     desc: 'Search for anything'

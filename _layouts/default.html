@@ -1,44 +1,37 @@
 {% include site-head.html %}
 <body class="layout-{{ page.layout }}" id="top">
-{% include site-header.html %}
-<main id="m2m-content">
-  <article class="h-entry">
-    <header>
-      <div>
-        {%- if page.layout == 'project' -%}
-        <a href="/work/{{ page.collection }}/"><mark><strong>← {{ page.collection | replace: "-"," " }}</strong></mark></a>
-        {% endif %}
-        <h1 class="p-name">{% if page.url contains "/tag/" %}{{ page.title | capitalize }}{% else %}{{ page.title }}{% endif %}{% if page.layout == 'note' %}: {{ page.date | date: "%-d %B %Y" }}{% endif %}</h1>
-        {% if page.is_post %}
-        <div>
-          <time class="dt-published dim" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>&nbsp;&middot;&nbsp;Written by <span class="p-author h-card">Simone Silvestroni</span>&nbsp;&middot;&nbsp;<a rel="me" class="u-url u-uid" href="{{ site.url }}{{ page.url }}" title="Permalink">Permalink</a>
-        </div>
-        {% endif %}
-        {%- if page.type == "tag" -%}
-        <p class="p-summary">This is an archive page for the tag <mark>{{ page.title | upcase | prepend: '#' }}</mark>.</p>
-        {% endif %}
-      </div>
-    </header>
-    <div>
-      {{ content }}
-    </div>
-  </article>
-</main>
-{% include site-footer.html %}
-{%- if page.url contains '/search' or page.url contains '404.html' -%}
-{%- if jekyll.environment == "production" %}
-<script src="/assets/js/search-m2m.min.js"></script>
-{% else %}
-<script src="/assets/js/fetch.js"></script>
-<script src="/assets/js/search.js"></script>
-{% endif -%}
-{%- endif -%}
-{%- if page.is_post or page.collection == 'notes' -%}
-{%- if jekyll.environment == "production" %}
-<script src="/assets/js/webmention.min.js" data-prevent-spoofing="true" async></script>
-{%- else -%}
-<script src="/assets/js/webmention.js" async></script>
-{% endif -%}
-{% endif -%}
-</body>
+  <a class="skip-to-content" href="#main">Skip to content</a>
+  {% include site-header.html %}
+  <main class="h-entry" id="main">
+    {{ content }}
+    <data class="p-org" value="Minutes to Midnight"></data>
+    <data class="p-note" value="{{ site.description }}"></data>
+    <data class="u-email" rel="me" value="mailto:{{ site.author.email }}"></data>
+    <data rel="me" value="https://minutestomidnight.bandcamp.com/"></data>
+    <data rel="me" value="https://simonesilvestroni.com"></data>
+    <data rel="me" value="https://www.youtube.com/@m2m"></data>
+    <data rel="me" value="https://open.spotify.com/artist/250igOmtd9HCpGyXDWUcl9?si=d9t8bLC2QfG8iT1R3y9CAw"></data>
+    <data rel="me" value="https://soundcloud.com/simonesilvestroni"></data>
+    <data rel="me" value="https://www.linkedin.com/in/simonesilvestroni/"></data>
+    <data rel="me" value="https://github.com/simonesilvestroni/"></data>
+    <data rel="me" value="https://indieweb.social/@m2m"></data>
+    <data rel="me" value="https://oreganodangereux.wordpress.com"></data>
+  </main>
+  {% include site-footer.html %}
+  {%- if page.url contains '/search' or page.url contains '404.html' -%}
+  {%- if jekyll.environment == "production" %}
+  <script src="/assets/js/search-m2m.min.js"></script>
+  {% else %}
+  <script src="/assets/js/fetch.js"></script>
+  <script src="/assets/js/search.js"></script>
+  {% endif -%}
+  {%- endif -%}
+  {%- if page.is_post or page.collection == 'notes' -%}
+  {%- if jekyll.environment == "production" %}
+  <script src="/assets/js/webmention.min.js" data-prevent-spoofing="true" async></script>
+  {%- else -%}
+  <script src="/assets/js/webmention.js" async></script>
+  {% endif -%}
+  {% endif -%}
+  </body>
 </html>
