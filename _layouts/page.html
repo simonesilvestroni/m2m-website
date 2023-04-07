@@ -17,12 +17,13 @@ layout: default
     {% endif -%}
   </figure>
   {% endif -%}
+  {% unless page.tldr == false %}
   <fieldset class="tldr">
-    <legend>TL;DR</legend>
     <p class="p-summary">
       {{ page.description }}
     </p>
   </fieldset>
+  {% endunless %}
   <div class="e-content">
     {{ content }}
     {%- include pattern-last-updated.html %}

@@ -11,7 +11,7 @@ tags:
   - "reaper"
   - "project management"
   - "case study"
-description: "A delicate 6-songs album, ‘Hidden Music’ is another successful collaboration with Cambridge-based multi-instrumentalist Dan Ecclestone."
+description: "A delicate piano-centric album, ‘Hidden Music’ is another successful collaboration with Cambridge-based multi-instrumentalist Dan Ecclestone."
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/hidden-music/

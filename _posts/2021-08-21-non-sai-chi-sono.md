@@ -15,7 +15,7 @@ tags:
   - "mastering"
   - "pro tools"
   - "case study"
-description: "Before the pandemic struck, I collaborated on producing a remix of a song written by my old friend and collaborator Gianluca Lo Presti."
+description: "An old friend and collaborator asked me to contribute to an upcoming album with the remix of one of his songs. I co-produced, mixed and mastered ‘Non sai chi sono’."
 featimage: true
 thumbOnly: true
 permalink: /work/music/non-sai-chi-sono/

@@ -2,17 +2,18 @@
 layout: page
 title: 'After 1989: Reviews'
 date: '2020-11-09 10:52:12'
-last_modified_at: '2021-12-02 23:33:06'
-description: "A collection of in-depth analysis and reviews for ‘After 1989’, gathered from various sources including Bandcamp, music blogs, podcasts and social media."
+last_modified_at: '2023-04-07 21:29:18'
+description: "A collection of reviews for ‘After 1989’, gathered from music blogs, magazines, Bandcamp, podcasts and social media."
 permalink: '/work/music/after-1989-reviews/'
 ---
 ## In-depth reviews
 
 ### Analysis by Rosa Nadine Xochimilco Sánchez
 
-![Portrait of Rosa Nadine Xochimilco Sánchez]({{ site.url }}/assets/images/rnxs.jpg)
-
-[Author, small press founder and editor](https://rosanadinex.com/), Rosa has recently published the books of poems: _Blue Bones, Blood Roses, Black Eyes_ and _Hearts Aflame, Still Burning_.
+<div class="notice">
+  {% include pattern-figure.html image="/assets/images/rnxs.jpg" alt="Portrait of Rosa Nadine Xochimilco Sánchez" width="150" height="150" %}
+  <p><a href="https://rosanadinex.com/">Author, small press founder and editor</a>, Rosa has recently published the books of poems: <em>Blue Bones, Blood Roses, Black Eyes</em> and <em>Hearts Aflame, Still Burning</em>.</p>
+</div>
 
 Minutes to Midnight’s new album _After 1989: A Trip to Freedom_ is an incredible story and musical journey by Simone Silvestroni. It feels very personal while being uncompromisingly political. Each song is poignant and strong, showcasing a different historical moment or time, all along the main character’s path of discovery.
 
@@ -126,7 +127,12 @@ I look forward to sharing it with family and friends who love history and great 
 
 ### A journey of choices & consequences, by IndieRepublik (Berlin)
 
-25 November 2019 _Written by_ [John Hennessy](https://indierepublik.com/music/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/)
+<span class="dim">25 November 2019</span> &middot; Written by [John Hennessy](https://indierepublik.com/music/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/)
+
+<div class="notice">
+  {% include pattern-figure.html image="/assets/images/johnhennessy.jpg" alt="Portrait of John Hennessy" width="150" height="150" %}
+  <p>Irish composer, producer and multi-instrumentalist based in Berlin, John Hennessy plays drums, piano and guitar and has an Hons BA in Creative Musicianship.</p>
+</div>
 
 With a dark and melancholic rock backdrop, the singer-songwriter uses multi-generational experience to explore themes of freedom, memory and personal growth, pieced together with immersive news coverage and a U-bahn journey from central Berlin to Sachsenhausen.  
 
@@ -158,9 +164,11 @@ Overall there’s a lot to chew on with this record. The direct and immersive na
 
 _After 1989_ is an immersive and interesting experiment in storytelling that will leave listeners meditating on its heavy themes. If you’re short on time I would recommend checking out the album opener — it’s very likely that you’ll want to hear the rest of the story.
 
+---
+
 ### A trip to freedom, by _Angry Baby_
 
-27 January 27 2020 _Written by_ [Angry Baby](https://www.angrybaby.co.uk/minutes-to-midnight-after-1989-a-trip-to-freedom/)
+<span class="dim">27 January 27 2020</span> &middot; Written by [Angry Baby](https://www.angrybaby.co.uk/minutes-to-midnight-after-1989-a-trip-to-freedom/)
 
 _After 1989 – A Trip to Freedom_ is Minutes to Midnight's first album and is what the concept was set up to showcase. It tells the story from Simone’s perspective as a grandson, following the trail of his grandfather who managed to escape Germany in 1945.  
 
@@ -171,6 +179,8 @@ Further on, the album gives us a sense of how Simone felt about both his grandfa
 The fall of the Berlin wall began a process that enabled Simone to retrace his grandfather’s footsteps in separate trips. The impact of this is explored in _Unter den Linden_ and _Sachsenhausen_, the latter an acoustic filled, almost bleak sound that explores the affect of war on subsequent generations, not just those who lived through the trauma. We all have our prisons, and those that take a non physical form are no less confining.  
 
 Throughout _After 1989_, Simone uses archive material to accentuate the music and narrative, most effectively in _Love Field_, about JFK. The insertion of JFK’s “Ich bin ein Berliner” speech and the commentary on the leadup to his assassination in Dallas are especially poignant and speak to our collective experiences of the last sixty years. Yet, you remain aware that the album is also a personal journey and one family’s history — the story and the music will stay with you long after the music finishes.
+
+---
 
 ## Reviews from the music industry
 

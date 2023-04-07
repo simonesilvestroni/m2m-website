@@ -4,11 +4,6 @@ title: 'About'
 date: '2022-01-14'
 last_modified_at: '2023-02-03 16:27:19'
 description: 'A graduated bassist and producer, I founded Minutes to Midnight to release my music and provide services such as sound design, game audio, bass tracks and production.'
-featimage: true
-featimage-name: 'simone-silvestroni-in-the-studio.png'
-featimage-alt: Simone Silvestroni in the studio in Cambridge, sitting while playing a Fender Jazz bass
-featimage-width: 720
-featimage-height: 960
 permalink: '/about/'
 ---
 ## Quick facts

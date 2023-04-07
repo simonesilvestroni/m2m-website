@@ -20,6 +20,10 @@ description: 'Cheering crowds greet the President at Love Field, the Dallas airp
 ---
 November 1963. A warm weather greets the President when he lands at _Love Field_. Following the motorcade, I fantasise about waving at Jack and Jackie, or leaning over the window of a sixth floor, or being Abraham Zapruder, standing still while everything changes.
 
+<br>
+[**Read the album analysis**](/work/music/after-1989/)&nbsp;→
+<br>
+
 ## Official video
 
 {% include pattern-video.html id="oTR5ZJQdRXM" %}
@@ -41,6 +45,3 @@ Bass, piano, synth, strings, drums, sound effects
 - Mastered by [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd)
 - Video by [Silvia Maggi](https://silviamaggidesign.com)
 - Management by Christopher Carvalho of [Unlock Your Sound Ltd](https://unlockyoursound.com/)
-
-{: .notice }
-[Read the album analysis →](/work/music/after-1989/)

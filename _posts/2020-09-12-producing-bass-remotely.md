@@ -14,7 +14,7 @@ tags:
   - 'pro tools'
   - 'logic pro x'
   - 'case study'
-description: "Exposing the process for producing effective bass tracks for the New York-based band Antiquity."
+description: "An in-depth analysis of the process I go through to produce an effective bass track. From tracking to comping, up to mix and delivery. Based on a song recorded for the New York-based band Antiquity."
 featimage: true
 featimage-name: 'producing-bass-remotely.jpg'
 featimage-alt: Simone Silvestroni in the studio, recording bass

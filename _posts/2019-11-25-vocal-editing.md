@@ -15,10 +15,10 @@ tags:
   - "izotope rx"
   - "Soundtoys"
   - "case study"
-description: "Taking a vocal performance from a song to another morphing pitch, formants and tempo; noise removal and cleaning up historical speeches."
+description: "By manipulating pitch, formants and tempo, I moved a vocal performance from one song to a completely different one. Cleaning up historical speeches is a craft I honed for years."
 featimage: true
 featimage-name: 'vocal-editing.jpg'
-featimage-alt: Rachel Goodman singing in front of a microphone
+featimage-alt: Rachel Goodman singing
 featimage-caption: Rachel Goodman, who performed on my debut album
 featimage-width: 720
 featimage-height: 720

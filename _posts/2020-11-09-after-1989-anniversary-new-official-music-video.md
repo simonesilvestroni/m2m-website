@@ -46,5 +46,6 @@ Bass, piano, additional drums, sound effects
 - Mastered by Ian Shepherd
 - Management Christopher Carvalho of Unlock Your Sound
 
-{: .notice }
-[Read the album analysis →](/work/music/after-1989/)
+<br>
+[**Read the album analysis**](/work/music/after-1989/)&nbsp;→
+<br>

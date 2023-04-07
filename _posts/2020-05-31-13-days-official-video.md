@@ -51,5 +51,6 @@ Bass, additional drums, sound effects
 - Cuban missile crisis footage by [David G. Coleman](https://historyinpieces.com/)
 - Prelinger Archive
 
-{: .notice }
-[Read the album analysis →](/work/music/after-1989/)
+<br>
+[**Read the album analysis**](/work/music/after-1989/)&nbsp;→
+<br>

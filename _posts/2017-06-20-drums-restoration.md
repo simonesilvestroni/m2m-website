@@ -14,7 +14,7 @@ tags:
   - "logic pro"
   - "izotope rx"
   - "case study"
-description: 'Removing an annoying undetected hi-hat noise; restoring the stereo image with drum doubling and drum replacing; extracting drums from a stereo track.'
+description: 'Painstakingly removing an insidious noise from a multi-track recording. Restoring a stereo room with drum doubling and drum replacing. Extracting single tracks from a stereo mix.'
 featimage: true
 featimage-name: 'drums-restoration.jpg'
 featimage-alt: Arlen Millwall on drums

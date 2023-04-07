@@ -10,11 +10,11 @@ robots: 'noindex,follow'
 ---
 <ul>
   {% for note in site.notes reversed -%}
-  <li><a href="{{ note.url }}">{{ note.date | date: "%-d %b %Y %T" }}</a>&nbsp;
+  <li>
     {%- if note.replyto -%}
-    in <strong>reply</strong> to&nbsp;<a href="{{ note.replyto }}"><code>{{ note.replytouser }}</code></a>
+    <a href="{{ note.url }}">On {{ note.date | date: "%-d %b %Y %T" }} I replied to <code>{{ note.replytouser }}</code></a>
     {%- elsif note.likeof %}
-    a <strong>like</strong> of <a href="{{ note.likeof }}">{{ note.likeoftitle }} by&nbsp;<code>{{ note.likeofuser }}</code></a>
+    <a href="{{ note.url }}">I liked “{{ note.likeoftitle }}” by&nbsp;<code>{{ note.likeofuser }}</code></a>
     {%- endif %}</li><hr>
   {% endfor -%}
 </ul>

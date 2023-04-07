@@ -12,7 +12,7 @@ tags:
   - "subprojects"
   - "stem mastering"
   - "case study"
-description: "I mastered the debut EP for IsadoraD, an Italian duo of multi-instrumentalists. A blend of electronica, pop and indie."
+description: "Using the subprojects feature in Reaper, I mastered the debut EP for IsadoraD, an Italian duo of multi-instrumentalists blending electronica, pop and indie."
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/mastering-ipogeo-ep/

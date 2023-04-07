@@ -3,10 +3,13 @@ layout: page
 title: RSS
 date: '2022-05-09'
 last_modified_at: '2023-04-05 21:41:46'
-description: 'The best way to follow my posts and newsletter is by subscribing to the RSS feed (latest 20 posts) by copying the URLs below into a news reader.'
+description: 'The best way to follow my blog and newsletter is by subscribing to the RSS feed (latest 20 posts) by copying the feed URL into a news reader.'
 permalink: '/rss/'
 ---
-I have an RSS feed for <a href="/feed.xml">the blog</a> and another for <a href="/newsletter.xml">the newsletter</a>.
+- RSS feed for [the blog]({{ site.url }}/feed.xml)
+  <hr>
+- RSS feed for [the newsletter]({{ site.url }}/newsletter.xml)
+  <hr>
 
 ## What is RSS?
 

@@ -13,7 +13,7 @@ tags:
   - "logic pro"
   - "post-production"
   - "case study"
-description: "During the pandemic I worked for the Paris-based animation agency Amuse on their acclaimed show ‘Tom the Tow Truck’, part of a series called Car City."
+description: "Sound effects, dialogue and music sync for the acclaimed show ‘Tom the Tow Truck’, part of the Car City series by Paris-based Amuse."
 featimage: true
 featimage-name: 'car-city-cartoon.jpg'
 featimage-alt: Logic session for a Car City cartoon episode

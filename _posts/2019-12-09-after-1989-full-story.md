@@ -23,6 +23,9 @@ featimage-caption: Photo by Silvia Maggi, Sachsenhausen (2019)
 featimage-width: 1024
 featimage-height: 683
 ---
+{: .notice }
+This article was originally published on the Medium magazine "Lessons From History". After deleting my Medium account, I moved it here.
+
 ## Roots
 
 I’ve always known about my maternal grandfather: he deserted the Army during World War II because of his refusal to support the fascist policies of the Italian totalitarian government. He ran with his wife and two toddlers (my mother and my uncle). For several years, they stayed in hiding in the countryside marsh. I couldn’t imagine how harsh a time that was, but these tales made me proud, even when, as a child, I couldn’t fully grasp the context.
@@ -161,5 +164,6 @@ The car attracted my attention because it was the same model used by [Russel Oak
 
 {% include pattern-figure.html image="/assets/images/full-story-grandfather.jpg" caption="My grandfather working outside his shop in the summer. Some of the objects visible on the crate came from Germany" width="1024" height="722" %}
 
-{: .notice }
-[Read the album analysis →](/work/music/after-1989/)
+<br>
+[**Read the album analysis**](/work/music/after-1989/)&nbsp;→
+<br>

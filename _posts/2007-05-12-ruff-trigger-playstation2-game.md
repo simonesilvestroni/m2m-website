@@ -1,5 +1,5 @@
 ---
-title: 'Ruff Trigger Playstation2 video game'
+title: 'Ruff Trigger PlayStation2 video game'
 date: '2007-05-12'
 last_modified_at: '2021-12-07 17:00:42'
 author: 'Simone Silvestroni'
@@ -20,7 +20,7 @@ tags:
   - "xbox"
   - "alienbrain"
   - "case study"
-description: "As an audio team leader for 5 years I wrote music and sound effects, bootstrapping the first stage of the Playstation2 video game ‘Ruff Trigger’."
+description: "As the audio team leader, I created and implemented sound effects and an adaptive soundtrack, bootstrapping the audio of the PlayStation2 video game ‘Ruff Trigger’."
 featimage: true
 featimage-name: 'ruff-trigger-playstation2-video-game.jpg'
 featimage-alt: Ruff Trigger game cover

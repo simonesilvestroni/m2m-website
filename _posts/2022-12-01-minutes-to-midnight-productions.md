@@ -18,7 +18,7 @@ tags:
   - "mixing"
   - "mastering"
   - "case study"
-description: 'A collection of productions released through the years that don’t have a full-fledged case study.'
+description: 'A collection of work released over 5 years that don’t have a full-fledged case study. Including bass tracks, album mix, mastering and full production.'
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/minutes-to-midnight-productions/

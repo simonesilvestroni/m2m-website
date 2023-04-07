@@ -11,7 +11,7 @@
         <img src="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" alt="{{ project.title }}" width="200" height="200">
       </picture>
       {%- endif -%}
-      <p class="p-summary card-project_description">{{ project.description | strip_html }}<br><br><small class="button"><strong>READ THE POST</strong>&nbsp;→</small></p>
+      <p class="p-summary card-project_description">{{ project.description | strip_html }}<br><br><span><strong>Read the post</strong></span></p>
     </div>
   </a>
 </article>

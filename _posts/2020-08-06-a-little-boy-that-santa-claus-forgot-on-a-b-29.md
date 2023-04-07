@@ -68,5 +68,6 @@ Bass, drums, sound effects
 - U.S. Army
 - Barbed wire design by freepik.com
 
-{: .notice }
-[Read the album analysis →](/work/music/after-1989/)
+<br>
+[**Read the album analysis**](/work/music/after-1989/)&nbsp;→
+<br>

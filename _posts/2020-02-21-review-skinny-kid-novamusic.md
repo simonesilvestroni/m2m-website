@@ -20,5 +20,6 @@ NOVA MUSIC blog is about music, from novice to emerging groups to it artists —
 > Deep and viscerally touching, <em>Skinny Kid</em> is a dark-colored narration where lyrics and music form a full-bodied and delicate sound balance, through which Minutes to Midnight makes us perceive, with mastery and in all its entirety, the bitter harshness, despair and oppression of the album theme. One of the most beautiful discoveries of this early 2020.
 > <cite>— [Nova Music](https://novamusic.blog/minutes-to-midnight-skinny-kid/)</cite>
 
-{: .notice }
-[Read the album analysis →](/work/music/after-1989/)
+<br>
+[**Read the album analysis**](/work/music/after-1989/)&nbsp;→
+<br>

@@ -15,7 +15,7 @@ tags:
   - 'mixing'
   - 'mastering'
   - "case study"
-description: "After meeting London-based singer-songwriter Callum Gardner, we got to know each other and started producing his debut single."
+description: "A case of synchronicity, meeting London-based songwriter Callum Gardner fired up a long-term collaboration that started with producing, mixing and mastering his debut single."
 featimage: true
 featimage-name: 'producing-commit-to-the-list-by-callum-gardner.jpg'
 featimage-alt: Cover for the single Commit to the List

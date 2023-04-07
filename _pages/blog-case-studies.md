@@ -3,7 +3,7 @@ layout: page
 title: 'Case studies'
 date: '2023-04-05 09:48:34'
 last_modified_at: '2023-04-05 09:48:36'
-description: 'Posts containing deeper analysis on projects such as: sound design, original music releases and music production.'
+description: 'In-depth analysis about projects such as: sound design, game audio, bass tracks, original music releases and music production, including mix and master.'
 permalink: '/blog/case-studies/'
 ---
 {%- assign caseStudies = site.posts | where_exp:'post','post.tags contains "case study"' | sort: date | reverse -%}

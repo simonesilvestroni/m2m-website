@@ -14,7 +14,7 @@ tags:
   - "mastering"
   - "reaper"
   - "case study"
-description: "An autobiographical rumination about migration in Europe during a time of populism. In collaboration with Antiquity."
+description: "An autobiographical rumination about migrating in Europe during a time of populism. Remixing the Cambridge-based band Ember Rev, co-produced with Antiquity."
 featimage: true
 featimage-name: 'the-die-is-cast.jpg'
 featimage-alt: Cover for the EP ‘The Die Is Cast’

@@ -48,4 +48,4 @@ A more detailed and technical-oriented analysis by the Noise Floor channel. I've
 
 The amazing discount, coupled with the opportunity of paying in three instalments, made this purchase the best for the year — including 2023 as well.
 
-[S4X reference headphones by Ollo Audio ↗](https://olloaudio.com/products/s4x-reference-headphones)
+[S4X reference headphones by Ollo Audio](https://olloaudio.com/products/s4x-reference-headphones)

@@ -11,7 +11,7 @@ tags:
   - "logic pro"
   - "project management"
   - "case study"
-description: "How I co-produced ‘Premonition and Ruin’, a superb concept album by Ember Rev around a lament for the European ideal."
+description: "The second album by Cambridge-based band Ember Rev is a concept around a lament for the European ideal. I mixed and co-produced together with their songwriter Dan Ecclestone."
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/premonition-and-ruin/
