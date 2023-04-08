@@ -1,12 +1,12 @@
 <link rel="canonical" href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url |  replace:'index.html','' | absolute_url }}{% endif %}">
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <!-- Open graph -->
-<meta property="og:title" content="{%- include site-meta-title.html -%}" />
-<meta property="og:url" content="{{ page.url | prepend: site.url }}" />
-<meta property="og:type" content="website" />
-<meta property="og:site_name" content="{{ site.title }}" />
-<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-<meta property="og:image" content="{% if page.featimage == true %}{{ site.url }}/assets/images/{{ page.featimage-name }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}" />
+<meta property="og:title" content="{%- include site-meta-title.html -%}">
+<meta property="og:url" content="{{ page.url | prepend: site.url }}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:image" content="{% if page.featimage == true %}{{ site.url }}/assets/images/{{ page.featimage-name }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}">
 <!-- Schema -->
 <script type="application/ld+json">
 {

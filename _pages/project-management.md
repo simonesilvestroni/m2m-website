@@ -15,4 +15,4 @@ permalink: '/work/project-management/'
 {{ page.description }}
 No strings attached, the book is a `13.2 MB` PDF file.
 
-<a class="button" href="{{ site.url }}/assets/files/minutes-to-midnight_efficient-productivity-for-music-professionals.pdf"><big>Download the free ebook</big></a>
+<a class="button" href="{{ site.url }}/assets/files/minutes-to-midnight_efficient-productivity-for-music-professionals.pdf"><span class="big">Download the free ebook</span></a>
