@@ -93,3 +93,20 @@ To learn more about REAPER subprojects, check out this [video by Kenny Gioia](ht
 ## Conclusions
 
 In the case of *In Super-8*, I used subprojects to save time but it's useful for sound design, very long sessions or projects containing a large number of parts and tracks. In fact, months ago I worked on a production where subprojects were used for drums in a session with many vocal tracks and a multitude of percussion items. It saved power resources to the point my complex template ran at 12% of CPU capacity.
+
+## Credits
+
+**Dan Ecclestone**<br>
+Vocals and instrumentation
+
+**Ian Pickering**<br>
+Drums
+
+### Production
+
+- Mixed by Simone Silvestroni
+- Mastered by Ian Shepherd
+
+<small>&copy; 2017 Dan Ecclestone</small>
+
+Released: 17 March 2023.
