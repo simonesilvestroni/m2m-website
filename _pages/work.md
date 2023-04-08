@@ -41,7 +41,7 @@ permalink: '/work/'
       <picture class="card-project_picture">
         <source srcset="/assets/images/minutes-to-midnight-studio.webp" type="image/webp">
         <source srcset="/assets/images/minutes-to-midnight-studio.jpg" type="image/jpeg">
-        <img src="/assets/images/minutes-to-midnight-studio.jpg" alt="Thumbnail of the console video game Ruff Trigger" width="200" height="200">
+        <img src="/assets/images/minutes-to-midnight-studio.jpg" alt="Picture of Minutes to Midnight studio" width="200" height="200">
       </picture>
       <p class="p-summary card-project_description">{{ sounddesign_desc }}<br><br><span><strong>Read the case studies</strong></span></p>
     </div>
@@ -73,7 +73,7 @@ permalink: '/work/'
       <picture class="card-project_picture">
         <source srcset="/assets/images/minutes-to-midnight-playing-bass.webp" type="image/webp">
         <source srcset="/assets/images/minutes-to-midnight-playing-bass.jpg" type="image/jpeg">
-        <img src="/assets/images/minutes-to-midnight-playing-bass.jpg" alt="" width="200" height="200">
+        <img src="/assets/images/minutes-to-midnight-playing-bass.jpg" alt="Minutes to Midnight playing bass in the studio" width="200" height="200">
       </picture>
       <p class="p-summary card-project_description">{{ originalmusic_desc }}<br><br><span><strong>Read the case studies</strong></span></p>
     </div>
