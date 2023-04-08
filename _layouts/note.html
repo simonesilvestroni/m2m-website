@@ -3,7 +3,7 @@ layout: default
 ---
 <article>
   <header>
-    <h1 class="p-name">{{ page.title }}: {{ page.date | date: "%-d %B %Y %T" }}</h1>
+    <h1 class="p-name"><span class="p-category">{{ page.title }}</span>: {{ page.date | date: "%-d %B %Y %T" }}</h1>
     <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a rel="me" class="u-url u-uid dim" href="{{ site.url }}{{ page.url }}" title="Permalink">{{ page.date | date: "%-d %B %Y" }}</a></time> &middot <span class="p-author h-card">Written by <img class="u-photo hidden" src="{{ site.url }}/assets/images/favicons/favicon.svg" alt="Minutes to Midnight's avatar" width="24" height="24"> <a class="p-name" href="{{ site.url }}/about/" rel="author">Simone Silvestroni</a></span> 
   </header>
   <fieldset class="tldr">
