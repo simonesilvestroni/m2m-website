@@ -19,7 +19,7 @@ layout: default
     {%- if page.replyto %}
     <div class="e-content">{{ content }}</div>
     {% elsif page.likeof %}
-    <p><a href="{{ page.likeof }}" class="u-like-of">{{ page.likeoftitle }}</a> by <code>{{ page.likeofuser }}</code></p>
+    <p class="e-content"><a href="{{ page.likeof }}" class="u-like-of">{{ page.likeoftitle }}</a> by <code>{{ page.likeofuser }}</code></p>
     {% endif -%}
   </fieldset>
   {%- comment %}<!-- //// ORIGINAL POST \\\\  -->{% endcomment -%}
