@@ -17,7 +17,7 @@ featimage: true
 thumbOnly: true
 permalink: /work/music-production/mastering-ipogeo-ep/
 ---
-{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=3556110038/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://isadorad.bandcamp.com/album/ipogeo">Ipogeo by IsadoraD</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=3556110038/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://isadorad.bandcamp.com/album/ipogeo">Ipogeo by IsadoraD</a></iframe>' %}
 
 ## Stem mastering
 

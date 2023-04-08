@@ -22,7 +22,7 @@ permalink: /work/music/non-sai-chi-sono/
 ---
 ## Bandcamp
 
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2164870187/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/track/non-sai-chi-sono-remix">Non sai chi sono (remix) by Minutes to Midnight</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2164870187/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://minutestomidnight.bandcamp.com/track/non-sai-chi-sono-remix">Non sai chi sono (remix) by Minutes to Midnight</a></iframe>' %}
 
 ## Backstory
 

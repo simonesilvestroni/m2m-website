@@ -16,7 +16,7 @@ tags:
   - 'mastering'
 description: 'New single out now by singer-songwriter and multi-instrumentalist Callum Gardner, ‘Wriggle A Little’. Bass and full production by Minutes to Midnight.'
 ---
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1398022832/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://callumgardner.bandcamp.com/track/wriggle-a-little">Wriggle a Little by Callum Gardner</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1398022832/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://callumgardner.bandcamp.com/track/wriggle-a-little">Wriggle a Little by Callum Gardner</a></iframe>' %}
 
 ## Producing ‘Wriggle a Little’
 

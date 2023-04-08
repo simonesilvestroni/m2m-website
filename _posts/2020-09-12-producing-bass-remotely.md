@@ -29,7 +29,7 @@ sitemap: false
 search: true
 permalink: /work/music-production/producing-bass-remotely/
 ---
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
 
 The following analysis was written in June 2020, based on my work for [Antiquity](https://antiquity-music.com/) and their single _The Far Side Of The Sun_. They are based in New York, while I had been living in the UK at the time.
 

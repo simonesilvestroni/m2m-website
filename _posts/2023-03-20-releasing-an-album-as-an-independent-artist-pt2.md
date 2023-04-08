@@ -26,7 +26,7 @@ syndicate:
 
 Here’s the song _Unter Den Linden_, arranged with [Paolo Clementi](https://www.discogs.com/artist/2142806-Paolo-Clementi):
 
-{% include pattern-bandcamp.html size='bc-single' iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=449979971/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
+{% include pattern-bandcamp.html size='bc-single' iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=449979971/transparent=true/"><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 
 ## The release campaign
 

@@ -23,7 +23,7 @@ Part 1 is about what the album meant to me and a few considerations about what a
 
 Here’s the opening single, _Skinny Kid_:
 
-{% include pattern-bandcamp.html size='bc-single' iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=3005791226/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
+{% include pattern-bandcamp.html size='bc-single' iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=3005791226/transparent=true/"><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 
 ## What releasing a concept album meant to me
 

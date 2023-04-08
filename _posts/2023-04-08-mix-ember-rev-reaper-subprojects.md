@@ -20,7 +20,7 @@ syndicate:
   - name: Mastodon
     url: https://indieweb.social/@m2m/109365987013518922
 ---
-{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=2164587015/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://emberrev.bandcamp.com/album/in-super-8">In Super-8 by Ember Rev</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=2164587015/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://emberrev.bandcamp.com/album/in-super-8">In Super-8 by Ember Rev</a></iframe>' %}
 
 ## Album trilogy
 

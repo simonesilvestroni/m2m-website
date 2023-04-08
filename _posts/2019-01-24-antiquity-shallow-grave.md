@@ -14,7 +14,7 @@ tags:
   - 'new york'
 description: "I’m happy Gerald Duchene asked me to record a bass track for this beautiful song. It’s my second collaboration with his project, Antiquity Sessions."
 ---
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1048816351/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/shallow-grave">Shallow Grave by Antiquity</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1048816351/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/shallow-grave">Shallow Grave by Antiquity</a></iframe>' %}
 
 ## Production
 

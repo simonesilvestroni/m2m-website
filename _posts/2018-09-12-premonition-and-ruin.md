@@ -17,7 +17,7 @@ featimage: true
 thumbOnly: true
 permalink: /work/music-production/premonition-and-ruin/
 ---
-{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=4041862783/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://emberrev.bandcamp.com/album/premonition-and-ruin">Premonition and Ruin by Ember Rev</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=4041862783/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://emberrev.bandcamp.com/album/premonition-and-ruin">Premonition and Ruin by Ember Rev</a></iframe>' %}
 
 ## Backstory
 

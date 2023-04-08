@@ -23,6 +23,6 @@ They caught my attention with an [article they published](https://indierepublik.
 
 The promise of an album presenting itself like a movie, narrated by an artist that sounds a bit like Mark Lanegan, was alluring enough. So I went, and what a surprise. This is a great finding — treat yourself with this gem of an album:
 
-{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=4166563329/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://cameronhassard.bandcamp.com/album/rings-2">Rings by Cameron Hassard</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=4166563329/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://cameronhassard.bandcamp.com/album/rings-2">Rings by Cameron Hassard</a></iframe>' %}
 
 _Rings_ was produced and recorded at Berlin’s [Famous Gold Watch Records](https://thefamousgoldwatch.com/) by Cameron James Laing (Universal).

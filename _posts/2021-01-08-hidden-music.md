@@ -16,7 +16,7 @@ featimage: true
 thumbOnly: true
 permalink: /work/music-production/hidden-music/
 ---
-{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=3656047790/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://danecclestone.bandcamp.com/album/hidden-music">Hidden Music by Dan Ecclestone</a></iframe>' %}
+{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=3656047790/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://danecclestone.bandcamp.com/album/hidden-music">Hidden Music by Dan Ecclestone</a></iframe>' %}
 
 ## Production
 
