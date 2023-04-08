@@ -8,13 +8,15 @@ description: 'I’m using notes as Indieweb replies and likes sent through webme
 sitemap: false
 robots: 'noindex,follow'
 ---
-<ul>
+<ul class="list-hr">
   {% for note in site.notes reversed -%}
   <li>
     {%- if note.replyto -%}
-    <a href="{{ note.url }}">On {{ note.date | date: "%-d %b %Y %T" }} I replied to <code>{{ note.replytouser }}</code></a>
+    <a href="{{ note.url }}"><big>On {{ note.date | date: "%-d %b %Y %T" }} I replied to <code>{{ note.replytouser }}</code></big></a><br>
+    <small><time class="dt-published dim" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %B %Y" }}</time></small>
     {%- elsif note.likeof %}
-    <a href="{{ note.url }}">I liked “{{ note.likeoftitle }}” by&nbsp;<code>{{ note.likeofuser }}</code></a>
-    {%- endif %}</li><hr>
+    <a href="{{ note.url }}"><big>I liked “{{ note.likeoftitle }}” by&nbsp;<code>{{ note.likeofuser }}</code></big></a><br>
+    <small><time class="dt-published dim" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %B %Y" }}</time></small>
+    {%- endif %}</li>
   {% endfor -%}
 </ul>

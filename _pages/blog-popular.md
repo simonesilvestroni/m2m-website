@@ -10,7 +10,7 @@ permalink: '/blog/popular/'
 <ul class="list-hr">
 {%- for post in caseStudies %}
   <li>
-    <a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a><br>
+    <a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}"><big>{{ post.title }}</big></a><br>
     <small><time class="dt-published dim" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time></small>
   </li>
 {% endfor %}

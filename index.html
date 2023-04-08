@@ -14,7 +14,7 @@ last_modified_at: '2023-04-02 17:40:35'
   <fieldset>
     <legend><strong>LATEST POST</strong></legend>
     {% for post in site.posts limit: 1 -%}
-    <a href="{{ post.url }}" title="Read the post">{{ post.title }}</a><br><small>{{ post.date | date: "%d %b %Y" }}</small>
+    <a href="{{ post.url }}" title="Read the post"><big>{{ post.title }}</big></a><br><small>{{ post.date | date: "%d %b %Y" }}</small>
     {% endfor -%}
   </fieldset>
 </article>
