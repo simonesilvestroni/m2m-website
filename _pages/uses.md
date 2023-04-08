@@ -144,3 +144,6 @@ In the past:
 - Dropbox in the browser
 - Transmit
 - Carbon Copy Cloner
+
+{: .notice }
+Also, check out the post [_How I Use The Internet_](/blog/how-i-use-internet/)

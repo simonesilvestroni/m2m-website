@@ -28,7 +28,7 @@ Gerald also received this magnificent endorsement by [Leland Sklar](https://en.w
 
 I’ve had the pleasure to co-produce the single, working with [Dan Ecclestone]({{ site.url }}/work/music-production/hidden-music/) on his vocal parts, helping create what seems to be our most powerful release to date. Gerald completed the mix, [Chris Pavey](https://www.chrispaveymastering.com/) of CPM mastered.
 
-I’ve asked the guys to let me know their feelings about **the process** that lead to this gem of a song. These are their impressions.
+I’ve asked the guys to let me know their feelings about the process that lead to this gem of a song. These are their impressions.
 
 > Writing music is like having children, you are supposed to treat them all with the same amount of love and affection. This song was like the child that questioned everything I did. It asked me why the world was round and why its cat had to die. I have a love/hate relationship with this song.
 > 
@@ -36,7 +36,7 @@ I’ve asked the guys to let me know their feelings about **the process** that l
 > 
 > <cite>— Gerald Duchene</cite>
 
-> This song proved to be a really positive turning point for Gerald and I, having worked together on last year’s ’The Experience’ album. Despite having worked together effortlessly, a number of recent tunes hadn’t worked out quite as well and we were unsure how to proceed.
+> This song proved to be a really positive turning point for Gerald and I, having worked together on last year’s *The Experience* album. Despite having worked together effortlessly, a number of recent tunes hadn’t worked out quite as well and we were unsure how to proceed.
 > 
 > Gerald broke this creative deadlock by bringing our mutual friend and co-conspirator Simone Silvestroni onboard. Simone had of course been playing bass with Gerald for some time but now acted as a creative go-between, joining the conversations and widening them out from dialogue to discourse.
 > 

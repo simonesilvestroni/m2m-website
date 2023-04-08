@@ -31,15 +31,15 @@ After agreeing on the type and number of stems, I proceeded with the edits. Havi
 
 The way I approached the final mastering stage resembles the same technique adopted while [mixing Ember Rev's upcoming album](/blog/reaper-daw-subprojects/). Subprojects are such a powerful and useful feature I couldn't refrain from trying it with mastering.
 
-Once the 'editing' phase is complete, ideally I don't want to keep tinkering with the audio material. With subprojects there's no bouncing of the two-track to disk to be imported in a new session. Instead, the stem-mastered project becomes a _child_ to be added to a _parent_ project.
+Once the editing stage is complete, ideally I don't want to keep tinkering with the audio material. With subprojects there's no bouncing of the two-track to disk to be imported in a new session. Instead, the stem-mastered project becomes a _child_ to be added to a _parent_ project.
 
-The crucial difference is that if I then double-click the child project (rendered in the parent project as a stereo wave file), Reaper opens the original session, complete with stems on different tracks, plug-ins, edits and automation. I can perform fine-tuning without technically leaving my master parent project. Once I save the new edits, the child is automatically re-rendered and updated.
+The crucial difference is that if I then double-click the child project (rendered in the parent project as a stereo wave file), Reaper opens a new project tab containing the original session, complete with multi-tracks, plug-ins, edits and automation. I can perform fine-tuning without technically leaving my master project. Once I save the new edits, the child is automatically re-rendered and updated in the parent.
 
 So far, I haven't seen anyone else using the same procedure, so this is to be considered my take on stem mastering using subprojects in Reaper.
 
 ## Mastering ‘Ipogeo’
 
-I had to go back to the stems a couple times, because of minor loudness adjustments. Normally, I would have adopted a multi-band compressor on certain frequency ranges; since subprojects are available, I simply double-cliked and opened the original stem stession, applied the corrections on drums and bass without touching vocals and the remaining instrumentation.
+I had to go back to the stems a couple times, because of minor loudness adjustments. Normally, I would have adopted a multi-band compressor on certain frequency ranges; since subprojects are available, I simply double-clicked and opened the original stem stession, applied the corrections on drums and bass without touching vocals and the remaining instrumentation.
 
 Once happy with the master, I bounced three versions, each one with a progressively higher loudness. In the following screengrab, the subproject (yellow audio item) had retained the original session markers as item/take markers, which helped with automating the limiter in certain sections.
 

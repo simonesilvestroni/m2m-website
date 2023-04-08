@@ -48,7 +48,7 @@ There are four main tabs in the left sidebar.
 ![Explorer sidebar: folder tab](/assets/images/explorer-sidebar-folder.png)
 ![Explorer sidebar: audio tab](/assets/images/explorer-sidebar-audio.png)
 
-### Search
+## Search
 
 The software is capable of creating search tags by category, playlists, folder paths, flagged audios, or audio file properties such as sample rate, file format and more. Includes searching for keywords and excluding words, setting matching conditions and having multiple searches at the same time.
 
@@ -82,6 +82,6 @@ The scope where I would use Explorer the most, besides looking for interesting s
 
 I think it's pretty unbelieavable that this piece of software is completely free. [Download it for macOS and Windows](https://soundparticles.com/products/explorer).
 
-### Edit, March 2023
-
+{: .notice }
+**Edit: March 2023**<br>
 After a recent update, Explorer became slower, sloppy to the point of being unusable, at least on my older machine. I'm not sure if the addition of a — for me unwanted — cloud-based sample shop is at the root of the lack of performance, either way I switched to [Reaper's Media Explorer](https://www.youtube.com/watch?v=zwTzHOedfYg).

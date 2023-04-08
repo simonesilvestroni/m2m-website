@@ -26,7 +26,7 @@ I never intended to make a living solely through the music I write: my work in s
 
 Today I don’t judge people that are still juggling with social networks, yet I see any lucubration about how to stay in mainstream social media and save the soul as _plain weird_. I suppose once you’re out you can’t really understand why anyone would want to continue staying locked in — like an ex-smoker.
 
-Having lived through the full experience of being engulfed in social networks, I know what Steve’s talking about. However, after leaving pretty much everything in the last couple of years — including Apple's walled garden — I’ve never felt more liberated and light-weight.
+Having lived through the full experience of being engulfed in social networks, I know what Steve’s talking about. However, after leaving pretty much everything in the last couple of years, including Apple's walled garden, I’ve never felt more liberated and light-weight.
 
 ## What happened after I left social media
 
@@ -56,6 +56,6 @@ I keep asking: what if these soulless machines stopped working? We all remember 
 
 My answer was, and still is: have your own space [on the internet](https://www.onebigfluke.com/2012/07/focusing-on-positives-why-i-have-my-own.html).
 
-### Edit, March 2022
-
+{: .notice }
+**Edit: March 2022**<br>
 On 10 March I re-joined [Mastodon](https://mastodon.help/), as an experiment. I did try it five years ago, to no avail. I immediately understood why everyone says _it's not_ Twitter. It sure feels like a totally different space.

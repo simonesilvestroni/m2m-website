@@ -125,7 +125,7 @@ This was a biggie for me. I was stunned to discover that REAPER doesn’t have t
 - Mono
 - Stereo
 
-{% include pattern-figure.html image="/assets/images/daw-pro-tools-new-tracks.jpeg" caption="Create new tracks in Pro Tools" width="720" height="258" %}
+{% include pattern-figure.html image="/assets/images/daw-pro-tools-new-tracks.gif" caption="Create new tracks in Pro Tools" width="720" height="432" %}
 
 {% include pattern-figure.html image="/assets/images/daw-logic-pro-x-new-track.png" caption="Create new tracks in Logic Pro X" width="1262" height="654" %}
 

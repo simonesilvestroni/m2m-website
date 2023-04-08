@@ -83,6 +83,6 @@ Background vocals
 
 <small>&copy; 2018 Music and lyrics Dan Ecclestone.</small>
 
-<small>&copy; 2021 Remix produced and arranged by Simone Silvestroni and Gerald Duchene. The copyright in this sound recording is owned by Minutes to Midnight and Gerald Duchene. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.</small>
+<small>&copy; 2021 Remix produced and arranged by Simone Silvestroni and Gerald Duchene. The copyright in this sound recording (master) is owned by Simone Silvestroni. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.</small>
 
 Released: 3 June 2021.

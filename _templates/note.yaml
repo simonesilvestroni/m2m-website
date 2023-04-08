@@ -6,4 +6,10 @@ tags:
   - 'Notes'
 sitemap: false
 robots: 'noindex,follow'
+replyto: '$1'
+replytouser: '$2'
+likeof: '$3'
+likeofuser: '$4'
+likeoftitle: '$5'
 ---
+$6

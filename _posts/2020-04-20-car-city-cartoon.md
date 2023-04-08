@@ -15,10 +15,7 @@ tags:
   - "case study"
 description: "Sound effects, dialogue and music sync for the acclaimed show ‘Tom the Tow Truck’, part of the Car City series by Paris-based Amuse."
 featimage: true
-featimage-name: 'car-city-cartoon.jpg'
-featimage-alt: Logic session for a Car City cartoon episode
-featimage-width: 1024
-featimage-height: 604
+thumbOnly: true
 permalink: /work/sound-design/car-city-cartoon/
 ---
 ## Cartoon series episodes
@@ -100,4 +97,4 @@ Once all the edits requested in the feedback were completed and a sign-off was o
 
 ## Release
 
-The episodes were released on YouTube following a specific schedule, usually a couple of weeks after delivery.
+The episodes were released on several networks, such as YouTube, Apple TV+ and others, following a specific schedule, usually a couple of weeks after delivery.

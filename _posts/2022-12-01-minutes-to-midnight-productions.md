@@ -17,8 +17,13 @@ tags:
   - "arrangement"
   - "mixing"
   - "mastering"
+  - "antiquity"
+  - "ember rev"
+  - "callum gardner"
+  - "mally harpaz"
+  - "ciara clifford"
   - "case study"
-description: 'A collection of work released over 5 years that don’t have a full-fledged case study. Including bass tracks, album mix, mastering and full production.'
+description: 'A collection of projects that don’t have a full-fledged case study. Including bass tracks, album mix, mastering and full production.'
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/minutes-to-midnight-productions/
@@ -30,14 +35,6 @@ Role: <mark>Production</mark><br>
 Country: USA
 
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2746368137/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sessions.antiquity-music.com/track/the-eclipse">The Eclipse by Antiquity</a></iframe>' %}
-
-## Hidden Music
-
-Album by **Dan Ecclestone**<br>
-Role: <mark>Mix</mark><br>
-Country: UK
-
-{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=3656047790/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://danecclestone.bandcamp.com/album/hidden-music">Hidden Music by Dan Ecclestone</a></iframe>' %}
 
 ## Ciara Clifford
 

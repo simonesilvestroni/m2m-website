@@ -3,8 +3,8 @@
     <header>
       <h3 id="{{ project.title | downcase | replace: " ","-" }}">{{ project.title }}</h3>
     </header>
-    {%- if project.featimage == true -%}
     <div class="card-project">
+      {%- if project.featimage == true -%}
       <picture class="card-project_picture">
         <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".webp" }}" type="image/webp">
         <source srcset="/assets/images/thumb-{{ project.title | downcase | replace: " ","-" | append: ".jpg" }}" type="image/jpeg">

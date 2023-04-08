@@ -10,6 +10,7 @@ tags:
   - "editing"
   - "logic pro"
   - "project management"
+  - "ember rev"
   - "case study"
 description: "The second album by Cambridge-based band Ember Rev is a concept around a lament for the European ideal. I mixed and co-produced together with their songwriter Dan Ecclestone."
 featimage: true

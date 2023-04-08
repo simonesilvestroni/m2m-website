@@ -51,7 +51,7 @@ We wanted to make this a dialogue, where the original song and our remix approac
 
 After re-settling in his coastal Italian hometown, Simone managed to work on his side of production. Added the vocals, the bass, reorganized the samples, recorded a new rhythmic section in the chorus, along with an original Italian TV announcement of Nixon’s victory in 1968.
 
-{% include pattern-figure.html image="/assets/images/arrigo-levi.jpg" caption="Arrigo Levi, announcing Nixon’s victory on Italian TV (1968)" width="461" height="270" %}
+{% include pattern-figure.html image="/assets/images/arrigo-levi.jpg" caption="Arrigo Levi, announcing Nixon’s victory on Italian TV (1968)" width="720" height="422" %}
 
 The spoken words of Gianluca’s father — recorded by himself on tape at the time — is featured all along, like a vocal journal of his preparations for a work trip in Iraq in the same year. At the beginning, tenderly speaking to his wife, he states the date: the day before Nixon was announced as the new President of the US.
 
@@ -68,11 +68,11 @@ We exchanged opinions about the rough mixes, efficiently collaborating to the ed
 
 ## Credits
 
+**Emilio Albertoni**<br>
+Electric guitars, synths, fretted bass, drums
+
 **Simone Silvestroni**<br>
 Fretless bass, drums, sound effects
-
-**Emilio Albertoni**<br>
-Electric guitars, synths, fretted bass, drums  
 
 **Gianluca Lo Presti**<br>
 Vocals, synth, sound effects  
@@ -84,6 +84,6 @@ Vocals, synth, sound effects
 
 <small>&copy; 2020 Music and lyrics by Gianluca Lo Presti.</small>
 
-<small>&copy; 2021 Remix produced and arranged by Emilio Albertoni and Minutes to Midnight. The copyright of the sound recording (master) owned by Simone Silvestroni and Emilio Albertoni. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.</small>
+<small>&copy; 2021 Remix produced and arranged by Emilio Albertoni and Minutes to Midnight. The copyright of the sound recording (master) owned by Simone Silvestroni. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.</small>
 
 Released: 28 June 2021.

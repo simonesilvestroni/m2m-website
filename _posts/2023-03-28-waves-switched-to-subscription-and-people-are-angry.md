@@ -68,7 +68,7 @@ Maybe there will be a bunch of people who will retract their positions under the
 
 ## Conclusions
 
-I still have my Waves plug-ins, some of which I’ve been using for a long time. Since my workstation is at the end of its macOS supported life, I don’t fear obsolescence because I won’t (can’t) upgrade my OS beyond Monterey. 
+I still have my Waves plug-ins, some of which I’ve been using for a long time. Since my workstation is at the end of its macOS supported life, I don’t fear imminent obsolescence because I won’t (can’t) upgrade my OS beyond Monterey. 
 
 What about the day when I’ll have to upgrade my hardware? I’ll move on and switch to something I already own, such as the single modules from my **iZotope** Ozone Advanced, smaller actors like **Voxengo**, **Klanghelm**, **Tokyo Dawn Labs**, **Analogue Obsession**, or buy from different companies like **Plugin Alliance** or **FabFilter**. I’ll probably use more [Reaper](/blog/tag/reaper/)’s stock plug-ins — and the ones developed by its awesome community — wherever possible.
 
