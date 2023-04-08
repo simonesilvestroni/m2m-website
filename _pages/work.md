@@ -82,7 +82,6 @@ permalink: '/work/'
 
 ### Books and articles
 
+{: .list-hr }
 - In 2018 I wrote the free ebook [_Efficient Productivity for Music Professionals_](/work/project-management/) about project management in the music industry. Based on a real-life album production.
-  <hr>
 - In 2019 my article [_A Trip to Freedom, From Berlin to Berlin_](/blog/after-1989-full-story/) was published by the Medium magazine "Lessons From History". The story was the basis for my debut album _After 1989_.
-  <hr>

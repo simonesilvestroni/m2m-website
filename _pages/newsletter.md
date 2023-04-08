@@ -10,12 +10,11 @@ permalink: '/newsletter/'
 
 ## Past issues
 
-<ul>
+<ul class="list-hr">
   {%- for post in site.newsletter reversed %}
   <li>
     <a href="{{ post.url }}" title="Read the post">{{ post.title }}</a><br>
     <small>{{ post.date | date: "%d %b %Y" }}</small>
   </li>
-  <hr>
   {% endfor -%}
 </ul>

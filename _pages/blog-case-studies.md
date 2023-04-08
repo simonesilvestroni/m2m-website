@@ -7,12 +7,11 @@ description: 'In-depth analysis about projects such as: sound design, game audio
 permalink: '/blog/case-studies/'
 ---
 {%- assign caseStudies = site.posts | where_exp:'post','post.tags contains "case study"' | sort: date | reverse -%}
-<ul>
+<ul class="list-hr">
 {%- for post in caseStudies %}
   <li>
     <a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a><br>
     <small><time class="dt-published dim" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time></small>
   </li>
-  <hr>
 {% endfor %}
 </ul>

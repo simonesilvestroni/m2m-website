@@ -7,12 +7,11 @@ description: 'The most popular posts based on private feedback, reactions on Mas
 permalink: '/blog/popular/'
 ---
 {%- assign caseStudies = site.posts | where_exp:'post','post.tags contains "popular"' | sort: date | reverse -%}
-<ul>
+<ul class="list-hr">
 {%- for post in caseStudies %}
   <li>
     <a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a><br>
     <small><time class="dt-published dim" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time></small>
   </li>
-  <hr>
 {% endfor %}
 </ul>

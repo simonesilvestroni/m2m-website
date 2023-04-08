@@ -26,10 +26,9 @@ I strongly advise you to watch the entire interview — it’s slightly over 45 
 
 ## Who is Susan Rogers
 
+{: .list-hr }
 - Susan Rogers holds a doctoral degree in experimental psychology from McGill University (2010). Prior to her science career, Susan was a multiplatinum-earning record producer, mixer, engineer, and audio technician.
-  <hr>
 - She is best known for her work with Prince during his peak creative period (1983-1987) but production, engineering, mix credits also include David Byrne, Barenaked Ladies, Geggy Tah, Nil Lara, Robben Ford, Tricky, Michael Penn, Jeff Black, and many more.
-  <hr>
 - She is currently a Professor in the departments of Music Production & Engineering and Liberal Arts at [Berklee College of Music, Boston](https://www.berklee.edu/), where she teaches psychoacoustics, record production and analog recording techniques.
 
 {% include pattern-figure.html image="/assets/images/susan-rogers-sign-o-the-times-tour.jpg" caption="Susan Rogers during Prince’s &ldquo;Sign &rsquo;O The Times&rdquo; tour" width="1024" height="682" %}

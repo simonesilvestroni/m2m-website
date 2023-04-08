@@ -19,32 +19,26 @@ permalink: '/uses/'
 - Warwick Thumb bass (1991)
 - Fretless Fender Jazz bass
 - Tech 21 Sansamp Bass Driver v2
-  <hr>
 - Fender Stratocaster electric guitar
-  <hr>
 
 ## Audio and MIDI
 
 - Audient iD14 audio interface
 - Dedicated FX-Audio DAC
-  <hr>
 - Yamaha HS5 speakers
 - Ollo S4X headphones
 - Sony MDR-7506 headphones
 - Beyerdynamic DT 770 Pro headphones
-  <hr>
 - Novation Launchkey Mini MkII
 - Korg Micro KEY 66
 - M-Audio Keystation Mini 32
 - Behringer X-Touch One controller
-  <hr>
 
 ## Recording
 
 - Shure SM58
 - Røde NT5 condenser matched pair, with SB20 stereo bar
 - Thomann SC 1100 studio large diaphragm mic
-  <hr>
 - Zoom H5
 - Ulanzy mini tripod MT-08
 - Movo shock mount
@@ -52,20 +46,25 @@ permalink: '/uses/'
 - Zoom SSH-6 mid-side stereo shotgun mic
 - Telephone pick-up coil mic
 - Korg contact microphone CM-300
-  <hr>
 
 ## Audio software
+
+### DAWs
 
 - [REAPER 6.x]({{ site.url }}/blog/tag/reaper/)
 - Logic Pro X 10.7.7
 - Reason 8.3.2
-  <hr>
+
+### Editors
+
 - iZotope RX 6 Standard
 - iZotope Ozone 9 advanced
 - Zynaptiq Triumph
 - Zynaptiq Myriad
 - Stereo Monoizer
-  <hr>
+
+### Virtual instruments
+
 - Kilohearts Phase Plant synth
 - XLN Addictive Drums
 - XLN Addictive Keys
@@ -77,7 +76,9 @@ permalink: '/uses/'
 - Decomposer Sitala
 - Air XPand! 2
 - EastWest Hollywood Strings Gold
-  <hr>
+
+### Plug-ins
+
 - Waves v13
 - Soundtoys 5
 - Kilohearts Snap Heap
@@ -88,7 +89,6 @@ permalink: '/uses/'
 - AudioThing Fog Convolver
 - McDSP Compressors Bank
 - Celemony Melodyne 5
-  <hr>
 
 ## Game audio
 
@@ -117,12 +117,10 @@ In the past:
 - Pixelmator classic
 - Graphic Converter 12
 - ImageOptim
-  <hr>
 - Sublime Text 4 ([read why](https://tonsky.me/blog/sublime/))
 - Obsidian
 - Typora
 - iA Writer
-  <hr>
 
 ## Browsers
 

@@ -15,20 +15,19 @@ description: 'I’ve been running a blog since March 2002. I focus on sound desi
   {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
     {% if forloop.first %}
     <h2 id="{{ this_year }}-ref">{{ this_year }}</h2>
-    <ul>
+    <ul class="list-hr">
     {% endif %}
       <li>
         <a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark><small>CASE STUDY</small></mark>{% endif %}{% if post.tags contains "popular" %}&nbsp;&nbsp;<mark><small>POPULAR</small></mark>{% endif %}<br>
         <small><time class="dt-published dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time></small>
       </li>
-      <hr>
       {% if forloop.last %}
     </ul>
     {% else %}
     {% if this_year != next_year %}
     </ul>
     <h2 id="{{ next_year }}-ref">{{ next_year }}</h2>
-    <ul>
+    <ul class="list-hr">
     {% endif %}
     {% endif %}
   {% endfor %}
