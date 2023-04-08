@@ -29,11 +29,11 @@ Daily maintenance and content updates are achieved through a mix of templates in
 
 {: .list-hr }
 - I wiped out bloated frameworks. Now the entire source code is `1.1 MB`.
-- Only [0.04g of CO<sub>2</sub> is produced every time someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/), which is cleaner than 96% of web pages tested. 
+- Only [0.01g of CO<sub>2</sub> is produced every time someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/), which is cleaner than 99% of web pages tested. 
 - Runs on sustainable energy and does not request third-party resources, except for the blog posts, which are calling `webmention.io` to render webmentions. 
 - [Scores 100 on Ecograder](https://ecograder.com/report/CYFdKg62wGIsfEWJoa8uLAIE) and it's featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/).
-- The homepage loads in <mark>0.4 seconds</mark> and weighs <mark>112 KB</mark> (uncompressed). 
-- Proud member of the [512kb club](https://512kb.club "Member of the 512kb Orange Team") and the [1Mb club](https://1mb.club/).
+- The homepage loads in <mark>0.4 seconds</mark> and weighs <mark>63.9 KB</mark> (uncompressed). 
+- Proud member of the [512kb club](https://512kb.club "Member of the 512kb") and the [1Mb club](https://1mb.club/).
 
 ## Accessibility
 
