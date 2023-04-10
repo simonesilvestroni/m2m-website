@@ -11,7 +11,7 @@ description: 'A short work-related chat with a former colleague and now friend, 
 > I don’t get it. How can a large part of 40 people sacrifice their lives for someone else’s dream, here, in this very office? I don’t really care for the project we’ve been working on. Maybe I did, at the beginning. Now? Being genuine has become counterproductive. If I want to leave by 7PM, I either have to make up excuses, or lie. If I want time off I have to call in sick. A simple “I work hard, but after 9 hours I create more bugs than I should be fixing” doesn’t get me anywhere, as the reply would be “just work 11 hours and shut up”. I don’t like this direction, it’s not mine, I don’t want that to engulf me.
 > 
 > Even my friendships are slowly crumbling. I haven’t been speaking to G. for a long time, and we were friends. We used to hang out often. He’s losing people without even realising it, and this is because he’s in love with this job.
-Also, do you realise how we work hard to avoid mistakes, not because we care, but because otherwise we would get dissed by the technical director during meetings?
+Also, do you see how we work hard to avoid mistakes, not because we care, but because otherwise we would get dissed by the technical director during meetings?
 <cite>C.</cite>
 
 I don’t get it either. Whenever I stay beyond 7PM, I actually work on my personal website, browse the internet, do personal tasks. Then, after fifteen minutes or so, I disappear into thin air.
