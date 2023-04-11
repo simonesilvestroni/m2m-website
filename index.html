@@ -22,7 +22,7 @@ last_modified_at: '2023-04-02 17:40:35'
   <fieldset>
     <legend><strong>MAIN SKILLS</strong></legend>
     {% for item in site.skills -%}
-    <a href="{{ item.url }}"><small class="dim">#</small><span class="big">{{ item.name }}</span></a>&nbsp;&nbsp;
+    <a href="{{ item.url }}"><span class="big">{{ item.name }}</span></a>&nbsp;&nbsp;
     {% endfor -%}
   </fieldset>
 </article>
