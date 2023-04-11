@@ -12,7 +12,7 @@ tags:
   - 'izotope rx'
   - 'subprojects'
   - 'case study'
-description: 'How I exploit the subproject functionality in REAPER to save time and processing power while mixing a rework of Ember Rev’s debut album.'
+description: 'How I exploited the subproject functionality in REAPER to save time and processing power while mixing a rework of Ember Rev’s debut album.'
 featimage: true
 thumbOnly: true
 syndication: yes
