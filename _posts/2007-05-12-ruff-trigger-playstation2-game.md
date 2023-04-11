@@ -6,7 +6,7 @@ author: 'Simone Silvestroni'
 tags:
   - "sound design"
   - "game audio"
-  - "video game"
+  - "video games"
   - "project management"
   - "composition"
   - "foley"

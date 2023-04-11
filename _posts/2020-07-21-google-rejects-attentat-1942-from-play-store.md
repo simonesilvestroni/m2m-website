@@ -10,7 +10,7 @@ tags:
   - 'history'
   - 'nazism'
   - 'world war ii'
-  - 'video game'
+  - 'video games'
 description: "Despite the developer's effort, Google refused to publish the game ‘Attentat 1942’ on their Play Store in Germany, France, Austria and Russia."
 ---
 Brilliant article by [Game Developer](https://www.gamedeveloper.com) about the release of the videogame [_Attentat 1942_](https://attentat1942.com/). Despite the developer’s effort, Google refused to publish the game on their Play Store in Germany, France, Austria and Russia. I wholeheartedly agree with the company:
