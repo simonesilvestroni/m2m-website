@@ -118,6 +118,21 @@ plugins:
   - jekyll-archives
 
 # -------------------
+# Main skills
+# -------------------
+skills:
+  - name: 'Bass'
+    url: '/blog/tag/bass-player/'
+  - name: 'Mixing'
+    url: '/blog/tag/mixing/'
+  - name: 'Sound design'
+    url: '/blog/tag/sound-design/'
+  - name: 'Game audio'
+    url: '/blog/tag/video-games/'
+  - name: 'Mastering'
+    url: '/blog/tag/mastering/'
+
+# -------------------
 # Work endorsements
 # -------------------
 endorsements:

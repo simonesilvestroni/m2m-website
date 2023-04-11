@@ -7,6 +7,7 @@ tags:
   - 'antiquity'
   - 'gerald duchene'
   - 'bass'
+  - 'bass player'
   - 'bassist'
   - 'music release'
   - 'music producer'

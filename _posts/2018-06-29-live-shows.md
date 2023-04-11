@@ -6,6 +6,7 @@ author: 'Simone Silvestroni'
 tags:
   - 'bassist'
   - 'bass player'
+  - 'bass'
   - 'live'
   - 'gigs'
   - 'concert'
