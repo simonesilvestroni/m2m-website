@@ -11,16 +11,16 @@ last_modified_at: '2023-04-02 17:40:35'
   </header>
   <p class="p-summary">A digital polymath focused on high-quality audio productions since 1992.</p>
   <p class="e-content">I <a href="/blog/">write about</a> music production, sound design, video games and how I use technology to translate audio into an enjoyable experience. <a href="/about/">More about me</a>.</p>
-  <fieldset class="tldr">
-    <legend><strong>LATEST POST</strong></legend>
+  <div class="notice">
+    <h2>Latest post</h2>
     {% for post in site.posts limit: 1 -%}
-    <a href="{{ post.url }}" title="Read the post">{{ post.title }}</a><br><small>{{ post.date | date: "%d %b %Y" }}</small>
+    <a class="big" href="{{ post.url }}" title="Read the post">{{ post.title }}</a><br><small>{{ post.date | date: "%d %b %Y" }}</small>
     {% endfor -%}
-  </fieldset>
-  <fieldset class="tldr">
-    <legend><strong>MAIN SKILLS</strong></legend>
+  </div>
+  <div class="notice">
+    <h2>Main skills</h2>
     {% for item in site.skills -%}
     <a href="{{ item.url }}">{{ item.name }}</a>&nbsp;&nbsp;
     {% endfor -%}
-  </fieldset>
+  </div>
 </article>
