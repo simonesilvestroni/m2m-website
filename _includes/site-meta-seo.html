@@ -6,7 +6,7 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-<meta property="og:image" content="{% if page.featimage == true %}{{ site.url }}/assets/images/{{ page.featimage-name }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}">
+<meta property="og:image" content="{% if page.featimage == true and page.thumbOnly != true %}{{ site.url }}/assets/images/{{ page.featimage-name }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}">
 <!-- Schema -->
 <script type="application/ld+json">
 {
@@ -36,7 +36,7 @@
     "@type": "WebPage",
     "@id": "{{ site.url }}{{ page.url }}"
   },
-  {% if page.featimage == true %}
+  {% if page.featimage == true and page.thumbOnly != true %}
   "image": {
     "@type": "ImageObject",
     "width": "1024",
