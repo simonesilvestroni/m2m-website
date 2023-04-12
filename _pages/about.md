@@ -33,35 +33,24 @@ permalink: '/about/'
 - Constantly looking for a way to complete a task in less and more efficient steps, I wrote an ebook about [project management for musicians]({{ site.url }}/work/project-management/).
 - Endorsed by [Leland Sklar and others](/work/endorsements/).
 
-## Skills
+<div class="notice">
+  <h2>Skills</h2>
+  <p>{% for item in site.skills -%}<a href="{{ item.url }}">{{ item.name }}</a>, {% endfor -%}Recording, Editing, Field recording, Foley, Game audio integration (Wwise, Unity, FMOD and Unreal).</p>
+  <p>After switching from analog to digital two decades ago, I've been working entirely in the box</p>
+</div>
 
-- Bass
-- Recording
-- Editing
-- Mixing (my favourite stage of production)
-- Mastering
-- Field recording
-- Foley
-- Game audio integration: Wwise, Unity, FMOD and Unreal
-- After switching from analog to digital two decades ago, I currently work entirely in the box
+<div class="notice">
+  <h2>Updates</h2>
+  <ul>
+    <li><a href="/now/">What I'm doing now</a></li>
+    <li><a href="/feed.xml">RSS</a> for the blog</li>
+    <li><a href="/newsletter.xml">RSS</a> for the <a href="/newsletter/">newsletter</a></li>
+  </ul>
+</div>
 
-## Updates
-
-- [What I'm doing now](/now/)
-- Follow the blog through the [RSS protocol](/rss/)
-- [Subscribe to my newsletter](/newsletter/) or follow through [RSS](/rss/)
-
-## Social media and other networks
-
-<ul>
-  {% for item in site.data.nav-social -%}
-  <li><a href="{{ item.link }}" title="{{ item.name }}">{{ item.name }}</a></li>
-  {% endfor -%}
-</ul>
-
-## More about me
+## More info
 
 - [Press photos](/press-photos/)
 - [A personal manifesto](/manifesto/)
 - [What I use](/uses/)
-- About [Minutes to Midnight's name and logo](/about/name-and-logo/)
+- [Name and logo](/about/name-and-logo/)

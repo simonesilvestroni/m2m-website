@@ -143,5 +143,6 @@ In the past:
 - Transmit
 - Carbon Copy Cloner
 
-{: .notice }
-Also, check out the post [_How I Use The Internet_](/blog/how-i-use-internet/)
+***
+
+Also, check out the post [_How I Use The Internet_](/blog/how-i-use-internet/)&nbsp;→

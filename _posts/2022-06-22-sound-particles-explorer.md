@@ -82,6 +82,6 @@ The scope where I would use Explorer the most, besides looking for interesting s
 
 I think it's pretty unbelieavable that this piece of software is completely free. [Download it for macOS and Windows](https://soundparticles.com/products/explorer).
 
-{: .notice }
-**Edit: March 2023**<br>
-After a recent update, Explorer became slower, sloppy to the point of being unusable, at least on my older machine. I'm not sure if the addition of a — for me unwanted — cloud-based sample shop is at the root of the lack of performance, either way I switched to [Reaper's Media Explorer](https://www.youtube.com/watch?v=zwTzHOedfYg).
+<div class="notice">
+  <h3>Edit: March 2023</h3>
+  <p>After a recent update, Explorer became slower, sloppy to the point of being unusable, at least on my older machine. I'm not sure if the addition of a — for me unwanted — cloud-based sample shop is at the root of the lack of performance, either way I switched to <a href="https://www.youtube.com/watch?v=zwTzHOedfYg">Reaper's Media Explorer</a>.</p>

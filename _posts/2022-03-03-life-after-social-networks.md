@@ -56,6 +56,7 @@ I keep asking: what if these soulless machines stopped working? We all remember 
 
 My answer was, and still is: have your own space [on the internet](https://www.onebigfluke.com/2012/07/focusing-on-positives-why-i-have-my-own.html).
 
-{: .notice }
-**Edit: March 2022**<br>
-On 10 March I re-joined [Mastodon](https://mastodon.help/), as an experiment. I did try it five years ago, to no avail. I immediately understood why everyone says _it's not_ Twitter. It sure feels like a totally different space.
+<div class="notice">
+  <h4>Edit: March 2022</h4>
+  <p>On 10 March I re-joined <a href="https://mastodon.help/">Mastodon</a>, as an experiment. I did try it five years ago, to no avail. I immediately understood why everyone says <em>it's not Twitter</em>. It sure feels like a totally different space.</p>
+</div>

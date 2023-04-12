@@ -36,9 +36,9 @@ I had been living in the UK for five years when the referendum took place. That 
 
 At five in the morning, right after the BBC declared the result, I stood alone in the garden. It was sunny, a good fresh smell in the air. Gobsmacked and incapable of thinking clearly, I felt betrayed.
 
-Then, the most pantomimic four years came and went, and all I could see is ‘Rule Britannia’, which looked so out of touch with the world at large. [My wife and I left the UK](https://simonesilvestroni.com/blog/back-to-the-future-leaving-the-uk/), and our good friends there, last September. I haven’t yet come to terms with the seismic change.
+Then, the most pantomimic four years came and went, and all I could see was ‘Rule Britannia’, which looked so out of touch with the world at large.
 
-These two songs, even if written by someone else, prefectly encapsulate those days in June 2016. I spoke with [Gerald Duchene](https://antiquity-music.com/), long-time collaborator and friend of mine, about the idea of working together at these remixes. We both love a challenge, so off we went.
+These two songs prefectly encapsulate those days in June 2016. I spoke with [Gerald Duchene](https://antiquity-music.com/), long-time collaborator and friend of mine, about the idea of working together at these remixes. We both love a challenge, so off we went.
 
 > When I first heard the original recordings of these songs, I knew there was something there. Simone and I were pretty much simpatico and on the same page right from the start of our work on these tunes. We’ve been working together for awhile now and it seems like we have comfortably fallen into this new sound. I’m very proud of the work we did on these two great songs by Dan. I think they are the products of careful thoughtful musicianship.
 > 
@@ -54,11 +54,11 @@ For _Land of Kings_ I started with the [Warwick bass](/uses/). I replaced all th
 
 ### Vocals
 
-I treated all the vocal tracks with my go-to set of multiple tracks running parallel compression. LA-2A, a Vari-Mu (I'm currently using a premium Klanghelm plugin), an 1176 and a Fairchild.
+I treated Dan's original vocal tracks with my go-to set of multiple tracks running parallel compression. LA-2A, a Vari-Mu (I'm currently using a premium Klanghelm plugin), an 1176 and a Fairchild.
 
 ### Sound effects
 
-A couple of samples, a classic in my original productions, completed the remixes. _Land Of Kings_ features the exact TV announcement that I witnessed at sunup on the day of the referendum (see video above). _Papillon_ references a well-known section of the [maiden speech by Jo Cox](https://www.youtube.com/watch?v=u3OQRnJ1zrQ) — murdered by a far-right extremist a few days before the referendum — at the House of Commons.
+A couple of samples completed the remixes. _Land Of Kings_ features the exact TV announcement that I witnessed at sunup on the day of the referendum (see video above). _Papillon_ references a well-known section of the [maiden speech to Parliament by Jo Cox](https://www.youtube.com/watch?v=u3OQRnJ1zrQ), murdered by a far-right extremist a few days before the referendum.
 
 ## Credits
 
