@@ -36,7 +36,7 @@ permalink: '/about/'
 <div class="notice">
   <h2>Skills</h2>
   <p>{% for item in site.skills -%}<a href="{{ item.url }}">{{ item.name }}</a>, {% endfor -%}Recording, Editing, Field recording, Foley, Game audio integration (Wwise, Unity, FMOD and Unreal).</p>
-  <p>After switching from analog to digital two decades ago, I've been working entirely in the box</p>
+  <p>After switching from analog to digital two decades ago, I've been working entirely in the box.</p>
 </div>
 
 <div class="notice">
