@@ -40,6 +40,7 @@ Daily maintenance and content updates are achieved through a mix of templates in
 - Despite the website resulting compliant with <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> guidelines based on multiple tests, I know it’s still incomplete.
 - The page content is fully accessible with Javascript turned off. The dynamic [search engine](/search/) has an HTML alternative provided in the same page, based on DuckDuckGo.
 
+{: .notice }
 [**More about my ethical choices**](/manifesto/)&nbsp;→
 
 ## Copyright
