@@ -13,7 +13,7 @@ permalink: '/sitemap/'
   {%- unless page.sitemap == false %}
   <ul>
     <li>
-      <a href="{{ site.url }}{{ page.url }}"><strong>{{ page.title }}</strong></a><br>
+      <a class="big" href="{{ site.url }}{{ page.url }}">{{ page.title }}</a><br>
       {% unless page.title == 'Sitemap' %}
       <small class="dim">Updated <time>{{ page.last_modified_at | date: "%-d %B %Y" }}</time></small>
       {% endunless %}
@@ -29,7 +29,7 @@ permalink: '/sitemap/'
   {%- for post in blog %}
   <ul>
     <li>
-      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark><small>CASE STUDY</small></mark>{% endif %}{% if post.tags contains "popular" %}&nbsp;&nbsp;<mark><small>POPULAR</small></mark>{% endif %}<br>
+      <a class="big" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark><small>CASE STUDY</small></mark>{% endif %}{% if post.tags contains "popular" %}&nbsp;&nbsp;<mark><small>POPULAR</small></mark>{% endif %}<br>
       <small class="dim"><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time></small>
     </li>
   </ul>
