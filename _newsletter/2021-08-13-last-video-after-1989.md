@@ -4,6 +4,7 @@ date: '2021-08-13'
 last_modified_at: '2021-08-13 21:21:28'
 description: 'On the 60th anniversary of the building of the Berlin Wall, I’ve decided to release the last video from my album ‘After 1989’.'
 sitemap: false
+robots: 'noindex,follow'
 permalink: '/newsletter/archives/last-video-after-1989/'
 ---
 On the 60th anniversary of the building of the Berlin Wall, I’ve decided to release the last video from my album _After 1989_.

@@ -4,6 +4,7 @@ date: '2021-04-07'
 last_modified_at: '2021-04-07 21:21:28'
 description: 'I completed my 3-part series about how and why I switched from Pro Tools to REAPER, plus an amazing interview with Susan Rogers.'
 sitemap: false
+robots: 'noindex,follow'
 permalink: '/newsletter/archives/interview-susan-rogers/'
 ---
 I completed my 3-part series about how and why I switched from Pro Tools to REAPER. You can fine the 3 articles here:

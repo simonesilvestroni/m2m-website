@@ -4,6 +4,7 @@ date: '2020-10-23'
 last_modified_at: '2020-10-23 21:21:28'
 description: 'Over the last couple of months I left the UK and came back to Italy.'
 sitemap: false
+robots: 'noindex,follow'
 permalink: '/newsletter/archives/i-left-the-uk/'
 ---
 Over the last couple of months I left the UK and came back to Italy. If you’re interested in the reasons why I chose so, here’s a [short blog post](https://simonesilvestroni.com/blog/back-to-the-future-leaving-the-uk).

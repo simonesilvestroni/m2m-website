@@ -4,6 +4,7 @@ date: '2022-12-30 18:01:29'
 last_modified_at: '2022-12-30 18:01:32'
 description: 'Instead of a yearly wrap up, I’m going to keep it simple and focus on two things: I split the website in two.'
 sitemap: false
+robots: 'noindex,follow'
 permalink: '/newsletter/archives/newsletter-december-2022/'
 ---
 Instead of a yearly wrap up, I’m going to keep it simple.

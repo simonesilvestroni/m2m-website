@@ -4,6 +4,7 @@ date: '2020-08-04'
 last_modified_at: '2020-08-04 21:21:28'
 description: 'In this issue: leaving social media, a review for my song 13 Days, a new single by Antiquity with my bass, a post about the video game Attentat 1942.'
 sitemap: false
+robots: 'noindex,follow'
 permalink: '/newsletter/archives/new-releases-and-video-games/'
 ---
 ## Escape From Social Media

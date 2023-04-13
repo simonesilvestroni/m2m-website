@@ -4,6 +4,7 @@ date: '2021-04-02'
 last_modified_at: '2021-04-02 21:21:28'
 description: 'I published the first article of a 3-part series about how and why I switched from Pro Tools to REAPER.'
 sitemap: false
+robots: 'noindex,follow'
 permalink: '/newsletter/archives/article-switch-to-reaper/'
 ---
 I published the first article of a 3-part series about how and why I switched from Pro Tools to REAPER.

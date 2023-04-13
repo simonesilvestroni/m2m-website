@@ -4,6 +4,7 @@ date: '2022-10-26 09:57:39'
 last_modified_at: '2022-10-26 09:57:43'
 description: 'As things are still moving at a slow pace, I have a few updates, both personal and work-related.'
 sitemap: false
+robots: 'noindex,follow'
 permalink: '/newsletter/archives/newsletter-october-2022/'
 ---
 As things are still moving at a slow pace, I have a few updates, both personal and work-related.

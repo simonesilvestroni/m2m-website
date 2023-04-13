@@ -4,6 +4,7 @@ date: '2023-03-17 10:54:16'
 last_modified_at: '2023-03-17 10:54:19'
 description: 'A spring-fuelled newsletter issue where I write about recent developments with finding a better voice to express creativity and being more positive.'
 sitemap: false
+robots: 'noindex,follow'
 permalink: '/newsletter/archives/newsletter-march-2023/'
 ---
 ## Blogging more often

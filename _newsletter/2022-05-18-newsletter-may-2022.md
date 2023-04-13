@@ -4,6 +4,7 @@ date: '2022-05-18 20:24:15'
 last_modified_at: '2022-05-18 20:24:20'
 description: 'I’ve been working hard on my web design skills lately. I have recorded bass tracks on a couple new songs and re-published an EP on Spotify.'
 sitemap: false
+robots: 'noindex,follow'
 permalink: '/newsletter/archives/newsletter-may-2022/'
 ---
 I’ve been working hard on my **web design skills** lately. Learned several new things, which I then applied to my website and promoted on my Mastodon account. I have **recorded bass tracks** on a couple new songs and re-published an **EP on Spotify**.

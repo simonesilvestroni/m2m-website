@@ -4,6 +4,7 @@ date: '2020-11-09'
 last_modified_at: '2020-11-09 21:21:28'
 description: 'New music video for the song ‘The Logic’, on the anniversary of my debut album ‘After 1989’.'
 sitemap: false
+robots: 'noindex,follow'
 permalink: '/newsletter/archives/new-official-music-video/'
 ---
 I released today a new music video for the song _The Logic_, on the anniversary of my debut album _After 1989_.

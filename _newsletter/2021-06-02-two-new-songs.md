@@ -4,6 +4,7 @@ date: '2021-06-02'
 last_modified_at: '2021-06-02 21:21:28'
 description: 'Today I released two new songs on Bandcamp. It’s a little preview for my next concept album, titled The Die is Cast.'
 sitemap: false
+robots: 'noindex,follow'
 permalink: '/newsletter/archives/two-new-songs/'
 ---
 Today I released two new songs on Bandcamp. It’s a little preview for my next concept album, titled _The Die is Cast_.

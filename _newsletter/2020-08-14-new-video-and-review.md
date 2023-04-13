@@ -4,6 +4,7 @@ date: '2020-08-14'
 last_modified_at: '2020-08-14 21:21:28'
 description: 'In this short newsletter, the new official video for my song Little Boy and a reading suggestion about how to better support music creators.'
 sitemap: false
+robots: 'noindex,follow'
 permalink: '/newsletter/archives/new-video-and-review/'
 ---
 ## New music video: "Little Boy"
