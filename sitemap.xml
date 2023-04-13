@@ -12,11 +12,13 @@ layout: none
   </url>
   {%- endunless -%}
   {%- endfor -%}
-  {%- assign pages = site.pages | where:"layout", "page" %}
-  {%- for page in pages %}
+  {%- assign pages = site.pages | where:"layout", "page" -%}
+  {%- assign blog = site.pages | where:"layout", "blog"  -%}
+  {%- assign allpages = pages | concat: blog | sort: 'title' -%}
+  {%- for page in allpages %}
   {%- unless page.sitemap == false %}
   <url>
-    <loc>{{ site.url }}{{ page.url }}</loc>
+    <loc title="{{ page.title }}">{{ site.url }}{{ page.url }}</loc>
     <lastmod>{{ page.last_modified_at | date_to_xmlschema }}</lastmod>
   </url>
   {%- endunless -%}
@@ -26,6 +28,12 @@ layout: none
   {%- assign t = tag | first %}
   <url>
     <loc>{{ site.url }}/blog/tag/{{ t | slugify }}/</loc>
+  </url>
+  {%- endfor %}
+  {% assign sorted_newsletters = site.newsletter | sort: 'date' | reverse  %}
+  {%- for newsletter in sorted_newsletters  -%}
+  <url>
+    <loc title="{{ newsletter.title }}">{{ site.url }}{{ newsletter.url }}</loc>
   </url>
   {%- endfor %}
 </urlset>

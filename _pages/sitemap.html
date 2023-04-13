@@ -6,45 +6,66 @@ last_modified_at: '2023-03-31 12:23:01'
 description: 'A full map of the website, including pages, blog posts, case studies and tags.'
 permalink: '/sitemap/'
 ---
-<section>
-  <h2>Pages <sup><small>({{ site.pages | where:"layout", "page" | size }})</small></sup></h2>
-  {%- assign pages = site.pages | where:"layout", "page" | sort: 'title' %}
-  {%- for page in pages %}
-  {%- unless page.sitemap == false %}
+<div class="notice">
+  <h3>Table of contents</h3>
   <ul>
+    <li><a href="#pages">Pages</a></li>
+    <li><a href="#posts">Posts</a></li>
+    <li><a href="#tags">Tags</a></li>
+    <li><a href="#newsletter">Newsletter</a></li>
+  </ul>
+</div>
+
+{%- assign pages = site.pages | where:"layout", "page" -%}
+{%- assign blog = site.pages | where:"layout", "blog"  -%}
+{%- assign allpages = pages | concat: blog | sort: 'title' -%}
+<section>
+  <h2 id="pages">Pages <sup><small>({{ allpages | size }})</small></sup></h2>
+  <ul class="list-hr">
+    {%- for page in allpages %}
+    {%- unless page.sitemap == false %}
     <li>
       <a class="big" href="{{ site.url }}{{ page.url }}">{{ page.title }}</a><br>
-      {% unless page.title == 'Sitemap' %}
+      {%- unless page.title == 'Sitemap' %}
       <small class="dim">Updated <time>{{ page.last_modified_at | date: "%-d %B %Y" }}</time></small>
-      {% endunless %}
+      {% endunless -%}
     </li>
+    {%- endunless -%}
+    {% endfor -%}
   </ul>
-  {%- endunless -%}
-  {% endfor -%}
 </section>
 
 <section>
-  <h2>Posts <sup><small>({{ site.posts | size }})</small></sup></h2>
+  <h2 id="posts">Posts <sup><small>({{ site.posts | size }})</small></sup></h2>
   {%- assign blog = site.documents | where:"layout", "post" | sort: 'date' | reverse %}
-  {%- for post in blog %}
-  <ul>
+  <ul class="list-hr">
+    {%- for post in blog %}
     <li>
       <a class="big" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark><small>CASE STUDY</small></mark>{% endif %}{% if post.tags contains "popular" %}&nbsp;&nbsp;<mark><small>POPULAR</small></mark>{% endif %}<br>
       <small class="dim"><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time></small>
     </li>
+    {%- endfor -%}
   </ul>
-  {%- endfor -%}
 </section>
 
 <section>
-  <h2>Tags <sup><small>({{ site.tags | size }})</small></sup></h2>
+  <h2 id="tags">Tags <sup><small>({{ site.tags | size }})</small></sup></h2>
   {% assign sorted_tags = site.tags | sort %}
-  {%- for tag in sorted_tags -%}
-  {%- assign t = tag | first %}
-  <ul>
+    {%- for tag in sorted_tags -%}
+    {%- assign t = tag | first %}
+    <a class="button" href="{{ site.url }}/blog/tag/{{ t | slugify }}/">{{ t | upcase }}</a>
+    {%- endfor %}
+</section>
+
+<section>
+  <h2 id="newsletter">Newsletter <sup><small>({{ site.newsletter | size }})</small></sup></h2>
+  {% assign sorted_newsletters = site.newsletter | sort: 'date' | reverse  %}
+  <ul class="list-hr">
+  {%- for newsletter in sorted_newsletters  -%}
     <li>
-      <a href="{{ site.url }}/blog/tag/{{ t | slugify }}/">{{ t | upcase }}</a>
+      <a href="{{ newsletter.url }}" class="big">{{ newsletter.title }}</a><br>
+      <small class="dim"><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ newsletter.date | date: "%-d %B %Y" }}</time></small>
     </li>
-  </ul>
   {%- endfor %}
+  </ul>
 </section>
