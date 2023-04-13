@@ -30,10 +30,4 @@ layout: none
     <loc>{{ site.url }}/blog/tag/{{ t | slugify }}/</loc>
   </url>
   {%- endfor %}
-  {% assign sorted_newsletters = site.newsletter | sort: 'date' | reverse  %}
-  {%- for newsletter in sorted_newsletters  -%}
-  <url>
-    <loc title="{{ newsletter.title }}">{{ site.url }}{{ newsletter.url }}</loc>
-  </url>
-  {%- endfor %}
 </urlset>
