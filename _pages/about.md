@@ -23,7 +23,7 @@ permalink: '/about/'
 ## Accomplishments
 
 {: .list-hr }
-- [Lead game audio designer]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/) in the early noughties, with 1 title published.
+- [Lead game audio designer]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/) in the early noughties, with 1 title shipped.
 - Crafted a [parallel career in web development](https://simonesilvestroni.com) out of my love for a previous job in the print industry.
 - Released a [personal story as a concept album](/work/music/after-1989/) on the 30<sup><small>th</small></sup> anniversary of the opening of the Berlin Wall.
 - Worked as a [sound designer for a cartoon series](/work/sound-design/car-city-cartoon/).
