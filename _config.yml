@@ -120,7 +120,7 @@ plugins:
 # -------------------
 # Main skills
 # -------------------
-skills:
+mainSkills:
   - name: 'Bass'
     url: '/blog/tag/bass-player/'
   - name: 'Mixing'
@@ -131,6 +131,36 @@ skills:
     url: '/blog/tag/video-games/'
   - name: 'Mastering'
     url: '/blog/tag/mastering/'
+
+completeSkills:
+  - name: 'Recording'
+  - name: 'Field recording'
+  - name: 'Editing'
+  - name: 'Foley'
+  - name: 'Game audio integration'
+
+# , Editing, , Foley, Game audio integration (Wwise, Unity, FMOD and Unreal)
+
+# -------------------
+# Main Tools
+# -------------------
+mainTools:
+  - name: 'Reaper'
+    url: '/blog/tag/reaper/'
+  - name: 'iZotope RX'
+    url: '/blog/tag/izotope-rx/'
+  - name: 'Logic Pro'
+    url: '/blog/tag/logic-pro/'
+  - name: 'Pro Tools'
+    url: '/blog/tag/pro-tools/'
+
+completeTools:
+  - name: Wwise
+  - name: Unity
+  - name: FMOD
+  - name: Waves
+  - name: Soundtoys
+  - name: Phase Plant
 
 # -------------------
 # Work endorsements

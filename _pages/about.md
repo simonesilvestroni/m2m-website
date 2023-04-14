@@ -17,6 +17,7 @@ permalink: '/about/'
 - In the same year, I started my first blog, journaling about working long hours on a console video game while playing *Ico* during pauses.
 - Moved to the UK in 2011, first London then Cambridge.
 - Graduated at the Berklee College of Music (audio mastering and music production) in 2017.
+- After switching from analog to digital two decades ago, I've been working entirely in the box.
 - I see video games as the ultimate audio-visual narrative medium.
 
 ## Accomplishments
@@ -33,10 +34,17 @@ permalink: '/about/'
 - Constantly looking for a way to complete a task in less and more efficient steps, I wrote an ebook about [project management for musicians]({{ site.url }}/work/project-management/).
 - Endorsed by [Leland Sklar and others](/work/endorsements/).
 
+{%- assign mainSkills = site.mainSkills | sort: 'name' %}
+{%- assign completeSkills = site.completeSkills %}
+{%- assign mainTools = site.mainTools %}
+{%- assign completeTools = site.completeTools %}
+
 <div class="notice">
   <h2>Skills</h2>
-  <p>{% for item in site.skills -%}<a href="{{ item.url }}">{{ item.name }}</a>, {% endfor -%}Recording, Editing, Field recording, Foley, Game audio integration (Wwise, Unity, FMOD and Unreal).</p>
-  <p>After switching from analog to digital two decades ago, I've been working entirely in the box.</p>
+  <p>{% for item in mainSkills -%}<a href="{{ item.url }}">{{ item.name }}</a>, {% endfor -%}{% for item in completeSkills -%}<span>{{ item.name }}</span>{% unless forloop.last%}, {% endunless %}{% if forloop.last %}.{% endif %}{% endfor -%}</p>
+  <h2>Tools proficiency</h2>
+  <p>{% for item in mainTools -%}<a href="{{ item.url }}">{{ item.name }}</a>, {% endfor -%}{% for item in completeTools -%}<span>{{ item.name }}</span>{% unless forloop.last%}, {% endunless %}{% if forloop.last %}.{% endif %}{% endfor -%}</p>
+  <p>Full list of <a href="/uses/">equipment I use</a>.</p>
 </div>
 
 <div class="notice">
@@ -52,5 +60,4 @@ permalink: '/about/'
 
 - [Press photos](/press-photos/)
 - [A personal manifesto](/manifesto/)
-- [What I use](/uses/)
 - [Name and logo](/about/name-and-logo/)

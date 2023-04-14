@@ -19,7 +19,8 @@ last_modified_at: '2023-04-02 17:40:35'
   </div>
   <div class="notice">
     <h2>Main skills</h2>
-    {% for item in site.skills -%}
+    {%- assign mainSkills = site.mainSkills | sort: 'name' %}
+    {% for item in site.mainSkills -%}
     <a href="{{ item.url }}">{{ item.name }}</a>&nbsp;&nbsp;
     {% endfor -%}
   </div>
