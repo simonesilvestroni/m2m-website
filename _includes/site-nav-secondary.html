@@ -1,5 +1,5 @@
 <nav aria-label="Secondary navigation">
   {% for item in site.data.nav-secondary.menu -%}
-  <a{% if page.url contains item.link %} class="current"{% endif %} href="{{ item.link }}" title="{{ item.desc }}">{{ item.name }}</a>
+  <a{% if page.url contains item.link %} class="current"{% endif %} href="{{ item.link }}" title="{{ item.desc }}"><span class="big">{{ item.name }}</span></a>
   {% endfor -%}
 </nav>
