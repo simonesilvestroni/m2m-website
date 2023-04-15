@@ -6,7 +6,7 @@ tags:
   - 'personal'
   - 'internet'
   - 'blogs'
-description: 'A personal note recovered from my first blog of 21 years ago.'
+description: 'A note from 21 years ago. Many years before the concept of influencer arised, this is proof that centralised social media merely exploited a pre-existing human weakness.'
 ---
 We went to the park today, had a nice time. We talked, laughed and later had dinner on the canal, a very tasty fish-based meal.
 
