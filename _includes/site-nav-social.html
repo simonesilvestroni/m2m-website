@@ -1,5 +1,5 @@
 <nav aria-label="Social media">
   {% for item in site.data.nav-social -%}
-  <a class="dim" href="{{ item.link }}" title="{{ item.title }}">{{ item.name }}</a>
+  <a class="dim" href="{{ item.link }}" title="{{ item.title }}"><small><strong>{{ item.name }}</strong></small></a>
   {% endfor -%}
 </nav>
