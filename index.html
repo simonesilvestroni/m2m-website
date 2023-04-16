@@ -17,11 +17,4 @@ last_modified_at: '2023-04-02 17:40:35'
     <a class="big" href="{{ post.url }}" title="Read the post">{{ post.title }}</a><br><small>{{ post.date | date: "%d %b %Y" }}</small>
     {% endfor -%}
   </div>
-  <div class="notice">
-    <h2>Main skills</h2>
-    {%- assign mainSkills = site.mainSkills | sort: 'name' %}
-    {% for item in site.mainSkills -%}
-    <a href="{{ item.url }}">{{ item.name }}</a>&nbsp;&nbsp;
-    {% endfor -%}
-  </div>
 </article>
