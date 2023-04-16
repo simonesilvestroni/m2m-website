@@ -9,25 +9,16 @@ permalink: '/work/music-production/'
 {%- assign musicproduction = site.posts | where_exp:'post','post.tags contains "music production" and post.tags contains "case study"' -%}
 {%- for project in musicproduction %}
 {% include card-project.html %}
-<hr>
 {% endfor %}
 
 ## A selection of my bass recordings
 
 {% include pattern-spotify.html id="1EC2Hm0xSywc5pITPMhuIA" type="playlist" height="470" %}
 
-<br>
-<hr>
-
 ## A selection of my productions
 
 {% include pattern-spotify.html id="6yRM57FJ9JKONDAXaLBAdx" type="playlist" height="470" %}
 
-<br>
-<hr>
-
 ## My strings production
 
 {% include pattern-spotify.html id="2IqnJFtKWrnI6JPVjkXHif" type="playlist" height="475" %}
-
-<br>

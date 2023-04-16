@@ -9,5 +9,4 @@ permalink: '/work/sound-design/'
 {%- assign sounddesign = site.posts | where_exp:'post','post.tags contains "sound design" and post.tags contains "case study"' -%}
 {%- for project in sounddesign %}
 {% include card-project.html %}
-<hr>
 {% endfor -%}
