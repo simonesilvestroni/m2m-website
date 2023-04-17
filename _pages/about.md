@@ -51,7 +51,7 @@ permalink: '/about/'
 
 - [What I'm doing now]({{ site.url }}/now/)
 - [RSS]({{ site.url }}/feed.xml) for the blog
-- [RSS]({{ site.url }}/newsletter.xml) for the [newsletter]({{ site.url }}/newsletter/)</li>
+- [RSS]({{ site.url }}/newsletter.xml) for the [newsletter]({{ site.url }}/newsletter/)
 
 ## More info
 
