@@ -11,6 +11,7 @@ tags:
   - "instrument"
   - 'bass player'
   - 'bassist'
+  - 'bandcamp'
   - "mixing"
   - "mastering"
   - "pro tools"

@@ -10,6 +10,7 @@ tags:
   - "reaper"
   - 'bass player'
   - 'bassist'
+  - 'bandcamp'
   - "pro tools"
   - "logic pro"
   - "reason"
