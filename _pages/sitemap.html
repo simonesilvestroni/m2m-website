@@ -2,30 +2,24 @@
 layout: page
 title: Sitemap
 date: '2023-03-31 12:22:58'
-last_modified_at: '2023-03-31 12:23:01'
-description: 'A full map of the website, including pages, blog posts, case studies, newsletter and tags.'
+last_modified_at: '2023-04-17 11:30:14'
+description: 'A full map of the website, including pages, blog posts, case studies, newsletters and tags.'
 permalink: '/sitemap/'
 ---
-<details class="notice">
-  <summary>Table of contents</summary>
-  <ul>
-    <li><a href="#pages">Pages</a></li>
-    <li><a href="#posts">Posts</a></li>
-    <li><a href="#tags">Tags</a></li>
-    <li><a href="#newsletter">Newsletter</a></li>
-  </ul>
-</details>
-
 {%- assign pages = site.pages | where:"layout", "page" -%}
-{%- assign blog = site.pages | where:"layout", "blog"  -%}
-{%- assign allpages = pages | concat: blog | sort: 'title' -%}
-<section>
-  <h2 id="pages">Pages <sup><small>({{ allpages | size }})</small></sup></h2>
+{%- assign blogpage = site.pages | where:"layout", "blog"  -%}
+{%- assign allpages = pages | concat: blogpage | sort: 'title' -%}
+{%- assign sorted_blog = site.documents | where:"layout", "post" | sort: 'date' | reverse -%}
+{%- assign sorted_newsletters = site.newsletter | sort: 'date' | reverse  -%}
+{%- assign sorted_tags = site.tags | sort -%}
+
+<details class="notice">
+  <summary>Pages <sup><small>({{ allpages | size }})</small></sup></summary>
   <ul class="list-hr">
     {%- for page in allpages %}
     {%- unless page.sitemap == false %}
     <li>
-      <a class="big" href="{{ site.url }}{{ page.url }}">{{ page.title }}</a><br>
+      <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a><br>
       {%- unless page.title == 'Sitemap' %}
       <small class="dim">Updated <time>{{ page.last_modified_at | date: "%-d %B %Y" }}</time></small>
       {% endunless -%}
@@ -33,39 +27,36 @@ permalink: '/sitemap/'
     {%- endunless -%}
     {% endfor -%}
   </ul>
-</section>
+</details>
 
-<section>
-  <h2 id="posts">Posts <sup><small>({{ site.posts | size }})</small></sup></h2>
-  {%- assign blog = site.documents | where:"layout", "post" | sort: 'date' | reverse %}
+<details class="notice">
+  <summary>Posts <sup><small>({{ site.posts | size }})</small></sup></summary>
   <ul class="list-hr">
-    {%- for post in blog %}
+    {%- for post in sorted_blog %}
     <li>
-      <a class="big" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark><small>CASE STUDY</small></mark>{% endif %}{% if post.tags contains "popular" %}&nbsp;&nbsp;<mark><small>POPULAR</small></mark>{% endif %}<br>
+      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark><small>CASE STUDY</small></mark>{% endif %}{% if post.tags contains "popular" %}&nbsp;&nbsp;<mark><small>POPULAR</small></mark>{% endif %}<br>
       <small class="dim"><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time></small>
     </li>
     {%- endfor -%}
   </ul>
-</section>
+</details>
 
-<section>
-  <h2 id="tags">Tags <sup><small>({{ site.tags | size }})</small></sup></h2>
-  {% assign sorted_tags = site.tags | sort %}
-    {%- for tag in sorted_tags -%}
-    {%- assign t = tag | first %}
-    <a class="button" href="{{ site.url }}/blog/tag/{{ t | slugify }}/">{{ t | upcase }}</a>
-    {%- endfor %}
-</section>
-
-<section>
-  <h2 id="newsletter">Newsletter <sup><small>({{ site.newsletter | size }})</small></sup></h2>
-  {% assign sorted_newsletters = site.newsletter | sort: 'date' | reverse  %}
+<details class="notice">
+  <summary>Newsletters <sup><small>({{ site.newsletter | size }})</small></sup></summary>
   <ul class="list-hr">
   {%- for newsletter in sorted_newsletters  -%}
     <li>
-      <a href="{{ newsletter.url }}" class="big">{{ newsletter.title }}</a><br>
+      <a href="{{ newsletter.url }}">{{ newsletter.title }}</a><br>
       <small class="dim"><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ newsletter.date | date: "%-d %B %Y" }}</time></small>
     </li>
   {%- endfor %}
   </ul>
-</section>
+</details>
+
+<details class="notice">
+  <summary>Tags <sup><small>({{ site.tags | size }})</small></sup></summary>
+  {%- for tag in sorted_tags -%}
+  {%- assign t = tag | first %}
+  <a class="button" href="{{ site.url }}/blog/tag/{{ t | slugify }}/">{{ t | upcase }}</a>
+  {%- endfor %}
+</details>
