@@ -47,14 +47,11 @@ permalink: '/about/'
   <p>Full list of <a href="/uses/">equipment I use</a>.</p>
 </div>
 
-<div class="notice">
-  <h2>Updates</h2>
-  <ul>
-    <li><a href="/now/">What I'm doing now</a></li>
-    <li><a href="/feed.xml">RSS</a> for the blog</li>
-    <li><a href="/newsletter.xml">RSS</a> for the <a href="/newsletter/">newsletter</a></li>
-  </ul>
-</div>
+## Updates
+
+- [What I'm doing now]({{ site.url }}/now/)
+- [RSS]({{ site.url }}/feed.xml) for the blog
+- [RSS]({{ site.url }}/newsletter.xml) for the [newsletter]({{ site.url }}/newsletter/)</li>
 
 ## More info
 
