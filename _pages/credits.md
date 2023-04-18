@@ -2,7 +2,7 @@
 layout: page
 title: 'Credits'
 date: '2023-01-14 13:49:31'
-last_modified_at: '2023-04-07 22:18:30'
+last_modified_at: '2023-04-18 13:00:26'
 description: 'All about this website: tools, benchmarks, a note about copyright and a thank you to people that inspired me.'
 permalink: '/credits/'
 ---
