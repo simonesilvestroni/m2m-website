@@ -35,7 +35,7 @@ permalink: '/work/'
 <article class="notice">
   <a class="card-project_link" href="/work/sound-design/" title="Read the case studies about sound design">
     <header>
-      <h3>Sound Design</h3>
+      <h2>Sound Design</h2>
     </header>
     <div class="card-project">
       <picture class="card-project_picture">
@@ -43,7 +43,7 @@ permalink: '/work/'
         <source srcset="/assets/images/minutes-to-midnight-studio.jpg" type="image/jpeg">
         <img src="/assets/images/minutes-to-midnight-studio.jpg" alt="Picture of Minutes to Midnight studio" width="200" height="200">
       </picture>
-      <p class="p-summary card-project_description">{{ sounddesign_desc }}<br><br><span><strong>Read the case studies</strong></span></p>
+      <p class="p-summary card-project_description">{{ sounddesign_desc }}<br><br><strong>Read the case studies</strong>&nbsp;→</p>
     </div>
   </a>
 </article>
@@ -51,7 +51,7 @@ permalink: '/work/'
 <article class="notice">
   <a class="card-project_link" href="/work/music-production/" title="Read the case studies about music production">
     <header>
-      <h3>Music Production</h3>
+      <h2>Music Production</h2>
     </header>
     <div class="card-project">
       <picture class="card-project_picture">
@@ -59,7 +59,7 @@ permalink: '/work/'
         <source srcset="/assets/images/minutes-to-midnight-in-studio-producing.jpg" type="image/jpeg">
         <img src="/assets/images/minutes-to-midnight-in-studio-producing.jpg" alt="Minutes to Midnight's studio" width="200" height="200">
       </picture>
-      <p class="p-summary card-project_description">{{ musicproduction_desc }}<br><br><span><strong>Read the case studies</strong></span></p>
+      <p class="p-summary card-project_description">{{ musicproduction_desc }}<br><br><strong>Read the case studies</strong>&nbsp;→</p>
     </div>
   </a>
 </article>
@@ -67,7 +67,7 @@ permalink: '/work/'
 <article class="notice">
   <a class="card-project_link" href="/work/music/" title="Read the case studies about original music">
     <header>
-      <h3>Original Music</h3>
+      <h2>Original Music</h2>
     </header>
     <div class="card-project">
       <picture class="card-project_picture">
@@ -75,7 +75,7 @@ permalink: '/work/'
         <source srcset="/assets/images/minutes-to-midnight-playing-bass.jpg" type="image/jpeg">
         <img src="/assets/images/minutes-to-midnight-playing-bass.jpg" alt="Minutes to Midnight playing bass in the studio" width="200" height="200">
       </picture>
-      <p class="p-summary card-project_description">{{ originalmusic_desc }}<br><br><span><strong>Read the case studies</strong></span></p>
+      <p class="p-summary card-project_description">{{ originalmusic_desc }}<br><br><strong>Read the case studies</strong>&nbsp;→</p>
     </div>
   </a>
 </article>
