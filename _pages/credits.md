@@ -8,27 +8,26 @@ permalink: '/credits/'
 ---
 I handcrafted the site from scratch using [`Jekyll` v4.2.2](https://jekyllrb.com/).
 
-Daily maintenance and content updates are achieved through a mix of templates in Sublime Text, Typora, Alfred macros and Automator workflows. Before downgrading my OS, I had devised [a method using Apple's Shortcuts](https://simonesilvestroni.com/blog/automation-for-my-blog-publishing-workflow/) that could be used with Monterey and later versions.
+Daily maintenance and content updates are achieved through a mix of templates in Sublime Text, Typora and Alfred macros. Before downgrading my OS, I had devised [a method using Apple's Shortcuts](https://simonesilvestroni.com/blog/automation-for-my-blog-publishing-workflow/) that could be used with Monterey and later versions.
 
 ## Code
 
-- Good old `HTML`
-- `Markdown` [extended](https://www.markdownguide.org/extended-syntax/)
+- `Markdown` [extended](https://www.markdownguide.org/extended-syntax/) and Good old `HTML`
 - Plain `CSS` based on [Simple CSS](https://simplecss.org)
 - Vanilla `Javascript` for [the search module](https://github.com/daviddarnes/jekyll-search-js) and [webmentions](https://github.com/fluffy-critter/webmention)
+- [Content security policy](https://securityheaders.com/?q=https%3A%2F%2Fminutestomidnight.co.uk%2F) has been implemented
 - Versioned on [GitHub](https://github.com/simonesilvestroni/m2m-website) and hosted on [Netlify](https://www.netlify.com)
 
 ## UI
 
 - Inline `SVG` for logos and icons
-- [`WebP` images](https://simonesilvestroni.com/blog/implementing-webp-images-in-jekyll/)
-- Image optimization with [ImageOptim](https://imageoptim.com)
-- For typography I only use system stacks. [Geometric Humanist](https://github.com/system-fonts/modern-font-stacks#geometric-humanist) is used on everything except for monospaced (ui-monospace), little serif interventions (Georgia and its fallbacks) and [Rounded Sans](https://github.com/system-fonts/modern-font-stacks#rounded-sans) for labels
+- [`WebP` images](https://simonesilvestroni.com/blog/implementing-webp-images-in-jekyll/) with fallbacks optimised with [ImageOptim](https://imageoptim.com)
+- System stacks typography. [Geometric Humanist](https://github.com/system-fonts/modern-font-stacks#geometric-humanist) is used on everything except for monospaced (ui-monospace), little serif interventions (Georgia and its fallbacks) and [Rounded Sans](https://github.com/system-fonts/modern-font-stacks#rounded-sans) for labels
 
 ## Sustainability
 
 {: .list-hr }
-- I wiped out bloated frameworks. Now the entire source code is `1.1 MB`.
+- Since I wiped out bloated frameworks, the entire source code is `1.1 MB`.
 - Only [0.01g of CO<sub>2</sub> is produced every time someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/), which is cleaner than 99% of web pages tested. 
 - Runs on sustainable energy and does not request third-party resources, except for the blog posts, which are calling `webmention.io` to render webmentions. 
 - [Scores 100 on Ecograder](https://ecograder.com/report/CYFdKg62wGIsfEWJoa8uLAIE) and it's featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/).

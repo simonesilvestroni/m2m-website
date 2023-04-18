@@ -17,7 +17,7 @@ Things that I **don't do**:
 - Add tracking scripts
 - Shove idiotic pop-ups or modal windows in your face
 
-[Unless you tell me](/contact/), there is no way for me to know you've been here. A full [content security policy](https://simonesilvestroni.com/blog/content-security-policy/) have been implemented.
+[Unless you tell me](/contact/), there is no way for me to know you've been here. A full [content security policy](https://simonesilvestroni.com/blog/content-security-policy/) has been implemented.
 
 ## Design
 
