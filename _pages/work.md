@@ -2,7 +2,7 @@
 layout: page
 title: 'Work'
 date: '2021-11-08 10:51:46'
-last_modified_at: '2023-04-06 10:15:06'
+last_modified_at: '2023-04-18 13:06:14'
 description: 'The facets of my work in the audio field are spread between sound design and game audio, bass tracks, music production and original compositions.'
 permalink: '/work/'
 ---

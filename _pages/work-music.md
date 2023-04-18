@@ -2,7 +2,7 @@
 layout: page
 title: 'Original music'
 date: '2023-03-02 11:38:04'
-last_modified_at: '2023-03-02 11:38:07'
+last_modified_at: '2023-04-18 13:06:04'
 description: 'Storytelling with music is a magnet that always captivated me. Evoking a theme through songs is what makes the concept album my favourite medium.'
 permalink: '/work/music/'
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: 'Endorsements'
 date: '2023-04-05 11:12:28'
-last_modified_at: '2023-04-05 11:12:32'
+last_modified_at: '2023-04-18 13:05:52'
 description: 'A selection of endorsements received while working in different fields of the audio industry.'
 permalink: '/work/endorsements/'
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: 'Music production'
 date: '2023-03-02 11:38:04'
-last_modified_at: '2023-04-07 18:19:33'
+last_modified_at: '2023-04-18 13:05:59'
 description: 'With my roots as a bass player and a composer, I can establish a privileged connection with other artists, delivering a solid, balanced and characterful mix and master.'
 permalink: '/work/music-production/'
 ---
