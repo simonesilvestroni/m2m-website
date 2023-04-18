@@ -2,7 +2,7 @@
 layout: page
 title: 'About'
 date: '2022-01-14'
-last_modified_at: '2023-04-07 23:08:18'
+last_modified_at: '2023-04-18 13:13:11'
 description: 'A graduated bassist and producer, I founded Minutes to Midnight to release my music and provide services such as sound design, game audio, bass tracks and production.'
 permalink: '/about/'
 ---
@@ -50,8 +50,7 @@ permalink: '/about/'
 ## Updates
 
 - [What I'm doing now]({{ site.url }}/now/)
-- [RSS]({{ site.url }}/feed.xml) for the blog
-- [RSS]({{ site.url }}/newsletter.xml) for the [newsletter]({{ site.url }}/newsletter/)
+- Subscribe to the RSS feeds for [the blog]({{ site.url }}/feed.xml) and the [newsletter]({{ site.url }}/newsletter/)
 
 ## More info
 
