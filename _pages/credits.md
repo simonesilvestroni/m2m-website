@@ -36,7 +36,8 @@ Daily maintenance and content updates are achieved through a mix of templates in
 
 ## Accessibility
 
-- Despite the website resulting compliant with <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> guidelines based on multiple tests, I know it’s still incomplete.
+- Despite the website resulting fully compliant with <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> guidelines based on multiple tests, I know I still have to perform further tests.
+- Current WAVE accessibility rank: `#7,280` of 1,000,000, [top 1% of all home pages](https://webaim.org/projects/million/lookup?domain=minutestomidnight.co.uk).
 - The page content is fully accessible with Javascript turned off. The dynamic [search engine](/search/) has an HTML alternative provided in the same page, based on DuckDuckGo.
 
 {: .notice }
