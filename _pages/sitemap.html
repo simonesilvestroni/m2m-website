@@ -13,7 +13,7 @@ permalink: '/sitemap/'
 {%- assign sorted_newsletters = site.newsletter | sort: 'date' | reverse  -%}
 {%- assign sorted_tags = site.tags | sort -%}
 
-<details class="notice">
+<details>
   <summary>Pages <sup><small>({{ allpages | size }})</small></sup></summary>
   <ul class="list-hr">
     {%- for page in allpages %}
@@ -29,7 +29,7 @@ permalink: '/sitemap/'
   </ul>
 </details>
 
-<details class="notice">
+<details>
   <summary>Posts <sup><small>({{ site.posts | size }})</small></sup></summary>
   <ul class="list-hr">
     {%- for post in sorted_blog %}
@@ -41,7 +41,7 @@ permalink: '/sitemap/'
   </ul>
 </details>
 
-<details class="notice">
+<details>
   <summary>Newsletters <sup><small>({{ site.newsletter | size }})</small></sup></summary>
   <ul class="list-hr">
   {%- for newsletter in sorted_newsletters  -%}
@@ -53,7 +53,7 @@ permalink: '/sitemap/'
   </ul>
 </details>
 
-<details class="notice">
+<details>
   <summary>Tags <sup><small>({{ site.tags | size }})</small></sup></summary>
   {%- for tag in sorted_tags -%}
   {%- assign t = tag | first %}
