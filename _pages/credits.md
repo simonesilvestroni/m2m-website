@@ -12,17 +12,17 @@ Daily maintenance and content updates are achieved through a mix of templates in
 
 ## Code
 
-- `Markdown` [extended](https://www.markdownguide.org/extended-syntax/) and Good old `HTML`
+- `Markdown` [extended](https://www.markdownguide.org/extended-syntax/) and good old `HTML`
 - Plain `CSS` based on [Simple CSS](https://simplecss.org)
 - Vanilla `Javascript` for [the search module](https://github.com/daviddarnes/jekyll-search-js) and [webmentions](https://github.com/fluffy-critter/webmention)
-- [Content security policy](https://securityheaders.com/?q=https%3A%2F%2Fminutestomidnight.co.uk%2F) has been implemented
+- Implemented a [content security policy](https://securityheaders.com/?q=https%3A%2F%2Fminutestomidnight.co.uk%2F)
 - Versioned on [GitHub](https://github.com/simonesilvestroni/m2m-website) and hosted on [Netlify](https://www.netlify.com)
 
 ## UI
 
 - Inline `SVG` for logos and icons
-- [`WebP` images](https://simonesilvestroni.com/blog/implementing-webp-images-in-jekyll/) with fallbacks optimised with [ImageOptim](https://imageoptim.com)
-- System stacks typography. [Geometric Humanist](https://github.com/system-fonts/modern-font-stacks#geometric-humanist) is used on everything except for monospaced (ui-monospace), little serif interventions (Georgia and its fallbacks) and [Rounded Sans](https://github.com/system-fonts/modern-font-stacks#rounded-sans) for labels
+- [`WebP` images](https://simonesilvestroni.com/blog/implementing-webp-images-in-jekyll/) and fallbacks optimised with [ImageOptim](https://imageoptim.com)
+- System stacks typography: [Geometric Humanist](https://github.com/system-fonts/modern-font-stacks#geometric-humanist) is used on everything except for monospaced (ui-monospace), little serif interventions (Georgia and its fallbacks) and [Rounded Sans](https://github.com/system-fonts/modern-font-stacks#rounded-sans) for labels
 
 ## Sustainability
 
