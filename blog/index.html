@@ -18,8 +18,8 @@ description: 'I’ve been running a blog since March 2002. I write about sound d
     <ul class="list-hr">
     {% endif %}
       <li>
-        <a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}"><span class="big">{{ post.title }}</span></a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark><small>CASE&nbsp;STUDY</small></mark>{% endif %}{% if post.tags contains "popular" %}&nbsp;&nbsp;<mark><small>POPULAR</small></mark>{% endif %}<br>
-        <small><time class="dt-published dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time></small>
+        <a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}"><span class="big">{{ post.title }}</span></a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark class="small">CASE&nbsp;STUDY</mark>{% endif %}{% if post.tags contains "popular" %}&nbsp;&nbsp;<mark class="small">POPULAR</mark>{% endif %}<br>
+        <time class="dt-published small dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time>
       </li>
       {% if forloop.last %}
     </ul>

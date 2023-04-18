@@ -14,14 +14,14 @@ permalink: '/sitemap/'
 {%- assign sorted_tags = site.tags | sort -%}
 
 <details>
-  <summary>Pages <sup><small>({{ allpages | size }})</small></sup></summary>
+  <summary>Pages <sup>({{ allpages | size }})</sup></summary>
   <ul class="list-hr">
     {%- for page in allpages %}
     {%- unless page.sitemap == false %}
     <li>
       <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a><br>
       {%- unless page.title == 'Sitemap' %}
-      <small class="dim">Updated <time>{{ page.last_modified_at | date: "%-d %B %Y" }}</time></small>
+      <span class="dim small">Updated <time>{{ page.last_modified_at | date: "%-d %B %Y" }}</time></span>
       {% endunless -%}
     </li>
     {%- endunless -%}
@@ -30,31 +30,31 @@ permalink: '/sitemap/'
 </details>
 
 <details>
-  <summary>Posts <sup><small>({{ site.posts | size }})</small></sup></summary>
+  <summary>Posts <sup>({{ site.posts | size }})</sup></summary>
   <ul class="list-hr">
     {%- for post in sorted_blog %}
     <li>
-      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark><small>CASE STUDY</small></mark>{% endif %}{% if post.tags contains "popular" %}&nbsp;&nbsp;<mark><small>POPULAR</small></mark>{% endif %}<br>
-      <small class="dim"><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time></small>
+      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark class="small">CASE STUDY</mark>{% endif %}{% if post.tags contains "popular" %}&nbsp;&nbsp;<mark class="small">POPULAR</mark>{% endif %}<br>
+      <time class="dt-published small dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time>
     </li>
     {%- endfor -%}
   </ul>
 </details>
 
 <details>
-  <summary>Newsletters <sup><small>({{ site.newsletter | size }})</small></sup></summary>
+  <summary>Newsletters <sup>({{ site.newsletter | size }})</sup></summary>
   <ul class="list-hr">
   {%- for newsletter in sorted_newsletters  -%}
     <li>
       <a href="{{ newsletter.url }}">{{ newsletter.title }}</a><br>
-      <small class="dim"><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ newsletter.date | date: "%-d %B %Y" }}</time></small>
+      <time class="dt-published small dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ newsletter.date | date: "%-d %B %Y" }}</time>
     </li>
   {%- endfor %}
   </ul>
 </details>
 
 <details>
-  <summary>Tags <sup><small>({{ site.tags | size }})</small></sup></summary>
+  <summary>Tags <sup>({{ site.tags | size }})</sup></summary>
   {%- for tag in sorted_tags -%}
   {%- assign t = tag | first %}
   <a class="button" href="{{ site.url }}/blog/tag/{{ t | slugify }}/">{{ t | upcase }}</a>

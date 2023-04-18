@@ -61,6 +61,7 @@ Drums
 - Mixed by Simone Silvestroni of [Minutes to Midnight](https://minutestomidnight.co.uk)
 - Mastered by Ian Shepherd
 
-<small>&copy; 2021 Music and lyrics Dan Ecclestone.</small>
+{: .small }
+&copy; 2021 Music and lyrics Dan Ecclestone.
 
 Released: 8 January 2021

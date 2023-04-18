@@ -107,6 +107,7 @@ Drums
 - Mixed by Simone Silvestroni
 - Mastered by Ian Shepherd
 
-<small>&copy; 2017 Dan Ecclestone</small>
+{: .small }
+&copy; 2017 Dan Ecclestone
 
 Released: 17 March 2023

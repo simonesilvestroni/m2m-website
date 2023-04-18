@@ -109,7 +109,7 @@ Using Logic as the main DAW, I ran Cubase on the Dell as a secondary sequencer. 
 
 ## Adaptive soundtrack
 
-Working closely with the audio programmers, I implemented an _adaptive soundtrack_ within the in-house game engine MXE<small><sup>&reg;</sup></small>. What we did was deploying stems divided in overlaying chunks. Similarly to what can be achieved today with modern audio middleware such as Wwise and FMOD, the layers could be triggered by specific game parameters based on different runtime situations, thus helping increase or decrease the tension.
+Working closely with the audio programmers, I implemented an _adaptive soundtrack_ within the in-house game engine MXE<sup>&reg;</sup>. What we did was deploying stems divided in overlaying chunks. Similarly to what can be achieved today with modern audio middleware such as Wwise and FMOD, the layers could be triggered by specific game parameters based on different runtime situations, thus helping increase or decrease the tension.
 
 ### Examples
 

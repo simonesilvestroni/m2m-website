@@ -67,6 +67,7 @@ Drums
 - Co-produced and mixed by Simone Silvestroni
 - Mastered by Ian Shepherd
 
-<small>&copy; 2018 Music and lyrics Dan Ecclestone.</small>
+{: .small }
+&copy; 2018 Music and lyrics Dan Ecclestone.
 
 Released: 30 May 2018

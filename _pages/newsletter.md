@@ -14,7 +14,7 @@ permalink: '/newsletter/'
   {%- for post in site.newsletter reversed %}
   <li>
     <a href="{{ post.url }}" title="Read the post">{{ post.title }}</a><br>
-    <small>{{ post.date | date: "%d %b %Y" }}</small>
+    <span class="small">{{ post.date | date: "%d %b %Y" }}</span>
   </li>
   {% endfor -%}
 </ul>

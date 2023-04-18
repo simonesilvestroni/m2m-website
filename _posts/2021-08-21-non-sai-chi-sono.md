@@ -83,8 +83,10 @@ Vocals, synth, sound effects
 - Produced by Simone Silvestroni and Emilio Albertoni
 - Mixed and mastered by Simone Silvestroni
 
-<small>&copy; 2020 Music and lyrics by Gianluca Lo Presti.</small>
+{: .small }
+&copy; 2020 Music and lyrics by Gianluca Lo Presti.
 
-<small>&copy; 2021 Remix produced and arranged by Emilio Albertoni and Minutes to Midnight. The copyright of the sound recording (master) owned by Simone Silvestroni. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.</small>
+{: .small }
+&copy; 2021 Remix produced and arranged by Emilio Albertoni and Minutes to Midnight. The copyright of the sound recording (master) owned by Simone Silvestroni. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.
 
 Released: 28 June 2021

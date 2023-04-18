@@ -13,10 +13,10 @@ robots: 'noindex,follow'
   <li>
     {%- if note.replyto -%}
     <a href="{{ note.url }}"><span class="big">On {{ note.date | date: "%-d %b %Y %T" }} I replied to <code>{{ note.replytouser }}</code></span></a><br>
-    <small><time class="dt-published dim" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %B %Y" }}</time></small>
+    <time class="dt-published small dim" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %B %Y" }}</time>
     {%- elsif note.likeof %}
     <a href="{{ note.url }}"><span class="big">I liked “{{ note.likeoftitle }}” by&nbsp;<code>{{ note.likeofuser }}</code></span></a><br>
-    <small><time class="dt-published dim" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %B %Y" }}</time></small>
+    <time class="dt-published small dim" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %B %Y" }}</time>
     {%- endif %}</li>
   {% endfor -%}
 </ul>

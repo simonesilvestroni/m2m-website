@@ -209,6 +209,7 @@ List of the songs we performed live.
   </tbody>
 </table>
 
-<small>&copy; Music and lyrics: Callum Gardner.</small>
+{: .small }
+&copy; Music and lyrics: Callum Gardner.
 
 <sup>[*]</sup> Studio version produced by Simone Silvestroni.
