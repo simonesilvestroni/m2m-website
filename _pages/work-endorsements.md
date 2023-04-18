@@ -15,6 +15,5 @@ permalink: '/work/endorsements/'
 </blockquote>
 {% endfor %}
 
-<br>
-
+{: .notice }
 [**More on LinkedIn**](https://www.linkedin.com/in/simonesilvestroni/)&nbsp;→
