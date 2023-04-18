@@ -32,4 +32,4 @@ Music, production
 **Simone Silvestroni**<br>
 Bass, production, mix, master
 
-Released: 28 March, 2019
+Released: 28 March 2019

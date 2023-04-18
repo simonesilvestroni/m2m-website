@@ -109,4 +109,4 @@ Drums
 
 <small>&copy; 2017 Dan Ecclestone</small>
 
-Released: 17 March 2023.
+Released: 17 March 2023

@@ -74,4 +74,4 @@ Bass
 - Produced by Gerald Duchene and Simone Silvestroni
 - Mastered by Chris Pavey
 
-Released: 12 February, 2021.
+Released: 12 February 2021

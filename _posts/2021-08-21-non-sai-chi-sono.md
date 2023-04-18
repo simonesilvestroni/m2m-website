@@ -87,4 +87,4 @@ Vocals, synth, sound effects
 
 <small>&copy; 2021 Remix produced and arranged by Emilio Albertoni and Minutes to Midnight. The copyright of the sound recording (master) owned by Simone Silvestroni. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.</small>
 
-Released: 28 June 2021.
+Released: 28 June 2021

@@ -42,4 +42,4 @@ Fretless bass
 - Written and mixed by Gerald Duchene
 - Mastered by Chris Pavey
 
-Released: 18 January, 2019
+Released: 18 January 2019

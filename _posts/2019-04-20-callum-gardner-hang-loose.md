@@ -55,4 +55,4 @@ Drums, backing vocals
 - Written by Callum Gardner
 - Produced, mixed and mastered by Simone Silvestroni
 
-Released: 19 April, 2019
+Released: 19 April 2019

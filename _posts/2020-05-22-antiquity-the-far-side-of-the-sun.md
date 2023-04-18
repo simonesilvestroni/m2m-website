@@ -32,7 +32,7 @@ Bass
 - Written, produced and mixed by Gerald Duchene
 - Mastered by Chris Pavey
 
-Released: 14 May 2020.
+Released: 14 May 2020
 
 {: .notice }
-<span class="big">[Read the project analysis](/work/music-production/producing-bass-remotely/)&nbsp;→</span>
+[**Read the project analysis**](/work/music-production/producing-bass-remotely/)&nbsp;→

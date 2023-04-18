@@ -34,4 +34,4 @@ Bass
 - Written, produced and mixed by Gerald Duchene
 - Mastered by Chris Pavey
 
-Released: 3 July 2020.
+Released: 3 July 2020

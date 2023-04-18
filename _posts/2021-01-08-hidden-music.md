@@ -63,4 +63,4 @@ Drums
 
 <small>&copy; 2021 Music and lyrics Dan Ecclestone.</small>
 
-Released: 8 January 2021.
+Released: 8 January 2021
