@@ -79,7 +79,7 @@ Once all the six projects were loaded as rendered proxy wavefiles, I could see *
 
 It was now super easy to listen, measure and test each song as part of an album. Inconsistencies were easier to spot, with testing loudness becoming a piece of cake with [REAPER SWS loudness functionality](https://wiki.cockos.com/wiki/index.php/Measure_and_normalize_loudness_with_SWS) (Fig. 5).
 
-{% include pattern-figure.html image="/assets/images/reaper-subproject-combo-05-test-loudness.jpg" alt="REAPER showing the Loudness window from the SWS menu, indicating the loudness values for the six songs" caption="Fig 5. – Testing loudness on the entire album" width="1024" height="640" %}
+{% include pattern-figure.html image="/assets/images/reaper-subproject-combo-05-test-loudness.jpg" alt="REAPER showing SWS menu Loudness window, indicating values for the six songs" caption="Fig 5. – Testing loudness on the entire album" width="1024" height="640" %}
 
 ## What's the advantage of having subprojects into one big project?
 
