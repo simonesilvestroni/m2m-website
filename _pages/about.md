@@ -2,7 +2,7 @@
 layout: page
 title: 'About'
 date: '2022-01-14'
-last_modified_at: '2023-04-18 13:13:11'
+last_modified_at: '2023-04-19 12:58:50'
 description: 'A graduated bassist and producer, I founded Minutes to Midnight to release my music and provide services such as sound design, game audio, bass tracks and production.'
 permalink: '/about/'
 ---
@@ -19,6 +19,7 @@ permalink: '/about/'
 - Graduated at the Berklee College of Music (audio mastering and music production) in 2017.
 - After switching from analog to digital two decades ago, I've been working entirely in the box.
 - I see video games as the ultimate audio-visual narrative medium.
+- I wrote [a personal manifesto](/manifesto/) of principles I stand for.
 
 ## Accomplishments
 
@@ -47,13 +48,8 @@ permalink: '/about/'
   <p>Full list of <a href="/uses/">equipment I use</a>.</p>
 </div>
 
-## Updates
-
-- [What I'm doing now]({{ site.url }}/now/)
-- Subscribe to the RSS feeds for [the blog]({{ site.url }}/feed.xml) and the [newsletter]({{ site.url }}/newsletter/)
-
 ## More info
 
+- Subscribe to the RSS feeds for [the blog]({{ site.url }}/feed.xml) and the [newsletter]({{ site.url }}/newsletter/)
 - [Press photos](/press-photos/)
-- [A personal manifesto](/manifesto/)
 - [Name and logo](/about/name-and-logo/)
