@@ -36,9 +36,9 @@ For the same reasons, I refuse to take part in anything related to the blockchai
 
 ## Accessibility
 
-If a website is not catered to everyone, it has little to no use.
+Helped by professionals such as [Silvia](https://silviamaggidesign.com/about/), I made my website [as accessible as possible](https://webaim.org/projects/million/lookup?domain=minutestomidnight.co.uk).
 
-Helped by professionals such as [Silvia](https://silviamaggidesign.com/about/), I made my website as accessible as possible. Still working out a few things, however it's already [passing all tests and having a good feedback](https://webaim.org/projects/million/lookup?domain=minutestomidnight.co.uk).
+If a website is not catered to everyone, it has little to no use.
 
 ## Digital ecosystems, or walled gardens
 
@@ -56,7 +56,7 @@ Another sneaky aspect is the arbitrary cycle of forced software upgrades, usuall
 
 ## Right to repair
 
-I prefer to [maintain and repair](https://en.wikipedia.org/wiki/Right_to_repair) my hardware, whenever possible. My current daily ride, a MacBook Pro from 2015, is still going strong and I don't plan to switch anytime soon.
+Rather than buy the shiny new object, I prefer to [maintain and repair](https://en.wikipedia.org/wiki/Right_to_repair) my hardware whenever possible. My current daily ride, a MacBook Pro from 2015, is still going strong and I don't plan to switch anytime soon.
 
 ## I pay for the tools I use
 
