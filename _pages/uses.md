@@ -2,7 +2,7 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2023-04-07 12:14:07'
+last_modified_at: '2023-04-19 12:55:11'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
 permalink: '/uses/'
 ---
@@ -127,6 +127,11 @@ In the past:
 - Firefox (primary)
 - Safari
 - [Ungoogled Chromium](https://simonesilvestroni.com/blog/ungoogled-chromium/)
+
+## Packages
+
+- [MacPorts](https://ports.macports.org/)
+- [Homebrew](https://brew.sh/)
 
 ## Reading
 
