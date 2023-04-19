@@ -1,13 +1,13 @@
 menu:
   - name: RSS
     link: /rss/
-    desc: 'Follow the RSS feeds'
-  - name: Now
-    link: /now/
-    desc: 'What have I been up to?'
+    desc: 'Subscribe to my blog and newsletter'
+  - name: Manifesto
+    link: /manifesto/
+    desc: 'A set of principles I adhere to'
   - name: Search
     link: /search/
-    desc: 'Search for anything'
+    desc: 'Dynamic search with an accessible alternative'
   - name: Sitemap
     link: /sitemap/
     desc: 'A full sitemap of the website'
