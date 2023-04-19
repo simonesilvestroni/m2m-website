@@ -3,7 +3,7 @@ layout: page
 title: 'Manifesto'
 date: '2022-11-23 11:23:18'
 last_modified_at: '2023-04-19 12:43:21'
-description: 'A set of principles I adhere to in terms of sustainability, decentralisation, design, participation to social aspects of the web, obsolescence and more.'
+description: 'A set of principles I stand for. Sustainability, decentralisation, design, participation to social aspects of the web, obsolescence and more.'
 permalink: '/manifesto/'
 ---
 ## Corporate web
