@@ -1,13 +1,16 @@
 menu:
-  - name: ABOUT
+  - name: About
     link: /about/
     desc: 'Who I am and what’s the moniker about'
-  - name: BLOG
+  - name: Blog
     link: /blog/
     desc: 'Articles, interviews, press releases'
-  - name: WORK
+  - name: Work
     link: /work/
     desc: 'Recent projects'
-  - name: CONTACT
+  - name: Now
+    link: /now/
+    desc: 'What have I been up to?'
+  - name: Contact
     link: /contact/
     desc: 'Get in touch'
