@@ -27,9 +27,9 @@ Daily maintenance and content updates are achieved through a mix of templates in
 ## Sustainability
 
 {: .list-hr }
+- Runs on sustainable energy.
 - Since I wiped out bloated frameworks, the entire source code is `1.1 MB`.
-- Only [0.01g of CO<sub>2</sub> is produced every time someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/), which is cleaner than 99% of web pages tested. 
-- Runs on sustainable energy and does not request third-party resources, except for the blog posts, which are calling `webmention.io` to render webmentions. 
+- Only [0.01g of CO<sub>2</sub> is produced every time someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/), which is cleaner than 99% of web pages tested.
 - [Scores 100 on Ecograder](https://ecograder.com/report/CYFdKg62wGIsfEWJoa8uLAIE) and it's featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/).
 - The homepage loads in <mark>0.4 seconds</mark> and weighs <mark>45.9 KB</mark> (uncompressed). 
 - Proud member of the [512kb club](https://512kb.club), the [1Mb club](https://1mb.club/) and the [darktheme.club](https://darktheme.club).
@@ -42,6 +42,20 @@ Daily maintenance and content updates are achieved through a mix of templates in
 
 {: .notice }
 [**More about my ethical choices**](/manifesto/)&nbsp;→
+
+## Privacy
+
+Things I **don't do**:
+
+- Collect personal data beyond an email address if you [subscribe to my newsletter](/newsletter/)
+- Run analytics software
+- Run ads
+- Use affiliate links
+- Add tracking scripts
+- Shove pop-ups or modal windows in your face
+- Request third-party resources — except for the blog posts, which are calling `webmention.io` to render webmentions
+
+A full [content security policy](https://simonesilvestroni.com/blog/content-security-policy/) has been implemented.
 
 ## Copyright
 
