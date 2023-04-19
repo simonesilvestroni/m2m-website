@@ -1,0 +1,5 @@
+<span aria-label="Secondary sub-navigation">
+  {% for item in site.data.nav-tertiary.menu -%}
+  <a{% if page.url contains item.link %} class="current"{% endif %} href="{{ item.link }}" title="{{ item.desc }}">{{ item.name }}</a>{% unless forloop.last %} &middot;{% endunless %}
+  {% endfor -%}
+</span>
