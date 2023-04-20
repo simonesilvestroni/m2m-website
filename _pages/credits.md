@@ -40,7 +40,7 @@ Built with Jekyll `v4.2.2`.
   - [Webmentions](https://github.com/fluffy-critter/webmention)
 - Code repository on GitHub
 - Hosted on Netlify, running on sustainable energy
-
+- Latest deploy: `{{ site.time | date: "%-d %B %Y at %H:%M" }}`
 
 ### Visual
 
