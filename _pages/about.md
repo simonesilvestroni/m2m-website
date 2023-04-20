@@ -19,7 +19,7 @@ permalink: '/about/'
 - Graduated at the Berklee College of Music (audio mastering and music production) in 2017.
 - After switching from analog to digital two decades ago, I've been working entirely in the box.
 - I see video games as the ultimate audio-visual narrative medium.
-- I wrote [a personal manifesto](/manifesto/) of principles I stand for.
+- I wrote [a personal manifesto](/personal-manifesto/) of principles I stand for.
 
 ## Accomplishments
 
