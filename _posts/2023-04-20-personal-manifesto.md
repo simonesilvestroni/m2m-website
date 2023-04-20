@@ -14,6 +14,12 @@ tags:
   - 'planned obsolescence'
   - 'personal'
 description: 'Principles I stand for. Takes on attention span, sustainability, online social participation, and more, are connected with a will to keep my mental health safe.'
+syndication: true
+syndicate:
+  - name: IndieNews
+    url: https://news.indieweb.org/en
+  - name: Mastodon
+    url: https://indieweb.social/@m2m/110231597126123151
 ---
 Most of the following points are interconnected. The glue that keeps them together is **mental health**. Modern capitalism has made a clear point in exploiting stress and weaknesses in people to make money. It's disgusting, and I hope more people will take decisive steps to safeguard their well being.
 
