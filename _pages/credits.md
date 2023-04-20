@@ -58,19 +58,18 @@ Built with Jekyll `v4.2.2`.
 - The entire source code is `1.1 MB`
 - `0.01g` of CO2 [produced when someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/)
 - Scores `100` on [Ecograder](https://ecograder.com/report/CYFdKg62wGIsfEWJoa8uLAIE)
-- Implemented a [content security policy](https://securityheaders.com/?q=https%3A%2F%2Fminutestomidnight.co.uk%2F)
+- Featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/)
 
 ### Accessibility
 
 - Compliant with <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> guidelines
 - Current [WAVE accessibility rank](https://webaim.org/projects/million/lookup?domain=minutestomidnight.co.uk): `#7,280` of 1,000,000
-- Featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/)
 - The page content is fully accessible with Javascript turned off
 - The dynamic [search functionality](/search/) has a plain HTML alternative
 
 ## Privacy
 
-I don't collect personal data beyond an email address if you [subscribe to my newsletter](/newsletter/). There is no analytics software, I don't run ads or use affiliate links, tracking scripts, pop-ups or modal windows.
+I don't collect personal data beyond an email address if you [subscribe to my newsletter](/newsletter/). There is no analytics software, no ads or affiliate links, tracking scripts, pop-ups or modal windows. A [content security policy](https://securityheaders.com/?q=https%3A%2F%2Fminutestomidnight.co.uk%2F) is in place.
 
 ## Copyright
 
