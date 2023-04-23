@@ -1,5 +1,9 @@
 <header>
+  {%- if page.url == '/' %}
+  <h1 class="p-name">{% include site-logo.html %}</h1>
+  {% else %}
   {% include site-logo.html %}
+  {% endif -%}
   <p class="p-summary">{{ site.description }}</p>
   {% include site-nav-main.html %}
 </header>
