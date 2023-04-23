@@ -18,12 +18,9 @@ layout: default
   </figure>
   {% endif -%}
   {% unless page.tldr == false %}
-  <fieldset class="tldr">
-    <legend class="hidden">TL;DR</legend>
-    <p class="p-summary">
-      {{ page.description }}
-    </p>
-  </fieldset>
+  <p class="p-summary">
+    {{ page.description }}
+  </p>
   {% endunless %}
   <div class="e-content">
     {{ content }}
