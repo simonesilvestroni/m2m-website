@@ -7,7 +7,7 @@ description: 'Reaching out via email is always the best way to get in touch.'
 tldr: false
 permalink: '/contact/'
 ---
-The best and quickest way to [get in touch](mailto:hello@minutestomidnight.co.uk) is always email. If secure communication is needed, use my [PGP public key]({{ site.url }}/assets/files/key.pub). [^1]
+The best and quickest way to [get in touch](mailto:hello@minutestomidnight.co.uk) is always email. If secure communication is needed, use my [PGP public key]({{ site.url }}/assets/files/key.pub). [^1] For my other online profiles, links are available in the footer.
 
 [^1]: Fingerprint: `DE83 606B EFEF 6726 05DE 3D4B D780 2B3D 11F5 85E5`.
 
