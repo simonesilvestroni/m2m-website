@@ -138,8 +138,7 @@ completeSkills:
   - name: 'Editing'
   - name: 'Foley'
   - name: 'Game audio integration'
-
-# , Editing, , Foley, Game audio integration (Wwise, Unity, FMOD and Unreal)
+  - name: 'Web development'
 
 # -------------------
 # Main Tools
@@ -161,6 +160,11 @@ completeTools:
   - name: Waves
   - name: Soundtoys
   - name: Phase Plant
+  - name: Jekyll
+  - name: WordPress
+  - name: PHP
+  - name: HTML
+  - name: CSS
 
 # -------------------
 # Work endorsements
