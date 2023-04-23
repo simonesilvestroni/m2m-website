@@ -4,7 +4,7 @@
 host: "localhost"
 url: "https://minutestomidnight.co.uk"
 baseurl: ""
-lang: "en-US"
+lang: "en-GB"
 
 # -------------------
 # Feeds
