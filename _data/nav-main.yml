@@ -1,10 +1,10 @@
 menu:
   - name: About
     link: /about/
-    desc: 'Who I am and what’s the moniker about'
+    desc: 'Who I am'
   - name: Blog
     link: /blog/
-    desc: 'Articles, interviews, press releases'
+    desc: 'My journal, from 2002'
   - name: Work
     link: /work/
     desc: 'Recent projects'
