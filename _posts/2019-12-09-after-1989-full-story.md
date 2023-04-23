@@ -14,7 +14,7 @@ tags:
   - 'concentration camp'
   - 'sachsenhausen'
   - 'world war ii'
-  - 'popular'
+  - 'featured'
 description: "A partial chronicle of what I did to retrace my grandfather’s steps in Sachsenhausen concentration camp. In the process, I wrote my debut concept album."
 featimage: true
 featimage-name: 'full-story-featured.jpg'

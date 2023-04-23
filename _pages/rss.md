@@ -2,11 +2,10 @@
 layout: page
 title: RSS
 date: '2022-05-09'
-last_modified_at: '2023-04-05 21:41:46'
+last_modified_at: '2023-04-23 16:57:43'
 description: 'The best way to subscribe to my blog and newsletter is by adding the RSS feed URL (latest 20 posts) to a news reader.'
 permalink: '/rss/'
 ---
-{: .list-hr }
 - RSS feed for [the blog]({{ site.url }}/feed.xml)
 - RSS feed for [the newsletter]({{ site.url }}/newsletter.xml)
 

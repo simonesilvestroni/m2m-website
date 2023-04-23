@@ -2,11 +2,20 @@
 layout: blog
 title: 'Blog'
 date: '2021-11-06 14:11:45'
-last_modified_at: '2023-04-02 18:01:26'
-description: 'I’ve been running a blog since March 2002. I write about sound design, music production, video games and personal reflections.'
+last_modified_at: '2023-04-23 16:57:12'
+description: 'I’ve been running a blog since March 2002. I write about sound design, music production, video games, web development, sustainability and personal reflections.'
 ---
-<p><span class="big">There are <strong>{{ site.posts | size }} posts</strong> so far. Filter by <a href="/blog/case-studies/">case studies</a> or <a href="/blog/popular/">popular</a>. Webmentions, in the form of replies and likes, are <a href="/notes/">handled with notes</a>.</span><br><br></p>
+<p>There are <strong>{{ site.posts | size }} posts</strong>. Webmentions, in the form of replies and likes, are <a href="/notes/">handled with notes</a>.</p>
 <div class="h-feed">
+  <div class="notice">
+    <h2 id="featured-posts">Featured posts</h2>
+    {%- assign featuredPosts = site.posts | where_exp:'post','post.tags contains "featured"' | sort: date | reverse -%}
+    <ul>
+      {%- for post in featuredPosts %}
+      <li><a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
   {%- for post in site.posts %}
   {%- if post -%}{% assign date = post.date %}
   {%- elsif page -%}{% assign date = page.date %}
@@ -18,7 +27,7 @@ description: 'I’ve been running a blog since March 2002. I write about sound d
     <ul class="list-hr">
     {% endif %}
       <li>
-        <a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}"><span class="big">{{ post.title }}</span></a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark class="small">CASE&nbsp;STUDY</mark>{% endif %}{% if post.tags contains "popular" %}&nbsp;&nbsp;<mark class="small">POPULAR</mark>{% endif %}<br>
+        <a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark class="small">CASE&nbsp;STUDY</mark>{% endif %}<br>
         <time class="dt-published small dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time>
       </li>
       {% if forloop.last %}

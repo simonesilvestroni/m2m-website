@@ -15,7 +15,7 @@ tags:
   - 'audio software'
   - 'music production'
   - 'game audio'
-  - 'popular'
+  - 'featured'
 description: "In 12 months I’ve managed to revolutionize my workflow, twice. Part 1 of why I migrated to REAPER is about cost, multi-platform and a different workflow."
 ---
 In this series, I describe eight major benefits that REAPER brought to my music production workflow, and how they pushed me toward a full switch from Pro Tools.

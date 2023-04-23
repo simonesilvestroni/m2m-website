@@ -14,7 +14,7 @@ tags:
   - 'concentration camp'
   - 'sachsenhausen'
   - 'world war ii'
-  - 'popular'
+  - 'featured'
 description: 'How an arrangement for another band became the opening single and lead song for Minutes to Midnight’s concept album ‘After 1989’.'
 ---
 ## Origin

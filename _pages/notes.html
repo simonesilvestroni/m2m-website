@@ -2,7 +2,7 @@
 layout: page
 title: Notes
 date: '2022-05-12'
-last_modified_at: '2023-04-06 18:41:25'
+last_modified_at: '2023-04-23 16:57:48'
 permalink: '/notes/'
 description: 'I’m using notes as Indieweb replies and likes sent through webmentions.'
 sitemap: false
@@ -12,10 +12,10 @@ robots: 'noindex,follow'
   {% for note in site.notes reversed -%}
   <li>
     {%- if note.replyto -%}
-    <a href="{{ note.url }}"><span class="big">On {{ note.date | date: "%-d %b %Y %T" }} I replied to <code>{{ note.replytouser }}</code></span></a><br>
+    <a href="{{ note.url }}">On {{ note.date | date: "%-d %b %Y %T" }} I replied to <code>{{ note.replytouser }}</code></a><br>
     <time class="dt-published small dim" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %B %Y" }}</time>
     {%- elsif note.likeof %}
-    <a href="{{ note.url }}"><span class="big">I liked “{{ note.likeoftitle }}” by&nbsp;<code>{{ note.likeofuser }}</code></span></a><br>
+    <a href="{{ note.url }}">I liked “{{ note.likeoftitle }}” by&nbsp;<code>{{ note.likeofuser }}</code></a><br>
     <time class="dt-published small dim" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %B %Y" }}</time>
     {%- endif %}</li>
   {% endfor -%}

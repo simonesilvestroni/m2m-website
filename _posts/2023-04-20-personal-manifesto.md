@@ -12,6 +12,7 @@ tags:
   - 'social media'
   - 'capitalism'
   - 'planned obsolescence'
+  - 'featured'
   - 'personal'
 description: 'Principles I stand for. Takes on attention span, sustainability, online social participation, and more, are connected with a will to keep my mental health safe.'
 syndication: true
