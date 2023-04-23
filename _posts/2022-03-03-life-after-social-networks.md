@@ -11,7 +11,7 @@ tags:
   - 'small web'
   - 'social media'
   - 'personal'
-  - 'popular'
+  - 'featured'
 description: "My point of view about the pros of being outside mainstream social networks for the last 19 months."
 canonical: 'https://simonesilvestroni.com/blog/life-after-social-networks/'
 sitemap: false
@@ -35,7 +35,7 @@ Having lived through the full experience of being engulfed in social networks, I
 - I started reading again without interruptions.
 - I caught up with things I’d been leaving behind because I didn’t feel like I had the time or the required focus.
 - I learned to use Pro Tools, then after a few months [ditched it and learned REAPER](https://minutestomidnight.co.uk/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/).
-- I studied Wwise and FMOD (videogame audio authoring).
+- I studied Wwise and FMOD (video game audio authoring).
 - I expanded my knowledge of new web dev technologies, migrating two websites from WordPress to Jekyll and from a traditional hosting to Netlify, saving money in the process.
 
 Above all, I stopped caring about whatever CEO billionaire do or say, while following savvy people who write about facts, productivity and tech whilst keeping a critical eye on all things related to the so-called “surveillance capitalism”.

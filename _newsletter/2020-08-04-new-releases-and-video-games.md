@@ -23,7 +23,7 @@ _In Our Dreams_ is out now. Written, produced & mixed by Gerald Duchene. Vocals 
 
 ## Google Rejects _Attentat 1942_
 
-Brilliant article by Gamasutra about the release of the videogame _Attentat 1942_, about World War II. Despite the developer’s effort, Google refused to publish the game on their Play Store in Germany, France, Austria and Russia. [Read the post & watch the teaser](/blog/google-rejects-attentat-1942-from-play-store/)
+Brilliant article by Gamasutra about the release of the video game _Attentat 1942_, about World War II. Despite the developer’s effort, Google refused to publish the game on their Play Store in Germany, France, Austria and Russia. [Read the post & watch the teaser](/blog/google-rejects-attentat-1942-from-play-store/)
 
 <br>
 

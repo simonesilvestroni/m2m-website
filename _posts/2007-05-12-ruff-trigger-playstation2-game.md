@@ -38,7 +38,7 @@ I started at the end of January 2000 and stayed with Playstos for 5 years. At th
 
 ## Ruff Trigger
 
-My work hit a roadblock when the co-founder suddenly left a couple of weeks later. All the web work, both creative and technical, was offloaded onto me. I was managing quite well, when the company's directors informed me that they were secretly developing a videogame codenamed _Hot Dogs_, which would later become _Ruff Trigger: The Vanocore Conspiracy_.
+My work hit a roadblock when the co-founder suddenly left a couple of weeks later. All the web work, both creative and technical, was offloaded onto me. I was managing quite well, when the company's directors informed me that they were secretly developing a video game codenamed _Hot Dogs_, which would later become _Ruff Trigger: The Vanocore Conspiracy_.
 
 Playstos didn't have a plan for the audio, so as soon as they found out about my skills as a musician and sound designer my role quietly morphed. Within a few months I turned a decent-sized storage room into a full-fledged studio, so that the sound design for _Ruff Trigger_ could be handled in-house.
 
