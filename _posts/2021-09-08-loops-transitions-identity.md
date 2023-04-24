@@ -8,6 +8,7 @@ tags:
   - jekyll
   - web standards
   - web sustainability
+  - web development
   - small web
 description: "Following a process to recalibrate my self-identity after leaving social media, I’m going back to the roots and leave WordPress for Jekyll, joining the IndieWeb."
 canonical: 'https://simonesilvestroni.com/blog/loops-transitions-identity/'

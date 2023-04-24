@@ -7,6 +7,7 @@ tags:
   - cross-site scripting
   - data injection attacks
   - web threats
+  - web development
   - netlify
 image-caption: true
 description: "How I implemented a content security policy on a static website built with Jekyll, hosted on Netlify and loaded with several external embeds."
@@ -90,7 +91,7 @@ Here is my security policy, which grants an [`A+` on benchmarks](https://securit
       style-src 'self';
       img-src 'self' https://webmention.io https://*.amazonaws.com;
       script-src 'self';
-      frame-src https://www.youtube-nocookie.com/embed/ https://open.spotify.com/embed/ https://w.soundcloud.com/player/ https://bandcamp.com/EmbeddedPlayer/
+      frame-src https://yewtu.be/embed/ https://www.youtube-nocookie.com/embed/ https://open.spotify.com/embed/ https://w.soundcloud.com/player/ https://bandcamp.com/EmbeddedPlayer/
     '''
     Permissions-Policy = '''
       accelerometer=(none),
