@@ -21,8 +21,9 @@ An unordered list of people who inspired improvements and helped me find a bette
 - [Chris Wiegman](https://chriswiegman.com)
 - [Wouter Groeneveld](https://brainbaking.com)
 - [Brad Taunt](https://bt.ht)
-- [Ru Singh](https://rusingh.com)
+- [Matthew Graybosch](https://starbreaker.org/)
 - [Kev Quirk](https://kevquirk.com)
+- [Ru Singh](https://rusingh.com)
 - [Ruben Schade](https://rubenerd.com/)
 
 ## Site
