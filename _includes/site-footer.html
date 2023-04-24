@@ -1,7 +1,6 @@
 <footer>
   <div class="nav-secondary">
-    <p>&copy; 2002-{{ site.time | date: '%Y' }} &middot; {% include site-nav-tertiary.html %}</p>
-    {% include site-nav-secondary.html %}
+    <span class="small">&copy; 2002-{{ site.time | date: '%Y' }}</span>{%- include site-nav-secondary.html %}
   </div>
   <div class="nav-social">
     {%- include site-nav-social.html %}
