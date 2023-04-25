@@ -13,8 +13,12 @@ permalink: '/sitemap/'
 {%- assign sorted_tags = site.tags | sort -%}
 
 <details>
-  <summary>Pages <sup>({{ allpages | size }})</sup></summary>
+  <summary>Pages <sup>({{ allpages | size | plus: 1 }})</sup></summary>
   <ul class="list-hr">
+    <li>
+      <a href="{{ site.url }}">Homepage</a><br>
+      <span class="dim small">Updated <time>{{ site.time | date: "%-d %B %Y" }}</time></span>
+    </li>
     {%- for page in allpages %}
     {%- unless page.sitemap == false %}
     <li>

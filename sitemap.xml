@@ -12,6 +12,10 @@ layout: none
   </url>
   {%- endunless -%}
   {%- endfor -%}
+  <url>
+    <loc title="Homepage">{{ site.url }}</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+  </url>
   {%- assign pages = site.pages | where:"layout", "page" -%}
   {%- assign blog = site.pages | where:"layout", "blog"  -%}
   {%- assign allpages = pages | concat: blog | sort: 'title' -%}
