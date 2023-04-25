@@ -69,5 +69,5 @@ Here's a link to my new human-readable [RSS feed]({{ site.url }}/feed.xml). Belo
 ## Source code
 
 {: .list-unstyled .ps-0 }
-- [RSS XML feed on Github ↗︎](https://github.com/simonesilvestroni/ssil-website/blob/master/feed.xml)
-- [XSL file on Github ↗︎](https://github.com/simonesilvestroni/ssil-website/blob/master/feed.xsl)
+- [RSS XML feed on Github](https://github.com/simonesilvestroni/m2m-website/blob/main/feed.xml)
+- [XSL file on Github](https://github.com/simonesilvestroni/m2m-website/blob/main/feed.xsl)
