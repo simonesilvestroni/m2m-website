@@ -101,7 +101,7 @@ All the aforementioned methods are used by their creators to induce [planned obs
 
 A sneaky aspect is the arbitrary cycle of upgrades, usually on an annual basis. Apple is likely the worst offender here. Not caring for it, I [downgraded my old laptop](/blog/degrowth/) to an operating system from 2018. It works very well, I have sufficient security updates and I avoid using the obsolete packages shipped with the <abbr title="Operating System">OS</abbr>.
 
-The same thing happens with my phone: old, cheap, and running the [latest Android with ease](https://simonesilvestroni.com/blog/installing-android-13-on-an-unsupported-non-google-phone/).
+The same thing happens with my phone: old, cheap, and running the [latest Android with ease](/blog/installing-android-13-on-an-unsupported-non-google-phone/).
 
 ## Right to repair
 

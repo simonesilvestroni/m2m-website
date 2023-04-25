@@ -20,12 +20,6 @@ tags:
   - 'technology'
   - 'marginalia'
 description: "A brief description of how I use the internet in 2022, two years after leaving all mainstream social networks."
-canonical: 'https://simonesilvestroni.com/blog/how-i-use-internet/'
-sitemap: false
-syndication: true
-syndicate:
-  - name: simonesilvestroni.com
-    url: https://simonesilvestroni.com/blog/how-i-use-internet/
 ---
 This post is inspired by Michael Harley’s [_How I Internet_](https://obsolete29.com/posts/2022/11/07/how-i-internet/), which was inspired by Cassey Lottman’s, [_My Internet_](https://www.cassey.dev/posts/2022-11-05-my-internet/).
 
@@ -35,7 +29,7 @@ I still prefer e-mail over any other form of communication.
 
 ~~A few years ago I’ve switched to Protonmail, after possibly using all the available systems out there — both free and paid. Even though I’m not entirely satisfied, it fits my current privacy needs.~~ 
 
-After a few years with Proton, [I switched to Mailbox.org](https://simonesilvestroni.com/blog/email-migration-from-proton-to-mailbox/). I now sync my calendars and address book with Android through the open source [DAVx<sup>5</sup>](https://f-droid.org/en/packages/at.bitfire.davdroid/).
+After a few years with Proton, [I switched to Mailbox.org](/blog/email-migration-from-proton-to-mailbox/). I now sync my calendars and address book with Android through the open source [DAVx<sup>5</sup>](https://f-droid.org/en/packages/at.bitfire.davdroid/).
 
 My first e-mail client was [Eudora](https://en.wikipedia.org/wiki/Eudora_(email_client)).
 

@@ -46,7 +46,7 @@ Built with Jekyll `v4.2.2`.
 ### Visual
 
 - Inline SVG for logos and icons
-- [WebP images](https://simonesilvestroni.com/blog/implementing-webp-images-in-jekyll/), with optimised fallbacks
+- [WebP images](/blog/implementing-webp-images-in-jekyll/), with optimised fallbacks
 - System stacks typography (with fallbacks):
   - Geometric Humanist
   - UI-monospace
@@ -70,7 +70,7 @@ Built with Jekyll `v4.2.2`.
 
 ## Privacy
 
-I don't collect personal data beyond an email address if you [subscribe to my newsletter](/newsletter/). There is no analytics software, no ads or affiliate links, tracking scripts, pop-ups or modal windows. A [content security policy](https://securityheaders.com/?q=https%3A%2F%2Fminutestomidnight.co.uk%2F) is in place.
+I don't collect personal data, there is no analytics software, no ads or affiliate links, tracking scripts, pop-ups or modal windows. A [content security policy](https://securityheaders.com/?q=https%3A%2F%2Fminutestomidnight.co.uk%2F) is in place.
 
 ## Copyright
 

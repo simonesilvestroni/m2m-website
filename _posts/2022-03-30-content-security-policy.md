@@ -11,12 +11,6 @@ tags:
   - netlify
 image-caption: true
 description: "How I implemented a content security policy on a static website built with Jekyll, hosted on Netlify and loaded with several external embeds."
-canonical: 'https://simonesilvestroni.com/blog/content-security-policy/'
-sitemap: false
-syndication: true
-syndicate:
-  - name: simonesilvestroni.com
-    url: https://simonesilvestroni.com/blog/content-security-policy/
 ---
 ## What is a content security policy?
 

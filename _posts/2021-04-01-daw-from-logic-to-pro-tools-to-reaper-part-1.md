@@ -151,7 +151,7 @@ For sends and returns, I can either use the basic routing window pictured above,
 
 {% include pattern-figure.html image="/assets/images/daw-reaper-drag-send.png" caption="Create a send from one track to another by dragging the route icon (“IO” in my skin) to a track" width="768" height="692" %}
 
-I can also select multiple tracks at once, hold SHIFT and drag from the same icon to re-route them all. Technically, all these actions create a bus/aux, but again, I don’t have to worry about it. I usually assign a custom color to my busses so that they’re easily recognizable, and work it out later. 
+I can also select multiple tracks at once, hold SHIFT and drag from the same icon to re-route them all. Technically, all these actions create a bus/aux, but again, I don’t have to worry about it. I usually assign a custom colour to my busses so that they’re easily recognizable, and work it out later. 
 
 The fastest way to create a bus is to create a folder. It’s as easy as clicking the folder icon in the track: the ones below will indent and be instantly re-routed. Once a folder is created, a "ghost clip" is generated at the top level, so that when the folder is collapsed its content is still visible.
 

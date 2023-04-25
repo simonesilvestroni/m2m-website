@@ -75,7 +75,7 @@ Markers and regions
 : Jump to sections, move entire blocks around, make selections, split, loop certain areas, export and render. Super flexible and powerful.
 
 Automatic colors
-: It might sound minor, however to me this is a godsend. I always color-code everything: tracks, items, markers and regions. I used to do the same in Logic and Pro Tools, but in REAPER it’s a different world. An SWS extension allows to set rules for automatic color-coding of everything, based on several patterns. Now, whenever I name a track with a specific pattern, the track (and its items) get the color I want. Same for markers and regions. Huge timesaver.
+: It might sound minor, however to me this is a godsend. I always color-code everything: tracks, items, markers and regions. I used to do the same in Logic and Pro Tools, but in REAPER it’s a different world. An SWS extension allows to set rules for automatic colour-coding of everything, based on several patterns. Now, whenever I name a track with a specific pattern, the track (and its items) get the colour I want. Same for markers and regions. Huge timesaver.
 
 Metadata
 : Integrated support for writing and reading advanced metadata. Also useful when it comes to importing markers from other sessions or from other DAWs.

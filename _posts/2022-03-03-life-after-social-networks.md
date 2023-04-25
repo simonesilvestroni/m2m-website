@@ -13,14 +13,8 @@ tags:
   - 'personal'
   - 'featured'
 description: "My point of view about the pros of being outside mainstream social networks for the last 19 months."
-canonical: 'https://simonesilvestroni.com/blog/life-after-social-networks/'
-sitemap: false
-syndication: true
-syndicate:
-  - name: simonesilvestroni.com
-    url: https://simonesilvestroni.com/blog/life-after-social-networks/
 ---
-At the beginning of August 2020 I [deleted all my social media accounts](https://simonesilvestroni.com/blog/escape-from-social-media/), except for YouTube. So, how has it been?
+At the beginning of August 2020 I [deleted all my social media accounts](/blog/escape-from-social-media/), except for YouTube. So, how has it been?
 
 I never intended to make a living solely through the music I write: my work in sound design and production is in a different business. Had I read [this post by Steve Lawson](https://www.stevelawson.net/2021/08/keeping-your-soul-in-an-algorithmic-world/) post in 2019, it would have pushed me to consider a few things. 
 
@@ -50,7 +44,7 @@ Finally, if my contacts came from [Bandcamp](https://minutestomidnight.bandcamp.
 
 ## What if?
 
-On the other hand, I can’t understand how people actually enjoy having their time, attention and focus snatched by young-white-male-dominated mega corporations. Especially knowing how they make their money through selling personal data, reprogramming the social behavior of millions while [altering entire democracies](https://en.wikipedia.org/wiki/The_Great_Hack) in the making.
+On the other hand, I can’t understand how people actually enjoy having their time, attention and focus snatched by young-white-male-dominated mega corporations. Especially knowing how they make their money through selling personal data, reprogramming the social behaviour of millions while [altering entire democracies](https://en.wikipedia.org/wiki/The_Great_Hack) in the making.
 
 I keep asking: what if these soulless machines stopped working? We all remember the fast demise of MySpace; what would happen to that _audience amplifier_?
 

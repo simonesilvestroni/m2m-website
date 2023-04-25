@@ -126,7 +126,7 @@ In the past:
 
 - Firefox (primary)
 - Safari
-- [Ungoogled Chromium](https://simonesilvestroni.com/blog/ungoogled-chromium/)
+- [Ungoogled Chromium](/blog/ungoogled-chromium/)
 
 ## Packages
 

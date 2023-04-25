@@ -99,7 +99,7 @@ The song is the twin to _Unter Der Linden_ as it is the group collective in acti
 
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=520753597/transparent=true/"><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 
-A pause on our journey, _Berlin 91_ continues the emotional wave of _The Day Before_ and is a patch of light through the clouds. “The wind of East Berlin is ruby red when lost in your hair” is an excellent line and is incredibly evocative as we see the use of color to show feelings in a different way. It acknowledges the darkness we have traveled through, and calls for us to really feel the meaning of that change. 
+A pause on our journey, _Berlin 91_ continues the emotional wave of _The Day Before_ and is a patch of light through the clouds. “The wind of East Berlin is ruby red when lost in your hair” is an excellent line and is incredibly evocative as we see the use of colour to show feelings in a different way. It acknowledges the darkness we have traveled through, and calls for us to really feel the meaning of that change. 
 
 We can reflect on our journey as the main character reflects on their own, and the powerful language of the recurring chorus is a hard line against complacency. “That was me watching the no man’s land/ This is me changing the life I planned.” It’s poetic and stalwart, and just as much as a call to arms as the feelings from _Unter Den Linden_. This is an incredibly powerful song and an excellent choice for the penultimate moment on the album.
 

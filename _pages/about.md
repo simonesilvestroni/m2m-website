@@ -18,6 +18,7 @@ I also crafted a [parallel career in web development](https://simonesilvestroni.
 - Participated to the Game Developer Conference in 2002, where I witnessed to the launch of Steam by Valve and joined as a Bronze Member the [Game Audio Guild Network](/work/sound-design/ruff-trigger-playstation2-game/#game-developer-conference-and-gang) on the day of its foundation. At the same time, I started my first blog, journaling about working long hours on a console video game.
 - Moved to the UK in 2011, first London then Cambridge.
 - Graduated at the Berklee College of Music (audio mastering and music production) in 2017.
+- My favourite bass player is [Andy Rourke](http://www.andyrourke.com).
 - After switching from analog to digital two decades ago, I've been working entirely in the box.
 - I see video games as the ultimate audio-visual narrative medium.
 - I wrote [a personal manifesto](/personal-manifesto/).

@@ -3,14 +3,13 @@ layout: page
 title: Sitemap
 date: '2023-03-31 12:22:58'
 last_modified_at: '2023-04-17 11:30:14'
-description: 'A full map of the website, including pages, blog posts, case studies, newsletters and tags.'
+description: 'A full map of the website, including pages, blog posts, case studies and tags.'
 permalink: '/sitemap/'
 ---
 {%- assign pages = site.pages | where:"layout", "page" -%}
 {%- assign blogpage = site.pages | where:"layout", "blog"  -%}
 {%- assign allpages = pages | concat: blogpage | sort: 'title' -%}
 {%- assign sorted_blog = site.documents | where:"layout", "post" | sort: 'date' | reverse -%}
-{%- assign sorted_newsletters = site.newsletter | sort: 'date' | reverse  -%}
 {%- assign sorted_tags = site.tags | sort -%}
 
 <details>
@@ -38,18 +37,6 @@ permalink: '/sitemap/'
       <time class="dt-published small dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time>
     </li>
     {%- endfor -%}
-  </ul>
-</details>
-
-<details>
-  <summary>Newsletters <sup>({{ site.newsletter | size }})</sup></summary>
-  <ul class="list-hr">
-  {%- for newsletter in sorted_newsletters  -%}
-    <li>
-      <a href="{{ newsletter.url }}">{{ newsletter.title }}</a><br>
-      <time class="dt-published small dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ newsletter.date | date: "%-d %B %Y" }}</time>
-    </li>
-  {%- endfor %}
   </ul>
 </details>
 

@@ -14,12 +14,6 @@ tags:
   - jaron lanier
   - reddit
 description: "Finally, I’m leaving social media, Facebook, Twitter, Instagram, WhatsApp, Reddit, redirecting my attention and my time to something more productive."
-canonical: 'https://simonesilvestroni.com/blog/escape-from-social-media/'
-sitemap: false
-syndication: true
-syndicate:
-  - name: simonesilvestroni.com
-    url: https://simonesilvestroni.com/blog/escape-from-social-media/
 ---
 This post is a personal point of view, it’s not intended as an exhaustive analysis on what is going on with social media, nor am I trying to convince anybody. I’m just redirecting my attention and my time to something more productive.
 

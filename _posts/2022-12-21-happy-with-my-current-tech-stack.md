@@ -13,16 +13,10 @@ tags:
   - 'technology'
   - 'syncthing'
 description: "I'm finding myself eerily happy with the technology I've been using, while staying outside digital ecosystems."
-canonical: 'https://simonesilvestroni.com/blog/happy-with-my-current-tech-stack/'
-sitemap: false
-syndication: true
-syndicate:
-  - name: simonesilvestroni.com
-    url: https://simonesilvestroni.com/blog/happy-with-my-current-tech-stack/
 ---
 I’ve been having interesting discussions on Mastodon recently about whether a tech stack is satisfactory or if better solutions lie ahead. By _tech stack_ I mean computer, software, mobile phone, operating systems, data sync and how easy is to manage the relationship between these parts.
 
-I've been following [degrowth]({{ site.url }}/blog/degrowth/) principles, slowly applying them to get to a more [frugal use of my technology](https://simonesilvestroni.com/blog/on-the-concept-of-frugal-computing/). Even though this is not the first time I've felt content with my tech stack, it's a welcome change from the hyper-complicated downward spiral experienced since the advent of smaller _smart_ devices.
+I've been following [degrowth]({{ site.url }}/blog/degrowth/) principles, slowly applying them to get to a more [frugal use of my technology](/blog/on-the-concept-of-frugal-computing/). Even though this is not the first time I've felt content with my tech stack, it's a welcome change from the hyper-complicated downward spiral experienced since the advent of smaller _smart_ devices.
 
 ## Laptop
 
@@ -32,11 +26,11 @@ I need Windows for game audio, so a dual boot on the internal SSD allows a dual 
 
 ## Phone
 
-Ever since I sold my last iPhone 8 almost four years ago, I've been using a Xiaomi Redmi Note 7. After getting tired of its native MIUI operating system's luggishness, I rooted the phone, wiped everything out and [installed a community-driven Android v13](https://simonesilvestroni.com/blog/installing-android-13-on-an-unsupported-non-google-phone/) instead. It's been running like a new device: speedy, efficient, clean.
+Ever since I sold my last iPhone 8 almost four years ago, I've been using a Xiaomi Redmi Note 7. After getting tired of its native MIUI operating system's luggishness, I rooted the phone, wiped everything out and [installed a community-driven Android v13](/blog/installing-android-13-on-an-unsupported-non-google-phone/) instead. It's been running like a new device: speedy, efficient, clean.
 
 ## Mail
 
-As part of a push to leave everything related to the concept of [walled gardens](https://en.wikipedia.org/wiki/Closed_platform), I switched from Proton to Mailbox.org. After a [quick and painless migration process](https://simonesilvestroni.com/blog/email-migration-from-proton-to-mailbox/), I'm very happy with the service overall.
+As part of a push to leave everything related to the concept of [walled gardens](https://en.wikipedia.org/wiki/Closed_platform), I switched from Proton to Mailbox.org. After a [quick and painless migration process](/blog/email-migration-from-proton-to-mailbox/), I'm very happy with the service overall.
 
 ## Software
 

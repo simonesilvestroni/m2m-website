@@ -7,7 +7,10 @@ menu:
     desc: 'I set of principles I stand for'
   - name: RSS
     link: /rss/
-    desc: 'Subscribe to my blog and newsletter'
+    desc: 'Subscribe to my blog via the RSS feed'
+  - name: Links
+    link: /links/
+    desc: 'My Blogroll'
   - name: Search
     link: /search/
     desc: 'Dynamic search with an accessible alternative'

@@ -2,8 +2,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {%- if page.robots %}
-<meta name="robots" content="{{ page.robots }}">
+<meta name="robots" content="{{ page.robots }}, noai, noimageai">
 {% else %}
-<meta name="robots" content="index, follow">
+<meta name="robots" content="index, follow, noai, noimageai">
+{% endif -%}
+{%- if page.GoogleBot -%}
+<meta name="AdsBot-Google" content="noindex">
 {% endif -%}
 <title>{% include site-meta-title.html %}</title>

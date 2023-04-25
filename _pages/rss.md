@@ -3,11 +3,11 @@ layout: page
 title: RSS
 date: '2022-05-09'
 last_modified_at: '2023-04-23 16:57:43'
-description: 'The best way to subscribe to my blog and newsletter is by adding the RSS feed URL (latest 20 posts) to a news reader.'
+description: 'The best way to subscribe to my blog is by adding the RSS feed URL (latest 20 posts) to a news reader.'
+tldr: false
 permalink: '/rss/'
 ---
-- RSS feed for [the blog]({{ site.url }}/feed.xml)
-- RSS feed for [the newsletter]({{ site.url }}/newsletter.xml)
+The best way to subscribe to my blog is by [adding the RSS feed URL]({{ site.url }}/feed.xml) (latest 20 posts) to a news reader.
 
 ## What is RSS?
 

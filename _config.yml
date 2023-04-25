@@ -78,11 +78,6 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "newsletter"
-    values:
-      layout: "newsletter"
-  - scope:
-      path: ""
       type: "notes"
     values:
       layout: "note"
@@ -91,9 +86,6 @@ defaults:
 # Collections
 # -------------------
 collections:
-  newsletter:
-    output: true
-    permalink: /newsletter/archives/:path/
   notes:
     output: true
     permalink: /notes/:path/

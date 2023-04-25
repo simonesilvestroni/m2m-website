@@ -113,7 +113,7 @@ Working closely with the audio programmers, I implemented an _adaptive soundtrac
 
 ### Examples
 
-The following songs are demos _rendered in their linear versions_. They don't reflect their original behavior in the gameplay, where each song had layers that were activated or deactivated following cues from the game engine. They aren't properly mixed nor mastered.
+The following songs are demos _rendered in their linear versions_. They don't reflect their original behaviour in the gameplay, where each song had layers that were activated or deactivated following cues from the game engine. They aren't properly mixed nor mastered.
 
 #### Industrial City
 

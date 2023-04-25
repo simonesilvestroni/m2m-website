@@ -16,7 +16,7 @@ The other step I've taken was to reduce the number of key strokes necessary to h
 
 Less mental load is good.
 
-Also, the new dimmed customized color palette, similar to ProTools' is soothing to my eyes. Especially useful when coupled with [SWS auto-coloring tracks and regions](https://www.youtube.com/watch?v=YYUKduPumIM) based on common prefixes.
+Also, the new dimmed customized colour palette, similar to ProTools' is soothing to my eyes. Especially useful when coupled with [SWS auto-coloring tracks and regions](https://www.youtube.com/watch?v=YYUKduPumIM) based on common prefixes.
 
 What can be seen in the following screenshot:
 
