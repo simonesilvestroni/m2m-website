@@ -51,6 +51,6 @@ I also crafted a [parallel career in web development](https://simonesilvestroni.
 
 ## More info
 
-- Subscribe to my [RSS feeds]({{ site.url}}/rss/)
+- Subscribe to my [RSS feed]({{ site.url}}/rss/)
 - [Press photos](/press-photos/)
 - [Name and logo](/about/name-and-logo/)
