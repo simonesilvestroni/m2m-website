@@ -21,7 +21,7 @@ I also crafted a [parallel career in web development](https://simonesilvestroni.
 - My favourite bass player is [Andy Rourke](http://www.andyrourke.com).
 - After switching from analog to digital two decades ago, I've been working entirely in the box.
 - I see video games as the ultimate audio-visual narrative medium.
-- I wrote [a personal manifesto](/personal-manifesto/).
+- I wrote [a personal manifesto](/blog/personal-manifesto/).
 
 ## Accomplishments
 
