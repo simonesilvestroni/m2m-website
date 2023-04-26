@@ -38,6 +38,8 @@ It's a win-win and makes perfect sense to me: the site is mine, the landing page
 - Link and icons to several online accounts have been removed, and that includes Spotify, Soundcloud and a few others. I'm still on the fence about LinkedIn and Github, we'll see.
 - Reshuffled microformats code in the layouts, which made the [notes](/notes/) I use to send webmentions much more efficient and easy to use.
 - I've added my favourite bass player in the quick facts section of the [About page](/about/#quick-facts).
+- A few posts from 2002 and 2003 re-appeared in the blog. Someone on the internet called this _necroposting_.
+- A whole lot of work on accessibility was carried out, with [very nice results](/credits/#accessibility).
 - Finally, I've included a subset of my web development skills in here as well, because I realised how immensely useful they are when learning middleware audio implementation for video games, and also: they represent me too.
 
 ***
