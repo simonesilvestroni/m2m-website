@@ -2,7 +2,6 @@
 title: My experience releasing an album as an independent artist (part 2)
 date: '2023-03-20 10:23:20'
 last_modified_at: '2023-03-20 10:30:52'
-author: 'Simone Silvestroni'
 tags:
   - 'fediverse'
   - 'independent music'

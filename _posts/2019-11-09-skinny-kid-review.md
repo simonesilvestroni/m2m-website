@@ -2,7 +2,6 @@
 title: '‘Skinny Kid’ video reviewed by Indiebuddie'
 date: '2019-11-10'
 last_modified_at: '2019-11-09 23:30:54'
-author: 'Simone Silvestroni'
 tags:
   - 'alternative rock'
   - 'arrangement'

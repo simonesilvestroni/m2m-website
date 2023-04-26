@@ -2,7 +2,6 @@
 title: 'How I use the internet'
 date: '2022-11-23 17:21:41'
 last_modified_at: '2022-11-23 17:21:44'
-author: 'Simone Silvestroni'
 tags:
   - 'duckduckgo'
   - 'email'

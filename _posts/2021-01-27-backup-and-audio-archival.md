@@ -2,7 +2,6 @@
 title: 'Backup and audio archival'
 date: '2021-01-27'
 last_modified_at: '2021-11-08 21:37:08'
-author: 'Simone Silvestroni'
 tags:
   - 'archival'
   - 'audio preservation'

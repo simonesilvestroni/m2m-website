@@ -2,7 +2,6 @@
 title: 'Vocal editing'
 date: '2019-11-25'
 last_modified_at: '2022-01-27 12:39:54'
-author: 'Simone Silvestroni'
 tags: 
   - 'case study'
   - 'editing'

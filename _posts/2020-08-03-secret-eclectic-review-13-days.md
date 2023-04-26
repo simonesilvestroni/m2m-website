@@ -2,7 +2,6 @@
 title: 'Secret Eclectic review for ‘13 Days’'
 date: '2020-08-03'
 last_modified_at: '2021-11-12 13:55:12'
-author: 'Simone Silvestroni'
 tags:
   - 'alternative rock'
   - 'arrangement'

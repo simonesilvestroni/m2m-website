@@ -2,7 +2,6 @@
 title: 'Making mistakes (and owning them)'
 date: '2022-08-25 12:31:02'
 last_modified_at: '2022-08-25 12:31:02'
-author: 'Simone Silvestroni'
 tags:
   - 'italy'
   - 'migration'

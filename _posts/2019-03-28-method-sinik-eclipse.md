@@ -2,7 +2,6 @@
 title: 'New Production: ‘Eclipse’ by Method Sinik'
 date: '2019-04-20'
 last_modified_at: '2021-11-14 17:44:39'
-author: 'Simone Silvestroni'
 tags:
   - 'bass player'
   - 'bass'

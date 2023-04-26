@@ -2,7 +2,6 @@
 title: "Producing Commit To The List by Callum Gardner"
 date: '2017-05-15'
 last_modified_at: '2021-11-14 20:43:08'
-author: 'Simone Silvestroni'
 tags: 
   - 'bass player'
   - 'bass'

@@ -2,7 +2,6 @@
 title: '‘Shelter From A Storm’ by Antiquity'
 date: '2021-02-24'
 last_modified_at: '2021-11-08 20:00:10'
-author: 'Simone Silvestroni'
 tags:
   - 'alternative rock'
   - 'antiquity'

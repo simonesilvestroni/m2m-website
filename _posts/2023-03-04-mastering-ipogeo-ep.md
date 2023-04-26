@@ -2,7 +2,6 @@
 title: 'Mastering Ipogeo by IsadoraD'
 date: '2023-03-04 17:29:59'
 last_modified_at: '2023-03-04 17:30:04'
-author: 'Simone Silvestroni'
 tags: 
   - 'audio software'
   - 'case study'

@@ -2,7 +2,6 @@
 title: "Nova Music reviews ‘Skinny Kid’"
 date: '2020-02-21'
 last_modified_at: '2021-11-12 22:13:50'
-author: 'Simone Silvestroni'
 tags:
   - 'alternative rock'
   - 'arrangement'

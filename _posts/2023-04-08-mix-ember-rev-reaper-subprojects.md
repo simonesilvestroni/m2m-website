@@ -2,7 +2,6 @@
 title: 'I mixed ‘In Super-8’ by Ember Rev using Reaper’s subprojects'
 date: '2023-04-08 12:38:53'
 last_modified_at: '2023-04-08 14:50:44'
-author: 'Simone Silvestroni'
 tags:
   - 'audio software'
   - 'cambridge'

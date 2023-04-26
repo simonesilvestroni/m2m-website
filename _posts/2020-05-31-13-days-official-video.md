@@ -2,7 +2,6 @@
 title: '‘13 Days’ official video: the Cuban crisis'
 date: '2020-05-31'
 last_modified_at: '2021-11-12 18:29:23'
-author: 'Simone Silvestroni'
 tags:
   - 'alternative rock'
   - 'arrangement'

@@ -2,7 +2,6 @@
 title: Duolingo from Italian to English is not good
 date: '2023-01-25 10:18:37'
 last_modified_at: '2023-01-25 10:18:40'
-author: 'Simone Silvestroni'
 tags:
   - 'duolingo'
   - 'languages'

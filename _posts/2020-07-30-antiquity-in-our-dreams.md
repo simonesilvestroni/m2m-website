@@ -2,7 +2,6 @@
 title: '‘In Our Dreams’ by Antiquity'
 date: '2020-07-30'
 last_modified_at: '2021-11-12 15:25:40'
-author: 'Simone Silvestroni'
 tags:
   - 'alternative rock'
   - 'antiquity'

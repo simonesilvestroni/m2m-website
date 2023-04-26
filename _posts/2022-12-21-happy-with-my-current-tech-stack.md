@@ -2,7 +2,6 @@
 title: 'Happy with my current tech stack'
 date: '2022-12-21 01:05:18'
 last_modified_at: '2022-12-21 01:05:21'
-author: 'Simone Silvestroni'
 tags:
   - 'android'
   - 'macos'

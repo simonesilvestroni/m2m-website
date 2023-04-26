@@ -2,7 +2,6 @@
 title: 'Life after social networks'
 date: '2022-03-03'
 last_modified_at: '2022-03-03 14:59:00'
-author: 'Simone Silvestroni'
 tags:
   - 'behavioral modification'
   - 'facebook'

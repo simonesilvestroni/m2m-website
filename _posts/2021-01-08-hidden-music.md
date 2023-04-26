@@ -2,7 +2,6 @@
 title: 'Mixing Hidden Music'
 date: '2021-01-08'
 last_modified_at: '2023-03-02 21:43:15'
-author: 'Simone Silvestroni'
 tags: 
   - 'bandcamp'
   - 'cambridge'

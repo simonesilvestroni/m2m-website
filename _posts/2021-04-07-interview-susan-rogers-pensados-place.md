@@ -2,7 +2,6 @@
 title: "Interview to Susan Rogers at Pensado’s Place"
 date: '2021-04-07'
 last_modified_at: '2021-11-08 16:59:59'
-author: 'Simone Silvestroni'
 tags:
   - 'berklee'
   - 'dave pensado'

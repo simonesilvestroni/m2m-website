@@ -2,7 +2,6 @@
 title: 'A Trip To Freedom: from Berlin to Berlin'
 date: '2019-12-09 10:52:30'
 last_modified_at: '2021-11-17 11:39:35'
-author: 'Simone Silvestroni'
 tags:
   - 'alternative rock'
   - 'arrangement'

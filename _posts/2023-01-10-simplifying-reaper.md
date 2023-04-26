@@ -2,7 +2,6 @@
 title: Simplifying REAPER
 date: '2023-01-10 17:22:50'
 last_modified_at: '2023-01-10 17:22:52'
-author: 'Simone Silvestroni'
 tags:
   - 'audio software'
   - 'cockos'

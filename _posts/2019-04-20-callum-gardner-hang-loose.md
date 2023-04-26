@@ -2,7 +2,6 @@
 title: 'New Production: ‘Hang Loose’ by Callum Gardner'
 date: '2019-04-20'
 last_modified_at: '2021-11-14 17:44:39'
-author: 'Simone Silvestroni'
 tags:
   - 'bandcamp'
   - 'bass player'

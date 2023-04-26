@@ -2,7 +2,6 @@
 title: '‘Wriggle a Little’ new song production'
 date: '2019-07-01'
 last_modified_at: '2021-11-14 17:44:39'
-author: 'Simone Silvestroni'
 tags:
   - 'bandcamp'
   - 'bass player'

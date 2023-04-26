@@ -2,7 +2,6 @@
 title: 'Website redesign'
 date: '2022-01-24'
 last_modified_at: '2022-01-24 18:14:59'
-author: 'Simone Silvestroni'
 tags:
   - 'github'
   - 'indieweb'

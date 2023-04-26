@@ -2,7 +2,6 @@
 title: 'New reviews for ‘After 1989’'
 date: '2023-03-09 15:40:25'
 last_modified_at: '2023-03-09 15:40:28'
-author: 'Simone Silvestroni'
 tags:
   - 'alternative rock'
   - 'arrangement'

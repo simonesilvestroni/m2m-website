@@ -2,7 +2,6 @@
 title: '‘Love Field’ video: the JFK assassination'
 date: '2019-11-18'
 last_modified_at: '2021-11-12 23:20:26'
-author: 'Simone Silvestroni'
 tags:
   - 'alternative rock'
   - 'arrangement'

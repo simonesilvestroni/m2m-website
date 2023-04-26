@@ -2,7 +2,6 @@
 title: 'Towards my audio reel: field recording'
 date: '2023-02-24 18:22:18'
 last_modified_at: '2023-02-24 18:22:21'
-author: 'Simone Silvestroni'
 tags:
   - 'field recording'
   - 'reaper'

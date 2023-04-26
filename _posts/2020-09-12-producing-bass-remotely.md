@@ -2,7 +2,6 @@
 title: 'Producing bass remotely'
 date: '2020-09-12'
 last_modified_at: '2021-12-07 17:00:42'
-author: 'Simone Silvestroni'
 tags: 
   - 'bandcamp'
   - 'bass player'

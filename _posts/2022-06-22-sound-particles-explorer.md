@@ -2,7 +2,6 @@
 title: 'Explorer by Sound Particles'
 date: '2022-06-22 14:56:43'
 last_modified_at: '2022-06-22 14:56:49'
-author: 'Simone Silvestroni'
 tags:
   - 'audio software'
   - 'music production'

@@ -2,7 +2,6 @@
 title: 'Switch DAW: Logic to Pro Tools to REAPER (Pt 2)'
 date: '2021-04-03'
 last_modified_at: '2021-11-08 18:29:03'
-author: 'Simone Silvestroni'
 tags:
   - 'apple'
   - 'audio software'

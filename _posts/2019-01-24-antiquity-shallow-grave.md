@@ -2,7 +2,6 @@
 title: "‘Shallow Grave’ by Antiquity"
 date: '2019-01-24'
 last_modified_at: '2021-11-14 20:35:27'
-author: 'Simone Silvestroni'
 tags:
   - 'alternative rock'
   - 'antiquity'

@@ -2,7 +2,6 @@
 title: 'Ruff Trigger PlayStation2 video game'
 date: '2006-06-27'
 last_modified_at: '2021-12-07 17:00:42'
-author: 'Simone Silvestroni'
 tags:
   - '3d'
   - 'adaptive soundtrack'
