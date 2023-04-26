@@ -22,7 +22,8 @@ Music producer and sound designer [Minutes to Midnight](/about/) launched in 201
 
 ## Official music videos playlist
 
-{% include pattern-video-list.html id="PLR26aYJQa09PleTolHJU9AXACUHWsdu6s" %}
+{: .notice }
+[Watch all the videos from YouTube](https://www.youtube.com/playlist?list=PLR26aYJQa09PleTolHJU9AXACUHWsdu6s)&nbsp;→
 
 ## Industry reviews
 
