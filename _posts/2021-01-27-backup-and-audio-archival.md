@@ -4,11 +4,10 @@ date: '2021-01-27'
 last_modified_at: '2021-11-08 21:37:08'
 author: 'Simone Silvestroni'
 tags:
-  - 'workflow'
-  - '3-2-1 backup'
-  - 'backup'
   - 'archival'
   - 'audio preservation'
+  - 'backup'
+  - 'work'
 description: "Quick explanation of my strategy for saving and preserving data, and especially sound material, both for personal use and for work."
 ---
 ## Why offer audio archival to clients?

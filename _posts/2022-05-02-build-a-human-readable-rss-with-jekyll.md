@@ -3,14 +3,13 @@ title: 'A human-readable RSS feed with Jekyll'
 date: '2022-05-02 10:36:05'
 last_modified_at: '2022-05-02 19:00:32'
 tags: 
-  - rss
-  - jekyll
-  - liquid
-  - xml
-  - xslt
-  - web design
-  - web development
-  - featured
+  - 'featured'
+  - 'jekyll'
+  - 'liquid'
+  - 'rss'
+  - 'web development'
+  - 'xml'
+  - 'xslt'
 description: 'How I refactored my RSS feed from scratch using Jekyll functionalities and applying XSLT for presentation to render a human-readable XML feed.'
 syndication: true
 syndicate:
@@ -52,11 +51,13 @@ Finally, I created an XSL file to style the feed page into a human readable form
 - useful author information directly in each post, for easy contact information;
 - a "reply via email" link at the end of each post, visible on any RSS reader.
 
+{: .notice }
 {% include pattern-figure.html image="/assets/images/rss-feed-head.png" alt="Author contact info" caption="Author contact info at the top of a post" width="720" height="286" %}
 
+{: .notice }
 {% include pattern-figure.html image="/assets/images/rss-feed-footer.png" alt="A reply link at the bottom of each post" caption="A reply link at the bottom of each post" width="720" height="274" %}
 
-The CSS file attached to the XSL presentation is so small that I didn't bother to minify it. The sum of 3 files are less than 5 KB.
+The CSS file attached to the XSL presentation is so small that I didn't bother to minify it. The weight of the files amount to less than `5 KB`.
 
 ## Before & after
 

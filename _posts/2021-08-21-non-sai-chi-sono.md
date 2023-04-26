@@ -4,18 +4,20 @@ date: '2021-06-28 10:51:22'
 last_modified_at: '2021-11-25 17:19:45'
 author: 'Simone Silvestroni'
 tags: 
-  - "music release"
-  - "original music"
-  - "music production"
-  - "arrangement"
-  - "instrument"
-  - 'bass player'
-  - 'bassist'
+  - 'arrangement'
   - 'bandcamp'
-  - "mixing"
-  - "mastering"
-  - "pro tools"
-  - "case study"
+  - 'bass player'
+  - 'bass'
+  - 'bassist'
+  - 'case study'
+  - 'italy'
+  - 'master'
+  - 'mix'
+  - 'music production'
+  - 'music release'
+  - 'original music'
+  - 'pro tools'
+  - 'remix'
 description: "An old friend and collaborator asked me to contribute to an upcoming album with the remix of one of his songs. I co-produced, mixed and mastered ‘Non sai chi sono’."
 featimage: true
 thumbOnly: true

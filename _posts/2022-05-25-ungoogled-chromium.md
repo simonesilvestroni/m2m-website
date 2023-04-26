@@ -3,11 +3,12 @@ title: 'Ungoogled Chromium'
 date: '2022-05-25'
 last_modified_at: '2022-05-25 19:04:25'
 tags:
-  - chromium
-  - ungoogled
-  - browser
-  - privacy
-  - web development
+  - 'browser'
+  - 'chromium'
+  - 'google'
+  - 'privacy'
+  - 'ungoogled'
+  - 'web development'
 description: 'A brief list of steps taken to install and properly configure Ungoogled Chromium for pure web development testing purposes on macOS.'
 syndication: true
 syndicate:

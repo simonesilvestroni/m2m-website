@@ -3,13 +3,13 @@ title: 'Leaving the UK'
 date: '2020-10-21'
 last_modified_at: '2023-04-25 22:41:22'
 tags:
-  - eu
-  - italy
-  - uk 
-  - great britain
-  - britain
-  - brexit
-  - personal
+  - 'brexit'
+  - 'eu'
+  - 'great britain'
+  - 'england'
+  - 'italy'
+  - 'personal'
+  - 'uk'
 description: "I spent the last month and a half leaving the UK, followed by two lingering monsters: a global pandemic and a massive feeling of betrayal."
 ---
 ## Brexit

@@ -4,17 +4,16 @@ date: '2022-01-24'
 last_modified_at: '2022-01-24 18:14:59'
 author: 'Simone Silvestroni'
 tags:
-  - 'web design'
-  - 'web standards'
-  - 'jekyll'
-  - 'jamstack'
-  - 'netlify'
   - 'github'
   - 'indieweb'
-  - 'webmentions'
-  - 'web sustainability'
-  - 'web development'
+  - 'jamstack'
+  - 'jekyll'
+  - 'netlify'
   - 'small web'
+  - 'sustainability'
+  - 'web design'
+  - 'web development'
+  - 'webmentions'
 description: "Minutes to Midnight’s new redesigned website is easier to navigate and straight to the point. Built with Jekyll, Github and Netlify."
 ---
 ## Platform
@@ -32,9 +31,9 @@ The website is now part of [Indieweb](https://indieweb.org/), therefore it's cap
 
 ## Sustainability and performance
 
-The fight against a bloated web is a crusade I've been part of for a long time. See [this digest from Silvia Maggi](https://silviamaggidesign.com/design-digested/biased-ai/#webwaste) about the book _Webwaste_. Minutes to Midnight's previous website weighted around 730MB, while it's now shrunk to 12MB.
+The fight against a bloated web is a crusade I've been part of for a long time. See [this digest from Silvia Maggi](https://silviamaggidesign.com/design-digested/biased-ai/#webwaste) about the book _Webwaste_. Minutes to Midnight's previous website weighted around `730 MB`, while it's now shrunk to `26 MB`.
 
-The homepage is `100KB` uncompressed and loads in less than half a second.
+The homepage is `56 KB` uncompressed and loads in less than half a second.
 
 ## Accessibility
 
@@ -43,3 +42,6 @@ Besides being fully validated, the site doesn't have Javascript functionality pr
 ## Tracking and surveillance
 
 No cookies, no analytics, no tracking people.
+
+{: .notice }
+[A full case study is on my development website](https://simonesilvestroni.com/project-minutes-to-midnight/)&nbsp;→

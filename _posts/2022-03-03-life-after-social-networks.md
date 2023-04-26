@@ -4,14 +4,14 @@ date: '2022-03-03'
 last_modified_at: '2022-03-03 14:59:00'
 author: 'Simone Silvestroni'
 tags:
-  - 'facebook'
-  - 'twitter'
-  - 'instagram'
   - 'behavioral modification'
+  - 'facebook'
+  - 'featured'
+  - 'instagram'
+  - 'personal'
   - 'small web'
   - 'social media'
-  - 'personal'
-  - 'featured'
+  - 'twitter'
 description: "My point of view about the pros of being outside mainstream social networks for the last 19 months."
 ---
 At the beginning of August 2020 I [deleted all my social media accounts](/blog/escape-from-social-media/), except for YouTube. So, how has it been?

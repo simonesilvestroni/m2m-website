@@ -3,16 +3,17 @@ title: 'Escape from social media'
 date: '2020-08-01'
 last_modified_at: '2021-11-12 14:39:51'
 tags:
-  - addiction
-  - behavioral modification
-  - digital overload
-  - twitter 
-  - facebook
-  - instagram
-  - whatsapp
-  - social media
-  - jaron lanier
-  - reddit
+  - 'addiction'
+  - 'behavioral modification'
+  - 'digital overload'
+  - 'facebook'
+  - 'instagram'
+  - 'jaron lanier'
+  - 'personal'
+  - 'reddit'
+  - 'social media'
+  - 'twitter'
+  - 'whatsapp'
 description: "Finally, I’m leaving social media, Facebook, Twitter, Instagram, WhatsApp, Reddit, redirecting my attention and my time to something more productive."
 ---
 This post is a personal point of view, it’s not intended as an exhaustive analysis on what is going on with social media, nor am I trying to convince anybody. I’m just redirecting my attention and my time to something more productive.

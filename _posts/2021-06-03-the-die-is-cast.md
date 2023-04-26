@@ -4,19 +4,24 @@ date: '2021-06-03 10:50:53'
 last_modified_at: '2021-11-08 10:50:56'
 author: 'Simone Silvestroni'
 tags:
-  - "music release"
-  - "original music"
-  - "composition"
-  - "arrangement"
-  - "instrument"
-  - "music production"
-  - "mixing"
-  - "bassist"
-  - "bass"
-  - "bandcamp"
-  - "mastering"
-  - "reaper"
-  - "case study"
+  - 'arrangement'
+  - 'bandcamp'
+  - 'bass player'
+  - 'bass'
+  - 'bassist'
+  - 'brexit'
+  - 'case study'
+  - 'composition'
+  - 'ep'
+  - 'instrument'
+  - 'master'
+  - 'mix'
+  - 'music production'
+  - 'music release'
+  - 'original music'
+  - 'reaper'
+  - 'remix'
+  - 'uk'
 description: "An autobiographical rumination about migrating in Europe during a time of populism. Remixing the Cambridge-based band Ember Rev, co-produced with Antiquity."
 featimage: true
 featimage-name: 'the-die-is-cast.jpg'

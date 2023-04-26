@@ -4,22 +4,28 @@ date: '2006-06-27'
 last_modified_at: '2021-12-07 17:00:42'
 author: 'Simone Silvestroni'
 tags:
-  - "sound design"
-  - "game audio"
-  - "video games"
-  - "project management"
-  - "composition"
-  - "foley"
-  - "field recording"
-  - "mixing"
-  - "mastering"
-  - "middleware"
-  - "logic pro"
-  - "soundforge"
-  - "playstation"
-  - "xbox"
-  - "alienbrain"
-  - "case study"
+  - '3d'
+  - 'adaptive soundtrack'
+  - 'alienbrain'
+  - 'case study'
+  - 'composition'
+  - 'cubase'
+  - 'field recording'
+  - 'foley'
+  - 'game audio'
+  - 'italy'
+  - 'logic pro'
+  - 'mastering'
+  - 'middleware'
+  - 'milan'
+  - 'mixing'
+  - 'playstation'
+  - 'project management'
+  - 'sound design'
+  - 'sound effects'
+  - 'soundforge'
+  - 'video game'
+  - 'xbox'
 description: "As the audio team leader, I created and implemented sound effects and an adaptive soundtrack, bootstrapping the audio of the PlayStation2 video game ‘Ruff Trigger’."
 featimage: true
 featimage-name: 'ruff-trigger-playstation2-video-game.jpg'

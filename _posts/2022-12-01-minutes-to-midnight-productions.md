@@ -4,26 +4,27 @@ date: '2022-12-01 21:37:18'
 last_modified_at: '2022-12-01 21:37:23'
 author: 'Simone Silvestroni'
 tags:
-  - "music production"
-  - "bass"
-  - "editing"
-  - "reaper"
+  - 'antiquity'
+  - 'arrangement'
+  - 'bandcamp'
+  - 'bass'
   - 'bass player'
   - 'bassist'
-  - 'bandcamp'
-  - "pro tools"
-  - "logic pro"
-  - "reason"
-  - "strings"
-  - "arrangement"
-  - "mixing"
-  - "mastering"
-  - "antiquity"
-  - "ember rev"
-  - "callum gardner"
-  - "mally harpaz"
-  - "ciara clifford"
-  - "case study"
+  - 'callum gardner'
+  - 'case study'
+  - 'ciara clifford'
+  - 'editing'
+  - 'ember rev'
+  - 'independent music'
+  - 'indie'
+  - 'logic pro'
+  - 'mally harpaz'
+  - 'master'
+  - 'mix'
+  - 'music production'
+  - 'pro tools'
+  - 'reaper'
+  - 'reason'
 description: 'A collection of projects that don’t have a full-fledged case study. Including bass tracks, album mix, mastering and full production.'
 featimage: true
 thumbOnly: true

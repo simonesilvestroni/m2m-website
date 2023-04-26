@@ -4,14 +4,18 @@ date: '2020-07-30'
 last_modified_at: '2021-11-12 15:25:40'
 author: 'Simone Silvestroni'
 tags:
-  - 'music release'
   - 'alternative rock'
   - 'antiquity'
-  - 'gerald duchene'
+  - 'bandcamp'
   - 'bass player'
+  - 'bass'
   - 'bassist'
+  - 'gerald duchene'
   - 'independent music'
+  - 'indie'
+  - 'music release'
   - 'new york'
+  - 'usa'
 description: "‘In Our Dreams’ is the new single by Gerald Duchene. Vocals by Dan Ecclestone, bass by Minutes to Midnight."
 ---
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=984842794/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/in-our-dreams">In Our Dreams by Antiquity</a></iframe>' %}

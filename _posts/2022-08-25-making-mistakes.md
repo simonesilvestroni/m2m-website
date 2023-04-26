@@ -4,11 +4,10 @@ date: '2022-08-25 12:31:02'
 last_modified_at: '2022-08-25 12:31:02'
 author: 'Simone Silvestroni'
 tags:
+  - 'italy'
   - 'migration'
   - 'personal'
   - 'uk'
-  - 'italy'
-  - 'europe'
 description: 'A frustration-fueled personal post on how migrating back to Italy two years ago was not the solution.'
 ---
 As a two-year anniversary of *temporarily* [moving back to Italy](/blog/leaving-the-uk/) is approaching, I’m here ruminating on how naively optimistic we were when we took that decision. Nothing really went the way we hoped for, no matter how much we tried. 

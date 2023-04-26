@@ -4,16 +4,16 @@ date: '2017-06-20'
 last_modified_at: '2022-01-27 12:40:09'
 author: 'Simone Silvestroni'
 tags:
-  - "sound design"
-  - "recording"
-  - "editing"
-  - "sound restoration"
-  - "mixing"
-  - "reaper"
-  - "pro tools"
-  - "logic pro"
-  - "izotope rx"
-  - "case study"
+  - 'case study'
+  - 'editing'
+  - 'izotope rx'
+  - 'logic pro'
+  - 'mix'
+  - 'pro tools'
+  - 'reaper'
+  - 'recording'
+  - 'sound design'
+  - 'sound restoration'
 description: 'Painstakingly removing an insidious noise from a multi-track recording. Restoring a stereo room with drum doubling and drum replacing. Extracting single tracks from a stereo mix.'
 featimage: true
 featimage-name: 'drums-restoration.jpg'

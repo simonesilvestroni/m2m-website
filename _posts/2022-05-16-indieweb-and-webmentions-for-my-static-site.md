@@ -3,12 +3,11 @@ title: 'Indieweb and webmentions for my static site'
 date: '2022-05-16 12:47:30'
 last_modified_at: '2022-05-16 12:47:34'
 tags:
-  - 'front-end development'
+  - 'indieweb'
+  - 'jekyll'
   - 'small web'
   - 'web development'
-  - jekyll
-  - indieweb
-  - webmentions
+  - 'webmentions'
 description: 'A brief analysis on how I have implemented Indieweb principles and webmentions on my static Jekyll-based website, using the laziest method available.'
 syndication: true
 syndicate:

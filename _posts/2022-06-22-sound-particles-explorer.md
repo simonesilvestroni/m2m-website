@@ -4,12 +4,10 @@ date: '2022-06-22 14:56:43'
 last_modified_at: '2022-06-22 14:56:49'
 author: 'Simone Silvestroni'
 tags:
-  - 'audio tools'
-  - 'metadata'
+  - 'audio software'
   - 'music production'
   - 'sound design'
-  - 'sound particles'
-  - 'sound manager'
+  - 'sound effects'
 description: 'Explorer is a free audio application for managing sounds. Working with mono, stereo and surround, it can find, organize, edit and integrate files in a DAW.'
 syndication: true
 syndicate:

@@ -4,11 +4,11 @@ date: '2022-07-16 11:22:59'
 last_modified_at: '2022-07-16 11:23:02'
 author: 'Simone Silvestroni'
 tags:
+  - 'apple music'
+  - 'music industry'
+  - 'spotify'
   - 'streaming'
   - 'youtube music'
-  - 'apple music'
-  - 'spotify'
-  - 'music industry'
 description: 'Delegating music curation to soulless corporations doesn’t take into consideration how they can take it away on a whim. We’re losing control over the music we love.'
 syndication: yes
 syndicate:

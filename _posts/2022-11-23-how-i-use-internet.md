@@ -4,21 +4,19 @@ date: '2022-11-23 17:21:41'
 last_modified_at: '2022-11-23 17:21:44'
 author: 'Simone Silvestroni'
 tags:
-  - 'internet'
-  - 'web'
-  - 'firefox'
-  - 'rss'
-  - 'feedbin'
-  - 'netnewswire'
-  - 'social media'
-  - 'mastodon'
-  - 'fediverse'
-  - 'email'
-  - 'mailbox.org'
   - 'duckduckgo'
+  - 'email'
+  - 'fediverse'
+  - 'firefox'
+  - 'internet'
+  - 'mailbox.org'
+  - 'marginalia'
+  - 'mastodon'
+  - 'proton'
+  - 'rss'
+  - 'social media'
   - 'startpage'
   - 'technology'
-  - 'marginalia'
 description: "A brief description of how I use the internet in 2022, two years after leaving all mainstream social networks."
 ---
 This post is inspired by Michael Harley’s [_How I Internet_](https://obsolete29.com/posts/2022/11/07/how-i-internet/), which was inspired by Cassey Lottman’s, [_My Internet_](https://www.cassey.dev/posts/2022-11-05-my-internet/).
@@ -53,7 +51,7 @@ Since I’m [not following mainstream news](/blog/degrowth/), the categories in 
 
 ## YouTube
 
-Besides following subscriptions through RSS, I tend to save important videos offline. I use [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) for this.
+Besides following subscriptions through RSS and watching videos through a few Invidious instances, I tend to save important videos offline. I use [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) for this.
 
 ## Read later
 

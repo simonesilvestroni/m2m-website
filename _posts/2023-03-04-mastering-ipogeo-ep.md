@@ -4,14 +4,14 @@ date: '2023-03-04 17:29:59'
 last_modified_at: '2023-03-04 17:30:04'
 author: 'Simone Silvestroni'
 tags: 
-  - "music production"
-  - "mastering"
-  - "reaper"
-  - "daw"
-  - "editing"
-  - "subprojects"
-  - "stem mastering"
-  - "case study"
+  - 'audio software'
+  - 'case study'
+  - 'cockos'
+  - 'daw'
+  - 'editing'
+  - 'master'
+  - 'music production'
+  - 'reaper'
 description: "Using the subprojects feature in Reaper, I mastered the debut EP for IsadoraD, an Italian duo of multi-instrumentalists blending electronica, pop and indie."
 featimage: true
 thumbOnly: true

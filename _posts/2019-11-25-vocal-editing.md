@@ -4,17 +4,17 @@ date: '2019-11-25'
 last_modified_at: '2022-01-27 12:39:54'
 author: 'Simone Silvestroni'
 tags: 
-  - "sound design"
-  - "recording"
-  - "editing"
-  - "sound restoration"
-  - "mixing"
-  - "reaper"
-  - "pro tools"
-  - "logic pro"
-  - "izotope rx"
-  - "Soundtoys"
-  - "case study"
+  - 'case study'
+  - 'editing'
+  - 'izotope rx'
+  - 'logic pro'
+  - 'mix'
+  - 'pro tools'
+  - 'reaper'
+  - 'recording'
+  - 'sound design'
+  - 'sound restoration'
+  - 'soundtoys'
 description: "By manipulating pitch, formants and tempo, I moved a vocal performance from one song to a completely different one. Cleaning up historical speeches is a craft I honed for years."
 featimage: true
 featimage-name: 'vocal-editing.jpg'

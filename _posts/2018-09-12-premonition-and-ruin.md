@@ -4,14 +4,21 @@ date: '2018-09-12'
 last_modified_at: '2021-12-07 17:00:42'
 author: 'Simone Silvestroni'
 tags: 
-  - "music production"
-  - "music release"
-  - "mixing"
-  - "editing"
-  - "logic pro"
-  - "project management"
-  - "ember rev"
-  - "case study"
+  - 'bandcamp'
+  - 'cambridge'
+  - 'case study'
+  - 'editing'
+  - 'ember rev'
+  - 'folk rock'
+  - 'independent music'
+  - 'indie'
+  - 'izotope rx'
+  - 'logic pro'
+  - 'mix'
+  - 'music production'
+  - 'music release'
+  - 'project management'
+  - 'uk'
 description: "The second album by Cambridge-based band Ember Rev is a concept around a lament for the European ideal. I mixed and co-produced together with their songwriter Dan Ecclestone."
 featimage: true
 thumbOnly: true

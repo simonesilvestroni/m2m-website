@@ -4,13 +4,19 @@ date: '2021-01-08'
 last_modified_at: '2023-03-02 21:43:15'
 author: 'Simone Silvestroni'
 tags: 
-  - "music release"
-  - "music production"
-  - "mixing"
-  - "editing"
-  - "reaper"
-  - "project management"
-  - "case study"
+  - 'bandcamp'
+  - 'cambridge'
+  - 'case study'
+  - 'editing'
+  - 'independent music'
+  - 'indie'
+  - 'izotope rx'
+  - 'mix'
+  - 'music production'
+  - 'music release'
+  - 'project management'
+  - 'reaper'
+  - 'uk'
 description: "A delicate piano-centric album, ‘Hidden Music’ is another successful collaboration with Cambridge-based multi-instrumentalist Dan Ecclestone."
 featimage: true
 thumbOnly: true

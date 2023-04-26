@@ -3,10 +3,11 @@ title: 'Email migration from Proton to Mailbox'
 date: '2022-12-12 23:31:58'
 last_modified_at: '2022-12-12 23:32:01'
 tags:
-  - email
-  - proton
-  - mailbox
-  - internet
+  - 'email'
+  - 'internet'
+  - 'mailbox.org'
+  - 'personal'
+  - 'proton'
 description: 'How I moved my entire email, calendar and contacts ‘ecosystem’ from Proton to Mailbox. On both desktop and mobile.'
 ---
 The reason for embarking on such a task has a very short answer. When I chose Proton years ago, I wasn’t bothered by the feeling of being trapped in a walled garden. Now I am.

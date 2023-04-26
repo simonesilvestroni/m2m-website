@@ -3,9 +3,10 @@ title: Shifting the blame
 date: '2003-05-24'
 last_modified_at: '2023-04-10 22:59:59'
 tags:
+  - 'burnout'
   - 'personal'
+  - 'video game'
   - 'work'
-  - 'video games'
 description: 'A short work-related chat with a former colleague and now friend, during an unhappy crunch time.'
 ---
 > I don’t get it. How can a large part of 40 people sacrifice their lives for someone else’s dream? I don’t care anymore for the project we’ve been working on. I did, at the beginning. Now? Being genuine has become counterproductive. If I want to leave by 7PM, I either have to make up excuses, or lie. If I want time off I have to call in sick. A simple “I work hard, but after 9 hours I create more bugs than I should be fixing” doesn’t get me anywhere. I don’t like this direction, it’s not something I want for myself.
