@@ -35,7 +35,7 @@ It's a win-win and makes perfect sense to me: the site is mine, the landing page
 - There is now a full [sitemap](/sitemap/), comprising pages, posts, tags.
 - I wiped out my newsletter, including the archives and the subscription form. I'll be sending one last issue to subscribers, saying that the [blog RSS](/rss/) is the most meaningful place[^1] where to get updates.
 - A massive reorganisation of all tags has been done, although that's more for myself, I guess.
-- Link and icons to several online accounts have been removed, and that includes Spotify, Soundcloud and a few others. I'm still on the fence about LinkedIn and Github, we'll see.
+- Links and icons to several online accounts have been removed, and that includes Spotify, Soundcloud and a few others. I'm still on the fence about LinkedIn and Github, we'll see.
 - Reshuffled microformats code in the layouts, which made the [notes](/notes/) I use to send webmentions much more efficient and easy to use.
 - I've added my favourite bass player in the quick facts section of the [About page](/about/#quick-facts).
 - A few posts from 2002 and 2003 re-appeared in the blog. Someone on the internet called this _necroposting_.
