@@ -114,15 +114,15 @@ plugins:
 # -------------------
 mainSkills:
   - name: 'Bass'
-    url: '/blog/tag/bass-player/'
+    url: '/blog/tag/bass/'
   - name: 'Mixing'
-    url: '/blog/tag/mixing/'
+    url: '/blog/tag/mix/'
   - name: 'Sound design'
     url: '/blog/tag/sound-design/'
   - name: 'Game audio'
-    url: '/blog/tag/video-games/'
+    url: '/blog/tag/video-game/'
   - name: 'Mastering'
-    url: '/blog/tag/mastering/'
+    url: '/blog/tag/master/'
 
 completeSkills:
   - name: 'Recording'
