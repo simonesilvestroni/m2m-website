@@ -2,13 +2,13 @@
 layout: page
 title: 'Now'
 date: '2023-02-19 21:14:17'
-last_modified_at: '2023-04-07 22:30:21'
+last_modified_at: '2023-04-26 15:06:08'
 description: 'What am I focused on at this point in my life? A post on social media can’t express this, because status messages cannot convey the big picture.'
 permalink: '/now/'
 ---
 ## Where am I?
 
-After 10 years in England, I'm temporarily living between the shores of Lake Maggiore and Milan. The plan for 2023 is to go back to the UK, hopefully soon because <a href="{{ site.url }}/blog/making-mistakes/">I don't fit in my native country</a>.
+After 10 years in England, I'm temporarily living between the shores of Lake Maggiore and Milan. The plan for 2023 is to move back to the UK, hopefully soon because <a href="{{ site.url }}/blog/making-mistakes/">I don't fit in my native country</a>.
 
 ## Sound design
 
@@ -22,19 +22,19 @@ The short-term goal is to complete a good sound design reel.
 
 With the follow-up album to [_After 1989_](/work/music/after-1989/) currently in stand-by, I'm slowly working on the structure for the German remix of my song _Skinny Kid_, in collaboration with [Bea Henkel](https://beartemusic.com/the-story/).
 
-I've recently mixed an album by Ember Rev and the soundtrack for a documentary about cycling. Waiting for their releases.
+I've recently mixed an [album by Ember Rev](/blog/mix-ember-rev-reaper-subprojects/) and mastered the soundtrack for a documentary about cycling that's about to be released.
 
 ## Video games
 
-I'm a man of nostalgia, fond of quietness and rarefact ambiences, so currently playing [Gris](https://en.wikipedia.org/wiki/Gris) and [Journey](https://en.wikipedia.org/wiki/Journey_(2012_video_game)).
+I'm a man of nostalgia, fond of quietness and rarefact ambiences, so currently playing ~~[Gris](https://en.wikipedia.org/wiki/Gris) and [Journey](https://en.wikipedia.org/wiki/Journey_(2012_video_game))~~ all sorts of retro games, from old Arcade staples (_Scramble_, _Time Pilot_, _Puzzle Bobble_, _Mega Zone_, _Galaga_, _Super Mario_ etc) to a few PlayStation 2 releases from the early 2000s, which include _Jak and Daxter_, _Crash Bandicoot: The Wrath of Cortex_, _Mafia_ and [_Ico_](https://en.wikipedia.org/wiki/Ico).
 
 ## Reading
 
-I struggle to focus on one book at a time. My Kobo tells me I'm reading something in the range of 18 books. Even though I was trying to set my mind on [*Kallocain* by Karin Boye](https://en.wikipedia.org/wiki/Kallocain), it's currenlty on halt.
+I struggle to focus on one book at a time. My Kobo tells me I'm reading something in the range of 18 books. I put [*Kallocain* by Karin Boye](https://en.wikipedia.org/wiki/Kallocain) on hold, and switched to _This Is What It Sounds Like_ by Susan Rogers and Ogi ogas.
 
 ## Online communities
 
 I've been making fruitful conversations and connections on [Mastodon](https://indieweb.social/@m2m) and [Airwiggles](https://www.airwiggles.com/home).
 
 {: .notice }
-This is a _now page_, from a brilliant idea by Derek Sivers. If you have your own site, [you could make one, too](https://nownownow.com/about).
+This is a _now page_, from an idea by Derek Sivers. [You can make one, too](https://nownownow.com/about).
