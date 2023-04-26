@@ -101,7 +101,7 @@ Using Logic as the main DAW, I ran Cubase on the Dell as a secondary sequencer. 
 - Steinberg Cubase VST 4
 - [BIAS Peak audio](https://en.wikipedia.org/wiki/BIAS_Peak) editor
 - SoundForge and Vegas Pro audio and video editors
-- In-house MXE<sup>&reg;</sup> game engine & audio middleware
+- In-house [Wazábe<sup>&reg;</sup> game engine](https://www.gamesindustry.biz/natsume-and-playstosrsquos-conspiracy) & audio middleware
 - Xbox XACT audio middleware
 - Alienbrain assets manager
 
@@ -109,7 +109,7 @@ Using Logic as the main DAW, I ran Cubase on the Dell as a secondary sequencer. 
 
 ## Adaptive soundtrack
 
-Working closely with the audio programmers, I implemented an _adaptive soundtrack_ within the in-house game engine MXE<sup>&reg;</sup>. What we did was deploying stems divided in overlaying chunks. Similarly to what can be achieved today with modern audio middleware such as Wwise and FMOD, the layers could be triggered by specific game parameters based on different runtime situations, thus helping increase or decrease the tension.
+Working closely with the audio programmers, I implemented an _adaptive soundtrack_ within the in-house game engine Wazábe<sup>&reg;</sup>. What we did was deploying stems divided in overlaying chunks. Similarly to what can be achieved today with modern audio middleware such as Wwise and FMOD, the layers could be triggered by specific game parameters based on different runtime situations, thus helping increase or decrease the tension.
 
 ### Examples
 
