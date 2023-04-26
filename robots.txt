@@ -2,5 +2,9 @@
 layout: none
 ---
 User-Agent: ChatGPT-User
-Disallow: *
+User-Agent: AdsBot-Google
+User-Agent: Mediapartners-Google
+User-Agent: adidxbot
+Disallow: /
+
 Sitemap: {{ site.url}}/sitemap.xml
