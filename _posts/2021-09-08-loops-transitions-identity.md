@@ -10,7 +10,6 @@ tags:
   - 'personal'
   - 'small web'
   - 'sustainability'
-  - 'web design'
   - 'web development'
   - 'webmentions'
 description: "Following a process to recalibrate my self-identity after leaving social media, I’m going back to the roots and leave WordPress for Jekyll, joining the IndieWeb."

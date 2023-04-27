@@ -10,7 +10,6 @@ tags:
   - 'netlify'
   - 'small web'
   - 'sustainability'
-  - 'web design'
   - 'web development'
   - 'webmentions'
 description: "Minutes to Midnight’s new redesigned website is easier to navigate and straight to the point. Built with Jekyll, Github and Netlify."
