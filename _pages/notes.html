@@ -2,21 +2,22 @@
 layout: page
 title: Notes
 date: '2022-05-12'
-last_modified_at: '2023-04-23 16:57:48'
+last_modified_at: '2023-04-28 01:04:40'
 permalink: '/notes/'
 description: 'I’m using notes as Indieweb replies and likes sent through webmentions.'
 sitemap: false
 robots: 'noindex,follow'
 ---
-<ul class="list-hr">
+<ul class="list-hr-group">
   {% for note in site.notes reversed -%}
   <li>
     {%- if note.replyto -%}
-    <a href="{{ note.url }}">On {{ note.date | date: "%-d %b %Y %T" }} I replied to <code>{{ note.replytouser }}</code></a><br>
-    <time class="dt-published small dim" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %B %Y" }}</time>
+    <img src="/assets/images/reply.svg" alt="Reply">
+    <a href="{{ note.url }}">On <time class="dt-published dim" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %B %Y" }}</time> I replied</a> to <code>{{ note.replytouser }}</code><br>
     {%- elsif note.likeof %}
-    <a href="{{ note.url }}">I liked “{{ note.likeoftitle }}” by&nbsp;<code>{{ note.likeofuser }}</code></a><br>
-    <time class="dt-published small dim" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %B %Y" }}</time>
-    {%- endif %}</li>
+    <img src="/assets/images/like.svg" alt="Like">
+    <a href="{{ note.url }}">On <time class="dt-published dim" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %B %Y" }}</time> I liked <em>{{ note.likeoftitle }}</em></a> by&nbsp;<code>{{ note.likeofuser }}</code><br>
+    {%- endif %}
+  </li>
   {% endfor -%}
 </ul>
