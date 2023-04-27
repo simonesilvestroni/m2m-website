@@ -3,7 +3,7 @@ layout: blog
 title: 'Blog'
 date: '2021-11-06 14:11:45'
 last_modified_at: '2023-04-23 16:57:12'
-description: 'I’ve been running a blog since March 2002. I write about sound design, music production, video games, web development, sustainability and personal reflections.'
+description: 'I’ve been running a blog since March 2002. I write about sound, music, video games, web, sustainability and personal reflections.'
 ---
 <p>There are <strong>{{ site.posts | size }} posts</strong>. Webmentions, in the form of replies and likes, are <a href="/notes/">handled with notes</a>.</p>
 <div class="h-feed">
@@ -15,6 +15,10 @@ description: 'I’ve been running a blog since March 2002. I write about sound d
       <li><a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
     </ul>
+  </div>
+  <div class="notice">
+    <h2 id="main-topics">Main topics</h2>
+    <a class="button" href="{{ site.url }}/blog/tag/sound-design/">Sound Design</a> <a class="button" href="{{ site.url }}/blog/tag/music-release/">Music</a> <a class="button" href="{{ site.url }}/blog/tag/bass/">Bass</a> <a class="button" href="{{ site.url }}/blog/tag/video-game/">Video games</a> <a class="button" href="{{ site.url }}/blog/tag/web-development/">Web</a> <a class="button" href="{{ site.url }}/blog/tag/personal/">Personal Thoughts</a>
   </div>
   {%- for post in site.posts %}
   {%- if post -%}{% assign date = post.date %}
