@@ -53,7 +53,7 @@ Built with Jekyll `v4.2.2`.
   - Georgia (quotes)
   - Rounded Sans (labels)
 
-### Site stats
+### Site sustainability
 
 - The homepage loads in `0.4` seconds and weighs `45.9 KB` (uncompressed)
 - The entire source code is `1.1 MB`
