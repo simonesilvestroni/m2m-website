@@ -2,7 +2,7 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2023-04-19 12:55:11'
+last_modified_at: '2023-04-28 00:26:00'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
 permalink: '/uses/'
 ---
@@ -95,12 +95,12 @@ permalink: '/uses/'
 - Audiokinetic Wwise
 - FMOD studio
 - Unreal Engine
-- Unity, integrated sith Sublime Text 4
+- Unity, integrated sith Visual Studio Code
 
 In the past:
 
 - [Microsoft’s XACT for Xbox]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/#xbox)
-- In-house [MXE editor and middleware]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/)
+- In-house [Wazábe editor and middleware]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/)
 
 ## Players & utilities
 
@@ -111,16 +111,20 @@ In the past:
 - LosslessCut
 - Handbrake
 
-## Editing
+## Visual
 
 - Sketch v59
 - Pixelmator classic
 - Graphic Converter 12
 - ImageOptim
+
+## Editors
+
 - Sublime Text 4 ([read why](https://tonsky.me/blog/sublime/))
 - Obsidian
 - Typora
 - iA Writer
+- Visual Studio Code (for `C#` Unity projects)
 
 ## Browsers
 
@@ -144,6 +148,7 @@ In the past:
 
 - [Todo.txt methodology](https://github.com/todotxt) with Obsidian and the _Kanban_ plug-in
 - [Syncthing](https://syncthing.net/)
+- Alfred 5
 - Dropbox in the browser
 - Transmit
 - Carbon Copy Cloner
