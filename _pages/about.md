@@ -46,11 +46,11 @@ I also crafted a [parallel career in web development](https://simonesilvestroni.
   <p>{% for item in mainSkills -%}<a href="{{ item.url }}">{{ item.name }}</a>, {% endfor -%}{% for item in completeSkills -%}<span>{{ item.name }}</span>{% unless forloop.last%}, {% endunless %}{% if forloop.last %}.{% endif %}{% endfor -%}</p>
   <h2>Tools proficiency</h2>
   <p>{% for item in mainTools -%}<a href="{{ item.url }}">{{ item.name }}</a>, {% endfor -%}{% for item in completeTools -%}<span>{{ item.name }}</span>{% unless forloop.last%}, {% endunless %}{% if forloop.last %}.{% endif %}{% endfor -%}</p>
-  <p>Full list of the <a href="/uses/">equipment I use</a>.</p>
 </div>
 
 ## More info
 
 - Subscribe to my [RSS feed]({{ site.url}}/rss/)
-- [Press photos](/press-photos/)
-- [Name and logo](/about/name-and-logo/)
+- Full list of the [equipment I use]({{ site.url }}/uses/)
+- [Press photos]({{ site.url }}/press-photos/)
+- [Name and logo]({{ site.url }}/about/name-and-logo/)
