@@ -12,7 +12,7 @@ layout: default
       {{ page.description }}
     </p>
   </fieldset>
-  {% unless page.thumbOnly == true %}
+  {%- unless page.thumbOnly == true -%}
   {% if page.featimage == true %}
   <figure>
     <picture>
@@ -23,11 +23,11 @@ layout: default
     <figcaption class="p-name">{{ page.featimage-caption }}</figcaption>
   </figure>
   {% endif %}
-  {% endunless %}
+  {% endunless -%}
   <div class="e-content">
     {{ content }}
     <hr>
-    <p><a class="button" href="mailto:hello@minutestomidnight.co.uk?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a> or use <a href="https://indieweb.org/Webmention">webmentions</a>.</p>
+    <p><a class="button" href="mailto:hello@minutestomidnight.co.uk?subject={{ page.title | uri_escape }}" title="Reply to this post"><strong>Reply via email</strong></a> or use <a href="https://indieweb.org/Webmention">webmentions</a>.</p>
     <p class="small">Please note: I use non-intrusive client-side Javascript to render webmentions, therefore with Javascript disabled it's not possible to see comments and reactions.</p>
     <hr>
     <div>
