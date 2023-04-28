@@ -5,7 +5,6 @@ date: '2023-04-25'
 last_modified_at: '2023-04-25 23:46:21'
 description: 'A partial list of websites and blogs I enjoy reading through RSS feeds.'
 tldr: false
-GoogleBot: true
 permalink: '/links/'
 ---
 My personal list of blogs I read within a curated platform that has no algorithm. Or, as [Matthew Graybosch](https://starbreaker.org/links/) aptly describes it:
