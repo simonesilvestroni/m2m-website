@@ -5,9 +5,6 @@ date: '2021-11-06 13:41:57'
 last_modified_at: '2023-04-23 16:57:19'
 ---
 <article>
-  <header>
-    {%- include hcard-page.html -%}
-  </header>
   <p class="p-summary">{{ page.title }}, a digital polymath focused on high-quality audio productions since 1992.</p>
   <p class="e-content"><a href="/blog/">I write about</a> music production, sound design, web development, video games and how I use technology to translate ideas into an enjoyable experience.</p>
   <hr>
@@ -16,4 +13,5 @@ last_modified_at: '2023-04-23 16:57:19'
   <a class="big" href="{{ post.url }}" title="Read the post">{{ post.title }}</a><br>
   <p class="small">{{ post.date | date: "%d %b %Y" }}</p>
   {% endfor -%}
+  {% include hcard-page.html %}
 </article>
