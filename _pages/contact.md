@@ -2,14 +2,24 @@
 layout: page
 title: Contact
 date: '2021-11-08'
-last_modified_at: '2023-04-23 16:57:53'
+last_modified_at: '2023-04-28 11:28:10'
 description: 'Reaching out via email is always the best way to get in touch.'
 tldr: false
 permalink: '/contact/'
 ---
-The best and quickest way to [get in touch](mailto:hello@minutestomidnight.co.uk) is always email. If secure communication is needed, use my [PGP public key]({{ site.url }}/assets/files/key.pub).[^1] For my other online profiles, links are available in the footer.
+- The best and quickest way to [get in touch is **email**](mailto:hello@minutestomidnight.co.uk).
+- If secure communication is needed, use my [PGP public key]({{ site.url }}/assets/files/key.pub).[^1]
+- I'm also active on [Mastodon](https://indieweb.social/@m2m) and [Airwiggles](https://airwiggles.com).
 
-[^1]: Fingerprint: `DE83 606B EFEF 6726 05DE 3D4B D780 2B3D 11F5 85E5`.
+## Elsewhere
+
+I have accounts on other networks, although I don't necessarily use them to interact with people:
+
+<ul>
+{% for item in site.data.nav-elsewhere.menu -%}
+  <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+{% endfor %}
+</ul>
 
 ## Work together
 
@@ -19,5 +29,11 @@ The best and quickest way to [get in touch](mailto:hello@minutestomidnight.co.uk
 </div>
 <div class="notice">
   <h3>Audio projects</h3>
-  <p>For music production, sound design, mix, master or anything else <a href="mailto:hello@minutestomidnight.co.uk">reach out</a> via email, or <a href="https://www.linkedin.com/in/simonesilvestroni/">connect on LinkedIn</a>.</p>
+  <p>For music production, sound design, mix or master, <a href="mailto:hello@minutestomidnight.co.uk">reach out via email</a>.</p>
 </div>
+
+For anything else related to work, connect on [LinkedIn](https://www.linkedin.com/in/simonesilvestroni/).
+
+***
+
+[^1]: Fingerprint: `DE83 606B EFEF 6726 05DE 3D4B D780 2B3D 11F5 85E5`.
