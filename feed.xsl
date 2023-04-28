@@ -12,30 +12,30 @@
       </head>
       <body>
         <header>
-          <h1><svg class="rss-logo" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 256 256"><defs><linearGradient x1=".085" y1=".085" x2=".915" y2=".915" id="a"><stop offset="0" stop-color="#E3702D"/><stop offset=".107" stop-color="#EA7D31"/><stop offset=".35" stop-color="#F69537"/><stop offset=".5" stop-color="#FB9E3A"/><stop offset=".702" stop-color="#EA7C31"/><stop offset=".887" stop-color="#DE642B"/><stop offset="1" stop-color="#D95B29"/></linearGradient></defs><rect width="256" height="256" rx="55" ry="55" fill="#CC5D15"/><rect width="246" height="246" rx="50" ry="50" x="5" y="5" fill="#F49C52"/><rect width="236" height="236" rx="47" ry="47" x="10" y="10" fill="url(#a)"/><circle cx="68" cy="189" r="24" fill="#FFF"/><path d="M160 213h-34a82 82 0 0 0-82-82V97a116 116 0 0 1 116 116z" fill="#FFF"/><path d="M184 213A140 140 0 0 0 44 73V38a175 175 0 0 1 175 175z" fill="#FFF"/></svg><xsl:value-of select="/rss/channel/title"/></h1>
+          <h1><xsl:value-of select="/rss/channel/title"/></h1>
           <div class="aboutfeeds">
-            <p>This is a web feed, also known as an RSS feed. To know more, read <a href="https://aboutfeeds.com/" target="_blank"><strong>About Feeds</strong> ↗︎</a> by Matt Webb.</p>
-            <p><strong>Subscribe</strong> by copying the URL into your RSS reader.</p>
+            <p>This is a web feed that can be viewed in the browser. <strong>Subscribe</strong> by copying the URL into your RSS reader.</p>
+            <p>Read how <a href="/blog/build-a-human-readable-rss-with-jekyll/">I made this feed <strong>human-readable</strong></a>.</p>
           </div>
           <div class="head">
             <div class="avatar">
-              <img src="/assets/images/minutestomidnight-avatar-uphoto.png" alt="Avatar of Minutes to Midnight" width="128" height="128" />
+              <img src="/assets/images/favicons/favicon.svg" alt="Avatar of Minutes to Midnight" width="128" height="128" />
             </div>
             <div class="description">
               <p><xsl:value-of select="/rss/channel/description"/></p>
-              <p><a hreflang="en"><xsl:attribute name="href"><xsl:value-of select="/rss/channel/link"/></xsl:attribute>Visit Website &#x2192;</a></p>
+              <p><a hreflang="en"><xsl:attribute name="href"><xsl:value-of select="/rss/channel/link"/></xsl:attribute><strong>Visit the website</strong> &#x2192;</a></p>
             </div>
           </div>
         </header>
         <main>
-          <h2>Latest 20 posts</h2>
+          <h2><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 455.731 455.731" xml:space="preserve"><path style="fill:#f78422" d="M0 0h455.731v455.731H0z"/><path style="fill:#fff" d="M296.208 159.16C234.445 97.397 152.266 63.382 64.81 63.382v64.348c70.268 0 136.288 27.321 185.898 76.931 49.609 49.61 76.931 115.63 76.931 185.898h64.348c-.001-87.456-34.016-169.636-95.779-231.399z"/><path style="fill:#fff" d="M64.143 172.273v64.348c84.881 0 153.938 69.056 153.938 153.939h64.348c0-120.364-97.922-218.287-218.286-218.287z"/><circle style="fill:#fff" cx="109.833" cy="346.26" r="46.088"/></svg> Latest 20 posts</h2>
           <xsl:for-each select="/rss/channel/item">
             <article>
               <h3><a hreflang="en"><xsl:attribute name="href"><xsl:value-of select="link"/></xsl:attribute><xsl:value-of select="title"/></a></h3>
               <footer>Published: <time><xsl:value-of select="pubDate" /></time></footer>
             </article>
           </xsl:for-each>
-          <p class="about"><img src="/assets/images/favicons/favicon.svg" alt="Minutes to Midnight icon" width="24" height="24" /><a href="https://minutestomidnight.co.uk/about/">About Minutes to Midnight</a></p>
+          <p class="about"><img src="/assets/images/favicons/favicon.svg" alt="Minutes to Midnight icon" width="24" height="24" /><a href="/about/">About Minutes to Midnight</a></p>
         </main>
       </body>
     </html>
