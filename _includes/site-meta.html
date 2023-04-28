@@ -1,12 +1,62 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-{%- if page.robots %}
-<meta name="robots" content="{{ page.robots }}, noai, noimageai">
-{% else %}
-<meta name="robots" content="index, follow, noai, noimageai">
-{% endif -%}
-{%- if page.GoogleBot -%}
-<meta name="AdsBot-Google" content="noindex">
-{% endif -%}
-<title>{% include site-meta-title.html %}</title>
+{% if page.robots %}<meta name="robots" content="{{ page.robots }}, noai, noimageai">{% else %}<meta name="robots" content="index, follow, noai, noimageai">{% endif %}
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:title" content="{%- include site-title.html -%}">
+<meta property="og:url" content="{{ page.url | prepend: site.url }}">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_GB">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:image" content="{% if page.featimage == true and page.thumbOnly != true %}{{ site.url }}/assets/images/{{ page.featimage-name }}{% else -%}{{ site.logo | prepend: site.url }}{% endif %}">
+<meta property="og:image:alt" content="{% if page.featimage == true and page.thumbOnly != true %}{{ page.featimage-alt }}{% else -%}Minutes to Midnight logo{% endif %}">
+<meta name="pinterest" content="nopin">
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	{% if page.is_post -%}"@type": "BlogPosting"{%- else %}"@type": "WebSite"{%- endif %},
+	"name": "{{ site.title }}",
+	"headline": "{%- include site-title.html %}",
+	"url": "{{ site.url }}{{ page.url }}",
+	"description": "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}",
+	"keywords": "{% if page.tags %}{{ page.tags | join: ', ' }}{% else %}{{ site.keywords }}{% endif %}",
+	{%- assign tagArchive = page.type | where: 'post.type', 'tag' -%}
+	{% unless tagArchive %}
+	"datePublished": "{{ page.date }}",
+	"dateModified": "{{ page.last_modified_at }}",
+	{% endunless -%}
+	"author": {
+		"@type": "Person",
+		"name": "Simone Silvestroni",
+		"givenName": "Simone",
+		"familyName": "Silvestroni"
+	},
+	"mainEntityOfPage": {
+		"@type": "WebPage",
+		"@id": "{{ site.url }}{{ page.url }}"
+	},
+	{%- if page.featimage == true and page.thumbOnly != true %}
+	"image": {
+		"@type": "ImageObject",
+		"width": "1024",
+		"height": "765",
+		"url": "{{ site.url }}/assets/images/{{ page.featimage-name }}"
+	},
+	{%- else %}
+	"image": {
+		"@type": "ImageObject",
+		"width": "1200",
+		"height": "628",
+		"url": "{{ site.url }}{{ site.logo }}"
+	},
+	{%- endif %}
+	"sameAs": [
+		"https://indieweb.social/@m2m",
+		"https://minutestomidnight.bandcamp.com/",
+		"https://www.youtube.com/@m2m",
+		"https://github.com/simonesilvestroni/",
+		"https://www.linkedin.com/in/simonesilvestroni/"
+	]
+}
+</script>
