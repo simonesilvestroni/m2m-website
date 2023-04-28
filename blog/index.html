@@ -5,43 +5,47 @@ date: '2021-11-06 14:11:45'
 last_modified_at: '2023-04-23 16:57:12'
 description: 'I’ve been running a blog since March 2002. I write about sound, music, video games, web, sustainability and personal reflections.'
 ---
-<p>There are <strong>{{ site.posts | size }} posts</strong>. I use <a href="/notes/">notes to reply and like</a> other people posts through webmentions.</p>
+<ul>
+	<li>There are <strong>{{ site.posts | size }} posts</strong>.</li>
+	<li>I use <a href="/notes/">notes to reply and like</a> other people posts through webmentions.</li>
+	<li>Follow updates by subscribing to the <a href="{{ site.url }}/feed.xml">full-text RSS feed</a>, which can also be viewed in the browser.</li>
+</ul>
+<div class="h-feed notice">
+	<h2 id="featured-posts">Featured posts</h2>
+	{%- assign featuredPosts = site.posts | where_exp:'post','post.tags contains "featured"' | sort: date | reverse -%}
+	<ul class="list-hr">
+		{%- for post in featuredPosts %}
+		<li><a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a></li>
+		{% endfor %}
+	</ul>
+</div>
+<div class="notice">
+	<h2 id="main-topics">Main topics</h2>
+	<a href="{{ site.url }}/blog/tag/sound-design/">SOUND DESIGN</a> &middot; <a href="{{ site.url }}/blog/tag/music-release/">MUSIC</a> &middot; <a href="{{ site.url }}/blog/tag/bass/">BASS</a> &middot; <a href="{{ site.url }}/blog/tag/video-game/">VIDEO GAMES</a> &middot; <a href="{{ site.url }}/blog/tag/web-development/">WEB</a> &middot; <a href="{{ site.url }}/blog/tag/personal/">PERSONAL&nbsp;THOUGHTS</a>
+</div>
 <div class="h-feed">
-  <div class="notice">
-    <h2 id="featured-posts">Featured posts</h2>
-    {%- assign featuredPosts = site.posts | where_exp:'post','post.tags contains "featured"' | sort: date | reverse -%}
-    <ul>
-      {%- for post in featuredPosts %}
-      <li><a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
-  <div class="notice">
-    <h2 id="main-topics">Main topics</h2>
-    <a href="{{ site.url }}/blog/tag/sound-design/">SOUND DESIGN</a> &middot; <a href="{{ site.url }}/blog/tag/music-release/">MUSIC</a> &middot; <a href="{{ site.url }}/blog/tag/bass/">BASS</a> &middot; <a href="{{ site.url }}/blog/tag/video-game/">VIDEO GAMES</a> &middot; <a href="{{ site.url }}/blog/tag/web-development/">WEB</a> &middot; <a href="{{ site.url }}/blog/tag/personal/">PERSONAL&nbsp;THOUGHTS</a>
-  </div>
-  {%- for post in site.posts %}
-  {%- if post -%}{% assign date = post.date %}
-  {%- elsif page -%}{% assign date = page.date %}
-  {%- endif -%}
-  {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-  {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-    {% if forloop.first %}
-    <h2 id="{{ this_year }}-ref">{{ this_year }}</h2>
-    <ul class="list-hr">
-    {% endif %}
-      <li>
-        <a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark class="small">CASE&nbsp;STUDY</mark>{% endif %}<br>
-        <time class="dt-published small dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time>
-      </li>
-      {% if forloop.last %}
-    </ul>
-    {% else %}
-    {% if this_year != next_year %}
-    </ul>
-    <h2 id="{{ next_year }}-ref">{{ next_year }}</h2>
-    <ul class="list-hr">
-    {% endif %}
-    {% endif %}
-  {% endfor %}
+	{%- for post in site.posts %}
+	{%- if post -%}{% assign date = post.date %}
+	{%- elsif page -%}{% assign date = page.date %}
+	{%- endif -%}
+	{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+	{% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+		{% if forloop.first %}
+		<h2 id="{{ this_year }}-ref">{{ this_year }}</h2>
+		<ul class="list-hr">
+		{% endif %}
+			<li>
+				<a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark class="small">CASE&nbsp;STUDY</mark>{% endif %}<br>
+				<time class="dt-published small dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time>
+			</li>
+			{% if forloop.last %}
+		</ul>
+		{% else %}
+		{% if this_year != next_year %}
+		</ul>
+		<h2 id="{{ next_year }}-ref">{{ next_year }}</h2>
+		<ul class="list-hr">
+		{% endif %}
+		{% endif %}
+	{% endfor %}
 </div>
