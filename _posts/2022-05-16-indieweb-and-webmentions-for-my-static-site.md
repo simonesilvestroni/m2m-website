@@ -55,7 +55,7 @@ Note: to use GitHub, it’s necessary to add a `<link rel="me">` with the profil
 
 After clicking the green button, I signed the provided encrypted text with my private GPG key, which logged me in as _me_. This needed to be done once, or whenever I'm logged out from IndieAuth. Webmention.io dashboard was now up and running. Time to copy the code required to start accepting webmentions.
 
-The following code is included in a [partial named `site-head.html`](https://github.com/simonesilvestroni/m2m-website/blob/master/_includes/site-head.html):
+The following code is included in the [default layout](https://github.com/simonesilvestroni/m2m-website/blob/main/_layouts/default.html):
 
 ```html
 <link rel="webmention" href="https://webmention.io/minutestomidnight.co.uk/webmention" />
