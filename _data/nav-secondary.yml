@@ -5,9 +5,6 @@ menu:
   - name: Manifesto
     link: /blog/personal-manifesto/
     desc: 'I set of principles I stand for'
-  - name: RSS
-    link: /feed.xml
-    desc: 'Subscribe to my blog via this RSS feed'
   - name: Links
     link: /links/
     desc: 'My Blogroll'
