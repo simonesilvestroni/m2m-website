@@ -4,7 +4,7 @@ layout: default
 <article>
 	<header>
 		<h1><span class="p-category">{{ page.title }}</span>: {{ page.date | date: "%-d %B %Y %T" }}</h1>
-		<span class="p-author h-card"><img class="u-photo" src="{{ site.url }}/assets/images/simonesilvestroni-uphoto.png" alt="Avatar of Simone Silvestroni" width="28" height="28"> <a class="p-name u-url" href="{{ site.url }}/about/" rel="author">Simone Silvestroni</a></span>&nbsp;&middot;&nbsp;<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a rel="me" class="u-url u-uid dim" href="{{ site.url }}{{ page.url }}">{{ page.date | date: "%-d %B %Y" }}</a></time>
+		<span class="p-author h-card"><img class="u-photo" src="{{ site.url }}/assets/images/simonesilvestroni-uphoto.png" alt="Avatar of Simone Silvestroni" width="28" height="28"> <a class="p-name u-url u-uid" rel="me" href="{{ site.url }}{{ page.url }}" rel="author">Simone Silvestroni</a></span>&nbsp;&middot;&nbsp;<time class="dt-published dim" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %B %Y" }}</time>
 	</header>
 	<fieldset class="tldr">
 		<legend>
