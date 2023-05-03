@@ -45,7 +45,7 @@
 		<br>
 		<a href="https://nonbot.org/pledged/view/9911ce87-628e-4e2e-b36d-2d0c2b43cf9d"><img width="96" height="96" src="{{ site.url }}/assets/images/nonbot_pledged_logo.svg" alt="Human-made Content"></a>
 	</footer>
-	{%- if page.url contains '/search' or page.url contains '404.html' -%}
+	{%- if page.url contains '/search' or page.url contains '404.html' or page.url contains '/sitemap' -%}
 	{% if jekyll.environment == "production" %}
 	<script src="/assets/js/search-m2m.min.js"></script>
 	{% else %}
