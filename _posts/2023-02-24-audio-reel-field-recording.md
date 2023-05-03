@@ -8,6 +8,7 @@ tags:
   - 'reel'
   - 'sound design'
   - 'sound effects'
+  - 'video game'
   - 'zoom h5'
 description: 'Field recording is great fun, especially when done with a precise plan.'
 featimage: true
