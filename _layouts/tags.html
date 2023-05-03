@@ -11,7 +11,7 @@ layout: default
 		{%- if post -%}{% assign date = post.date %}
 		{%- elsif page -%}{% assign date = page.date %}
 		{%- endif -%}
-		<article class="h-entry">
+		<article>
 			<h2 class="p-name"><a href="{{ post.url }}" title="Read the post ‘{{ post.title }}’">{{ post.title }}</a></h2>
 			<p class="dim"><time class="dt-published small" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time></p>
 			<div class="e-content">
