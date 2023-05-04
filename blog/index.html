@@ -11,15 +11,17 @@ description: 'I’ve been running a blog since March 2002. I write about sound, 
 	<li>Follow updates by subscribing to the <a href="{{ site.url }}/feed.xml">full-text RSS feed</a>, which can also be viewed in the browser.</li>
 	<li>My main topics are: <a href="{{ site.url }}/blog/tag/sound-design/">sound design</a>, <a href="{{ site.url }}/blog/tag/music-release/">music</a>, <a href="{{ site.url }}/blog/tag/bass/">bass</a>, <a href="{{ site.url }}/blog/tag/video-game/">video games</a>, <a href="{{ site.url }}/blog/tag/web-development/">web</a>, <a href="{{ site.url }}/blog/tag/personal/">personal thoughts</a>.</li>
 </ul>
-<div class="h-feed notice">
+<hr>
+<div class="h-feed">
 	<h2 id="featured-posts">Featured posts</h2>
 	{%- assign featuredPosts = site.posts | where_exp:'post','post.tags contains "featured"' | sort: date | reverse -%}
-	<ul class="list-hr">
+	<ul>
 		{%- for post in featuredPosts %}
 		<li><a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a></li>
 		{% endfor %}
 	</ul>
 </div>
+<hr>
 <div class="h-feed">
 	{%- for post in site.posts %}
 	{%- if post -%}{% assign date = post.date %}
@@ -37,9 +39,11 @@ description: 'I’ve been running a blog since March 2002. I write about sound, 
 			</li>
 			{% if forloop.last %}
 		</ul>
+		<hr>
 		{% else %}
 		{% if this_year != next_year %}
 		</ul>
+		<hr>
 		<h2 id="{{ next_year }}-ref">{{ next_year }}</h2>
 		<ul class="list-hr">
 		{% endif %}
