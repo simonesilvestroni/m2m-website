@@ -2,7 +2,7 @@
 layout: page
 title: 'Credits'
 date: '2023-01-14 13:49:31'
-last_modified_at: '2023-04-21 00:01:44'
+last_modified_at: '2023-05-05 19:41:15'
 description: 'All about this website: tools, benchmarks, a note about copyright and a thank you to people that inspired me.'
 tldr: false
 permalink: '/credits/'
@@ -45,13 +45,12 @@ Built with Jekyll `v4.2.2`.
 
 ### Visual
 
-- Inline SVG for logos and icons
+- SVGs for logos and icons
 - [WebP images](/blog/implementing-webp-images-in-jekyll/), with optimised fallbacks
 - System stacks typography (with fallbacks):
-  - Geometric Humanist
+  - [Humanist](https://github.com/system-fonts/modern-font-stacks#humanist)
+  - [Neo Grotesk](https://github.com/system-fonts/modern-font-stacks#neo-grotesque) (labels, dates, quotes)
   - UI-monospace
-  - Georgia (quotes)
-  - Rounded Sans (labels)
 
 ### Site sustainability
 
