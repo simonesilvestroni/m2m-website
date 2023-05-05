@@ -6,14 +6,14 @@ last_modified_at: '2023-04-17 11:30:14'
 description: 'A full map of the website, including pages, blog posts, case studies and tags.'
 permalink: '/sitemap/'
 ---
-<fieldset>
-  <legend><strong>Dynamic search</strong></legend>
-  <form role="search" id="contact-form" action="">
-    <label class="small" for="search">Start typing to see the results:</label>
-    <input aria-label="Search" id="search" type="search" name="search" placeholder="e.g. Reaper" autocomplete="off" />
-    <ul id="list"></ul>
-  </form>
-</fieldset>
+<h2>Dynamic search</h2>
+<form role="search" id="contact-form" action="">
+  <label class="small" for="search">Start typing to see the results:</label>
+  <input aria-label="Search" id="search" type="search" name="search" placeholder="e.g. Reaper" autocomplete="off" />
+  <ul id="list"></ul>
+</form>
+
+<br>
 
 {%- assign pages = site.pages | where:"layout", "page" -%}
 {%- assign blogpage = site.pages | where:"layout", "blog"  -%}
