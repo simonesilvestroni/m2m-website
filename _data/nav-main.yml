@@ -1,16 +1,16 @@
 menu:
-  - name: About
-    link: /about/
-    desc: 'Who I am'
-  - name: Blog
-    link: /blog/
-    desc: 'My journal, from 2002'
-  - name: Work
-    link: /work/
-    desc: 'Recent projects'
   - name: Now
     link: /now/
     desc: 'What have I been up to?'
+  - name: About
+    link: /about/
+    desc: 'Who I am'
+  - name: Work
+    link: /work/
+    desc: 'Recent projects'
+  - name: Blog
+    link: /blog/
+    desc: 'My journal, from 2002'
   - name: Contact
     link: /contact/
     desc: 'Get in touch'
