@@ -8,6 +8,10 @@ tags:
   - 'small web'
   - 'web development'
 description: 'I changed the website with a under-the-hood reworking. It involved a structure clean-up, CSS polishing, and a refactor of my alt site.'
+syndication: true
+syndicate:
+  - name: Mastodon
+    url: https://indieweb.social/@m2m/110265774778640661
 ---
 Having two websites, each with its own blog and overlapping content, didn't agree with me. I still wanted to keep my [web development site](https://simonesilvestroni.com/) separate. The best course of action was to migrate posts and relevant content in here, leaving the other site as some barebones *resume*.
 
