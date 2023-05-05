@@ -16,7 +16,6 @@ tags:
   - 'concentration camp'
   - 'cold war'
   - 'composition'
-  - 'featured'
   - 'independent music'
   - 'indie'
   - 'germany'

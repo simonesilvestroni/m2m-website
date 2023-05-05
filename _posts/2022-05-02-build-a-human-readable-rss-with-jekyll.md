@@ -3,7 +3,6 @@ title: 'A human-readable RSS feed with Jekyll'
 date: '2022-05-02 10:36:05'
 last_modified_at: '2022-05-02 19:00:32'
 tags: 
-  - 'featured'
   - 'jekyll'
   - 'liquid'
   - 'rss'
