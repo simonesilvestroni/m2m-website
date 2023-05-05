@@ -32,11 +32,7 @@ permalink: '/now/'
 
 ## Reading
 
-I struggle to focus on one book at a time. I just started [_Internet for the people_](https://www.versobooks.com/en-gb/products/2674-internet-for-the-people) by Ben Tarnoff.
-
-## Online communities
-
-I've been making fruitful conversations and connections on [Mastodon](https://indieweb.social/@m2m) and [Airwiggles](https://www.airwiggles.com/home).
+I just started [_Internet for the people_](https://www.versobooks.com/en-gb/products/2674-internet-for-the-people) by Ben Tarnoff.
 
 {: .notice }
 This is a _now page_, from an idea by Derek Sivers. [You can make one, too](https://nownownow.com/about).
