@@ -2,7 +2,7 @@
 layout: page
 title: 'About'
 date: '2022-01-14'
-last_modified_at: '2023-04-23 16:56:59'
+last_modified_at: '2023-05-06 00:11:28'
 description: 'A graduated bassist and producer, I founded Minutes to Midnight to release my music and provide services such as sound design, game audio, bass tracks and production.'
 permalink: '/about/'
 ---
@@ -16,7 +16,7 @@ I also crafted a [parallel career in web development](https://simonesilvestroni.
 - Freelanced as a bass player after graduating at the CPM Music Institute in 1995.
 - I lived and worked for 16 years in Milan.
 - Participated to the Game Developer Conference in 2002, where I witnessed to the launch of Steam by Valve and joined as a Bronze Member the [Game Audio Guild Network](/work/sound-design/ruff-trigger-playstation2-game/#game-developer-conference-and-gang) on the day of its foundation. At the same time, I started my first blog, journaling about working long hours on a console video game.
-- Moved to the UK in 2011, first London then Cambridge.
+- Moved to the UK in 2011 (London and Cambridge).
 - Graduated at the Berklee College of Music (audio mastering and music production) in 2017.
 - My favourite bass player is [Andy Rourke](http://www.andyrourke.com).
 - After switching from analog to digital two decades ago, I've been working entirely in the box.
@@ -50,7 +50,6 @@ I also crafted a [parallel career in web development](https://simonesilvestroni.
 
 ## More info
 
-- Subscribe to my [RSS feed]({{ site.url}}/rss/)
-- Full list of the [equipment I use]({{ site.url }}/uses/)
+- [Equipment I use]({{ site.url }}/uses/)
 - [Press photos]({{ site.url }}/press-photos/)
 - [Name and logo]({{ site.url }}/about/name-and-logo/)
