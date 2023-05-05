@@ -10,7 +10,7 @@ tags:
   - 'web development'
   - 'xml'
   - 'xslt'
-description: 'How I refactored my RSS feed from scratch using Jekyll functionalities and applying XSLT for presentation to render a human-readable XML feed.'
+description: 'How I refactored my RSS feed from scratch using Jekyll functionalities, and applying XSLT for presentation to render a human-readable XML feed.'
 syndication: true
 syndicate:
   - name: IndieNews
@@ -25,15 +25,15 @@ A few days ago, while reading my Mastodon timeline, I stumbled on an [article by
 - [styled OPML blogrolls](https://rubenerd.com/omake.opml) that can be imported into an RSS reader, by Ruben Schade;
 - [styled RSS feeds](http://interconnected.org/home/feed) to better explain what a web feed is, by Matt Webb.
 
-I’d forgotten about [XSLT](https://en.wikipedia.org/wiki/XSLT) and its potential applications and what I saw in the above examples were inspiring to me. Also, I kind of ignored how [OPML](http://opml.org/spec2.opml), which I’ve been using as a format to backup and export/import my RSS feeds, can be styled and used as a human-readable experience on the web.
+I’d forgotten about [XSLT](https://en.wikipedia.org/wiki/XSLT) with its potential applications, so the above examples inspired me. Also, I didn't know that [OPML](http://opml.org/spec2.opml), which I’ve been using to import and export my RSS feeds, could be styled and used as a human-readable experience on the web.
 
-After a few more clicks, I landed on the OPML [blogroll on Maya's site](https://maya.land/blogroll.opml). As I stated on Mastodon, probably the best and most useful blogroll I’ve ever seen. Not only they explain why each link might be interesting to anyone visiting, it’s also beautifully formatted and capable of being imported in my RSS reader.
+After a few more clicks, I landed on the OPML [blogroll on Maya's site](https://maya.land/blogroll.opml) — likely the best and most useful blogroll I’ve ever seen. Not only they explain why each link might be interesting to anyone visiting, it’s also beautifully formatted and capable of being imported in my RSS reader.
 
-This prompted me to apply styles to my RSS feed and give a human readable format to it. It was surprisingly easy, and I wonder why didn't I do it sooner. I’ve been using the widespread feed plugin for Jekyll, though since my main motivation for [leaving WordPress]({{ site.url }}/blog/loops-transitions-identity/) was to take full control over my code, I should have managed the feed myself rather than relying on a third party.
+This prompted me to apply styles to my RSS feed and give a human readable format to it. It was surprisingly easy, and I wonder why didn't I do it sooner. Since my main motivation for [leaving WordPress]({{ site.url }}/blog/loops-transitions-identity/) was to take full control over my code, I should have managed the feed myself rather than relying on a widespread Jekyll plug-in.
 
 ## Using Jekyll functionality
 
-Since I wanted to have both blog posts and projects — a Jekyll collection — I created a loop that would exploit the layout type rather than the content type, iterating 20 times (my configuration value for `posts_limit`) through the resulting variable:
+I wanted to have both blog posts and projects (a Jekyll collection), hence, I created a loop that would exploit the layout type rather than the content type, iterating 20 times (my configuration value for `posts_limit`) through the resulting variable:
 
 ```liquid
 {% raw %}{% assign projects = site.documents | where:"layout", "project" %}
@@ -45,7 +45,7 @@ Since I wanted to have both blog posts and projects — a Jekyll collection — 
     </item>
 ```
 
-Finally, I created an XSL file to style the feed page into a human readable format, following the aforementioned example by Matt Webb. Since I rewrote the RSS feed from scratch, I also decided to add new features to the `.xsl` file:
+Finally, I created an XSL file to style the feed page into a human readable format, following the aforementioned example. Since I was rewriting the RSS feed from scratch, I added new features to the `.xsl` file:
 
 - an introduction to who I am at the top of the main feed;
 - useful author information directly in each post, for easy contact information;
