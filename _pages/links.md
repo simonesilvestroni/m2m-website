@@ -16,6 +16,7 @@ My personal list of blogs I read within a curated platform that has no algorithm
 {: .list-hr }
 - [**Ye Olde Blogroll**](https://blogroll.org/): a humanly curated list of fine personal & independent blogs that are updated regularly. _No algorithms ever_. Managed by [Ray](https://alongtheray.com/).
 - [**Ooh Directory**](https://ooh.directory/): a collection of sites, bigger than a personal list of favourites, which feature an RSS feed and are updated often. Managed by [Phil Gyford](https://www.gyford.com/).
+- [**Search My Site**](https://searchmysite.net/): a niche search, focussing on the "indieweb" or "small web" or "digital gardens", i.e. non-commercial content, primarily personal and independent websites. It features a sortable RSS feed of the latest posts. Created by Michael Lewis.
 
 ## Audio
 
@@ -43,6 +44,7 @@ My personal list of blogs I read within a curated platform that has no algorithm
 - [**Zinzy Waleson Geene**](https://www.zinzy.website): she works at the intersection of research, design, language, and strategy. At her current job she's taking an interdisciplinary approach to sustainable educational data. I love the content on her website and the fact she's not afraid to experiment with brutalist design, which I'm very fond of.
 - [**Thomas Michael Semmler**](https://helloyes.dev/): very recent addition on my Mastodon, I've been hit by his openness and the opinionated takes on the web design industry, which I wholeheartedly agree with.
 - [**Adrianna Tan**](https://popagandhi.com): she's a recent discovery through Mastodon. A product manager, she's been blogging since 2003, which coincidentally is the same year when I started my first online journal. She advocates for an open web and her website is a magnificent example of minimalist design done well.
+- [**Matthey Graybosch**](https://starbreaker.org/): the author of the novels _Without Bloodshed_ and _Silent Clarion_, he has a day job as a software developer. Not afraid to tell things by their name, he runs his personal website with the same directness. I've been devouring his posts, waiting to start reading his newest work in progress, _Spiral Architect_.
 
 ## Video games
 
