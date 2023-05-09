@@ -16,7 +16,7 @@ posts_limit: 20
 # -------------------
 title: Minutes to Midnight
 tagline: Music producer and sound designer
-description: 'Sound designer, bass player and music producer since the 1990s'
+description: 'Sound designer, bassist and music producer'
 permalink: /blog/:title/
 keywords:
   minutes to midnight,
@@ -41,6 +41,9 @@ author:
 mastodon:
   instance: indieweb.social
   username: m2m
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
 
 # -------------------
 # Exclusions
