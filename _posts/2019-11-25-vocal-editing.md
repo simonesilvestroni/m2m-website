@@ -14,7 +14,7 @@ tags:
   - 'sound design'
   - 'sound restoration'
   - 'soundtoys'
-description: "By manipulating pitch, formants and tempo, I moved a vocal performance from one song to a completely different one. Cleaning up historical speeches is a craft I honed for years."
+description: "By manipulating pitch, formants and tempo, I moved a vocal performance from one song to a completely different one. Cleaning up historical speeches is a craft I’ve been honing for years."
 featimage: true
 featimage-name: 'vocal-editing.jpg'
 featimage-alt: Rachel Goodman singing

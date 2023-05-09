@@ -21,6 +21,7 @@ tags:
 description: 'How I exploited the subproject functionality in REAPER to save time and processing power while mixing a rework of Ember Rev’s debut album.'
 featimage: true
 thumbOnly: true
+permalink: /work/music-production/mix-ember-rev-reaper-subprojects/
 syndication: yes
 syndicate:
   - name: Mastodon

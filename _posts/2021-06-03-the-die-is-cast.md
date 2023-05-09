@@ -23,14 +23,9 @@ tags:
   - 'uk'
 description: "An autobiographical rumination about migrating in Europe during a time of populism. Remixing the Cambridge-based band Ember Rev, co-produced with Antiquity."
 featimage: true
-featimage-name: 'the-die-is-cast.jpg'
-featimage-alt: Cover for the EP ‘The Die Is Cast’
-featimage-width: 720
-featimage-height: 720
+thumbOnly: true
 permalink: /work/music/the-die-is-cast/
 ---
-## Bandcamp
-
 {% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=367059768/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://minutestomidnight.bandcamp.com/album/the-die-is-cast-ep">The Die Is Cast (EP) by Minutes to Midnight + Antiquity</a></iframe>' %}
 
 ## Backstory

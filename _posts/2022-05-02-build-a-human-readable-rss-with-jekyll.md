@@ -50,11 +50,9 @@ Finally, I created an XSL file to style the feed page into a human readable form
 - useful author information directly in each post, for easy contact information;
 - a "reply via email" link at the end of each post, visible on any RSS reader.
 
-{: .notice }
-{% include pattern-figure.html image="/assets/images/rss-feed-head.png" alt="Author contact info" width="720" height="286" %}
+{% include pattern-figure.html image="/assets/images/rss-feed-head.png" alt="Author contact info" width="720" height="286" caption="Author contact info visible in a feed" %}
 
-{: .notice }
-{% include pattern-figure.html image="/assets/images/rss-feed-footer.png" alt="A reply link at the bottom of each post" width="720" height="274" %}
+{% include pattern-figure.html image="/assets/images/rss-feed-footer.png" alt="A reply link at the bottom of each post" width="720" height="274" caption="A reply via email link is provided at the bottom of each post" %}
 
 The weight of all the required files amounts to less than `5 KB`.
 
