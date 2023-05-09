@@ -350,10 +350,12 @@ https://after1989.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/work
 /blog/hidden-music-dan-ecclestone/ /work/music-production/hidden-music/ 301
 /blog/popular/ /blog/ 301
 /archive/ /sitemap/ 301
-/ethics/ /blog/personal-manifesto/ 301
-/blog/reaper-daw-subprojects/ /blog/mix-ember-rev-reaper-subprojects/ 301
+/ethics/ /personal-manifesto/ 301
+/blog/reaper-daw-subprojects/ /work/music-production/mix-ember-rev-reaper-subprojects/ 301
+/blog/mix-ember-rev-reaper-subprojects/ /work/music-production/mix-ember-rev-reaper-subprojects/ 301
 /colophon/ /credits/ 301
-/manifesto/ /blog/personal-manifesto/ 301
+/manifesto/ /personal-manifesto/ 301
+/blog/personal-manifesto/ /personal-manifesto/ 301
 /newsletter/ /blog/ 301
 /newsletter.xml /fed.xml 301
 /newsletter/archive/new-releases-and-video-games/ /blog/ 301
