@@ -32,9 +32,8 @@ permalink: '/sitemap/'
     {%- unless page.sitemap == false %}
     <li>
       <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a><br>
-      {%- unless page.title == 'Sitemap' %}
-      <span class="dim small">Updated <time>{{ page.last_modified_at | date: "%-d %B %Y" }}</time></span>
-      {% endunless -%}
+      
+      <span class="dim small">Updated <time>{%- if page.title == 'Sitemap' %}{{ site.time | date: "%-d %B %Y" }}{% else %}{{ page.last_modified_at | date: "%-d %B %Y" }}{% endif -%}</time></span>
     </li>
     {%- endunless -%}
     {% endfor -%}

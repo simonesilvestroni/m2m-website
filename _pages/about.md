@@ -2,26 +2,25 @@
 layout: page
 title: 'About'
 date: '2022-01-14'
-last_modified_at: '2023-05-06 00:11:28'
-description: 'A graduated bassist and producer, I founded Minutes to Midnight to release my music and provide services such as sound design, game audio, bass tracks and production.'
+last_modified_at: '2023-05-09 19:19:22'
+description: 'A graduated bassist and producer, Minutes to Midnight is the nickname I use to release my music and work on sound design, game audio, bass tracks and production.'
 permalink: '/about/'
 ---
 I also crafted a [parallel career in web development](https://simonesilvestroni.com) out of my love for a previous job in the print industry.
+
+{% include pattern-figure.html image="/assets/images/gallery-press/e_in-the-studio.jpg" alt="In the studio (Cambrdige), playing a fretless Fender Jazz bass" caption="In the studio (Cambrdige), playing a fretless Fender Jazz bass" width="1600" height="1066" %}
 
 ## Quick facts
 
 {: .list-hr }
 - First name is pronounced `see-mow-nay`.
-- Played my first live gig in 1988, followed by an 8-year stint in music studios acquiring audio skills.
-- Freelanced as a bass player after graduating at the CPM Music Institute in 1995.
+- Spent 8 years during the 1990s acquiring audio skills in music studios, and freelanced as a bass player after graduating at the CPM Music Institute in 1995.
 - I lived and worked for 16 years in Milan.
 - Participated to the Game Developer Conference in 2002, where I witnessed to the launch of Steam by Valve and joined as a Bronze Member the [Game Audio Guild Network](/work/sound-design/ruff-trigger-playstation2-game/#game-developer-conference-and-gang) on the day of its foundation. At the same time, I started my first blog, journaling about working long hours on a console video game.
-- Moved to the UK in 2011 (London and Cambridge).
+- Moved to the UK in 2011.
 - Graduated at the Berklee College of Music (audio mastering and music production) in 2017.
 - My favourite bass player is [Andy Rourke](http://www.andyrourke.com).
-- After switching from analog to digital two decades ago, I've been working entirely in the box.
 - I see video games as the ultimate audio-visual narrative medium.
-- I wrote [a personal manifesto](/blog/personal-manifesto/).
 
 ## Accomplishments
 

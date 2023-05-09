@@ -2,7 +2,7 @@
 layout: page
 title: '‘After 1989’ Press Kit'
 date: '2019-11-08 10:28:19'
-last_modified_at: '2023-03-01 18:05:46'
+last_modified_at: '2023-05-09 19:22:28'
 description: '30 years after the Berlin Wall, the tale of how a young man escaped Germany in 1945, while his grandson made the other way round, looking for answers that he could only find in 2017.'
 robots: 'noindex,follow'
 sitemap: false
@@ -22,8 +22,9 @@ Music producer and sound designer [Minutes to Midnight](/about/) launched in 201
 
 ## Official music videos playlist
 
-{: .notice }
-[Watch all the videos from YouTube](https://www.youtube.com/playlist?list=PLR26aYJQa09PleTolHJU9AXACUHWsdu6s)&nbsp;→
+<div class="iframe-container">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLR26aYJQa09PleTolHJU9AXACUHWsdu6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Industry reviews
 

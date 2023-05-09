@@ -2,12 +2,12 @@
 layout: default
 title: 'This is the personal website of Simone Silvestroni'
 date: '2021-11-06 13:41:57'
-last_modified_at: '2023-04-23 16:57:19'
+last_modified_at: '2023-05-09 19:19:28'
 ---
 <article>
+  <h1 class="p-name">Welcome</h1>
   <p class="p-summary">{{ page.title }}, a digital polymath focused on high-quality audio productions since 1992.</p>
   <p class="e-content"><a href="/blog/">I write about</a> music production, sound design, video games, web development, and how I use technology to translate ideas into an enjoyable experience.</p>
-  <hr>
   <h2>Latest post</h2>
   {% for post in site.posts limit: 1 -%}
   <a class="big" href="{{ post.url }}" title="Read the post">{{ post.title }}</a><br>
