@@ -2,15 +2,12 @@ menu:
   - name: Credits
     link: /credits/
     desc: 'All about the website'
-  - name: Manifesto
-    link: /blog/personal-manifesto/
-    desc: 'I set of principles I stand for'
   - name: Links
     link: /links/
     desc: 'My Blogroll'
-  - name: Search
-    link: /search/
-    desc: 'Dynamic search with an accessible alternative'
+  - name: Uses
+    link: /uses/
+    desc: 'Equipment I use'
   - name: Sitemap
     link: /sitemap/
     desc: 'A full sitemap of the website'
