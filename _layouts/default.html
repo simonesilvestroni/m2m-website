@@ -19,21 +19,24 @@
 </head>
 <body class="h-entry layout-{{ page.layout }}" id="top">
 	<a class="skip-to-content" href="#main">Skip to content</a>
+	<a class="skip-to-menu" href="#menu">Skip to menu</a>
 	<header>
 		{%- if page.url == '/' %}
-		<h1 class="p-name">{% include site-logo.html %}</h1>
+		{% include site-logo.html %}
 		{% else %}
 		{% include site-logo.html %}
 		{% endif -%}
 		<p class="p-summary">{{ site.description }}</p>
-		{% include site-nav-main.html %}
 	</header>
 	<main id="main">
 		{{ content }}
 	</main>
+	<aside>
+		{% include site-nav-main.html %}
+	</aside>
 	<footer>
+		<span class="small">&copy; 2002-{{ site.time | date: '%Y' }}</span>
 		<div class="nav-secondary">
-			<span class="small">&copy; 2002-{{ site.time | date: '%Y' }}</span>
 			{% include site-nav-secondary.html %}
 		</div>
 		<div class="nav-social">
@@ -42,8 +45,6 @@
 		<div>
 			<a href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/previous"><span>←</span></a>&nbsp;IndieWeb webring&nbsp;<a href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/next"><span>→</span></a>
 		</div>
-		<br>
-		<a href="https://nonbot.org/pledged/view/9911ce87-628e-4e2e-b36d-2d0c2b43cf9d"><img width="96" height="96" src="{{ site.url }}/assets/images/nonbot_pledged_logo.svg" alt="Human-made Content"></a>
 	</footer>
 	{%- if page.url contains '/search' or page.url contains '404.html' or page.url contains '/sitemap' -%}
 	{% if jekyll.environment == "production" %}

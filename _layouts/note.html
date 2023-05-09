@@ -26,9 +26,6 @@ layout: default
 	</fieldset>
 	{%- comment %}<!-- //// ORIGINAL POST \\\\  -->{% endcomment -%}
 	{%- if page.originalpost %}<p>Original post: <a href="{{ site.url }}/blog/{{ page.originalpostURL }}/" class="u-in-reply-to">https://minutestomidnight.co.uk/blog/{{ page.originalpostURL }}/</a></p>{% endif -%}
-	<hr>
 	<p>Reply using <a href="https://indieweb.org/Webmention">webmentions</a>.</p>
-	<p class="small">Please note: I use non-intrusive client-side Javascript to render webmentions, therefore with Javascript disabled it's not possible to see comments and reactions.</p>
-	<hr>
 	{%- include pattern-responses.html -%}
 </article>
