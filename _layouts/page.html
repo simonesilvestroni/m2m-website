@@ -18,9 +18,11 @@ layout: default
 	</figure>
 	{% endif -%}
 	{% unless page.tldr == false %}
-	<p class="p-summary">
-		{{ page.description }}
-	</p>
+	<div class="tldr">
+		<p class="p-summary">
+			{{ page.description }}
+		</p>
+	</div>
 	{% endunless %}
 	<div class="e-content">
 		{{ content }}
