@@ -7,5 +7,5 @@ tags:
   - 'michael c. hall'
 description: "I’m really digging the music of Michael C. Hall’s band, ‘Princess Goes to the Butterfly Museum’. Here’s a playlist on YouTube with my current top five."
 ---
-{: .notice }
+{: .cta }
 [Enjoy (from an Invidious instance)](https://y.com.sb/playlist?list=PLR26aYJQa09NZsLFZ78orR2uVWrHhjp-Q)&nbsp;→
