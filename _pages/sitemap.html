@@ -6,11 +6,13 @@ last_modified_at: '2023-04-17 11:30:14'
 description: 'A full map of the website, including pages, blog posts, case studies and tags.'
 permalink: '/sitemap/'
 ---
-<h2>Dynamic search</h2>
-<form role="search" id="contact-form" action="">
-  <label class="small" for="search">Start typing to see the results:</label>
-  <input aria-label="Search" id="search" type="search" name="search" placeholder="e.g. Reaper" autocomplete="off" />
-  <ul id="list"></ul>
+<form class="search-form" role="search" action="">
+  <fieldset>
+    <legend>Instant search</legend>
+    <label class="small" for="search">Start typing to see the results:</label>
+    <input aria-label="Search" id="search" type="search" name="search" placeholder="e.g. Reaper" autocomplete="off" />
+    <ul id="list"></ul>
+  </fieldset>
 </form>
 
 <br>
@@ -21,7 +23,7 @@ permalink: '/sitemap/'
 {%- assign sorted_blog = site.documents | where:"layout", "post" | sort: 'date' | reverse -%}
 {%- assign sorted_tags = site.tags | sort -%}
 
-<details>
+<details class="warning">
   <summary>Pages <sup>({{ allpages | size | plus: 1 }})</sup></summary>
   <ul class="list-hr">
     <li>
@@ -40,7 +42,7 @@ permalink: '/sitemap/'
   </ul>
 </details>
 
-<details>
+<details class="warning">
   <summary>Posts <sup>({{ site.posts | size }})</sup></summary>
   <ul class="list-hr">
     {%- for post in sorted_blog %}
@@ -52,7 +54,7 @@ permalink: '/sitemap/'
   </ul>
 </details>
 
-<details>
+<details class="warning">
   <summary>Tags <sup>({{ site.tags | size }})</sup></summary>
   {%- for tag in sorted_tags -%}
   {%- assign t = tag | first %}

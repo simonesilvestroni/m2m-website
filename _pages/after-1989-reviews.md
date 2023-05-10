@@ -10,8 +10,8 @@ permalink: '/work/music/after-1989-reviews/'
 
 ### Analysis by Rosa Nadine Xochimilco Sánchez
 
-<div class="notice">
-  {% include pattern-figure.html image="/assets/images/rnxs.jpg" alt="Portrait of Rosa Nadine Xochimilco Sánchez" width="150" height="150" %}
+<div class="warning">
+  <img class="avatar" src="/assets/images/rnxs.jpg" width="150" height="150" alt="Portrait of Rosa Nadine Xochimilco Sánchez">
   <p><a href="https://rosanadinex.com/">Author, small press founder and editor</a>, Rosa has recently published the books of poems: <em>Blue Bones, Blood Roses, Black Eyes</em> and <em>Hearts Aflame, Still Burning</em>.</p>
 </div>
 
@@ -129,8 +129,8 @@ I look forward to sharing it with family and friends who love history and great 
 
 <span class="dim">25 November 2019</span> &middot; Written by [John Hennessy](https://indierepublik.com/music/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/)
 
-<div class="notice">
-  {% include pattern-figure.html image="/assets/images/johnhennessy.jpg" alt="Portrait of John Hennessy" width="150" height="150" %}
+<div class="warning">
+  <img class="avatar" src="/assets/images/johnhennessy.jpg" width="150" height="150" alt="Portrait of John Hennessy">
   <p>Irish composer, producer and multi-instrumentalist based in Berlin, John Hennessy plays drums, piano and guitar and has an Hons BA in Creative Musicianship.</p>
 </div>
 

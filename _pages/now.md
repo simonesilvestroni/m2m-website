@@ -22,5 +22,5 @@ permalink: '/now/'
 - Recently purchased _Gris_ on Steam — haven't started yet.
 - I've been rediscovering a talent for cooking, that I thought I had lost.
 
-{: .notice }
+{: .warning }
 This is a _now page_, from an idea by Derek Sivers. [You can make one, too](https://nownownow.com/about).

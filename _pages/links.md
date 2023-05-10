@@ -7,9 +7,9 @@ description: 'A partial list of websites and blogs I enjoy reading through RSS f
 tldr: false
 permalink: '/links/'
 ---
-My personal list of blogs I read within a curated platform that has no algorithm. Or, as [Matthew Graybosch](https://starbreaker.org/links/) aptly describes it:
+A personal list of blogs that I read within a curated platform with zero algorithm. Or, said in a direct way:
 
-> Pages like this one are how website operators used to promote other websites they like before Google and the SEO industry ruined the World Wide Web.
+> Pages like this one are how website operators used to promote other websites they like before Google and the SEO industry ruined the World Wide Web.<cite>[Matthew Graybosch](https://starbreaker.org/links/)</cite>
 
 ## General
 

@@ -30,9 +30,12 @@ I also crafted a [parallel career in web development](https://simonesilvestroni.
 - Worked as a [sound designer for a cartoon series](/work/sound-design/car-city-cartoon/).
 - Built two music studios from the ground-up.
 - Apple certified for Logic Pro X, [I transitioned to Pro Tools and later REAPER](/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/).
+- Constantly looking for a way to complete a task in less and more efficient steps, I wrote an ebook about [project management for musicians]({{ site.url }}/work/project-management/).
+
+## Collaborations and endorsements
+
 - I've been working with [UK and US-based artists](/work/music-production/) such as Gerald Duchene, Dan Ecclestone, Rachel Goodman, Ember Rev, Mally Harpaz (Anna Calvi), Ciara Clifford and Callum Gardner.
 - As a mixer, I often share projects with renowned master engineer [Ian Shepherd](https://productionadvice.co.uk/about/).
-- Constantly looking for a way to complete a task in less and more efficient steps, I wrote an ebook about [project management for musicians]({{ site.url }}/work/project-management/).
 - Endorsed by [Leland Sklar and others](/work/endorsements/).
 
 {%- assign mainSkills = site.mainSkills | sort: 'name' %}
@@ -40,9 +43,11 @@ I also crafted a [parallel career in web development](https://simonesilvestroni.
 {%- assign mainTools = site.mainTools %}
 {%- assign completeTools = site.completeTools %}
 
-<div class="notice">
+<div class="warning">
   <h2>Skills</h2>
   <p>{% for item in mainSkills -%}<a href="{{ item.url }}">{{ item.name }}</a>, {% endfor -%}{% for item in completeSkills -%}<span>{{ item.name }}</span>{% unless forloop.last%}, {% endunless %}{% if forloop.last %}.{% endif %}{% endfor -%}</p>
+</div>
+<div class="warning">
   <h2>Tools proficiency</h2>
   <p>{% for item in mainTools -%}<a href="{{ item.url }}">{{ item.name }}</a>, {% endfor -%}{% for item in completeTools -%}<span>{{ item.name }}</span>{% unless forloop.last%}, {% endunless %}{% if forloop.last %}.{% endif %}{% endfor -%}</p>
 </div>

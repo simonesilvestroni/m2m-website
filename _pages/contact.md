@@ -23,11 +23,11 @@ I have accounts on other networks:
 
 ## Work together
 
-<div class="notice">
+<div class="warning">
   <h3>Bass</h3>
   <p>For bass tracks, I'm available on <a href="https://soundbetter.com/profiles/206552-simone-silvestroni">SoundBetter</a>, a safe and secure platform for freelance musicians.</p>
 </div>
-<div class="notice">
+<div class="warning">
   <h3>Audio projects</h3>
   <p>For music production, sound design, mix or master, <a href="mailto:hello@minutestomidnight.co.uk">reach out via email</a>.</p>
 </div>

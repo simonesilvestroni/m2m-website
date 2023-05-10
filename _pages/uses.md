@@ -153,6 +153,7 @@ In the past:
 - Transmit
 - Carbon Copy Cloner
 
-***
+<br>
 
+{: .warning }
 Also, check out the post [_How I Use The Internet_](/blog/how-i-use-internet/)&nbsp;→
