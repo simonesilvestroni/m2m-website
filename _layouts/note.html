@@ -5,27 +5,24 @@ layout: default
 	<header>
 		<h1><span class="p-category">{{ page.title }}</span>: {{ page.date | date: "%-d %B %Y %T" }}</h1>
 		<span class="p-author h-card">
-			<img class="u-photo" src="{{ site.url }}/assets/images/simonesilvestroni-uphoto.png" alt="Avatar of Simone Silvestroni" width="28" height="28"> <span class="p-name" rel="author">Simone Silvestroni</span>
+			<img class="u-photo" src="{{ site.url }}/assets/images/simonesilvestroni-uphoto.jpg" alt="Avatar of Simone Silvestroni" width="28" height="28"> <span class="p-name" rel="author">Simone Silvestroni</span>
 		</span>&nbsp;&middot;&nbsp;<time class="dt-published dim" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a class="u-url u-uid" href="{{ site.url }}{{ page.url }}">{{ page.date | date: "%-d %B %Y" }}</a></time>
 	</header>
-	<fieldset class="tldr">
-		<legend>
-			{%- comment %}<!-- //// REPLY \\\\ -->{% endcomment -%}
-			{%- if page.replyto %}
-			<svg width="24" height="24" fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.704 16.294a1 1 0 1 1-1.415 1.414l-4.997-5.004a1 1 0 0 1 0-1.413L8.29 6.293a1 1 0 0 1 1.415 1.414L6.41 11H13a8 8 0 0 1 7.996 7.75L21 19a1 1 0 1 1-2 0 6 6 0 0 0-5.775-5.996L13 13H6.414l3.29 3.294Z" fill="currentColor"/></svg>&nbsp;In reply to <a href="{{ page.replyto }}" class="u-in-reply-to"><code>{{ page.replytouser }}</code></a>
-			{%- comment %}<!-- //// LIKE \\\\  -->{% endcomment -%}
-			{% elsif page.likeof %}
-			<svg width="24" height="24" fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m12.82 5.58-.82.822-.824-.824a5.375 5.375 0 1 0-7.601 7.602l7.895 7.895a.75.75 0 0 0 1.06 0l7.902-7.897a5.376 5.376 0 0 0-.001-7.599 5.38 5.38 0 0 0-7.611 0Z" fill="currentColor"/></svg>&nbsp;A like of
-			{% endif -%}
-		</legend>
+	<div class="warning">
+		{%- comment %}<!-- //// REPLY \\\\ -->{% endcomment -%}
+		{%- if page.replyto %}
+		<svg width="24" height="24" fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.704 16.294a1 1 0 1 1-1.415 1.414l-4.997-5.004a1 1 0 0 1 0-1.413L8.29 6.293a1 1 0 0 1 1.415 1.414L6.41 11H13a8 8 0 0 1 7.996 7.75L21 19a1 1 0 1 1-2 0 6 6 0 0 0-5.775-5.996L13 13H6.414l3.29 3.294Z" fill="currentColor"/></svg>&nbsp;<strong>In reply to</strong> <a href="{{ page.replyto }}" class="u-in-reply-to"><code>{{ page.replytouser }}</code></a><br><br>
+		{%- comment %}<!-- //// LIKE \\\\  -->{% endcomment -%}
+		{% elsif page.likeof %}
+		<svg width="24" height="24" fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m12.82 5.58-.82.822-.824-.824a5.375 5.375 0 1 0-7.601 7.602l7.895 7.895a.75.75 0 0 0 1.06 0l7.902-7.897a5.376 5.376 0 0 0-.001-7.599 5.38 5.38 0 0 0-7.611 0Z" fill="currentColor"/></svg>&nbsp;<strong>A like of</strong>:<br><br>
+		{% endif -%}
 		{%- if page.replyto %}
 		<div class="e-content"><span class="p-name">{{ content }}</span></div>
 		{% elsif page.likeof %}
-		<p class="e-content"><a href="{{ page.likeof }}" class="u-like-of">{{ page.likeoftitle }}</a> by <code>{{ page.likeofuser }}</code></p>
+		<p class="e-content"><a href="{{ page.likeof }}" class="u-like-of"><em>{{ page.likeoftitle }}</em></a> by <code>{{ page.likeofuser }}</code></p>
 		{% endif -%}
-	</fieldset>
+	</div>
 	{%- comment %}<!-- //// ORIGINAL POST \\\\  -->{% endcomment -%}
 	{%- if page.originalpost %}<p>Original post: <a href="{{ site.url }}/blog/{{ page.originalpostURL }}/" class="u-in-reply-to">https://minutestomidnight.co.uk/blog/{{ page.originalpostURL }}/</a></p>{% endif -%}
-	<p>Reply using <a href="https://indieweb.org/Webmention">webmentions</a>.</p>
 	{%- include pattern-responses.html -%}
 </article>
