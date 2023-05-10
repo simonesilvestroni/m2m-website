@@ -1,13 +1,17 @@
-<h2>Instant search</h2>
-<form role="search" id="contact-form" action="">
-	<label class="small" for="search">Start typing to see the results:</label>
-	<input aria-label="Search" id="search" type="search" name="search" placeholder="e.g. Reaper" autocomplete="off" />
-	<ul id="list"></ul>
+<form class="search-form" role="search" action="">
+	<fieldset>
+		<legend>Instant search</legend>
+		<label class="small" for="search">Start typing to see the results:</label>
+		<input aria-label="Search" id="search" type="search" name="search" placeholder="e.g. Reaper" autocomplete="off" />
+		<ul id="list"></ul>
+	</fieldset>
 </form>
-<h2>Accessible search</h2>
-<form method="get" action="https://duckduckgo.com/?q=" target="_blank">
-	<input type="hidden" name="sites" value="minutestomidnight.co.uk">
-	<label class="small" for="searchDDG">Search this site using DuckDuckGo:</label>
-	<input aria-label="Search" type="search" name="q" id="searchDDG" placeholder="e.g. Reaper">
-	<input type="submit" name="submit" value="Search" id="submit">
+<form class="search-form method="get" action="https://duckduckgo.com/?q=" target="_blank">
+	<fieldset>
+		<legend>Accessible search</legend>
+		<input type="hidden" name="sites" value="minutestomidnight.co.uk">
+		<label class="small" for="searchDDG">Search this site using DuckDuckGo:</label>
+		<input aria-label="Search" type="search" name="q" id="searchDDG" placeholder="e.g. Reaper">
+		<input type="submit" name="submit" value="Search" id="submit">
+	</fieldset>
 </form>
