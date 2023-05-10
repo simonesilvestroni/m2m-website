@@ -58,8 +58,8 @@ After clicking the green button, I signed the provided encrypted text with my pr
 The following code is included in the [default layout](https://github.com/simonesilvestroni/m2m-website/blob/main/_layouts/default.html):
 
 ```html
-<link rel="webmention" href="https://webmention.io/minutestomidnight.co.uk/webmention" />
-<link rel="pingback" href="https://webmention.io/minutestomidnight.co.uk/xmlrpc" />
+<link rel="webmention" href="https://webmention.io/minutestomidnight.co.uk/webmention">
+<link rel="pingback" href="https://webmention.io/minutestomidnight.co.uk/xmlrpc">
 ```
 
 ### Microformats
