@@ -3,7 +3,7 @@ layout: page
 title: 'Now'
 date: '2023-02-19 21:14:17'
 last_modified_at: '2023-05-09 19:19:34'
-description: 'After 10 years in England, I’m temporarily living between the shores of Lake Maggiore and Milan. The plan for 2023 is to move back to the UK.'
+description: 'After 10 years in England, I’ve been temporarily living between the shores of Lake Maggiore and Milan. The plan for 2023 is to move back to the UK.'
 permalink: '/now/'
 ---
 ## Work

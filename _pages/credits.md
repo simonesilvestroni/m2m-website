@@ -25,6 +25,7 @@ An unordered list of people who inspired improvements and helped me find a bette
 - [Kev Quirk](https://kevquirk.com)
 - [Ru Singh](https://rusingh.com)
 - [Ruben Schade](https://rubenerd.com/)
+- [Leon Paternoster](https://www.thisdaysportion.com/)
 
 ## Site
 
