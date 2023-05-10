@@ -4,14 +4,13 @@ layout: default
 <article>
   <header>
     <h1 class="p-name">{{ page.title }}</h1>
-    <span class="p-author h-card"><img class="u-photo" src="{{ site.url }}/assets/images/simonesilvestroni-uphoto.jpg" alt="Simone Silvestroni's avatar" width="28" height="28"> <a class="p-name" href="{{ site.url }}/about/" rel="author">Simone Silvestroni</a></span>&nbsp;&middot;&nbsp;<time class="dt-published small" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a rel="me" class="u-url u-uid dim" href="{{ site.url }}{{ page.url }}" title="Permalink">{{ page.date | date: "%-d %B %Y" }}</a></time>
+    <span class="p-author h-card"><img class="u-photo" src="{{ site.url }}/assets/images/simonesilvestroni-uphoto.jpg" alt="Simone Silvestroni's avatar" width="28" height="28"> <a class="p-name" href="{{ site.url }}/about/" rel="author">Simone Silvestroni</a></span>&nbsp;&middot;&nbsp;<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a rel="me" class="u-url u-uid dim" href="{{ site.url }}{{ page.url }}" title="Permalink">{{ page.date | date: "%-d %B %Y" }}</a></time>
   </header>
-  <fieldset class="tldr">
-    <legend>TL;DR</legend>
+  <div class="tldr">
     <p class="p-summary">
       {{ page.description }}
     </p>
-  </fieldset>
+  </div>
   {%- unless page.thumbOnly == true -%}
   {% if page.featimage == true %}
   <figure>
@@ -28,15 +27,15 @@ layout: default
     {{ content }}
     <br>
     <p><a href="mailto:hello@minutestomidnight.co.uk?subject={{ page.title | uri_escape }}" title="Reply to this post"><strong>Reply via email</strong></a> or use <a href="https://indieweb.org/Webmention">webmentions</a>.</p>
-    <p class="notice">If you liked this, please consider subscribing to the <a href="{{ site.url }}/feed.xml">full-text RSS feed</a>. That way, you’ll get notified whenever I post anything new.</p>
-    <div>
+    <p class="warning">If you liked this, please consider subscribing to the <a href="{{ site.url }}/feed.xml">full-text RSS feed</a>. That way, you’ll get notified whenever I post anything new.</p>
+    <div class="post-after">
       <p class="small"><span class="dim">Filed under</span>: {% for tag in page.tags -%}<a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase }}</a>{% unless forloop.last %}, {% endunless %}{%- endfor -%}</p>
+      {% if page.syndication == true %}
+      <div>
+        <p class="small"><span class="dim">Also posted on:</span> {% for s in page.syndicate %}<a rel="syndication" class="u-syndication" href="{{ s.url }}">{{ s.name }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
+      </div>
+      {% endif -%}
     </div>
   </div>
-  {% if page.syndication == true %}
-  <div>
-    <p class="small"><span class="dim">Also posted on:</span> {% for s in page.syndicate %}<a rel="syndication" class="u-syndication" href="{{ s.url }}">{{ s.name }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
-  </div>
-  {% endif -%}
   {%- include pattern-responses.html -%}
 </article>
