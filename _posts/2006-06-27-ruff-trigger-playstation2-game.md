@@ -29,7 +29,7 @@ description: "As the audio team leader, I created and implemented sound effects 
 featimage: true
 featimage-name: 'ruff-trigger-playstation2-video-game.jpg'
 featimage-alt: Ruff Trigger game cover
-featimage-width: 720
+featimage-width: 100%
 featimage-height: 720
 permalink: /work/sound-design/ruff-trigger-playstation2-game/
 ---
@@ -257,10 +257,10 @@ While I updated my skills by studying Wwise, FMOD and how they integrate with ma
 ## Reviews from Playstos
 
 > When passion goes beyond working duties… here’s Simone. Addiction and reliability are two great details you can't easily find nowadays in a professional and he gets both.
-> <cite>— Jean Claude Nouchy, [Houdini FX technical director and trainer](http://www.visualcortexlab.com/showreel/)</cite>
+> <cite>— **Jean Claude Nouchy**, [Houdini FX technical director and trainer](http://www.visualcortexlab.com/showreel/)</cite>
 
 > Great co-worker! Very careful, serious and responsible, never superficial. Good webmaster with wide knowledge of the Apple world, the Adobe software and all that’s connected to audio engineering. Highly recommended.
-> <cite>— Daniele Pieroni, [Senior Game Developer Relations Engineer at Intel Corporation](https://www.linkedin.com/in/danielepieroni/)</cite>
+> <cite>— **Daniele Pieroni**, [Senior Game Developer Relations Engineer at Intel Corporation](https://www.linkedin.com/in/danielepieroni/)</cite>
 
 > Simone is a very talented web designer and audio composer. He pays a lot of attention to quality and detail, and he’s always willing to improve his wide array of skills. Definitely a pleasure to work with.
-> <cite>— Michele Sandroni, [Technical Artist at Bosch Rexroth AG](https://www.linkedin.com/in/michelesandroni/)</cite>
+> <cite>— **Michele Sandroni**, [Technical Artist at Bosch Rexroth AG](https://www.linkedin.com/in/michelesandroni/)</cite>

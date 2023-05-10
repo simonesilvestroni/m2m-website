@@ -7,7 +7,7 @@ tags:
   - 'sustainability'
 description: "Wim Vanderbauwhede on the need for low-carbon and sustainable computing and the path towards zero-carbon computing."
 ---
-[Wim Vanderbauwhede](https://www.gla.ac.uk/schools/computing/staff/wimvanderbauwhede/#/biography), Professor in Computing Science and a Reader at the University of Glasgow, argued:
+A [professor in Computing Science](https://www.gla.ac.uk/schools/computing/staff/wimvanderbauwhede/#/biography) and a Reader at the University of Glasgow, Wim argued:
 
 > The emissions from production of computing devices far exceed the emissions from operating them, so even if devices are more energy efficient producing more of them will make the emissions problem worse. Therefore we must extend the useful life of our computing devices.
 > <cite>[Frugal computing](https://wimvanderbauwhede.github.io/articles/frugal-computing/)</cite>

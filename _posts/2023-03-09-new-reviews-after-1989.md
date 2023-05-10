@@ -41,7 +41,7 @@ From [_After 1989_'s Bandcamp page](https://minutestomidnight.bandcamp.com/album
 A musical and historical journey with depths.
 <cite>—BeaK</cite>
 
-> The crystal clear mix, the engrossing story, the lovely bass. I’ll often end up with the chorus to ‘Skinny Kid’ stuck in my head without warning. Favorite track: Skinny Kid.
+> The crystal clear mix, the engrossing story, the lovely bass. I’ll often end up with the chorus to ‘Skinny Kid’ stuck in my head without warning.
 <cite>—Mykie Frankenstein</cite>
 
 > This album straight up changed my ideas of what kind of music I could write myself. Huge inspiration. 
@@ -49,5 +49,5 @@ A musical and historical journey with depths.
 
 I'm very thankful for the lovely feedback, especially for a 4-year-old album.
 
-{: .notice }
+{: .warning }
 [**Read all the album reviews**](/work/music/after-1989-reviews/)&nbsp;→

@@ -23,7 +23,7 @@ description: "A case of synchronicity, meeting London-based songwriter Callum Ga
 featimage: true
 featimage-name: 'producing-commit-to-the-list-by-callum-gardner.jpg'
 featimage-alt: Cover for the single Commit to the List
-featimage-width: 720
+featimage-width: 100%
 featimage-height: 720
 permalink: /work/music-production/callum-gardner-debut-single/
 ---

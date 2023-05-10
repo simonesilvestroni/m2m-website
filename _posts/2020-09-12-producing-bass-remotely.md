@@ -18,10 +18,7 @@ tags:
   - 'recording'
 description: "An in-depth analysis of the process I go through to produce an effective bass track. From tracking to comping, up to mix and delivery. Based on a song recorded for the New York-based band Antiquity."
 featimage: true
-featimage-name: 'producing-bass-remotely.jpg'
-featimage-alt: Simone Silvestroni in the studio, recording bass
-featimage-width: 720
-featimage-height: 720
+thumbOnly: true
 canonical: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'
 syndication: true
 syndicate:

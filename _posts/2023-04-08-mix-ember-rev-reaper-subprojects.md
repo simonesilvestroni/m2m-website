@@ -94,7 +94,7 @@ Whenever I spotted a mistake or something that needed changing, I simply double-
 
 Upon hitting save, REAPER refreshed the rendering of the session _and the proxy_ in my "super project". I could close the song and go back to my album project, double checking the changes within that context.
 
-{: .notice }
+{: .warning }
 To learn more about REAPER subprojects, check out this [video by Kenny Gioia](https://youtu.be/S0k7ph7Nnbo) explaining the feature with his usual down-to-earth clear insights.
 
 ## Conclusions

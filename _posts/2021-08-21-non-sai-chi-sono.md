@@ -51,7 +51,7 @@ We wanted to make it a dialogue, where the original song and our remix approache
 
 Once settled in my coastal Italian hometown, I'd managed to work on the production. After adding vocals and bass, I reorganised the samples, recorded a new rhythmic section in the chorus, and added an original Italian TV announcement about Nixon’s victory in 1968.
 
-{% include pattern-figure.html image="/assets/images/arrigo-levi.jpg" caption="Arrigo Levi, announcing Nixon’s victory on Italian TV (1968)" width="720" height="422" %}
+{% include pattern-figure.html image="/assets/images/arrigo-levi.jpg" caption="Arrigo Levi, announcing Nixon’s victory on Italian TV (1968)" width="100%" height="422" %}
 
 The spoken words of Gianluca’s father — recorded on tape at the time — is featured all along, like a vocal journal of his preparations for a work trip in Iraq. At the beginning, tenderly speaking to his wife, he stated the date: one day before Nixon was announced as the new President of the United States.
 

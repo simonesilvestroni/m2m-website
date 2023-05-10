@@ -37,14 +37,14 @@ In this series, I describe eight major benefits that REAPER brought to my music 
 7.  Open architecture & development cycle
 8.  Efficiency
 
-{: .notice }
+{: .warning }
 **Disclaimer** — This article reflects my own personal opinions, which are related to how I use a DAW. It’s not meant to judge any of these software. As a matter of fact, I still own and occasionally use both Logic and Pro Tools.
 
 ## Logic
 
 After starting out with Cubase in 1995 and using it until v4, I moved to eMagic’s Logic in 2002. Transitioned to Apple’s [Logic Pro X](https://www.apple.com/logic-pro/) a bit late, I stayed there until last year. All in all, it’s been 18 years with Logic.
 
-{% include pattern-figure.html image="/assets/images/daw-logic-platinum.jpg" caption="2002: Logic Audio Platinum 5" width="768" height="581" %}
+{% include pattern-figure.html image="/assets/images/daw-logic-platinum.jpg" caption="2002: Logic Audio Platinum 5" width="100%" height="581" %}
 
 ## Pro Tools
 

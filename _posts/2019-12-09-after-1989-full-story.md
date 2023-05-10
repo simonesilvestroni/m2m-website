@@ -36,7 +36,7 @@ featimage-caption: Photo by Silvia Maggi, Sachsenhausen (2019)
 featimage-width: 1024
 featimage-height: 683
 ---
-{: .notice }
+{: .warning }
 This article was originally published on the Medium magazine "Lessons From History". After deleting my Medium account, I moved it here.
 
 ## Roots
@@ -177,5 +177,5 @@ The car attracted my attention because it was the same model used by [Russel Oak
 
 {% include pattern-figure.html image="/assets/images/full-story-grandfather.jpg" caption="My grandfather working outside his shop in the summer. Some of the objects visible on the crate came from Germany" width="1024" height="722" %}
 
-{: .notice }
+{: .warning }
 [**Read the album analysis**](/work/music/after-1989/)&nbsp;→
