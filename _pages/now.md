@@ -11,7 +11,7 @@ permalink: '/now/'
 {: .list-hr }
 - I'm studying video game audio middleware tools, such as Wwise and FMOD, and their integration with game engines (Unity and Unreal). I want to get up to speed with game audio technology after [a long hiatus](/work/sound-design/ruff-trigger-playstation2-game/).
 - The short-term goal is to complete a good sound design reel.
-- I've recently mixed an [album by Ember Rev](/blog/mix-ember-rev-reaper-subprojects/) and mastered the soundtrack for a documentary about cycling that's about to be released.
+- I've recently mixed an [album by Ember Rev](/work/music-production/mix-ember-rev-reaper-subprojects/) and mastered the soundtrack for a documentary about cycling that's about to be released.
 - All my creative work is on stand-by: both the follow-up to _After 1989_, and the German remix of _Skinny Kid_ (in collaboration with [Bea Henkel](https://beartemusic.com/the-story/)).
 
 ## Personal

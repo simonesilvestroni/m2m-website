@@ -37,7 +37,7 @@ It's a win-win and makes perfect sense to me: the site is mine, the landing page
 - I brought back my beloved [blogroll](/links/), now renamed as *Links* because [Matthew](https://starbreaker.org/) inspired me to do so.
 - Re-imported several blog posts about [web development](/blog/tag/web-development/), including the long-form analysis over how I manage automation for my static site, indieweb integration, webmentions, and other how-tos.
 - There is now a full [sitemap](/sitemap/), comprising pages, posts, tags.
-- I wiped out my newsletter, including the archives and the subscription form. I'll be sending one last issue to subscribers, saying that the [blog RSS](/rss/) is the most meaningful place[^1] where to get updates.
+- I wiped out my newsletter, including the archives and the subscription form. I'll be sending one last issue to subscribers, saying that the [blog RSS](/feed.xml) is the most meaningful place[^1] where to get updates.
 - A massive reorganisation of all tags has been done, although that's more for myself, I guess.
 - Links and icons to several online accounts have been removed, and that includes Spotify, Soundcloud and a few others. I'm still on the fence about LinkedIn and Github, we'll see.
 - Reshuffled microformats code in the layouts, which made the [notes](/notes/) I use to send webmentions much more efficient and easy to use.
