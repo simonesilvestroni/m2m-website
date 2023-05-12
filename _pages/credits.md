@@ -4,6 +4,7 @@ title: 'Credits'
 date: '2023-01-14 13:49:31'
 last_modified_at: '2023-05-05 19:41:15'
 description: 'All about this website: tools, benchmarks, a note about copyright and a thank you to people that inspired me.'
+tldr: false
 permalink: '/credits/'
 ---
 Handcrafted by Simone Silvestroni.

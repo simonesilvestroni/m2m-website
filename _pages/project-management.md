@@ -9,6 +9,7 @@ featimage-name: 'efficient-productivity-ebook.png'
 featimage-alt: Efficient productivity for music professionals (ebook cover)
 featimage-width: 960
 featimage-height: 881
+tldr: false
 permalink: '/work/project-management/'
 ---
 {{ page.description }}

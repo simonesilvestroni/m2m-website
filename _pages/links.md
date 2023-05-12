@@ -4,6 +4,7 @@ title: Links
 date: '2023-04-25'
 last_modified_at: '2023-04-25 23:46:21'
 description: 'A partial list of websites and blogs I enjoy reading through RSS feeds.'
+tldr: false
 permalink: '/links/'
 ---
 A personal list of blogs that I read within a curated platform with zero algorithm. Or, said in a direct way:
