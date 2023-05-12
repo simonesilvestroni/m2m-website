@@ -2,7 +2,7 @@
 layout: page
 title: 'Endorsements'
 date: '2023-04-05 11:12:28'
-last_modified_at: '2023-04-18 13:05:52'
+last_modified_at: '2023-05-12 01:31:48'
 description: 'A selection of endorsements received while working in different fields of the audio industry.'
 permalink: '/work/endorsements/'
 ---
@@ -15,5 +15,10 @@ permalink: '/work/endorsements/'
 </blockquote>
 {% endfor %}
 
-{: .warning .cta }
-[**More on LinkedIn**](https://www.linkedin.com/in/simonesilvestroni/)&nbsp;→
+## Credits and more endorsements
+
+<ul>
+  {% for item in site.data.nav-credits.menu -%}
+  <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+  {% endfor -%}
+</ul>

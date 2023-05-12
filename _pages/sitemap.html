@@ -2,21 +2,10 @@
 layout: page
 title: Sitemap
 date: '2023-03-31 12:22:58'
-last_modified_at: '2023-04-17 11:30:14'
+last_modified_at: '2023-05-12 01:30:58'
 description: 'A full map of the website, including pages, blog posts, case studies and tags.'
 permalink: '/sitemap/'
 ---
-<form class="search-form" role="search" action="">
-  <fieldset>
-    <legend>Instant search</legend>
-    <label class="small" for="search">Start typing to see the results:</label>
-    <input aria-label="Search" id="search" type="search" name="search" placeholder="e.g. Reaper" autocomplete="off" />
-    <ul id="list"></ul>
-  </fieldset>
-</form>
-
-<br>
-
 {%- assign pages = site.pages | where:"layout", "page" -%}
 {%- assign blogpage = site.pages | where:"layout", "blog"  -%}
 {%- assign allpages = pages | concat: blogpage | sort: 'title' -%}
@@ -25,17 +14,16 @@ permalink: '/sitemap/'
 
 <details class="warning">
   <summary>Pages <sup>({{ allpages | size | plus: 1 }})</sup></summary>
-  <ul class="list-hr">
+  <ul class="list-hr-group">
     <li>
       <a href="{{ site.url }}">Homepage</a><br>
-      <span class="dim small">Updated <time>{{ site.time | date: "%-d %B %Y" }}</time></span>
+      <span class="dim small">Updated <time><em>{{ site.time | date: "%-d %B %Y" }}</em></time></span>
     </li>
     {%- for page in allpages %}
     {%- unless page.sitemap == false %}
     <li>
       <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a><br>
-      
-      <span class="dim small">Updated <time>{%- if page.title == 'Sitemap' %}{{ site.time | date: "%-d %B %Y" }}{% else %}{{ page.last_modified_at | date: "%-d %B %Y" }}{% endif -%}</time></span>
+      <span class="dim small">Updated <time>{%- if page.title == 'Sitemap' %}<em>{{ site.time | date: "%-d %B %Y" }}</em>{% else %}<em>{{ page.last_modified_at | date: "%-d %B %Y" }}</em>{% endif -%}</time></span>
     </li>
     {%- endunless -%}
     {% endfor -%}
@@ -44,11 +32,11 @@ permalink: '/sitemap/'
 
 <details class="warning">
   <summary>Posts <sup>({{ site.posts | size }})</sup></summary>
-  <ul class="list-hr">
+  <ul class="list-hr-group">
     {%- for post in sorted_blog %}
     <li>
-      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark class="small">CASE STUDY</mark>{% endif %}{% if post.tags contains "popular" %}&nbsp;&nbsp;<mark class="small">POPULAR</mark>{% endif %}<br>
-      <time class="dt-published small dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time>
+      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark class="small"><strong>CASE&nbsp;STUDY</strong></mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small"><strong>FEATURED</strong></mark>{% endif %}<br>
+      <time class="dt-published small dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated"><em>{{ post.date | date: "%-d %B %Y" }}</em></time>
     </li>
     {%- endfor -%}
   </ul>

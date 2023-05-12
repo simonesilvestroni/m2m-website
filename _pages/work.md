@@ -32,7 +32,7 @@ permalink: '/work/'
 {%- endfor -%}
 {%- endcapture -%}
 
-<article class="notice">
+<article class="warning">
   <a class="card-project_link" href="/work/sound-design/" title="Read the case studies about sound design">
     <header>
       <h2>Sound Design</h2>
@@ -48,7 +48,7 @@ permalink: '/work/'
   </a>
 </article>
 
-<article class="notice">
+<article class="warning">
   <a class="card-project_link" href="/work/music-production/" title="Read the case studies about music production">
     <header>
       <h2>Music Production</h2>
@@ -64,7 +64,7 @@ permalink: '/work/'
   </a>
 </article>
 
-<article class="notice">
+<article class="warning">
   <a class="card-project_link" href="/work/music/" title="Read the case studies about original music">
     <header>
       <h2>Original Music</h2>
