@@ -13,7 +13,7 @@ Since I naturally agree with him, I think I've been going further than that as o
 
 ## Full screen
 
-Last week, Matthew wrote about [dropping the narrow column in the middle of the screen](https://starbreaker.org/blog/your-screen-is-tasty/index.html). That inspired me, so I refactored my user interface using a branch on my git. It only took a few hours, yet towards the end I started getting itchy about how busy it looked. After a `git merge` and a push, it was live. Despite being totally okay with how Matthew's website looks and behaves, I disliked my redesign.
+Last week, Matthew wrote about [dropping the narrow column in the middle of the screen](https://starbreaker.org/blog/your-screen-is-tasty/index.html). That inspired me, so I refactored my user interface using a git branch. It only took a few hours, yet towards the end I started getting itchy about how busy it looked. After a `git merge` and a push, it was live. Despite being totally okay with how Matthew's website looks and behaves, I disliked my redesign.
 
 It stayed online for slightly more than twelve hours.
 
@@ -35,7 +35,7 @@ The second thing was the realisation of how I've been using Feedbin and a Reader
 
 {% include pattern-figure.html image="/assets/images/styles-firefox-reader.jpg" alt="Screenshot of an article viewed in my reader extension for Firefox" caption="An article in my reader extension for Firefox" width="790" height="449" %}
 
-I posted the above article from [Leon Paternoster](https://www.thisdaysportion.com/) on purpose, because the synchronicity was uncanny: after reading his writings through RSS, I went to see the website in its entirety for the first time. I was gobsmacked to see his website, designed _precisely_ how I wanted to transform mine:
+I posted the above article from [Leon Paternoster](https://www.thisdaysportion.com/) on purpose, because the synchronicity was uncanny: after reading his writings through RSS, I went to see the website in its entirety for the first time. I was gobsmacked to see that it was designed _precisely_ how I wanted to transform mine:
 
 - same typography as I've been using _privately_ for a long time.
 - same minimalistic use of colour, including the top border that was present in my 2007 personal website.
@@ -46,7 +46,7 @@ That was it. These things rarely happen to me, so I seized the moment and redesi
 
 ## Happy now?
 
-Yes! I reached the goal I was looking for — at least for a while. It's clean, minimalistic, essential, and features the three colours I love the most: black, white, olive green. The fact that _two full redesign_ were done in less than a day, cumulatively, is also proof of how flexible and powerful SimpleCSS is, so [praise to Kev, Luke and others](https://github.com/kevquirk/simple.css).
+Yes! I reached the goal I was looking for — at least for a while. It's clean, minimalistic, essential, and features the three colours I love the most: black, white, olive green. The fact that _two full redesigns_ were done in less than a day, cumulatively, is also proof of how flexible and powerful SimpleCSS is, so [praise to Kev, Luke and others](https://github.com/kevquirk/simple.css).
 
 ### Changelog
 
@@ -58,6 +58,6 @@ Yes! I reached the goal I was looking for — at least for a while. It's clean, 
 
 ### Future improvements
 
-I've been on the fence about webmentions for a long time now. I keep seeing people I admire dropping them altogether from their sites, for reasons that I agree with. The spam is still at a manageable level, but it's very likely I'll be axing them from this site as well. Of course, I'll be deleting some more code and copy here and there. Getting to the core of things is a beautiful journey.
+I've been on the fence about webmentions for a long time now. I keep seeing people I admire [dropping them altogether from their sites](https://brainbaking.com/post/2023/05/why-i-retired-my-webmention-server/), for reasons that I agree with. The spam is still at a manageable level, but it's very likely I'll be axing them from this site as well. Of course, I'll be deleting some more code and copy here and there. Getting to the core of things is a beautiful journey.
 
 Now, back to completing my Wwise certifications.
