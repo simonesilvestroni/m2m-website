@@ -120,7 +120,7 @@ Photography &copy; 2019 [Silvia Maggi](https://silviamaggidesign.com).
 
 {% include pattern-figure.html image="/assets/images/gallery-press/c_in-the-studio.jpg" alt="In the studio (Cambridge)" caption="In the studio (Cambridge)" width="1600" height="1066" %}
 
-{% include pattern-figure.html image="/assets/images/gallery-press/e_in-the-studio.jpg" alt="In the studio (Cambrdige), playing a fretless Fender Jazz bass" caption="In the studio (Cambrdige), playing a fretless Fender Jazz bass" width="1600" height="1066" %}
+{% include pattern-figure.html image="/assets/images/gallery-press/e_in-the-studio.jpg" alt="In the studio (Cambrdige), playing a fretless Fender Jazz bass" caption="In the studio (Cambridge), playing a fretless Fender Jazz bass" width="1600" height="1066" %}
 
 {% include pattern-figure.html image="/assets/images/gallery-press/f_live-in-london.jpg" alt="Playing live in London with Callum Gardner" caption="Playing live in London with Callum Gardner" width="1600" height="1066" %}
 
