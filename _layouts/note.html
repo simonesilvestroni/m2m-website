@@ -4,9 +4,9 @@ layout: default
 <article>
 	<header>
 		<h1><span class="p-category">{{ page.title }}</span>: {{ page.date | date: "%-d %B %Y %T" }}</h1>
-		<span class="p-author h-card">
+		<span class="p-author h-card hidden" aria-hidden="true">
 			<img class="u-photo" src="{{ site.url }}/assets/images/simonesilvestroni-uphoto.jpg" alt="Avatar of Simone Silvestroni" width="28" height="28"> <span class="p-name" rel="author">Simone Silvestroni</span>
-		</span>&nbsp;&middot;&nbsp;<time class="dt-published dim" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a class="u-url u-uid" href="{{ site.url }}{{ page.url }}">{{ page.date | date: "%-d %B %Y" }}</a></time>
+		</span><time class="dt-published dim" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a class="u-url u-uid" href="{{ site.url }}{{ page.url }}">{{ page.date | date: "%-d %B %Y" }}</a></time>
 	</header>
 	<div class="warning">
 		{%- comment %}<!-- //// REPLY \\\\ -->{% endcomment -%}

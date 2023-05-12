@@ -19,35 +19,19 @@
 </head>
 <body class="h-entry layout-{{ page.layout }}" id="top">
 	<a class="skip-to-content" href="#main">Skip to content</a>
-	<a class="skip-to-menu" href="#menu">Skip to menu</a>
 	<a class="skip-to-footer" href="#footer">Skip to footer</a>
 	<header>
-		{%- if page.url == '/' %}
-		{% include site-logo.html %}
-		{% else %}
-		{% include site-logo.html %}
-		{% endif -%}
-		<p class="p-summary"><strong>{{ site.description }}</strong></p>
-	</header>
-	<aside>
 		{% include site-nav-main.html %}
-	</aside>
+	</header>
 	<main id="main">
 		{{ content }}
 	</main>
 	<footer>
-		<span class="small">&copy; 2002-{{ site.time | date: '%Y' }}</span>
 		<div class="nav-secondary">
 			{% include site-nav-secondary.html %}
 		</div>
-		<div class="nav-social">
-			{% include site-nav-social.html %}
-		</div>
-		<div>
-			<a href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/previous"><span>←</span></a>&nbsp;IndieWeb webring&nbsp;<a href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/next"><span>→</span></a>
-		</div>
 	</footer>
-	{%- if page.url contains '/search' or page.url contains '404.html' or page.url contains '/sitemap' -%}
+	{%- if page.url contains '/search' or page.url contains '404.html' -%}
 	{% if jekyll.environment == "production" %}
 	<script src="/assets/js/search-m2m.min.js"></script>
 	{% else %}

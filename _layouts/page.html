@@ -17,13 +17,9 @@ layout: default
 		{% endif -%}
 	</figure>
 	{% endif -%}
-	{% unless page.tldr == false %}
-	<div class="tldr">
-		<p class="p-summary">
-			{{ page.description }}
-		</p>
-	</div>
-	{% endunless %}
+	<p class="p-summary">
+		{{ page.description }}
+	</p>
 	<div class="e-content">
 		{{ content }}
 		{%- include pattern-last-updated.html %}
