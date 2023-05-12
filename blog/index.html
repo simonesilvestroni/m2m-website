@@ -2,18 +2,14 @@
 layout: blog
 title: 'Blog'
 date: '2021-11-06 14:11:45'
-last_modified_at: '2023-05-09 19:19:10'
+last_modified_at: '2023-05-12 01:31:04'
 description: 'I’ve been running an online journal, on and off, since March 2002. Until 2017, it was published on morula.org.'
 ---
-I often write about <a href="{{ site.url }}/blog/tag/sound-design/"><em>sound design</em></a>, <a href="{{ site.url }}/blog/tag/music-release/"><em>music</em></a>, <a href="{{ site.url }}/blog/tag/bass/"><em>bass</em></a>, <a href="{{ site.url }}/blog/tag/video-game/"><em>video games</em></a>, <a href="{{ site.url }}/blog/tag/web-development/"><em>web development</em></a>, and <a href="{{ site.url }}/blog/tag/personal/"><em>personal thoughts</em></a>.
-<div class="h-feed">
-	<h2 id="featured-posts">Featured posts</h2>
-	{%- assign featuredPosts = site.posts | where_exp:'post','post.tags contains "featured"' | sort: date | reverse -%}
-	<ul>
-		{%- for post in featuredPosts %}
-		<li><a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a></li>
-		{% endfor %}
-	</ul>
+<div class="warning">
+	<h2>Get to the point</h2>
+	<p>There’s a tag for <a href="/blog/tag/featured/">featured posts</a>. My favourite topics: <a href="{{ site.url }}/blog/tag/sound-design/"><em>sound design</em></a>, <a href="{{ site.url }}/blog/tag/music-release/"><em>music</em></a>, <a href="{{ site.url }}/blog/tag/bass/"><em>bass</em></a>, <a href="{{ site.url }}/blog/tag/video-game/"><em>video games</em></a>, <a href="{{ site.url }}/blog/tag/web-development/"><em>web development</em></a>, and <a href="{{ site.url }}/blog/tag/personal/"><em>personal thoughts</em></a>.</p>
+	<h2>Looking for my work posts?</h2>
+	<p>I have a page with my <a href="/work/">work posts organised by topic</a>. Otherwise, all the <a href="/blog/case-studies/">case studies</a> about my audio jobs are collected in a page.</p>
 </div>
 <div class="h-feed">
 	{%- for post in site.posts %}
@@ -23,22 +19,23 @@ I often write about <a href="{{ site.url }}/blog/tag/sound-design/"><em>sound de
 	{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 	{% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 		{% if forloop.first %}
-		<h2 id="{{ this_year }}-ref">{{ this_year }}</h2>
-		<ul class="list-hr">
+		<h2 id="{{ this_year }}-ref">Posts for {{ this_year }}</h2>
+		<dl>
 		{% endif %}
-			<li>
-				<a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark class="small">CASE&nbsp;STUDY</mark>{% endif %}<br>
-				<time class="dt-published small dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time>
-			</li>
+			<dt>
+				<a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark class="small"><strong>CASE&nbsp;STUDY</strong></mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small"><strong>FEATURED</strong></mark>{% endif %}
+			</dt>
+			<dd><p>{{ post.description }}</p></dd>
+			<hr>
 			{% if forloop.last %}
-		</ul>
-		<hr>
+		</dl>
 		{% else %}
 		{% if this_year != next_year %}
-		</ul>
-		<hr>
-		<h2 id="{{ next_year }}-ref">{{ next_year }}</h2>
-		<ul class="list-hr">
+		</dl>
+		<br>
+		<h2 id="{{ next_year }}-ref">Posts for {{ next_year }}</h2>
+		<br>
+		<dl>
 		{% endif %}
 		{% endif %}
 	{% endfor %}
