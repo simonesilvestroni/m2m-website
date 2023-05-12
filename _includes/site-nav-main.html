@@ -1,10 +1,12 @@
 <nav aria-label="Main navigation">
-	{% for item in site.data.nav-main.menu -%}
-	{%- capture main-nav-icon -%}
-		{%- if item.link == '/search/' or item.desc == 'Homepage' -%}
-			<span class="visually-hidden">{{ item.desc }}</span>
-		{%- endif -%}
-	{%- endcapture -%}
-	<a{%- if forloop.first %} id="menu"{% endif -%}{% if page.url contains item.link %} class="current"{% endif %} href="{{ item.link }}" title="{{ item.desc }}">{{ main-nav-icon }}{{ item.name }}</a>
-	{% endfor -%}
+	<ul>
+		{% for item in site.data.nav-main.menu -%}
+		{%- capture main-nav-icon -%}
+			{%- if item.link == 'Homepage' -%}
+				<span class="visually-hidden">Minutes to Midnight</span>
+			{%- endif -%}
+		{%- endcapture -%}
+		<li><a{% if page.url contains item.link %} class="current"{% endif %} href="{{ item.link }}" title="{{ item.desc }}">{{ main-nav-icon }}{{ item.name }}</a></li>
+		{% endfor -%}
+	</ul>
 </nav>

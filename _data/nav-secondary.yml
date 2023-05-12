@@ -2,12 +2,18 @@ menu:
   - name: Credits
     link: /credits/
     desc: 'All about the website'
+  - name: Sitemap
+    link: /sitemap/
+    desc: 'A full sitemap of the website'
   - name: Links
     link: /links/
     desc: 'My Blogroll'
   - name: Uses
     link: /uses/
     desc: 'Equipment I use'
-  - name: Sitemap
-    link: /sitemap/
-    desc: 'A full sitemap of the website'
+  - name: Search
+    link: /search/
+    desc: 'Instant-result search with an accessible fallback'
+  - name: RSS
+    link: /feed.xml
+    desc: 'RSS feed'

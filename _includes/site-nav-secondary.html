@@ -1,5 +1,7 @@
 <nav aria-label="Secondary navigation">
-	{% for item in site.data.nav-secondary.menu -%}
-	<a{% if forloop.first %} id="footer"{% endif %}{% if page.url contains item.link %} class="current"{% endif %} href="{{ item.link }}" title="{{ item.desc }}">{{ item.name }}</a>
-	{% endfor -%}
+	<ul>
+		{% for item in site.data.nav-secondary.menu -%}
+		<li><a{% if forloop.first %} id="footer"{% endif %}{% if page.url contains item.link %} class="current"{% endif %} href="{{ item.link }}" title="{{ item.desc }}">{% if page.url contains item.link %}<strong>{{ item.name }}</strong>{% else %}{{ item.name }}{% endif %}</a></li>
+		{% endfor -%}
+	</ul>
 </nav>
