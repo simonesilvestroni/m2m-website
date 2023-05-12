@@ -15,7 +15,7 @@ tags:
   - 'social media'
   - 'sustainability'
   - 'technology'
-description: 'Principles I stand for. Takes on attention span, sustainability, online social participation, and more, are connected with a will to keep my mental health safe.'
+description: 'Principles I stand for. Takes on attention span, sustainability, online social participation, and more, are connected with a will to keep my mind safe.'
 syndication: true
 syndicate:
   - name: IndieNews
@@ -35,6 +35,14 @@ This website represents myself online. I don't need to project a successful pers
 I first created a personal website in March 2002, changing its domain, design and content over 21 years. It's true that I now also offer services in exchange for money, however, this is my _personal place_ and therefore I don't cater to a specific category of people. I'm myself, [not a brand]({{ site.url }}/blog/de-brand/).
 
 I rarely swear online, but I'm never afraid to call a spade a spade.
+
+## Be kind, rewind
+
+Should be a given. Unfortunately, it _needs to be said_: I try to be as kind as possible, listen to everybody (except for fascists) and avoid being judgmental. Also, and I cannot stress enough about this, whenever I make a mistake, I'm able to apologise and correct myself.
+
+## Privilege
+
+I'm well aware of the advantages I have as a white man raised in a Western country. I keep this in mind.
 
 ## Attention span
 
