@@ -87,7 +87,7 @@ touch ~/@ARCHIVE/2022/wwM2M/m2m-website/_posts/"$file" && echo -e "---\ntitle: '
 
 ### Adding images to a post with Shortcuts
 
-{: .notice }
+{: .warning }
 **Opinionated sidenote**: with a CMS, I can simply drag a huge photo to a media library because the system would take care of resizing — and maybe some optimisation through a plug-in or two. *Regardless of how much I could streamline that workflow* on a CMS, it’s not my cup of tea. I always think about [sustainability]({{ site.url }}/blog/on-the-concept-of-frugal-computing/), hence the idea of having a website carrying a redundant amount of images is sub-optimal.
 
 The process I follow to add images to a post in Jekyll is made of 5 stages:

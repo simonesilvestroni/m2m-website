@@ -17,7 +17,7 @@ syndicate:
   - name: Mastodon
     url: https://indieweb.social/@m2m/110016368797042587
 ---
-{: .notice }
+{: .warning }
 Part 1 is about what the album meant to me and a few considerations about what a successful release is and isn't.<br><br>[Part 2 →](/blog/releasing-an-album-as-an-independent-artist-pt2/) is about the type of release campaign, how we approached the concept of social media marketing, why it failed and what changed in the aftermath.
 
 Here’s the opening single, _Skinny Kid_:

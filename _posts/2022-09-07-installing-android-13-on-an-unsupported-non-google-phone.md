@@ -88,5 +88,5 @@ Unlike several bug reports on LineageOS’ forums about the Redmi Note 7 camera 
 
 If, for whatever reason, I wish to go back to MIUI, all I have to do is download [Xiaomi’s flash tool](https://xiaomiflashtool.com/) and follow the instructions. I did exactly that when I bricked the phone, before re-flashing the recovery for the correct device, and it worked.
 
-{: .notice }
+{: .warning }
 **Edit: a month later** — The whole "Pro/non-Pro" issue was my fault. Apparently I had a [Mandela effect](https://en.wikipedia.org/wiki/False_memory#Mandela_Effect) on my own — in fact, I've found the original box, which clearly states it's a Redmi Note 7, not a Note 7 Pro.<br><br>The issue related to QR codes only exists in WhatsApp for whatever reason, which is definitely not a problem.

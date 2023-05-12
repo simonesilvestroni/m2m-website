@@ -20,7 +20,7 @@ syndicate:
   - name: Mastodon
     url: https://indieweb.social/@m2m/110057816455118169
 ---
-{: .notice }
+{: .warning }
 [← Part 1](/blog/releasing-an-album-as-an-independent-artist-pt1/) was about what the album meant to me and a few considerations about what a successful release is and isn't.<br><br>I’ll explore now the release campaign, how we approached the concept of social media marketing, why it failed (for me) and what changed in the aftermath.
 
 Here’s the song _Unter Den Linden_, arranged with [Paolo Clementi](https://www.discogs.com/artist/2142806-Paolo-Clementi):
