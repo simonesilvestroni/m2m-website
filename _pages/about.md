@@ -30,7 +30,7 @@ Early days
 : During the 1990s I acquired audio skills in music studios and live, freelancing as a bass player.
 
 Places
-: I lived and worked for 16 years in Milan, where I also crafted a [parallel career in web development](https://simonesilvestroni.com) out of my love for my first job in the print industry.
+: I lived and worked for 16 years in Milan, where I also crafted a [parallel career in web development](https://simonesilvestroni.com) out of love for my first job in the print industry.
 : Moved to the UK in 2011, where I kept working as a web and sound designer, shifting my focus towards the latter.
 
 Crucial bits of formation
