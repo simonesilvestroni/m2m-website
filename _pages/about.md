@@ -27,13 +27,14 @@ Beliefs
 : As a digital polymath, I truly embrace my eclectic career. Unlike the proverbial _jack of all trades_, I became highly proficient in three different industries: print, web, audio.
 
 Early days
-: During the 1990s I acquired audio skills in music studios and live, freelancing as a bass player after graduating at the _CPM Music Institute_ in 1995.
+: During the 1990s I acquired audio skills in music studios and live, freelancing as a bass player.
 
 Places
 : I lived and worked for 16 years in Milan, where I also crafted a [parallel career in web development](https://simonesilvestroni.com) out of my love for my first job in the print industry.
 : Moved to the UK in 2011, where I kept working as a web and sound designer, shifting my focus towards the latter.
 
 Crucial bits of formation
+: Graduated (bass and music theory) at the _CPM Music Institute_ in 1995.
 : Participated to the Game Developer Conference in 2002, where I witnessed to the launch of Steam by Valve and joined as a Bronze Member the [Game Audio Guild Network](/work/sound-design/ruff-trigger-playstation2-game/#game-developer-conference-and-gang) on the day of its foundation. At the same time, I started my first blog, journaling about working long hours on a console video game.
 : Graduated at the _Berklee College of Music_ (audio mastering and music production) in 2017.
 
