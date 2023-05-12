@@ -23,7 +23,7 @@ permalink: '/about/'
 ## Quick facts
 
 Beliefs
-: I wrote a personal [manifesto with principles I live by](/personal-manifesto/). The following is mostly work-centred.
+: I try to be kind, listen to people and be open to new ideas. I despise misogyny, fascism, and a capitalism that's oblivious of its unsustainability — in fact, I wrote a personal [manifesto with principles I live by](/personal-manifesto/). Everything else on this page is mostly work-centred.
 : As a digital polymath, I truly embrace my eclectic career. Unlike the proverbial _jack of all trades_, I became highly proficient in three different industries: print, web, audio.
 
 Early days
