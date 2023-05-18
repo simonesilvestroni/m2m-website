@@ -13,6 +13,9 @@ A personal list of blogs that I read within a curated platform with zero algorit
 
 ## General
 
+[Indieweb webring](https://indieweb.org/indiewebring)
+: This website is part of the webring. Browse random sites from the same ring, to discover personal websites that are part of the small web.<br>[← Previous site](https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/previous) &middot; [Next site →](https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/next)
+
 [Ye Olde Blogroll](https://blogroll.org/)
 : A humanly curated list of fine personal & independent blogs that are updated regularly. _No algorithms ever_. Managed by [Ray](https://alongtheray.com/).
 
@@ -113,9 +116,3 @@ A personal list of blogs that I read within a curated platform with zero algorit
 
 [George Monbiot](https://www.monbiot.com/)
 : Journalist and writer, he tells people what they don’t want to hear. I find his writings on climate and politics slightly depressing though always illuminating.
-
-## Indieweb
-
-This website is part of the [Indieweb webring](https://indieweb.org/indiewebring). Browse random sites from the same ring, to discover personal websites that are part of the small web.
-
-<a href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/previous">←</a>&nbsp;IndieWeb webring&nbsp;<a href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/next">→</a>

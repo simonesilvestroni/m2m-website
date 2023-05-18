@@ -2,50 +2,37 @@
 layout: page
 title: Sitemap
 date: '2023-03-31 12:22:58'
-last_modified_at: '2023-05-12 01:30:58'
-description: 'A full map of the website, including pages, blog posts, case studies and tags.'
+last_modified_at: '2023-05-18 15:46:08'
+description: 'A full map of the website, including pages, blog posts, and case studies.'
 permalink: '/sitemap/'
 ---
 {%- assign pages = site.pages | where:"layout", "page" -%}
 {%- assign blogpage = site.pages | where:"layout", "blog"  -%}
 {%- assign allpages = pages | concat: blogpage | sort: 'title' -%}
 {%- assign sorted_blog = site.documents | where:"layout", "post" | sort: 'date' | reverse -%}
-{%- assign sorted_tags = site.tags | sort -%}
 
-<details class="warning">
-  <summary>Pages <sup>({{ allpages | size | plus: 1 }})</sup></summary>
-  <ul class="list-hr-group">
-    <li>
-      <a href="{{ site.url }}">Homepage</a><br>
-      <span class="dim small">Updated <time><em>{{ site.time | date: "%-d %B %Y" }}</em></time></span>
-    </li>
-    {%- for page in allpages %}
-    {%- unless page.sitemap == false %}
-    <li>
-      <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a><br>
-      <span class="dim small">Updated <time>{%- if page.title == 'Sitemap' %}<em>{{ site.time | date: "%-d %B %Y" }}</em>{% else %}<em>{{ page.last_modified_at | date: "%-d %B %Y" }}</em>{% endif -%}</time></span>
-    </li>
-    {%- endunless -%}
-    {% endfor -%}
-  </ul>
-</details>
+<h2>Pages</h2>
+<ul class="list-hr-group">
+  <li>
+    <a href="{{ site.url }}">Homepage</a><br>
+    <span class="dim small"><em>Updated</em>: <time>{{ site.time | date: "%-d %B %Y" }}</time></span>
+  </li>
+  {%- for page in allpages %}
+  {%- unless page.sitemap == false %}
+  <li>
+    <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a><br>
+    <span class="dim small"><em>Updated</em>: <time>{%- if page.title == 'Sitemap' %}{{ site.time | date: "%-d %B %Y" }}{% else %}{{ page.last_modified_at | date: "%-d %B %Y" }}{% endif -%}</time></span>
+  </li>
+  {%- endunless -%}
+  {% endfor -%}
+</ul>
 
-<details class="warning">
-  <summary>Posts <sup>({{ site.posts | size }})</sup></summary>
-  <ul class="list-hr-group">
-    {%- for post in sorted_blog %}
-    <li>
-      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark class="small"><strong>CASE&nbsp;STUDY</strong></mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small"><strong>FEATURED</strong></mark>{% endif %}<br>
-      <time class="dt-published small dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated"><em>{{ post.date | date: "%-d %B %Y" }}</em></time>
-    </li>
-    {%- endfor -%}
-  </ul>
-</details>
-
-<details class="warning">
-  <summary>Tags <sup>({{ site.tags | size }})</sup></summary>
-  {%- for tag in sorted_tags -%}
-  {%- assign t = tag | first %}
-  <a class="button" href="{{ site.url }}/blog/tag/{{ t | slugify }}/">{{ t | upcase }}</a>
-  {%- endfor %}
-</details>
+<h2>Posts</h2>
+<ul class="list-hr-group">
+  {%- for post in sorted_blog %}
+  <li>
+    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark class="small"><strong>CASE&nbsp;STUDY</strong></mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small"><strong>FEATURED</strong></mark>{% endif %}<br>
+    <time class="dt-published small dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time>
+  </li>
+  {%- endfor -%}
+</ul>

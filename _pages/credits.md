@@ -77,6 +77,8 @@ The text content of this website is [Attribution-ShareAlike 4.0 International](h
 
 Everything connected to sound and music in this website is copyrighted.
 
+Photography &copy; [Silvia Maggi](https://silviamaggidesign.com).
+
 ## Trademark
 
 Minutes to Midnight&trade; is a registered trademark in the UK and worldwide. The logo, in all its variants is use trademark for the trading name of Simone Silvestroni.

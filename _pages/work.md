@@ -2,86 +2,68 @@
 layout: page
 title: 'Work'
 date: '2021-11-08 10:51:46'
-last_modified_at: '2023-04-18 13:06:14'
-description: 'The facets of my work in the audio field are spread between sound design and game audio, bass tracks, music production and original compositions.'
+last_modified_at: '2023-05-18 14:51:55'
+description: 'I love playing bass and telling stories through sound. My work is focused on writing concept albums, mixing other people’s music, and game audio sound design.'
 permalink: '/work/'
+featimage: true
+featimage-name: live-with-callum-gardner.jpg
+featimage-alt: Playing live in London with Callum Gardner
+featimage-width: 1600
+featimage-height: 1066
+featimage-caption: Playing live in London with Callum Gardner
 ---
-{%- comment -%}I have no time for DRY now, thanks for checking!{%- endcomment -%}
+## Quick facts
 
-{%- capture sounddesign_desc -%}
-{%- for page in site.pages -%}
-  {%- if page.url == '/work/sound-design/' -%}
-    {{ page.description }}
-  {%- endif -%}
-{%- endfor -%}
-{%- endcapture -%}
+<div class="warning" id="music-production">
+  <p>During the 1990s I acquired audio skills in music studios and live, freelancing as a <mark><strong>bass&nbsp;player</strong></mark>. Later, I specialised in <mark><strong>mix&nbsp;and&nbsp;master</strong></mark>.</p>
+  <div class="cta-wrapper">
+    <a href="/work/music-production/"><img class="avatar" src="/assets/images/minutes-to-midnight-studio.jpg" width="96" height="96" alt="Minutes to Midnight studio in Cambridge"></a>
+    <p class="cta"><a href="/work/music-production/">My work as a music producer&nbsp;→</a></p>
+  </div>
+</div>
 
-{%- capture musicproduction_desc -%}
-{%- for page in site.pages -%}
-  {%- if page.url == '/work/music-production/' -%}
-    {{ page.description }}
-  {%- endif -%}
-{%- endfor -%}
-{%- endcapture -%}
+<div class="warning" id="sound-design">
+  <p><mark><strong>Game&nbsp;audio&nbsp;designer</strong></mark> with one title shipped for Sony PlayStation&nbsp;2. I reckon video games are the ultimate audio-visual narrative medium.</p>
+  <div class="cta-wrapper">
+    <a href="/work/sound-design/"><img class="avatar" src="/assets/images/minutes-to-midnight-in-studio-producing.jpg" width="96" height="96" alt="Simone Silvestroni in the studio"></a>
+    <p class="cta"><a href="/work/sound-design/">My work as a sound designer&nbsp;→</a></p>
+  </div>
+</div>
 
-{%- capture originalmusic_desc -%}
-{%- for page in site.pages -%}
-  {%- if page.url == '/work/music/' -%}
-    {{ page.description }}
-  {%- endif -%}
-{%- endfor -%}
-{%- endcapture -%}
+<div class="warning" id="original-music">
+  <p>I’ve been writing music and lyrics for several decades, releasing <mark><strong>concept&nbsp;albums</strong></mark> where the story, usually autobiographical, is at the forefront.</p>
+  <div class="cta-wrapper">
+    <a href="/work/music/"><img class="avatar" src="/assets/images/minutes-to-midnight-playing-bass.jpg" width="96" height="96" alt="Simone Silvestroni playing a Warwick Thumb Bass"></a>
+    <p class="cta"><a href="/work/music/">My work as a composer&nbsp;→</a></p>
+  </div>
+</div>
 
-<article class="warning">
-  <a class="card-project_link" href="/work/sound-design/" title="Read the case studies about sound design">
-    <header>
-      <h2>Sound Design</h2>
-    </header>
-    <div class="card-project">
-      <picture class="card-project_picture">
-        <source srcset="/assets/images/minutes-to-midnight-studio.webp" type="image/webp">
-        <source srcset="/assets/images/minutes-to-midnight-studio.jpg" type="image/jpeg">
-        <img src="/assets/images/minutes-to-midnight-studio.jpg" alt="Picture of Minutes to Midnight studio" width="200" height="200">
-      </picture>
-      <p class="p-summary card-project_description">{{ sounddesign_desc }}<br><br><strong>Read the case studies</strong>&nbsp;→</p>
-    </div>
-  </a>
-</article>
+<div class="warning" id="project-management">
+  <p>Constantly looking for better ways to manage my tasks, I <mark><strong>wrote&nbsp;an&nbsp;ebook</strong></mark> about project management in the music industry, based on a real-life album production.</p>
+  <div class="cta-wrapper">
+    <a href="/assets/files/minutes-to-midnight_efficient-productivity-for-music-professionals.pdf"><img class="avatar" src="/assets/images/efficient-productivity-ebook.png" width="96" height="96" alt="Cover of the ebook"></a>
+    <p class="cta"><a href="/assets/files/minutes-to-midnight_efficient-productivity-for-music-professionals.pdf">Download the book for free (13 MB)&nbsp;→</a></p></div>
+</div>
 
-<article class="warning">
-  <a class="card-project_link" href="/work/music-production/" title="Read the case studies about music production">
-    <header>
-      <h2>Music Production</h2>
-    </header>
-    <div class="card-project">
-      <picture class="card-project_picture">
-        <source srcset="/assets/images/minutes-to-midnight-in-studio-producing.webp" type="image/webp">
-        <source srcset="/assets/images/minutes-to-midnight-in-studio-producing.jpg" type="image/jpeg">
-        <img src="/assets/images/minutes-to-midnight-in-studio-producing.jpg" alt="Minutes to Midnight's studio" width="200" height="200">
-      </picture>
-      <p class="p-summary card-project_description">{{ musicproduction_desc }}<br><br><strong>Read the case studies</strong>&nbsp;→</p>
-    </div>
-  </a>
-</article>
+## Collaborations
 
-<article class="warning">
-  <a class="card-project_link" href="/work/music/" title="Read the case studies about original music">
-    <header>
-      <h2>Original Music</h2>
-    </header>
-    <div class="card-project">
-      <picture class="card-project_picture">
-        <source srcset="/assets/images/minutes-to-midnight-playing-bass.webp" type="image/webp">
-        <source srcset="/assets/images/minutes-to-midnight-playing-bass.jpg" type="image/jpeg">
-        <img src="/assets/images/minutes-to-midnight-playing-bass.jpg" alt="Minutes to Midnight playing bass in the studio" width="200" height="200">
-      </picture>
-      <p class="p-summary card-project_description">{{ originalmusic_desc }}<br><br><strong>Read the case studies</strong>&nbsp;→</p>
-    </div>
-  </a>
-</article>
+Whether in person or remotely, I've been working with artist from the UK, the US and Italy, such as: Gerald Duchene, Dan Ecclestone, Rachel Goodman, Ember Rev, Mally Harpaz (Anna Calvi), Ciara Clifford, Callum Gardner, Martin Wykes, Andrea Gobbi, Paolo Clementi, Gianluca Lo Presti, Emilio Albertoni, Method Sinik.
 
-### Books and articles
+I often share projects with renowned master engineer [Ian Shepherd](https://productionadvice.co.uk/about/), and occasionally with _SoundOnSound_ [editor in chief Sam Inglis](https://www.soundonsound.com/author/sam-inglis).
+
+[Endorsed by Leland Sklar](/work/endorsements/) (bassist for Phil Collins and Toto) and others.
+
+## Skills
+
+{%- assign completeSkills = site.completeSkills %}
 
 {: .list-hr }
-- In 2018 I wrote the free ebook [_Efficient Productivity for Music Professionals_](/work/project-management/) about project management in the music industry. Based on a real-life album production.
-- In 2019 my article [_A Trip to Freedom, From Berlin to Berlin_](/blog/after-1989-full-story/) was published by the Medium magazine "Lessons From History". The story was the basis for my debut album _After 1989_.
+- I've been a professional [bass player](/blog/tag/bass/) for three decades.
+- [Sound designer](/blog/tag/sound-design/) since the early 2000s.
+- As a music producer, I specialise in [mix](/blog/tag/mix/) and [master](/blog/tag/master/).
+- Apple certified for [Logic Pro X](/blog/tag/logic-pro/), I transitioned to [Pro Tools](/blog/tag/pro-tools/) and later [REAPER](/blog/tag/reaper/).
+- [iZotope RX](/blog/tag/izotope-rx/) is my go-to audio editing tool.
+- I love losing myself with {% for item in completeSkills -%}{{ item.name }}{% unless forloop.last %}, {% endunless %}{%- endfor -%}.
+
+{: .notice .cta }
+[Check out the equipment I use&nbsp;→]({{ site.url }}/uses/)
