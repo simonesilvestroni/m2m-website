@@ -57,7 +57,7 @@ Built with Jekyll `v4.2.2`.
 - The homepage loads in `0.4` seconds and weighs `28.8 KB` (uncompressed)
 - The entire source code is `1.1 MB`
 - `0.00g` of CO2 [produced when someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/)
-- Scores `100` on [Ecograder](https://ecograder.com/report/CYFdKg62wGIsfEWJoa8uLAIE)
+- Scores `100` on [Ecograder](https://ecograder.com/report/crccbrW1xmYgrNUdrNxEulBa)
 - Featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/)
 
 ### Accessibility
