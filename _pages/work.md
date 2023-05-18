@@ -31,7 +31,7 @@ featimage-caption: Playing live in London with Callum Gardner
 </div>
 
 <div class="warning" id="original-music">
-  <p>I’ve been writing music and lyrics for several decades, releasing <mark><strong>concept&nbsp;albums</strong></mark> where the story, usually autobiographical, is at the forefront.</p>
+  <p>I’ve been <mark><strong>writing&nbsp;music</strong></mark> and lyrics for several decades, releasing concept albums where the story, usually autobiographical, is at the forefront.</p>
   <div class="cta-wrapper">
     <a href="/work/music/"><img class="avatar" src="/assets/images/minutes-to-midnight-playing-bass.jpg" width="96" height="96" alt="Simone Silvestroni playing a Warwick Thumb Bass"></a>
     <p class="cta"><a href="/work/music/">My work as a composer&nbsp;→</a></p>
