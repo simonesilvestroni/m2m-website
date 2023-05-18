@@ -41,7 +41,7 @@ A personal list of blogs that I read within a curated platform with zero algorit
 [Imogen](https://write.as/imgn/)
 : She's a scientist, songwriter and storyteller interested in data privacy, decentralized communication and free open source software. I followed Imogen on Mastodon because of her majestic taste in music and ended up finding a human connection with a kindred spirit.
 
-[Bradley Taunt](https://tdarb.org/)
+[Bradley Taunt](https://bt.ht/)
 : Works as a user interface and experience designer and also dabble in open source projects. Writes about macOS, design, CSS, web development, digital privacy, Linux.
 
 [Small Technology Foundation](https://small-tech.org/news/)
