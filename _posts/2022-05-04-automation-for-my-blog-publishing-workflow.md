@@ -160,7 +160,7 @@ The trick is to collect the required information, store it in variables which I 
 In his analysis, Luke has a detailed chapter about how he [writes on-the-go or on mobile devices](https://www.lkhrs.com/blog/2022/04/easier-static-site-publishing/#mobile-and-away-from-home-publishing). Again, I’m not elaborating because I never find myself in such a situation. Writing posts is not a urgent activity for me, therefore relying on my computer is enough. Had I been forced to, I’d consider two alternatives:
 
 - Using [micropub](https://micropub.net/) with one of the online clients. I have an endpoint (unwisely untested).
-- Accessing my Github repo and activate [VS Code online](https://code.visualstudio.com/docs/editor/github).
+- Accessing my Github repo and activate [VS Code online](https://code.visualstudio.com/docs/sourcecontrol/github).
 
 ## Deployment
 

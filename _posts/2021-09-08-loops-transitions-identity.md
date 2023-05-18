@@ -60,7 +60,7 @@ I won’t be showing annoying cookie messages, because the website won’t spy o
 
 I love when blogs present this kind of interaction, and the idea of being back to the feeling of “it’s me and the author” is electrifying.
 
-> There were no ads, no one could slow down your feed with third party scripts, it had a good baseline of typographic standards and, most of all, it was _quiet_. There were no comments, no likes or retweets. Just the writer’s thoughts and you.<cite>[Robin Rendle](https://www.robinrendle.com/notes/how-to-read-the-internet/)</cite>
+> There were no ads, no one could slow down your feed with third party scripts, it had a good baseline of typographic standards and, most of all, it was _quiet_. There were no comments, no likes or retweets. Just the writer’s thoughts and you.<cite>[Robin Rendle](https://robinrendle.com/notes/how-to-read-the-internet/)</cite>
 
 ## Decentralise and own my data
 

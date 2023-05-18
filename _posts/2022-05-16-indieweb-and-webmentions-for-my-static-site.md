@@ -38,7 +38,7 @@ The following step-by-step process works on a Jekyll-based website. For Hugo use
 
 ### Webmention.io and IndieAuth
 
-[Webmention.io](https://webmention.io/) is a free service created by [Aaron Parecki](http://aaronparecki.com/). To log in I chose [IndieAuth](https://indieauth.com/), which provides authentication for personal websites using existing social accounts, and is part of the IndieWeb effort to take back control of your online identity:
+[Webmention.io](https://webmention.io/) is a free service created by [Aaron Parecki](https://aaronparecki.com/). To log in I chose [IndieAuth](https://indieauth.com/), which provides authentication for personal websites using existing social accounts, and is part of the IndieWeb effort to take back control of your online identity:
 
 > Instead of logging in to websites as "you on Twitter" or "you on Facebook", you should be able to log in as just "you". We should not be relying on Twitter or Facebook to provide our authenticated identities, we should be able to use our own domain names to log in to sites everywhere.
 

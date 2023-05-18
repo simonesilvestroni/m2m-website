@@ -35,7 +35,7 @@ Most Xiaomi devices come factory locked, which means it’s impossible to rewrit
 
 I chose [OrangeFox](https://wiki.orangefox.tech/en/home), one of the most popular bootloaders. Downloading the correct version [for my specific device](https://orangefox.download/en/device/lavender) was a bit trickier. My phone is a **Redmi Note 7 Pro**, whose codename is *violet*, but when I flashed the recovery for that model, I involuntarily bricked the phone — or so  it seeemed.
 
-After several hours, close to giving up, I’d decided to read the bootloader log from the terminal of my Window machine, through [`adb`](https://developer.android.com/studio/command-line/adb). To my utter surprise, the device was listed as *lavender* (code name for the regular Redmi Note 7) and not *violet*. Did they sell me a pro device that wasn’t really pro? Whatever. Once re-downloaded the OrangeFox image for *lavender*, it worked like a charm.
+After several hours, close to giving up, I’d decided to read the bootloader log from the terminal of my Window machine, through [`adb`](https://developer.android.com/tools/adb). To my utter surprise, the device was listed as *lavender* (code name for the regular Redmi Note 7) and not *violet*. Did they sell me a pro device that wasn’t really pro? Whatever. Once re-downloaded the OrangeFox image for *lavender*, it worked like a charm.
 
 ## Third: boot into recovery
 

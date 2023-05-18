@@ -22,7 +22,7 @@ syndicate:
 A few days ago, while reading my Mastodon timeline, I stumbled on an [article by Wouter Groeneveld](https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/), titled *Cool Things People Do With Their Blogs*. Two things caught my eye: 
 
 - [styled OPML blogrolls](https://rubenerd.com/omake.opml) that can be imported into an RSS reader, by Ruben Schade;
-- [styled RSS feeds](http://interconnected.org/home/feed) to better explain what a web feed is, by Matt Webb.
+- [styled RSS feeds](https://interconnected.org/home/feed) to better explain what a web feed is, by Matt Webb.
 
 I’d forgotten about [XSLT](https://en.wikipedia.org/wiki/XSLT) with its potential applications, so the above examples inspired me. Also, I didn't know that [OPML](http://opml.org/spec2.opml), which I’ve been using to import and export my RSS feeds, could be styled and used as a human-readable experience on the web.
 

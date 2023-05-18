@@ -111,7 +111,7 @@ A personal list of blogs that I read within a curated platform with zero algorit
 [Om Malik](https://om.co/)
 : Om is a San Francisco-based writer, photographer, and investor. He writes about technology, photography, and general observations about life. Om likes to write like a human, steering clear of jargon and B-school speak.
 
-[Abandoned Berlin](https://www.abandonedberlin.com)
+[Abandoned Berlin](https://abandonedberlin.com/)
 : An attempt to document the past, uncover hidden history and preserve the memory of neglected glories, as they are now.
 
 [George Monbiot](https://www.monbiot.com/)

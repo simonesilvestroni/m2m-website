@@ -20,7 +20,7 @@ permalink: /work/music-production/mastering-ipogeo-ep/
 
 ## Stem mastering
 
-After listening to the mixes, I almost immediately opted for [stem mastering](https://www.izotope.com/en/learn/how-to-master-with-stems.html). I felt like the songs could have been improved by slightly altering the balance between certain tracks. Even if it was possible to perform a fairly similar correction on a two-track stereo using spectral editing, I felt like having the stems would have offered way more wiggle.
+After listening to the mixes, I almost immediately opted for [stem mastering](https://www.izotope.com/en/learn/stem-mastering.html). I felt like the songs could have been improved by slightly altering the balance between certain tracks. Even if it was possible to perform a fairly similar correction on a two-track stereo using spectral editing, I felt like having the stems would have offered way more wiggle.
 
 After agreeing on the type and number of stems, I proceeded with the edits. Having such a granular access to the layers, I could apply gentle strokes of EQ and compression to some tracks leaving the others untouched. Automation also was of great help, especially for enhancing the choruses.
 

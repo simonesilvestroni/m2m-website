@@ -15,7 +15,7 @@ syndicate:
   - name: Mastodon
     url: https://indieweb.social/@m2m/108363784201325745
 ---
-I’ve finally switched back to [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) for web dev testing purposes. Here’s a brief list of the steps needed to get it done properly.
+I’ve finally switched back to [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) for web dev testing purposes. Here’s a brief list of the steps needed to get it done properly.
 
 {: .list-hr }
 - Installation on macOS using Homebrew. Once completed the browser can be found in `/Applications/`.
