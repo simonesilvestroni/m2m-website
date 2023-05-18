@@ -17,7 +17,7 @@ An unordered list of people who inspired improvements and helped me find a bette
 
 - [Silvia Maggi](https://silviamaggidesign.com)
 - [Luke Harris](https://www.lkhrs.com)
-- [Zinzy Waleson Geene](https://zinzy.website)
+- [Zinzy Waleson Geene](https://www.zinzy.website)
 - [Chris Wiegman](https://chriswiegman.com)
 - [Wouter Groeneveld](https://brainbaking.com)
 - [Brad Taunt](https://bt.ht)
