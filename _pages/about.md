@@ -13,13 +13,13 @@ featimage-height: 455
 ---
 ## Being Open
 
-Unlike the proverbial _jack of all trades_, I truly embraced my eclectic career, and love how it made me fluent in three different industries. Being able to competently juggle between design, web development and sound design, created a constant flow of curiosity and cross-disciplinary interests.
+Unlike the proverbial _jack of all trades_, I truly embrace my eclectic career, and love how it made me fluent in three different fields. Being able to competently juggle between design, web development and sound design, created a constant flow of curiosity and cross-disciplinary interests.
 
 I try to listen to people and be open to new ideas. Despising a society that's oblivious of its unsustainability, I wrote a personal [manifesto of some of the principles I live by](/personal-manifesto/).
 
 ## Places
 
-After growing up in Ravenna (Italy), my coming of age happened in Milan, where I lived and worked for 16 years. Moved to the UK in 2011, I enjoyed the process of integration in a different culture, while making a living first [as a web developer](https://simonesilvestroni.com), later as a [music producer, sound designer and musician](/work/).
+After growing up in Ravenna (Italy), my coming of age happened in Milan, where I lived and worked for 16 years. Moved to the UK in 2011, I enjoyed the process of integration with a different culture, while making a living first [as a web developer](https://simonesilvestroni.com), later as a [music producer, sound designer and musician](/work/).
 
 ## Crucial bits of formation
 
