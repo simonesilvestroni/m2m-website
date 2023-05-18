@@ -199,9 +199,6 @@ https://after1989.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/work
 /minutes-to-midnight-brand/ /about/ 301
 /minutestomidnight-brand/ /about/ 301
 /landing/after-1989-anniversary-discount/ /work/music/after-1989/ 301
-/landing/productivity-for-music-professionals/ /work/project-management/ 301
-/landing/efficient-productivity-for-music-professionals/ /work/project-management/ 301
-/work/project-management/ /work/project-management/ 301
 /landing/newsletter-by-minutes-to-midnight /blog/ 301
 /link-tree/ /contact/ 301
 /link-tree-online-presence/ /contact/ 301
@@ -221,8 +218,10 @@ https://after1989.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/work
 /minutes-to-midnight-my-work/production-mix /work/ 301
 /minutes-to-midnight-my-work/sound-design /work/ 301
 /projects/ /work/ 301
-/efficient-productivity-for-music-professionals/ /work/project-management/ 301
-/projects/project-management/ /work/project-management/ 301
+/efficient-productivity-for-music-professionals/ /work/ 301
+/projects/project-management/ /work/ 301
+/landing/productivity-for-music-professionals/ /work/ 301
+/landing/efficient-productivity-for-music-professionals/ /work// 301
 /after-1989-love-field-official-music-video/ /blog/love-field-official-video/ 301
 /after-1989-13-days-official-video-cuban-crisis/ /blog/13-days-official-video/ 301
 /after-1989-13-days-official-video/ /blog/13-days-official-video/ 301
