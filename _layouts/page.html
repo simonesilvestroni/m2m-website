@@ -24,7 +24,8 @@ layout: default
 	{% endunless %}
 	<div class="e-content">
 		{{ content }}
+		{% unless page.title == 'Page not found' or page.url contains '/search/' %}
 		{%- include pattern-last-updated.html %}
+		{% endunless %}
 	</div>
-	{%- include hcard-page.html -%}
 </article>
