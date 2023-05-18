@@ -39,8 +39,7 @@ description: 'YHHTMY podcast selected my song ‘Love Field’ from the album �
 A quote from their review of _Love Field_:
 
 > It really impacted me, I listened to the entire album which is something I rarely do with submissions.
-> 
-> <cite>— YHHTMY</cite>
+> <cite>YHHTMY</cite>
 
 ## The podcast on YouTube
 
@@ -48,6 +47,5 @@ Here’s the relevant section:
 
 {% include pattern-video.html id="wb2hRjPuU6Y" %}
 
-<br>
-[**Read the album analysis**](/work/music/after-1989/)&nbsp;→
-<br>
+{: .notice .cta }
+[Read the album analysis&nbsp;→](/work/music/after-1989/)

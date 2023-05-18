@@ -41,7 +41,7 @@ For the first time, I've used my version of [Michael Brauer's multi-bus compress
 
 ## Workflow
 
-I added the project to my Trello boards and added Dan as a contributor. We both followed the [plan in real time]({{ site.url }}/work/project-management/) interacting through comments, links and suggestions. We met at least once a week, and the workflow went on in the smoothest possible way. Ian started his involvement with that same first song, using a mix I exported to Dropbox. I used his advice to sort a few EQ problems out.
+I added the project to my Trello boards and added Dan as a contributor. We both followed the [plan in real time]({{ site.url }}/work#project-management/) interacting through comments, links and suggestions. We met at least once a week, and the workflow went on in the smoothest possible way. Ian started his involvement with that same first song, using a mix I exported to Dropbox. I used his advice to sort a few EQ problems out.
 
 ## Review
 

@@ -15,7 +15,7 @@ tags:
   - 'social media'
   - 'sustainability'
   - 'technology'
-description: 'Principles I stand for. Takes on attention span, sustainability, online social participation, and more, are connected with a will to keep my mind safe.'
+description: 'Principles I stand for. My takes on being genuine, build a clean online presence, sustainability and more, are connected with a will to keep my mind safe.'
 syndication: true
 syndicate:
   - name: IndieNews
@@ -30,7 +30,7 @@ Most of the following points are interconnected. The glue that keeps them togeth
 
 This website represents myself online. I don't need to project a successful persona here, nor fake anything. Owning the site, both the code and the content, has a real meaning. And yes, [I love it](https://anhvn.com/posts/2021/2021-12-14-i-love-my-website/).
 
-> I love my website. Even though it isn’t a physical thing, I think it might be my most prized possession.<cite>[**Jeremy Keith**](https://adactio.com/articles/10887)</cite>
+> I love my website. Even though it isn’t a physical thing, I think it might be my most prized possession.<cite>[Jeremy Keith](https://adactio.com/articles/10887)</cite>
 
 I first created a personal website in March 2002, changing its domain, design and content over 21 years. It's true that I now also offer services in exchange for money, however, this is my _personal place_ and therefore I don't cater to a specific category of people. I'm myself, [not a brand]({{ site.url }}/blog/de-brand/).
 
@@ -42,7 +42,7 @@ Should be a given. Unfortunately, it _needs to be said_: I try to be as kind as 
 
 ## Privilege
 
-I'm well aware of the advantages I have as a white man raised in a Western country. I keep this in mind.
+I despise patriarchy and misogyny. Even though I relentlessly refused to participate in locker room talk, I'm well aware of the advantages I have as a white man raised in a Western country. I keep this in mind.
 
 ## Attention span
 

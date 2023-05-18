@@ -77,9 +77,8 @@ _Skinny Kid_ was the first piece that I turned into a proper song when I refacto
 
 > _Skinny Kid_ is a tender delicate number as Simone expresses emotional and harrowing themes through a bitter, icy piano and tense progressive soundscapes. With a steady beat pounding through weaving guitars and ominous rumble on bass, the track projects images of isolation and loneliness by means of sinister chilling twinkles and tender vocals. The haunting backing vocals and lamenting pines on guitar have a chilling element as Simone portrays this harsh experience with sublime instrumentation and vivid musicianship.<cite>— [Indie Buddie](https://www.indiebuddie.com/minutes-to-midnight-skinny-kid-video-premiere/)</cite>
 
-<br>
-[**Read the album analysis**](/work/music/after-1989/)&nbsp;→
-<br>
+{: .notice .cta }
+[Read the album analysis&nbsp;→](/work/music/after-1989/)
 
 ## Credits for ‘Skinny Kid’
 
