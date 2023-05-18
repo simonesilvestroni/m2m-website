@@ -1,7 +1,7 @@
 menu:
-  - name: Credits
-    link: /credits/
-    desc: 'All about the website'
+  - name: Now
+    link: /now/
+    desc: 'What have I been up to?'
   - name: Sitemap
     link: /sitemap/
     desc: 'A full sitemap of the website'
@@ -11,6 +11,9 @@ menu:
   - name: Uses
     link: /uses/
     desc: 'Equipment I use'
+  - name: Credits
+    link: /credits/
+    desc: 'All about the website'
   - name: Search
     link: /search/
     desc: 'Instant-result search with an accessible fallback'
