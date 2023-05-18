@@ -17,6 +17,7 @@ posts_limit: 20
 title: Minutes to Midnight
 tagline: Music producer and sound designer
 description: 'Sound designer, bassist and music producer'
+shortabout: 'I’m a digital polymath focused on high-quality digital productions since 1992.'
 permalink: /blog/:title/
 keywords:
   minutes to midnight,
@@ -132,34 +133,8 @@ completeSkills:
   - name: 'Field recording'
   - name: 'Editing'
   - name: 'Foley'
-  - name: 'Game audio integration'
+  - name: 'Game audio integration (Wwise)'
   - name: 'Web development'
-
-# -------------------
-# Main Tools
-# -------------------
-mainTools:
-  - name: 'Reaper'
-    url: '/blog/tag/reaper/'
-  - name: 'iZotope RX'
-    url: '/blog/tag/izotope-rx/'
-  - name: 'Logic Pro'
-    url: '/blog/tag/logic-pro/'
-  - name: 'Pro Tools'
-    url: '/blog/tag/pro-tools/'
-
-completeTools:
-  - name: Wwise
-  - name: Unity
-  - name: FMOD
-  - name: Waves
-  - name: Soundtoys
-  - name: Phase Plant
-  - name: Jekyll
-  - name: WordPress
-  - name: PHP
-  - name: HTML
-  - name: CSS
 
 # -------------------
 # Work endorsements
