@@ -10,7 +10,7 @@ permalink: '/work/music/after-1989-reviews/'
 
 ### Analysis by Rosa Nadine Xochimilco Sánchez
 
-<div class="warning">
+<div class="warning author-card">
   <img class="avatar" src="/assets/images/rnxs.jpg" width="150" height="150" alt="Portrait of Rosa Nadine Xochimilco Sánchez">
   <p><a href="https://rosanadinex.com/">Author, small press founder and editor</a>, Rosa has recently published the books of poems: <em>Blue Bones, Blood Roses, Black Eyes</em> and <em>Hearts Aflame, Still Burning</em>.</p>
 </div>
@@ -19,7 +19,9 @@ Minutes to Midnight’s new album _After 1989: A Trip to Freedom_ is an incredib
 
 I absolutely love the story and the songs, especially the way historical audio samples are woven throughout the album, anchoring it in reality, and making it feel incredibly emotional and genuine.
 
-> Ultimately at the core of all the beautiful lyrics, very deliberate melodies, and incredible choice of historical audio samples, this is the story of family.<cite>— Rosa Nadine Xochimilco Sánchez</cite>
+{: .big }
+> Ultimately at the core of all the beautiful lyrics, very deliberate melodies, and incredible choice of historical audio samples, this is the story of family.
+> <cite><strong>Rosa Nadine Xochimilco Sánchez</strong></cite>
 
 The subject matter of the concentration camps, the Cold War, and the Berlin Wall all underline the music, and the two things are inseparable from each other as the stories are told. There are echoes of Pink Floyd and The Who in its cinematic scope, as well as darkly emotive lyrics and vocals you might find in tracks by Wolfsheim, Covenant, or Nine Inch Nails.
 
@@ -129,7 +131,7 @@ I look forward to sharing it with family and friends who love history and great 
 
 <span class="dim">25 November 2019</span> &middot; Written by [John Hennessy](https://indierepublik.com/music/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/)
 
-<div class="warning">
+<div class="warning author-card">
   <img class="avatar" src="/assets/images/johnhennessy.jpg" width="150" height="150" alt="Portrait of John Hennessy">
   <p>Irish composer, producer and multi-instrumentalist based in Berlin, John Hennessy plays drums, piano and guitar and has an Hons BA in Creative Musicianship.</p>
 </div>
@@ -138,7 +140,9 @@ With a dark and melancholic rock backdrop, the singer-songwriter uses multi-gene
 
 The first track _Skinny Kid_ opens with some soft piano and a sombre Bowie-like baritone. The song begins with the narrator’s grandfather telling the young artist of his experiences surviving the holocaust. Eventually we hear the full scope of grunge instrumentation over a hard-hitting classic rock groove, the repetition of the title establishing an innocent perspective that we imagine will change over the course of the record.
 
-> _After 1989_’s themes are timely and human, and effortlessly connect with a modern audience.<cite>— IndieRepublik</cite>
+{: .big }
+> _After 1989_’s themes are timely and human, and effortlessly connect with a modern audience.
+> <cite><strong>IndieRepublik</strong></cite>
 
 The cleverly named _A Little Boy that Santa Claus Forgot on a B-29_ documents the grandfather and his friend fleeing Berlin toward the end of the war, also providing a parallel narrative of the atomic bombs being dropped on Hiroshima and Nagasaki. Again, _Little Boy_ comes from a place of innocence which is cleverly complimented by a toy piano and some beautiful viola playing.  
 
