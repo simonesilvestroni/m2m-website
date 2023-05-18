@@ -27,7 +27,7 @@ A personal list of blogs that I read within a curated platform with zero algorit
 
 ## Audio
 
-[Melissa Pons](https://melissapons.com/)
+[Melissa Pons](https://thesounddesignprocess.wordpress.com/)
 : A field recordist whose main interests orbit around anthropology, environment, culture and social justice. For each project a part of the profit made goes back to the institutions or communities that support much needed causes and that had welcomed and guided her.
 
 [REAPER blog](https://reaperblog.net/)
