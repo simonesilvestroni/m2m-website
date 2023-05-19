@@ -1,13 +1,11 @@
 menu:
   - name: Bandcamp
     link: https://minutestomidnight.bandcamp.com/follow_me
-    title: Bandcamp profile
   - name: YouTube
     link: https://www.youtube.com/@m2m
-    title: YouTube music channel
   - name: Mastodon
     link: https://indieweb.social/@m2m
-    title: Mastodon profile
   - name: Airwiggles
     link: https://airwiggles.com
-    title: Airwiggles audio community
+  - name: Github
+    link: https://github.com/simonesilvestroni
