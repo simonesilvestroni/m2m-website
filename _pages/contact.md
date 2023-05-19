@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 date: '2021-11-08'
-last_modified_at: '2023-05-12 01:31:18'
+last_modified_at: '2023-05-19 23:41:20'
 description: 'Reaching out via email is always the best way to get in touch.'
 tldr: false
 permalink: '/contact/'
@@ -29,9 +29,6 @@ I also have accounts on:
 
 ## Work together
 
-<div class="warning">
-  <h3>Bass</h3>
-  <p>For bass tracks, I’m available on <a href="https://soundbetter.com/profiles/206552-simone-silvestroni">SoundBetter</a>, a safe and secure platform for freelance musicians.</p>
-  <h3>Audio projects</h3>
-  <p>For music production, sound design, mix or master, <a href="mailto:hello@minutestomidnight.co.uk">reach out via email</a>.</p>
-</div>
+{: .list-hr }
+- For bass tracks, I’m available on [SoundBetter](https://soundbetter.com/profiles/206552-simone-silvestroni), a safe and secure platform for freelance musicians.
+- For music production, sound design, mix or master, [reach out via email](mailto:hello@minutestomidnight.co.uk).

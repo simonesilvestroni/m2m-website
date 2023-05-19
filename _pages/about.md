@@ -34,5 +34,15 @@ After growing up in Ravenna (Italy), my coming of age happened in Milan, where I
 - Where does _Minutes to Midnight_ [come from]({{ site.url }}/about/name-and-logo/)?
 - My favourite bass player is [Andy Rourke](http://www.andyrourke.com).
 
+## Quick facts
+
+{: .list-hr }
+- During the 1990s I acquired audio skills in music studios and live, freelancing as a bass player. Later, I specialised in mix and master.
+- Game audio designer throughout the 2000s, with one title shipped for Sony PlayStation&nbsp;2. I reckon video games are the ultimate audio-visual narrative medium.
+- I’ve been writing music and lyrics for several decades, releasing concept albums where the story, usually autobiographical, is at the forefront.
+- Constantly looking for better ways to manage my tasks, I wrote an ebook about project management in the music industry, based on a real-life album production.
+- I've been working with artist from each side of the Atlantic, such as: Gerald Duchene, Dan Ecclestone, Rachel Goodman, Mally Harpaz (Anna Calvi), Ciara Clifford, Callum Gardner, Martin Wykes.
+- I often share projects with renowned master engineer [Ian Shepherd](https://productionadvice.co.uk/about/), and occasionally with _SoundOnSound_ [editor in chief Sam Inglis](https://www.soundonsound.com/author/sam-inglis).
+
 {: .notice .cta }
 [Check out my work&nbsp;→](/work/)
