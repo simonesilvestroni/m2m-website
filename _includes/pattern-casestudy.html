@@ -1,0 +1,19 @@
+<dl class="case-studies">
+  {%- for post in caseStudies %}
+  {% if forloop.first %}
+  <hr>
+  {% endif %}
+  <dt><a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a></dt>
+  <dd>
+    {%- if post.featimage == true %}
+    <picture>
+      <source srcset="/assets/images/thumb-{{ post.title | downcase | replace: " ","-" | append: ".webp" }}" type="image/webp">
+      <source srcset="/assets/images/thumb-{{ post.title | downcase | replace: " ","-" | append: ".jpg" }}" type="image/jpeg">
+      <a href="{{ post.url }}" title="Read about {{ post.title }}"><img src="/assets/images/thumb-{{ post.title | downcase | replace: " ","-" | append: ".jpg" }}" alt="{{ post.title }}" width="90" height="90"></a>
+    </picture>
+    {% endif -%}
+    <p class="cta">{{ post.description }}</p>
+  </dd>
+  <hr>
+  {% endfor %}
+</dl>
