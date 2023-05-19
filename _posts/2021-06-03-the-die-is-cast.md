@@ -21,7 +21,7 @@ tags:
   - 'reaper'
   - 'remix'
   - 'uk'
-description: "An autobiographical rumination about migrating in Europe during a time of populism. Remixing the Cambridge-based band Ember Rev, co-produced with Antiquity."
+description: "An autobiographical rumination about migrating in Europe during a time of populism. Remixing Ember Rev in collaboration with Antiquity."
 featimage: true
 thumbOnly: true
 permalink: /work/music/the-die-is-cast/

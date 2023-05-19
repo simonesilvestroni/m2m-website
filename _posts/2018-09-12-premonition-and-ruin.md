@@ -18,7 +18,7 @@ tags:
   - 'music release'
   - 'project management'
   - 'uk'
-description: "The second album by Cambridge-based band Ember Rev is a concept around a lament for the European ideal. I mixed and co-produced together with their songwriter Dan Ecclestone."
+description: "A concept album around a lament for the European ideal. I mixed and co-produced together with their songwriter Dan Ecclestone."
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/premonition-and-ruin/

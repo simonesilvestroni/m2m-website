@@ -13,7 +13,7 @@ tags:
   - 'recording'
   - 'sound design'
   - 'sound restoration'
-description: 'Painstakingly removing an insidious noise from a multi-track recording. Restoring a stereo room with drum doubling and drum replacing. Extracting single tracks from a stereo mix.'
+description: 'Painstakingly removing an insidious noise from a multi-track recording, plus various techniques for drum replacing and drum doubling.'
 featimage: true
 featimage-name: 'drums-restoration.jpg'
 featimage-alt: Arlen Millwall on drums

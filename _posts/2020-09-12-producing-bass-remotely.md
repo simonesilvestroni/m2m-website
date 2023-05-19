@@ -16,7 +16,7 @@ tags:
   - 'music release'
   - 'pro tools'
   - 'recording'
-description: "An in-depth analysis of the process I go through to produce an effective bass track. From tracking to comping, up to mix and delivery. Based on a song recorded for the New York-based band Antiquity."
+description: "An in-depth analysis of the process I go through to produce an effective bass track. From tracking to delivery. Based on a real-life scenario."
 featimage: true
 thumbOnly: true
 canonical: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'

@@ -17,7 +17,7 @@ tags:
   - 'original music'
   - 'pro tools'
   - 'remix'
-description: "An old friend and collaborator asked me to contribute to an upcoming album with the remix of one of his songs. I co-produced, mixed and mastered ‘Non sai chi sono’."
+description: "An old friend asked me to contribute to an upcoming album with the remix of one of his songs. I co-produced, mixed and mastered ‘Non sai chi sono’."
 featimage: true
 thumbOnly: true
 permalink: /work/music/non-sai-chi-sono/

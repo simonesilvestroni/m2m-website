@@ -11,7 +11,7 @@ tags:
   - 'master'
   - 'music production'
   - 'reaper'
-description: "Using the subprojects feature in Reaper, I mastered the debut EP for IsadoraD, an Italian duo of multi-instrumentalists blending electronica, pop and indie."
+description: "Using the subprojects feature in Reaper, I mastered the debut EP for IsadoraD, an Italian duo. They blend electronica, pop and indie."
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/mastering-ipogeo-ep/
