@@ -51,8 +51,6 @@ Whether in person or remotely, I've been working with artist from the UK, the US
 
 I often share projects with renowned master engineer [Ian Shepherd](https://productionadvice.co.uk/about/), and occasionally with _SoundOnSound_ [editor in chief Sam Inglis](https://www.soundonsound.com/author/sam-inglis).
 
-[Endorsed by Leland Sklar](/work/endorsements/) (bassist for Phil Collins and Toto) and others.
-
 ## Skills
 
 {%- assign completeSkills = site.completeSkills %}
@@ -67,3 +65,12 @@ I often share projects with renowned master engineer [Ian Shepherd](https://prod
 
 {: .notice .cta }
 [Check out the equipment I use&nbsp;→]({{ site.url }}/uses/)
+
+## Credits and endorsements
+
+<ul>
+  <li><a href="/work/endorsements/">Endorsed by Leland Sklar and others</a></li>
+  {% for item in site.data.nav-credits.menu -%}
+  <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+  {% endfor -%}
+</ul>

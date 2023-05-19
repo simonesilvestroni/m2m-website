@@ -34,10 +34,4 @@ I also have accounts on:
   <p>For bass tracks, I’m available on <a href="https://soundbetter.com/profiles/206552-simone-silvestroni">SoundBetter</a>, a safe and secure platform for freelance musicians.</p>
   <h3>Audio projects</h3>
   <p>For music production, sound design, mix or master, <a href="mailto:hello@minutestomidnight.co.uk">reach out via email</a>.</p>
-  <h3>Credits and endorsements</h3>
-  <ul>
-    {% for item in site.data.nav-credits.menu -%}
-    <li><a href="{{ item.link }}">{{ item.name }}</a></li>
-    {% endfor -%}
-  </ul>
 </div>

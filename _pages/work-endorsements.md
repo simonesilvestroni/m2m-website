@@ -15,7 +15,7 @@ permalink: '/work/endorsements/'
 </blockquote>
 {% endfor %}
 
-## Credits and more endorsements
+## More
 
 <ul>
   {% for item in site.data.nav-credits.menu -%}
