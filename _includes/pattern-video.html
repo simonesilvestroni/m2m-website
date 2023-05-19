@@ -1,3 +1,3 @@
 <div class="iframe-container">
-	<iframe src="https://yewtu.be/embed/{{ include.id }}" allowfullscreen title="{{ include.title | default: "Video" }}"></iframe>
+	<iframe src="https://{{ include.provider | default: "yewtu.be" }}/embed/{{ include.id }}" allowfullscreen title="{{ include.title | default: "Video" }}"></iframe>
 </div>
