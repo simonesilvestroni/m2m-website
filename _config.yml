@@ -129,12 +129,12 @@ mainSkills:
     url: '/blog/tag/master/'
 
 completeSkills:
-  - name: 'Recording'
-  - name: 'Field recording'
-  - name: 'Editing'
+  - name: 'recording'
+  - name: 'field recording'
+  - name: 'editing'
   - name: 'Foley'
-  - name: 'Game audio integration (Wwise)'
-  - name: 'Web development'
+  - name: 'game audio integration (Wwise)'
+  - name: 'web development'
 
 # -------------------
 # Work endorsements
