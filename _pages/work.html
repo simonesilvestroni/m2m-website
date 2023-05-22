@@ -6,20 +6,6 @@ last_modified_at: '2023-05-19 23:41:29'
 description: 'I love telling stories through sound. Coming from both creative and technical roles, I can establish an empathetic connection with artists, sound designers, and programmers.'
 permalink: '/work/'
 ---
-{%- assign completeSkills = site.completeSkills -%}
-<br>
-<p><em>Filter the case studies by</em> {% include site-nav-work.html %}</p>
-<br>
+{% include pattern-work-filter.html %}
 {% assign caseStudies = site.posts | where_exp:'post','post.tags contains "case study"' | sort: date | reverse %}
 {% include pattern-casestudy.html %}
-<h2>Skills and Credits</h2>
-<ul class="list-hr">
-  <li>I’ve been a professional <a href="/blog/tag/bass/">bass player</a> for three decades.</li>
-  <li><a href="/blog/tag/sound-design/">Sound designer</a> since the early 2000s.</li>
-  <li>As a music producer, I specialise in <a href="/blog/tag/mix/">mix</a> and <a href="/blog/tag/master/">master</a>.</li>
-  <li>Apple certified for <a href="/blog/tag/logic-pro/">Logic Pro X</a>, I transitioned to <a href="/blog/tag/pro-tools/">Pro Tools</a> and later <a href="/blog/tag/reaper/">REAPER</a>.</li>
-  <li><a href="/blog/tag/izotope-rx/">iZotope RX</a> is my go-to audio editing tool.</li>
-  <li>I love losing myself with {% for item in completeSkills -%}{{ item.name }}{% unless forloop.last %}, {% endunless %}{%- endfor -%}.</li>
-  <li><a href="/work/endorsements/">Endorsed by Leland Sklar</a> and others, as shown on {% for item in site.data.nav-credits.menu %}<a href="{{ item.link }}">{{ item.name }}</a>{% unless forloop.last%}, {% endunless %}{% endfor %}.</li>
-</ul>
-<p class="notice cta"><a href="/uses/">Check out my equipment&nbsp;→</a></p>
