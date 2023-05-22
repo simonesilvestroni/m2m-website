@@ -7,14 +7,7 @@ last_modified_at: '2023-05-09 19:19:28'
 <article>
   <h1 class="p-name">Minutes to Midnight</h1>
   <p class="p-author h-card">
-    <img class="u-photo avatar" src="/assets/images/minutes-to-midnight-portrait.jpg" width="100" height="100" alt="Portrait of Simone Silvestroni with a bass">Welcome to the personal website of <a rel="me" class="u-url u-uid" href="/about/">Simone Silvestroni</a>. <span class="p-note">{{ site.shortabout }}</span>
+    <img class="u-photo avatar" src="/assets/images/minutes-to-midnight-portrait.jpg" width="120" height="120" alt="Portrait of Simone Silvestroni with a bass">Welcome to the personal website of <a rel="me" class="u-url u-uid" href="/about/">Simone Silvestroni</a>. <span class="p-note">{{ site.shortabout }}</span>
   </p>
-  <p class="e-content">Here <a href="/blog/">I write about</a> music, sound design, web development, and how I use technology to translate ideas into an enjoyable experience.</p>    
-  <div class="warning">
-   <h2>Latest post</h2>
-   {% for post in site.posts limit: 1 -%}
-   <a href="{{ post.url }}" title="Read the post">{{ post.title }}</a><br>
-   <p class="small">{{ post.date | date: "%d %b %Y" }}</p>
-   {% endfor -%}
-  </div>
+  <p class="e-content">Here I write about music, sound design, web development, and how I use technology to translate ideas into an enjoyable experience.</p>
 </article>

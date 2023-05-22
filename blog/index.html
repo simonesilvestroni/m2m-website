@@ -28,7 +28,6 @@ description: 'I’ve been running an online journal, on and off, since March 200
 				<a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark class="small"><strong>CASE&nbsp;STUDY</strong></mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small"><strong>FEATURED</strong></mark>{% endif %}
 			</dt>
 			<dd><p>{{ post.description }}</p></dd>
-			<hr>
 			{% if forloop.last %}
 		</dl>
 		{% else %}
