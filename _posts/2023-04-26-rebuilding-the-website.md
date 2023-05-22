@@ -3,6 +3,7 @@ title: Clean, the cleanest I’ve been
 date: '2023-04-26 15:07:03'
 last_modified_at: '2023-04-26 15:07:05'
 tags:
+  - 'accessibility'
   - 'indieweb'
   - 'personal'
   - 'small web'
