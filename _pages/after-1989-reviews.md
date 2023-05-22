@@ -11,7 +11,7 @@ permalink: '/work/music/after-1989-reviews/'
 ### Analysis by Rosa Nadine Xochimilco Sánchez
 
 <div class="warning author-card">
-  <img class="avatar" src="/assets/images/rnxs.jpg" width="150" height="150" alt="Portrait of Rosa Nadine Xochimilco Sánchez">
+  <img src="/assets/images/rnxs.jpg" width="150" height="150" alt="Portrait of Rosa Nadine Xochimilco Sánchez">
   <p><a href="https://rosanadinex.com/">Author, small press founder and editor</a>, Rosa has recently published the books of poems: <em>Blue Bones, Blood Roses, Black Eyes</em> and <em>Hearts Aflame, Still Burning</em>.</p>
 </div>
 
@@ -129,11 +129,11 @@ I look forward to sharing it with family and friends who love history and great 
 
 ### A journey of choices & consequences, by IndieRepublik (Berlin)
 
-<span class="dim">25 November 2019</span> &middot; Written by [John Hennessy](https://indierepublik.com/music/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/)
+<span class="dim">25 November 2019</span>
 
 <div class="warning author-card">
-  <img class="avatar" src="/assets/images/johnhennessy.jpg" width="150" height="150" alt="Portrait of John Hennessy">
-  <p>Irish composer, producer and multi-instrumentalist based in Berlin, John Hennessy plays drums, piano and guitar and has an Hons BA in Creative Musicianship.</p>
+  <img src="/assets/images/johnhennessy.jpg" width="150" height="150" alt="Portrait of John Hennessy">
+  <p><a href="https://indierepublik.com/music/music-reviews/review-minutes-to-midnight-after-1989-a-journey-of-choices-consequences/">John Hennessy</a> is an Irish composer, producer and multi-instrumentalist based in Berlin, John Hennessy plays drums, piano and guitar and has an Hons BA in Creative Musicianship.</p>
 </div>
 
 With a dark and melancholic rock backdrop, the singer-songwriter uses multi-generational experience to explore themes of freedom, memory and personal growth, pieced together with immersive news coverage and a U-bahn journey from central Berlin to Sachsenhausen.  
@@ -167,6 +167,37 @@ Having grown up with the cold war tension and inherited trauma, it’s clear tha
 Overall there’s a lot to chew on with this record. The direct and immersive narrative allows history to speak for itself without being preachy or forced. The artist gives us a unique perspective of an outsider who manages to observe a great deal of pain without being directly subjected to it. Its themes are timely and human, and effortlessly connect with a modern audience. 
 
 _After 1989_ is an immersive and interesting experiment in storytelling that will leave listeners meditating on its heavy themes. If you’re short on time I would recommend checking out the album opener — it’s very likely that you’ll want to hear the rest of the story.
+
+---
+
+### Notes on the historical concept album by Minutes to Midnight, by Matthey Graybosch
+
+<span class="dim">18 May 2023</span>
+
+<div class="warning author-card">
+  <img src="/assets/images/matthewgraybosch.jpg" width="150" height="150" alt="Portrait of Matthew Graybosch">
+  <p><a href="https://starbreaker.org/blog/after-1989-trip-to-freedom/index.html">Matthew Graybosch</a> writes science fantasy inspired by heavy metal and has a day job as a software developer. He is currently writing a new novel called <em>Spiral Architect</em>.</p>
+</div>
+
+Simone Silvestroni’s grandfather was one of those abducted by fascists and imprisoned in the Sachsenhausen concentration camp. He survived because his trade, that of a shoemaker, was one the Nazis valued more highly than they valued their hatred of whatever quality led to his imprisonment as a “skinny boy”: the first track in _After 1989: A Trip to Freedom_ by Simone Silvestroni recording as Minutes to Midnight.
+
+I listened to this using files downloaded after purchasing the CD through Bandcamp; Simone was kind enough to tell me via email there’d be a delay in shipping because he was out of town and didn’t have any copies on hand.
+
+This is a [concept album](https://www.rollingstone.com/music/music-lists/best-concept-albums-1234604040/styx-5-1234604537/), but unlike many of those listed by _Rolling Stone_ as the “greatest of all time” _After 1989_ isn’t a rock opera or an auditory science fantasy adventure. It isn’t even a horror story like the one with which Alice Cooper began his solo recording career.
+
+It’s a 32 minute portrait of his grandfather surviving Sachsenhausen, living through the Cold War and dying but a month after the fall of the Berlin Wall. The former concentration camp, where the SS first experimented with methods of mass murder that have made Auschwitz and Dachau synonyms for industrial-scale atrocity, is now a memorial to the dead and a warning to the living that it could happen again if fascism were ever again allowed to take root.
+
+_After 1989_ is also a portrait of the artist’s own journey to retrace his grandfather’s path and find his own way to a sense of freedom. As totalitarianism imprisoned his grandfather, so too was Simone Silvestroni imprisoned during the Cold War by East vs. West propaganda. As he told me via email:
+
+> My train trip to Berlin in 1991 is somehow replicated in 2017, this time travelling from Berlin to Sachsenhausen, with each station symbolising a moment in my reflection over WWII and the Cold War. The freedom in the title is twofold.
+
+Knowing and understanding all of this, it feels almost sacriligious to review the album as if it were a mere half hour’s entertainment. This is a piece of a man’s soul and the history of his family set to music, and the craftsmanship and musicianship are worthy of much more prominent bands.
+
+The first track in particular reminds me of Pink Floyd’s _The Wall_, though in this album we are not asked to empathize with a self-isolating rock musician who uses drugs to cope with unresolved childhood trauma. Simone Silvestroni plays a mean bass, and unlike many albums his bass and piano don’t get buried in the mix.
+
+Even if this wasn’t excellent music, I would still recommend it. As the horrors of the Second World War, the Holocaust, and the all-pervading existential terror of the Cold War fade from living memory, it falls to artists to keep that history alive for future generations lest it be repeated.
+
+Listen. This happened to _somebody_. It could happen again, if we allow it. It could happen to _us_. This is where we come in.
 
 ---
 
