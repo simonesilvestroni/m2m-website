@@ -4,19 +4,17 @@ layout: default
 <article>
 	<h1 class="p-name">{{ page.title | capitalize }}</h1>
 	<div class="h-feed">
-	{% for post in page.posts %}
-		{%- if post -%}{% assign date = post.date %}
-		{%- elsif page -%}{% assign date = page.date %}
-		{%- endif -%}
 		<dl>
+		{% for post in page.posts %}
+			{%- if post -%}{% assign date = post.date %}
+			{%- elsif page -%}{% assign date = page.date %}
+			{%- endif -%}
 			<dt class="p-name"><a href="{{ post.url }}" title="Read the post ‘{{ post.title }}’">{{ post.title }}</a></dt>
 			<dd>
 				<p class="dim"><time class="dt-published small" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated"><em>{{ date | date: "%-d %B %Y" }}</em></time></p>
 				<p class="p-summary">{{ post.description | markdownify | strip_html }}</p>
 			</dd>
+		{% endfor %}
 		</dl>
-	</div>
-	<hr>
-	{% endfor %}
 	</div>
 </article>

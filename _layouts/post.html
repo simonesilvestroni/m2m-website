@@ -24,14 +24,15 @@ layout: default
   <div class="e-content">
     {{ content }}
     <br>
-    <div class="warning">
-      <p><a class="post-reply-notice" href="mailto:hello@minutestomidnight.co.uk?subject={{ page.title | uri_escape }}" title="Reply to this post"><strong>Reply via email</strong></a> or use <a href="https://indieweb.org/Webmention">webmentions</a></p>
+    <div>
+      <p><a href="mailto:hello@minutestomidnight.co.uk?subject={{ page.title | uri_escape }}" title="Reply to this post"><strong>Reply via email</strong></a> or use <a href="https://indieweb.org/Webmention">webmentions</a></p>
       <p>If you liked this, please consider subscribing to the <a href="{{ site.url }}/feed.xml">full-text RSS feed</a>. That way, you’ll get notified whenever I post anything new.</p>
-      <p><em class="dim">Tags:</em> <span class="tag">{% for tag in page.tags -%}<a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase }}</a>{% unless forloop.last %}, {% endunless %}{%- endfor -%}</span></p>
-      {% if page.syndication == true %}
-      <p><em class="dim">Also posted on:</em> {% for s in page.syndicate %}<a rel="syndication" class="u-syndication" href="{{ s.url }}">{{ s.name }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
-      {% endif -%}
     </div>
+    <br>
+    <dl>
+      <dt><strong>Related topics</strong></dt>
+      {% for tag in page.tags -%}<dd class="tag"><a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase }}</a></dd>{%- endfor -%}
+    </dl>
   </div>
   {%- include pattern-responses.html -%}
 </article>

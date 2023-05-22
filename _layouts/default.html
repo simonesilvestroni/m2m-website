@@ -30,33 +30,33 @@
 		<div class="nav-secondary">
 			{% include site-nav-secondary.html %}
 		</div>
+		<data class="p-org" value="Minutes to Midnight"></data>
+		<data class="p-note" value="{{ site.description }}"></data>
+		<data class="u-email" rel="me" value="mailto:{{ site.author.email }}"></data>
+		<data rel="me" value="https://minutestomidnight.bandcamp.com/"></data>
+		<data rel="me" value="https://simonesilvestroni.com"></data>
+		<data rel="me" value="https://www.youtube.com/@m2m"></data>
+		<data rel="me" value="https://open.spotify.com/artist/250igOmtd9HCpGyXDWUcl9?si=d9t8bLC2QfG8iT1R3y9CAw"></data>
+		<data rel="me" value="https://soundcloud.com/simonesilvestroni"></data>
+		<data rel="me" value="https://www.linkedin.com/in/simonesilvestroni/"></data>
+		<data rel="me" value="https://indieweb.social/@m2m"></data>
+		<data rel="me" value="https://oreganodangereux.wordpress.com"></data>
+		<data rel="me" value="https://github.com/simonesilvestroni/"></data>
+		{%- if page.url contains '/search' or page.url contains '404.html' -%}
+		{% if jekyll.environment == "production" %}
+		<script src="/assets/js/search-m2m.min.js"></script>
+		{% else %}
+		<script src="/assets/js/fetch.js"></script>
+		<script src="/assets/js/search.js"></script>
+		{% endif -%}
+		{% endif -%}
+		{%- if page.is_post or page.collection == 'notes' -%}
+		{% if jekyll.environment == "production" %}
+		<script src="/assets/js/webmention.min.js" data-prevent-spoofing="true" async></script>
+		{% else %}
+		<script src="/assets/js/webmention.js" async></script>
+		{% endif -%}
+		{% endif -%}
 	</footer>
-	{%- if page.url contains '/search' or page.url contains '404.html' -%}
-	{% if jekyll.environment == "production" %}
-	<script src="/assets/js/search-m2m.min.js"></script>
-	{% else %}
-	<script src="/assets/js/fetch.js"></script>
-	<script src="/assets/js/search.js"></script>
-	{% endif -%}
-	{% endif -%}
-	{%- if page.is_post or page.collection == 'notes' -%}
-	{% if jekyll.environment == "production" %}
-	<script src="/assets/js/webmention.min.js" data-prevent-spoofing="true" async></script>
-	{% else %}
-	<script src="/assets/js/webmention.js" async></script>
-	{% endif -%}
-	{% endif -%}
-	<data class="p-org" value="Minutes to Midnight"></data>
-	<data class="p-note" value="{{ site.description }}"></data>
-	<data class="u-email" rel="me" value="mailto:{{ site.author.email }}"></data>
-	<data rel="me" value="https://minutestomidnight.bandcamp.com/"></data>
-	<data rel="me" value="https://simonesilvestroni.com"></data>
-	<data rel="me" value="https://www.youtube.com/@m2m"></data>
-	<data rel="me" value="https://open.spotify.com/artist/250igOmtd9HCpGyXDWUcl9?si=d9t8bLC2QfG8iT1R3y9CAw"></data>
-	<data rel="me" value="https://soundcloud.com/simonesilvestroni"></data>
-	<data rel="me" value="https://www.linkedin.com/in/simonesilvestroni/"></data>
-	<data rel="me" value="https://indieweb.social/@m2m"></data>
-	<data rel="me" value="https://oreganodangereux.wordpress.com"></data>
-	<data rel="me" value="https://github.com/simonesilvestroni/"></data>
 </body>
 </html>
