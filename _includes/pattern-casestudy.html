@@ -1,8 +1,5 @@
 <dl class="case-studies">
   {%- for post in caseStudies %}
-  {% if forloop.first %}
-  <hr>
-  {% endif %}
   <dt><a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a></dt>
   <dd>
     {%- if post.featimage == true %}
@@ -14,6 +11,5 @@
     {% endif -%}
     <p class="cta">{{ post.description }}</p>
   </dd>
-  <hr>
   {% endfor %}
 </dl>
