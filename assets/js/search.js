@@ -21,15 +21,15 @@ class jekyllSearch {
     const results = await this.findResults()
     const html = results.map(item => {
       return `
-        <li class="list-result">
+        <li>
           <article class="article">
-            <h4><a class="text-decoration-none" href="${this.siteURL + item.url}" title="${item.title}">${item.title}</a></h4>
+            <h2><a href="${this.siteURL + item.url}" title="${item.title}">${item.title}</a></h2>
             <p>${item.excerpt}</p>
           </article>
         </li>`
     }).join('')
     if ((results.length == 0) || (this.searchField.value == '')) {
-      this.resultsList.innerHTML = `<p>Sorry, nothing was found</p>`
+      this.resultsList.innerHTML = `<p><em>Sorry, nothing was found</em>.</p>`
     } else {
       this.resultsList.innerHTML = html
     }
