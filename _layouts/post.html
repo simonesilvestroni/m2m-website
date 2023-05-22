@@ -6,9 +6,6 @@ layout: default
     <h1 class="p-name">{{ page.title }}</h1>
     <span class="p-author h-card visually-hidden"><img class="u-photo" src="{{ site.url }}/assets/images/simonesilvestroni-uphoto.jpg" alt="Simone Silvestroni's avatar" width="28" height="28"> <a class="p-name" href="{{ site.url }}/about/" rel="author">Simone Silvestroni</a></span><time class="dt-published small" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a rel="me" class="u-url u-uid dim" href="{{ site.url }}{{ page.url }}" title="Permalink">{{ page.date | date: "%-d %B %Y" }}</a></time>
   </header>
-  <p class="p-summary">
-    {{ page.description }}
-  </p>
   {%- unless page.thumbOnly == true -%}
   {% if page.featimage == true %}
   <figure>
@@ -21,6 +18,9 @@ layout: default
   </figure>
   {% endif %}
   {% endunless -%}
+  <p class="p-summary">
+    {{ page.description }}
+  </p>
   <div class="e-content">
     {{ content }}
     <br>
