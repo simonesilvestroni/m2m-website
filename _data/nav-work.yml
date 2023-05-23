@@ -1,5 +1,5 @@
 menu:
-  - name: none
+  - name: all
     link: /work/
   - name: music&nbsp;production
     link: /work/music-production/
@@ -7,3 +7,5 @@ menu:
     link: /work/sound-design/
   - name: original&nbsp;music
     link: /work/music/
+  - name: bass
+    link: /work/bass/
