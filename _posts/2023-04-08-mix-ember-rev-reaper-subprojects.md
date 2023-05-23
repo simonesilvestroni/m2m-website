@@ -31,7 +31,7 @@ syndicate:
 
 ## Album trilogy
 
-The Cambridge-based band [Ember Rev](/blog/tag/ember-rev/) published their debut album in 2017&nbsp;—&nbsp;a year before I first met them&nbsp;—&nbsp;and *In Super-8* is a reworking of that album. After having mixed [*Premonition and Ruin*](/work/music-production/premonition-and-ruin/) and [*From The Country To The City To The Sea*](/work/music-production/minutes-to-midnight-productions/#from-the-country-to-the-city-to-the-sea), it was a brilliant opportunity to have my signature mix on their first trilogy.
+The Cambridge-based band [Ember Rev](/blog/tag/ember-rev/) published their debut album in 2017&nbsp;—&nbsp;a year before I first met them&nbsp;—&nbsp;and *In Super-8* is a reworking of that album. After having mixed [*Premonition and Ruin*](/work/music-production/premonition-and-ruin/) and [*From The Country To The City To The Sea*](/work/music-production/from-the-country-to-the-city-to-the-sea-album-mix/), it was a brilliant opportunity to have my signature mix on their first trilogy.
 
 {: .big }
 > This re-appraising and re-working is an attempt to capture the character of the songs as they sounded when performed live. This was not  represented in the earlier arrangements which I felt compromised the  songs themselves; songs that we still play to this day.

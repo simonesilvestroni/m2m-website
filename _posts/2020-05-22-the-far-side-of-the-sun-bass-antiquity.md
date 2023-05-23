@@ -46,4 +46,4 @@ Bass
 &copy; 2020 Gerald Duchene
 
 {: .notice .cta }
-[**Read the project analysis**](/work/music-production/producing-bass-remotely/)&nbsp;→
+[**Read the project analysis**](/work/bass/producing-bass-remotely/)&nbsp;→
