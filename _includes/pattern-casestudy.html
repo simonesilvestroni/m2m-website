@@ -9,7 +9,7 @@
       <a href="{{ post.url }}" title="Read about {{ post.title }}"><img src="/assets/images/thumb-{{ post.id | split: "/" | last | append: ".jpg" }}" alt="{{ post.title }}" width="90" height="90"></a>
     </picture>
     {% endif -%}
-    <p class="cta">{{ post.description }}</p>
+    <p>{{ post.description }}</p>
   </dd>
   {% endfor %}
 </dl>
