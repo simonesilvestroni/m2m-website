@@ -9,6 +9,7 @@ tags:
   - 'bass'
   - 'bassist'
   - 'case study'
+  - 'emilio albertoni'
   - 'italy'
   - 'master'
   - 'mix'

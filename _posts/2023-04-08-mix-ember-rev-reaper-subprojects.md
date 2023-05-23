@@ -1,10 +1,10 @@
 ---
 title: 'I mixed ‘In Super-8’ by Ember Rev using Reaper’s subprojects'
-date: '2023-04-08 12:38:53'
+date: '2023-03-17 12:38:53'
 last_modified_at: '2023-04-08 14:50:44'
 tags:
   - 'audio software'
-  - 'cambridge'
+  - 'dan ecclestone'
   - 'case study'
   - 'cockos'
   - 'daw'
@@ -33,8 +33,9 @@ syndicate:
 
 The Cambridge-based band [Ember Rev](/blog/tag/ember-rev/) published their debut album in 2017&nbsp;—&nbsp;a year before I first met them&nbsp;—&nbsp;and *In Super-8* is a reworking of that album. After having mixed [*Premonition and Ruin*](/work/music-production/premonition-and-ruin/) and [*From The Country To The City To The Sea*](/work/music-production/minutes-to-midnight-productions/#from-the-country-to-the-city-to-the-sea), it was a brilliant opportunity to have my signature mix on their first trilogy.
 
+{: .big }
 > This re-appraising and re-working is an attempt to capture the character of the songs as they sounded when performed live. This was not  represented in the earlier arrangements which I felt compromised the  songs themselves; songs that we still play to this day.
-> <cite>Dan Ecclestone</cite>
+> <cite>**Dan Ecclestone**</cite>
 
 ## Building the sessions
 
@@ -99,9 +100,11 @@ To learn more about REAPER subprojects, check out this [video by Kenny Gioia](ht
 
 ## Conclusions
 
-In the case of *In Super-8*, I used subprojects to save time but it's useful for sound design, very long sessions or projects containing a large number of parts and tracks. In fact, months ago I worked on a production where subprojects were used for drums in a session with many vocal tracks and a multitude of percussion items. It saved power resources to the point my complex template ran at 12% of CPU capacity.
+For *In Super-8* I used subprojects to save time, but it's useful for sound design, very long sessions or projects containing a large number of parts and tracks. In fact, months ago I worked on a production where subprojects were used for drums in a session with many vocal tracks and a multitude of percussion items. It saved power resources to the point my complex template ran at 12% of CPU capacity.
 
 ## Credits
+
+### Performed by
 
 **Dan Ecclestone**<br>
 Vocals and instrumentation
@@ -116,5 +119,3 @@ Drums
 
 {: .small }
 &copy; 2017 Dan Ecclestone
-
-Released: 17 March 2023

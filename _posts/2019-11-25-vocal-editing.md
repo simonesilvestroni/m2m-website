@@ -9,6 +9,7 @@ tags:
   - 'logic pro'
   - 'mix'
   - 'pro tools'
+  - 'rachel goodman'
   - 'reaper'
   - 'recording'
   - 'sound design'

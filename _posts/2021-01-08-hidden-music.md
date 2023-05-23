@@ -6,6 +6,7 @@ tags:
   - 'bandcamp'
   - 'cambridge'
   - 'case study'
+  - 'dan ecclestone'
   - 'editing'
   - 'independent music'
   - 'indie'

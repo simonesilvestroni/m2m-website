@@ -8,6 +8,7 @@ tags:
   - 'cockos'
   - 'daw'
   - 'editing'
+  - 'emilio albertoni'
   - 'master'
   - 'music production'
   - 'reaper'

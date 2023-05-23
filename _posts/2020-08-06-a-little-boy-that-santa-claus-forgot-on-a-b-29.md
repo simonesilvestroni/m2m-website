@@ -27,6 +27,8 @@ tags:
   - 'music production'
   - 'music release'
   - 'nuclear war'
+  - 'paolo clementi'
+  - 'strings'
   - 'uk'
   - 'usa'
   - 'video'
