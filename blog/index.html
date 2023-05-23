@@ -13,11 +13,7 @@ description: 'I’ve been running an online journal, on and off, since March 200
 	{%- endif -%}
 	{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 	{% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-		{% if forloop.first %}
-		<a href="#{{ this_year }}-ref">{{ this_year }}</a>
-		{% elsif this_year != next_year %}
-		<a href="#{{ next_year }}-ref">{{ next_year }}</a>
-		{% endif %}
+		{% if forloop.first %}<a href="#{{ this_year }}-ref">{{ this_year }}</a>{% elsif this_year != next_year %}&nbsp;<a href="#{{ next_year }}-ref">{{ next_year }}</a>{% endif %}
 	{% endfor %}
 </p>
 <hr>
@@ -29,9 +25,7 @@ description: 'I’ve been running an online journal, on and off, since March 200
 	{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 	{% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 		{% if forloop.first %}
-		<br>
 		<h2 id="{{ this_year }}-ref">Posts for {{ this_year }}</h2>
-		<br>
 		<dl>
 		{% endif %}
 			<dt>
@@ -46,9 +40,7 @@ description: 'I’ve been running an online journal, on and off, since March 200
 		{% else %}
 		{% if this_year != next_year %}
 		</dl>
-		<br>
 		<h2 id="{{ next_year }}-ref">Posts for {{ next_year }}</h2>
-		<br>
 		<dl>
 		{% endif %}
 		{% endif %}

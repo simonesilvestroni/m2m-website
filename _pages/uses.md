@@ -6,8 +6,6 @@ last_modified_at: '2023-05-12 01:31:43'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
 permalink: '/uses/'
 ---
-## Hardware
-
 Workstation
 : 2015 MacBook Pro i7, maxed out and upgraded, running macOS and Windows
 : 27-in Dell screen
@@ -44,8 +42,6 @@ Recording
 : Zoom SSH-6 mid-side stereo shotgun mic
 : Telephone pick-up coil mic
 : Korg contact microphone CM-300
-
-## Software
 
 <abbr title="Digital Audio Workstation">DAW</abbr>
 : [REAPER 6.x]({{ site.url }}/blog/tag/reaper/)
