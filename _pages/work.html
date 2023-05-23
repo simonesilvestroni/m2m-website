@@ -6,6 +6,6 @@ last_modified_at: '2023-05-19 23:41:29'
 description: 'I love telling stories through sound. Coming from both creative and technical roles, I can establish an empathetic connection with artists, sound designers, and programmers.'
 permalink: '/work/'
 ---
-{% include pattern-work-filter.html %}
 {% assign caseStudies = site.posts | where_exp:'post','post.tags contains "case study"' | sort: date | reverse %}
+{% include pattern-work-filter.html %}
 {% include pattern-casestudy.html %}
