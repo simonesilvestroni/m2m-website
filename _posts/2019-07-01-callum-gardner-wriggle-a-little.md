@@ -8,6 +8,7 @@ tags:
   - 'bass'
   - 'bassist'
   - 'callum gardner'
+  - 'case study'
   - 'independent music'
   - 'indie'
   - 'london'

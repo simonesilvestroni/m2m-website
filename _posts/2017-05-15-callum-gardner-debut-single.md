@@ -10,7 +10,7 @@ tags:
   - 'case study'
   - 'independent music'
   - 'indie'
-  - 'izotope ozone'
+  - 'izotope rx'
   - 'logic pro'
   - 'london'
   - 'master'
