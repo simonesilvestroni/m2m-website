@@ -36,3 +36,10 @@ permalink: '/sitemap/'
   </li>
   {%- endfor -%}
 </ul>
+
+<h2>Tags <sup>({{ site.tags | size }})</sup></h2>
+{%- assign sorted_tags = site.tags | sort -%}
+{%- for tag in sorted_tags -%}
+{%- assign t = tag | first %}
+<a class="button" href="{{ site.url }}/blog/tag/{{ t | slugify }}/">{{ t | upcase }}</a>
+{%- endfor %}
