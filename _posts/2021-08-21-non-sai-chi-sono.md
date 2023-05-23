@@ -64,7 +64,8 @@ We exchanged opinions about the rough mixes, efficiently collaborating to the ed
 
 ## Original version
 
-{% include pattern-spotify.html id="41XOwGHELQqt9DIwbl2LNA" height="80" %}
+{: .cta }
+[Listen to the original version on Spotify](https://open.spotify.com/track/41XOwGHELQqt9DIwbl2LNA){: target="_blank"}
 
 ## Credits
 

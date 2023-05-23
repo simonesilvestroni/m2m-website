@@ -17,7 +17,7 @@ description: 'Following my principle of trying to get out of my comfort zone, I 
 ---
 ## Stream on YouTube Music
 
-{% include pattern-video.html id="D0mFNEwirGg" %}
+{% include pattern-video.html provider="www.youtube-nocookie.com" id="D0mFNEwirGg" %}
 
 ## Production notes
 
@@ -25,7 +25,8 @@ _Eclipse_ is a new single, part of a different batch of new releases, where I up
 
 ## Stream on Spotify
 
-{% include pattern-spotify.html id="3Ydz49mYSfJ122pCf9PQrd" height="200" %}
+{: .cta }
+[Listen to the song on Spotify](https://open.spotify.com/track/3Ydz49mYSfJ122pCf9PQrd?si=772cd61e061f47cd){: target="_blank"}
 
 ## Credits
 

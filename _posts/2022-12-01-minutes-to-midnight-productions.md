@@ -43,7 +43,8 @@ Album by **Ciara Clifford**<br>
 Role: <mark>Strings production</mark> <mark>Recording</mark><br>
 Country: UK
 
-{% include pattern-spotify.html id="4jaYdZbqJG4JVJrUVujqV7" type="album" height="390" %}
+{: .cta }
+[Listen to the album on Spotify](https://open.spotify.com/album/4jaYdZbqJG4JVJrUVujqV7){: target="_blank"}
 
 ## Zoom In Zoom Out
 
@@ -155,7 +156,7 @@ Single by **Method Sinik**<br>
 Role: <mark>Bass</mark> <mark>Production</mark> <mark>Mix</mark> <mark>Master</mark><br>
 Country: Italy
 
-{% include pattern-video.html id="D0mFNEwirGg" %}
+{% include pattern-video.html provider="www.youtube-nocookie.com" id="D0mFNEwirGg" %}
 
 ## Nebbia (Part One)
 

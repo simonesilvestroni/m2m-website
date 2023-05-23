@@ -10,14 +10,9 @@ permalink: '/work/music-production/'
 {% assign caseStudies = site.posts | where_exp:'post','post.tags contains "music production" and post.tags contains "case study"' -%}
 {% include pattern-casestudy.html %}
 
-## A selection of my bass recordings
+## Spotify playlists
 
-{% include pattern-spotify.html id="1EC2Hm0xSywc5pITPMhuIA" type="playlist" height="470" %}
-
-## A selection of my productions
-
-{% include pattern-spotify.html id="6yRM57FJ9JKONDAXaLBAdx" type="playlist" height="470" %}
-
-## My strings production
-
-{% include pattern-spotify.html id="2IqnJFtKWrnI6JPVjkXHif" type="playlist" height="475" %}
+{: .list-hr-group }
+- [Produced by Minutes to Midnight](https://open.spotify.com/playlist/6yRM57FJ9JKONDAXaLBAdx?si=e52ae80744ee464a){: target="_blank"}
+- [Bass recordings by Minutes to Midnight](https://open.spotify.com/playlist/1EC2Hm0xSywc5pITPMhuIA?si=550e2f11d14d4f13){: target="_blank"}
+- [Strings produced by Minutes to Midnight](https://open.spotify.com/playlist/2IqnJFtKWrnI6JPVjkXHif?si=3fe071c39e9943ca){: target="_blank"}

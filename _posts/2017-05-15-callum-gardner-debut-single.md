@@ -27,7 +27,8 @@ featimage-width: 100%
 featimage-height: 720
 permalink: /work/music-production/callum-gardner-debut-single/
 ---
-{% include pattern-spotify.html id="4e2PTyfPfvw9WunM9nG0nT" height="80" %}
+{: .cta }
+[Listen to the song on Spotify](https://open.spotify.com/track/4e2PTyfPfvw9WunM9nG0nT?si=0972153817224ac8){: target="_blank"}
 
 ## Backstory
 
@@ -37,7 +38,7 @@ The opening act was a young singer-songwriter playing an acoustic solo set, [Cal
 
 > Sometimes things really do happen for a reason. It’s those coincidences that put you in a situation that just would never have happened otherwise. I was filling in last minute for a solo act opening at _Nambucca_ after a friend had kindly waved my name over to an independent promoter. Two people I was introduced to during that show went on to join my musical journey, and we are still in collaboration to this day.
 > 
-> <cite>— Callum Gardner</cite>
+> <cite>**Callum Gardner**</cite>
 
 Later, we got in touch and started chatting. Less than a year later he asked me to be part of his new band. There was a debut single ready to be produced and a few live gigs already planned.
 
@@ -49,17 +50,13 @@ The song was mixed and mastered using Logic Pro and Wavelab. Because of some unc
 
 > _Commit to the List_ was written at a very important time for me. I’d moved to London and was eager to make some waves within touching distance of the Thames. It’s still the opening song for my live shows today and went through quite a journey from pen & paper to mix & master.
 > 
-> <cite>— Callum Gardner</cite>
+> <cite>**Callum Gardner**</cite>
 
 ## Going live
 
 Rehearsals for the live concerts went well. I loved how quickly we all blended and how tight the band was. The first gig at the Century Club in London was a success. Many others followed, including our participation at the Victorious Festival in Portsmouth.
 
 {% include pattern-figure.html image="/assets/images/live-with-callum-gardner.jpg" caption="Live With Callum Gardner – Photo by Silvia Maggi" width="1024" height="767" %}
-
-## New songs
-
-A few months later we started working on producing new original songs written by Callum. We’ve been playing them live for a while. The first four singles are already tracked. Having started with the drums in Woking, we'll be using Minutes to Midnight’s studio in Cambridge for acoustic guitars, bass and lead vocals.
 
 ## Credits
 
