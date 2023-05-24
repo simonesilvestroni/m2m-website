@@ -44,9 +44,9 @@ Then, the most pantomimic four years came and went, and all I could see was ‘R
 
 These two songs prefectly encapsulate those days in June 2016. I spoke with [Gerald Duchene](https://antiquity-music.com/), long-time collaborator and friend of mine, about the idea of working together at these remixes. We both love a challenge, so off we went.
 
+{: .big }
 > When I first heard the original recordings of these songs, I knew there was something there. Simone and I were pretty much simpatico and on the same page right from the start of our work on these tunes. We’ve been working together for awhile now and it seems like we have comfortably fallen into this new sound. I’m very proud of the work we did on these two great songs by Dan. I think they are the products of careful thoughtful musicianship.
-> 
-> <cite>&mdash; Gerald Duchene</cite>
+> <cite>**Gerald Duchene**</cite>
 
 ## Production notes
 
@@ -66,17 +66,19 @@ A couple of samples completed the remixes. _Land Of Kings_ features the exact TV
 
 ## Credits
 
-**Simone Silvestroni**<br>
-Bass, piano, synth, drums, sound effects
+### Performed by
 
-**Gerald Duchene**<br>
-Flugel horn, trumpet, guitars, synth, percussion, synth vocals
+Simone Silvestroni
+: Bass, piano, synth, drums, sound effects
 
-**Dan Ecclestone**<br>
-Vocals, mellotron, distorted guitar
+Gerald Duchene
+: Flugel horn, trumpet, guitars, synth, percussion, synth vocals
 
-**Romy Gensale**<br>
-Background vocals
+Dan Ecclestone
+: Vocals, mellotron, distorted guitar
+
+Romy Gensale
+: Background vocals
 
 ### Production
 
@@ -90,5 +92,3 @@ Background vocals
 
 {: .small }
 &copy; 2021 Remix produced and arranged by Simone Silvestroni and Gerald Duchene. The copyright in this sound recording (master) is owned by Simone Silvestroni. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.
-
-Released: 3 June 2021

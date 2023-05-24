@@ -29,14 +29,14 @@ permalink: /work/music-production/funky-bacterium-antiquity-song-co-production/
 
 ### Performed by
 
-**Justine J. Hall**<br>
-Vocals and melody
+Justine J. Hall
+: Vocals and melody
 
-**Gerald Duchene**<br>
-Instrumentation
+Gerald Duchene
+: Instrumentation
 
-**Matisse Duchene**<br>
-Trumpet
+Matisse Duchene
+: Trumpet
 
 ### Production
 
