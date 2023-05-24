@@ -3,20 +3,8 @@ layout: blog
 title: 'Blog'
 date: '2021-11-06 14:11:45'
 last_modified_at: '2023-05-18 15:46:13'
-description: 'I’ve been running an online journal, on and off, since March 2002. Until 2017, it was published on morula.org.'
+description: 'I’ve been running an online journal, on and off, since March 2002. For fifteen years, it was published on morula.org.'
 ---
-<hr>
-<p><em>Jump to</em>:
-	{%- for post in site.posts %}
-	{%- if post -%}{% assign date = post.date %}
-	{%- elsif page -%}{% assign date = page.date %}
-	{%- endif -%}
-	{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-	{% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-		{% if forloop.first %}<a href="#{{ this_year }}-ref">{{ this_year }}</a>{% elsif this_year != next_year %}&nbsp;<a href="#{{ next_year }}-ref">{{ next_year }}</a>{% endif %}
-	{% endfor %}
-</p>
-<hr>
 <div class="h-feed">
 	{%- for post in site.posts %}
 	{%- if post -%}{% assign date = post.date %}
@@ -25,7 +13,8 @@ description: 'I’ve been running an online journal, on and off, since March 200
 	{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 	{% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 		{% if forloop.first %}
-		<h2 id="{{ this_year }}-ref">Posts for {{ this_year }}</h2>
+		<hr>
+		<h2 id="{{ this_year }}-ref">{{ this_year }}</h2>
 		<dl>
 		{% endif %}
 			<dt>
@@ -40,7 +29,8 @@ description: 'I’ve been running an online journal, on and off, since March 200
 		{% else %}
 		{% if this_year != next_year %}
 		</dl>
-		<h2 id="{{ next_year }}-ref">Posts for {{ next_year }}</h2>
+		<hr>
+		<h2 id="{{ next_year }}-ref">{{ next_year }}</h2>
 		<dl>
 		{% endif %}
 		{% endif %}

@@ -11,7 +11,7 @@ The best and quickest way to [get in touch is email](mailto:hello@minutestomidni
 
 ## Elsewhere
 
-I'm active on the following networks:
+The website for my web development and design work is at [simonesilvestroni.com](https://simonesilvestroni.com). I'm also active on the following networks:
 
 <ul>
   {% for item in site.data.nav-social.menu -%}
@@ -19,7 +19,7 @@ I'm active on the following networks:
   {% endfor -%}
 </ul>
 
-I also have accounts on:
+I have accounts (mostly inactive) on:
 
 <ul>
   {% for item in site.data.nav-elsewhere.menu -%}

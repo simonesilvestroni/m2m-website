@@ -133,5 +133,5 @@ Management
 : Transmit
 : Carbon Copy Cloner
 
-{: .notice }
-Also, check out the post [_How I Use The Internet_](/blog/how-i-use-internet/)&nbsp;→
+{: .notice .cta }
+[How I Use The Internet&nbsp;→](/blog/how-i-use-internet/)
