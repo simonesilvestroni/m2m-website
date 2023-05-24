@@ -9,6 +9,7 @@ tags:
   - 'bassist'
   - 'case study'
   - 'editing'
+  - 'featured'
   - 'logic pro'
   - 'master'
   - 'mix'
