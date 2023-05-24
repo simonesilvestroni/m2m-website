@@ -37,7 +37,7 @@ featimage-width: 1024
 featimage-height: 683
 ---
 {: .warning }
-This article was originally published on the Medium magazine "Lessons From History". After deleting my Medium account, I moved it here.
+This article was originally published on the Medium magazine _Lessons From History_. After deleting my Medium account, I moved it here.
 
 ## Roots
 
@@ -61,13 +61,14 @@ A skilled shoemaker, the SS kept him in the _konzentrationslager_ working on mil
 
 {% include pattern-figure.html image="/assets/images/full-story-shoe-track.jpg" caption="Shoe-testing track" width="1024" height="768" %}
 
+{: .big }
 > Wave upon wave  
 > of Faceless strangers  
 > Chosen, discarded  
 > Put in the line to the chambers  
 > He was spared by the guards  
 > Only because of his craft  
-> <cite>— _Skinny Kid_</cite>
+> <cite>**Skinny Kid**</cite>
 
 After a while, the SS allowed him, and others, to work outside during the day. It was a common practice at Sachsenhausen. Although we cannot be sure whether he was moved to a [subcamp](https://en.wikipedia.org/wiki/List_of_subcamps_of_Sachsenhausen) or not, we believe he spent the latest months not far from Potsdam. During his time there, he befriended a German citizen. My granddad was adamant in describing this person as someone “working for the office of the local Mayor”. Based on his witness, this was the man, or woman, who suggested _when_ and _how_ to flee.
 
@@ -77,13 +78,14 @@ He managed to escape and come back home in the summer of 1945. It took a few mon
 
 Unfortunately, we only have little details about the escape: first and foremost is the fact he did it together with a fellow Russian inmate. They had been forced to climb on trees and tie themselves to the most vigorous branches to sleep and avoid checks overnight.
 
+{: .big }
 > There were two of us  
 > We left in a rush  
 > We stole a gun  
 > Some clothes and ran  
 > We kept going all night all day  
 > Until Berlin was far away  
-> <cite>— _A Little Boy That Santa Claus Forgot On A B-29_</cite>
+> <cite>**A Little Boy That Santa Claus Forgot On A B-29**</cite>
 
 To survive, they stole clothes, food and at least one weapon. He had a [Luger pistol](https://en.wikipedia.org/wiki/Luger_pistol) with him when he arrived home. He thoroughly cleaned it before burying it in the courtyard of our home. Years later, someone erected another building on top of the original hiding place, which made the idea of trying to retrieve it impossible.
 
@@ -95,13 +97,14 @@ Two years later, in the summer of 1991, my friends and I bought an InterRail tic
 
 We went to Prague, Dresden and Berlin, before visiting a few towns in West Germany. I wasn’t ready to dig into my family story at the time and given my obsession for the Cold War, the idea of observing the divided city as a historical place was way more compelling to me. Even though the dismantling was moving at a decent pace, long strips of slabs from the Wall were still standing. The city didn’t change much yet, and the scars were still visible. Potsdamer Platz was still a no man’s land, the buildings were clearly showing their different styles, and I vividly remember how I watched in dismay at the bricked windows in the Eastside, facing the West.
 
+{: .big }
 > I’m twenty again  
 > On a noisy bus  
 > No matter where we are  
 > The breeze, the vane  
 > A Trabant passes by  
 > Naked sign of time  
-> <cite>— _Berlin 91_</cite>
+> <cite>**Berlin 91**</cite>
 
 {% include pattern-figure.html image="/assets/images/full-story-berlin-bvg.jpg" caption="My travel card in Berlin, 1991" width="1024" height="768" %}
 
@@ -121,7 +124,7 @@ I went back to Berlin in 2011, a few months before I moved to the UK. It was a c
 
 The responses arrived within 24 months. This I received from the Gedenkstätte und Museum Sachsenhausen:
 
-> <code>I inform you that no documents have been found in our archives. Most of the files of the administration of concentration camp Sachsenhausen were destroyed by the SS before the evacuation of the camp. Among those were nearly all of prisoners’ files with exact personal data and photographs of the prisoners. Those records which have survived are kept in various archives, mainly in archives of the Russian Federation.</code>
+> I inform you that no documents have been found in our archives. Most of the files of the administration of concentration camp Sachsenhausen were destroyed by the SS before the evacuation of the camp. Among those were nearly all of prisoners’ files with exact personal data and photographs of the prisoners. Those records which have survived are kept in various archives, mainly in archives of the Russian Federation.
 
 {% include pattern-figure.html image="/assets/images/full-story-todesmarsch.jpg" caption="This plaque was erected by the Communist GDR government, to commemorate the Death March undertaken by the prisoners of the Sachsenhausen concentration camp under the Nazi government. The GDR placed emphasis on political prisoners over the other groups held at Sachsenhausen (Jews, Jehovah’s Witnesses, Homosexuals); hence the pictured prisoners are wearing red triangles (the symbol for political prisoners, particularly communists)." width="1024" height="682" %}
 
@@ -147,6 +150,7 @@ In hindsight, I now understand why some of the objects he kept throughout the od
 
 I keep wondering what kind of friendship he had with the Russian inmate; if they were — in fact — friends; how exactly did they manage to escape: was that in Sachsenhausen or at a labor camp outside? Did he manage to go back to the Soviet Union? Did the Cold War make them enemies?
 
+{: .big }
 > I stand up to my fears  
 > After so many years  
 > Walking towards your jail  
@@ -155,19 +159,18 @@ I keep wondering what kind of friendship he had with the Russian inmate; if they
 > No future, no fate  
 > ‘Work sets you free’  
 > Next time you might be free  
-> <cite>— _Sachsenhausen_</cite>
+> <cite>**Sachsenhausen**</cite>
 
 ## Making ends meet
 
 My research became a music concept album. Both the synopsis and the music stayed with me for quite a long time before I could find the best way to communicate the story in a relatable form. It’s a tale of pain and hope. Although it wasn’t easy trying to convey my sentiments about a family story while inscribing it in the context of my time — the Cold War — it became a process towards personal liberation.
 
-> That was me watching the no man’s land  
-> That was me  
+{: .big }
+> That was me watching the no man’s land, that was me  
 > This is me changing the life I planned  
-> That was me thinking of where to stand  
-> That was me  
+> That was me thinking of where to stand, that was me  
 > This is me walking the no man’s land  
-> <cite>— _Berlin 91_</cite>
+> <cite>**Berlin 91**</cite>
 
 ## He knows
 
