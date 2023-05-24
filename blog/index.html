@@ -5,6 +5,16 @@ date: '2021-11-06 14:11:45'
 last_modified_at: '2023-05-18 15:46:13'
 description: 'I’ve been running an online journal, on and off, since March 2002. For fifteen years, it was published on morula.org.'
 ---
+<details class="warning">
+	<summary>Featured posts</summary>
+	<ul class="list-hr-group">
+		{% assign featured = site.posts | where_exp:'post','post.tags contains "featured"' %}
+		{% for post in featured %}
+		<li><a href="{{ post.url }}">{{ post.title }}</a><br>
+    <span class="dim small"><time>{{ post.last_modified_at | date: "%-d %B %Y" }}</time></span></li>
+		{% endfor %}
+	</ul>
+</details>
 <div class="h-feed">
 	{%- for post in site.posts %}
 	{%- if post -%}{% assign date = post.date %}
@@ -13,7 +23,6 @@ description: 'I’ve been running an online journal, on and off, since March 200
 	{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 	{% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 		{% if forloop.first %}
-		<hr>
 		<h2 id="{{ this_year }}-ref">{{ this_year }}</h2>
 		<dl>
 		{% endif %}
