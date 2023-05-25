@@ -39,10 +39,11 @@ Chris Peckham
 Dom Hall-Smith
 : Bass
 
-Ian Pickering
-: Drums
+David Youngs
+: Drums, percussion
 
-Featuring Liz Mitchell - Clarinet
+Liz Mitchell
+: Clarinet
 
 ### Production
 
