@@ -56,14 +56,14 @@ I’ve asked the guys to let me know their feelings about the process that lead 
 
 ### Performed by
 
-**Gerald Duchene**<br>
-All instrumentation
+Gerald Duchene
+: Instrumentation
 
-**Dan Ecclestone**<br>
-Vocals and melody
+Dan Ecclestone
+: Vocals and melody
 
-**Simone Silvestroni**<br>
-Bass
+Simone Silvestroni
+: Bass
 
 ### Production
 
