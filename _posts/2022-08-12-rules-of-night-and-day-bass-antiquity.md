@@ -32,20 +32,20 @@ permalink: /work/bass/the-rules-of-night-and-day-bass-antiquity/
 
 ### Performed by
 
-**Dan Ecclestone**<br>
-Vocals and melody
+Dan Ecclestone
+: Vocals and melody
 
-**Gerald Duchene**<br>
-Instrumentation
+Gerald Duchene
+: Instrumentation
 
-**Angelo Zarra**<br>
-Lead guitar
+Angelo Zarra
+: Lead guitar
 
-**Simone Silvestroni**<br>
-Bass
+Simone Silvestroni
+: Bass
 
-**Matisse Duchene**<br>
-Trumpet
+Matisse Duchene
+: Trumpet
 
 ### Production
 

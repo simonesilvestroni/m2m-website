@@ -12,6 +12,7 @@ tags:
   - 'master'
   - 'music production'
   - 'reaper'
+  - 'stem mastering'
 description: "Using the subprojects feature in Reaper, I mastered the debut EP for IsadoraD, an Italian duo. They blend electronica, pop and indie."
 featimage: true
 thumbOnly: true
@@ -55,4 +56,20 @@ With [SWS](https://www.sws-extension.org/) installed, checking on loudness is a 
 
 {% include pattern-video.html id="kXk8FZjz4OU" %}
 
-Released: 3 March 2023
+## Credits
+
+### Performed by
+
+Bruno Valeri
+: Vocals, piano, synth
+
+Emilio Albertoni
+: Guitars, bass, synth
+
+### Production
+
+- Mixed by Emilio Albertoni
+- Mastered by Simone Silvestroni
+
+{: .small }
+&copy; 2023 Emilio Albertoni &amp; Bruno Valeri

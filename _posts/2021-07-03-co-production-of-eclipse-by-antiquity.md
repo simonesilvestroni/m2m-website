@@ -29,14 +29,14 @@ permalink: /work/music-production/eclipse-antiquity-song-co-production/
 
 ### Performed by
 
-**Dan Ecclestone**<br>
-Vocals and melody
+Dan Ecclestone
+: Vocals and melody
 
-**Gerald Duchene**<br>
-Instrumentation
+Gerald Duchene
+: Instrumentation
 
-**Matisse Duchene**<br>
-Trumpet
+Matisse Duchene
+: Trumpet
 
 ### Production
 
