@@ -28,14 +28,14 @@ permalink: /work/bass/the-evil-between-us-bass-song-antiquity/
 
 ### Performed by
 
-**Gerald Duchene**<br>
-All instrumentation
+Gerald Duchene
+: Instrumentation
 
-**Dan Ecclestone**<br>
-Vocals and melody
+Dan Ecclestone
+: Vocals and melody
 
-**Simone Silvestroni**<br>
-Bass
+Simone Silvestroni
+: Bass
 
 ### Production
 

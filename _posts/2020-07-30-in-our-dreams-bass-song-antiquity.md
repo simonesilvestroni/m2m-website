@@ -30,14 +30,14 @@ I always enjoy being a part of [Gerald’s music]({{ site.url}}/blog/tag/antiqui
 
 ### Performed by
 
-**Gerald Duchene**<br>
-All instrumentation
+Gerald Duchene
+: Instrumentation
 
-**Dan Ecclestone**<br>
-Vocals and melody
+Dan Ecclestone
+: Vocals and melody
 
-**Simone Silvestroni**<br>
-Bass
+Simone Silvestroni
+: Bass
 
 ### Production
 

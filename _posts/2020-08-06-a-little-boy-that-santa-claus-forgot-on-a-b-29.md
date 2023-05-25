@@ -61,17 +61,19 @@ The contrast between the Christmas carol-like music of the final section, and th
 
 ## Credits
 
-**Dan Ecclestone**<br>
-Vocals, ukulele, toy piano
+### Performed by
 
-**Paolo Clementi**<br>
-Viola
+Dan Ecclestone
+: Vocals, ukulele, toy piano
 
-**Callum Gardner**<br>
-Acoustic guitar
+Paolo Clementi
+: Viola
 
-**Simone Silvestroni**<br>
-Bass, drums, sound effects
+Callum Gardner
+: Acoustic guitar
+
+Simone Silvestroni
+: Bass, drums, sound effects
 
 ### Production
 

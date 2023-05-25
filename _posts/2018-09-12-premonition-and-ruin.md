@@ -55,24 +55,26 @@ A year later, I ended up mixing the band’s follow-up album [_From The Country 
 
 ## Credits
 
-**Dan Ecclestone**<br>
-Vocals, guitar, ukulele
+### Performed by
 
-**Chris Peckham**<br>
-Accordion
+Dan Ecclestone
+: Vocals, guitar, ukulele
 
-**Dom Hall-Smith**<br>
-Bass
+Chris Peckham
+: Accordion
 
-**Ian Pickering**<br>
-Drums
+Dom Hall-Smith
+: Bass
+
+Ian Pickering
+: Drums
 
 ### Production
 
 - Written and produced by Dan Ecclestone
 - Recorded by Bugs at _Half Ton_, Cambridge
 - Co-produced and mixed by Simone Silvestroni
-- Mastered by Ian Shepherd
+- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/)
 
 {: .small }
 &copy; 2018 Music and lyrics Dan Ecclestone.

@@ -34,11 +34,13 @@ _Eclipse_ is a new single, part of a different batch of new releases, where I up
 
 ## Credits
 
-**Lenny Nathan Frumento**<br>
-Music, production
+### Performed by
 
-**Simone Silvestroni**<br>
-Bass, production, mix, master
+Lenny Nathan Frumento
+: Music, production
+
+Simone Silvestroni
+: Bass, production, mix, master
 
 {: .small }
 &copy; 2019 Lenny Nathan Frumento

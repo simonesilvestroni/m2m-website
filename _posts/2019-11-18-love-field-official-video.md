@@ -46,14 +46,16 @@ November 1963. A warm weather greets the President when he lands at _Love Field_
 
 ## Credits
 
-**Dan Ecclestone**<br>
-Vocals
+### Performed by
 
-**Paolo Clementi**<br>
-Guitars, viola
+Dan Ecclestone
+: Vocals
 
-**Simone Silvestroni**<br>
-Bass, piano, synth, strings, drums, sound effects
+Paolo Clementi
+: Guitars, viola
+
+Simone Silvestroni
+: Bass, piano, synth, strings, drums, sound effects
 
 ## Production
 

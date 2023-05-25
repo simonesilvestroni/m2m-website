@@ -28,17 +28,19 @@ permalink: /work/music-production/from-the-country-to-the-city-to-the-sea-album-
 
 ## Credits
 
-**Dan Ecclestone**<br>
-Vocals, guitar, ukulele
+### Performed by
 
-**Chris Peckham**<br>
-Accordion
+Dan Ecclestone
+: Vocals, guitar, ukulele
 
-**Dom Hall-Smith**<br>
-Bass
+Chris Peckham
+: Accordion
 
-**Ian Pickering**<br>
-Drums
+Dom Hall-Smith
+: Bass
+
+Ian Pickering
+: Drums
 
 Featuring Liz Mitchell - Clarinet
 
@@ -46,9 +48,9 @@ Featuring Liz Mitchell - Clarinet
 
 - Written by Dan Ecclestone
 - Produced by Ember Rev
-- Recorded by Sam Inglis at The Mill, February 2019
+- Recorded by [Sam Inglis](https://www.soundonsound.com/author/sam-inglis) at The Mill, February 2019
 - Mixed by Simone Silvestroni
-- Mastered by Ian Shepherd
+- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/)
 
 {: .small }
 &copy; 2018 Music and lyrics Dan Ecclestone.

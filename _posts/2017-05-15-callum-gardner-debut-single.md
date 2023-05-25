@@ -60,17 +60,19 @@ Rehearsals for the live concerts went well. I loved how quickly we all blended a
 
 ## Credits
 
-**Callum Gardner**<br>
-Vocals, guitars
+### Performed by
 
-**Simone Silvestroni**<br>
-Bass
+Callum Gardner
+: Vocals, guitars
 
-**Paolo Clementi**<br>
-Viola
+Simone Silvestroni
+: Bass
 
-**Arlen Millwall**<br>
-Drums
+Paolo Clementi
+: Viola
+
+Arlen Millwall
+: Drums
 
 ## Production
 

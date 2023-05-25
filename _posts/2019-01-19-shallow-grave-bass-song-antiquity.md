@@ -36,14 +36,14 @@ Also, I love when I’m presented with a proper challenge. As a songwriter, Gera
 
 ### Performed by
 
-**Gerald Duchene**<br>
-Instrumentation
+Gerald Duchene
+: Instrumentation
 
-**Dan Ecclestone**<br>
-Melody and vocals
+Dan Ecclestone
+: Melody and vocals
 
-**Simone Silvestroni**<br>
-Fretless bass
+Simone Silvestroni
+: Fretless bass
 
 ### Production
 

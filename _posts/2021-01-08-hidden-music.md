@@ -40,34 +40,34 @@ This was the first full-fledged album that I mixed using Reaper after [I switche
 
 ## Credits
 
-**Dan Ecclestone**<br>
-Piano & vocals
+### Performed by
 
-**Jake Hatter**<br>
-Trumpet
+Dan Ecclestone
+: Piano & vocals
 
-**Julia Black**<br>
-Violin
+Jake Hatter
+: Trumpet
 
-**Katharine Parsons**<br>
-Viola
+Julia Black
+: Violin
 
-**Abby Wollston**<br>
-Cello
+Katharine Parsons
+: Viola
 
-**Richard Partridge**<br>
-Double bass
+Abby Wollston
+: Cello
 
-**David Youngs**<br>
-Drums
+Richard Partridge
+: Double bass
+
+David Youngs
+: Drums
 
 ### Production
 
-- Recorded by Sam Inglis
-- Mixed by Simone Silvestroni of [Minutes to Midnight](https://minutestomidnight.co.uk)
-- Mastered by Ian Shepherd
+- Recorded by [Sam Inglis](https://www.soundonsound.com/author/sam-inglis)
+- Mixed by Simone Silvestroni
+- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/)
 
 {: .small }
 &copy; 2021 Music and lyrics Dan Ecclestone.
-
-Released: 8 January 2021

@@ -64,7 +64,7 @@ The spoken words of Gianluca’s father — recorded on tape at the time — is 
 We exchanged opinions about the rough mixes, efficiently collaborating to the editing until we both felt the song was complete. After starting the work in Logic, both the mix and the master were done in Pro Tools.
 
 {: .big }
-> We strived to reach out to the core of the song — but also moving to a different territory — respectful of our different musical paths. Simone is outstanding at giving context to songs and laying down elegant and credible bass lines. He built rhythmic parts, strenghtening and tying together the tension that I created with my guitars and synths.
+> We strived to reach out to the core of the song — but also moving to a different territory — respectful of our different musical paths. Simone is outstanding at giving context to songs and laying down elegant and credible bass lines. He built rhythmic parts, strenghtening and tying together the tension that I created with my guitars and synth.
 > <cite>**Emilio Albertoni**</cite>
 
 ## Credits

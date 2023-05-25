@@ -32,14 +32,14 @@ permalink: /work/bass/the-experience-bass-album-antiquity/
 
 ### Performed by
 
-**Gerald Duchene**<br>
-All instrumentation
+Gerald Duchene
+: All instrumentation
 
-**Dan Ecclestone**<br>
-Vocals and melody
+Dan Ecclestone
+: Vocals and melody
 
-**Simone Silvestroni**<br>
-Bass
+Simone Silvestroni
+: Bass
 
 ### Production
 

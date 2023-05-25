@@ -47,17 +47,17 @@ Watch a video teaser of _Hang Loose_ [performed live at the Strongroom](/blog/li
 
 ### Performed by
 
-**Callum Gardner**<br>
-Vocals, acoustic guitar
+Callum Gardner
+: Vocals, acoustic guitar
 
-**Hugh Wheatley**<br>
-Electric guitar, backing vocals
+Hugh Wheatley
+: Electric guitar, backing vocals
 
-**Simone Silvestroni**<br>
-Bass
+Simone Silvestroni
+: Bass
 
-**Arlen Millwall**<br>
-Drums, backing vocals
+Arlen Millwall
+: Drums, backing vocals
 
 ### Production
 

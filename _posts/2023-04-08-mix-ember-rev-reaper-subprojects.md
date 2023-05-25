@@ -115,7 +115,7 @@ Ian Pickering
 ### Production
 
 - Mixed by Simone Silvestroni
-- Mastered by Ian Shepherd
+- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/)
 
 {: .small }
 &copy; 2017 Dan Ecclestone

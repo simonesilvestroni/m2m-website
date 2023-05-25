@@ -37,24 +37,26 @@ The threat of a pre-emptive strike to America is real, as the level of military 
 
 ## Credits
 
-**Dan Ecclestone**<br>
-Vocals
+### Performed by
 
-**Paolo Clementi**<br>
-Guitars
+Dan Ecclestone
+: Vocals
 
-**Andy Bonnor** (AndiA of ‘In Your Dreams’)<br>
-Drums
+Paolo Clementi
+: Guitars
 
-**Simone Silvestroni**<br>
-Bass, additional drums, sound effects
+Andy Bonnor (AndiA of ‘In Your Dreams’)
+: Drums
+
+Simone Silvestroni
+: Bass, additional drums, sound effects
 
 ### Production
 
 - Written and produced by Simone Silvestroni
 - Arranged by Paolo Clementi
 - Management by Christopher Carvalho of Unlock Your Sound
-- Mastered by Ian Shepherd
+- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/)
 
 ### Footage
 
