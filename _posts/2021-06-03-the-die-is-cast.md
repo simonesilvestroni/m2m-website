@@ -88,7 +88,7 @@ Romy Gensale
 - Mixed and mastered by Simone Silvestroni
 
 {: .small }
-&copy; 2018 Music and lyrics Dan Ecclestone.
+&copy; 2018 Dan Ecclestone
 
 {: .small }
 &copy; 2021 Remix produced and arranged by Simone Silvestroni and Gerald Duchene. The copyright in this sound recording (master) is owned by Simone Silvestroni. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.

@@ -53,6 +53,4 @@ Featuring Liz Mitchell - Clarinet
 - Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/)
 
 {: .small }
-&copy; 2018 Music and lyrics Dan Ecclestone.
-
-Released: 20 September 2019
+&copy; 2018 Dan Ecclestone

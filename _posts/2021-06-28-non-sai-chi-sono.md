@@ -86,7 +86,7 @@ Gianluca Lo Presti
 - Mixed and mastered by Simone Silvestroni
 
 {: .small }
-&copy; 2020 Music and lyrics by Gianluca Lo Presti.
+&copy; 2020 Gianluca Lo Presti
 
 {: .small }
 &copy; 2021 Remix produced and arranged by Emilio Albertoni and Simone Silvestroni. The copyright of this sound recording (master) is owned by Simone Silvestroni. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.

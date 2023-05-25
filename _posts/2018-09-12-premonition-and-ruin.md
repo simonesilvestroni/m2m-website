@@ -77,6 +77,4 @@ Ian Pickering
 - Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/)
 
 {: .small }
-&copy; 2018 Music and lyrics Dan Ecclestone.
-
-Released: 30 May 2018
+&copy; 2018 Dan Ecclestone

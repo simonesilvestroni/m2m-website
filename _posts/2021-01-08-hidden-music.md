@@ -70,4 +70,4 @@ David Youngs
 - Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/)
 
 {: .small }
-&copy; 2021 Music and lyrics Dan Ecclestone.
+&copy; 2021 Dan Ecclestone
