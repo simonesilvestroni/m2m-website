@@ -9,7 +9,7 @@ tags:
   - 'music production'
   - 'project management'
   - 'trello'
-description: 'I wrote an ebook about project management in the music industry. Available for free.'
+description: 'I wrote an ebook about how to streamline project management as a music professional. Available for free.'
 featimage: true
 featimage-name: 'efficient-productivity-ebook.png'
 featimage-alt: Efficient productivity for music professionals (ebook cover)
