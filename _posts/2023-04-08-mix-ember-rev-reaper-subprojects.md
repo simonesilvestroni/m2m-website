@@ -85,7 +85,7 @@ When all six projects were loaded as rendered proxy wavefiles, I could see *In S
 
 {% include pattern-figure.html image="/assets/images/reaper-subproject-combo-04-final-project.jpg" alt="REAPER arrange window, showing the six song forming the album" caption="Fig.4 – The entire album in the project containing 6 subprojects" width="1024" height="640" %}
 
-It was now super easy to listen, measure and test each song as part of an album. Inconsistencies were easier to spot, with testing loudness becoming a piece of cake with [REAPER SWS loudness functionality](https://wiki.cockos.com/wiki/index.php/Measure_and_normalize_loudness_with_SWS) (Fig. 5).
+It was now super easy to listen, measure and test each song as part of an album. Inconsistencies were easier to spot, and testing loudness is a piece of cake with [REAPER SWS loudness functionality](https://wiki.cockos.com/wiki/index.php/Measure_and_normalize_loudness_with_SWS) (Fig. 5).
 
 {% include pattern-figure.html image="/assets/images/reaper-subproject-combo-05-test-loudness.jpg" alt="REAPER showing SWS menu Loudness window, indicating values for the six songs" caption="Fig 5. – Testing loudness on the entire album" width="1024" height="640" %}
 
