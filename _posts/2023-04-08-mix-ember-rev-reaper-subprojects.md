@@ -55,7 +55,7 @@ The mixing sessions started with what I deeemed to be the main song. Once I got 
 
 ## Preparing the album for mastering
 
-Once the project approached the stage where I would be delivering the final stereo mixes to the master engineer, [Ian Shepherd](https://productionadvice.co.uk/about/), an idea popped up: testing the album by checking the songs as an album&nbsp;—&nbsp;interspersed with a 2-second pause&nbsp;—&nbsp;similarly to how a master would be initially laid out in a DAW.
+Once the project approached the stage where I would be delivering the final stereo mixes to the master engineer, [Ian Shepherd](https://productionadvice.co.uk/about/), an idea popped up: testing the album by checking the songs _as an album_&nbsp;—&nbsp;interspersed with a 2-second pause&nbsp;—&nbsp;similarly to how a master would be initially laid out in a DAW.
 
 All the songs are loaded sequentially into a new project, as rendered stereo files. When issues arise, the usual workflow would be to open the mix source session, apply the change, bounce the stereo master and re-import the wave file in the general album project by replacing the previous one.
 
