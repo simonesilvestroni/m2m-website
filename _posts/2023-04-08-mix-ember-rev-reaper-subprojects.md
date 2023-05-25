@@ -77,11 +77,11 @@ Once the project was selected, REAPER opened it, created a proxy and started ren
 
 {% include pattern-figure.html image="/assets/images/reaper-subproject-combo-02-rendering-project.jpg" alt="REAPER showing the render window" caption="Fig. 2 – A session rendering as a subproject" width="1024" height="640" %}
 
-Once the project was rendered into my album session as a wave file, the edit cursor positioned itself at the end of the audio clip. I then proceeded to add a 2-second gap, similar to what's usually done in mastering (Fig. 3). With the edit cursor now moved by two seconds, I added the next song.
+After the project was rendered into my album session as a wave file, the edit cursor positioned itself at the end of the audio clip. I then proceeded to add a 2-second gap, similar to what's usually done in mastering (Fig. 3). With the edit cursor now moved by two seconds, I added the next song.
 
 {% include pattern-figure.html image="/assets/images/reaper-subproject-combo-03-add-space.jpg" alt="A window menu in REAPER software, showing how to add a 2-second gap after a wave file" caption="Fig. 3 – Adding a 2-second gap after a song" width="1024" height="640" %}
 
-Once all the six projects were loaded as rendered proxy wavefiles, I could see *In Super-8* in its full glory (Fig. 4).
+When all six projects were loaded as rendered proxy wavefiles, I could see *In Super-8* in its full glory (Fig. 4).
 
 {% include pattern-figure.html image="/assets/images/reaper-subproject-combo-04-final-project.jpg" alt="REAPER arrange window, showing the six song forming the album" caption="Fig.4 – The entire album in the project containing 6 subprojects" width="1024" height="640" %}
 
