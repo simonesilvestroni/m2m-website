@@ -11,7 +11,7 @@ The best and quickest way to [get in touch is email](mailto:hello@minutestomidni
 
 ## Elsewhere
 
-The website for my web development and design work is at [simonesilvestroni.com](https://simonesilvestroni.com). I'm also active on the following networks:
+My web development and design work is at [simonesilvestroni.com](https://simonesilvestroni.com). I'm also active on the following networks:
 
 <ul>
   {% for item in site.data.nav-social.menu -%}
