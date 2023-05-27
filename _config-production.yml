@@ -5,4 +5,4 @@ exclude:
   - assets/js/search.js
   - assets/js/webmention.js
 
-include: ["_pages", "_redirects", "assets/js/search.json"]
+include: ["_pages", "_redirects", ".well-known", "assets/js/search.json"]
