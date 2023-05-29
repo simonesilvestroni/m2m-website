@@ -39,7 +39,7 @@ Built with Jekyll `v4.2.2`.
 ### Visual
 
 - SVGs for logos and icons
-- [WebP images](/blog/implementing-webp-images-in-jekyll/), with optimised fallbacks
+- [WebP images](https://minutestomidnight.co.uk/blog/implementing-webp-images-in-jekyll/), with optimised fallbacks
 - System stacks typography (with fallbacks):
   - [Humanist](https://github.com/system-fonts/modern-font-stacks#humanist)
   - [Old Style](https://github.com/system-fonts/modern-font-stacks#old-style)
@@ -57,7 +57,7 @@ Built with Jekyll `v4.2.2`.
 - Compliant with <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> guidelines
 - Current [WAVE accessibility rank](https://webaim.org/projects/million/lookup?domain=minutestomidnight.co.uk): `#7,280` of 1,000,000
 - The page content is fully accessible with Javascript turned off
-- The dynamic [search functionality](/search/) has a plain HTML alternative
+- The dynamic [search functionality](https://minutestomidnight.co.uk/search/) has a plain HTML alternative
 
 ## Privacy
 
