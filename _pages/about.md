@@ -11,6 +11,14 @@ featimage-alt: Simone Silvestroni with a Warwick Thumb Bass
 featimage-width: 780
 featimage-height: 455
 ---
+<aside>
+  {% for endorsement in site.endorsements limit:1 %}
+  <blockquote class="endorsement">
+    <p><span class="big">{{ endorsement.quote }}</span><cite><strong><a href="{{ endorsement.url }}">{{ endorsement.name }}</a></strong> &ndash; {{ endorsement.role }}</cite></p>
+  </blockquote>
+  {% endfor %}
+</aside>
+
 Unlike the proverbial _jack of all trades_, I truly embrace my eclectic career, and love how it made me fluent in different fields. Being able to competently juggle between print design, web development and audio production, created a constant flow of curiosity and cross-disciplinary interests.
 
 I try to listen to people and be open to new ideas. Disliking a society that's oblivious of its unsustainability, I wrote a personal [manifesto of some of the principles I live by](/personal-manifesto/).
