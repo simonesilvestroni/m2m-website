@@ -9,21 +9,23 @@ tags:
   - 'technical sound design'
   - 'video game'
   - 'wwise'
-description: 'While working on a test project based on a Cujo Sounds’ video series about how to set up a AAA Wwise project, I envisioned a method to speed up the process.'
+description: 'While working on a test project based on a video series by Cujo Sounds called ‘Setting up a AAA Wwise project’, I envisioned a method to speed up the process.'
 ---
-Provided that a certain knowledge of Wwise is required, these [didactic videos by Bjørn Jacobsen](https://www.youtube.com/@CujoSound/search?query=Setting%20up%20a%20AAA%20Wwise%20project) are brilliant and I highly recommend them. The chapter I'm focusing on is called _Setting up a AAA Wwise project - Part 5: Complex footstep switching with simple RTPCs_.
+Provided that a certain knowledge of Wwise is required, these [didactic videos by Bjørn Jacobsen](https://www.youtube.com/@CujoSound/search?query=Setting%20up%20a%20AAA%20Wwise%20project) are brilliant and I highly recommend them. The entire brief course is built around the idea of "making a game in a fictional Wwise environment to eventually have a project that will fully work without a game". The chapter I'm focusing on is called _Part 5: Complex footstep switching with simple <abbr title="Real Time Parameter Control">RTPC</abbr>s_.
 
 ## The Wwise project
 
-The chapter is focused on a smart way to create a switch container for the player footsteps. In a quest to think ahead and create a project that will allow the player to have proper footsteps sounds based on different surface materials, the Switch Group called `GroundMaterialSwitch` contains 23 switches.
+In a quest to teach how to think ahead, he creates a project that will allow the player to have proper footsteps sounds based on different surface materials, in different wetness conditions. 
 
-The Switch Container called `PLYR_Footsteps_MaterialSwitch` reflects the same structure, so it contains 23 Switch Containers following the naming convention `{material}_WetnessSwitch`. Therefore, for the material switch `Dirt` inside my Switch Group, I'll have a Switch Container named `Dirt_WetnessSwitch`, and so on.
+The Switch Group called _GroundMaterialSwitch_, under Game Syncs, contains 23 switches. They're interconnected with another switch related to the wetness of the ground itself, _GroundWetnessSwitch_, and driven by an RTPC called _RTPC_GroundWetness_, under Game Parameters.
+
+The Switch Container in Project Explorer, called _PLYR_Footsteps_MaterialSwitch_, reflects the same structure, so it contains 23 Switch Containers following the naming convention `{material}_WetnessSwitch`. Therefore, for the material switch _Dirt_ inside my Switch Group, I'll have a Switch Container named _Dirt_WetnessSwitch_, and so on.
 
 {% include pattern-figure.html image="/assets/images/wwise-footsteps-switch.jpg" alt="My Wwise project, showing the switch container (left), and the switch group (right)" caption="My Wwise project, showing the switch container (left), and the switch group (right)" width="1024" height="622" %}
 
 ## Adding sounds
 
-Bjørn gives an insight on how to manage audio assets in the filesystem: it's a good idea to have a root folder called `Originals` which contains subfolders based on a structure consistent with the Wwise project:
+Bjørn gives an insight on how to manage audio assets in the filesystem: it's a good idea to have a root folder called `Originals` containing subfolders based on a structure consistent with the Wwise project:
 
 ```
 📂 Originals
@@ -35,20 +37,20 @@ Bjørn gives an insight on how to manage audio assets in the filesystem: it's a 
    └─ 📂 TestFiles
 ```
 
-I suppose this shouldn't be new to anyone who has worked with Wwise, especially if they've [integreated REAPER with Wwise](https://www.audiokinetic.com/en/library/reawwise/?source=ReaWwise&id=reawwise), though it's worth repeating.
+I suppose this shouldn't be new to anyone who has worked with Audiokinetic's middleware tool, especially if they've [integrated REAPER with Wwise](https://www.audiokinetic.com/en/library/reawwise/?source=ReaWwise&id=reawwise).
 
 ### The issue
 
-What I want to improve is the process of creating local folders that mirror the same structure of the Wwise project. In my current example I have 23 Switch Containers, each one needing a local folder where to put any sound assets that will be imported in Wwise. Instead of manually copy the switch names and used them to create 23 new folders in my filesystem, I devised a more efficient method.
+What I want to improve is the process of creating local folders that mirror the same structure of the Wwise project. In my current example with 23 Switch Containers, each one needs a local folder where to put sound assets that will be imported in Wwise. Instead of manually copy the switch names and use them to create 23 new folders in my filesystem, I devised a more efficient method.
 
 {: .warning }
-**Note** — The following solution is based on macOS. I'm not sure whether it's possible to replicate the same steps on Windows, but I'll try. Will post an update if I find a way (probably using [<abbr title="Windows Linux Subsystem">WLS</abbr>](https://learn.microsoft.com/en-us/windows/wsl/about)?).
+**Note** — The following solution is based on macOS (10.14), using GNU bash version 5.2.15. I'm not sure whether it's possible to replicate the same steps on Windows, maybe using [<abbr title="Windows Linux Subsystem">WLS</abbr>](https://learn.microsoft.com/en-us/windows/wsl/about).
 
 {: .list-hr }
-- In Finder, I open the folder `Switches` under my Wwise project directory.
-- With a code editor, I open the Work Unit where the Switch Group is, in my case: `Default Work Unit.wwu`.
-- I find the Switch Group I’m working on — in my case: `<SwitchGroup Name="GroundMaterialSwitch" ID="{CE340E43-285B-4633-92EB-BA5E6B004F9D}">`.
-- The content of the `<ChildrenList>` item is copy-pasted in a new empty file called `switches` saved on my Desktop.
+- In Finder, go to the folder `Switches` under the Wwise project directory.
+- With a code editor, open the Work Unit where the Switch Group is, in my case: `Default Work Unit.wwu`.
+- Find the Switch Group, in my case: `<SwitchGroup Name="GroundMaterialSwitch" ID="{CE340E43-285B-4633-92EB-BA5E6B004F9D}">`.
+- The content of the `<ChildrenList>` item is copy-pasted in a new empty file called `switches` saved on the Desktop.
 - After pruning tabs and spaces at the beginning of each line, this is the resulting content:
   ```
   <Switch Name="Dirt" ID="{3840C5F2-2A61-446D-A0B3-DD17F244B85D}"/>
@@ -74,7 +76,7 @@ What I want to improve is the process of creating local folders that mirror the 
   <Switch Name="Wood" ID="{4C74D828-835C-421B-9D54-794B6A38196B}"/>
   <Switch Name="WoodFloor" ID="{302E8991-2E81-4960-B744-9D5269BE0081}"/>
   ```
-- I then proceed to extract the single switch names using the command `awk` in a Terminal session:
+- Proceed to extract the single switch names using the command `awk` in a Terminal session:
   ```
   $ awk -F '"' '{print $2}' ~/Desktop/switches > ~/Desktop/switches_names.txt
   ```
@@ -83,7 +85,7 @@ The resulting `switches_names.txt` content:
   
 {% include pattern-figure.html image="/assets/images/wwise-switches_names.png" alt="Text file containing my switch names" width="331" height="382" %}
 
-At this point, I can quickly create the folders based on the above list: I open the root folder of my video game project in a Terminal window and type the following command, which will create a directory for each switch name:
+At this point, it is quick to create the folders based on the above list: open the root folder of the video game project in a Terminal window and type the following command, which will create a directory for each switch name:
 
 ```
 $ xargs -tI % mkdir % < ~/Desktop/switches_names.txt
@@ -91,18 +93,22 @@ $ xargs -tI % mkdir % < ~/Desktop/switches_names.txt
 
 #### Before
 
-{% include pattern-figure.html image="/assets/images/wwise-switches-folders-empty.png" alt="The Finder window that will contain my switches folders" caption="The Finder window that will contain my switches folders" width="1024" height="582" %}
+The Finder window that will contain the switches folders:
+
+{% include pattern-figure.html image="/assets/images/wwise-switches-folders-empty.png" alt="The Finder window that will contain my switches folders" width="1024" height="582" %}
 
 #### After
 
-{% include pattern-figure.html image="/assets/images/wwise-switches-folders-populated.png" alt="The Finder window after it's been populated by the xargs script" caption="The Finder window after it's been populated by the xargs script" width="1024" height="582" %}
+The Finder window after it's been populated by the `xargs` script:
+
+{% include pattern-figure.html image="/assets/images/wwise-switches-folders-populated.png" alt="The Finder window after it's been populated by the xargs script" width="1024" height="582" %}
 
 ## Conclusions
 
-The above process might look laborious, depending on how familiar working within a shell window is, however:
+The above process might look laborious, depending on the level of familiarity with a shell window, however:
 
-- there can be _no mistakes_ in the folder names, since it's all being directly copied from Wwise's XML source;
-- if the folders to be created are in large numbers, the manual process is going to be quite tedious;
-- it's easy enough to [create aliases](https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html) so that the Terminal input is reduced to the bare minimum.
+- there won't be mistakes in the folder names, since it's all being directly copied from Wwise's XML source;
+- if the folders to be created are numerous, the manual process would be way slower and quite tedious;
+- it's easy enough to [create bash aliases](https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html) so that the input is reduced to the bare minimum.
 
 Of course, the same procedure can be adopted for similar tasks, including for the aforementioned REAPER integration.
