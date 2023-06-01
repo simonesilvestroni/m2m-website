@@ -35,8 +35,8 @@ Built with Jekyll `v4.2.2`.
 
 - Markdown extended
 - Liquid
-- HTML
-- CSS based on [Simple CSS](https://simplecss.org)
+- HTML ([validated](https://validator.w3.org/nu/?doc=https%3A%2F%2Fminutestomidnight.co.uk%2F))
+- CSS ([validated](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fminutestomidnight.co.uk%2Fassets%2Fcss%2Fm2m.min.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)) based on [Simple CSS](https://simplecss.org)
 - Vanilla Javascript:
   - [Dynamic search](https://github.com/daviddarnes/jekyll-search-js)
   - [Webmentions](https://github.com/fluffy-critter/webmention)
