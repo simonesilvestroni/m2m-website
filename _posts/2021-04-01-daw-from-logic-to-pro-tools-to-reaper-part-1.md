@@ -48,7 +48,7 @@ This article reflects my own personal opinions, which are related to how I use a
 
 After starting out with Cubase in 1995 and using it until v4, I moved to eMagic’s Logic in 2002. Transitioned to Apple’s [Logic Pro X](https://www.apple.com/logic-pro/) a bit late, I stayed there until last year. All in all, it’s been 18 years with Logic.
 
-![Screenshot of a version of Logic Audio Platinum 5](/assets/images/daw-logic-platinum.jpg){: width="100%" height="581" }
+![Screenshot of a version of Logic Audio Platinum 5](/assets/images/daw-logic-platinum.jpg){: width="768" height="581" }
 *2002: Logic Audio Platinum 5*
 
 ## Pro Tools
