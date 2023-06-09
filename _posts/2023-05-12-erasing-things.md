@@ -17,7 +17,7 @@ Last week, Matthew wrote about [dropping the narrow column in the middle of the 
 
 It stayed online for slightly more than twelve hours.
 
-{% include pattern-figure.html image="/assets/images/styles-short-lived.jpg" alt="Screenshot of a short-lived version of my site in full-screen mode" width="790" height="354" %}
+![Screenshot of a short-lived version of my site in full-screen mode](/assets/images/styles-short-lived.jpg){: width="790" height="354" }
 
 ## Synchronicity
 
@@ -27,13 +27,16 @@ First, I dug into my archives and found a version of my old personal website fro
 
 Morula.org was a _personal_ blog that I started in 2002 to vent my frustrations as a (crunch) worker in the video game industry. It later became a way to document the trauma of losing a loved one to suicide — it was so intimate that I'd decided to erase it from the internet, [including the Wayback Machine](https://web.archive.org/web/20230000000000*/morula.org).
 
-{% include pattern-figure.html image="/assets/images/styles-morula.jpg" alt="Screenshot of my old website" caption="Morula.org in 2007, with the blog stripped out" width="790" height="435" %}
+![Screenshot of my old website](/assets/images/styles-morula.jpg){: width="790" height="435" }
+*Morula.org in 2007, with the blog stripped out*
 
 The second thing was the realisation of how I've been using Feedbin and a Reader extension for Firefox for many months: both featuring a custom CSS that I wrote with a _specific typography in mind_. The combination of [Seravek](https://seravek.com/) for headings and spare navigation elements, coupled with [Iowan Old Style](https://en.wikipedia.org/wiki/Iowan_Old_Style) for the body, appease a long-time attraction to Gill Sans and elegant serifs.
 
-{% include pattern-figure.html image="/assets/images/styles-feedbin.jpg" alt="Screenshot of my customised Feedbin" caption="Feedbin in Firefox, showing my custom CSS applied" width="790" height="481" %}
+![Screenshot of my customised Feedbin](/assets/images/styles-feedbin.jpg){: width="790" height="481" }
+*Feedbin in Firefox, showing my custom CSS applied*
 
-{% include pattern-figure.html image="/assets/images/styles-firefox-reader.jpg" alt="Screenshot of an article viewed in my reader extension for Firefox" caption="An article in my reader extension for Firefox" width="790" height="449" %}
+![Screenshot of an article viewed in my reader extension for Firefox](/assets/images/styles-firefox-reader.jpg){: width="790" height="449" }
+*An article in my reader extension for Firefox*
 
 I posted the above article from [Leon Paternoster](https://www.thisdaysportion.com/) on purpose, because the synchronicity was uncanny: after reading his writings through RSS, I went to see the website in its entirety for the first time. I was gobsmacked to see that it was designed _precisely_ how I wanted to transform mine:
 
