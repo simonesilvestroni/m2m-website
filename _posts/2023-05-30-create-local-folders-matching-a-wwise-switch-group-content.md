@@ -10,6 +10,7 @@ tags:
   - 'video game'
   - 'wwise'
 description: 'While working on a test project based on a video series by Cujo Sounds called ‘Setting up a AAA Wwise project’, I envisioned a method to speed up the process.'
+typora-root-url: ../
 ---
 Provided that a certain knowledge of Wwise is required, these [didactic videos by Bjørn Jacobsen](https://www.youtube.com/@CujoSound/search?query=Setting%20up%20a%20AAA%20Wwise%20project) are brilliant and I highly recommend them. The entire brief course is built around the idea of "making a game in a fictional Wwise environment to eventually have a project that will fully work without a game". The chapter I'm focusing on is called _Part 5: Complex footstep switching with simple <abbr title="Real Time Parameter Control">RTPC</abbr>s_.
 
@@ -21,7 +22,8 @@ The Switch Group called _GroundMaterialSwitch_, under Game Syncs, contains 23 sw
 
 The Switch Container in Project Explorer, called _PLYR_Footsteps_MaterialSwitch_, reflects the same structure, so it contains 23 Switch Containers following the naming convention `{material}_WetnessSwitch`. Therefore, for the material switch _Dirt_ inside my Switch Group, I'll have a Switch Container named _Dirt_WetnessSwitch_, and so on.
 
-{% include pattern-figure.html image="/assets/images/wwise-footsteps-switch.jpg" alt="My Wwise project, showing the switch container (left), and the switch group (right)" caption="My Wwise project, showing the switch container (left), and the switch group (right)" width="1024" height="622" %}
+![My Wwise project, showing the switch container (left), and the switch group (right)](/assets/images/wwise-footsteps-switch.jpg){: width="1024" height="622"}
+*My Wwise project, showing the switch container (left), and the switch group (right)*
 
 ## Adding sounds
 
@@ -82,8 +84,9 @@ What I want to improve is the process of creating local folders that mirror the 
   ```
 
 The resulting `switches_names.txt` content:
-  
-{% include pattern-figure.html image="/assets/images/wwise-switches_names.png" alt="Text file containing my switch names" width="331" height="382" %}
+
+![Text file containing my switch names](/assets/images/wwise-switches_names.png){: width="331" height="382" }
+*Text file containing my switch names*
 
 At this point, it is quick to create the folders based on the above list: open the root folder of the video game project in a Terminal window and type the following command, which will create a directory for each switch name:
 
@@ -95,13 +98,13 @@ $ xargs -tI % mkdir % < ~/Desktop/switches_names.txt
 
 The Finder window that will contain the switches folders:
 
-{% include pattern-figure.html image="/assets/images/wwise-switches-folders-empty.png" alt="The Finder window that will contain my switches folders" width="1024" height="582" %}
+![The Finder window that will contain my switches folders](/assets/images/wwise-switches-folders-empty.png){: width="1024" height="582" }
 
 #### After
 
 The Finder window after it's been populated by the `xargs` script:
 
-{% include pattern-figure.html image="/assets/images/wwise-switches-folders-populated.png" alt="The Finder window after it's been populated by the xargs script" width="1024" height="582" %}
+![The Finder window after it's been populated by the xargs script](/assets/images/wwise-switches-folders-populated.png){: width="1024" height="582" }
 
 ## Conclusions
 
