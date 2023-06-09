@@ -30,7 +30,6 @@ Most of the following points are interconnected. The glue that keeps them togeth
 
 This website represents myself online. I don't need to project a successful persona here, nor fake anything. Owning the site, both the code and the content, has a real meaning. And yes, [I love it](https://anhvn.com/posts/2021/2021-12-14-i-love-my-website/).
 
-{: .big }
 > I love my website. Even though it isn’t a physical thing, I think it might be my most prized possession.<cite>[Jeremy Keith](https://adactio.com/articles/10887)</cite>
 
 I first created a personal website in March 2002, changing its domain, design and content over 21 years. It's true that I now also offer services in exchange for money, however, this is my _personal place_ and therefore I don't cater to a specific category of people. I'm myself, [not a brand]({{ site.url }}/blog/de-brand/).
@@ -55,12 +54,11 @@ I stopped following the news, which doesn't mean I ignore what's happening in th
 
 If it's not an in-deep analysis, a long-form article or a book, it doesn't get my attention. This [article by Rolf Dobelli](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli) is a good starting point.
 
-{: .big }
 > Exploitative, performative, informative<br>
 And we don't know the half of it<br>
 Rhetorical, deplorable, historical<br>
 And all along we called it normal
-<cite>**Paramore**, [_The News_](https://www.youtube.com/watch?v=YSFa_wOZPXg)</cite>
+<cite>Paramore, [_The News_](https://www.youtube.com/watch?v=YSFa_wOZPXg)</cite>
 
 ## Corporate web
 
@@ -86,9 +84,8 @@ Over the last fifteen years I've been heavily invested in trying to stop wasting
 
 I subscribe to the _brutalist design manifesto_:
 
-{: .big }
 > A website is for a visitor, using a browser, running on a computer to read, watch, listen, or perhaps to interact. A website that embraces Brutalist Web Design is raw in its focus on content, and prioritization of the website visitor.
-> <cite>[**David Bryant Copeland**](https://brutalist-web.design/)</cite>
+> <cite>[David Bryant Copeland](https://brutalist-web.design/)</cite>
 
 In line with a minimalist approach, fighting against bloatware means that my website doesn't weigh on neither broadband nor electricity with useless scripts, tracking, analytics, ads or pointless stock photos.
 

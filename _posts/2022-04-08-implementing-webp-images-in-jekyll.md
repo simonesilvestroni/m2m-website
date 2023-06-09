@@ -6,17 +6,14 @@ tags:
   - 'jekyll'
   - 'sustainability'
   - 'web development'
-description: "How I added WebP images to my Jekyll-based static site, reaching new levels of optimization and performance."
+description: "How to add WebP images to a Jekyll-based static site, to ensure new levels of optimization and performance."
 ---
 ## What is WebP
 
 > WebP is a modern image format that provides superior lossless and lossy compression for images on the web. [...] WebP lossless images are 26% smaller in size compared to PNGs. WebP lossy images are 25-34% smaller than comparable JPEG images at equivalent quality index.
 > <cite>[An image format for the Web, by Google](https://developers.google.com/speed/webp)</cite>
 
-### Example: Figure module
-
-{: .text-uppercase .m2m-letter-spacing-w1 }
-#### Before
+### Figure module (before)
 
 ```html
 {% raw %}<figure class="{{ include.class | default: 'my-5 text-center' }}">
@@ -25,10 +22,9 @@ description: "How I added WebP images to my Jekyll-based static site, reaching n
 </figure>
 ```
 
-{: .text-uppercase .m2m-letter-spacing-w1 }
-#### After
+### Figure module (after)
 
-I created a `picture` element containing all the `srcset` needed for a full support. Although [WebP is supported on all major browsers](https://caniuse.com/?search=webp), I'm serving fallbacks to older versions.
+I created a `picture` element containing all the `srcset` needed for a full support. Although [WebP is supported in all major browsers](https://caniuse.com/?search=webp), I'm serving fallbacks to older versions.
 
 ```html
 {% raw %}<figure class="{{ include.class | default: 'my-5 text-center' }}">

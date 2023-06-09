@@ -18,13 +18,14 @@ tags:
   - 'technology'
 description: "A brief description of how I use the internet in 2022, two years after leaving all mainstream social networks."
 ---
+{: .warning }
 This post is inspired by Michael Harley’s [_How I Internet_](https://obsolete29.com/posts/2022/11/07/how-i-internet/), which was inspired by Cassey Lottman’s, [_My Internet_](https://www.cassey.dev/posts/2022-11-05-my-internet/).
 
 ## E-mail
 
 I still prefer e-mail over any other form of communication.
 
-~~A few years ago I’ve switched to Protonmail, after possibly using all the available systems out there — both free and paid. Even though I’m not entirely satisfied, it fits my current privacy needs.~~ 
+A few years ago I’ve switched to Protonmail, after possibly using all the available systems out there — both free and paid. ~~Even though I’m not entirely satisfied, it fits my current privacy needs.~~ 
 
 After a few years with Proton, [I switched to Mailbox.org](/blog/email-migration-from-proton-to-mailbox/). I now sync my calendars and address book with Android through the open source [DAVx<sup>5</sup>](https://f-droid.org/en/packages/at.bitfire.davdroid/).
 

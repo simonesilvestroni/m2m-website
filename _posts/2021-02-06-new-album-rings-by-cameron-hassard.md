@@ -18,7 +18,7 @@ They caught my attention with an [article they published](https://indierepublik.
 
 > Cameron Hassard’s smouldering yet poetic vocals guide you through his sometimes ethereal, sometimes groovy, sometimes dark tunes.
 > 
-> <cite>— Indierepublik</cite>
+> <cite>Indierepublik</cite>
 
 The promise of an album presenting itself like a movie, narrated by an artist that sounds a bit like Mark Lanegan, was alluring enough. So I went, and what a surprise. This is a great finding — treat yourself with this gem of an album:
 

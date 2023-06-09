@@ -35,19 +35,19 @@ Whether the new influx is determined by my choice to stop acting like [a seller 
 From [_After 1989_'s Bandcamp page](https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom):
 
 > Superbly crafted thematic album, with each song contributing to the overall experience. 
-<cite>—David Dellacroce</cite>
+<cite>David Dellacroce</cite>
 
 > What a powerful piece of work. I would like to see it performed in Germany and England.
 A musical and historical journey with depths.
-<cite>—BeaK</cite>
+<cite>BeaK</cite>
 
 > The crystal clear mix, the engrossing story, the lovely bass. I’ll often end up with the chorus to ‘Skinny Kid’ stuck in my head without warning.
-<cite>—Mykie Frankenstein</cite>
+<cite>Mykie Frankenstein</cite>
 
 > This album straight up changed my ideas of what kind of music I could write myself. Huge inspiration. 
-<cite>—Garrett Mickley</cite>
+<cite>Garrett Mickley</cite>
 
 I'm very thankful for the lovely feedback, especially for a 4-year-old album.
 
-{: .warning }
+{: .notice }
 [**Read all the album reviews**](/work/music/after-1989-reviews/)&nbsp;→

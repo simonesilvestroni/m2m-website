@@ -11,7 +11,7 @@ Brilliant article by [Game Developer](https://www.gamedeveloper.com) about the r
 
 > We firmly believe that video games are art and can be an important part of public conversations. When we ban everything with any controversial keywords no matter the content, everybody loses. [&hellip;] How we’re supposed to make an historically-accurate game about WW2 horrors without Nazis? We don’t know.
 > 
-> <cite>— [Charles Games](https://charlesgames.net/)</cite>
+> <cite>[Charles Games](https://charlesgames.net/)</cite>
 
 Check out the **trailer** for the game, and [read the article](https://www.gamedeveloper.com/mobile/despite-gov-t-approval-google-rejects-i-attentat-1942-i-from-google-play-store-in-germany#.XxbSv6vUSTE.wordpress).
 

@@ -25,7 +25,7 @@ The website is now part of [Indieweb](https://indieweb.org/), therefore it's cap
 ## Small web
 
 > Most websites today are built like commercial products by professionals and marketers, optimised to draw the largest audience, generate engagement and 'convert'. But there is also a smaller, less-visible web designed by regular people to simply to share their interests and hobbies with the world. A web that is unpolished, often quirky but often also fun, creative and interesting.
-> <cite>— [Parimal Satyal](https://neustadt.fr/essays/the-small-web/)</cite>
+> <cite>[Parimal Satyal](https://neustadt.fr/essays/the-small-web/)</cite>
 
 ## Sustainability and performance
 
