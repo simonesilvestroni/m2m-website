@@ -221,56 +221,56 @@ Throughout _After 1989_, Simone uses archive material to accentuate the music an
 
 > The project is very impressive both in conception and execution. I love the way you’ve chosen to tell the story, the visuals, and the juxtaposition of the two Berlin experiences. It definitely reminds me a bit of Pink Floyd—both in the scope of the concept album but also the blues-influence that runs through the music and informs the whole thing stylistically. It seems like the kind of project that might be embraced by that same fanbase.  
 > Congratulations on creating a work that tackles an immense subject and brings a great deal of emotional depth and insight into it.
-> <cite>— Eric Beall, <a href="https://online.berklee.edu/faculty/eric-beall" target="_blank" rel="noreferrer noopener" aria-label="Eric Beall (opens in a new tab)">Berklee College of Music</a></cite>
+> <cite>Eric Beall, <a href="https://online.berklee.edu/faculty/eric-beall" target="_blank" rel="noreferrer noopener" aria-label="Eric Beall (opens in a new tab)">Berklee College of Music</a></cite>
 
 > _Skinny Kid_ is a tender delicate number as Simone expresses emotional and harrowing themes through a bitter, icy piano and tense progressive soundscapes. With a steady beat pounding through weaving guitars and ominous rumble on bass, the track projects images of isolation and loneliness by means of sinister chilling twinkles and tender vocals.  
 > The haunting backing vocals and lamenting pines on guitar have a chilling element as Simone portrays this harsh experience with sublime instrumentation and vivid musicianship.
-> <cite>— <a href="https://www.indiebuddie.com/minutes-to-midnight-skinny-kid-video-premiere/" target="_blank" rel="noreferrer noopener">Indiebuddie</a></cite>
+> <cite><a href="https://www.indiebuddie.com/minutes-to-midnight-skinny-kid-video-premiere/" target="_blank" rel="noreferrer noopener">Indiebuddie</a></cite>
 
 > Deep and viscerally touching, _Skinny Kid_ is a dark-colored narration where lyrics and music form a full-bodied and delicate sound balance, through which Minutes to Midnight makes us perceive, with mastery and in all its entirety, the bitter harshness, despair and oppression of the album theme. One of the most beautiful discoveries of this early 2020.
-> <cite>— <a href="https://novamusic.blog/minutes-to-midnight-skinny-kid/" target="_blank" rel="noreferrer noopener">Nova Music Blog</a></cite>
+> <cite><a href="https://novamusic.blog/minutes-to-midnight-skinny-kid/" target="_blank" rel="noreferrer noopener">Nova Music Blog</a></cite>
 
 > _Love Field_ is another striking track from Minutes To Midnight. The video takes us through the arrival of JFK and his wife Jackie in Dallas before his infamous demise. Through a variety of black and white and colour video clips we see the joy, celebration and devastation created by one event as JFK is shot.  
 > The entire video tells this story in an honest and emotional way. Simone fantasises about waving at Jack and Jackie, or leaning over the window of a sixth floor, or being Abraham Zapruder, standing still while everything changes.
-> <cite>— <a href="https://www.indiebuddie.com/minutes-to-midnight-love-field-video-premiere/" target="_blank" rel="noreferrer noopener">Indiebuddie</a></cite>
+> <cite><a href="https://www.indiebuddie.com/minutes-to-midnight-love-field-video-premiere/" target="_blank" rel="noreferrer noopener">Indiebuddie</a></cite>
 
 > It really impacted me, I listened to the entire album which is something I rarely do with submissions.
-> <cite>— <a href="https://youtu.be/wb2hRjPuU6Y" target="_blank" rel="noreferrer noopener">You haven’t heard this music podcast</a></cite>
+> <cite><a href="https://youtu.be/wb2hRjPuU6Y" target="_blank" rel="noreferrer noopener">You haven’t heard this music podcast</a></cite>
 
 > _13 Days_ captures the classic, warm, rock sound but with a modern approach that makes it completely relevant today. It combines a standard rock setup with electric and acoustic guitars, bass, drums and vocals that are on focus as expected. It also contains sound effects and iconic spoken words samples.   
 > The main theme of the song is the Cuba Missile Crisis. The song exists between two worlds. The inner and the outer. It starts in the outer world where the spoken samples and the lyrics get us in the mood and captures the tense of crisis from an external point of view. Then the song transfers us into the inner world, we are no longer an outsider but on the contrary, we are in the heart of the scene, where "Helen stares at the window". This change does not only happen through the lyrics. It is the chord progression, the melodies, the whole song itself, that moves between these two parallel worlds.  
 > Here, in Secret Eclectic we often ask artists what they would change in the music industry. An answer we often get is that bands, for reasons that relate to promotion, no longer release full albums. Minutes to Midnight released a full album. A concept album. We recommend listening to it in its entirety. 
-> <cite>— <a href="https://secreteclectic.com/2020/08/02/minutes-to-midnight-13-days/" target="_blank" rel="noreferrer noopener">Secret Eclectic</a></cite>
+> <cite><a href="https://secreteclectic.com/2020/08/02/minutes-to-midnight-13-days/" target="_blank" rel="noreferrer noopener">Secret Eclectic</a></cite>
 
 ## Fan reviews
 
 > Track after track, Minutes to Midnight takes us to a journey that is both personal and part of the shared history that shaped our lives and the current affairs. Each song is a unique blend of beautifully crafted sounds and samples from crucial historical events, delivered with the help of incredibly talented collaborators.
-> <cite>— Silvia Maggi, from Bandcamp</cite>
+> <cite>Silvia Maggi, from Bandcamp</cite>
 
 > It’s a greatly inspiring album, where the sounds blend perfectly with the strength of the feelings evoked, all mentioned facts being part of our collective unconscious although personal for the artist.
-> <cite>— Giuliana Graniti, from Bandcamp</cite>
+> <cite>Giuliana Graniti, from Bandcamp</cite>
 
 > This album is quite simply one of the finest pieces of storytelling ever put to sound.
-> <cite>— Christopher Carvalho, from Bandcamp</cite>
+> <cite>Christopher Carvalho, from Bandcamp</cite>
 
-> What a powerful piece of work. I would like to see it performed in Germany and England. A musical and historical journey with depths. <cite>— BeaK, from Bandcamp</cite>
+> What a powerful piece of work. I would like to see it performed in Germany and England. A musical and historical journey with depths. <cite>BeaK, from Bandcamp</cite>
 
-> The crystal clear mix, the engrossing story, the lovely bass. I’ll often end up with the chorus to ‘Skinny Kid’ stuck in my head without warning.<cite>— Mykie Frankenstein, from Bandcamp</cite>
+> The crystal clear mix, the engrossing story, the lovely bass. I’ll often end up with the chorus to ‘Skinny Kid’ stuck in my head without warning.<cite>Mykie Frankenstein, from Bandcamp</cite>
 
-> Superbly crafted thematic album, with each song contributing to the overall experience. <cite>— David Dellacroce, from Bandcamp</cite>
+> Superbly crafted thematic album, with each song contributing to the overall experience. <cite>David Dellacroce, from Bandcamp</cite>
 
-> This album straight up changed my ideas of what kind of music I could write myself. Huge inspiration. <cite>— Garrett Mickley, from Bandcamp</cite>
+> This album straight up changed my ideas of what kind of music I could write myself. Huge inspiration. <cite>Garrett Mickley, from Bandcamp</cite>
 
 > What a ride! The album is definitely a trip, and a very satisfying one to boot. The words “concept album” may carry some tricky baggage with them: shall I listen very carefully not to miss the point? Will I be forced to slog through convoluted passages with no musical relevance, stuck there to serve the concept only?  
 > Rest assured, none of this applies to _After 1989 – A Trip To Freedom_. Listened to it three times in a row. Flows perfectly, loved the unique voice of it all – and the Pink Floyd vibes here and there (the bass in Love Field, the “Waters-esque” feeling in _Sachsenhausen_)!  
 > Also, _The Logic_ just sends shivers along my spine all the times and makes my forearm hair rise when the sax kicks in. That would be enough for a five stars cum laude, methinks. Bravo!
-> <cite>— Mattia Bassani, from Facebook</cite>
+> <cite>Mattia Bassani, from Facebook</cite>
 
 > I love this concept. I’ve been really obsessed with history and WWI and WWII recently—reading nonfiction, memoirs, and historical fiction about the era made me kind of swear off dystopian fiction, because the real is definitely more chilling. I love applying this concept to music, and the music is great. Great guitar work!
-> <cite>— EvaViaMusic, from Reddit</cite>
+> <cite>EvaViaMusic, from Reddit</cite>
 
 > I love your style. I was just saying to a friend of mine how it reminded me a little of _The Final Cut_ by Pink Floyd. And from my perspective that’s a good thing, despite the mixed opinions on the album.
-> <cite>— Calum Spense, from Reddit</cite>
+> <cite>Calum Spense, from Reddit</cite>
 
 > Really enjoying the album, so much work has gone into it clearly, a great concept and realisation.
-> <cite>— Dominic Hall-Smith, direct e-mail</cite>
+> <cite>Dominic Hall-Smith, direct e-mail</cite>

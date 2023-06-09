@@ -47,7 +47,6 @@ Built with Jekyll `v4.2.2`.
 ### Visual
 
 - SVGs for logos and icons
-- [WebP images](/blog/implementing-webp-images-in-jekyll/), with optimised fallbacks
 - System stacks typography (with fallbacks):
   - [Humanist](https://github.com/system-fonts/modern-font-stacks#humanist)
   - [Old Style](https://github.com/system-fonts/modern-font-stacks#old-style)
