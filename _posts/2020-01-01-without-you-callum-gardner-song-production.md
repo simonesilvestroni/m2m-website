@@ -30,7 +30,7 @@ Like the previous singles, [_Hang Loose_](/work/music-production/hang-loose-call
 
 ## Official video
 
-{% include pattern-video.html provider="www.youtube-nocookie.com" id="YBhoeAqk2no" %}
+{% include pattern-video.html id="YBhoeAqk2no" %}
 
 ## Credits
 

@@ -26,7 +26,7 @@ permalink: /work/music-production/eclipse-method-sinik-song-production/
 {: .notice .cta }
 [Listen to the song on Spotify&nbsp;→](https://open.spotify.com/track/3Ydz49mYSfJ122pCf9PQrd?si=772cd61e061f47cd){: target="_blank"}
 
-{% include pattern-video.html provider="www.youtube-nocookie.com" id="D0mFNEwirGg" %}
+{% include pattern-video.html id="D0mFNEwirGg" %}
 
 ## Production notes
 
