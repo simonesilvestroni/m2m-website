@@ -7,11 +7,7 @@ layout: default
 	</header>
 	{%- if page.featimage == true %}
 	<figure>
-		<picture>
-			<source srcset="{{ site.url }}/assets/images/{{ page.featimage-name | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }}" type="image/webp">
-			<source srcset="/assets/images/{{ page.featimage-name }}" {% if page.featimage-name contains '.jpg' or include.image contains '.jpeg' %}type="image/jpeg"{% elsif page.featimage-name contains '.png' %}type="image/png"{% endif %}>
-			<img src="{{ site.url }}/assets/images/{{ page.featimage-name }}" alt="{{ page.featimage-alt }}" {{ page.featimage-width | prepend: 'width="' | append: '"' }} {{ page.featimage-height | prepend: 'height="' | append: '"' }}>
-		</picture>
+		<img src="{{ site.url }}/assets/images/{{ page.featimage-name }}" alt="{{ page.featimage-alt }}" {{ page.featimage-width | prepend: 'width="' | append: '"' }} {{ page.featimage-height | prepend: 'height="' | append: '"' }}>
 		{%- if page.featimage-caption %}
 		<figcaption>{{ page.featimage-caption }}</figcaption>
 		{% endif -%}
