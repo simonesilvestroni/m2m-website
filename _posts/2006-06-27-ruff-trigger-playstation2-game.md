@@ -53,7 +53,8 @@ I used Mac and Windows at the same time: a Dell and a G4 in sync. Each computer 
 
 Using Logic as the main DAW, I ran Cubase on the Dell as a secondary sequencer. The mixdown was bounced on a Sony DAT deck, before the final master back in the computer.
 
-{% include pattern-figure.html image="/assets/images/playstos-studio.jpg" caption="Audio studio, circa 2002" width="800" height="531" %}
+![In Playstos' audio studio, that I built from scratch, circa 2002](/assets/images/playstos-studio.jpg){: width="800" height="531" }
+*Audio studio, circa 2002*
 
 ### Workstations
 
@@ -110,7 +111,8 @@ Using Logic as the main DAW, I ran Cubase on the Dell as a secondary sequencer. 
 - Xbox XACT audio middleware
 - Alienbrain assets manager
 
-{% include pattern-figure.html image="/assets/images/playstos-studio-2.jpg" caption="Audio studio, circa 2003 (Xbox SDK visible at the top of the rack)" width="1200" height="900" %}
+![Audio studio, circa 2003, where an Xbox SDK is visible at the top of a rack](/assets/images/playstos-studio-2.jpg){: width="1200" height="900" }
+*Audio studio, circa 2003 (Xbox SDK visible at the top of the rack)*
 
 ## Adaptive soundtrack
 
@@ -177,7 +179,8 @@ The editing and the final authoring were made with Sound Forge, Vegas Pro and Lo
 
 After obtaining a license to develop the game for Playstation2, we worked to get _Ruff Trigger_ to the Xbox as well. Numerous SDKs arrived from Microsoft, including a transparent one for the audio team. I learned their middleware [XACT](https://en.wikipedia.org/wiki/Cross-platform_Audio_Creation_Tool) along with audio optimization and version control using [Alienbrain](https://www.alienbrain.com/).
 
-{% include pattern-figure.html image="/assets/images/xact_microsoft.jpg" caption="Microsoft XACT v2.0" width="850" height="540" %}
+![Microsoft XACT v2.0](/assets/images/xact_microsoft.jpg){: width="850" height="540" }
+*Microsoft XACT v2.0*
 
 The internal dev team had done a great job integrating all the required Xbox libraries and dependencies, so that we could work with XACT using calls from the game engine to trigger both sound effects and the adaptive soundtrack.
 
@@ -190,13 +193,15 @@ In January 2002 the CEO informed me that I'd be one of twelve colleagues who wou
 
 The motto for that edition was _Make Better Games_.
 
-{% include pattern-figure.html image="/assets/images/gdc-2002-entrance.jpg" caption="GDC 2002: Entrance of the Convention Center in San Jose" width="720" height="540" %}
+![GDC 2002: Entrance of the Convention Center in San Jose](/assets/images/gdc-2002-entrance.jpg){: width="720" height="540" }
+*GDC 2002: Entrance of the Convention Center in San Jose*
 
 Around ten thousand people participated. A formative experience, it pushed me out of my comfort zone like anything has ever done before. I met with strangers from all over the world, exchanged views and contacts, taking an astounding amount of notes.
 
 My first day was entirely filled with the 8-hours workshop _Using DirectMusic for Music and Sound FX_, with Brian Schmidt and Scott Selfon among others. Amazing insights about XACT and how to optimize the audio delivery on an Xbox.
 
-{% include pattern-figure.html image="/assets/images/gdc-2002-attendants.jpg" caption="GDC 2002: Attendance at a workshop" width="768" height="519" %}
+![GDC 2002: Attendance at a workshop](/assets/images/gdc-2002-attendants.jpg){: width="768" height="519" }
+*GDC 2002: Attendance at a workshop*
 
 Besides the [unveiling of Steam](https://www.gamespot.com/articles/gdc-2002-valve-unveils-steam/1100-2857298/) by Valve on the 22<sup>nd</sup>, I took part in the historical event for the game audio industry the day before: the foundation of the [Game Audio Network Guild](https://www.audiogang.org/), with Tommy Tallarico, Brian Schmidt, Thomas Dolby and many others. 
 
@@ -206,7 +211,8 @@ The culmination was the keynote given by [Martin O'Donnell](https://en.wikipedia
 
 Besides the technical aspects of him showing production screenshots and playing audio demos, I remember filling half a journal with notes about how sound can empower a non-linear story.
 
-{% include pattern-figure.html image="/assets/images/gdc-2002-locator-badge.jpg" caption="GDC 2002: Conference locator and my entrance badge" width="758" height="1024" %}
+![GDC 2002: Conference locator and my entrance badge](/assets/images/gdc-2002-locator-badge.jpg){: width="758" height="1024" }
+*GDC 2002: Conference locator and my entrance badge*
 
 ## After the GDC
 
@@ -240,7 +246,8 @@ At the end of that year, I left.
 
 Once Playstos found a publisher (Natsume), the game completed its transition from a multi-platform ambitious project to something else and was [released in 2007](https://www.mobygames.com/game/34741/ruff-trigger-the-vanocore-conspiracy/).
 
-{% include pattern-figure.html image="/assets/images/playstos-ruff-trigger.jpg" alt="Ruff Trigger's official packaging" caption="Ruff Trigger's official packaging" width="720" height="1006" %}
+![Ruff Trigger's official packaging](/assets/images/playstos-ruff-trigger.jpg){: width="720" height="1006" }
+*Ruff Trigger's official packaging*
 
 ## Reactions
 
@@ -257,10 +264,10 @@ While I updated my skills by studying Wwise, FMOD and how they integrate with ma
 ## Reviews from Playstos
 
 > When passion goes beyond working duties… here’s Simone. Addiction and reliability are two great details you can't easily find nowadays in a professional and he gets both.
-> <cite>— **Jean Claude Nouchy**, [Houdini FX technical director and trainer](http://www.visualcortexlab.com/showreel/)</cite>
+> <cite>**Jean Claude Nouchy**, [Houdini FX technical director and trainer](http://www.visualcortexlab.com/showreel/)</cite>
 
 > Great co-worker! Very careful, serious and responsible, never superficial. Good webmaster with wide knowledge of the Apple world, the Adobe software and all that’s connected to audio engineering. Highly recommended.
-> <cite>— **Daniele Pieroni**, [Senior Game Developer Relations Engineer at Intel Corporation](https://www.linkedin.com/in/danielepieroni/)</cite>
+> <cite>**Daniele Pieroni**, [Senior Game Developer Relations Engineer at Intel Corporation](https://www.linkedin.com/in/danielepieroni/)</cite>
 
 > Simone is a very talented web designer and audio composer. He pays a lot of attention to quality and detail, and he’s always willing to improve his wide array of skills. Definitely a pleasure to work with.
-> <cite>— **Michele Sandroni**, [Technical Artist at Bosch Rexroth AG](https://www.linkedin.com/in/michelesandroni/)</cite>
+> <cite>**Michele Sandroni**, [Technical Artist at Bosch Rexroth AG](https://www.linkedin.com/in/michelesandroni/)</cite>

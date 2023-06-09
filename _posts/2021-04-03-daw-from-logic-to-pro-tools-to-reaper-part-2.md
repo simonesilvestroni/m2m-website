@@ -16,11 +16,25 @@ tags:
   - 'sound design'
 description: "In 12 months I’ve managed to revolutionize my workflow, twice. Part 2 of why I migrated to REAPER is about customization, community, stock plug-ins."
 ---
-In [part 1]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/) I discussed:
-
-- Cost
-- Multi-platform
-- A different workflow
+<div class="warning">
+  <p><strong><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/">Part 1</a></strong></p>
+  <ol>
+    <li>Cost</li>
+    <li>Multi-platform</li>
+    <li>A different workflow</li>
+  </ol>
+  <p><mark><strong>Part 2</strong></mark></p>
+  <ol>
+    <li>Customization</li>
+    <li>Community</li>
+    <li>Stock plug-ins</li>
+  </ol>
+  <p><strong><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-3/">Part 3</a></strong></p>
+  <ol>
+    <li>Open architecture &amp; development cycle</li>
+    <li>Efficiency</li>
+  </ol>
+</div>
 
 ## Benefit 4: Customization
 
@@ -32,15 +46,17 @@ Pretty much everything can be customized, down to the look & feel. Like [its cre
 
 This is a huge one for me. REAPER has a [scripting engine](https://www.reaper.fm/sdk/reascript/reascript.php). It’s a DAW that can be manipulated through programming, whether it’s Python, Lua, or its own open source language (EEL). Even without being a coder, a lot can still be achieved with the myriad of stock commands (_actions_), shortcuts and mouse modifiers alone, not to mention the possibility of creating multi-layered custom actions (basically: macros).
 
-{% include pattern-figure.html image="/assets/images/daw-reaper-custom-actions.png" caption="The actions window, featuring my current custom macros at the top" width="768" height="339" %}
+![The actions window, featuring my current custom macros at the top](/assets/images/daw-reaper-custom-actions.png){: width="768" height="339" }
+*The actions window, featuring my current custom macros at the top*
 
-*REAPER is fast* and allows access to each and every function by hitting the <kbd>?</kbd> shortcut, which opens the actions list.
+REAPER is fast, and allows access to each and every function by hitting the <kbd>?</kbd> shortcut, which opens the actions list.
 
 ### Making the DAW work my way
 
 Personal example: through the creation of custom actions, I embedded some of my most used workflows from Logic and Pro Tools. I even applied the same keyboard shortcuts in several cases, so that I didn’t have to “rewire” my muscle memory. Custom toolbars can be created as well. As opposed to the always-on main toolbar, which holds frequently used commands, I recall a floating toolbar with a shortcut. It has actions and macros — in the form of buttons — that I only need sometimes. Once I’m done, it hides with the escape key. I’m scratching the surface here, the possibilities are endless.
 
-{% include pattern-figure.html image="/assets/images/daw-reaper-custom-toolbar.png" caption="A floating toolbar I created, containing some of my custom actions" width="768" height="138" %}
+![A floating toolbar I created, containing some of my custom actions](/assets/images/daw-reaper-custom-toolbar.png){: width="768" height="138" }
+*A floating toolbar I created, containing some of my custom actions*
 
 After less than two weeks using REAPER, I have, among other things:
 
@@ -69,7 +85,8 @@ Quick and efficient custom actions
 
 The repository for all custom themes — as well as extensions, scripts and more — is the [REAPER stash](https://stash.reaper.fm/). Talking about aesthetics, I’m not a fan of the many themes trying to recreate the GUI of other DAWs. I keep alternating a design called _Smooth_ with the default theme for v6.
 
-{% include pattern-figure.html image="/assets/images/daw-reaper-session.jpg" caption="REAPER running the theme Smooth" width="768" height="480" %}
+![A screenshot of REAPER, running the theme ‘Smooth’](/assets/images/daw-reaper-session.jpg){: width="768" height="480" }
+*REAPER running the theme ‘Smooth’*
 
 Incredibly detailed and well crafted, _Smooth_ was created for free by a guy who only asks to be [supported on Bandcamp](https://forum.cockos.com/showthread.php?p=2219276), where he published a slightly bizarre but captivating sci-fi concept. Which brings me to the next benefit. 
 
@@ -85,7 +102,8 @@ Being open to third-party interventions, the obvious brilliant result is that ma
 
 A few months ago, I bought a USB/MIDI controller, the X-Touch One by Behringer. It’s got a single motorized fader and a few added possibilities. Well built and cheaper than its competitor, Presonus' Fader Port.
 
-{% include pattern-figure.html image="/assets/images/xtouch-one.jpg" caption="Behringer X-Touch One" width="768" height="737" %}
+![A picture of the controller X-Touch One by Behringer](/assets/images/xtouch-one.jpg){: width="768" height="737" }
+*Behringer X-Touch One*
 
 Like other tools who adopts the Mackie protocol though, the X-Touch One handles 8 tracks at a time, despite being built for just one. The resulting problem is that I couldn’t change track in the DAW and immediately see it reflected in the controller. Having to use its physical buttons to move up or down my tracks was so frustratingly slow that I ended up using it within Pro Tools as a mere automation helper, rather than _a quick mixing tool as I intended_.
 
@@ -103,8 +121,3 @@ The question of stock plug-ins is a neverending debate in the music production b
 I had decided a while back to settle on [very few third-party plug-ins](/uses/), and learn them in depth. I was using Logic at the time, and my intent was to be as platform agnostic as possible. Now that I’ve experimented with Cockos’ native FXs, I can safely say that I don’t need anything new for the foreseeable future. My existing commercial plug-ins, plus the REAPER integrated arsenal, is more than enough. On the topic, there’s also a video series by the great Dan Worrall.
 
 {% include pattern-video.html id="3OoVnTO3AB4" %}
-
-In [part 3]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-3/) I’ll be discussing:
-
-- Open architecture &amp; development cycle
-- Efficiency

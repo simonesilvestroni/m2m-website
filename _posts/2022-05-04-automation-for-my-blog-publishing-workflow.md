@@ -52,9 +52,11 @@ I’ve been using [Automator](https://support.apple.com/guide/automator/welcome/
 
 As of this writing, I have 3 automation processes that I'm happy about. They are exported as apps in `~/Applications` and in my Quick actions contextual menu. A fourth one is still in its infancy and not yet ready.
 
-{% include pattern-figure.html image="/assets/images/jekyll-automations.png" alt="Local applications folder with custom Shortcuts automation for Jekyll" width="500" height="241" %}
+![Screenshot of a local applications folder with custom Shortcuts automation for Jekyll](/assets/images/jekyll-automations.png){: width="500" height="241" }
+*Local applications folder with custom Shortcuts automation for Jekyll*
 
-{% include pattern-figure.html image="/assets/images/quick-actions.png" alt="Quick actions contextual menu showing Shortcuts" width="600" height="317" %}
+![Screenshot of a macOS Quick Actions contextual menu showing Shortcuts](/assets/images/quick-actions.png){: width="600" height="317" }
+*Quick Actions contextual menu showing Shortcuts*
 
 ### New Jekyll post with Shortcuts
 
@@ -64,7 +66,7 @@ The following short video demonstrates the process in real time.
 
 Here is the whole routine for the wizard:
 
-{% include pattern-figure.html image="/assets/images/jekyll-automations-new-post.png" alt="Shortcuts app for creating a new Jekyll post" width="505" height="1517" %}
+![Shortcuts app for creating a new Jekyll post](/assets/images/jekyll-automations-new-post.png){: width="505" height="1517" }
 
 #### Breakdown
 
@@ -147,7 +149,8 @@ done
 
 The final action takes the selected image, fetches <kbd>width</kbd> and <kbd>height</kbd> while asking for <kbd>alt</kbd> and <kbd>caption</kbd> in a pop-up text prompt:
 
-{% include pattern-figure.html image="/assets/images/jekyll-automations-insert-figure.png" alt="Shortcut automation for inserting an image in a Jekyll post" caption="Shortcut automation for inserting an image in a Jekyll post" width="545" height="960" %}
+![Shortcut automation for inserting an image in a Jekyll post](/assets/images/jekyll-automations-insert-figure.png){: width="545" height="960" }
+*Shortcut automation for inserting an image in a Jekyll post*
 
 The trick is to collect the required information, store it in variables which I then use to compile my `figure` Jekyll module in a text block. The output is simply sent to the clipboard, ready to be pasted in my post. From the video, this was the resulting code that I pasted in the editor:
 
@@ -182,7 +185,7 @@ To be noted how pretty much the entire process is doable using Apple Automator, 
 
 ---
 
-[^1]: I sorely miss the time when Apple simply released new apps that were available to download on several versions of OS X, but this is a rant for another day. The upgrade went well, unexpectedly fast with no issue whatsoever. We’ll see.
+[^1]: I sorely miss the time when Apple simply released new applications that were available to download on several versions of OS X, but this is a rant for another day. The upgrade went well, unexpectedly fast with no issue whatsoever. We’ll see.
 [^2]: Importing workflows from Automator to Shortcuts doesn't always work, it's still a hit-and-miss.
 [^3]: `tr` is a Unix command: an abbreviation of _translate_ or _transliterate_, indicates its operation of replacing or removing specific characters in its input data set. [Read more](https://en.wikipedia.org/wiki/Tr_(Unix))
 [^4]: `sed` ("stream editor") is a Unix utility that parses and transforms text, using a simple, compact programming language. [Read more](https://en.wikipedia.org/wiki/Sed)

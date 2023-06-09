@@ -33,9 +33,8 @@ syndicate:
 
 The Cambridge-based band [Ember Rev](/blog/tag/ember-rev/) published their debut album in 2017&nbsp;—&nbsp;a year before I first met them&nbsp;—&nbsp;and *In Super-8* is a reworking of that album. After having mixed [*Premonition and Ruin*](/work/music-production/premonition-and-ruin/) and [*From The Country To The City To The Sea*](/work/music-production/from-the-country-to-the-city-to-the-sea-album-mix/), it was a brilliant opportunity to have my signature mix on their first trilogy.
 
-{: .big }
 > This re-appraising and re-working is an attempt to capture the character of the songs as they sounded when performed live. This was not  represented in the earlier arrangements which I felt compromised the  songs themselves; songs that we still play to this day.
-> <cite>**Dan Ecclestone**</cite>
+> <cite>Dan Ecclestone</cite>
 
 ## Building the sessions
 
@@ -71,23 +70,28 @@ From REAPER's official manual:
 
 Although it's possible to add a subproject in several ways, I clicked the `Insert` menu and chose `Media file...` (Fig. 1).
 
-{% include pattern-figure.html image="/assets/images/reaper-subproject-combo-01-add-project.jpg" alt="REAPER software showing an open Insert menu saying Media file" caption="Fig. 1 – Adding a project into another project" width="1024" height="640" %}
+![REAPER software showing an open Insert menu saying Media file](/assets/images/reaper-subproject-combo-01-add-project.jpg){: width="1024" height="640" }
+*Fig. 1 – Adding a project into another project*
 
 Once the project was selected, REAPER opened it, created a proxy and started rendering the stereo master (Fig. 2).
 
-{% include pattern-figure.html image="/assets/images/reaper-subproject-combo-02-rendering-project.jpg" alt="REAPER showing the render window" caption="Fig. 2 – A session rendering as a subproject" width="1024" height="640" %}
+![REAPER showing the render window](/assets/images/reaper-subproject-combo-02-rendering-project.jpg){: width="1024" height="640" }
+*Fig. 2 – A session rendering as a subproject*
 
 After the project was rendered into my album session as a wave file, the edit cursor positioned itself at the end of the audio clip. I then proceeded to add a 2-second gap, similar to what's usually done in mastering (Fig. 3). With the edit cursor now moved by two seconds, I added the next song.
 
-{% include pattern-figure.html image="/assets/images/reaper-subproject-combo-03-add-space.jpg" alt="A window menu in REAPER software, showing how to add a 2-second gap after a wave file" caption="Fig. 3 – Adding a 2-second gap after a song" width="1024" height="640" %}
+![A window menu in REAPER software, showing how to add a 2-second gap after a wave file](/assets/images/reaper-subproject-combo-03-add-space.jpg){: width="1024" height="640" }
+*Fig. 3 – Adding a 2-second gap after a song*
 
 When all six projects were loaded as rendered proxy wavefiles, I could see *In Super-8* in its full glory (Fig. 4).
 
-{% include pattern-figure.html image="/assets/images/reaper-subproject-combo-04-final-project.jpg" alt="REAPER arrange window, showing the six song forming the album" caption="Fig.4 – The entire album in the project containing 6 subprojects" width="1024" height="640" %}
+![REAPER arrange window, showing the six song forming the album](/assets/images/reaper-subproject-combo-04-final-project.jpg){: width="1024" height="640" }
+*Fig. 4 – The entire album in the project containing 6 subprojects*
 
 It was now super easy to listen, measure and test each song as part of an album. Inconsistencies were easier to spot, and testing loudness is a piece of cake with [REAPER SWS loudness functionality](https://wiki.cockos.com/wiki/index.php/Measure_and_normalize_loudness_with_SWS) (Fig. 5).
 
-{% include pattern-figure.html image="/assets/images/reaper-subproject-combo-05-test-loudness.jpg" alt="REAPER showing SWS menu Loudness window, indicating values for the six songs" caption="Fig 5. – Testing loudness on the entire album" width="1024" height="640" %}
+![REAPER showing SWS menu Loudness window, indicating values for the six songs](/assets/images/reaper-subproject-combo-05-test-loudness.jpg){: width="1024" height="640" }
+*Fig. 5 – Testing loudness on the entire album*
 
 ## What's the advantage of having subprojects into one big project?
 
@@ -114,8 +118,10 @@ Ian Pickering
 
 ### Production
 
-- Mixed by Simone Silvestroni
-- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/)
+Mixed by Simone Silvestroni.  
+Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
+
+***
 
 {: .small }
 &copy; 2017 Dan Ecclestone

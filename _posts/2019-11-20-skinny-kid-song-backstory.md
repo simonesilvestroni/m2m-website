@@ -62,7 +62,7 @@ Since I wrote the song during different time frames, it went through a diverse s
 - Piano and drums are from XLN’s Addictive Keys and Addictive Drums.
 - Mixed using a multi-buss template inspired by Michael Brauer’s [mix technique](https://brauerizing.wordpress.com/2014/03/19/brauerizing-a-how-to-guide/).
 
-{% include pattern-figure.html image="/assets/images/nine-eleven-reason.jpeg" caption="The two choruses, as shown in Propellerhead’s Reason above, had an eerie resemblance with the twin towers" width="1024" height="951" %}
+![The two choruses, as shown in Propellerhead’s Reason above, had an eerie resemblance with the twin towers](/assets/images/nine-eleven-reason.jpeg){: width="1024" height="951" }
 
 ## Towards Sachsenhausen
 
@@ -77,7 +77,7 @@ _Skinny Kid_ was the first piece that I turned into a proper song when I refacto
 
 ## Review By The Indie Buddie
 
-> _Skinny Kid_ is a tender delicate number as Simone expresses emotional and harrowing themes through a bitter, icy piano and tense progressive soundscapes. With a steady beat pounding through weaving guitars and ominous rumble on bass, the track projects images of isolation and loneliness by means of sinister chilling twinkles and tender vocals. The haunting backing vocals and lamenting pines on guitar have a chilling element as Simone portrays this harsh experience with sublime instrumentation and vivid musicianship.<cite>— [Indie Buddie](https://www.indiebuddie.com/minutes-to-midnight-skinny-kid-video-premiere/)</cite>
+> _Skinny Kid_ is a tender delicate number as Simone expresses emotional and harrowing themes through a bitter, icy piano and tense progressive soundscapes. With a steady beat pounding through weaving guitars and ominous rumble on bass, the track projects images of isolation and loneliness by means of sinister chilling twinkles and tender vocals. The haunting backing vocals and lamenting pines on guitar have a chilling element as Simone portrays this harsh experience with sublime instrumentation and vivid musicianship.<cite>[Indie Buddie](https://www.indiebuddie.com/minutes-to-midnight-skinny-kid-video-premiere/)</cite>
 
 {: .notice .cta }
 [Read the album analysis&nbsp;→](/work/music/after-1989/)

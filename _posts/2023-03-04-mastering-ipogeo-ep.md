@@ -26,7 +26,8 @@ After listening to the mixes, I almost immediately opted for [stem mastering](ht
 
 After agreeing on the type and number of stems, I proceeded with the edits. Having such a granular access to the layers, I could apply gentle strokes of EQ and compression to some tracks leaving the others untouched. Automation also was of great help, especially for enhancing the choruses.
 
-{% include pattern-figure.html image="/assets/images/ipogeo-stem-mastering.jpeg" alt="A Reaper project where I mastered using stems for drums, bass, vocals, guitars and keyboards" caption="A Reaper project with stems for drums, bass, vocals, guitars and keys" width="1200" height="750" %}
+![A Reaper project where I mastered using stems for drums, bass, vocals, guitars and keyboards](/assets/images/ipogeo-stem-mastering.jpeg){: width="1200" height="750" }
+*A Reaper project with stems for drums, bass, vocals, guitars and keys*
 
 ## Mastering using Reaper subprojects
 
@@ -44,13 +45,15 @@ I had to go back to the stems a couple times, because of minor loudness adjustme
 
 Once happy with the master, I bounced three versions, each one with a progressively higher loudness. In the following screengrab, the subproject (yellow audio item) had retained the original session markers as item/take markers, which helped with automating the limiter in certain sections.
 
-{% include pattern-figure.html image="/assets/images/ipogeo-master.jpeg" alt="The master project in Reaper containing a subproject, along with 3 rendered test masters" caption="The master project in Reaper containing a subproject, along with 3 rendered test masters" width="1200" height="750" %}
+!["The master project in Reaper containing a subproject, along with 3 rendered test masters](/assets/images/ipogeo-master.jpeg){: width="1200" height="750" }
+*The master project in Reaper containing a subproject, along with 3 rendered test masters*
 
 ## Checking loudness
 
 With [SWS](https://www.sws-extension.org/) installed, checking on loudness is a breeze. Besides having useful metering plug-ins, I love how quickly I can select multiple audio items, click on the Extensions menu and select <kbd>Loudness</kbd> to [see the complete analysis in a neat table](https://wiki.cockos.com/wiki/index.php/Measure_and_normalize_loudness_with_SWS).
 
-{% include pattern-figure.html image="/assets/images/ipogeo-final-check.jpeg" alt="Final session with the 3 mastered songs on different tracks, to check on loudness and consistency" caption="Final session with the mastered songs, to check on loudness and consistency" width="1200" height="750" %}
+![Final session with the 3 mastered songs on different tracks, to check on loudness and consistency](/assets/images/ipogeo-final-check.jpeg){: width="1200" height="750" }
+*Final session with the mastered songs, to check on loudness and consistency*
 
 ## Official video
 
@@ -68,8 +71,11 @@ Emilio Albertoni
 
 ### Production
 
-- Mixed by Emilio Albertoni
-- Mastered by Simone Silvestroni
+Mixed by Emilio Albertoni.  
+Mastered by Simone Silvestroni.
+
+***
 
 {: .small }
-&copy; 2023 Emilio Albertoni &amp; Bruno Valeri
+&copy; 2023 Emilio Albertoni &amp; Bruno Valeri.  
+℗ 2023 The copyright in this sound recording is owned by Minutes to Midnight. Minutes to Midnight is the exclusive trademark of Simone Silvestroni.

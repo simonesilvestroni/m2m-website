@@ -50,9 +50,11 @@ Finally, I created an XSL file to style the feed page into a human readable form
 - useful author information directly in each post, for easy contact information;
 - a "reply via email" link at the end of each post, visible on any RSS reader.
 
-{% include pattern-figure.html image="/assets/images/rss-feed-head.png" alt="Author contact info" width="720" height="286" caption="Author contact info visible in a feed" %}
+![Author contact info](/assets/images/rss-feed-head.png){: width="720" height="286" }
+*Author contact info visible in a feed*
 
-{% include pattern-figure.html image="/assets/images/rss-feed-footer.png" alt="A reply link at the bottom of each post" width="720" height="274" caption="A reply via email link is provided at the bottom of each post" %}
+![A reply link at the bottom of each post](/assets/images/rss-feed-footer.png){: width="720" height="274" }
+*A reply via email link is provided at the bottom of each post*
 
 The weight of all the required files amounts to less than `5 KB`.
 
@@ -60,9 +62,11 @@ The weight of all the required files amounts to less than `5 KB`.
 
 Here's a link to my new human-readable [RSS feed]({{ site.url }}/feed.xml). Below, a visual comparison of the before and after.
 
-{% include pattern-figure.html image="/assets/images/rss-before.png" alt="RSS feed before refactor" caption="RSS feed before refactor" width="821" height="960" %}
+![RSS feed before refactor](/assets/images/rss-before.png){: width="821" height="960" }
+*RSS feed before refactor*
 
-{% include pattern-figure.html image="/assets/images/rss-after.png" alt="RSS feed after refactor" caption="RSS feed after refactor" width="821" height="960" %}
+![RSS feed after refactor](/assets/images/rss-after.png){: width="821" height="960" }
+*RSS feed after refactor*
 
 ## Source code
 

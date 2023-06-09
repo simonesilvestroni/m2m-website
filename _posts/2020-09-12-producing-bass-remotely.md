@@ -88,7 +88,8 @@ The final step is listening to the track in context with the mix. If I’m happy
 
 After enabling [elastic audio](https://www.pro-tools-expert.com/home-page/2017/5/25/free-puremix-tutorial-how-to-use-elastic-audio-in-pro-tools) in Pro Tools (monophonic, real-time processing), I go in and adjust the transient sensitivity. I want to get to a point where only the correct hits are detected. It’s the best way to avoid irritating artifacts. This is especially useful with a fretless bass.
 
-{% include pattern-figure.html image="/assets/images/protools-elasticaudio-monophonic-minutes-to-midnight.jpg" caption="Pro Tools algorithm options for elastic audio" width="720" height="510" %}
+![Screenshot of a Pro Tools' elastic audio algorithm options](/assets/images/protools-elasticaudio-monophonic-minutes-to-midnight.jpg){: width="720" height="510" }
+*Pro Tools algorithm options for elastic audio*
 
 After switching the track view to `Analysis`, excessive transients that might have slipped through the previous step are removed, then in `Warp` view I check if there are obvious mistakes in the timing. Working in grid mode makes it easy to see which notes are off. I tend to only adjust what's obviously out of place, rather than generically quantize.
 
@@ -139,9 +140,10 @@ Optimising is paramount. To deliver a clean session I export a new copy cleaning
 
 Unless I’m working on a larger project, for which I use my [Trello system]({{ site.url }}/blog/project-management/), I have a practical way for the client to give feedback on my mixes. If they have a Dropbox account I send a direct link: they can listen and add comments that would be attached to the correct position in the song timeline. It’s the same behaviour as in SoundCloud’s comment system.
 
-{% include pattern-figure.html image="/assets/images/dropbox-comments-minutes-to-midnight.jpg" caption="Clients can add comments from the sidebar column" width="1024" height="604" %}
+![Screenshot of a Dropbox window where a waveform is presented with a sidebar where people can add comments](/assets/images/dropbox-comments-minutes-to-midnight.jpg){: width="1024" height="604" }
+*Clients can add comments from the sidebar column*
 
 ## Client review
 
 > I’ve worked with Simone on both my projects and his and the professionalism and quality of his work is world class. I have rarely had to give direction and he takes direction like an interested pro. I’m very partial to his style and tone. I hope to be still playing with him in the years to come. If you want a bass track that stands out and makes people sit up and listen, Simone is your man.
-> <cite>— Gerald Duchene, [Antiquity](http://antiquity-music.com/)</cite>
+> <cite>Gerald Duchene, [Antiquity](http://antiquity-music.com/)</cite>

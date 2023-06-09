@@ -32,7 +32,8 @@ After receiving the audio tracks, I noticed two issues with the drums.
 
 A repeating squeaky sound coming from the hi-hat pedal was captured by all the microphones. This was a major problem.
 
-{% include pattern-figure.html image="/assets/images/audio-editing-rx-squeaky-hihat.jpg" caption="iZotope RX spectral view showing the squeaky hi-hat noise" width="1024" height="604" %}
+![iZotope RX spectral view showing the squeaky hi-hat noise](/assets/images/audio-editing-rx-squeaky-hihat.jpg){: width="1024" height="604" }
+*iZotope RX spectral view showing the squeaky hi-hat noise*
 
 #### Noise: before
 
@@ -87,4 +88,4 @@ The first ten seconds of the original song, followed by the same section with th
 ## Reviews
 
 > In the band I started, Simone was the most involved with regards to arrangement and dynamics. Using his fretless bass, he completely switched the mood of any given part. Simone and I have been working on my new releases, and it’s been an incredibly worthwhile experience. It’s great to have him with me to lead the production side and also to influence the arrangement. I’m really happy to have a producer that understands completely my process as a songwriter.
-> <cite>— Callum Gardner, [Singer-songwriter](https://callumgardnerofficial.com/)</cite>
+> <cite>Callum Gardner, [Singer-songwriter](https://callumgardnerofficial.com/)</cite>

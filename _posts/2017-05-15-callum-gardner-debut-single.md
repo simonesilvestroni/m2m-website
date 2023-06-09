@@ -56,7 +56,8 @@ The song was mixed and mastered using Logic Pro and Wavelab. Because of some unc
 
 Rehearsals for the live concerts went well. I loved how quickly we all blended and how tight the band was. The first gig at the Century Club in London was a success. Many others followed, including our participation at the Victorious Festival in Portsmouth.
 
-{% include pattern-figure.html image="/assets/images/live-with-callum-gardner.jpg" caption="Live With Callum Gardner – Photo by Silvia Maggi" width="1024" height="767" %}
+![Live With Callum Gardner – Photo by Silvia Maggi](/assets/images/live-with-callum-gardner.jpg){: width="1024" height="767" }
+*Live With Callum Gardner – Photo by Silvia Maggi*
 
 ## Credits
 

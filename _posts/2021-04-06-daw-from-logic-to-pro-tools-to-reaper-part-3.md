@@ -16,14 +16,25 @@ tags:
   - 'sound design'
 description: "In 12 months I’ve managed to revolutionize my workflow, twice. Part 3 of why I migrated to REAPER is about open architecture, development cycle, efficiency."
 ---
-In [part 1]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/) &amp; [part 2]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/) I discussed:
-
-- Cost
-- Multi-platform
-- A different workflow
-- Customization
-- Community
-- Stock plug-ins
+<div class="warning">
+  <p><strong><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/">Part 1</a></strong></p>
+  <ol>
+    <li>Cost</li>
+    <li>Multi-platform</li>
+    <li>A different workflow</li>
+  </ol>
+  <p><strong><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/">Part 2</a></strong></p>
+  <ol>
+    <li>Customization</li>
+    <li>Community</li>
+    <li>Stock plug-ins</li>
+  </ol>
+  <p><mark><strong>Part 3</strong></mark></p>
+  <ol>
+    <li>Open architecture &amp; development cycle</li>
+    <li>Efficiency</li>
+  </ol>
+</div>
 
 ## Benefit 7: Open architecture & development cycle
 
@@ -31,7 +42,8 @@ Updates and fixes are relased regularly. [Dan Worrall’s video series](https://
 
 In a video about ReaComp (stock compressor plug-in), he pointed out a slight defect in the range of a slider. This is what happened, just _a week later_:
 
-{% include pattern-figure.html image="/assets/images/dan-worrall-reaper-comp.jpg" caption="REAPER compressor received a prompt update after a minor defect was pointed out on YouTube" width="768" height="555" %}
+![Screenshot from a YouTube comment section showing people praising Dan Worrall and Cockos for a prompt update after a minor defect was pointed out by a user](/assets/images/dan-worrall-reaper-comp.jpg){: width="768" height="555" }
+*REAPER compressor received a prompt update after a minor defect was pointed out on YouTube*
 
 ## Benefit 8: Efficiency
 

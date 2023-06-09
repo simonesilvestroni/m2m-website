@@ -30,9 +30,11 @@ The amount of phrases that made zero sense in my native language was astounding.
 
 An example:
 
-{% include pattern-figure.html image="/assets/images/duolingo-mistake-1.jpg" alt="Duolingo asking to translate the Italian 'Devo fissare una data?' and deeming wrong my reply 'Shall I set a date?'" caption="A false mistake" width="720" height="1562" %}
+![Duolingo asking to translate the Italian 'Devo fissare una data?' and deeming wrong my reply 'Shall I set a date?'](/assets/images/duolingo-mistake-1.jpg){: width="720" height="1562" }
+*A false mistake*
 
-{% include pattern-figure.html image="/assets/images/duolingo-mistake-2.jpg" alt="DeepL confirming I was right before" caption="DeepL confirming I was right" width="720" height="707" %}
+![Screenshot from DeepL, confirming I was right before](/assets/images/duolingo-mistake-2.jpg){: width="720" height="707" }
+*DeepL confirming I was right*
 
 I'm aware that _do I need to set a date?_ isn't wrong, but I reported the mistake as false because my answer should have been accepted.
 

@@ -43,7 +43,7 @@ description: '75 years ago, while two young men escaped from Sachsenhausen conce
 
 6 August 1945, at 8:15am (Hiroshima time), an atomic bomb called _Little Boy_, the first ever to be dropped on a populated city, took less than 50 seconds to fall from the _Enola Gay_ to the city. The _B-29_ stayed over the target area for two minutes and was ten miles away when the bomb detonated.
 
-{% include pattern-figure.html image="/assets/images/hiroshima_aftermath.jpg" caption="The aftermath, Hiroshima" width="780" height="546" %}
+![The aftermath, Hiroshima](/assets/images/hiroshima_aftermath.jpg){: width="780" height="546" }
 
 April, same year: two men escaped from a concentration camp called [Sachsenhausen](https://www.sachsenhausen-sbg.de/en/), built in the town of Oranienburg, north of Berlin. One of them was my grandfather.
 

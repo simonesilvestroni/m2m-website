@@ -32,7 +32,7 @@ Of course, now that it works I see what I was doing wrong, but it still got me t
 
 For transparency, I’m not criticizing the people who made this possible, but I believe that the less tech-savvy would be excluded by using webmentions because of the technical barrier[^3] — unless they use some ready-made system such as WordPress, and can therefore [install a plug-in](https://wordpress.org/plugins/webmention/).
 
-> It might be time for IndieWeb to rethink principles and priorities. The current list might appeal to developers [...] but it doesn't necessarily talk to  the ones looking to satisfy the call of creativity, or those  disillusioned of social media itself. <cite>— Peter Molnar</cite>
+> It might be time for IndieWeb to rethink principles and priorities. The current list might appeal to developers [...] but it doesn't necessarily talk to  the ones looking to satisfy the call of creativity, or those  disillusioned of social media itself. <cite>Peter Molnar</cite>
 
 The following step-by-step process works on a Jekyll-based website. For Hugo users [check out this alternative](https://github.com/wgroeneveld/go-jamming).
 
@@ -51,7 +51,8 @@ IndieAuth required my domain to either have a link to providers such as Github, 
 
 Note: to use GitHub, it’s necessary to add a `<link rel="me">` with the profile URL in the `<head>` section, which also would result invisible in the page. It's required for the GitHub account to have a link back to the homepage URL in the [profile settings](https://github.com/settings/profile).
 
-{% include pattern-figure.html image="/assets/images/indieauth.png" alt="IndieAuth login screenshot showing a working PGP key has been found" width="720" height="452" %}
+![IndieAuth login screenshot showing a working PGP key has been found](/assets/images/indieauth.png){: width="720" height="452" }
+*IndieAuth login screenshot showing a working PGP key has been found*
 
 After clicking the green button, I signed the provided encrypted text with my private GPG key, which logged me in as _me_. This needed to be done once, or whenever I'm logged out from IndieAuth. Webmention.io dashboard was now up and running. Time to copy the code required to start accepting webmentions.
 
@@ -119,11 +120,11 @@ There are other types of webmention: [repost](https://indieweb.org/repost), [RSV
 
 [Indiewebify](https://indiewebify.me/) is a useful service that allows anyone to test IndieAuth implementations and validate h-card and h-entry before starting to send webmentions. Had I discovered it earlier, it would have saved me a few hours of debugging.
 
-> Without indiewebify I don’t think I would have been able to even get started implementing any of this stuff. <cite>— David Yates</cite>
+> Without indiewebify I don’t think I would have been able to even get started implementing any of this stuff. <cite>David Yates</cite>
 
 The following is a screenshot — cut to shorten the content — of a blog post parsed and validated by Indiewebify.
 
-{% include pattern-figure.html image="/assets/images/indiewebify-post-validation.png" alt="Indiewebify validation for a blog post" caption="Indiewebify validation for a blog post" width="720" height="1245" %}
+![Indiewebify validation for a blog post](/assets/images/indiewebify-post-validation.png){: width="720" height="1245" }
 
 ## Notes to comment, reply and like
 
@@ -163,7 +164,7 @@ Even though I could automaticall send a webmention using a [Netlify plug-in](htt
 
 Logging into Telegraph works the same as the other Indieweb services, it only needs my website to be correctly configured for IndieAuth. The dashboard has two tabs: one for finding links with potential webmention endpoints in a post, another for sending webmentions if I know both the source and the target URLs.
 
-{% include pattern-figure.html image="/assets/images/telegraph-dashboard.png" alt="Telegraph dashboard showing the two tabs Find Links and Send Webmention" width="720" height="217" %}
+![Telegraph dashboard showing the two tabs Find Links and Send Webmention](/assets/images/telegraph-dashboard.png){: width="720" height="217" }
 
 ## Pull webmentions
 
@@ -183,7 +184,7 @@ I tried other venues to get webmention notifications, but I needed [Max Gleniste
 
 I'd like to stop relying on a third-party service and especially Javascript, because it's making comments not accessible if scripts are disabled and this makes me cringe. An alternative could be writing something in Ruby or trying Netlify functions.
 
-<div class="notice">
+<div class="warning">
   <h3>Useful articles</h3>
   <ul>
     <li><a href="https://aaronparecki.com/2018/06/30/11/your-first-webmention">Sending your First Webmention from Scratch </a> by Aaron Parecki</li>

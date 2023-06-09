@@ -28,4 +28,5 @@ What can be seen in the following screenshot:
 - The master mixer channel strip, on the right
 - Transport bar at the bottom
 
-{% include pattern-figure.html image="/assets/images/reaper-full-window.jpg" alt="Screenshot of Reaper's arrange window" caption="Screenshot of Reaper's arrange window" width="1280" height="800" %}
+![Screenshot of Reaper's arrange window](/assets/images/reaper-full-window.jpg){: width="1280" height="800" }
+*Screenshot of my current Reaper's arrange window*

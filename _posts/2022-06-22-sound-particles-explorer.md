@@ -15,17 +15,16 @@ After downloading the program just over a month ago, I've finally started using 
 
 Clearly designed with a multi-platform release in mind, Explorer is organized in four panels, of which three can be optionally hidden: the left and right sidebars and the bottom waveform viewer.
 
-{% include pattern-figure.html image="/assets/images/explorer-interface.jpeg" alt="Explorer by Sound Particles, screenshot of the full interface" caption="Explorer by Sound Particles, the full interface" width="1024" height="622" %}
+![Explorer by Sound Particles, screenshot of the full interface](/assets/images/explorer-interface.jpeg){: width="1024" height="622" }
+*Explorer by Sound Particles, the full interface*
 
 I find the software well thought and designed: all the needed information are clearly visible, either in the right-side inspector or directly in the central area, where I can show and hide more or less columns.
 
-## Organization
-
-### Multiple databases
+## Multiple databases
 
 The full catalogue can be organized in multiple separate databases. In fact, I keep all the sounds related to music production in one database, separated from a second database solely focused on sound effects.
 
-### Tabs
+## Tabs
 
 There are four main tabs in the left sidebar.
 
@@ -61,20 +60,22 @@ It’s also possible to convert mono to stereo, stereo to mono or to multichanne
 
 A further useful feature is a visual representation of a clipped audio, shown in the waveform and its miniature as a vertical red line.
 
-{% include pattern-figure.html image="/assets/images/explorer-peak-over.png" alt="Section of a waveform file showing an overload peak of 0.1dB" caption="Section of a file showing a peak of +0.1dB" width="720" height="602" %}
+![Section of a waveform file showing an overload peak of 0.1dB](/assets/images/explorer-peak-over.png){: width="720" height="602" }
+*Section of a file showing a peak of +0.1dB*
 
-### Editing
+## Editing
 
 It’s possible to edit, cut, copy and paste, select and apply fade-in and fade-out. An export option allows to save as `wav`, `aiff` or `flac`, apply a bit depth of 16, 24 or 32 bit floating point. Options to sample rate conversion and metadata inclusion are present as well.  Please note that the audio can also be shown as a spectral view by clicking the <kbd>FFT</kbd> button in the transport bar.
 
 The scope where I would use Explorer the most, besides looking for interesting samples for music production, is sound effects. Finding sounds, selecting the right section, editing if needed and sending the piece of audio to [my DAW](/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/) is super easy — just right-click on the wave selection and choose Spot to → Reaper. Other popular DAWs are present, such as Pro Tools, Logic and Nuendo.
 
-{% include pattern-figure.html image="/assets/images/explorer-send-to-daw.png" alt="Section of a sound file and the functionality to send it over to a DAW" caption="Explorer can send the selected audio to a DAW" width="1024" height="622" %}
+![Section of a sound file and the functionality to send it over to a DAW](/assets/images/explorer-send-to-daw.png){: width="1024" height="622" }
+*Explorer can send the selected audio to a DAW*
 
 ## Info
 
 I think it's pretty unbelieavable that this piece of software is completely free. [Download it for macOS and Windows](https://soundparticles.com/products/explorer).
 
-<div class="notice">
-  <h3>Edit: March 2023</h3>
-  <p>After a recent update, Explorer became slower, sloppy to the point of being unusable, at least on my older machine. I'm not sure if the addition of a — for me unwanted — cloud-based sample shop is at the root of the lack of performance, either way I switched to <a href="https://www.youtube.com/watch?v=zwTzHOedfYg">Reaper's Media Explorer</a>.</p>
+## Edit: March 2023
+
+After a recent update, Explorer became slower, sloppy to the point of being unusable, at least on my older machine. I'm not sure if the addition of a — for me unwanted — cloud-based sample shop is at the root of the lack of performance, either way I switched to [Reaper's Media Explorer](https://www.youtube.com/watch?v=zwTzHOedfYg").

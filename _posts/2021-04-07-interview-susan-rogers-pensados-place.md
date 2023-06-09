@@ -28,4 +28,5 @@ I strongly advise you to watch the entire interview — it’s slightly over 45 
 - She is best known for her work with Prince during his peak creative period (1983-1987) but production, engineering, mix credits also include David Byrne, Barenaked Ladies, Geggy Tah, Nil Lara, Robben Ford, Tricky, Michael Penn, Jeff Black, and many more.
 - She is currently a Professor in the departments of Music Production & Engineering and Liberal Arts at [Berklee College of Music, Boston](https://www.berklee.edu/), where she teaches psychoacoustics, record production and analog recording techniques.
 
-{% include pattern-figure.html image="/assets/images/susan-rogers-sign-o-the-times-tour.jpg" caption="Susan Rogers during Prince’s &ldquo;Sign &rsquo;O The Times&rdquo; tour" width="1024" height="682" %}
+![Susan Rogers at a mixing console during Prince’s ‘Sign 'O The Times’ tour](/assets/images/susan-rogers-sign-o-the-times-tour.jpg){: width="1024" height="682" }
+*Susan Rogers during Prince’s ‘Sign 'O The Times’ tour*

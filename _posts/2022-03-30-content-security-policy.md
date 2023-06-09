@@ -58,7 +58,8 @@ I turned their fixed height in two specific embed classes:
 
 Note that in Bandcamp, whenever I have more than one song, I always check "Show tracklist":
 
-{% include pattern-figure.html image="/assets/images/bandcamp-embed-tracks.jpg" alt="Embed options in Bandcamp" width="960" height="630" %}
+![Embed options in Bandcamp](/assets/images/bandcamp-embed-tracks.jpg){: width="960" height="630" }
+*Embed options in Bandcamp*
 
 ## The code
 

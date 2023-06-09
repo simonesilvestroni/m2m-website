@@ -34,7 +34,8 @@ Founded in 2015, Amuse is dedicated to producing and distributing kids' content 
 
 HR contacted me through [SoundLister](https://soundlister.com/portfolio/simone-silvestroni/), explaining the type of job and the fact it would be fully remote. They also sent a 36-seconds long test to be completed for the following week — which I did, successfully.
 
-{% include pattern-figure.html image="/assets/images/carcity-test-logic.jpg" alt="Logic project for my initial test of Car City: Tom the Tow Truck" caption="Logic project for my initial test of Car City: Tom the Tow Truck" width="1024" height="604" %}
+![Logic project for my initial test of Car City: Tom the Tow Truck](/assets/images/carcity-test-logic.jpg){: width="1024" height="604" }
+*Logic project for my initial test of Car City: Tom the Tow Truck*
 
 ## Onboarding
 
@@ -67,7 +68,8 @@ Then it was a matter of following the story and create the sound design for the 
 
 I didn't use plug-ins except for impulse response reverbs, though I did rely a lot functionalities such as gain, pan, and a whole lot of automation.
 
-{% include pattern-figure.html image="/assets/images/carcity-tom-logic.jpg" alt="Logic project with automation for Car City: Tom the Tow Truck" caption="Logic project with automation for Car City: Tom the Tow Truck" width="1024" height="604" %}
+![Logic project with automation for Car City: Tom the Tow Truck](/assets/images/carcity-tom-logic.jpg){: width="1024" height="604" }
+*Logic project with automation for Car City: Tom the Tow Truck*
 
 ## Delivery
 
