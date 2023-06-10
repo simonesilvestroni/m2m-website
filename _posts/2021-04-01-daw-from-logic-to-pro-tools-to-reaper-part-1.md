@@ -1,7 +1,7 @@
 ---
 title: 'Switch DAW: Logic to Pro Tools to REAPER (Pt 1)'
 date: '2021-04-01'
-last_modified_at: '2021-11-08 19:19:33'
+last_modified_at: '2023-06-10 13:21:49'
 tags:
   - 'apple'
   - 'audio software'
@@ -101,7 +101,7 @@ REAPER is not free. The trial lasts for two months, after which the software kee
   </tbody>
 </table>
 
-Each license includes two major releases. For instance, I bought it now, at v6.x, which gives me free updates until v7.99 included. To put things in perspective, Logic Pro X costs `€199`, _no exceptions_.
+**Each license includes two major releases**. For instance, I bought it now, at v6.x, which gives me free updates until v7.99 included. To put things in perspective, Logic Pro X costs `€199`, _no exceptions_.
 
 With REAPER’s discounted tier, it takes 6 major releases to reach the amount of money Apple charges. That [could translate to many years](https://en.wikipedia.org/wiki/REAPER#Version_history).
 

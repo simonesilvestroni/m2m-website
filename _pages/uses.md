@@ -2,7 +2,7 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2023-05-12 01:31:43'
+last_modified_at: '2023-06-10 13:14:09'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
 permalink: '/uses/'
 ---
@@ -57,11 +57,11 @@ Audio editors
 : Stereo Monoizer
 
 Virtual instruments
-: Kilohearts Phase Plant synth
+: Kilohearts Phase Plant
 : XLN Addictive Drums
 : XLN Addictive Keys
 : Radical Piano for Reason
-: Waves Flow Motion FM synth
+: Waves Flow Motion FM
 : Decidedly Decent Sampler
 : Waldorf Streichfett
 : Vital
@@ -70,8 +70,8 @@ Virtual instruments
 : EastWest Hollywood Strings Gold
 
 Plug-ins
+: Soundtoys v5.4
 : Waves v13
-: Soundtoys 5
 : Kilohearts Snap Heap
 : Voxengo SPAN plus
 : Voxengo TEOTE
