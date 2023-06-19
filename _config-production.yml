@@ -1,8 +1,5 @@
 exclude:
   - README.md
   - assets/css/m2m.css
-  - assets/js/fetch.js
-  - assets/js/search.js
-  - assets/js/webmention.js
 
 include: ["_pages", "_redirects", ".well-known", "assets/js/search.json"]

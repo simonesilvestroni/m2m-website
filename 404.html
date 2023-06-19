@@ -10,4 +10,9 @@ permalink: /404.html
 ---
 <p>Go to the <a href="/" title="go back to the Homepage">homepage</a>, or search below.</p>
 
-{% include pattern-search.html %}
+<form class="warning search-form method="get" action="https://duckduckgo.com/?q=" target="_blank">
+  <input type="hidden" name="sites" value="minutestomidnight.co.uk">
+  <label class="small" for="searchDDG">Write a search term:</label>
+  <input aria-label="Search" type="search" name="q" id="searchDDG" placeholder="e.g. Reaper">
+  <input type="submit" name="submit" value="Search" id="submit">
+</form>

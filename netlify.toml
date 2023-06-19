@@ -11,9 +11,9 @@
       preload
     '''
     Content-Security-Policy = '''
-      default-src 'self' https://webmention.io;
+      default-src 'self';
       style-src 'self' 'unsafe-inline';
-      img-src 'self' https://webmention.io https://*.amazonaws.com data: w3.org/svg/2000;
+      img-src 'self';
       script-src 'self' https://s4.bcbits.com;
       frame-src https://yewtu.be/embed/ https://www.youtube-nocookie.com/embed/ https://w.soundcloud.com/player/ https://bandcamp.com/EmbeddedPlayer/
     '''

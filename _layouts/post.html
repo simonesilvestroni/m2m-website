@@ -28,5 +28,4 @@ layout: default
       {% for tag in page.tags -%}<dd class="tag"><a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase }}</a></dd>{%- endfor -%}
     </dl>
   </div>
-  {%- include pattern-responses.html -%}
 </article>

@@ -12,7 +12,6 @@
 <link rel="webmention" href="https://webmention.io/minutestomidnight.co.uk/webmention">
 <link rel="authorization_endpoint" href="https://indieauth.com/auth">
 <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
-<link rel="microsub" href="https://aperture.p3k.io/microsub/725">
 <link rel="pgpkey" href="{{ site.url }}/assets/files/key.pub">
 <link rel="icon" href="{{ site.url }}/favicon.ico" sizes="any">
 <link rel="icon" href="{{ site.url }}/assets/images/favicons/favicon.svg" type="image/svg+xml">
@@ -94,21 +93,6 @@
 		<data rel="me" value="https://indieweb.social/@m2m"></data>
 		<data rel="me" value="https://oreganodangereux.wordpress.com"></data>
 		<data rel="me" value="https://github.com/simonesilvestroni/"></data>
-		{%- if page.url contains '/search' or page.url contains '404.html' -%}
-		{% if jekyll.environment == "production" %}
-		<script src="/assets/js/search-m2m.min.js"></script>
-		{% else %}
-		<script src="/assets/js/fetch.js"></script>
-		<script src="/assets/js/search.js"></script>
-		{% endif -%}
-		{% endif -%}
-		{%- if page.is_post or page.collection == 'notes' -%}
-		{% if jekyll.environment == "production" %}
-		<script src="/assets/js/webmention.min.js" data-prevent-spoofing="true" async></script>
-		{% else %}
-		<script src="/assets/js/webmention.js" async></script>
-		{% endif -%}
-		{% endif -%}
 	</footer>
 </body>
 </html>
