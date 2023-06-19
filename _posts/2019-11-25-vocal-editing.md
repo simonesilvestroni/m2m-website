@@ -20,7 +20,7 @@ featimage: true
 featimage-name: 'vocal-editing.jpg'
 featimage-alt: Rachel Goodman singing
 featimage-caption: Rachel Goodman, who performed on my debut album
-featimage-width: 100%
+featimage-width: 720
 featimage-height: 720
 permalink: /work/sound-design/vocal-editing/
 ---

@@ -18,7 +18,7 @@ featimage: true
 featimage-name: 'drums-restoration.jpg'
 featimage-alt: Arlen Millwall on drums
 featimage-caption: Arlen Millwall, who played drums with Callum Gardner
-featimage-width: 100%
+featimage-width: 720
 featimage-height: 720
 permalink: /work/sound-design/drums-restoration/
 ---

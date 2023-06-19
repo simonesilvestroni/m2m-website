@@ -23,7 +23,7 @@ description: "Meeting London-based songwriter Callum Gardner fired up a long-ter
 featimage: true
 featimage-name: 'producing-commit-to-the-list-by-callum-gardner.jpg'
 featimage-alt: Cover for the single Commit to the List
-featimage-width: 100%
+featimage-width: 720
 featimage-height: 720
 permalink: /work/music-production/callum-gardner-debut-single/
 ---

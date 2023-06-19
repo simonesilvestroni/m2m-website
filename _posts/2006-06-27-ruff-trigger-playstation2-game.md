@@ -29,7 +29,7 @@ description: "As team leader, I created and implemented sound effects and an ada
 featimage: true
 featimage-name: 'ruff-trigger-playstation2-video-game.jpg'
 featimage-alt: Ruff Trigger game cover
-featimage-width: 100%
+featimage-width: 720
 featimage-height: 720
 permalink: /work/sound-design/ruff-trigger-playstation2-game/
 ---
