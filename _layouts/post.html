@@ -10,7 +10,9 @@ layout: default
   {% if page.featimage == true %}
   <figure>
     <img src="{{ site.url }}/assets/images/{{ page.featimage-name }}" alt="{{ page.featimage-alt }}" {{ page.featimage-width | prepend: 'width="' | append: '"' }} {{ page.featimage-height | prepend: 'height="' | append: '"' }}>
+    {%- if page.featimage-caption %}
     <figcaption class="p-name">{{ page.featimage-caption }}</figcaption>
+    {% endif %}  
   </figure>
   {% endif %}
   {% endunless -%}
