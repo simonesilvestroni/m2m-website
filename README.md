@@ -53,7 +53,6 @@ Built with Jekyll `v4.2.2`.
 
 - Compliant with <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> guidelines
 - Current [WAVE accessibility rank](https://webaim.org/projects/million/lookup?domain=minutestomidnight.co.uk): `#7,280` of 1,000,000
-- The dynamic [search functionality](https://minutestomidnight.co.uk/search/) has a plain HTML alternative
 
 ## Privacy
 
