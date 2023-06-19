@@ -11,7 +11,7 @@ description: 'I’ve been running an online journal, on and off, since March 200
 		{% assign featured = site.posts | where_exp:'post','post.tags contains "featured"' %}
 		{% for post in featured %}
 		<li><a href="{{ post.url }}">{{ post.title }}</a><br>
-    <span class="dim small"><time>{{ post.last_modified_at | date: "%-d %B %Y" }}</time></span></li>
+    <span class="dim small"><time datetime="{{ post.last_modified_at | date_to_xmlschema }}" itemprop="dateCreated">{{ post.last_modified_at | date: "%-d %B %Y" }}</time></span></li>
 		{% endfor %}
 	</ul>
 </details>
