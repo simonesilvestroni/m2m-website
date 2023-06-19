@@ -15,13 +15,13 @@ permalink: '/sitemap/'
 <ul class="list-hr-group">
   <li>
     <a href="{{ site.url }}">Homepage</a><br>
-    <span class="dim small"><em>Updated</em>: <time>{{ site.time | date: "%-d %B %Y" }}</time></span>
+    <span class="dim small"><em>Updated</em>: <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%-d %B %Y" }}</time></span>
   </li>
   {%- for page in allpages %}
   {%- unless page.sitemap == false %}
   <li>
     <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a><br>
-    <span class="dim small"><em>Updated</em>: <time>{%- if page.title == 'Sitemap' %}{{ site.time | date: "%-d %B %Y" }}{% else %}{{ page.last_modified_at | date: "%-d %B %Y" }}{% endif -%}</time></span>
+    <span class="dim small"><em>Updated</em>: <time datetime="{%- if page.title == 'Sitemap' %}{{ site.time | date_to_xmlschema }}{% else %}{{ page.last_modified_at | date_to_xmlschema }}{% endif -%}">{%- if page.title == 'Sitemap' %}{{ site.time | date: "%-d %B %Y" }}{% else %}{{ page.last_modified_at | date: "%-d %B %Y" }}{% endif -%}</time></span>
   </li>
   {%- endunless -%}
   {% endfor -%}
@@ -32,7 +32,7 @@ permalink: '/sitemap/'
   {%- for post in sorted_blog %}
   <li>
     <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark class="small"><strong>CASE&nbsp;STUDY</strong></mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small"><strong>FEATURED</strong></mark>{% endif %}<br>
-    <time class="dt-published small dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time>
+    <time class="dt-published small dim" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time>
   </li>
   {%- endfor -%}
 </ul>
