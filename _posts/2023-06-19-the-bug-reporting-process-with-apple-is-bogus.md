@@ -7,7 +7,7 @@ tags:
   - 'logic pro'
 description: 'Finally, my long-time feelings about the pointlessness of filing bug reports to Apple is backed by proof.'
 ---
-Back when I was still using Logic Pro X as my main <abbr title="Digital Audio Workstation">DAW</abbr>, I used to hang out in Logic-centred forums and Facebook groups alike. Every now and then, someone would go on complaining about some bug in the software, and immediately there would be the obligatory advice "if you're not happy, go file a bug feedback to Apple", followed by the correct link. I've always perceived that to be a waste of time, and even thought there wasn't much of a proof until now, the feeling was strong. I personally filed several bug feedbacks, to no avail.
+Back when I was still using Logic Pro X as my main <abbr title="Digital Audio Workstation">DAW</abbr>, I used to hang out in Logic-centred forums and Facebook groups alike. Every now and then, someone would go on complaining about some bug in the software, and immediately there would be the obligatory advice "if you're not happy, go file a bug feedback to Apple", followed by the correct link. I've always perceived that to be a waste of time, and even though there wasn't much of a proof until now, the feeling was strong. I personally filed several bug feedbacks, to no avail.
 
 Thanks to Michael Tsai's post [_Feedback through an intermediary_](https://mjtsai.com/blog/2023/06/09/feedback-through-an-intermediary/), I've found the [_Accidental Tech Podcast_ number 537](https://atp.fm/537), where, at about `6:45`, an anonymous Apple employee is quoted on how the company's bug reporting process works:
 
