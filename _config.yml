@@ -17,7 +17,8 @@ posts_limit: 20
 title: Minutes to Midnight
 tagline: Music producer and sound designer
 description: 'Sound designer, bassist and music producer'
-shortabout: 'I’m a polymath focused on high-quality digital productions since 1992.'
+aboutshort: 'I’m a polymath focused on high-quality digital productions since 1992.'
+aboutlong: 'A musician pioneering game audio in the early 2000s, I later turned my expertise to music production, and specialised in audio mixing and mastering. I use technology to translate ideas into an enjoyable experience.'
 permalink: /blog/:title/
 keywords:
   minutes to midnight,
