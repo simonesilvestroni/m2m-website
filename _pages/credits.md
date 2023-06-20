@@ -29,7 +29,10 @@ An unordered list of people who inspired improvements and helped me find a bette
 
 ## Site
 
-Built with Jekyll `v4.2.2`.
+- Built with Jekyll `v4.2.2`
+- Code repository on [GitHub](https://github.com/simonesilvestroni/m2m-website)
+- Hosted on Netlify
+- Latest deploy: {{ site.time | date: "%-d %B %Y, at %H:%M" }}
 
 ### Code
 
@@ -37,9 +40,6 @@ Built with Jekyll `v4.2.2`.
 - Liquid
 - HTML ([validated](https://validator.w3.org/nu/?doc=https%3A%2F%2Fminutestomidnight.co.uk%2F))
 - CSS ([validated](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fminutestomidnight.co.uk%2Fassets%2Fcss%2Fm2m.min.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)) based on [Simple CSS](https://simplecss.org)
-- Code repository on GitHub
-- Hosted on Netlify, running on sustainable energy
-- Latest deploy: `{{ site.time | date: "%-d %B %Y at %H:%M" }}`
 
 ### Visual
 
@@ -55,6 +55,7 @@ Built with Jekyll `v4.2.2`.
 - `0.00g` of CO<sub>2</sub> [produced when someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/)
 - Scores `100` on [Ecograder](https://ecograder.com/report/crccbrW1xmYgrNUdrNxEulBa)
 - Featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/)
+- The hosting is running on sustainable energy
 
 ### Accessibility
 

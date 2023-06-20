@@ -22,16 +22,17 @@ An unordered list of people who inspired improvements and helped me find a bette
 
 ## Site
 
-Built with Jekyll `v4.2.2`.
+- Built with Jekyll `v4.2.2`
+- Code repository on [GitHub](https://github.com/simonesilvestroni/m2m-website)
+- Hosted on Netlify
+- Latest deploy: {{ site.time | date: "%-d %B %Y, at %H:%M" }}
 
 ### Code
 
 - Markdown extended
 - Liquid
-- HTML
-- CSS based on [Simple CSS](https://simplecss.org)
-- Code repository on GitHub
-- Hosted on Netlify, running on sustainable energy
+- HTML ([validated](https://validator.w3.org/nu/?doc=https%3A%2F%2Fminutestomidnight.co.uk%2F))
+- CSS ([validated](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fminutestomidnight.co.uk%2Fassets%2Fcss%2Fm2m.min.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)) based on [Simple CSS](https://simplecss.org)
 
 ### Visual
 
@@ -47,6 +48,7 @@ Built with Jekyll `v4.2.2`.
 - `0.00g` of CO<sub>2</sub> [produced when someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/)
 - Scores `100` on [Ecograder](https://ecograder.com/report/crccbrW1xmYgrNUdrNxEulBa)
 - Featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/)
+- The hosting is running on sustainable energy
 
 ### Accessibility
 
@@ -69,4 +71,4 @@ Photography &copy; [Silvia Maggi](https://silviamaggidesign.com).
 
 Minutes to Midnight&trade; is a registered trademark in the UK and worldwide. The logo, in all its variants is use trademark for the trading name of Simone Silvestroni.
 
-<a href="https://nonbot.org/pledged/view/9911ce87-628e-4e2e-b36d-2d0c2b43cf9d"><img width="96" height="96" src="./assets/images/nonbot_pledged_logo.svg" alt="Human-made Content"></a>
+<a href="https://nonbot.org/pledged/view/9911ce87-628e-4e2e-b36d-2d0c2b43cf9d"><img width="96" height="96" src="{{ site.url }}/assets/images/nonbot_pledged_logo.svg" alt="Human-made Content"></a>
