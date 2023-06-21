@@ -2,4 +2,4 @@ exclude:
   - README.md
   - assets/css/m2m.css
 
-include: ["_pages", "_redirects", ".well-known", "assets/js/search.json"]
+include: ["_pages", "_redirects", ".well-known"]
