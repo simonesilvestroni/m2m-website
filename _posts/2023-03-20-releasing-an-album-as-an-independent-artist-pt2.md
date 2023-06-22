@@ -62,7 +62,7 @@ I’m not the most socially skilled person out there, however, I wish and can co
 
 The immediate result was that I completely stopped promoting the album. I think everything came to a halt right before the pandemic arrived in southern Europe. The rest is history: in August 2020 [I deleted my account](/blog/life-after-social-networks/) on Twitter, Facebook, Instagram, Reddit, cutting off usage and interactions on Spotify. 
 
-During a complete refactor of my website that appeased my innate minimalism, I joined the [Indieweb](https://indieweb.org/) and re-joined [Mastodon](https://indieweb.social/@m2m), finally finding that smaller but tighter community of genuine people who are not afraid to call a spade a spade.
+During a complete refactor of my website that appeased my innate minimalism, I joined the [Indieweb](https://indieweb.org/) and re-joined [Mastodon](https://sonomu.club/@m2m), finally finding that smaller but tighter community of genuine people who are not afraid to call a spade a spade.
 
 I think I might have actively promoted my music on Mastodon twice in a year, and yet the amount of feedback, comments, reviews, genuine interest and actual sales I got eclipsed the previous social networks combined.  This time it was out of true interest, so I *really* appreciated it.
 

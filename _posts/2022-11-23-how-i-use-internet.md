@@ -59,7 +59,7 @@ After discovering the [pages functionality in Feedbin](https://feedbin.com/blog/
 
 ## Social interactions
 
-I joined [Mastodon](https://indieweb.social/@m2m) in 2017, only to leave after a few months because I still was hooked on Twitter. In 2020, I deleted all my social media accounts and re-joined.
+I joined [Mastodon](https://sonomu.club/@m2m) in 2017, only to leave after a few months because I still was hooked on Twitter. In 2020, I deleted all my social media accounts and re-joined.
 
 Outside the fediverse, I follow a couple of forums, namely [Reaper](https://forum.cockos.com/forumdisplay.php?f=20) and [Airwiggles](https://www.airwiggles.com).
 
