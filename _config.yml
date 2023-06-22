@@ -41,7 +41,7 @@ author:
   name: Simone Silvestroni
   email: hello@minutestomidnight.co.uk
 mastodon:
-  instance: indieweb.social
+  instance: sonomu.club
   username: m2m
 kramdown:
   syntax_highlighter_opts:
