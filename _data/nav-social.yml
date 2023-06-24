@@ -1,13 +1,13 @@
 menu:
   - name: Bandcamp
     link: https://minutestomidnight.bandcamp.com/follow_me
-  - name: YouTube
-    link: https://www.youtube.com/@m2m
   - name: Mastodon
     link: https://sonomu.club/@m2m
-  - name: Airwiggles
-    link: https://airwiggles.com
   - name: Github
     link: https://github.com/simonesilvestroni
+  - name: YouTube
+    link: https://www.youtube.com/@m2m
+  - name: Airwiggles
+    link: https://airwiggles.com
   - name: Read.cv
     link: https://read.cv/simonesilvestroni
