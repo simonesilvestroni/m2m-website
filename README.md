@@ -70,5 +70,3 @@ Photography &copy; [Silvia Maggi](https://silviamaggidesign.com).
 ## Trademark
 
 Minutes to Midnight&trade; is a registered trademark in the UK and worldwide. The logo, in all its variants is use trademark for the trading name of Simone Silvestroni.
-
-<a href="https://nonbot.org/pledged/view/9911ce87-628e-4e2e-b36d-2d0c2b43cf9d"><img width="96" height="96" src="{{ site.url }}/assets/images/nonbot_pledged_logo.svg" alt="Human-made Content"></a>
