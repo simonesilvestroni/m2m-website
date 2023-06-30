@@ -42,7 +42,7 @@ Should be a given. Unfortunately, it _needs to be said_: I try to be as kind as 
 
 ## Privilege
 
-I despise patriarchy and misogyny. Even though I relentlessly refused to participate in locker room talk, I'm well aware of the advantages I have as a white man raised in a Western country. I keep this in mind.
+I despise patriarchy and misogyny. Even though I relentlessly refuse to participate in locker room talk, I'm well aware of the advantages I have as a white man raised in a Western country. I keep this in mind.
 
 ## Attention span
 
