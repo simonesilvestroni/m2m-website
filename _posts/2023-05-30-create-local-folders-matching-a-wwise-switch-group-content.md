@@ -88,7 +88,7 @@ The resulting `switches_names.txt` content:
 ![Text file containing my switch names](/assets/images/wwise-switches_names.png){: width="331" height="382" }
 *Text file containing my switch names*
 
-At this point, it is quick to create the folders based on the above list: open the root folder of the video game project in a Terminal window and type the following command, which will create a directory for each switch name:
+At this point, creating the folders based on the above list is easy: the following command will create a directory for each switch name:
 
 ```
 $ xargs -tI % mkdir % < ~/Desktop/switches_names.txt
@@ -114,4 +114,4 @@ The above process might look laborious, depending on the level of familiarity wi
 - if the folders to be created are numerous, the manual process would be way slower and quite tedious;
 - it's easy enough to [create bash aliases](https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html) so that the input is reduced to the bare minimum.
 
-Of course, the same procedure can be adopted for similar tasks, including for the aforementioned REAPER integration.
+The same procedure can be adopted for similar tasks, including for the aforementioned REAPER integration. Of course, if the switch names come from an assets spreadsheet, there's no need to dwell in Wwise's XML projects — the only command needed is `xargs`.
