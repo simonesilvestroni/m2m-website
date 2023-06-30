@@ -72,7 +72,7 @@ I'll never support this shit.
 
 ## Decentralisation
 
-I think of this site as [part of the small web](https://ar.al/2020/08/07/what-is-the-small-web/). My online identity is in here, not in a *projected persona*, with scattered ephemeral posts crafted to stir controversy and attract attention on a corporate-owned social network.
+I think of this site as [part of the small web](https://ar.al/2020/08/07/what-is-the-small-web/). My online identity is here, and not in a *projected persona* that scatters ephemeral posts crafted to stir controversy and attract attention on a corporate-owned social network.
 
 A few years ago I joined the [Indieweb](https://indieweb.org/). As an independent node of the larger internet, I don't need a comment system: I can send and receive [webmentions](https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet/), a method for replying, liking and reposting from personal websites.
 
