@@ -12,5 +12,5 @@ last_modified_at: '2023-05-09 19:19:28'
   <p class="e-content">{{ site.aboutlong }}</p>
 </article>
 <aside class="warning">
-  <p><strong>My latest post</strong>: {% for post in site.posts limit:1 %}<a href="{{ post.url }}"><em>{{ post.title }}</em></a>{% endfor %}</p>
+  <p><strong>Latest</strong>: {% for post in site.posts limit:1 %}<a href="{{ post.url }}"><em>{{ post.title }}</em></a>{% endfor %}</p>
 </aside>
