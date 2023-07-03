@@ -47,11 +47,13 @@ Liz Mitchell
 
 ### Production
 
-- Written by Dan Ecclestone
-- Produced by Ember Rev
-- Recorded by [Sam Inglis](https://www.soundonsound.com/author/sam-inglis) at The Mill, February 2019
-- Mixed by Simone Silvestroni
-- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/)
+Written by Dan Ecclestone.  
+Produced by Ember Rev.  
+Recorded by [Sam Inglis](https://www.soundonsound.com/author/sam-inglis) at The Mill, February 2019.  
+Mixed by Simone Silvestroni.  
+Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
+
+---
 
 {: .small }
 &copy; 2018 Dan Ecclestone

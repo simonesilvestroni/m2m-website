@@ -57,8 +57,10 @@ Arlen Millwall
 
 ### Production
 
-- Written by Callum Gardner
-- Produced, mixed and mastered by Simone Silvestroni
+Written by Callum Gardner.  
+Produced, mixed and mastered by Simone Silvestroni.
+
+---
 
 {: .small }
 &copy; 2019 Callum Gardner

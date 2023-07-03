@@ -82,10 +82,12 @@ Romy Gensale
 
 ### Production
 
-- Recorded between the UK, Italy and the United States
-- _Papillon_ produced by Simone Silvestroni and Gerald Duchene
-- _Land Of Kings_ produced by Simone Silvestroni
-- Mixed and mastered by Simone Silvestroni
+Recorded between the UK, Italy and the United States.  
+_Papillon_ produced by Simone Silvestroni and Gerald Duchene.  
+_Land Of Kings_ produced by Simone Silvestroni.  
+Mixed and mastered by Simone Silvestroni.
+
+---
 
 {: .small }
 &copy; 2018 Dan Ecclestone

@@ -23,8 +23,7 @@ permalink: /work/music-production/eclipse-method-sinik-song-production/
 ---
 ## Stream the song
 
-{: .notice .cta }
-[Listen to the song on Spotify&nbsp;→](https://open.spotify.com/track/3Ydz49mYSfJ122pCf9PQrd?si=772cd61e061f47cd){: target="_blank"}
+[Listen to the song on Spotify](https://open.spotify.com/track/3Ydz49mYSfJ122pCf9PQrd?si=772cd61e061f47cd){: target="_blank"}
 
 {% include pattern-video.html id="D0mFNEwirGg" %}
 
@@ -41,6 +40,8 @@ Lenny Nathan Frumento
 
 Simone Silvestroni
 : Bass, production, mix, master
+
+---
 
 {: .small }
 &copy; 2019 Lenny Nathan Frumento

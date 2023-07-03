@@ -24,6 +24,9 @@ permalink: /work/bass/the-far-side-of-the-sun-bass-antiquity/
 ---
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
 
+{: .notice .cta }
+[**Read the project analysis**](/work/bass/producing-bass-remotely/)&nbsp;→
+
 ## Credits
 
 ### Performed by
@@ -39,11 +42,10 @@ Simone Silvestroni
 
 ### Production
 
-- Written, produced and mixed by Gerald Duchene
-- Mastered by Chris Pavey
+Written, produced and mixed by Gerald Duchene.  
+Mastered by Chris Pavey.
+
+---
 
 {: .small }
 &copy; 2020 Gerald Duchene
-
-{: .notice .cta }
-[**Read the project analysis**](/work/bass/producing-bass-remotely/)&nbsp;→

@@ -40,9 +40,11 @@ Matisse Duchene
 
 ### Production
 
-- Written and mixed by Gerald Duchene
-- Produced by Gerald Duchene and Simone Silvestroni
-- Mastered By Chris Pavey
+Written and mixed by Gerald Duchene.  
+Produced by Gerald Duchene and Simone Silvestroni.  
+Mastered By Chris Pavey.
+
+---
 
 {: .small }
 &copy; 2021 Gerald Duchene

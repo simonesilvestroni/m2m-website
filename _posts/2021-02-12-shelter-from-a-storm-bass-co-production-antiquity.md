@@ -67,9 +67,11 @@ Simone Silvestroni
 
 ### Production
 
-- Written and mixed by Gerald Duchene
-- Produced by Gerald Duchene and Simone Silvestroni
-- Mastered by Chris Pavey
+Written and mixed by Gerald Duchene.  
+Produced by Gerald Duchene and Simone Silvestroni.  
+Mastered by Chris Pavey.
+
+---
 
 {: .small }
 &copy; 2021 Gerald Duchene

@@ -71,10 +71,12 @@ Ian Pickering
 
 ### Production
 
-- Written and produced by Dan Ecclestone
-- Recorded by Bugs at _Half Ton_, Cambridge
-- Co-produced and mixed by Simone Silvestroni
-- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/)
+Written and produced by Dan Ecclestone.  
+Recorded by Bugs at _Half Ton_, Cambridge.  
+Co-produced and mixed by Simone Silvestroni.  
+Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
+
+---
 
 {: .small }
 &copy; 2018 Dan Ecclestone

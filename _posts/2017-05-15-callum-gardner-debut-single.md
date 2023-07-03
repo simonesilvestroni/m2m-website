@@ -75,10 +75,13 @@ Paolo Clementi
 Arlen Millwall
 : Drums
 
-## Production
+### Production
 
-- Written by Callum Gardner
-- Recorded at SAE (London) and the Garden Room Studio (Cambridge)
-- Produced, mixed and mastered by Simone Silvestroni
+Written by Callum Gardner.  
+Recorded at SAE (London) and the Garden Room Studio (Cambridge).  
+Produced, mixed and mastered by Simone Silvestroni.
 
-Released: May 2017
+---
+
+{: .small }
+&copy; 2017 Callum Gardner

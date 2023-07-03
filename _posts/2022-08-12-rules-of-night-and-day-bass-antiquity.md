@@ -48,8 +48,10 @@ Matisse Duchene
 
 ### Production
 
-- Written, produced and mixed by Gerald Duchene
-- Mastered By Chris Pavey
+Written, produced and mixed by Gerald Duchene.  
+Mastered By Chris Pavey.
+
+---
 
 {: .small }
 &copy; 2022 Gerald Duchene
