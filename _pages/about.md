@@ -13,8 +13,8 @@ featimage-height: 455
 ---
 <aside>
   {% for endorsement in site.endorsements limit:1 %}
-  <blockquote class="endorsement">
-    <p><span class="big">{{ endorsement.quote }}</span><cite><a href="{{ endorsement.url }}">{{ endorsement.name }}</a> &ndash; {{ endorsement.role }}</cite></p>
+  <blockquote>
+    <p>{{ endorsement.quote }}<cite><a href="{{ endorsement.url }}">{{ endorsement.name }}</a> &ndash; {{ endorsement.role }}</cite></p>
   </blockquote>
   {% endfor %}
 </aside>
