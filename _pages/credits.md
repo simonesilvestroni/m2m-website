@@ -2,7 +2,7 @@
 layout: page
 title: 'Credits'
 date: '2023-01-14 13:49:31'
-last_modified_at: '2023-06-20 11:03:21'
+last_modified_at: '2023-07-03 18:15:13'
 description: 'All about this website: tools, benchmarks, a note about copyright and a thank you to people that inspired me.'
 tldr: false
 permalink: '/credits/'
@@ -44,7 +44,8 @@ An unordered list of people who inspired improvements and helped me find a bette
 ### Visual
 
 - SVGs for logos and icons
-- System stacks typography (with fallbacks):
+- System stacks typography:
+  - [System UI](https://github.com/system-fonts/modern-font-stacks#system-ui)
   - [Humanist](https://github.com/system-fonts/modern-font-stacks#humanist)
   - [Old Style](https://github.com/system-fonts/modern-font-stacks#old-style)
 
