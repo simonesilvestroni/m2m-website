@@ -244,7 +244,7 @@ At the end of that year, I left.
 
 ## Aftermath
 
-Once Playstos found a publisher (Natsume), the game completed its transition from a multi-platform ambitious project to something else and was [released in 2007](https://www.mobygames.com/game/34741/ruff-trigger-the-vanocore-conspiracy/).
+Once Playstos found a publisher (Natsume), the game completed its transition from a multi-platform ambitious project to something else and was [released on June 27<sup>th</sup>, 2006](https://www.mobygames.com/game/34741/ruff-trigger-the-vanocore-conspiracy/).
 
 ![Ruff Trigger's official packaging](/assets/images/playstos-ruff-trigger.jpg){: width="720" height="1006" }
 *Ruff Trigger's official packaging*
