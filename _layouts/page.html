@@ -5,6 +5,11 @@ layout: default
 	<header>
 		<h1 class="p-name">{{ page.title }}</h1>
 	</header>
+	{% unless page.tldr == false %}
+	<p class="p-summary post-tldr">
+		{{ page.description }}
+	</p>
+	{% endunless %}
 	{%- if page.featimage == true %}
 	<figure>
 		<img src="{{ site.url }}/assets/images/{{ page.featimage-name }}" alt="{{ page.featimage-alt }}" {{ page.featimage-width | prepend: 'width="' | append: '"' }} {{ page.featimage-height | prepend: 'height="' | append: '"' }}>
@@ -13,11 +18,6 @@ layout: default
 		{% endif -%}
 	</figure>
 	{% endif -%}
-	{% unless page.tldr == false %}
-	<p class="p-summary post-tldr">
-		{{ page.description }}
-	</p>
-	{% endunless %}
 	<div class="e-content">
 		{{ content }}
 		{% unless page.title == 'Page not found' or page.url contains '/search/' %}
