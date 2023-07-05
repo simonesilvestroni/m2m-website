@@ -15,10 +15,10 @@ posts_limit: 20
 # Configuration
 # -------------------
 title: Minutes to Midnight
-tagline: Music producer and sound designer
+tagline: Sound designer, game audio pioneer
 description: 'Sound designer, bassist and music producer'
-aboutshort: 'I’m a polymath focused on high-quality digital productions since 1992.'
-aboutlong: 'A musician pioneering game audio in the early 2000s, I later turned my expertise to music production, and specialised in audio mixing and mastering. I use technology to translate ideas into an enjoyable experience.'
+aboutshort: 'I document how I use technology to translate ideas into an enjoyable experience.'
+aboutlong: 'Pioneering game audio in the early 2000s with one title shipped on Sony PlayStation 2, I later specialised in audio mixing and mastering, while honing and updating my sound design skills.'
 permalink: /blog/:title/
 keywords:
   minutes to midnight,
