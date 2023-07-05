@@ -2,8 +2,8 @@
 layout: page
 title: 'About'
 date: '2022-01-14'
-last_modified_at: '2023-06-10 13:07:08'
-description: 'I’m Simone (he/him), a straight to the point hyper-focused person with major interests, such as sound design, web development, storytelling.'
+last_modified_at: '2023-07-05 16:45:19'
+description: 'I’m Simone (he/him), a straight to the point person with a major interest in sound design, music, and programming.'
 permalink: '/about/'
 featimage: true
 featimage-name: simone-silvestroni-warwick.png
@@ -19,37 +19,32 @@ featimage-height: 455
   {% endfor %}
 </aside>
 
-Unlike the proverbial _jack of all trades_, I embraced an eclectic career, and dug deep into each one, to become fluent in different fields. Being able to competently juggle between **print design**, **web development** and **audio production**, created a constant flow of curiosity and cross-disciplinary interests.
+Having started as a bassist, I made a career out of each passion. Being able to competently juggle between different disciplines created a constant flow of curiosity and improvement.
 
 I try to listen to people and be open to new ideas. Disliking a society that's oblivious of its unsustainability, I wrote a personal [manifesto of some of the principles I live by](/personal-manifesto/).
-
-## Places
-
-Born and raised in Ravenna (Italy), I became an adult in Milan, where I lived and worked for 16 years. Moved to the UK in 2011, I enjoyed the process of integration with a different culture, while making a living first [as a web developer](https://simonesilvestroni.com), later as a [music producer, sound designer and musician](/work/).
-
-## Crucial formation
-
-{: .list-hr }
-- Graduated (bass and music theory) at the _CPM Music Institute_ in 1995.
-- A pioneer in modern game audio, I participated to the Game Developer Conference in 2002, where I witnessed to the launch of Steam by Valve and joined the [Game Audio Guild Network](/work/sound-design/ruff-trigger-playstation2-game/#game-developer-conference-and-gang) on the day of its foundation. 
-- Graduated at the _Berklee College of Music_ (audio mastering and music production) in 2017.
 
 ## Quick facts
 
 {: .list-hr }
 - First name is pronounced `see-mow-nay`.
-- During the 1990s I acquired audio skills in music studios and live, freelancing as a [bass player](/blog/tag/bass/). Later, I specialised in [mix](/blog/tag/mix/) and [master](/blog/tag/master/).
-- My favourite bass player is [Andy Rourke](http://www.andyrourke.com).
-- [Sound designer](/blog/tag/sound-design/) since the early 2000s, with one title shipped for Sony PlayStation&nbsp;2. I reckon the video game is the ultimate audio-visual narrative medium.
-- I’ve been writing music and lyrics for several decades, [releasing concept albums](/work/music/) where the story is at the forefront.
-- Constantly looking for better ways to manage my tasks, I wrote an ebook about [project management in the music industry](/blog/project-management/).
-- I've been working with artist from each side of the Atlantic, such as: Gerald Duchene, Dan Ecclestone, Rachel Goodman, Mally Harpaz (Anna Calvi), Ciara Clifford, Callum Gardner, Martin Wykes.
-- I often share projects with renowned master engineer [Ian Shepherd](https://productionadvice.co.uk/about/), and occasionally with _SoundOnSound_ [editor in chief Sam Inglis](https://www.soundonsound.com/author/sam-inglis).
-- Apple certified for [Logic Pro X](/blog/tag/logic-pro/), I transitioned to [Pro Tools](/blog/tag/pro-tools/) and later [REAPER](/blog/tag/reaper/).
-- [iZotope RX](/blog/tag/izotope-rx/) is my go-to audio editing tool.
-- I love {% for item in site.completeSkills -%}{{ item.name }}{% unless forloop.last %}, {% endunless %}{%- endfor -%}.
-- Endorsed by [Leland Sklar and others](/work/endorsements/).
+- Born and raised in Italy, I moved to the UK in 2011, enjoying the process of integration with a different culture while making a living as a [web developer](https://simonesilvestroni.com){: target="_blank"} first, and a [sound designer, music producer, and bassist](/work/) later.
+- My favourite bass player is Andy Rourke.
 - The moniker _Minutes to Midnight_ [does not come from Iron Maiden]({{ site.url }}/about/name-and-logo/).
 
-{: .notice .cta }
-[My equipment&nbsp;→](/uses/)
+## Crucial formation
+
+| 1995 | Graduated (bass and music theory) at the _CPM Music Institute_ in Milan. |
+| 2002 | Participated to the GDC in San Jose, where I joined the [Game Audio Guild Network](/work/sound-design/ruff-trigger-playstation2-game/#game-developer-conference-and-gang) on the day of its foundation. |
+| 2017 | Graduated at the _Berklee College of Music_ (audio mastering and music production). |
+
+*[GDC]: Game Developer Conference
+
+## Work facts
+
+| 1990s | While freelancing as a [bass player](/blog/tag/bass/), I acquired audio skills in music studios and live. Later, I specialised in [mix](/blog/tag/mix/) and [master](/blog/tag/master/). |
+| 2000s | Hired as a [sound designer](/blog/tag/sound-design/) for video games, to me the ultimate audio-visual narrative medium. |
+| Side&nbsp;projects | As a composer, I released songs as [thematic collections](/work/music/), where the story is at the forefront.<br><br>I wrote an ebook about [project management in the music industry](/blog/project-management/). |
+| Production | I've been working with artists from each side of the Atlantic, including: Gerald Duchene, Dan Ecclestone, Rachel Goodman, Mally Harpaz (Anna Calvi), Ciara Clifford, Callum Gardner, Martin Wykes.<br><br>I often share projects with renowned master engineer [Ian Shepherd](https://productionadvice.co.uk/about/), and occasionally with _SoundOnSound_ [editor in chief Sam Inglis](https://www.soundonsound.com/author/sam-inglis). |
+| Endorsed&nbsp;by | [Leland Sklar and others](/work/endorsements/). |
+| Tools | Apple certified for [Logic Pro X](/blog/tag/logic-pro/), I transitioned to [Pro Tools](/blog/tag/pro-tools/), and later [REAPER](/blog/tag/reaper/).<br><br>[iZotope RX](/blog/tag/izotope-rx/) is my go-to for audio editing, especially for field recording, Foley, audio clean-up, or manipulation.<br><br>Audiokinetic [Wwise](/blog/tag/wwise/) is my preferred audio middleware for video games. |
+| Equipment | [Check it out](/uses/). |
