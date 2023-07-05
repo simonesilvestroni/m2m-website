@@ -115,29 +115,6 @@ plugins:
   - jekyll-archives
 
 # -------------------
-# Main skills
-# -------------------
-mainSkills:
-  - name: 'Bass'
-    url: '/blog/tag/bass/'
-  - name: 'Mixing'
-    url: '/blog/tag/mix/'
-  - name: 'Sound design'
-    url: '/blog/tag/sound-design/'
-  - name: 'Game audio'
-    url: '/blog/tag/video-game/'
-  - name: 'Mastering'
-    url: '/blog/tag/master/'
-
-completeSkills:
-  - name: 'recording'
-  - name: 'field recording'
-  - name: 'editing'
-  - name: 'Foley'
-  - name: 'game audio integration (Wwise)'
-  - name: 'web development'
-
-# -------------------
 # Work endorsements
 # -------------------
 endorsements:
@@ -145,6 +122,10 @@ endorsements:
     role: 'FX Supervisor at Scanline VFX'
     url: 'https://www.imdb.com/name/nm2327167/'
     quote: 'When passion goes beyond working duties... here’s Simone. Addiction and reliability are two great details you can’t easily find nowadays in a professional, and he gets both.'
+  - name: 'Daniele Pieroni'
+    role: 'Senior Game Developer Relations Engineer at Intel Corporation'
+    url: 'https://www.linkedin.com/in/danielepieroni/'
+    quote: 'Great co-worker! Very careful, serious and responsible, never superficial, with a wide knowledge of all that’s connected to audio engineering. Highly recommended.'
   - name: 'Leland Sklar'
     role: 'Bass player for Toto and Phil Collins'
     url: 'https://en.wikipedia.org/wiki/Leland_Sklar'
