@@ -1,10 +1,10 @@
 menu:
   - name: all
     link: /work/
-  - name: music&nbsp;production
-    link: /work/music-production/
   - name: sound&nbsp;design
     link: /work/sound-design/
+  - name: music&nbsp;production
+    link: /work/music-production/
   - name: original&nbsp;music
     link: /work/music/
   - name: bass
