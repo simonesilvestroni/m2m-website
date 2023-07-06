@@ -6,9 +6,11 @@ layout: default
     <h1 class="p-name">{{ page.title }}</h1>
     <span class="p-author h-card visually-hidden"><img class="u-photo" src="{{ site.url }}/assets/images/simonesilvestroni-uphoto.jpg" alt="Simone Silvestroni's avatar" width="28" height="28"> <a class="p-name" href="{{ site.url }}/about/" rel="author">Simone Silvestroni</a></span><time class="dt-published small" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a rel="me" class="u-url u-uid dim" href="{{ site.url }}{{ page.url }}" title="Permalink">{{ page.date | date: "%-d %B %Y" }}</a></time>
   </header>
-  <p class="p-summary post-tldr">
+  {% unless page.tldr == false %}
+  <p class="p-summary">
     {{ page.description }}
   </p>
+  {% endunless %}
   {%- unless page.thumbOnly == true -%}
   {% if page.featimage == true %}
   <figure>
@@ -22,8 +24,8 @@ layout: default
   <div class="e-content">
     {{ content }}
     <div class="post-meta warning">
-      <p><a href="mailto:hello@minutestomidnight.co.uk?subject={{ page.title | uri_escape }}" title="Reply to this post"><strong>Reply via email</strong></a> or use <a href="https://indieweb.org/Webmention">webmentions</a></p>
-      <p>If you liked this, please consider subscribing to the <a href="{{ site.url }}/feed.xml">full-text RSS feed</a>. That way, you’ll get notified whenever I post anything new.</p>
+      <p><a href="mailto:hello@minutestomidnight.co.uk?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a> or use <a href="https://indieweb.org/Webmention">webmentions</a></p>
+      <p class="small">If you liked this, consider subscribing to the <a href="{{ site.url }}/feed.xml">full-text RSS feed</a>. That way, you’ll get notified whenever I post anything new.</p>
     </div>
     <dl>
       <dt><strong>Related topics</strong></dt>
