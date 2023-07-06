@@ -19,7 +19,7 @@ featimage-height: 455
   {% endfor %}
 </aside>
 
-Having started as a bassist, I made a career out of each passion. Being able to competently juggle between different disciplines created a constant flow of curiosity and improvement.
+Having started as a bassist, I made a career out of each passion. Being able to competently juggle between different disciplines created a constant flow of curiosity and improvement. I'm currently hyper-focused on sound design.
 
 I try to listen to people and be open to new ideas. Disliking a society that's oblivious of its unsustainability, I wrote a personal [manifesto of some of the principles I live by](/personal-manifesto/).
 
