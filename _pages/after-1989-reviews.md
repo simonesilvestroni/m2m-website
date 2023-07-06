@@ -255,6 +255,8 @@ Throughout _After 1989_, Simone uses archive material to accentuate the music an
 
 > What a powerful piece of work. I would like to see it performed in Germany and England. A musical and historical journey with depths. <cite>BeaK, from Bandcamp</cite>
 
+> It's the kind of work that really highlights the power an album can have when viewed as something more than a collection of singles. Exploring themes, ideas, and emotions that persists across tracks. It's heavy, but in a good way. There's a lot of interesting notes about the making of the album and the trips taken to retrace the grandfather's steps. <cite>Charles Stanhope, <a href="http://charles.stanho.pe/2023/001/a0/#audio">own website</a></cite>
+
 > The crystal clear mix, the engrossing story, the lovely bass. I’ll often end up with the chorus to ‘Skinny Kid’ stuck in my head without warning.<cite>Mykie Frankenstein, from Bandcamp</cite>
 
 > Superbly crafted thematic album, with each song contributing to the overall experience. <cite>David Dellacroce, from Bandcamp</cite>
