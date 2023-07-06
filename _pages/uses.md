@@ -2,24 +2,24 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2023-06-10 13:14:09'
+last_modified_at: '2023-07-06 10:14:47'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
 permalink: '/uses/'
 ---
-Workstation
+**Workstation**
 : 2015 MacBook Pro i7, maxed out and upgraded, running macOS and Windows
 : 27-in Dell screen
 : Apple Magic Keyboard 2
 : Logitech M350 Pebble mouse
 : Razer Deathadder gaming mouse
 
-Instrumentation
+**Instrumentation**
 : Warwick Thumb bass (1991)
 : Fretless Fender Jazz bass
 : Tech 21 Sansamp Bass Driver v2
 : Fender Stratocaster electric guitar
 
-Audio and MIDI
+**Audio and MIDI**
 : Audient iD14 audio interface
 : Dedicated FX-Audio DAC
 : Yamaha HS5 speakers
@@ -31,7 +31,7 @@ Audio and MIDI
 : M-Audio Keystation Mini 32
 : Behringer X-Touch One controller
 
-Recording
+**Recording**
 : Shure SM58
 : Røde NT5 condenser matched pair, with SB20 stereo bar
 : Thomann SC 1100 studio large diaphragm mic
@@ -43,20 +43,20 @@ Recording
 : Telephone pick-up coil mic
 : Korg contact microphone CM-300
 
-<abbr title="Digital Audio Workstation">DAW</abbr>
+<abbr title="Digital Audio Workstation">**DAW**</abbr>
 : [REAPER 6.x]({{ site.url }}/blog/tag/reaper/)
 : Logic Pro X 10.5.1
 : Pro Tools 12.5
 : Reason 8.3.2
 
-Audio editors
+**Audio editors**
 : iZotope RX 6 Standard
 : iZotope Ozone 9 advanced
 : Zynaptiq Triumph
 : Zynaptiq Myriad
 : Stereo Monoizer
 
-Virtual instruments
+**Virtual instruments**
 : Kilohearts Phase Plant
 : XLN Addictive Drums
 : XLN Addictive Keys
@@ -69,7 +69,7 @@ Virtual instruments
 : Air XPand! 2
 : EastWest Hollywood Strings Gold
 
-Plug-ins
+**Plug-ins**
 : Soundtoys v5.4
 : Waves v13
 : Kilohearts Snap Heap
@@ -81,15 +81,14 @@ Plug-ins
 : McDSP Compressors Bank
 : Celemony Melodyne 5
 
-Game audio
+**Game audio**
 : Audiokinetic Wwise
 : FMOD studio
-: Unity, integrated sith Visual Studio Code
-: Unreal Engine
+: Unity, integrated with Visual Studio Code
 : [Microsoft’s XACT for Xbox]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/#xbox)
 : In-house [Wazábe editor and middleware]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/)
 
-Audio-video
+**Audio-video**
 : [Swinsian](http://www.swinsian.com)
 : [IINA](https://iina.io/) video player
 : VLC
@@ -97,35 +96,33 @@ Audio-video
 : LosslessCut
 : Handbrake
 
-Image editing
+**Image editing**
 : Sketch v59
 : Pixelmator classic
 : Graphic Converter 12
 : ImageOptim
 
-Text editors
+**Text editors**
 : Sublime Text 4 ([read why](https://tonsky.me/blog/sublime/))
 : Obsidian
 : Typora
 : iA Writer
 : Visual Studio Code (for `C#` Unity projects)
 
-Browsers
-: Firefox (primary)
-: Safari
-: [Ungoogled Chromium](/blog/ungoogled-chromium/)
+**Browser & Email**
+: Firefox
+: Thunderbird
 
-Packages
+**Packages**
 : [MacPorts](https://ports.macports.org/)
-: [Homebrew](https://brew.sh/)
 
-Reading
+**Reading**
 : Feedbin
 : NetNewsWire ([read why](https://inessential.com/2023/02/20/on_not_taking_money_for_netnewswire))
 : Kobo Glo
 : Calibre
 
-Management
+**Management**
 : [Todo.txt methodology](https://github.com/todotxt) with Obsidian and the _Kanban_ plug-in
 : [Syncthing](https://syncthing.net/)
 : Alfred 5
