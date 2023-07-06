@@ -1,11 +1,12 @@
-<dl class="case-studies">
+<div class="case-studies h-feed">
   {%- for post in caseStudies %}
-  <dt><a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a></dt>
-  <dd>
+  <h3><a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a></h3>
+  <div>
     {%- if post.featimage == true %}
     <a href="{{ post.url }}" title="Read about {{ post.title }}"><img src="/assets/images/thumb-{{ post.id | split: "/" | last | append: ".jpg" }}" alt="{{ post.title }}" width="90" height="90"></a>
     {% endif -%}
     <p>{{ post.description }}</p>
-  </dd>
+  </div>
+  <hr>
   {% endfor %}
-</dl>
+</div>
