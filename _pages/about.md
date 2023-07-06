@@ -35,38 +35,36 @@ I try to listen to people and be open to new ideas. Disliking a society that's o
 
 ### Crucial formation
 
-<mark>1995</mark>: Graduated (bass and music theory) at the _CPM Music Institute_ in Milan.
-
-<mark>2002</mark>: Participated to the GDC in San Jose, where I joined the [Game Audio Guild Network](/work/sound-design/ruff-trigger-playstation2-game/#game-developer-conference-and-gang) on the day of its foundation.
-
-<mark>2017</mark>: Graduated at the _Berklee College of Music_ (audio mastering and music production).
+{: .list-hr }
+- Graduated in 1995 (bass and music theory) at the _CPM Music Institute_ in Milan.
+- Participated to the 2002 GDC in San Jose, where I joined the [Game Audio Guild Network](/work/sound-design/ruff-trigger-playstation2-game/#game-developer-conference-and-gang) on the day of its foundation.
+- Graduated in 2017 at the _Berklee College of Music_ (audio mastering and music production).
 
 *[GDC]: Game Developer Conference
 
 ### Beginnings
 
-<mark>1990s</mark>: I acquired audio skills in music studios, freelancing as a [bass player](/blog/tag/bass/). Later, I specialised in [mix](/blog/tag/mix/) and [master](/blog/tag/master/).
-
-<mark>2000s</mark>: Hired as a [sound designer](/blog/tag/sound-design/) for video games, to me the ultimate audio-visual narrative medium.
+{: .list-hr }
+- Throughout the 1990s, I acquired audio skills in music studios, freelancing as a [bass player](/blog/tag/bass/). Later, I specialised in [mix](/blog/tag/mix/) and [master](/blog/tag/master/).
+- Hired at the end of 1999 as a [sound designer](/blog/tag/sound-design/) for video games, to me the ultimate audio-visual narrative medium.
 
 ### People
 
-I've been working with artists in Europe, and from each side of the Atlantic, including: Gerald Duchene, Dan Ecclestone, Rachel Goodman, Mally Harpaz (Anna Calvi), Ciara Clifford, Callum Gardner, Martin Wykes.
-
-I often share projects with renowned master engineer [Ian Shepherd](https://productionadvice.co.uk/about/), and occasionally with _SoundOnSound_ [editor in chief Sam Inglis](https://www.soundonsound.com/author/sam-inglis).
-
-Endorsed&nbsp;by [Leland Sklar and others](/work/endorsements/).
+{: .list-hr }
+- I've been working with artists in Europe, and from each side of the Atlantic, including: Gerald Duchene, Dan Ecclestone, Rachel Goodman, Mally Harpaz (Anna Calvi), Ciara Clifford, Callum Gardner, Martin Wykes.
+- I often share projects with renowned master engineer [Ian Shepherd](https://productionadvice.co.uk/about/), and occasionally with _SoundOnSound_ [editor in chief Sam Inglis](https://www.soundonsound.com/author/sam-inglis).
+- Endorsed&nbsp;by [Leland Sklar and others](/work/endorsements/).
 
 ### Tools
 
-Apple certified for [Logic Pro X](/blog/tag/logic-pro/), I transitioned to [Pro Tools](/blog/tag/pro-tools/), and later [REAPER](/blog/tag/reaper/).
-
-[iZotope RX](/blog/tag/izotope-rx/) is my go-to for audio editing, especially for field recording, Foley, audio clean-up, or manipulation.
-
-Audiokinetic [Wwise](/blog/tag/wwise/) is my preferred audio middleware for video games.
-
-Check out my [hardware/software equipment](/uses/).
+{: .list-hr }
+- Apple certified for [Logic Pro X](/blog/tag/logic-pro/), I transitioned to [Pro Tools](/blog/tag/pro-tools/), and later [REAPER](/blog/tag/reaper/).
+- My go-to for audio editing is [iZotope RX](/blog/tag/izotope-rx/), especially for field recording, Foley, audio clean-up, and manipulation.
+- Audiokinetic [Wwise](/blog/tag/wwise/) is my preferred game audio middleware.
+- Check out my [hardware/software equipment](/uses/).
 
 ### Side projects
 
-As a composer, I released songs as [thematic collections](/work/music/) where the story is at the forefront, and wrote an ebook about [project management in the music industry](/blog/project-management/).
+{: .list-hr }
+- As a composer, I released songs as [thematic collections](/work/music/) where the story is at the forefront.
+- I wrote an ebook about [project management in the music industry](/blog/project-management/).
