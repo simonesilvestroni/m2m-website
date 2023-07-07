@@ -19,9 +19,9 @@ Provided that a certain knowledge of Wwise is required, these [didactic videos b
 
 In a quest to teach how to think ahead, he creates a project that will allow the player to have proper footsteps sounds based on different surface materials, in different wetness conditions. 
 
-The Switch Group called _GroundMaterialSwitch_, under Game Syncs, contains 23 switches. They're interconnected with another switch related to the wetness of the ground itself, _GroundWetnessSwitch_, and driven by an RTPC called _RTPC_GroundWetness_, under Game Parameters.
+The Switch Group called `GroundMaterialSwitch`, under Game Syncs, contains 23 switches. They're interconnected with another switch related to the wetness of the ground itself, `GroundWetnessSwitch`, and driven by an RTPC called `RTPC_GroundWetness`, under Game Parameters.
 
-The Switch Container in Project Explorer, called _PLYR_Footsteps_MaterialSwitch_, reflects the same structure, so it contains 23 Switch Containers following the naming convention `{material}_WetnessSwitch`. Therefore, for the material switch _Dirt_ inside my Switch Group, I'll have a Switch Container named _Dirt_WetnessSwitch_, and so on.
+The Switch Container in Project Explorer, called `PLYR_Footsteps_MaterialSwitch`, reflects the same structure, so it contains 23 Switch Containers following the naming convention `{material}_WetnessSwitch`. Therefore, for the material switch _Dirt_ inside my Switch Group, I'll have a Switch Container named `Dirt_WetnessSwitch`, and so on.
 
 ![My Wwise project, showing the switch container (left), and the switch group (right)](/assets/images/wwise-footsteps-switch.jpg){: width="1024" height="622"}
 *My Wwise project, showing the switch container (left), and the switch group (right)*
@@ -50,7 +50,7 @@ What I want to improve is the process of creating local folders that mirror the 
 **Note** — The following solution is based on macOS (10.14), using GNU bash version 5.2.15. I'm not sure whether it's possible to replicate the same steps on Windows, maybe using [<abbr title="Windows Linux Subsystem">WLS</abbr>](https://learn.microsoft.com/en-us/windows/wsl/about).
 
 {: .list-hr }
-- In Finder, go to the folder `Switches` under the Wwise project directory.
+- In the filesystem, go to the folder `Switches` under the Wwise project directory.
 - With a code editor, open the Work Unit where the Switch Group is, in my case: `Default Work Unit.wwu`.
 - Find the Switch Group, in my case: `<SwitchGroup Name="GroundMaterialSwitch" ID="{CE340E43-285B-4633-92EB-BA5E6B004F9D}">`.
 - The content of the `<ChildrenList>` item is copy-pasted in a new empty file called `switches` saved on the Desktop.
@@ -95,22 +95,19 @@ At this point, creating the folders based on the above list is easy: the followi
 $ xargs -tI % mkdir % < ~/Desktop/switches_names.txt
 ```
 
-#### Before
+#### Before and after
 
-The Finder window that will contain the switches folders:
+![The window that will contain my switches folders](/assets/images/wwise-switches-folders-empty.png){: width="1024" height="582" }
+*The window that will contain the switches folders*
 
-![The Finder window that will contain my switches folders](/assets/images/wwise-switches-folders-empty.png){: width="1024" height="582" }
-
-#### After
-
-The Finder window after it's been populated by the `xargs` script:
-
-![The Finder window after it's been populated by the xargs script](/assets/images/wwise-switches-folders-populated.png){: width="1024" height="582" }
+![The same window after it's been populated by the xargs script](/assets/images/wwise-switches-folders-populated.png){: width="1024" height="582" }
+*The same window after it's been populated by the `xargs` script*
 
 ## Conclusions
 
 The above process might look laborious, depending on the level of familiarity with a shell window, however:
 
+{: .list-hr }
 - there won't be mistakes in the folder names, since it's all being directly copied from Wwise's XML source;
 - if the folders to be created are numerous, the manual process would be way slower and quite tedious;
 - it's easy enough to [create bash aliases](https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html) so that the input is reduced to the bare minimum.
