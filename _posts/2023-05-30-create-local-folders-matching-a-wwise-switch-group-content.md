@@ -5,6 +5,7 @@ last_modified_at: '2023-05-30 10:38:39'
 tags:
   - 'audiokinetic'
   - 'game audio'
+  - 'middleware'
   - 'sound design'
   - 'technical sound design'
   - 'video game'

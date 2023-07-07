@@ -60,7 +60,7 @@ I try to listen to people and be open to new ideas. Disliking a society that's o
 {: .list-hr }
 - Apple certified for [Logic Pro X](/blog/tag/logic-pro/), I transitioned to [Pro Tools](/blog/tag/pro-tools/), and later [REAPER](/blog/tag/reaper/).
 - My go-to for audio editing is [iZotope RX](/blog/tag/izotope-rx/), especially for field recording, Foley, audio clean-up, and manipulation.
-- Audiokinetic [Wwise](/blog/tag/wwise/) is my preferred game audio middleware.
+- Audiokinetic Wwise is my preferred [game audio middleware](/blog/tag/middleware/).
 - Check out my [hardware/software equipment](/uses/).
 
 ### Side projects
