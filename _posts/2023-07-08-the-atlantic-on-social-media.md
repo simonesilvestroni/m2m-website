@@ -18,10 +18,14 @@ Here's the bit I enjoyed the most:
 
 I strongly advise people to read [_Zuck’s New Threads Are Lame_](https://starbreaker.org/blog/zucks-new-threads/index.html) by Matthew Graybosch.
 
-> Most of the people who use Twitter, Instagram, Facebook, Tiktok, etc. aren’t interested in computers or the internet or the world wide web.  
-> [&hellip;]  
-> They just want appliances that they can use while remaining ignorant of how they work. They want to be _Eloi_ and that’s fine.  
-> [&hellip;]  
+> Most of the people who use Twitter, Instagram, Facebook, Tiktok, etc. aren’t interested in computers or the internet or the world wide web.
+> 
+> [&hellip;]
+> 
+> They just want appliances that they can use while remaining ignorant of how they work. They want to be _Eloi_ and that’s fine.
+> 
+> [&hellip;]
+> 
 > They’d rather have something “easy”, even if it’s run by people who can only be distinguished from honest crooks by virtue of having not been indicted, tried, or convicted on criminal charges _yet_.
 
 As a fan of Wells’ book, I absolutely loved the [Eloi](https://en.wikipedia.org/wiki/Eloi) analogy, and am grateful to Matthew to once again debate an argument with a direct approach, whether people likes that or not (I do).
