@@ -46,8 +46,7 @@ An unordered list of people who inspired improvements and helped me find a bette
 - SVGs for logos and icons
 - System stacks typography:
   - [System UI](https://github.com/system-fonts/modern-font-stacks#system-ui)
-  - [Humanist](https://github.com/system-fonts/modern-font-stacks#humanist)
-  - [Old Style](https://github.com/system-fonts/modern-font-stacks#old-style)
+  - [Old Style](https://github.com/system-fonts/modern-font-stacks#old-style), with Georgia in place of Iowan Old Style
 
 ### Site sustainability
 
