@@ -2,7 +2,7 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2023-07-06 10:14:47'
+last_modified_at: '2023-07-12 20:19:14'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
 permalink: '/uses/'
 ---
@@ -104,9 +104,9 @@ permalink: '/uses/'
 
 **Text editors**
 : Sublime Text 4 ([read why](https://tonsky.me/blog/sublime/))
+: iA Writer
 : Obsidian
 : Typora
-: iA Writer
 : Visual Studio Code (for `C#` Unity projects)
 
 **Browser & Email**
@@ -118,12 +118,12 @@ permalink: '/uses/'
 
 **Reading**
 : Feedbin
-: NetNewsWire ([read why](https://inessential.com/2023/02/20/on_not_taking_money_for_netnewswire))
+: NetNewsWire 6 ([read why](https://inessential.com/2023/02/20/on_not_taking_money_for_netnewswire))
 : Kobo Glo
 : Calibre
 
 **Management**
-: [Todo.txt methodology](https://github.com/todotxt) with Obsidian and the _Kanban_ plug-in
+: [Todo.txt methodology](https://github.com/todotxt) using Markdown with iA Writer
 : [Syncthing](https://syncthing.net/)
 : Alfred 5
 : Dropbox in the browser
