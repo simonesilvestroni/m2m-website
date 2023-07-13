@@ -2,7 +2,7 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2023-07-12 20:19:14'
+last_modified_at: '2023-07-13 13:24:02'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
 permalink: '/uses/'
 ---
@@ -112,6 +112,10 @@ permalink: '/uses/'
 **Browser & Email**
 : Firefox
 : Thunderbird
+
+**Chat**
+: BeagleIM (XMPP)
+: LimeChat (IRC)
 
 **Packages**
 : [MacPorts](https://ports.macports.org/)

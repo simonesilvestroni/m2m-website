@@ -1,7 +1,7 @@
 ---
 title: 'How I use the internet'
 date: '2022-11-23 17:21:41'
-last_modified_at: '2022-11-23 17:21:44'
+last_modified_at: '2023-07-13 13:24:10'
 tags:
   - 'duckduckgo'
   - 'email'
@@ -87,6 +87,6 @@ My daily rider is Firefox on both desktop and mobile. I use a Mozilla account to
 
 ## Chat
 
-While I still prefer e-mail for communicating with people, I have an account with Signal, Telegram and — unfortunately — WhatsApp. The latter feels forced onto me by the fact I’m about to move abroad again, and apparently my home country is hooked on Meta.
+While I still prefer e-mail for communicating with people, I have an XMPP account connected to my email address. Am also using Signal, Telegram and — unfortunately — WhatsApp. The latter is forced onto me by the fact I’m about to move abroad again, and my home country is a slave to Meta.
 
-I used IRC for a very long time. Don’t even know why I stopped, maybe the [network effect](https://en.wikipedia.org/wiki/Network_effect).
+I used IRC for a very long time. Don’t even know why I stopped, maybe the [network effect](https://en.wikipedia.org/wiki/Network_effect). I still connect to the [Indieweb channels](https://indieweb.org/IRC) every now and then.
