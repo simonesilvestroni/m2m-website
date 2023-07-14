@@ -88,9 +88,9 @@ Unfortunately, we only have little details about the escape: first and foremost 
 > Until Berlin was far away  
 > <cite>**A Little Boy That Santa Claus Forgot On A B-29**</cite>
 
-To survive, they stole clothes, food and at least one weapon. He had a [Luger pistol](https://en.wikipedia.org/wiki/Luger_pistol) with him when he arrived home. He thoroughly cleaned it before burying it in the courtyard of our home. Years later, someone erected another building on top of the original hiding place, which made the idea of trying to retrieve it impossible.
+To survive, they stole clothes, food and at least one weapon. In fact, he carried a [Luger pistol](https://en.wikipedia.org/wiki/Luger_pistol) with him when he came back. After a thorough cleaning, he buried it in the courtyard of our home. Years later, someone erected another building on top of the original hiding place, thus making it impossible to retrieve.
 
-They hitch-hiked, disguised as either Germans or prisoners of war, depending on who they met along the path. Nobody knows where he and the Russian parted ways. Nevertheless, my grandfather coincidentally entered our hometown during the funeral of his committed fascist father-in-law. My grandfather went on to live a quiet life, working as a beloved local artisan in his cozy shoe shop. He died a month after the opening of the Berlin Wall in 1989. 
+They hitch-hiked, disguised as either Germans or prisoners of war, depending on who they met along the path. Nobody knows precisely where he and the Russian parted ways, but it was somewhere in Switzerland. Nevertheless, my grandfather coincidentally entered our hometown during the funeral of his committed fascist father-in-law. He went on to live a quiet life, working as a beloved local artisan in his cozy shoe shop. He died a month after the opening of the Berlin Wall in 1989. 
 
 ## No man's land
 
