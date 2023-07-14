@@ -31,6 +31,15 @@ layout: default
       <dt><strong>Related topics</strong></dt>
       {% for tag in page.tags -%}<dd class="tag"><a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase }}</a></dd>{%- endfor -%}
     </dl>
+    {% if page.syndication == true %}
+    <br>
+    <dl>
+      <dt><strong>Syndication</strong></dt>
+      {% for s in page.syndicate %}
+      <dd class="tag"><a rel="syndication" class="u-syndication" href="{{ s.url }}">{{ s.name }}</a></dd>
+      {% endfor %}
+    </dl>
+    {% endif %}
   </div>
   {% include post-nav.html %}
 </article>
