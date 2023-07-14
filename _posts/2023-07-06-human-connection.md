@@ -8,6 +8,10 @@ tags:
   - 'personal'
 tldr: false
 description: 'Taking time off my day to reach out to strangers who did something nice to me on the internet.'
+syndication: true
+syndicate:
+  - name: IndieNews
+    url: https://news.indieweb.org/en
 ---
 Ever since I ditched web statistics platforms, I proved to myself that all I really care for is connecting with others, at their pace, in anonymity. For _genuine reasons_.
 
