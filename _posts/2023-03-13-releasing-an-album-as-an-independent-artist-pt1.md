@@ -12,6 +12,7 @@ tags:
   - 'personal'
   - 'promotion'
   - 'social media'
+  - 'streaming'
 description: 'Three and a half years later, an analysis on how releasing my debut concept album had informed my journey as a person more than as an indie artist.'
 syndication: true
 syndicate:

@@ -14,6 +14,7 @@ tags:
   - 'personal'
   - 'promotion'
   - 'social media'
+  - 'streaming'
 description: 'Three and a half years later, an analysis on how releasing my debut concept album had informed my journey as a person more than as an indie artist.'
 syndication: true
 syndicate:
@@ -54,7 +55,7 @@ Something that truly bothered me was the fact that Spotify completed the commodi
 ![Post on Mastodon where the author says ‘Spotify: 25000 people listened to your album, we’ll never tell you who they are and how they found you! Here’s $1.74.’ Bandcamp: 30 people bought your album and left a comment! Here’s $250’](/assets/images/releasing-album-spotify-bandcamp.png){: width="720" height="309" }
 *A recent post on Mastodon*
 
-It wasn’t the ridiculous trickle of pennies that the streaming services sent me over the next thirty-eight months, nor the fact that Bandcamp was indeed in a different league (I knew my followers, got messages, reviews, sold CDs and digital albums). It was the obnoxious feeling that corporate social media, and Spotify, weren’t a place where I wanted to be.
+It wasn’t the ridiculous trickle of pennies that the streaming services sent me over the following thirty-eight months, nor the fact that Bandcamp was indeed in a different league (I knew my followers, got messages, reviews, sold CDs and digital albums). It was the obnoxious feeling that corporate social media, and Spotify, weren’t a place where I wanted to be.
 
 I’m not the most socially skilled person out there, however, I wish and can connect with others. I need something though: authenticity, being surrounded by genuine people. I had enough of having to shove *ads of myself* to strangers, had to [stop selling my name as if it was a brand](/blog/de-brand/).
 
