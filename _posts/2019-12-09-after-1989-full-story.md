@@ -96,7 +96,7 @@ They hitch-hiked, disguised as either Germans or prisoners of war, depending on 
 
 Two years later, in the summer of 1991, my friends and I bought an InterRail ticket and visited Eastern Europe, nine months after the German reunification and three weeks after the dissolution of the [Warsaw Pact](https://en.wikipedia.org/wiki/Warsaw_Pact). 
 
-We went to Prague, Dresden and Berlin, before visiting a few towns in West Germany. I wasn’t ready to dig into my family story at the time and given my obsession for the Cold War, the idea of observing the divided city as a historical place was way more compelling to me. Even though the dismantling was moving at a decent pace, long strips of slabs from the Wall were still standing. The city didn’t change much yet, and the scars were still visible. Potsdamer Platz was still a no man’s land, the buildings were clearly showing their different styles, and I vividly remember how I watched in dismay at the bricked windows in the Eastside, facing the West.
+We went to Prague, Dresden and Berlin, before visiting a few towns in West Germany. I wasn’t ready to dig into my family story at the time and given my obsession for the Cold War, the idea of observing the divided city as a historical place was way more compelling to me. Even though the dismantling was moving at a decent pace, long strips of slabs from the Wall were still standing. The city hadn’t changed much yet, and the scars were visible. Potsdamer Platz was still a no man’s land, the buildings clearly showing their remarkably different styles, and I vividly remember how I watched in dismay at the bricked windows in the Eastside, facing the West.
 
 {: .big }
 > I’m twenty again  
