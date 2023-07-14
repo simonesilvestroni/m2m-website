@@ -24,7 +24,7 @@ After logging in, I see an unexpected amount of online performances. Since I hav
 
 ## Down to the nitty-gritty
 
-The biggest share of those million and a half streams comes from _Alliance YouTube Limited Download / On Demand Streaming Service Video_, divided by the following countries, ordered my number of streams:
+The biggest share of those million and a half streams comes from _Alliance YouTube Limited Download / On Demand Streaming Service Video_, divided by the following countries, ordered by number of streams:
 
 - Germany (`999,738`)
 - France (`181,979`)
