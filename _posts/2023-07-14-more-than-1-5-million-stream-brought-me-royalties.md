@@ -9,6 +9,10 @@ tags:
   - 'personal'
   - 'streaming'
 description: 'After receiving an unexpected royalty payment today, I’ve been reflecting about the music industry, again.'
+syndication: true
+syndicate:
+  - name: Mastodon
+    url: https://sonomu.club/@m2m/110712147500523150
 ---
 Not long ago, I wrote a personal account (in two parts) of what it meant to [release a concept album as an indie artist](/blog/releasing-an-album-as-an-independent-artist-pt1/) in 2019. Specifically talking about the consequences of the music industry move to streaming, I wrote:
 
