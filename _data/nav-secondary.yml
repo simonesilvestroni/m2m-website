@@ -20,3 +20,7 @@ menu:
   - name: RSS
     link: /feed.xml
     desc: 'RSS feed'
+  - name: I don’t track you
+    link: https://themarkup.org/blacklight?url=minutestomidnight.co.uk
+    desc: 'About your privacy'
+    target: true
