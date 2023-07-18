@@ -18,8 +18,6 @@ tags:
   - 'independent music'
   - 'indie'
   - 'germany'
-  - 'mix'
-  - 'master'
   - 'music production'
   - 'music release'
   - 'personal'
