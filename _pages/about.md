@@ -27,7 +27,7 @@ I try to listen to people and be open to new ideas. Disliking a society that's o
 
 {: .list-hr }
 - First name is pronounced `see-mow-nay`.
-- Born and raised in Italy, I moved to the UK in 2011, enjoying the process of integration with a different culture.
+- Born and raised in Italy, I moved to the UK in 2011, enjoying the process of integrating with a different culture.
 - My favourite bass player is Andy Rourke.
 - The moniker _Minutes to Midnight_ [does not come from Iron Maiden]({{ site.url }}/about/name-and-logo/).
 
