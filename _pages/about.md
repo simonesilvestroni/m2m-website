@@ -2,7 +2,7 @@
 layout: page
 title: 'About'
 date: '2022-01-14'
-last_modified_at: '2023-07-06 10:05:20'
+last_modified_at: '2023-07-19 20:21:55'
 description: 'I’m Simone (he/him), a straight to the point person with a major interest in sound design, music, and programming.'
 permalink: '/about/'
 featimage: true
@@ -27,7 +27,7 @@ I try to listen to people and be open to new ideas. Disliking a society that's o
 
 {: .list-hr }
 - First name is pronounced `see-mow-nay`.
-- Born and raised in Italy, I moved to the UK in 2011, enjoying the process of integration with a different culture while making a living as a [web developer](https://simonesilvestroni.com){: target="_blank"} first, and a [sound designer, music producer, and bassist](/work/) later.
+- Born and raised in Italy, I moved to the UK in 2011, enjoying the process of integration with a different culture.
 - My favourite bass player is Andy Rourke.
 - The moniker _Minutes to Midnight_ [does not come from Iron Maiden]({{ site.url }}/about/name-and-logo/).
 
@@ -46,7 +46,7 @@ I try to listen to people and be open to new ideas. Disliking a society that's o
 
 {: .list-hr }
 - Throughout the 1990s, I acquired audio skills in music studios, freelancing as a [bass player](/blog/tag/bass/). Later, I specialised in [mix](/blog/tag/mix/) and [master](/blog/tag/master/).
-- Hired at the end of 1999 as a [sound designer](/blog/tag/sound-design/) for video games, to me the ultimate audio-visual narrative medium.
+- I was hired at the end of 1999 as a [sound designer](/blog/tag/sound-design/) for video games, to me the ultimate audio-visual narrative medium.
 
 ### People
 
@@ -68,3 +68,4 @@ I try to listen to people and be open to new ideas. Disliking a society that's o
 {: .list-hr }
 - As a composer, I released songs as [thematic collections](/work/music/) where the story is at the forefront.
 - I wrote an ebook about [project management in the music industry](/blog/project-management/).
+- I'd been working as a desktop publishing specialist from the early 1990s to the mid 2000s. It turned out to be a gate towards [crafting a career out of web design](https://simonesilvestroni.com), both in my homecountry and in the UK.
