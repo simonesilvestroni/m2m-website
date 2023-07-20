@@ -6,8 +6,7 @@ tags:
   - 'game developer conference'
   - 'gdc'
   - 'personal'
-  - 'video game'
-  - 'work'
+  - 'video games'
 description: 'A work-related note recovered from my first blog of 21 years ago.'
 ---
 Almost four in the morning. It's hot, probably around 30 Celsius now — can't really sleep like this. Should I wake up the cat and play with her?

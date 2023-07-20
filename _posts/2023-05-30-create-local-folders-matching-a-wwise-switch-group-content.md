@@ -8,7 +8,7 @@ tags:
   - 'middleware'
   - 'sound design'
   - 'technical sound design'
-  - 'video game'
+  - 'video games'
   - 'wwise'
 description: 'While working on a test project based on a video series by Cujo Sounds called ‘Setting up a AAA Wwise project’, I envisioned a method to speed up the process.'
 typora-root-url: ../

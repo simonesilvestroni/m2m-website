@@ -6,7 +6,6 @@ tags:
   - 'archival'
   - 'audio preservation'
   - 'backup'
-  - 'work'
 description: "Quick explanation of my strategy for saving and preserving data, and especially sound material, both for personal use and for work."
 ---
 ## Why offer audio archival to clients?

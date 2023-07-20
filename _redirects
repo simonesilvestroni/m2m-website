@@ -88,7 +88,8 @@ https://after1989.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/work
 /tag/united-states/ /sitemap/ 301
 /tag/usa/ /sitemap/ 301
 /tag/video/ /blog/tag/music-video/ 301
-/tag/videogames/ /blog/tag/video-game/ 301
+/tag/videogames/ /blog/tag/video-games/ 301
+/blog/tag/video-game/ /blog/tag/video-games/ 301
 /tag/waves/ /sitemap/ 301
 /tag/waves-plugins/ /sitemap/ 301
 /tag/website/ /blog/tag/web/ 301
@@ -355,6 +356,7 @@ https://after1989.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/work
 /blog/category/videogames/ /blog/tag/video-game/ 301
 /blog/category/web-design/ /blog/tag/web-design/ 301
 /blog/category/workflow/ /blog/tag/workflow/ 301
+/blog/tag/work/ /blog/ 301
 /tag/mix/ /tag/mixing/ 301
 /tag/master/ /tag/mastering/ 301
 /tag/production/ /tag/music-production/ 301

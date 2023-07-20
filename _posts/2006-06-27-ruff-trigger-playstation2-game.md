@@ -23,7 +23,7 @@ tags:
   - 'sound design'
   - 'sound effects'
   - 'soundforge'
-  - 'video game'
+  - 'video games'
   - 'xbox'
 description: "As team leader, I created and implemented sound effects and an adaptive soundtrack, bootstrapping the audio of the PlayStation2 video game ‘Ruff Trigger’."
 featimage: true

@@ -8,7 +8,7 @@ tags:
   - 'matrix'
   - 'playstation'
   - 'unreal engine'
-  - 'video game'
+  - 'video games'
   - 'xbox'
 description: "The new major version of Epic’s game engine is out now. It will enable next-generation real-time 3D content and experiences with greater freedom, fidelity, and flexibility."
 ---

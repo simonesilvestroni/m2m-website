@@ -3,7 +3,7 @@ title: 'Google rejects ‘Attentat 1942’ from German store'
 date: '2020-07-21'
 last_modified_at: '2021-11-12 15:34:41'
 tags:
-  - 'video game'
+  - 'video games'
   - 'world war ii'
 description: "Despite the developer's effort, Google refused to publish the game ‘Attentat 1942’ on their Play Store in Germany, France, Austria and Russia."
 ---
