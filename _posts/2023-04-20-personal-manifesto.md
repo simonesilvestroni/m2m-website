@@ -50,9 +50,7 @@ I refuse to take an active part in services profiting from people being distract
 
 ## Breaking news
 
-I stopped following the news, which doesn't mean I ignore what's happening in the world. A system based on creating anxiety, fake urgency and designed to keep people on their toes stays out of my life.
-
-If it's not an in-deep analysis, a long-form article or a book, it doesn't get my attention. This [article by Rolf Dobelli](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli) is a good starting point.
+I stopped following the news, which doesn't mean I ignore what's happening in the world. A system based on creating anxiety, fake urgency and designed to keep people on their toes stays out of my life. If it's not an in-deep analysis, a long-form article or a book, it doesn't get my attention. This [article by Rolf Dobelli](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli) is a good starting point.
 
 > Exploitative, performative, informative<br>
 And we don't know the half of it<br>
@@ -64,52 +62,38 @@ And all along we called it normal
 
 Being in my fifties means that I started hanging around the internet in the 1990s. IRC, BBSes, Usenet newsgroups, Eudora, Fort&eacute; Agent — those things.
 
-I dislike all facets of the current corporate-lead internet, whether that be centralised social media, gigantic monopolies, and whatever else turned the so-called _web 1.0_ into the current dystopia we’re living in.
-
-Having to put systems in place to browse the internet in peace, without being constantly bombarded by ads, pop-ups, modal windows and whatnot, is *not fun*.
+I dislike all facets of the current corporate-lead internet, whether that be centralised social media, gigantic monopolies, and whatever else turned the so-called _web 1.0_ into the current dystopia we’re living in. Having to put systems in place to browse the internet in peace, without being constantly bombarded by ads, pop-ups, modal windows and whatnot, is *not fun*.
 
 I'll never support this shit.
 
 ## Decentralisation
 
-I think of this site as [part of the small web](https://ar.al/2020/08/07/what-is-the-small-web/). My online identity is here, and not in a *projected persona* that scatters ephemeral posts crafted to stir controversy and attract attention on a corporate-owned social network.
-
-A few years ago I joined the [Indieweb](https://indieweb.org/). As an independent node of the larger internet, I don't need a comment system: I can send and receive [webmentions](https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet/), a method for replying, liking and reposting from personal websites.
+I think of this site as [part of the small web](https://ar.al/2020/08/07/what-is-the-small-web/). My online identity is here, and not in a *projected persona* that scatters ephemeral posts crafted to stir controversy and attract attention on a corporate-owned social network. A few years ago I joined the [Indieweb](https://indieweb.org/). As an independent node of the larger internet, I don't need a comment system: I can send and receive [webmentions](https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet/), a method for replying, liking and reposting from personal websites.
 
 For more ephemeral discussions, I interact with people online using Mastodon.
 
 ## Sustainability
 
-Over the last fifteen years I've been heavily invested in trying to stop wasting resources. I put my outmost attention to sustainability in every aspect of my life, including web design.
-
-I subscribe to the _brutalist design manifesto_:
+Over the last fifteen years I've been heavily invested in trying to stop wasting resources. I put my outmost attention to sustainability in every aspect of my life, including web design. I subscribe to the _brutalist design manifesto_:
 
 > A website is for a visitor, using a browser, running on a computer to read, watch, listen, or perhaps to interact. A website that embraces Brutalist Web Design is raw in its focus on content, and prioritization of the website visitor.
 > <cite>[David Bryant Copeland](https://brutalist-web.design/)</cite>
 
-In line with a minimalist approach, fighting against bloatware means that my website doesn't weigh on neither broadband nor electricity with useless scripts, tracking, analytics, ads or pointless stock photos.
-
-For the same reasons, I refuse to take part in anything related to the blockchain. Not that is [going great](https://web3isgoinggreat.com/) anyway.
+In line with a minimalist approach, fighting against bloatware means that my website doesn't weigh on neither broadband nor electricity with useless scripts, tracking, analytics, ads or pointless stock photos. For the same reasons, I refuse to take part in anything related to the blockchain. Not that is [going great](https://web3isgoinggreat.com/) anyway.
 
 ## Accessibility
 
-Helped by professionals such as [Silvia](https://silviamaggidesign.com/about/), I made my website [as accessible as possible](https://webaim.org/projects/million/lookup?domain=minutestomidnight.co.uk).
-
-If a website is not catered to everyone, it has little to no use.
+Helped by professionals such as [Silvia](https://silviamaggidesign.com/about/), I made my website [as accessible as possible](https://webaim.org/projects/million/lookup?domain=minutestomidnight.co.uk). If a website is not catered to everyone, it has little to no use.
 
 ## Digital ecosystems, or walled gardens
 
-As another facet of sustainability, I also refuse the corporate-filled idea of attaching myself to a brand. Ever since I stopped doing so, being _system agnostic_ has become second nature.
-
-The most common method to gradually force people into digital ecosystems, or *walled gardens*, is by offering convenience. Not being trapped with having to buy devices or use software from the same company, gives me considerable freedom. It might cost a couple steps more to keep things in sync — so be it.
+As another facet of sustainability, I also refuse the corporate-filled idea of attaching myself to a brand. Ever since I stopped doing so, being _system agnostic_ has become second nature. The most common method to gradually force people into digital ecosystems, or *walled gardens*, is by offering convenience. Not being trapped with having to buy devices or use software from the same company, gives me considerable freedom. It might cost a couple steps more to keep things in sync — so be it.
 
 Similarly, a business model based on subscriptions doesn't get my money.
 
 ## Planned obsolescence
 
-All the aforementioned methods are used by their creators to induce [planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence) and bring people to spend more money. A progressive increase in waste is one of the direct results. 
-
-A sneaky aspect is the arbitrary cycle of upgrades, usually on an annual basis. Apple is likely the worst offender here. Not caring for it, I [downgraded my old laptop](/blog/degrowth/) to an operating system from 2018. It works very well, I have sufficient security updates and I avoid using the obsolete packages shipped with the <abbr title="Operating System">OS</abbr>.
+All the aforementioned methods are used by their creators to induce [planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence) and bring people to spend more money. A progressive increase in waste is one of the direct results. A sneaky aspect is the arbitrary cycle of upgrades, usually on an annual basis. Apple is likely the worst offender here. Not caring for it, I [downgraded my old laptop](/blog/degrowth/) to an operating system from 2018. It works very well, I have sufficient security updates and I avoid using the obsolete packages shipped with the <abbr title="Operating System">OS</abbr>.
 
 The same thing happens with my phone: old, cheap, and running the [latest Android with ease](/blog/installing-android-13-on-an-unsupported-non-google-phone/).
 
