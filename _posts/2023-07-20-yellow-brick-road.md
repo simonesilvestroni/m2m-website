@@ -29,3 +29,7 @@ I guess it all boils down to this: while I might be struggling to go back to gam
 > <cite>Dorothy Gale, <em>The Wonderful Wizard of Oz</em></cite>
 
 Post revision: [Silvia Maggi](https://silviamaggidesign.com).
+
+## Edit: two replies
+
+I love receiving replies in the form of posts on personal websites. Wouter argued about the downsides of [being a generalist in a specialist world](https://brainbaking.com/post/2023/07/being-a-generalist-in-a-specialist-world/), which of course touched on many points I share with him. Matthew is facing my issue from an opposite perspective, and outlines the frustrations of being stuck in a thankless job by using the fitting metaphor of [building cathedrals on quicksand](https://starbreaker.org/blog/cathedrals-on-quicksand/index.html).
