@@ -5,6 +5,7 @@ User-Agent: ChatGPT-User
 User-Agent: AdsBot-Google
 User-Agent: Mediapartners-Google
 User-Agent: adidxbot
+User-agent: GPTBot
 Disallow: /
 
 Sitemap: {{ site.url}}/sitemap.xml
