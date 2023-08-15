@@ -11,7 +11,7 @@ The best and quickest way to get in touch is [sending an email](mailto:hello@min
 
 ## Elsewhere
 
-My web development and design work is at [simonesilvestroni.com](https://simonesilvestroni.com), and I'm active on the following networks:
+I'm active on the following networks:
 
 <ul>
   {% for item in site.data.nav-social.menu -%}
@@ -26,6 +26,8 @@ I also have accounts on:
   <li><a href="{{ item.link }}">{{ item.name }}</a></li>
   {% endfor -%}
 </ul>
+
+My web development and design work is at [simonesilvestroni.com](https://simonesilvestroni.com).
 
 ## Work together
 
