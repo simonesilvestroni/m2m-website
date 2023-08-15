@@ -11,6 +11,10 @@ tags:
   - 'social media'
   - 'twitter'
 description: 'Three years after I left Twitter, Facebook and Instagram, I might have found a space where to both agree and disagree in peace, while growing connections.'
+syndication: true
+syndicate:
+  - name: IndieNews
+    url: https://news.indieweb.org/en
 ---
 Last year I reflected upon my [life after "social" networks]({{ site.url }}/blog/life-after-social-networks/) (quotes are on purpose), which contained a post-scriptum about joining Mastodon as an experiment. Despite a few adjustments I had to make, I can safely say that the incarnation of the [fediverse](https://en.wikipedia.org/wiki/Fediverse) I'm currently in suits me well. I got to know a number of beautiful people, several of which I openly consider friends. It genuinely feels like a version of the original internet that I'd experienced back in 1995, when I started going online. Not sure if it's a case of serendipity, but over the last few weeks something changed in my Mastodon experience&nbsp;—&nbsp;for the better. What happened is that I started discussing music production with other sound engineers, and felt free to sometimes _happily disagree with them_. Nothing trascendental, just the ability to say: 
 
