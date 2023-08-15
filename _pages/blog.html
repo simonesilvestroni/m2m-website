@@ -23,7 +23,7 @@ permalink: /blog/
 	<h3>
 		<a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark class="small"><strong>CASE&nbsp;STUDY</strong></mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small"><strong>FEATURED</strong></mark>{% endif %}
 	</h3>
-	<p class="dim"><time class="dt-published small" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated"><em>{{ date | date: "%-d %B %Y" }}</em></time></p>
+	<p class="dim"><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated"><em>{{ date | date: "%-d %B %Y" }}</em></time></p>
 	<p class="p-summary">{{ post.description }}</p>
 	<hr>
 	{% endfor %}
