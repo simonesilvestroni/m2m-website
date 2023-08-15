@@ -4,6 +4,7 @@ date: '2023-08-13 21:02:10'
 last_modified_at: '2023-08-13 21:02:13'
 tags:
   - 'facebook'
+  - 'fediverse'
   - 'instagram'
   - 'mastodon'
   - 'music production'
