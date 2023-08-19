@@ -9,7 +9,6 @@ tags:
   - 'software'
 description: "A brief description of how I use the internet in 2022, two years after leaving all mainstream social networks."
 ---
-{: .warning }
 This post is inspired by Michael Harley’s [_How I Internet_](https://obsolete29.com/posts/2022/11/07/how-i-internet/), which was inspired by Cassey Lottman’s, [_My Internet_](https://www.cassey.dev/posts/2022-11-05-my-internet/).
 
 ## E-mail
