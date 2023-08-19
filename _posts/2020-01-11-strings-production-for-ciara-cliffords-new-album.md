@@ -3,14 +3,11 @@ title: Strings production for Ciara Clifford’s new album
 date: '2020-01-11'
 last_modified_at: '2023-05-23 12:03:27'
 tags:
-  - 'case study'
-  - 'ciara clifford'
-  - 'independent music'
+  - 'indie artist'
   - 'music production'
-  - 'paolo clementi'
-  - 'reason'
-  - 'strings'
+  - 'software'
   - 'uk'
+  - 'work'
 description: 'I recorded and co-produced strings arrangements for Ciara Clifford’s eponymous debut album, in collaboration with professional viola player Paolo Clementi.'
 featimage: true
 thumbOnly: true

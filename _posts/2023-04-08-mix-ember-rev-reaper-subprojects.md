@@ -3,21 +3,15 @@ title: 'I mixed ‘In Super-8’ by Ember Rev using Reaper’s subprojects'
 date: '2023-03-17 12:38:53'
 last_modified_at: '2023-04-08 14:50:44'
 tags:
-  - 'audio software'
-  - 'dan ecclestone'
-  - 'case study'
-  - 'cockos'
-  - 'daw'
-  - 'ember rev'
-  - 'folk rock'
-  - 'independent music'
-  - 'indie'
-  - 'izotope rx'
+  - 'indie artist'
   - 'mix'
+  - 'music'
   - 'music production'
   - 'music release'
   - 'reaper'
+  - 'software'
   - 'uk'
+  - 'work'
 description: 'How I exploited the subproject functionality in REAPER to save time and processing power while mixing a rework of Ember Rev’s debut album.'
 featimage: true
 thumbOnly: true
@@ -31,7 +25,7 @@ syndicate:
 
 ## Album trilogy
 
-The Cambridge-based band [Ember Rev](/blog/tag/ember-rev/) published their debut album in 2017&nbsp;—&nbsp;a year before I first met them&nbsp;—&nbsp;and *In Super-8* is a reworking of that album. After having mixed [*Premonition and Ruin*](/work/music-production/premonition-and-ruin/) and [*From The Country To The City To The Sea*](/work/music-production/from-the-country-to-the-city-to-the-sea-album-mix/), it was a brilliant opportunity to have my signature mix on their first trilogy.
+The Cambridge-based band [Ember Rev](https://germanshepherdrecords.com/artists/ember-rev/) published their debut album in 2017&nbsp;—&nbsp;a year before I first met them&nbsp;—&nbsp;and *In Super-8* is a reworking of that album. After having mixed [*Premonition and Ruin*](/work/music-production/premonition-and-ruin/) and [*From The Country To The City To The Sea*](/work/music-production/from-the-country-to-the-city-to-the-sea-album-mix/), it was a brilliant opportunity to have my signature mix on their first trilogy.
 
 > This re-appraising and re-working is an attempt to capture the character of the songs as they sounded when performed live. This was not  represented in the earlier arrangements which I felt compromised the  songs themselves; songs that we still play to this day.
 > <cite>Dan Ecclestone</cite>

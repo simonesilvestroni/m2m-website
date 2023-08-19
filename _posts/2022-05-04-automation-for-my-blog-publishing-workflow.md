@@ -3,15 +3,10 @@ title: 'Automation for my static blog publishing workflow'
 date: '2022-05-10'
 last_modified_at: '2022-05-10 13:43:39'
 tags:
-  - 'alfred'
-  - 'automation'
-  - 'automator'
-  - 'jekyll'
-  - 'macos'
-  - 'shortcuts'
-  - 'small web'
-  - 'sublime text'
+  - 'internet'
+  - 'software'
   - 'web development'
+  - 'workflow'
 description: 'How I’m currently managing new content in my Jekyll-based static blog, using Shortcuts on macOS.'
 syndication: true
 syndicate:

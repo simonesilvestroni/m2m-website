@@ -3,14 +3,13 @@ title: 'Mix for the song ‘Nebbia’, from Arva Vacua debut EP'
 date: '2022-10-19 10:33:03'
 last_modified_at: '2023-02-28 13:03:27' 
 tags:
-  - 'case study'
-  - 'independent music'
-  - 'emilio albertoni'
+  - 'indie artist'
   - 'mix'
   - 'music production'
   - 'music release'
   - 'pro tools'
   - 'italy'
+  - 'work'
 description: '‘Tales from holographic seas’, for which I mixed a song, is officially out now.'
 featimage: true
 thumbOnly: true

@@ -3,19 +3,10 @@ title: 'How I use the internet'
 date: '2022-11-23 17:21:41'
 last_modified_at: '2023-07-13 13:24:10'
 tags:
-  - 'duckduckgo'
-  - 'email'
-  - 'fediverse'
-  - 'firefox'
   - 'internet'
-  - 'mailbox.org'
-  - 'marginalia'
-  - 'mastodon'
-  - 'proton'
-  - 'rss'
+  - 'personal'
   - 'social media'
-  - 'startpage'
-  - 'technology'
+  - 'software'
 description: "A brief description of how I use the internet in 2022, two years after leaving all mainstream social networks."
 ---
 {: .warning }

@@ -3,7 +3,6 @@ title: Shifting the blame
 date: '2003-05-24'
 last_modified_at: '2023-04-10 22:59:59'
 tags:
-  - 'burnout'
   - 'personal'
   - 'video games'
 description: 'A short work-related chat with a former colleague and now friend, during an unhappy crunch time.'

@@ -3,11 +3,9 @@ title: Simplifying REAPER
 date: '2023-01-10 17:22:50'
 last_modified_at: '2023-01-10 17:22:52'
 tags:
-  - 'audio software'
-  - 'cockos'
-  - 'daw'
   - 'music production'
   - 'reaper'
+  - 'software'
 description: "Helping another producer with his transition from Logic made me appreciate a simpler REAPER for my own good."
 ---
 I'm going to be quick and straight to the point: no matter how much experience I have with the software, I've found the act of removing custom keyboard shortcuts and turning them into a new toolbar very refreshing.

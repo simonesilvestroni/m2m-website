@@ -3,11 +3,9 @@ title: 'Email migration from Proton to Mailbox'
 date: '2022-12-12 23:31:58'
 last_modified_at: '2022-12-12 23:32:01'
 tags:
-  - 'email'
   - 'internet'
-  - 'mailbox.org'
   - 'personal'
-  - 'proton'
+  - 'software'
 description: 'How I moved my entire email, calendar and contacts ‘ecosystem’ from Proton to Mailbox. On both desktop and mobile.'
 ---
 The reason for embarking on such a task has a very short answer. When I chose Proton years ago, I wasn’t bothered by the feeling of being trapped in a walled garden. Now I am.
@@ -22,7 +20,7 @@ The following has been carried out on macOS 10.14.
 
 After getting the gist of how the various services and settings work in my new Mailbox account, I've added €3 to become a paying customer. I like this formula, as it leaves me free to fully experiment for a while without committing to an annual payment yet.
 
-I got 50 aliases, including for my custom domains. Setting them up was as easy as adding a bunch of DNS values (TXT and MX) after authenticating the domains with Mailbox. I also improved the spam reputation by [setting up SPF, DKIM and DMARC](https://kb.mailbox.org/en/private/custom-domains/spf-dkim-and-dmarc-how-to-improve-the-spam-reputation-of-your-domain).
+I got 50 aliases, including for my custom domains. Setting them up was as easy as adding a bunch of DNS values (TXT and MX) after authenticating the domains with Mailbox. I also improved the spam reputation by [setting up SPF, DKIM and DMARC](https://kb.mailbox.org/en/private/custom-domains/spf-dkim-and-dmarc-how-to-improve-spam-reputation-and-avoid-bounces).
 
 Mailbox gave me automatic configuration profiles for macOS' Mail, Calendar and Contacts applications. While preferring a manual setup for IMAP and SMTP on Mail.app, I've chosen the easy and fast procedure for calDAV and cardDAV.
 

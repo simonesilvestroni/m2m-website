@@ -3,15 +3,10 @@ title: 'Website redesign'
 date: '2022-01-24'
 last_modified_at: '2022-01-24 18:14:59'
 tags:
-  - 'github'
-  - 'indieweb'
-  - 'jamstack'
-  - 'jekyll'
-  - 'netlify'
-  - 'small web'
+  - 'internet'
+  - 'software'
   - 'sustainability'
   - 'web development'
-  - 'webmentions'
 description: "Minutes to Midnight’s new redesigned website is easier to navigate and straight to the point. Built with Jekyll, Github and Netlify."
 ---
 ## Platform

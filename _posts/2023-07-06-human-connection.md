@@ -3,7 +3,6 @@ title: Human connection
 date: '2023-07-06 16:19:20'
 last_modified_at: '2023-07-06 16:19:22'
 tags:
-  - 'blogs'
   - 'internet'
   - 'personal'
 tldr: false

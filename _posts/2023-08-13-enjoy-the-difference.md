@@ -3,13 +3,10 @@ title: Enjoy the difference
 date: '2023-08-13 21:02:10'
 last_modified_at: '2023-08-13 21:02:13'
 tags:
-  - 'facebook'
-  - 'fediverse'
-  - 'instagram'
-  - 'mastodon'
+  - 'featured'
+  - 'internet'
   - 'music production'
   - 'social media'
-  - 'twitter'
 description: 'Three years after I left Twitter, Facebook and Instagram, I might have found a space where to both agree and disagree in peace, while growing connections.'
 syndication: true
 syndicate:

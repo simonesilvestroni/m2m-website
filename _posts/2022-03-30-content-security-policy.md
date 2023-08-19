@@ -3,8 +3,7 @@ title: 'Content security policy on Netlify'
 date: '2022-03-30'
 last_modified_at: '2022-03-30 10:48:41'
 tags:
-  - 'netlify'
-  - 'security'
+  - 'internet'
   - 'web development'
 image-caption: true
 description: "How I implemented a content security policy on a static website built with Jekyll, hosted on Netlify and loaded with several external embeds."

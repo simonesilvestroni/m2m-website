@@ -4,15 +4,11 @@ date: '2021-04-03'
 last_modified_at: '2021-11-08 18:29:03'
 tags:
   - 'apple'
-  - 'audio software'
-  - 'avid'
-  - 'cockos'
-  - 'daw'
   - 'game audio'
-  - 'logic pro'
   - 'music production'
   - 'pro tools'
   - 'reaper'
+  - 'software'
   - 'sound design'
 description: "In 12 months I’ve managed to revolutionize my workflow, twice. Part 2 of why I migrated to REAPER is about customization, community, stock plug-ins."
 ---

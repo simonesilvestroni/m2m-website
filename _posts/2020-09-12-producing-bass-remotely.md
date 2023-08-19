@@ -4,19 +4,16 @@ date: '2020-09-12'
 last_modified_at: '2021-12-07 17:00:42'
 tags: 
   - 'bandcamp'
-  - 'bass player'
   - 'bass'
-  - 'bassist'
-  - 'case study'
-  - 'editing'
+  - 'audio editing'
   - 'featured'
-  - 'logic pro'
   - 'master'
   - 'mix'
   - 'music production'
   - 'music release'
   - 'pro tools'
   - 'recording'
+  - 'work'
 description: "An in-depth analysis of the process I go through to produce an effective bass track. From tracking to delivery. Based on a real-life scenario."
 featimage: true
 thumbOnly: true

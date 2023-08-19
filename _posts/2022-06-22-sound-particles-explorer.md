@@ -3,10 +3,9 @@ title: 'Explorer by Sound Particles'
 date: '2022-06-22 14:56:43'
 last_modified_at: '2022-06-22 14:56:49'
 tags:
-  - 'audio software'
   - 'music production'
+  - 'software'
   - 'sound design'
-  - 'sound effects'
 description: 'Explorer is a free audio application for managing sounds. Working with mono, stereo and surround, it can find, organize, edit and integrate files in a DAW.'
 ---
 After downloading the program just over a month ago, I've finally started using it. It's currently the best sound manager I've ever used — especially at this price point. It's intuitive, powerful, elastic and shows all the info I might need from a sound manager. Here's a quick look at its features.

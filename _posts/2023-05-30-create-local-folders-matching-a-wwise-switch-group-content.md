@@ -3,13 +3,9 @@ title: Quickly create local folders matching the content of a Wwise Switch Group
 date: '2023-05-30 10:38:37'
 last_modified_at: '2023-05-30 10:38:39'
 tags:
-  - 'audiokinetic'
   - 'game audio'
-  - 'middleware'
   - 'sound design'
-  - 'technical sound design'
   - 'video games'
-  - 'wwise'
 description: 'While working on a test project based on a video series by Cujo Sounds called ‘Setting up a AAA Wwise project’, I envisioned a method to speed up the process.'
 typora-root-url: ../
 ---

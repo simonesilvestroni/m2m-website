@@ -4,9 +4,8 @@ date: '2023-04-26 15:07:03'
 last_modified_at: '2023-04-26 15:07:05'
 tags:
   - 'accessibility'
-  - 'indieweb'
+  - 'internet'
   - 'personal'
-  - 'small web'
   - 'web development'
 description: 'I changed the website with a under-the-hood reworking. It involved a structure clean-up, CSS polishing, and a refactor of my alt site.'
 syndication: true

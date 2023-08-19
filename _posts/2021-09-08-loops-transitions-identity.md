@@ -3,15 +3,12 @@ title: 'Loops, transitions, identity'
 date: '2021-09-08'
 last_modified_at: '2021-11-12 23:06:19'
 tags:
-  - 'github'
-  - 'indieweb'
+  - 'internet'
   - 'italy'
-  - 'jekyll'
   - 'personal'
-  - 'small web'
+  - 'software'
   - 'sustainability'
   - 'web development'
-  - 'webmentions'
 description: "Following a process to recalibrate my self-identity after leaving social media, I’m going back to the roots and leave WordPress for Jekyll, joining the IndieWeb."
 ---
 Milan is the city where I spent 15 years before emigrating to the UK. It’s where I kickstarted my work life, met great people and became an adult. I find it slightly funny how, over the last couple of years, I’ve been studying to — hopefully — go back to an audio video game career, ending up moving back to where it all started.

@@ -3,13 +3,7 @@ title: Unreal Engine 5 is out
 date: '2022-04-05 20:11:43'
 last_modified_at: '2022-04-05 20:00:59'
 tags:
-  - '3d'
-  - 'epic'
-  - 'matrix'
-  - 'playstation'
-  - 'unreal engine'
   - 'video games'
-  - 'xbox'
 description: "The new major version of Epic’s game engine is out now. It will enable next-generation real-time 3D content and experiences with greater freedom, fidelity, and flexibility."
 ---
 From the [announcement page](https://www.unrealengine.com/en-US/blog/introducing-the-matrix-awakens-an-unreal-engine-5-experience):

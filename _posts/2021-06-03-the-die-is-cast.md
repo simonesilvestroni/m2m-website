@@ -3,18 +3,11 @@ title: 'The Die Is Cast'
 date: '2021-06-03 10:50:53'
 last_modified_at: '2021-11-08 10:50:56'
 tags:
-  - 'arrangement'
   - 'bandcamp'
-  - 'bass player'
   - 'bass'
-  - 'bassist'
-  - 'brexit'
-  - 'case study'
   - 'composition'
-  - 'dan ecclestone'
-  - 'ep'
-  - 'gerald duchene'
-  - 'instrument'
+  - 'history'
+  - 'indie artist'
   - 'master'
   - 'mix'
   - 'music production'
@@ -23,6 +16,7 @@ tags:
   - 'reaper'
   - 'remix'
   - 'uk'
+  - 'work'
 description: "An autobiographical rumination about migrating in Europe during a time of populism. Remixing Ember Rev in collaboration with Antiquity."
 featimage: true
 thumbOnly: true

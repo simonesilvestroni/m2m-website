@@ -2,14 +2,10 @@
 title: 'Non sai chi sono'
 date: '2021-06-28 10:51:22'
 last_modified_at: '2021-11-25 17:19:45'
-tags: 
-  - 'arrangement'
+tags:
   - 'bandcamp'
-  - 'bass player'
   - 'bass'
-  - 'bassist'
-  - 'case study'
-  - 'emilio albertoni'
+  - 'indie artist'
   - 'italy'
   - 'master'
   - 'mix'
@@ -18,6 +14,7 @@ tags:
   - 'original music'
   - 'pro tools'
   - 'remix'
+  - 'work'
 description: "An old friend asked me to contribute to an upcoming album with the remix of one of his songs. I co-produced, mixed and mastered ‘Non sai chi sono’."
 featimage: true
 thumbOnly: true

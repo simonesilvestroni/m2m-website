@@ -3,7 +3,6 @@ title: Years just pass by
 date: '2002-06-09'
 last_modified_at: '2023-04-09 16:25:29'
 tags:
-  - 'blogs'
   - 'internet'
   - 'personal'
 description: 'Years before the concept of ‘influencer’ arised, a proof of how centralised social media merely exploited a pre-existing human weakness.'

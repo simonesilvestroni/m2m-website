@@ -3,11 +3,10 @@ title: 'Waves switched to subscription only and people are angry'
 date: '2023-03-28 09:51:34'
 last_modified_at: '2023-03-28 09:51:34'
 tags:
-  - 'audio software'
-  - 'music industry'
+  - 'music'
   - 'music production'
+  - 'software'
   - 'sound design'
-  - 'waves'
 description: 'The software company announced their switch to a subscription-only business model, leaving behind a loyal user base of several decades.'
 ---
 From their announcement (emphasis mine):

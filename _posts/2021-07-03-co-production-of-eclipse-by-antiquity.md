@@ -3,17 +3,14 @@ title: Co-production of ‘Eclipse’ by Antiquity
 date: '2021-07-03'
 last_modified_at: '2023-05-23 11:21:37'
 tags:
-  - 'alternative rock'
-  - 'antiquity'
+  - 'indie artist'
   - 'bandcamp'
-  - 'case study'
-  - 'gerald duchene'
-  - 'independent music'
-  - 'indie'
+  - 'indie artist'
   - 'music production'
   - 'music release'
   - 'reaper'
   - 'usa'
+  - 'work'
 featimage: true
 thumbOnly: true
 description: '‘Eclipse’ is a new single released by Antiquity, co-produced by Minutes to Midnight.'

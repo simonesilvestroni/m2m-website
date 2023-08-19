@@ -4,7 +4,6 @@ date: '2022-08-25 12:31:02'
 last_modified_at: '2022-08-25 12:31:02'
 tags:
   - 'italy'
-  - 'migration'
   - 'personal'
   - 'uk'
 description: 'A frustration-fueled personal post on how migrating back to Italy two years ago was not the solution.'

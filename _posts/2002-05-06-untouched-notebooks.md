@@ -3,8 +3,6 @@ title: Untouched notebooks
 date: '2002-05-06'
 last_modified_at: '2023-04-09 19:37:53'
 tags:
-  - 'game developer conference'
-  - 'gdc'
   - 'personal'
   - 'video games'
 description: 'A work-related note recovered from my first blog of 21 years ago.'

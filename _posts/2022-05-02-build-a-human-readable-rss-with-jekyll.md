@@ -3,12 +3,9 @@ title: 'A human-readable RSS feed with Jekyll'
 date: '2022-05-02 10:36:05'
 last_modified_at: '2022-05-02 19:00:32'
 tags: 
-  - 'jekyll'
-  - 'liquid'
-  - 'rss'
+  - 'internet'
+  - 'software'
   - 'web development'
-  - 'xml'
-  - 'xslt'
 description: 'How I refactored my RSS feed from scratch using Jekyll functionalities, and applying XSLT for presentation to render a human-readable XML feed.'
 syndication: true
 syndicate:

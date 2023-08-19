@@ -3,8 +3,8 @@ title: 'Streaming regret'
 date: '2022-07-16 11:22:59'
 last_modified_at: '2022-07-16 11:23:02'
 tags:
-  - 'music industry'
-  - 'streaming'
+  - 'internet'
+  - 'music'
 description: 'Delegating music curation to soulless corporations doesn’t take into consideration how they can take it away on a whim. We’re losing control over the music we love.'
 syndication: yes
 syndicate:

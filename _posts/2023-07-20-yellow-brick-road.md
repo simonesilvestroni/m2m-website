@@ -3,12 +3,10 @@ title: Yellow Brick Road
 date: '2023-07-20 09:41:40'
 last_modified_at: '2023-07-20 09:41:42'
 tags:
-  - 'burnout'
-  - 'mental health'
+  - 'game audio'
   - 'personal'
   - 'video games'
   - 'web development'
-  - 'wwise'
 description: 'A transparent and honest analysis on the struggle to go back to a job that I left.'
 ---
 This is not my first foray into the unintended consequences of a past decision that's affecting my present. I'm not again onto why I left the UK to "temporarily stay in Italy" until COVID is over&nbsp;—&nbsp;I'm thinking of a specific chain of events caused by a life choice from several years ago.

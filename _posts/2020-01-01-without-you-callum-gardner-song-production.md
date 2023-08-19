@@ -4,21 +4,14 @@ date: '2020-01-01'
 last_modified_at: '2023-05-23 16:55:46'
 tags:
   - 'bandcamp'
-  - 'bass player'
   - 'bass'
-  - 'bassist'
-  - 'callum gardner'
-  - 'case study'
-  - 'independent music'
-  - 'indie'
-  - 'logic pro'
-  - 'london'
+  - 'indie artist'
   - 'master'
   - 'mix'
   - 'music production'
   - 'music release'
-  - 'singer-songwriter'
   - 'uk'
+  - 'work'
 description: "Singer-songwriter Callum Gardner’s new single, ‘Without You’, is out now. Bass and full production by Minutes to Midnight."
 featimage: true
 thumbOnly: true

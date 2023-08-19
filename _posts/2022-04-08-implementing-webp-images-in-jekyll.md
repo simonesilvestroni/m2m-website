@@ -3,7 +3,7 @@ title: Implementing WebP images in Jekyll
 date: '2022-04-08'
 last_modified_at: '2022-04-08 20:48:34'
 tags:
-  - 'jekyll'
+  - 'software'
   - 'sustainability'
   - 'web development'
 description: "How to add WebP images to a Jekyll-based static site, to ensure new levels of optimization and performance."

@@ -4,17 +4,11 @@ date: '2023-04-20 15:23:01'
 last_modified_at: '2023-04-20 15:23:04'
 tags:
   - 'accessibility'
-  - 'capitalism'
   - 'featured'
-  - 'indieweb'
-  - 'mental health'
+  - 'internet'
   - 'personal'
-  - 'planned obsolescence'
-  - 'right to repair'
-  - 'small web'
   - 'social media'
   - 'sustainability'
-  - 'technology'
 description: 'Principles I stand for. My takes on being genuine, build a clean online presence, sustainability and more, are connected with a will to keep my mind safe.'
 syndication: true
 syndicate:

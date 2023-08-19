@@ -3,13 +3,8 @@ title: "Interview to Susan Rogers at Pensado’s Place"
 date: '2021-04-07'
 last_modified_at: '2021-11-08 16:59:59'
 tags:
-  - 'berklee'
-  - 'dave pensado'
-  - 'music listening'
+  - 'music'
   - 'music production'
-  - 'prince'
-  - 'psychoacoustics'
-  - 'susan rogers'
 description: "The amazing episode of Pensado’s Place with Susan Rogers had been sitting in my to-do list for a few weeks. The best interview in a long time."
 ---
 I’ve listened to her in awe. In particular, regarding two points:

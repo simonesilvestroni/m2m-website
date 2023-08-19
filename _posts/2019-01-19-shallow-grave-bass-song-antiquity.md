@@ -3,19 +3,13 @@ title: "Bass for ‘Shallow Grave’ by Antiquity"
 date: '2019-01-18'
 last_modified_at: '2021-11-14 20:35:27'
 tags:
-  - 'alternative rock'
-  - 'antiquity'
+  - 'indie artist'
   - 'bandcamp'
-  - 'bass player'
   - 'bass'
-  - 'bassist'
-  - 'case study'
-  - 'dan ecclestone'
-  - 'gerald duchene'
-  - 'independent music'
-  - 'indie'
+  - 'indie artist'
   - 'music release'
   - 'usa'
+  - 'work'
 description: "I’m happy Gerald Duchene asked me to record a bass track for this beautiful song. It’s my second collaboration with his project, Antiquity Sessions."
 featimage: true
 thumbOnly: true

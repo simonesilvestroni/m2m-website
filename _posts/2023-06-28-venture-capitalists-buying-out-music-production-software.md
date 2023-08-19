@@ -3,10 +3,10 @@ title: Venture capitalists buying out music production software
 date: '2023-06-28 09:31:25'
 last_modified_at: '2023-06-28 09:31:28'
 tags:
-  - 'audio software'
-  - 'capitalism'
-  - 'music industry'
+  - 'music'
   - 'music production'
+  - 'software'
+  - 'sustainability'
 description: 'A video by Benn Jordan made me realise how little respect I hold for the idea that growth is a given, in this capitalist world I live in.'
 ---
 {% include pattern-video.html id="b_Aq3pCtsZo" %}

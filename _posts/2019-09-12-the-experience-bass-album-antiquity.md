@@ -3,20 +3,13 @@ title: 'Bass for ‘The Evil Between Us’ by Antiquity'
 date: '2019-09-12'
 last_modified_at: '2023-05-23 18:19:01'
 tags:
-  - 'alternative rock'
-  - 'antiquity'
+  - 'indie artist'
   - 'bandcamp'
-  - 'bass player'
   - 'bass'
-  - 'bassist'
-  - 'case study'
-  - 'dan ecclestone'
-  - 'gerald duchene'
-  - 'independent music'
-  - 'indie'
-  - 'logic pro'
+  - 'indie artist'
   - 'music release'
   - 'usa'
+  - 'work'
 description: "‘The Experience’ is the new concept album by Antiquity. Vocals by Dan Ecclestone, bass by Minutes to Midnight."
 featimage: true
 thumbOnly: true

@@ -3,8 +3,6 @@ title: The Atlantic on Social Media
 date: '2023-07-08 17:47:06'
 last_modified_at: '2023-07-08 17:47:08'
 tags:
-  - 'facebook'
-  - 'instagram'
   - 'internet'
   - 'personal'
   - 'social media'

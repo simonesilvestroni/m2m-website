@@ -3,20 +3,13 @@ title: 'Bass for ‘The Evil Between Us’ by Antiquity'
 date: '2020-01-30'
 last_modified_at: '2023-05-23 18:13:13'
 tags:
-  - 'alternative rock'
-  - 'antiquity'
+  - 'indie artist'
   - 'bandcamp'
-  - 'bass player'
   - 'bass'
-  - 'bassist'
-  - 'case study'
-  - 'dan ecclestone'
-  - 'gerald duchene'
-  - 'independent music'
-  - 'indie'
-  - 'logic pro'
+  - 'indie artist'
   - 'music release'
   - 'usa'
+  - 'work'
 description: "‘In Our Dreams’ is the new single by Gerald Duchene. Vocals by Dan Ecclestone, bass by Minutes to Midnight."
 featimage: true
 thumbOnly: true

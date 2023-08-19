@@ -3,9 +3,6 @@ title: Back to the UK
 date: '2023-06-22 14:37:20'
 last_modified_at: '2023-06-22 14:37:22'
 tags:
-  - 'england'
-  - 'great britain'
-  - 'london'
   - 'personal'
   - 'uk'
 description: 'Personal considerations about what it meant visiting the UK, almost three years after my wife and I left the country.'

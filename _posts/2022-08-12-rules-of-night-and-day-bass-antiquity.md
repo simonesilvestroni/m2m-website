@@ -3,20 +3,14 @@ title: Bass for ‘The Rules Of Night And Day’ by Antiquity
 date: '2022-08-12'
 last_modified_at: '2023-05-23 16:17:36'
 tags:
-  - 'alternative rock'
-  - 'antiquity'
+  - 'indie artist'
   - 'bandcamp'
-  - 'bass player'
   - 'bass'
-  - 'bassist'
-  - 'case study'
-  - 'dan ecclestone'
-  - 'gerald duchene'
-  - 'independent music'
-  - 'indie'
+  - 'indie artist'
   - 'music release'
   - 'reaper'
   - 'usa'
+  - 'work'
 featimage: true
 thumbOnly: true
 description: 'The new single released by Antiquity, featuring the guitar work of Angelo Zarra and my bass.'

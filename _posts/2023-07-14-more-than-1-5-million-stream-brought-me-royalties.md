@@ -3,11 +3,10 @@ title: More than 1,5 million streams brought me royalties
 date: '2023-07-14 11:11:02'
 last_modified_at: '2023-07-14 11:11:04'
 tags:
-  - 'independent music'
-  - 'indie'
+  - 'indie artist'
+  - 'internet'
   - 'music release'
   - 'personal'
-  - 'streaming'
 description: 'After receiving an unexpected royalty payment today, I’ve been reflecting about the music industry, again.'
 syndication: true
 syndicate:

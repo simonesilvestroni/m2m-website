@@ -3,16 +3,13 @@ title: 'Tom the Tow Truck cartoon'
 date: '2020-04-20'
 last_modified_at: '2021-12-16 13:53:59'
 tags:
-  - 'cartoon'
-  - 'case study'
-  - 'editing'
+  - 'audio editing'
   - 'foley'
-  - 'logic pro'
   - 'master'
   - 'mix'
   - 'post-production'
   - 'sound design'
-  - 'sound effects'
+  - 'work'
 description: "Sound effects, dialogue and music sync for the acclaimed show ‘Tom the Tow Truck’, part of the Car City series by Paris-based Amuse."
 featimage: true
 thumbOnly: true

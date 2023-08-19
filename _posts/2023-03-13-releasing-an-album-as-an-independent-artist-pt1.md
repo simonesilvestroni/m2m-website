@@ -4,15 +4,13 @@ date: '2023-03-13 14:57:56'
 last_modified_at: '2023-03-13 14:57:59'
 tags:
   - 'featured'
-  - 'independent music'
-  - 'indie'
-  - 'music marketing'
+  - 'indie artist'
+  - 'internet'
+  - 'music'
   - 'music production'
   - 'music release'
   - 'personal'
-  - 'promotion'
   - 'social media'
-  - 'streaming'
 description: 'Three and a half years later, an analysis on how releasing my debut concept album had informed my journey as a person more than as an indie artist.'
 syndication: true
 syndicate:

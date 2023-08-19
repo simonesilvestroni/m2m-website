@@ -3,17 +3,14 @@ title: Co-production of ‘Funky Bacterium’ by Antiquity
 date: '2021-07-02'
 last_modified_at: '2023-05-23 16:38:08'
 tags:
-  - 'alternative rock'
-  - 'antiquity'
+  - 'indie artist'
   - 'bandcamp'
-  - 'case study'
-  - 'gerald duchene'
-  - 'independent music'
-  - 'indie'
+  - 'indie artist'
   - 'music production'
   - 'music release'
   - 'reaper'
   - 'usa'
+  - 'work'
 featimage: true
 thumbOnly: true
 description: 'Written during the ‘great pandemic of 2020’, this song is about the madness of the times. Loud, in your face, at a 100mph.'

@@ -3,20 +3,14 @@ title: '‘Shelter From A Storm’ by Antiquity'
 date: '2021-02-12'
 last_modified_at: '2023-05-23 17:19:27'
 tags:
-  - 'alternative rock'
-  - 'antiquity'
+  - 'indie artist'
   - 'bandcamp'
-  - 'bass player'
   - 'bass'
-  - 'bassist'
-  - 'case study'
-  - 'gerald duchene'
-  - 'independent music'
-  - 'indie'
-  - 'logic pro'
+  - 'indie artist'
   - 'music production'
   - 'music release'
   - 'usa'
+  - 'work'
 description: "The new single by Antiquity, ‘Shelter From A Storm’ is my new bass recording and co-production, together with Gerald Duchene."
 featimage: true
 thumbOnly: true

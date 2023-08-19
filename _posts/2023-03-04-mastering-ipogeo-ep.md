@@ -3,16 +3,13 @@ title: 'Mastering Ipogeo by IsadoraD'
 date: '2023-03-04 17:29:59'
 last_modified_at: '2023-03-04 17:30:04'
 tags: 
-  - 'audio software'
-  - 'case study'
-  - 'cockos'
-  - 'daw'
-  - 'editing'
-  - 'emilio albertoni'
+  - 'audio editing'
+  - 'indie artist'
   - 'master'
   - 'music production'
   - 'reaper'
-  - 'stem mastering'
+  - 'software'
+  - 'work'
 description: "Using the subprojects feature in Reaper, I mastered the debut EP for IsadoraD, an Italian duo. They blend electronica, pop and indie."
 featimage: true
 thumbOnly: true

@@ -4,11 +4,7 @@ date: '2022-12-21 01:05:18'
 last_modified_at: '2022-12-21 01:05:21'
 tags:
   - 'android'
-  - 'macos'
-  - 'syncthing'
-  - 'technology'
-  - 'windows'
-  - 'xiaomi'
+  - 'software'
 description: "I'm finding myself eerily happy with the technology I’ve been using, while staying outside digital ecosystems."
 ---
 I’ve been having interesting discussions on Mastodon recently about whether a tech stack is satisfactory or if better solutions lie ahead. By _tech stack_ I mean computer, software, mobile phone, operating systems, data sync and how easy is to manage the relationship between these parts.

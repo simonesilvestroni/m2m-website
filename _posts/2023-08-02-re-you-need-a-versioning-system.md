@@ -1,12 +1,12 @@
 ---
-title: 'Re: You need a versioning system'
+title: 'Reply: You need a versioning system'
 date: '2023-08-02 15:19:54'
 last_modified_at: '2023-08-02 15:19:56'
 tags:
-  - 'backup'
-  - 'daw'
   - 'music production'
   - 'reaper'
+  - 'software'
+  - 'workflow'
 description: 'A quick reply to the excellent post by Jamie Hill about the need of a strict versioning system for people who work in music (on the computer).'
 ---
 Jamie [argues for a backup system](https://jamieslist.deptofenergymgmt.com/p/you-need-a-versioning-system), and rightly so. Although his post outlines the exact same manual, effective, simple methodology I'd been using for many years, I felt compelled to write down a reply with my current procedure. Disclaimer: while Jamie uses Pro Tools, his way can be indeed applied to every <abbr title="Digital Audio Workstation">DAW</abbr>, while mine is exclusively related to <abbr title="Rapid Environment for Audio Production, Engineering and Recording">REAPER</abbr>. Two years after my [switch from Pro Tools]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/), I keep finding improvements to my workflow, and this is one of them. What I'm currently doing to save multiple progressive versions of my work: 
