@@ -12,30 +12,44 @@ permalink: '/sitemap/'
 {%- assign sorted_blog = site.documents | where:"layout", "post" | sort: 'date' | reverse -%}
 
 <h2>Pages</h2>
-<ul class="list-hr-group">
-  <li>
-    <a href="{{ site.url }}">Homepage</a><br>
-    <span class="dim small"><em>Updated</em>: <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%-d %B %Y" }}</time></span>
-  </li>
-  {%- for page in allpages %}
-  {%- unless page.sitemap == false %}
-  <li>
-    <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a><br>
-    <span class="dim small"><em>Updated</em>: <time datetime="{%- if page.title == 'Sitemap' %}{{ site.time | date_to_xmlschema }}{% else %}{{ page.last_modified_at | date_to_xmlschema }}{% endif -%}">{%- if page.title == 'Sitemap' %}{{ site.time | date: "%-d %B %Y" }}{% else %}{{ page.last_modified_at | date: "%-d %B %Y" }}{% endif -%}</time></span>
-  </li>
-  {%- endunless -%}
-  {% endfor -%}
-</ul>
+<table class="table-feed h-feed">
+  <thead class="visually-hidden">
+    <tr>
+      <th>Title</th>
+      <th>Last update</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="{{ site.url }}">Homepage</a></td>
+      <td><time class="dim" datetime="{{ site.time | date_to_xmlschema }}" title="Last update">{{ site.time | date: "%-d %b %Y" }}</time></td>
+    </tr>
+    {%- for page in allpages %}{%- unless page.sitemap == false %}
+    <tr>
+      <td><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></td>
+      <td><time class="dim" datetime="{%- if page.title == 'Sitemap' %}{{ site.time | date_to_xmlschema }}{% else %}{{ page.last_modified_at | date_to_xmlschema }}{% endif -%}" title="Last update">{%- if page.title == 'Sitemap' %}{{ site.time | date: "%-d %b %Y" }}{% else %}{{ page.last_modified_at | date: "%-d %b %Y" }}{% endif -%}</time></td>
+    </tr>
+    {%- endunless -%}{% endfor -%}
+  </tbody>
+</table>
 
 <h2>Posts</h2>
-<ul class="list-hr-group">
-  {%- for post in sorted_blog %}
-  <li>
-    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "work" %}&nbsp;&nbsp;<mark class="small"><strong>CASE&nbsp;STUDY</strong></mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small"><strong>FEATURED</strong></mark>{% endif %}<br>
-    <time class="dt-published small dim" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time>
-  </li>
-  {%- endfor -%}
-</ul>
+<table class="table-feed h-feed">
+  <thead class="visually-hidden">
+    <tr>
+      <th>Title</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    {%- for post in sorted_blog %}
+    <tr>
+      <td><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "work" %}&nbsp;&nbsp;<mark class="small">WORK</mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small">FAVOURITE</mark>{% endif %}</td>
+      <td><time class="dt-published dim" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %b %Y" }}</time></td>
+    </tr>
+    {% endfor -%}
+  </tbody>
+</table>
 
 <h2>Tags <sup>({{ site.tags | size }})</sup></h2>
 <ul class="list-inline">

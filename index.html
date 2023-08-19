@@ -13,7 +13,7 @@ last_modified_at: '2023-05-09 19:19:28'
 </article>
 <aside>
   <h2>Latest posts</h2>
-  <table class="table-feed">
+  <table class="table-feed h-feed">
     <thead class="visually-hidden">
       <tr>
         <th>Title</th>
@@ -24,7 +24,7 @@ last_modified_at: '2023-05-09 19:19:28'
       {% for post in site.posts limit:8 %}
       <tr>
         <td><a href="{{ post.url }}">{{ post.title }}</a></td>
-        <td>{{ post.date | date: "%-d %b %Y" }}</td>
+        <td><time class="dim" datetime="{{ post.date | date: "%-d %b %Y" }}">{{ post.date | date: "%-d %b %Y" }}</time></td>
       </tr>
       {% endfor %}
     </tbody>
