@@ -23,15 +23,11 @@ Started at 16 as a bassist, and later exploring design and programming jobs as a
   {% endfor %}
 </aside>
 
-<br>
-
 **Quick facts**
 : First name is pronounced `see-mow-nay`.
 : Gen-X born in Italy, I moved to the UK in 2011, enjoying the process of integrating with a different culture.
 : My favourite bass player is Andy Rourke.
 : The moniker _Minutes to Midnight_ [does not come from Iron Maiden]({{ site.url }}/about/name-and-logo/).
-
-<br>
 
 **Work**
 : Graduated in 1995 (bass and music theory) at the _CPM Music Institute_ in Milan.
@@ -45,13 +41,9 @@ Started at 16 as a bassist, and later exploring design and programming jobs as a
 
 *[GDC]: Game Developer Conference
 
-<br>
-
 **People**
 : I've been working with companies, artists and professionals in Europe, the UK and the United States, including: Gerald Duchene, Dan Ecclestone, Rachel Goodman, Mally Harpaz (Anna Calvi), Ciara Clifford, Callum Gardner, Martin Wykes, renowned master engineer [Ian Shepherd](https://productionadvice.co.uk/about/), and _SoundOnSound_'s [editor in chief Sam Inglis](https://www.soundonsound.com/author/sam-inglis).
 : Endorsed&nbsp;by [Leland Sklar and others](/work/endorsements/).
-
-<br>
 
 **Tools**
 : Apple certified for Logic Pro X, I switched to [Pro Tools](/blog/tag/pro-tools/), and later [REAPER](/blog/tag/reaper/).
