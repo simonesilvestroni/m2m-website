@@ -2,7 +2,7 @@
 layout: page
 title: 'About'
 date: '2022-01-14'
-last_modified_at: '2023-07-19 20:21:55'
+last_modified_at: '2023-08-19 14:01:23'
 description: 'I’m Simone (he/him), a straight to the point person with a major interest in sound design, music, and programming.'
 permalink: '/about/'
 featimage: true

@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 date: '2021-11-08'
-last_modified_at: '2023-05-19 23:41:20'
+last_modified_at: '2023-08-19 14:01:37'
 description: 'Reaching out via email is always the best way to get in touch.'
 tldr: false
 permalink: '/contact/'
