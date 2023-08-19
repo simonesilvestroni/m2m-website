@@ -2,7 +2,7 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2023-07-13 13:24:02'
+last_modified_at: '2023-08-17 15:50:24'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
 permalink: '/uses/'
 ---
@@ -88,7 +88,7 @@ permalink: '/uses/'
 : [Microsoft’s XACT for Xbox]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/#xbox)
 : In-house [Wazábe editor and middleware]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/)
 
-**Audio-video**
+**Audio & video**
 : [Swinsian](http://www.swinsian.com)
 : [IINA](https://iina.io/) video player
 : VLC
@@ -105,8 +105,8 @@ permalink: '/uses/'
 **Text editors**
 : Sublime Text 4 ([read why](https://tonsky.me/blog/sublime/))
 : iA Writer
-: Obsidian
 : Typora
+: Obsidian
 : Visual Studio Code (for `C#` Unity projects)
 
 **Browser & Email**
@@ -122,16 +122,17 @@ permalink: '/uses/'
 
 **Reading**
 : Feedbin
+: Pocket
 : NetNewsWire 6 ([read why](https://inessential.com/2023/02/20/on_not_taking_money_for_netnewswire))
 : Kobo Glo
 : Calibre
 
 **Management**
-: [Todo.txt methodology](https://github.com/todotxt) using Markdown with iA Writer
+: [Todo.txt methodology](https://github.com/todotxt) using iA Writer
 : [Syncthing](https://syncthing.net/)
 : Alfred 5
-: Dropbox in the browser
 : Transmit
+: Commander One
 : Carbon Copy Cloner
 
 {: .notice .cta }

@@ -6,22 +6,33 @@ last_modified_at: '2023-05-18 15:46:13'
 description: 'I’ve been running an online journal, on and off, since March 2002. For fifteen years, it was published on another domain.'
 permalink: /blog/
 ---
-<div class="warning">
-	<h2>Featured posts</h2>
-	<ul class="list-hr-group">
-		{% assign featured = site.posts | where_exp:'post','post.tags contains "featured"' %}
+<h2>Featured posts</h2>
+{% assign featured = site.posts | where_exp:'post','post.tags contains "featured"' %}
+<table class="table-feed">
+	<thead class="visually-hidden">
+		<tr>
+			<th>Title</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
 		{% for post in featured %}
-		<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+		<tr>
+			<td><a href="{{ post.url }}">{{ post.title }}</a></td>
+			<td>{{ post.date | date: "%-d %b %Y" }}</td>
+		</tr>
 		{% endfor %}
-	</ul>
-</div>
+	</tbody>
+</table>
+
 <div class="h-feed">
+	<h2>All posts</h2>
 	{%- for post in site.posts %}
 	{%- if post -%}{% assign date = post.date %}
 	{%- elsif page -%}{% assign date = page.date %}
 	{%- endif -%}
 	<h3>
-		<a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark class="small"><strong>CASE&nbsp;STUDY</strong></mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small"><strong>FEATURED</strong></mark>{% endif %}
+		<a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "work" %}&nbsp;&nbsp;<mark class="small"><strong>CASE&nbsp;STUDY</strong></mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small"><strong>FEATURED</strong></mark>{% endif %}
 	</h3>
 	<p class="dim"><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated"><em>{{ date | date: "%-d %B %Y" }}</em></time></p>
 	<p class="p-summary">{{ post.description }}</p>

@@ -10,6 +10,6 @@ permalink: '/work/'
 {: .p-summary .post-tldr }
 I love telling stories with sound. Having both creative and technical skills, I can establish an empathetic connection with artists and programmers alike.
 
-{% assign caseStudies = site.posts | where_exp:'post','post.tags contains "case study"' | sort: date | reverse %}
+{% assign caseStudies = site.posts | where_exp:'post','post.tags contains "work"' | sort: date | reverse %}
 {% include pattern-work-filter.html %}
 {% include pattern-casestudy.html %}

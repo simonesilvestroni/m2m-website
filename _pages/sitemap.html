@@ -31,17 +31,19 @@ permalink: '/sitemap/'
 <ul class="list-hr-group">
   {%- for post in sorted_blog %}
   <li>
-    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "case study" %}&nbsp;&nbsp;<mark class="small"><strong>CASE&nbsp;STUDY</strong></mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small"><strong>FEATURED</strong></mark>{% endif %}<br>
+    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "work" %}&nbsp;&nbsp;<mark class="small"><strong>CASE&nbsp;STUDY</strong></mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small"><strong>FEATURED</strong></mark>{% endif %}<br>
     <time class="dt-published small dim" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %B %Y" }}</time>
   </li>
   {%- endfor -%}
 </ul>
 
 <h2>Tags <sup>({{ site.tags | size }})</sup></h2>
-<div>
+<ul class="list-inline">
 {%- assign sorted_tags = site.tags | sort -%}
 {%- for tag in sorted_tags -%}
 {%- assign t = tag | first %}
-  <a class="button" href="{{ site.url }}/blog/tag/{{ t | slugify }}/">{{ t | upcase }}</a>
+  <li>
+    <a href="{{ site.url }}/blog/tag/{{ t | slugify }}/">{{ t | upcase }}</a>
+  </li>
 {%- endfor %}
-</div>
+</ul>
