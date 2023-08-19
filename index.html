@@ -11,11 +11,22 @@ last_modified_at: '2023-05-09 19:19:28'
   </p>
   <p class="e-content">{{ site.aboutlong }}</p>
 </article>
-<aside class="warning">
+<aside>
   <h2>Latest posts</h2>
-  <ul class="list-hr-group">
-  {% for post in site.posts limit:8 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-  </ul>
+  <table class="table-feed">
+    <thead class="visually-hidden">
+      <tr>
+        <th>Title</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for post in site.posts limit:8 %}
+      <tr>
+        <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+        <td>{{ post.date | date: "%-d %b %Y" }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
 </aside>
