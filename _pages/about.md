@@ -36,9 +36,12 @@ Started at 16 as a bassist, later exploring design and programming jobs as a sou
 {: .list-hr }
 - Graduated in 1995 (bass and music theory) at the _CPM Music Institute_ in Milan.
 - Throughout the 1990s, I acquired audio skills in music studios, freelancing as a [bass player](/blog/tag/bass/). Later, I specialised in [mix](/blog/tag/mix/) and [master](/blog/tag/master/).
+- Worked as a desktop publishing specialist from the early Nineties to the mid 2000s. It turned out to be a gate towards honing a [parallel career in web design](https://simonesilvestroni.com), first in Italy then the UK.
 - I was hired at the end of 1999 as a [sound designer](/blog/tag/sound-design/) for video games, to me the ultimate audio-visual narrative medium.
 - Participated to the 2002 GDC in San Jose, where I joined the [Game Audio Guild Network](/work/sound-design/ruff-trigger-playstation2-game/#game-developer-conference-and-gang) on the day of its foundation.
 - Graduated in 2017 at the _Berklee College of Music_ (audio mastering and music production).
+- As a composer, I released songs as [thematic collections](/work/music/) where a personal narration is at the forefront.
+- Wrote an ebook about [project management in the music industry](/blog/project-management/).
 
 *[GDC]: Game Developer Conference
 
@@ -53,13 +56,6 @@ Started at 16 as a bassist, later exploring design and programming jobs as a sou
 
 {: .list-hr }
 - Apple certified for Logic Pro X, I transitioned to [Pro Tools](/blog/tag/pro-tools/), and later [REAPER](/blog/tag/reaper/).
-- My go-to for audio editing is iZotope RX, especially for field recording, Foley, audio clean-up, and manipulation.
 - Audiokinetic Wwise is my preferred [game audio](/blog/tag/game-audio/) middleware.
-- Check out my [hardware/software equipment](/uses/).
-
-### Side projects
-
-{: .list-hr }
-- As a composer, I released songs as [thematic collections](/work/music/) where a personal narration is at the forefront.
-- I wrote an ebook about [project management in the music industry](/blog/project-management/).
-- I'd been working as a desktop publishing specialist from the early Nineties to the mid 2000s. It turned out to be a gate towards honing a [parallel career in web design](https://simonesilvestroni.com), first in Italy then the UK.
+- Field recording, Foley, audio editing and restoration are done with iZotope RX.
+- Here's a list of my [hardware/software equipment](/uses/).
