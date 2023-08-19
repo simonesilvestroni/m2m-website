@@ -13,7 +13,7 @@ featimage-height: 455
 ---
 I try to listen to people and be open to new ideas. Disagreeing with a society that's oblivious of its unsustainability, I wrote a personal [manifesto of some of the principles I live by](/personal-manifesto/).
 
-Started at 16 as a bassist, and later exploring design and programming jobs as a source of income, I made a career out of _each passion of mine_. Being able to competently juggle between different disciplines creates a constant flow of curiosity and a desire for improvement. My main focus is **sound design**.
+Started at 16 as a bassist, and later exploring design and programming jobs as a source of income, I made a career out of _each passion of mine_. Being able to competently juggle between different disciplines creates a constant flow of curiosity, and a desire for improvement. My main focus is **sound design**.
 
 <aside>
   {% for endorsement in site.endorsements limit:1 %}
@@ -48,8 +48,7 @@ Started at 16 as a bassist, and later exploring design and programming jobs as a
 <br>
 
 **People**
-: I've been working with artists in Europe, and from each side of the Atlantic, including: Gerald Duchene, Dan Ecclestone, Rachel Goodman, Mally Harpaz (Anna Calvi), Ciara Clifford, Callum Gardner, Martin Wykes.
-: I often share projects with renowned master engineer [Ian Shepherd](https://productionadvice.co.uk/about/), and occasionally with _SoundOnSound_ [editor in chief Sam Inglis](https://www.soundonsound.com/author/sam-inglis).
+: I've been working with companies, artists and professionals in Europe, the UK and the United States, including: Gerald Duchene, Dan Ecclestone, Rachel Goodman, Mally Harpaz (Anna Calvi), Ciara Clifford, Callum Gardner, Martin Wykes, renowned master engineer [Ian Shepherd](https://productionadvice.co.uk/about/), and _SoundOnSound_'s [editor in chief Sam Inglis](https://www.soundonsound.com/author/sam-inglis).
 : Endorsed&nbsp;by [Leland Sklar and others](/work/endorsements/).
 
 <br>
