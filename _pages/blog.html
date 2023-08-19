@@ -7,7 +7,7 @@ description: 'I’ve been running an online journal, on and off, since March 200
 permalink: /blog/
 ---
 <aside>
-	<h2>Featured posts</h2>
+	<h2>Personal favourites</h2>
 	{% assign featured = site.posts | where_exp:'post','post.tags contains "featured"' %}
 	<table class="table-feed">
 		<thead class="visually-hidden">
@@ -34,7 +34,7 @@ permalink: /blog/
 	{%- elsif page -%}{% assign date = page.date %}
 	{%- endif -%}
 	<h3>
-		<a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "work" %}&nbsp;&nbsp;<mark class="small"><strong>CASE&nbsp;STUDY</strong></mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small"><strong>FEATURED</strong></mark>{% endif %}
+		<a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "work" %}&nbsp;&nbsp;<mark class="small"><strong>CASE&nbsp;STUDY</strong></mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small"><strong>FAVOURITE</strong></mark>{% endif %}
 	</h3>
 	<p class="dim"><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated"><em>{{ date | date: "%-d %B %Y" }}</em></time></p>
 	<p class="p-summary">{{ post.description }}</p>
