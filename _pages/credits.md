@@ -2,7 +2,7 @@
 layout: page
 title: 'Credits'
 date: '2023-01-14 13:49:31'
-last_modified_at: '2023-08-19 14:01:46'
+last_modified_at: '2023-08-19 20:42:46'
 description: 'All about this website: tools, benchmarks, a note about copyright and a thank you to people that inspired me.'
 tldr: false
 permalink: '/credits/'
@@ -44,7 +44,7 @@ An unordered list of people who inspired improvements and helped me find a bette
 ### Visual
 
 - SVGs for logos and icons
-- System stacks typography, using Helvetica Neue with a `system-ui` fallback, and Georgia.
+- System stacks typography, using Avenir for headings, and Georgia for blockquotes.
 
 ### Site sustainability
 
