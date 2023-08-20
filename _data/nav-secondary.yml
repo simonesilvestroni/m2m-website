@@ -16,7 +16,7 @@ menu:
     desc: 'All about the website'
   - name: Search
     link: /search/
-    desc: 'Instant-result search with an accessible fallback'
+    desc: 'Accessible search through DuckDuckGoo'
   - name: RSS
     link: /feed.xml
     desc: 'RSS feed'
