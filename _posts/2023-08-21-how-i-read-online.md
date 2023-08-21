@@ -1,7 +1,7 @@
 ---
 title: Reading online
-date: '2023-08-21 19:07:44'
-last_modified_at: '2023-08-21 19:07:49'
+date: '2023-08-21 10:54:37'
+last_modified_at: '2023-08-21 10:54:41'
 tags:
   - 'degrowth'
   - 'internet'
