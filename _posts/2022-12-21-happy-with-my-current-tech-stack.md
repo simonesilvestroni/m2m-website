@@ -15,7 +15,7 @@ I've been following [degrowth]({{ site.url }}/blog/degrowth/) principles, slowly
 
 I'm running macOS 10.14 Mojave on a 2015 MacBook Pro that Apple stopped supporting after macOS 12 Monterey. In the unlikely event that I move to that release, it'd be up to date enough to get security patches for a while.
 
-I need Windows for game audio, so a dual boot on the internal SSD allows a dual boot on the same machine.
+I need Windows for game audio, so a dual boot on the internal SSD allows both systems to co-exist.
 
 ## Phone
 
@@ -35,7 +35,7 @@ Having a dual-boot Mac laptop and an Android phone means running devices that ar
 
 I'm old enough to remember a time where we all used Nokia phones, which required manual synchronization. By using the [open source Syncthing](https://syncthing.net/), I'm doing the same but with a simplifying twist. It really takes almost nothing to keep my devices in sync, especially since Mailbox.org offers DAV services for address books and calendars.
 
-Syncthing lets me seamlessly move data between my different devices without going through Google, Dropbox, Microsoft of Apple.
+Syncthing lets me seamlessly move data between my different devices without going through Google, Dropbox, Microsoft or Apple.
 
 ## Ethics
 
