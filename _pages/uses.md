@@ -2,7 +2,7 @@
 layout: page
 title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2023-08-17 15:50:24'
+last_modified_at: '2023-08-21 12:00:01'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
 permalink: '/uses/'
 ---
@@ -106,7 +106,6 @@ permalink: '/uses/'
 : Sublime Text 4 ([read why](https://tonsky.me/blog/sublime/))
 : iA Writer
 : Typora
-: Obsidian
 : Visual Studio Code (for `C#` Unity projects)
 
 **Browser & Email**
