@@ -4,14 +4,17 @@ title: Sitemap
 date: '2023-03-31 12:22:58'
 last_modified_at: '2023-08-19 14:00:38'
 description: 'A full map of the website, including pages, posts, and tags.'
+tldr: false
 permalink: '/sitemap/'
 ---
+A full map of the website, including <a href="#pages">pages</a>, <a href="#posts">posts</a>, and <a href="#tags">tags</a>.
+
 {%- assign pages = site.pages | where:"layout", "page" -%}
 {%- assign blogpage = site.pages | where:"layout", "blog"  -%}
 {%- assign allpages = pages | concat: blogpage | sort: 'title' -%}
 {%- assign sorted_blog = site.documents | where:"layout", "post" | sort: 'date' | reverse -%}
 
-<h2>Pages</h2>
+<h2 id="pages">Pages</h2>
 <table class="table-feed h-feed">
   <thead class="visually-hidden">
     <tr>
@@ -33,7 +36,7 @@ permalink: '/sitemap/'
   </tbody>
 </table>
 
-<h2>Posts</h2>
+<h2 id="posts">Posts</h2>
 <table class="table-feed h-feed">
   <thead class="visually-hidden">
     <tr>
@@ -51,7 +54,7 @@ permalink: '/sitemap/'
   </tbody>
 </table>
 
-<h2>Tags <sup>({{ site.tags | size }})</sup></h2>
+<h2 id="tags">Tags <sup>({{ site.tags | size }})</sup></h2>
 <ul class="list-inline">
 {%- assign sorted_tags = site.tags | sort -%}
 {%- for tag in sorted_tags -%}
