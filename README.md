@@ -37,7 +37,7 @@ An unordered list of people who inspired improvements and helped me find a bette
 ### Visual
 
 - SVGs for logos and icons
-- System stacks typography, using Avenir for headings, and Georgia for blockquotes.
+- System stacks typography, using Avenir for headings and interactive elements, with Source Sans Serif for the content (Georgia as a fallback).
 
 ### Site sustainability
 
@@ -55,7 +55,7 @@ An unordered list of people who inspired improvements and helped me find a bette
 
 ## Privacy
 
-I don't collect personal data, there is no analytics software, no ads or affiliate links, tracking scripts, pop-ups or modal windows. A [content security policy](https://securityheaders.com/?q=https%3A%2F%2Fminutestomidnight.co.uk%2F) is in place.
+[I don't collect personal data](https://themarkup.org/blacklight?url=minutestomidnight.co.uk), there is no analytics software, no ads or affiliate links, tracking scripts, pop-ups or modal windows. A [content security policy](https://securityheaders.com/?q=https%3A%2F%2Fminutestomidnight.co.uk%2F) is in place.
 
 ## Copyright
 

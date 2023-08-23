@@ -44,7 +44,7 @@ An unordered list of people who inspired improvements and helped me find a bette
 ### Visual
 
 - SVGs for logos and icons
-- System stacks typography, using Avenir for headings, and Georgia for blockquotes.
+- System stacks typography, using Avenir for headings and interactive elements, with Source Sans Serif for the content (Georgia as a fallback).
 
 ### Site sustainability
 
