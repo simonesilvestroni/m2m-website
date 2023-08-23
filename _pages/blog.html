@@ -40,8 +40,8 @@ permalink: /blog/
 	<h3>
 		<a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "work" %}&nbsp;&nbsp;<mark class="small">WORK</mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small">FAVOURITE</mark>{% endif %}
 	</h3>
-	<p class="dim"><time class="dt-published" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated"><em>{{ date | date: "%-d %B %Y" }}</em></time></p>
+	<time class="dt-published dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated"><em>{{ date | date: "%-d %b %Y" }}</em></time>
 	<p class="p-summary">{{ post.description }}</p>
-	<hr>
+	<br>
 	{% endfor %}
 </div>
