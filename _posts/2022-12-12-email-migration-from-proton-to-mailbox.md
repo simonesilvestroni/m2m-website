@@ -6,7 +6,7 @@ tags:
   - 'internet'
   - 'personal'
   - 'software'
-description: 'How I moved my entire email, calendar and contacts ‘ecosystem’ from Proton to Mailbox. On both desktop and mobile.'
+description: 'How I moved email, calendar and contacts from Proton to Mailbox, on both desktop and mobile.'
 ---
 The reason for embarking on such a task has a very short answer. When I chose Proton years ago, I wasn’t bothered by the feeling of being trapped in a walled garden. Now I am.
 

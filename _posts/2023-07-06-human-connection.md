@@ -6,7 +6,7 @@ tags:
   - 'internet'
   - 'personal'
 tldr: false
-description: 'Taking time off my day to reach out to strangers who did something nice to me on the internet.'
+description: 'Taking time off my day to reach out to strangers who were kind to me on the internet.'
 syndication: true
 syndicate:
   - name: IndieNews

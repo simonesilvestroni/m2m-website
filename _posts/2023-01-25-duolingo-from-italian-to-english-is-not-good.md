@@ -5,7 +5,7 @@ last_modified_at: '2023-01-25 10:18:40'
 tags:
   - 'personal'
   - 'software'
-description: "Since I wanted to review my English after two years away from the UK, I chose Duolingo. It hasn't been a good experience."
+description: "Since I wanted to review my English after two years away from the UK, I chose Duolingo. It's been a bad experience."
 ---
 I’ve been using Duolingo to study German (from English) for a while now, so using the same platform seemed natural. It didn't occur to me that I would be doing the course starting from Italian. 
 

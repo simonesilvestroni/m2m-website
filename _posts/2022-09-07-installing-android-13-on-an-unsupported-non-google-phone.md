@@ -5,7 +5,7 @@ last_modified_at: '2022-09-07 16:13:04'
 tags:
   - 'android'
   - 'sustainability'
-description: 'My recent experience with renewing an almost 4-year old Xiaomi mobile phone replacing the native operating system MIUI with the newest Android 13.'
+description: 'My recent experience with renewing an almost 4-year old Xiaomi mobile phone, replacing its native operating system with the newest Android 13.'
 ---
 I paid my Redmi Note 7 mobile phone around `£130`. First and foremost, I strongly hate [planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence), along with its consequent reckless environmental abuse. Other than money and greed, there’s not a single rational reason behind releasing new phones every year, especially models that can’t be repaired.
 

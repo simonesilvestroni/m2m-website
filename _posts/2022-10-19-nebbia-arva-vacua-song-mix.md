@@ -10,7 +10,7 @@ tags:
   - 'pro tools'
   - 'italy'
   - 'work'
-description: '‘Tales from holographic seas’, for which I mixed a song, is officially out now.'
+description: '‘Tales from holographic seas’, for which I mixed a song, is out now.'
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/nebbia-arva-vacua-song-mix/
