@@ -12,7 +12,7 @@ last_modified_at: '2023-05-09 19:19:28'
   <p class="e-content">{{ site.aboutlong }}</p>
 </article>
 <aside>
-  <h2>Latest posts</h2>
+  <h2>Recent posts</h2>
   <table class="table-feed h-feed">
     <thead class="visually-hidden">
       <tr>
@@ -21,13 +21,16 @@ last_modified_at: '2023-05-09 19:19:28'
       </tr>
     </thead>
     <tbody>
-      {% for post in site.posts limit:8 %}
+      {% for post in site.posts limit:6 %}
       <tr>
         <td><a href="{{ post.url }}">{{ post.title }}</a></td>
-        <td><time class="dim" datetime="{{ post.date | date: "%-d %b %Y" }}">{{ post.date | date: "%-d %b %Y" }}</time></td>
+        <td><time class="dim" datetime="{{ post.date | date: "%-d %b %Y" }}">{{ post.date | date: "%-d %b" }}</time></td>
       </tr>
       {% endfor %}
+      <tr>
+        <td><a class="cta" href="{{ site.url }}/blog/"><span>All posts</span> →</a></td>
+        <td></td>
+      </tr>
     </tbody>
   </table>
-  <p class="cta"><a href="{{ site.url }}/blog/"><span>ALL POSTS</span> →</a></p>
 </aside>
