@@ -87,7 +87,7 @@ Similarly, a business model based on subscriptions doesn't get my money.
 
 ## Planned obsolescence
 
-All the aforementioned methods are used by their creators to induce [planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence) and bring people to spend more money. A progressive increase in waste is one of the direct results. A sneaky aspect is the arbitrary cycle of upgrades, usually on an annual basis. Apple is likely the worst offender here. Not caring for it, I [downgraded my old laptop](/blog/degrowth/) to an operating system from 2018. It works very well, I have sufficient security updates and I avoid using the obsolete packages shipped with the <abbr title="Operating System">OS</abbr>.
+All the aforementioned methods are used by their creators to induce [planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence) and bring people to spend more money. A progressive increase in waste is one of the direct results. A sneaky aspect is the arbitrary cycle of upgrades, usually on an annual basis. Apple is likely the worst offender here. Since I care more about [degrowth]({{ site.url }}/blog/tag/degrowth/), I downgraded my old laptop to an operating system from 2018. It works very well, I have sufficient security updates and I avoid using the obsolete packages shipped with the <abbr title="Operating System">OS</abbr>.
 
 The same thing happens with my phone: old, cheap, and running the [latest Android with ease](/blog/installing-android-13-on-an-unsupported-non-google-phone/).
 
