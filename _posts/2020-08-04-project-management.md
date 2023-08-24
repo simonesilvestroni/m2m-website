@@ -15,4 +15,4 @@ featimage-height: 881
 ---
 My free ebook about project management in the music industry is based on a [real-life album production](/work/music-production/premonition-and-ruin/). No strings attached, the book is a `13.2 MB` PDF file.
 
-<a class="button" href="{{ site.url }}/assets/files/minutes-to-midnight_efficient-productivity-for-music-professionals.pdf"><span class="big">Download the free ebook</span></a>
+<a class="button" href="{{ site.url }}/assets/files/minutes-to-midnight_efficient-productivity-for-music-professionals.pdf"><span class="big">download the free ebook</span></a>
