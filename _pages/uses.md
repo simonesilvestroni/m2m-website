@@ -1,11 +1,15 @@
 ---
 layout: page
-title: 'Uses'
+title: 'Hardware and software I use'
 date: '2021-11-08 10:54:03'
 last_modified_at: '2023-08-21 12:00:01'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
+tldr: false
 permalink: '/uses/'
 ---
+{: .warning }
+This page is part of the [uses.tech](https://github.com/wesbos/awesome-uses) project
+
 **Workstation**
 : 2015 MacBook Pro i7, maxed out and upgraded, running macOS and Windows
 : 27-in Dell screen
