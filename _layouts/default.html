@@ -7,6 +7,7 @@
 {% if page.robots %}<meta name="robots" content="{{ page.robots }}, noai, noimageai">{% else %}<meta name="robots" content="index, follow, noai, noimageai">{% endif %}
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.aboutshort }}{% endif %}">
 <meta name="pinterest" content="nopin">
+<link rel="preload" href="/assets/fonts/sourceserifpro-regular-webfont.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 {% if jekyll.environment == "production" %}<link rel="stylesheet" href="{{ site.url }}/assets/css/m2m.min.css">{% else -%}<link rel="stylesheet" href="{{ site.url }}/assets/css/m2m.css">{% endif %}
 <link rel="canonical" href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url |  replace:'index.html','' | absolute_url }}{% endif %}">
 <link rel="webmention" href="https://webmention.io/minutestomidnight.co.uk/webmention">
