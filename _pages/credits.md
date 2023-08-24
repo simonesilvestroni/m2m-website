@@ -51,7 +51,7 @@ An unordered list of people who inspired improvements and helped me find a bette
 
 - The homepage loads in `0.4` seconds and weighs `28.8KB` (uncompressed)
 - The entire source code is `1.1MB`
-- `0.00g` of CO<sub>2</sub> [produced when someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/)
+- `0.02g` of CO<sub>2</sub> [produced when someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/)
 - Scores `100` on [Ecograder](https://ecograder.com/report/crccbrW1xmYgrNUdrNxEulBa)
 - Featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/)
 - The hosting is running on sustainable energy
