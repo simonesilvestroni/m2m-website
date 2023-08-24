@@ -16,7 +16,7 @@ Started at 16 as a bassist, I learned the craft of audio engineering as a studio
 <aside>
   {% for endorsement in site.endorsements limit:1 %}
   <blockquote>
-    <p>{{ endorsement.quote }}<cite><a href="{{ endorsement.url }}">{{ endorsement.name }}</a> &ndash; {{ endorsement.role }}</cite></p>
+    <p>{{ endorsement.quote }}<cite><a href="{{ endorsement.url }}">{{ endorsement.name }}</a> ({{ endorsement.role }})</cite></p>
   </blockquote>
   {% endfor %}
 </aside>
