@@ -7,9 +7,7 @@ description: 'All about this website: tools, benchmarks, a note about copyright 
 tldr: false
 permalink: '/credits/'
 ---
-Handcrafted by Simone Silvestroni.
-
-Daily maintenance and content updates are achieved through a mix of templates in Sublime Text, Typora and Alfred macros.
+Handcrafted by Simone Silvestroni. Maintenance and content updates are achieved through a mix of templates in Sublime Text, Typora and Alfred macros.
 
 ## Thanks
 
@@ -44,12 +42,15 @@ An unordered list of people who inspired improvements and helped me find a bette
 ### Visual
 
 - SVGs for logos and icons
-- System stacks typography, using Avenir for headings and interactive elements, with Source Sans Serif for the content (Georgia as a fallback).
+- Typography:
+  + [Geometric Humanist](https://github.com/system-fonts/modern-font-stacks#geometric-humanist) system stack for headings and various interactive elements.
+  + [Source Serif Pro](https://www.fontsquirrel.com/fonts/source-serif-pro) locally loaded custom web font for everything else, optimised to weigh as little as possible: `45KB` instead of `519KB` for three variants: regular, regular italic, bold. Georgia is used as a fallback.
+  + Courier system stack for everything monospaced.
 
 ### Site sustainability
 
-- The homepage loads in `0.4` seconds and weighs `28.8 KB` (uncompressed)
-- The entire source code is `1.1 MB`
+- The homepage loads in `0.4` seconds and weighs `28.8KB` (uncompressed)
+- The entire source code is `1.1MB`
 - `0.00g` of CO<sub>2</sub> [produced when someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/)
 - Scores `100` on [Ecograder](https://ecograder.com/report/crccbrW1xmYgrNUdrNxEulBa)
 - Featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/)
@@ -74,4 +75,4 @@ Photography &copy; [Silvia Maggi](https://silviamaggidesign.com).
 
 ## Trademark
 
-Minutes to Midnight&trade; is a registered trademark in the UK and worldwide. The logo, in all its variants is use trademark for the trading name of Simone Silvestroni.
+Minutes to Midnight&trade; is a registered trademark in the UK and worldwide. The logo, in all its variants, is use trademark for the trading name of Simone Silvestroni.
