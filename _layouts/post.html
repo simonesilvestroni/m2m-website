@@ -22,10 +22,6 @@ layout: default
   {% endunless -%}
   <div class="e-content">
     {{ content }}
-    <div class="post-meta warning">
-      <p><a href="mailto:hello@minutestomidnight.co.uk?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a> or use <a href="https://indieweb.org/Webmention">webmentions</a></p>
-      <p class="small">If you liked this, consider subscribing to the <a href="{{ site.url }}/feed.xml">full-text RSS feed</a>. That way, you’ll get notified whenever I post anything new.</p>
-    </div>
     <dl>
       <dt><strong>Related topics</strong></dt>
       {% for tag in page.tags -%}<dd class="tag"><a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase }}</a></dd>{%- endfor -%}
@@ -39,6 +35,10 @@ layout: default
       {% endfor %}
     </dl>
     {% endif %}
+    <div class="post-meta warning">
+      <p><a href="mailto:hello@minutestomidnight.co.uk?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a> or use <a href="https://indieweb.org/Webmention">webmentions</a></p>
+      <p class="small">If you liked this, consider subscribing to the <a href="{{ site.url }}/feed.xml">full-text RSS feed</a>. That way, you’ll get notified whenever I post anything new.</p>
+    </div>
   </div>
   {% include post-nav.html %}
 </article>
