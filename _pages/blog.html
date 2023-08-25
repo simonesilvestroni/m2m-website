@@ -23,7 +23,7 @@ permalink: /blog/
 	<details>
 		<summary>Personal favourites</summary>
 		{% assign featured = site.posts | where_exp:'post','post.tags contains "featured"' %}
-		<ul class="h-feed list-hr-group">
+		<ul class="h-feed list-hr">
 			{% for post in featured %}
 			<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 			{% endfor %}
