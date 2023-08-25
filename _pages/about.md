@@ -28,6 +28,7 @@ I try to listen to people and be open to new ideas. Disagreeing with a society t
 {: .list-hr }
 - Gen-X born in Italy. First name is pronounced `see-mow-nay`.
 - Graduated in 1995 (bass and music theory) at the _CPM Music Institute_ in Milan.
+- After moving to Milan I worked as a desktop publishing specialist, which proved to be a gateway to a [parallel career in web programming](https://simonesilvestroni.com).
 - I moved to the UK in 2011, enjoying the process of integrating with a different culture.
 - Graduated in 2017 at the _Berklee College of Music_ (audio mastering and music production).
 - My favourite bass player is Andy Rourke.
