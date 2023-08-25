@@ -11,7 +11,7 @@ During the 1990s, while acquiring audio skills, I freelanced as a [bass player](
 
 *[GDC]: Game Developer Conference
 
-After having specialised in [mix](/blog/tag/mix/) and [master](/blog/tag/master/), I wrote and released songs as [concept albums](/blog/tag/original-music/) focused on a personal narration. At the same time, working as a music producer, I self-published an ebook about [project management in the music industry](/blog/project-management/).
+After specialising in [mix](/blog/tag/mix/) and [master](/blog/tag/master/), I wrote and released songs as [concept albums](/blog/tag/original-music/) focused on a personal narration. While working as a music producer, I self-published an ebook about [project management in the music industry](/blog/project-management/).
 
 ## Collaborators
 
