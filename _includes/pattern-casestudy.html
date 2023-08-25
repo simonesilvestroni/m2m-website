@@ -1,12 +1,9 @@
-<div class="case-studies h-feed">
-  {%- for post in caseStudies %}
-  <h3><a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a></h3>
-  <div>
-    {%- if post.featimage == true %}
-    <a href="{{ post.url }}" title="Read about {{ post.title }}"><img src="/assets/images/thumb-{{ post.id | split: "/" | last | append: ".jpg" }}" alt="{{ post.title }}" width="90" height="90"></a>
-    {% endif -%}
-    <p>{{ post.description }}</p>
-  </div>
-  <hr>
-  {% endfor %}
+<div class="case-study warning">
+	<h4><a href="{{ post.url }}" title="Read about {{ post.title }}">{{ post.title }}</a></h4>
+	<div>
+		{%- if post.featimage == true %}
+		<a href="{{ post.url }}" title="Read about {{ post.title }}"><img src="/assets/images/thumb-{{ post.id | split: "/" | last | append: ".jpg" }}" alt="{{ post.title }}" width="120" height="120"></a>
+		{% endif -%}
+		<p>{{ post.description }}&nbsp;&nbsp;<a class="u-url" href="{{ post.url }}" title="Read about {{ post.title }}"><strong>Read&nbsp;more</strong></a></p>
+	</div>
 </div>

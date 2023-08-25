@@ -1,5 +1,5 @@
 ---
-title: 'Production for ‘Hang Loose’ by Callum Gardner'
+title: 'Production: ‘Hang Loose’ by Callum Gardner'
 date: '2018-04-19'
 last_modified_at: '2023-05-23 17:43:23'
 tags:
@@ -12,7 +12,7 @@ tags:
   - 'music production'
   - 'music release'
   - 'uk'
-description: 'London-based singer-songwriter Callum Gardner’s new single, ‘Hang Loose’, is out now. Bass and full production by Minutes to Midnight.'
+description: 'Bass and full production for London-based singer-songwriter Callum Gardner’s new single, ‘Hang Loose’.'
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/hang-loose-callum-gardner-song-production/
@@ -41,24 +41,16 @@ Watch a video teaser of _Hang Loose_ [performed live at the Strongroom](/blog/li
 
 ### Performed by
 
-Callum Gardner
-: Vocals, acoustic guitar
-
-Hugh Wheatley
-: Electric guitar, backing vocals
-
-Simone Silvestroni
-: Bass
-
-Arlen Millwall
-: Drums, backing vocals
+- Callum Gardner / **vocals, acoustic guitar**
+- Hugh Wheatley / **electric guitar, backing vocals**
+- Simone Silvestroni / **bass**
+- Arlen Millwall / **drums, backing vocals**
 
 ### Production
 
-Written by Callum Gardner.  
-Produced, mixed and mastered by Simone Silvestroni.
-
----
+- Written by Callum Gardner.
+- Produced, mixed and mastered by Simone Silvestroni.
 
 {: .small }
-&copy; 2018 Callum Gardner
+<br>&copy; 2018 Callum Gardner.<br>
+℗ 2018 Minutes to Midnight (sound recording copyright).

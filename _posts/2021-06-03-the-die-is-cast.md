@@ -1,5 +1,5 @@
 ---
-title: 'The Die Is Cast'
+title: 'Release: ‘The Die Is Cast’'
 date: '2021-06-03 10:50:53'
 last_modified_at: '2021-11-08 10:50:56'
 tags:
@@ -62,29 +62,19 @@ A couple of samples completed the remixes. _Land Of Kings_ features the exact TV
 
 ### Performed by
 
-Simone Silvestroni
-: Bass, piano, synth, drums, sound effects
-
-Gerald Duchene
-: Flugel horn, trumpet, guitars, synth, percussion, synth vocals
-
-Dan Ecclestone
-: Vocals, mellotron, distorted guitar
-
-Romy Gensale
-: Background vocals
+- Simone Silvestroni / **bass, piano, synth, drums, sound effects**
+- Gerald Duchene / **flugel horn, trumpet, guitars, synth, percussion, synth vocals**
+- Dan Ecclestone / **vocals, mellotron, distorted guitar**
+- Romy Gensale / **background vocals**
 
 ### Production
 
-Recorded between the UK, Italy and the United States.  
-_Papillon_ produced by Simone Silvestroni and Gerald Duchene.  
-_Land Of Kings_ produced by Simone Silvestroni.  
-Mixed and mastered by Simone Silvestroni.
-
----
+- Recorded between the UK, Italy and the United States.
+- _Papillon_ produced by Simone Silvestroni and Gerald Duchene.
+- _Land Of Kings_ produced by Simone Silvestroni.
+- Mixed and mastered by Simone Silvestroni.
 
 {: .small }
-&copy; 2018 Dan Ecclestone
-
-{: .small }
-&copy; 2021 Remix produced and arranged by Simone Silvestroni and Gerald Duchene. The copyright in this sound recording (master) is owned by Simone Silvestroni. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.
+<br>&copy; 2018 Dan Ecclestone<br>
+&copy; 2021 Remix produced and arranged by Simone Silvestroni and Gerald Duchene.<br>
+℗ 2021 Minutes to Midnight (sound recording copyright).

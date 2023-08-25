@@ -1,5 +1,5 @@
 ---
-title: 'Mastering Ipogeo by IsadoraD'
+title: 'Master: ‘Ipogeo’ by IsadoraD'
 date: '2023-03-04 17:29:59'
 last_modified_at: '2023-03-04 17:30:04'
 tags: 
@@ -10,7 +10,7 @@ tags:
   - 'reaper'
   - 'software'
   - 'work'
-description: "Using the subprojects feature in Reaper, I mastered the debut EP for IsadoraD, an Italian duo. They blend electronica, pop and indie."
+description: "I mastered the debut EP for IsadoraD, an Italian duo. They blend electronica, pop and indie."
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/mastering-ipogeo-ep/
@@ -60,19 +60,14 @@ With [SWS](https://www.sws-extension.org/) installed, checking on loudness is a 
 
 ### Performed by
 
-Bruno Valeri
-: Vocals, piano, synth
-
-Emilio Albertoni
-: Guitars, bass, synth
+- Bruno Valeri / **vocals, piano, synth**
+- Emilio Albertoni / **guitars, bass, synth**
 
 ### Production
 
-Mixed by Emilio Albertoni.  
-Mastered by Simone Silvestroni.
-
-***
+- Mixed by Emilio Albertoni.
+- Mastered by Simone Silvestroni.
 
 {: .small }
-&copy; 2023 Emilio Albertoni &amp; Bruno Valeri.  
-℗ 2023 The copyright in this sound recording is owned by Minutes to Midnight. Minutes to Midnight is the exclusive trademark of Simone Silvestroni.
+<br>&copy; 2023 Emilio Albertoni &amp; Bruno Valeri.
+<br>℗ 2023 Minutes to Midnight (sound recording copyright).

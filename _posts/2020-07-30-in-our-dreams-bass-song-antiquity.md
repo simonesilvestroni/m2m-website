@@ -1,5 +1,5 @@
 ---
-title: 'Bass for ‘In Our Dreams’ by Antiquity'
+title: 'Bass: ‘In Our Dreams’ by Antiquity'
 date: '2020-07-30'
 last_modified_at: '2021-11-12 15:25:40'
 tags:
@@ -23,21 +23,14 @@ I always enjoy being a part of [Gerald’s music](https://sessions.antiquity-mus
 
 ### Performed by
 
-Gerald Duchene
-: Instrumentation
-
-Dan Ecclestone
-: Vocals and melody
-
-Simone Silvestroni
-: Bass
+- Gerald Duchene / **instrumentation**
+- Dan Ecclestone / **vocals and melody**
+- Simone Silvestroni / **bass**
 
 ### Production
 
-Written, produced and mixed by Gerald Duchene.  
-Mastered by Chris Pavey.
-
----
+- Written, produced and mixed by Gerald Duchene.  
+- Mastered by Chris Pavey.
 
 {: .small }
-&copy; 2020 Gerald Duchene
+<br>&copy; 2020 Gerald Duchene.

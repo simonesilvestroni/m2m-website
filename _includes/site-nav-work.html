@@ -1,3 +1,0 @@
-{% for item in site.data.nav-work.menu %}
-  <a {% if page.url == item.link %}class="current" {% endif %}href="{{ item.link }}">{{ item.name }}</a>{% unless forloop.last %} | {% endunless %}
-{% endfor %}

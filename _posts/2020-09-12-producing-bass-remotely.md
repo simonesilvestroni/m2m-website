@@ -14,7 +14,8 @@ tags:
   - 'pro tools'
   - 'recording'
   - 'work'
-description: "An in-depth analysis of the process I go through to produce an effective bass track. From tracking to delivery. Based on a real-life scenario."
+  - 'workflow'
+description: "An in-depth analysis of the process I go through to produce an effective bass track, from tracking to delivery. Based on a real-life scenario."
 featimage: true
 thumbOnly: true
 canonical: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'

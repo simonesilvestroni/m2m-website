@@ -30,29 +30,18 @@ A year ago today, on the 30th anniversary of the fall of the Berlin Wall, I publ
 
 ### Performed by
 
-Rachel Goodman
-: Vocals
-
-Dan Ecclestone
-: Vocals
-
-Paolo Clementi
-: Guitars
-
-Gerald Duchene
-: Sax
-
-Michele Frumento
-: Drums
-
-Simone Silvestroni
-: Bass, piano, additional drums, sound effects
+- Rachel Goodman / **vocals**
+- Dan Ecclestone / **vocals**
+- Paolo Clementi / **guitars**
+- Gerald Duchene / **sax**
+- Michele Frumento / **drums**
+- Simone Silvestroni / **bass, piano, additional drums, sound effects**
 
 ### Production
 
-- Written and produced by Simone Silvestroni
-- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/)
-- Management Christopher Carvalho of Unlock Your Sound
+- Written and produced by Simone Silvestroni.
+- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
+- Management Christopher Carvalho of [Unlock your sound](https://unlockyoursound.com).
 
 {: .notice .cta }
 [Read the album analysis&nbsp;→](/work/music/after-1989/)

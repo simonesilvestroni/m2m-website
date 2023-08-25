@@ -46,29 +46,22 @@ The contrast between the Christmas carol-like music of the final section, and th
 
 ### Performed by
 
-Dan Ecclestone
-: Vocals, ukulele, toy piano
-
-Paolo Clementi
-: Viola
-
-Callum Gardner
-: Acoustic guitar
-
-Simone Silvestroni
-: Bass, drums, sound effects
+- Dan Ecclestone / **vocals, ukulele, toy piano**
+- Paolo Clementi / **viola**
+- Callum Gardner / **acoustic guitar**
+- Simone Silvestroni / **bass, drums, sound effects**
 
 ### Production
 
-- Written and produced by Simone Silvestroni
-- Mastered by Ian Shepherd
-- Management by Christopher Carvalho of Unlock Your Sound
+- Written and produced by Simone Silvestroni.
+- Mastered by Ian Shepherd.
+- Management by Christopher Carvalho of [Unlock your sound](https://unlockyoursound.com).
 
 ### Footage
 
-- Prelinger Archive
-- U.S. Army
-- Barbed wire design by freepik.com
+- Prelinger Archive.
+- U.S. Army.
+- Barbed wire design by freepik.com.
 
 {: .notice .cta }
 [Read the album analysis&nbsp;→](/work/music/after-1989/)

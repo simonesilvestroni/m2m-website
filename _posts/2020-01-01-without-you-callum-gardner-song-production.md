@@ -1,5 +1,5 @@
 ---
-title: 'Production for ‘Without You’ by Callum Gardner'
+title: 'Production: ‘Without You’ by Callum Gardner'
 date: '2020-01-01'
 last_modified_at: '2023-05-23 16:55:46'
 tags:
@@ -21,32 +21,22 @@ Like the previous singles, [_Hang Loose_](/work/music-production/hang-loose-call
 
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3806119580/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://callumgardner.bandcamp.com/track/without-you">Without You by Callum Gardner</a></iframe>' %}
 
-## Official video
-
 {% include pattern-video.html id="YBhoeAqk2no" %}
 
 ## Credits
 
 ### Performed by
 
-Callum Gardner
-: Vocals and acoustic guitar
-
-Hugh Wheatley
-: Electric and lead guitar, backing vocals
-
-Simone Silvestroni
-: Bass
-
-Arlen Millwall
-: Drums, backing vocals
+- Callum Gardner / **vocals and acoustic guitar**
+- Hugh Wheatley / **electric and lead guitar, backing vocals**
+- Simone Silvestroni / **fretless bass**
+- Arlen Millwall / **drums, backing vocals**
 
 ### Production
 
-Written by Callum Gardner.  
-Produced, mixed and mastered by Simone Silvestroni.
-
----
+- Written by Callum Gardner.  
+- Produced, mixed and mastered by Simone Silvestroni.
 
 {: .small }
-&copy; 2020 Callum Gardner
+<br>&copy; 2020 Callum Gardner
+<br>℗ 2020 Minutes to Midnight (sound recording copyright).

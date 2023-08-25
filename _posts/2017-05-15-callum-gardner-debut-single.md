@@ -1,5 +1,5 @@
 ---
-title: "Producing Commit To The List by Callum Gardner"
+title: "Production: ‘Commit To The List’ by Callum Gardner"
 date: '2017-05-15'
 last_modified_at: '2021-11-14 20:43:08'
 tags: 
@@ -11,7 +11,7 @@ tags:
   - 'music release'
   - 'uk'
   - 'work'
-description: "Meeting London-based songwriter Callum Gardner fired up a long-term collaboration that started with producing, mixing and mastering his debut single."
+description: "Meeting Callum Gardner fired up a long-term collaboration that started with producing, mixing and mastering his debut single."
 featimage: true
 featimage-name: 'producing-commit-to-the-list-by-callum-gardner.jpg'
 featimage-alt: Cover for the single Commit to the List
@@ -55,25 +55,17 @@ Rehearsals for the live concerts went well. I loved how quickly we all blended a
 
 ### Performed by
 
-Callum Gardner
-: Vocals, guitars
-
-Simone Silvestroni
-: Bass
-
-Paolo Clementi
-: Viola
-
-Arlen Millwall
-: Drums
+- Callum Gardner / **vocals, guitars**
+- Simone Silvestroni / **bass**
+- Paolo Clementi / **viola**
+- Arlen Millwall / **drums**
 
 ### Production
 
-Written by Callum Gardner.  
-Recorded at SAE (London) and the Garden Room Studio (Cambridge).  
-Produced, mixed and mastered by Simone Silvestroni.
-
----
+- Written by Callum Gardner.
+- Recorded at SAE (London) and the Garden Room Studio (Cambridge).
+- Produced, mixed and mastered by Simone Silvestroni.
 
 {: .small }
-&copy; 2017 Callum Gardner
+<br>&copy; 2017 Callum Gardner.<br>
+℗ 2017 Minutes to Midnight (sound recording copyright).

@@ -1,5 +1,5 @@
 ---
-title: 'Mix for the song ‘Nebbia’, from Arva Vacua debut EP'
+title: 'Mix: ‘Nebbia’ by Arva Vacua'
 date: '2022-10-19 10:33:03'
 last_modified_at: '2023-02-28 13:03:27' 
 tags:
@@ -10,7 +10,7 @@ tags:
   - 'pro tools'
   - 'italy'
   - 'work'
-description: '‘Tales from holographic seas’, for which I mixed a song, is out now.'
+description: 'I mixed the lead song from the debut EP ‘Tales from holographic seas’.'
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/nebbia-arva-vacua-song-mix/

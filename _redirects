@@ -40,9 +40,6 @@ https://after1989.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/work
 /how-i-work/ /work/ 301
 /minutes-to-midnight-producer-bassist-sound-designer/ /work/ 301
 /minutes-to-midnight-my-work/ /work/ 301
-/bass-tracks/ /work/music-production/ 301
-/production-mix/ /work/music-production/ 301
-/sound-design/ /work/sound-design/ 301
 /minutes-to-midnight-my-work/bass-tracks /work/ 301
 /minutes-to-midnight-my-work/production-mix /work/ 301
 /minutes-to-midnight-my-work/sound-design /work/ 301
@@ -108,8 +105,6 @@ https://after1989.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/work
 /work/sound-design/after-1989-demos/ /work/music/after-1989-demos/ 301
 /work/sound-design/the-die-is-cast/ /work/music/the-die-is-cast/ 301
 /work/game-audio/console-game-ruff-trigger/ /work/sound-design/ruff-trigger-playstation2-game/ 301
-/work/musicproduction/minutes-to-midnight-productions/ /work/music-production/ 301
-/work/music-production/minutes-to-midnight-productions/ /work/music-production/ 301
 /work/musicproduction/producing-bass-remotely/ /work/bass/producing-bass-remotely/ 301
 /work/musicproduction/premonition-and-ruin/ /work/music-production/premonition-and-ruin/ 301
 /work/musicproduction/callum-gardner-debut-single/ /work/music-production/callum-gardner-debut-single/ 301
@@ -126,7 +121,6 @@ https://after1989.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/work
 /work/web-design/responsive-photogallery-carousel/ /project-responsive-photogallery-carousel/ 301
 /work/web-design/silvia-maggi-design/ https://simonesilvestroni.com/project-silvia-maggi-design/ 301
 /work/web-design/unicredit/ https://simonesilvestroni.com/project-unicredit/ 301
-/projects/sound-design/ /work/sound-design/ 301
 /projects/web-design/ https://simonesilvestroni.com/resume/ 301
 /projects/web-design/unicredit/ https://simonesilvestroni.com/project-unicredit/ 301
 /projects/web-design/reevoo/ https://simonesilvestroni.com/project-reevoo/ 301
@@ -395,3 +389,13 @@ https://after1989.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/work
 /blog/tag/xml/ /blog/tag/web-development/ 301
 /blog/tag/xslt/ /blog/tag/web-development/ 301
 /blog/tag/zoom-h5/ /blog/tag/audio-equipment/ 301
+/work/sound-design/ /work/#sound-design 301
+/sound-design/ /work/#sound-design 301
+/projects/sound-design/ /work/#sound-design 301
+/work/music-production/ /work/#music-production 301
+/bass-tracks/ /work/#music-production 301
+/production-mix/ /work/#music-production 301
+/work/musicproduction/minutes-to-midnight-productions/ /work/#music-production 301
+/work/music-production/minutes-to-midnight-productions/ /work/#music-production 301
+/work/music/ /work/#original-music 301
+/work/bass/ /work/#bass 301

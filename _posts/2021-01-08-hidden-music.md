@@ -1,5 +1,5 @@
 ---
-title: 'Mixing Hidden Music'
+title: 'Mix: ‘Hidden Music’ by Dan Ecclestone'
 date: '2021-01-08'
 last_modified_at: '2023-03-02 21:43:15'
 tags: 
@@ -13,8 +13,7 @@ tags:
   - 'software'
   - 'uk'
   - 'work'
-  - 'workflow'
-description: "A delicate piano-centric album, ‘Hidden Music’ is another successful collaboration with Cambridge-based multi-instrumentalist Dan Ecclestone."
+description: "A delicate piano-centric album, ‘Hidden Music’ is another successful collaboration with multi-instrumentalist Dan Ecclestone."
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/hidden-music/
@@ -39,34 +38,19 @@ This was the first full-fledged album that I mixed using Reaper after [I switche
 
 ### Performed by
 
-Dan Ecclestone
-: Piano & vocals
-
-Jake Hatter
-: Trumpet
-
-Julia Black
-: Violin
-
-Katharine Parsons
-: Viola
-
-Abby Wollston
-: Cello
-
-Richard Partridge
-: Double bass
-
-David Youngs
-: Drums
+- Dan Ecclestone / **piano & vocals**
+- Jake Hatter / **trumpet**
+- Julia Black / **violin**
+- Katharine Parsons / **viola**
+- Abby Wollston / **cello**
+- Richard Partridge / **double bass**
+- David Youngs / **drums**
 
 ### Production
 
-Recorded by [Sam Inglis](https://www.soundonsound.com/author/sam-inglis).  
-Mixed by Simone Silvestroni.  
-Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
-
----
+- Recorded by [Sam Inglis](https://www.soundonsound.com/author/sam-inglis).  
+- Mixed by Simone Silvestroni.  
+- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
 
 {: .small }
-&copy; 2021 Dan Ecclestone
+<br>&copy; 2021 Dan Ecclestone.

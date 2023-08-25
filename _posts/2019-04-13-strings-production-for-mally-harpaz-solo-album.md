@@ -1,5 +1,5 @@
 ---
-title: Strings production for Mally Harpaz solo album
+title: 'Strings production: ‘Zoom In Zoom Out’ by Mally Harpaz'
 date: '2019-04-13'
 last_modified_at: '2023-05-23 12:29:51'
 tags:
@@ -8,7 +8,7 @@ tags:
   - 'software'
   - 'uk'
   - 'work'
-description: 'I recorded and co-produced strings arrangements for Mally Harpaz new solo album ‘Zoom In Zoom Out’, in collaboration with professional viola player Paolo Clementi.'
+description: 'I recorded and co-produced strings arrangements for Mally Harpaz new solo album, in collaboration with Paolo Clementi.'
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/zoom-in-zoom-out-mally-harpaz-album-strings-production/

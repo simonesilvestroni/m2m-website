@@ -1,11 +1,9 @@
 menu:
-  - name: all
-    link: /work/
   - name: sound&nbsp;design
-    link: /work/sound-design/
+    link: '&#x23;sound-design'
   - name: production
-    link: /work/music-production/
+    link: '&#x23;music-production'
   - name: original&nbsp;music
-    link: /work/music/
+    link: '&#x23;original-music'
   - name: bass
-    link: /work/bass/
+    link: '&#x23;bass'

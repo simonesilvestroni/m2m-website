@@ -20,29 +20,26 @@ description: 'Cheering crowds greet the President at Love Field, the Dallas airp
 ---
 November 1963. A warm weather greets the President when he lands at _Love Field_. Following the motorcade, I fantasise about waving at Jack and Jackie, or leaning over the window of a sixth floor, or being Abraham Zapruder, standing still while everything changes.
 
+{% include pattern-video.html id="oTR5ZJQdRXM" %}
+
 {: .notice .cta }
 [Read the album analysis&nbsp;→](/work/music/after-1989/)
-
-## Official video
-
-{% include pattern-video.html id="oTR5ZJQdRXM" %}
 
 ## Credits
 
 ### Performed by
 
-Dan Ecclestone
-: Vocals
-
-Paolo Clementi
-: Guitars, viola
-
-Simone Silvestroni
-: Bass, piano, synth, strings, drums, sound effects
+- Dan Ecclestone / **vocals**
+- Paolo Clementi / **guitars, viola**
+- Simone Silvestroni / **bass, piano, synth, strings, drums, sound effects**
 
 ## Production
 
-- Written, produced and mixed by Simone Silvestroni
-- Mastered by [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd)
-- Video by [Silvia Maggi](https://silviamaggidesign.com)
-- Management by Christopher Carvalho of [Unlock Your Sound Ltd](https://unlockyoursound.com/)
+- Written, produced and mixed by Simone Silvestroni.
+- Mastered by [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd).
+- Video by [Silvia Maggi](https://silviamaggidesign.com).
+- Management by Christopher Carvalho of [Unlock Your Sound Ltd](https://unlockyoursound.com/).
+
+{: .small }
+<br>&copy; 2019 Simone Silvestroni.
+<br>℗ 2019 Minutes to Midnight (sound recording copyright).

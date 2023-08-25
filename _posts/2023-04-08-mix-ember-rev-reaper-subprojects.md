@@ -1,5 +1,5 @@
 ---
-title: 'I mixed ‘In Super-8’ by Ember Rev using Reaper’s subprojects'
+title: 'Mix: ‘In Super-8’ by Ember Rev'
 date: '2023-03-17 12:38:53'
 last_modified_at: '2023-04-08 14:50:44'
 tags:
@@ -12,7 +12,7 @@ tags:
   - 'software'
   - 'uk'
   - 'work'
-description: 'How I exploited the subproject functionality in REAPER to save time and processing power, while mixing a rework of Ember Rev’s debut album.'
+description: 'How I mixed a rework of Ember Rev’s debut album, exploiting the subproject functionality in REAPER to save time and processing power.'
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/mix-ember-rev-reaper-subprojects/
@@ -104,18 +104,13 @@ For *In Super-8* I used subprojects to save time, but it's useful for sound desi
 
 ### Performed by
 
-Dan Ecclestone
-: Vocals and instrumentation
-
-Ian Pickering
-: Drums
+- Dan Ecclestone / **vocals and instrumentation**
+- Ian Pickering / **drums**
 
 ### Production
 
-Mixed by Simone Silvestroni.  
-Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
-
-***
+- Mixed by Simone Silvestroni.
+- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
 
 {: .small }
-&copy; 2017 Dan Ecclestone
+<br>&copy; 2017 Dan Ecclestone.

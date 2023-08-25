@@ -1,5 +1,5 @@
 ---
-title: 'Production for Method Sinik song ‘Eclipse’'
+title: 'Production: ‘Eclipse’ by Method Sinik'
 date: '2019-03-28'
 last_modified_at: '2021-11-14 17:44:39'
 tags:
@@ -11,7 +11,7 @@ tags:
   - 'mix'
   - 'music release'
   - 'work'
-description: 'Following my principle of trying to get out of my comfort zone, I helped the promising young artist Method Sinik with the production of his recent EP.'
+description: 'I snapped out of my comfort zone to help the promising young artist Method Sinik with the production of his recent EP.'
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/eclipse-method-sinik-song-production/
@@ -30,13 +30,9 @@ _Eclipse_ is a new single, part of a different batch of new releases, where I up
 
 ### Performed by
 
-Lenny Nathan Frumento
-: Music, production
-
-Simone Silvestroni
-: Bass, production, mix, master
-
----
+- Lenny Nathan Frumento / **music, production**
+- Simone Silvestroni / **bass, production, mix, master**
 
 {: .small }
-&copy; 2019 Lenny Nathan Frumento
+<br>&copy; 2019 Lenny Nathan Frumento.
+<br>℗ 2019 Minutes to Midnight (sound recording copyright).

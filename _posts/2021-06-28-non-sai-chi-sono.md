@@ -1,5 +1,5 @@
 ---
-title: 'Non sai chi sono'
+title: 'Release: ‘Non sai chi sono’'
 date: '2021-05-31 10:51:22'
 last_modified_at: '2021-11-25 17:19:45'
 tags:
@@ -15,7 +15,7 @@ tags:
   - 'pro tools'
   - 'remix'
   - 'work'
-description: "An old friend asked me to contribute to an upcoming album with the remix of one of his songs. I co-produced, mixed and mastered ‘Non sai chi sono’."
+description: "A friend asked me to remix one of his songs. I co-produced, mixed and mastered ‘Non sai chi sono’."
 featimage: true
 thumbOnly: true
 permalink: /work/music/non-sai-chi-sono/
@@ -67,24 +67,16 @@ We exchanged opinions about the rough mixes, efficiently collaborating to the ed
 
 ### Performed by
 
-Emilio Albertoni
-: Electric guitars, synth, fretted bass, drums
-
-Simone Silvestroni
-: Fretless and fretted bass, drums, sound effects
-
-Gianluca Lo Presti
-: Vocals, synth, sound effects  
+- Emilio Albertoni / **guitars, synth, drums**
+- Simone Silvestroni / **bass, drums, sound effects**
+- Gianluca Lo Presti / **vocals, synth, sound effects**  
 
 ### Production
 
-Produced by Emilio Albertoni and Simone Silvestroni.  
-Mixed and mastered by Simone Silvestroni.
-
-***
+- Produced by Emilio Albertoni and Simone Silvestroni.  
+- Mixed and mastered by Simone Silvestroni.
 
 {: .small }
-&copy; 2020 Gianluca Lo Presti
-
-{: .small }
-&copy; 2021 Remix produced and arranged by Emilio Albertoni and Simone Silvestroni. The copyright of this sound recording (master) is owned by Simone Silvestroni. Minutes to Midnight is the exclusive trademark of Simone Silvestroni. All trademarks and logos are protected.
+<br>&copy; 2020 Gianluca Lo Presti.
+<br>&copy; 2021 Remix produced and arranged by Emilio Albertoni and Simone Silvestroni.
+<br>℗ 2019 Minutes to Midnight (sound recording copyright).

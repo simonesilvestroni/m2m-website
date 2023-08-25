@@ -72,34 +72,26 @@ _Skinny Kid_ was the first piece that I turned into a proper song when I refacto
 
 ### Performed by
 
-Dan Ecclestone
-: Vocals
-
-Rachel Goodman
-: Vocals
-
-Gerald Duchene
-: Guitars
-
-Keven Howard Bellamy
-: Backing vocals
-
-Simone Silvestroni
-: Bass, drums, piano, synth, sound effects
+- Dan Ecclestone / **vocals**
+- Rachel Goodman / **vocals**
+- Gerald Duchene / **guitars**
+- Keven Howard Bellamy / **backing vocals**
+- Simone Silvestroni / **bass, drums, piano, synth, sound effects**
 
 ## Credits for ‘Nine Eleven’
 
 ### Performed by
 
-Simone Silvestroni
-: Bass, drums, piano, synth, sound effects
-
-Paolo Clementi
-: Guitars, viola
+- Simone Silvestroni / **bass, drums, piano, synth, sound effects**
+- Paolo Clementi / **guitars, viola**
 
 ### Production
 
-- Written, produced and mixed by Simone Silvestroni
-- Music video by [Silvia Maggi](https://silviamaggidesign.com/)
-- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/)
-- Management by Christopher Carvalho of [Unlock Your Sound](https://unlockyoursound.com/)
+- Written, produced and mixed by Simone Silvestroni.
+- Music video by [Silvia Maggi](https://silviamaggidesign.com/).
+- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
+- Management by Christopher Carvalho of [Unlock Your Sound](https://unlockyoursound.com/).
+
+{: .small }
+<br>&copy; 2019 Simone Silvestroni.
+<br>℗ 2019 Minutes to Midnight (sound recording copyright).

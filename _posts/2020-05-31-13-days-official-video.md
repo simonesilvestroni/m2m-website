@@ -27,32 +27,25 @@ The threat of a pre-emptive strike to America is real, as the level of military 
 
 ### Performed by
 
-Dan Ecclestone
-: Vocals
-
-Paolo Clementi
-: Guitars
-
-Andy Bonnor (AndiA of ‘In Your Dreams’)
-: Drums
-
-Simone Silvestroni
-: Bass, additional drums, sound effects
+- Dan Ecclestone / **vocals**
+- Paolo Clementi / **guitars**
+- Andy Bonnor (AndiA of ‘In Your Dreams’) / **drums**
+- Simone Silvestroni / **bass, additional drums, sound effects**
 
 ### Production
 
-- Written and produced by Simone Silvestroni
-- Arranged by Paolo Clementi
-- Management by Christopher Carvalho of Unlock Your Sound
-- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/)
+- Written and produced by Simone Silvestroni.
+- Arranged by Paolo Clementi.
+- Management by Christopher Carvalho of [Unlock your sound](https://unlockyoursound.com).
+- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
 
 ### Footage
 
-- Original 2020 footage by [Silvia Maggi](https://silviamaggidesign.com/) and [Andy Bonnor](https://linktr.ee/Andia)
-- National Archives
-- United States Air Force
-- Cuban missile crisis footage by [David G. Coleman](https://historyinpieces.com/)
-- Prelinger Archive
+- Original 2020 footage by [Silvia Maggi](https://silviamaggidesign.com/) and [Andy Bonnor](https://linktr.ee/Andia).
+- National Archives.
+- United States Air Force.
+- Cuban missile crisis footage by [David G. Coleman](https://historyinpieces.com/).
+- Prelinger Archive.
 
 {: .notice .cta }
 [Read the album analysis&nbsp;→](/work/music/after-1989/)

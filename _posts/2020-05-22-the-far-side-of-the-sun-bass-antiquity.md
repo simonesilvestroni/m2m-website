@@ -1,5 +1,5 @@
 ---
-title: 'Bass for ‘The Far Side Of The Sun’ by Antiquity'
+title: 'Bass: ‘The Far Side Of The Sun’ by Antiquity'
 date: '2020-05-22'
 last_modified_at: '2021-11-12 19:53:59'
 tags:
@@ -24,21 +24,14 @@ permalink: /work/bass/the-far-side-of-the-sun-bass-antiquity/
 
 ### Performed by
 
-Gerald Duchene
-: Instrumentation
-
-Dan Ecclestone
-: Vocals and melody
-
-Simone Silvestroni
-: Bass
+- Gerald Duchene / **instrumentation**
+- Dan Ecclestone / **vocals and melody**
+- Simone Silvestroni / **bass**
 
 ### Production
 
-Written, produced and mixed by Gerald Duchene.  
-Mastered by Chris Pavey.
-
----
+- Written, produced and mixed by Gerald Duchene.
+- Mastered by Chris Pavey.
 
 {: .small }
-&copy; 2020 Gerald Duchene
+<br>&copy; 2020 Gerald Duchene.

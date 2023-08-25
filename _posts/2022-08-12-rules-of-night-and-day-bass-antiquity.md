@@ -1,5 +1,5 @@
 ---
-title: Bass for ‘The Rules Of Night And Day’ by Antiquity
+title: 'Bass: ‘The Rules Of Night And Day’ by Antiquity'
 date: '2022-08-12'
 last_modified_at: '2023-05-23 16:17:36'
 tags:
@@ -25,27 +25,16 @@ permalink: /work/bass/the-rules-of-night-and-day-bass-antiquity/
 
 ### Performed by
 
-Dan Ecclestone
-: Vocals and melody
-
-Gerald Duchene
-: Instrumentation
-
-Angelo Zarra
-: Lead guitar
-
-Simone Silvestroni
-: Bass
-
-Matisse Duchene
-: Trumpet
+- Dan Ecclestone / **vocals and melody**
+- Gerald Duchene / **instrumentation**
+- Angelo Zarra / **lead guitar**
+- Simone Silvestroni / **bass**
+- Matisse Duchene / **trumpet**
 
 ### Production
 
-Written, produced and mixed by Gerald Duchene.  
-Mastered By Chris Pavey.
-
----
+- Written, produced and mixed by Gerald Duchene.
+- Mastered By Chris Pavey.
 
 {: .small }
-&copy; 2022 Gerald Duchene
+<br>&copy; 2022 Gerald Duchene.

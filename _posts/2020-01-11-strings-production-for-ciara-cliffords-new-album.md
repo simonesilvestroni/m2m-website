@@ -1,5 +1,5 @@
 ---
-title: Strings production for Ciara Clifford’s new album
+title: 'Strings production: Ciara Clifford'
 date: '2020-01-11'
 last_modified_at: '2023-05-23 12:03:27'
 tags:
@@ -8,7 +8,7 @@ tags:
   - 'software'
   - 'uk'
   - 'work'
-description: 'I recorded and co-produced strings arrangements for Ciara Clifford’s eponymous debut album, in collaboration with professional viola player Paolo Clementi.'
+description: 'I recorded and co-produced strings arrangements for Clifford’s eponymous debut album, in collaboration with Paolo Clementi.'
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/ciara-clifford-album-strings-production/

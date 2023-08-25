@@ -1,5 +1,5 @@
 ---
-title: 'Ruff Trigger PlayStation2 video game'
+title: '‘Ruff Trigger’ video game'
 date: '2006-06-27'
 last_modified_at: '2021-12-07 17:00:42'
 tags:
@@ -14,7 +14,6 @@ tags:
   - 'sound design'
   - 'video games'
   - 'work'
-  - 'workflow'
 description: "As team leader, I created and implemented sound effects and an adaptive soundtrack, bootstrapping the audio of the PlayStation2 video game ‘Ruff Trigger’."
 featimage: true
 featimage-name: 'ruff-trigger-playstation2-video-game.jpg'

@@ -1,4 +1,7 @@
-<div class="warning">
-  <h2>Filter by</h2>
-  {% include site-nav-work.html %}
-</div>
+<nav aria-label="Project navigation">
+  <ul class="list-inline">
+  {% for item in site.data.nav-work.menu %}
+    <li><a href="{{ item.link }}">{{ item.name }}&nbsp;↓</a></li>
+  {% endfor %}
+  </ul>
+</nav>

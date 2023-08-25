@@ -1,5 +1,5 @@
 ---
-title: '‘Shelter From A Storm’ by Antiquity'
+title: 'Co-production: ‘Shelter From A Storm’ by Antiquity'
 date: '2021-02-12'
 last_modified_at: '2023-05-23 17:19:27'
 tags:
@@ -11,7 +11,7 @@ tags:
   - 'music release'
   - 'usa'
   - 'work'
-description: "The new single by Antiquity, ‘Shelter From A Storm’ is my new bass recording and co-production, together with Gerald Duchene."
+description: "‘Shelter From A Storm’ is my new bass recording and co-production, together with Gerald Duchene."
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/shelter-from-a-storm-bass-co-production-antiquity/
@@ -50,22 +50,15 @@ I’ve asked the guys to let me know their feelings about the process that lead 
 
 ### Performed by
 
-Gerald Duchene
-: Instrumentation
-
-Dan Ecclestone
-: Vocals and melody
-
-Simone Silvestroni
-: Bass
+- Gerald Duchene / **instrumentation**
+- Dan Ecclestone / **vocals and melody**
+- Simone Silvestroni / **bass**
 
 ### Production
 
-Written and mixed by Gerald Duchene.  
-Produced by Gerald Duchene and Simone Silvestroni.  
-Mastered by Chris Pavey.
-
----
+- Written and mixed by Gerald Duchene.  
+- Produced by Gerald Duchene and Simone Silvestroni.  
+- Mastered by Chris Pavey.
 
 {: .small }
-&copy; 2021 Gerald Duchene
+<br>&copy; 2021 Gerald Duchene.

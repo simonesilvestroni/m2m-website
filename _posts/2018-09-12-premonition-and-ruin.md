@@ -1,5 +1,5 @@
 ---
-title: 'Mixing Premonition And Ruin'
+title: 'Co-production and mix: ‘Premonition And Ruin’ by Ember Rev'
 date: '2018-09-12'
 last_modified_at: '2021-12-07 17:00:42'
 tags: 
@@ -12,8 +12,7 @@ tags:
   - 'music release'
   - 'uk'
   - 'work'
-  - 'workflow'
-description: "A concept album around a lament for the European ideal. I mixed and co-produced together with their songwriter Dan Ecclestone."
+description: "A concept album around a lament for the European ideal. I mixed and co-produced working with songwriter Dan Ecclestone."
 featimage: true
 thumbOnly: true
 permalink: /work/music-production/premonition-and-ruin/
@@ -51,26 +50,17 @@ A year later, I ended up mixing the band’s follow-up album [_From The Country 
 
 ### Performed by
 
-Dan Ecclestone
-: Vocals, guitar, ukulele
-
-Chris Peckham
-: Accordion
-
-Dom Hall-Smith
-: Bass
-
-Ian Pickering
-: Drums
+- Dan Ecclestone / **vocals, guitar, ukulele**
+- Chris Peckham / **accordion**
+- Dom Hall-Smith / **bass**
+- Ian Pickering / **drums**
 
 ### Production
 
-Written and produced by Dan Ecclestone.  
-Recorded by Bugs at _Half Ton_, Cambridge.  
-Co-produced and mixed by Simone Silvestroni.  
-Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
-
----
+- Written and produced by Dan Ecclestone.
+- Recorded by Bugs at _Half Ton_, Cambridge.
+- Co-produced and mixed by Simone Silvestroni.
+- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
 
 {: .small }
-&copy; 2018 Dan Ecclestone
+<br>&copy; 2018 Dan Ecclestone.
