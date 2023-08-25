@@ -9,6 +9,7 @@ tags:
   - 'personal'
   - 'social media'
   - 'sustainability'
+  - 'walled gardens'
 description: 'Principles I stand for. My takes on being genuine, build a clean online presence, sustainability and more, are connected with a will to keep my mind safe.'
 syndication: true
 syndicate:

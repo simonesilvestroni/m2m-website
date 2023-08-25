@@ -5,6 +5,7 @@ last_modified_at: '2022-05-10 13:43:39'
 tags:
   - 'internet'
   - 'software'
+  - 'walled gardens'
   - 'web development'
   - 'workflow'
 description: 'How I’m currently managing new content in my Jekyll-based static blog, using Shortcuts on macOS.'
