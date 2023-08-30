@@ -18,19 +18,20 @@ permalink: /blog/
 	<li><a href="/blog/tag/video-games/">video games</a></li>
 	<li><a href="/sitemap/#tags">more&hellip;</a></li>
 </ul>
-
 <aside class="warning">
 	<details>
 		<summary>Personal favourites</summary>
 		{% assign featured = site.posts | where_exp:'post','post.tags contains "featured"' %}
-		<ul class="h-feed list-hr">
+		<ul class="h-feed">
 			{% for post in featured %}
-			<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+			<li>
+	      <time class="dim" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d&nbsp;%b&nbsp;%Y" }}</time>
+	      <a href="{{ post.url }}">{{ post.title }}</a>
+	    </li>
 			{% endfor %}
 		</ul>
 	</details>
 </aside>
-
 <div class="h-feed">
 	<h2>All posts</h2>
 	{%- for post in site.posts %}

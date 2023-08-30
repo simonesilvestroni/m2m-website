@@ -13,24 +13,13 @@ last_modified_at: '2023-05-09 19:19:28'
 </article>
 <aside>
   <h2>Recent posts</h2>
-  <table class="table-feed h-feed">
-    <thead class="visually-hidden">
-      <tr>
-        <th>Title</th>
-        <th>Date</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for post in site.posts limit:6 %}
-      <tr>
-        <td><a href="{{ post.url }}">{{ post.title }}</a></td>
-        <td><time class="dim" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %b" }}</time></td>
-      </tr>
-      {% endfor %}
-      <tr>
-        <td><span class="cta"><a href="{{ site.url }}/blog/"><span>All posts</span> →</a></span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
+  <ul class="h-feed">
+    {% for post in site.posts limit:6 %}
+    <li>
+      <time class="dim" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d&nbsp;%B" }}</time>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+  <p class="cta"><a href="https://minutestomidnight.co.uk/blog/"><span>All posts</span>&nbsp;→</a></p>
 </aside>
