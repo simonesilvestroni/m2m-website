@@ -21,6 +21,7 @@ To solve the risk of losing years of collected useful material, he wrote a Go pr
 - uBlock Origin settings
 - Contacts and calendars
 - Android
+- Kobo
 - PGP keys
 - Pocket articles (both archived and to read), using their included [export tool](https://getpocket.com/export)
 - Podcasts OPML
