@@ -34,7 +34,7 @@ This page is part of the [uses.tech](https://github.com/wesbos/awesome-uses) pro
 - **<abbr title="Digital Audio Workstation">DAW</abbr>s**: [REAPER 6.x]({{ site.url }}/blog/tag/reaper/), Logic Pro X 10.5.1, Pro Tools 12.5, Reason 8.3.2.
 - **Audio editors**: iZotope RX 6 Standard, iZotope Ozone 9 advanced, Zynaptiq Triumph.
 - **Audio utilities**: Zynaptiq Myriad, Stereo Monoizer, [Swinsian](http://www.swinsian.com).
-- **Virtual instruments**: Kilohearts Phase Plant, XLN Addictive Drums, XLN Addictive Keys, Tonsturm Woosh 1.5.4, Radical Piano, Waves Flow Motion FM, Decidedly Decent Sampler, Waldorf Streichfett, Vital, Decomposer Sitala, Air XPand! 2, EastWest Hollywood Strings Gold.
+- **Virtual instruments**: Kilohearts Phase Plant, XLN Addictive Drums, XLN Addictive Keys, Tonsturm Whoosh 1.5.4, Radical Piano, Waves Flow Motion FM, Decidedly Decent Sampler, Waldorf Streichfett, Vital, Decomposer Sitala, Air XPand! 2, EastWest Hollywood Strings Gold.
 - **Plug-ins**: Soundtoys v5.4, Tokyo Dawn (NOVA, Limiter 6 GE, Kotelnikov GE, Slick EQ GE, Slick EQ Mastering), Waves v13, Kilohearts Snap Heap, Voxengo (SPAN plus, TEOTE), Klanghelm (VUMT deluxe, MJUC vari-mu compressor), AudioThing Fog Convolver, McDSP Compressors Bank, Celemony Melodyne 5.
 - **Game audio**: Audiokinetic Wwise, FMOD studio, Unity, integrated with Visual Studio Code, [Microsoft’s XACT for Xbox]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/#xbox), In-house [Wazábe editor and middleware]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/).
 
