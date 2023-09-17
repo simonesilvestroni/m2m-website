@@ -10,9 +10,7 @@ tags:
   - 'walled gardens'
 description: "My point of view about the pros of being outside mainstream social networks for the last 19 months."
 ---
-At the beginning of August 2020 I [deleted all my social media accounts](/blog/escape-from-social-media/), except for YouTube. So, how has it been?
-
-I never intended to make a living solely through the music I write: my work in sound design and production is in a different business. Had I read [this post by Steve Lawson](https://www.stevelawson.net/2021/08/keeping-your-soul-in-an-algorithmic-world/) post in 2019, it would have pushed me to consider a few things. 
+At the beginning of August 2020 I [deleted all my social media accounts](/blog/escape-from-social-media/), except for YouTube. So, how has it been? I never intended to make a living solely through the music I write: my work in sound design and production is in a different business. Had I read [this post by Steve Lawson](https://www.stevelawson.net/2021/08/keeping-your-soul-in-an-algorithmic-world/) post in 2019, it would have pushed me to consider a few things. 
 
 Today I don’t judge people that are still juggling with social networks, yet I see any lucubration about how to stay in mainstream social media and save the soul as _plain weird_. I suppose once you’re out you can’t really understand why anyone would want to continue staying locked in — like an ex-smoker.
 
@@ -34,17 +32,11 @@ Above all, I stopped caring about whatever CEO billionaire do or say, while foll
 
 I can understand the argument about having an _audience_ (though [I dislike the term]({{ site.url }}/blog/de-brand/)), and I get people when they tell me they can’t leave a particular social network because of the relationships they built there. Yet, my escape pushed me to **actually speak to the people I used to hang around** on those networks. I got in touch, asked for their emails and sometimes their phone numbers.
 
-I now talk to them asynchronously and it feels genuine, real. We have stuff to discuss about, without the usual _oh yeah, I saw it earlier on Facebook_. I nurtured my email newsletter and stayed in touch with a larger amount of people than expected through either email, newsletters, RSS and sometimes Telegram or Signal. 
-
-Finally, if my contacts came from [Bandcamp](https://minutestomidnight.bandcamp.com/), I followed them there. The vast majority of people who left social media reports the very same conclusions.
+I now talk to them asynchronously and it feels genuine, real. We have stuff to discuss about, without the usual _oh yeah, I saw it earlier on Facebook_. I nurtured my email newsletter and stayed in touch with a larger amount of people than expected through either email, newsletters, RSS and sometimes Telegram or Signal. Finally, if my contacts came from [Bandcamp](https://minutestomidnight.bandcamp.com/), I followed them there. The vast majority of people who left social media reports the very same conclusions.
 
 ## What if?
 
-On the other hand, I can’t understand how people actually enjoy having their time, attention and focus snatched by young-white-male-dominated mega corporations. Especially knowing how they make their money through selling personal data, reprogramming the social behaviour of millions while [altering entire democracies](https://en.wikipedia.org/wiki/The_Great_Hack) in the making.
-
-I keep asking: what if these soulless machines stopped working? We all remember the fast demise of MySpace; what would happen to that _audience amplifier_?
-
-My answer was, and still is: have your own space [on the internet](https://www.onebigfluke.com/2012/07/focusing-on-positives-why-i-have-my-own.html).
+On the other hand, I can’t understand how people actually enjoy having their time, attention and focus snatched by young-white-male-dominated mega corporations. Especially knowing how they make their money through selling personal data, reprogramming the social behaviour of millions while [altering entire democracies](https://en.wikipedia.org/wiki/The_Great_Hack) in the making. I keep asking: what if these soulless machines stopped working? We all remember the fast demise of MySpace; what would happen to that _audience amplifier_? My answer was, and still is: have your own space [on the internet](https://www.onebigfluke.com/2012/07/focusing-on-positives-why-i-have-my-own.html).
 
 ### Edit: 10 March 2022
 
