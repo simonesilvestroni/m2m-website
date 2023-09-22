@@ -22,7 +22,10 @@ featimage-width: 720
 featimage-height: 720
 permalink: /work/sound-design/ruff-trigger-playstation2-game/
 ---
-Hired by Playstos Entertainment in January 2000, I stayed for five years, helping to shape their debut title, _Ruff Trigger: The Vanocore Conspiracy_. The company didn't have a defined plan for the game audio, so within a few months **I turned a decent-sized room into a full-fledged studio**, capable of handling the workflow of an audio team.
+> Great co-worker! Very careful, serious and responsible, never superficial, with a wide knowledge of the Apple world, and all that’s connected to audio engineering. Highly recommended.
+> <cite>**Daniele Pieroni**, [Senior Game Developer Relations Engineer at Intel Corporation](https://www.linkedin.com/in/danielepieroni/)</cite>
+
+Hired by Playstos Entertainment in January 2000, I stayed for five years, helping to shape their debut title, _Ruff Trigger: The Vanocore Conspiracy_. The company didn't have a defined plan for the game audio, so within a few months **I turned a decent-sized room into a [full-fledged studio](#the-studio)**, capable of handling the workflow of an audio team.
 
 ## Adaptive soundtrack
 
@@ -45,74 +48,6 @@ My process for sound effects was to create them from scratch, layering my record
 
 The video includes **processed recordings** of myself typing on a mechanical keyboard, thunderstorms in Milan, wooshes using belts and other artifacts, various metal hits from around the office, a wheeled chair on irregular surfaces, multiple compressed air cans, colleagues making noise and voices, rustled newspapers, a cat collar with a little bell, a few presets from a Korg Trinity synthesizer, all edited with Sound Forge, and assembled in Logic Platinum.
 
-## The studio
-
-An Apple G4 and two Dell machines **ran in digital sync**: they were all equipped with the same model of Creamware Pulsar II soundcard, connected to a Yamaha 01W digital mixer through an [AES/EBU](https://www.wikiaudio.org/aes-ebu/) sync box. Each computer had a specific digital audio workstation, which were often connected together through MIDI Time Code: 
-
-- **Emagic Logic Platinum**, main <abbr title="Digital Audio Workstation">DAW</abbr>, on Mac OS X.
-- **Steinberg Cubase VST**, secondary, hosting the sampler.
-- **Sonic Foundry Acid Pro**, running loops.
-
-Mixes went through the Yamaha digital mixer, to be bounced on a Sony <abbr title="Digital Audio Tape">DAT</abbr>, before the final master was sampled back into the computer. One of the Dell machines also hosted the software developer kits: a level editor, the audio middleware, and later **Microsoft XACT for Xbox**. The photo below shows this setup, at the beginning of 2002.
-
-![In Playstos' audio studio, that I built from scratch, circa 2002](/assets/images/playstos-studio.jpg){: width="800" height="531" }
-
-## The equipment
-
-<div class="warning">
-  <h3>Outboard</h3>
-  <ul>
-    <li>Yamaha 01W digital mixer</li>
-    <li>MOTU Midi Express XT MIDI interface</li>
-    <li>Sony PCM-R300 DAT Player Recorder Deck</li>
-    <li>Novation A-station sound module</li>
-    <li>Roland JV-2080 sound module</li>
-    <li>Korg Triton sound module</li>
-    <li>Yamaha NS-10 speakers</li>
-    <li>Sony surround speakers</li>
-  </ul>
-  <h3>Instrumentation</h3>
-  <ul>
-    <li>Yamaha Clavinova digital piano</li>
-    <li>Korg Trinity Pro</li>
-    <li>Fender Jazz bass</li>
-  </ul>
-  <h3>VST sound modules</h3>
-  <ul>
-    <li>Gigastudio sampler</li>
-    <li>Propellerheads Reason</li>
-    <li>Propellerheads Rebirth</li>
-    <li>AKAI sample libraries</li>
-  </ul>
-  <h3>Digital Audio Workstations</h3>
-  <ul>
-    <li>Emagic Logic Platinum 5</li>
-    <li>Steinberg Cubase VST 4</li>
-    <li>Sonic Foundry Acid Pro</li>
-  </ul>
-  <h3>Audio and video editors</h3>
-  <ul>
-    <li><a href="https://www.soundonsound.com/reviews/bias-peak-pro-6-xt">BIAS Peak</a></li>
-    <li>Sonic Foundry SoundForge</li>
-    <li>Sonic Foundry Vegas Pro</li>
-  </ul>
-  <h3>Game audio</h3>
-  <ul>
-    <li>In-house <a href="https://www.gamesindustry.biz/natsume-and-playstosrsquos-conspiracy">Wazábe&reg; game engine & audio middleware</a></li>
-    <li>Sony Playstation2 SDK</li>
-    <li>Xbox XACT audio middleware</li>
-    <li><a href="http://www.alienbrain.com/">Alienbrain</a> assets manager</li>
-  </ul>
-  <h3>Microphones</h3>
-  <ul>
-    <li>SM57</li>
-    <li>SM58</li>
-  </ul>
-</div>
-
-![Photo of the studio, where an Xbox SDK is visible at the top of a rack](/assets/images/playstos-studio-2.jpg){: width="1200" height="900" }
-*In-house audio studio, circa 2003 (Xbox transparent SDK visible at the top of the rack)*
-
 ## Xbox implementation
 
 After obtaining a license to develop for PlayStation2, we worked to get _Ruff Trigger_ to the Xbox as well. When numerous SDKs arrived from Microsoft, I learned their [XACT](https://en.wikipedia.org/wiki/Cross-platform_Audio_Creation_Tool) middleware, along with all the **specific performance optimization**. Once our developers integrated the required Xbox libraries and dependencies into the game engine, I could work with XACT using **game calls and real-time parameters** to trigger both sound effects and the adaptive soundtrack. For two years, until the Xbox version was dropped, I'd been implementing audio for two different major game consoles, using specific tools within different platform constraints.
@@ -124,10 +59,10 @@ After obtaining a license to develop for PlayStation2, we worked to get _Ruff Tr
 
 Following a company reorganisation, my project management duties increased. I needed to recalibrate my efforts, including the addition of a new sound designer who previously worked for Sony in Liverpool. That was arguably my best time with the company: two sound designers and an audio programmer working well together in the studio. We were a tight-knit small team, with **an infallible delivery record**. I designed audio and attended daily meetings where I offered my suggestions and voiced our concerns, co-ordinating with the producers. Overall, **the audio team consisted of six people**: two sound designers, two composers, and two audio programmers.
 
-## Game Developer Conference 2002: <abbr title="Game Audio Network Guild">GANG</abbr>, Steam, and a nice learning curve
+> Simone is a very talented audio composer. He pays a lot of attention to quality and detail, and he’s always willing to improve his wide array of skills. Definitely a pleasure to work with.
+> <cite>**Michele Sandroni**, [Technical Artist at Bosch Rexroth AG](https://www.linkedin.com/in/michelesandroni/)</cite>
 
-![GDC 2002: Entrance of the Convention Center in San Jose](/assets/images/gdc-2002-entrance.jpg){: width="720" height="540" }
-*GDC 2002: Entrance of the Convention Center in San Jose*
+## Game Developer Conference 2002: <abbr title="Game Audio Network Guild">GANG</abbr>, Steam, and a nice learning curve
 
 Between 19 and 23 March 2002 twelve colleagues and I attended the [Game Developer Conference](https://gdconf.com/) in San Jose (California). The motto for that edition, where ten thousand people participated, was _Make Better Games_. A **fantastic formative experience**, it pushed me out of my comfort zone like anything has ever done before. I met with strangers from all over the world, discussed our respective viewpoints, and exchanged contacts. I took an astounding amount of notes! My first day was filled with the 8-hours workshop _Using DirectMusic for Music and Sound FX_, with [Brian Schmidt](https://www.brianschmidtstudios.com/) and Scott Selfon (then at Microsoft) giving amazing insights into how to optimize the audio delivery on an Xbox using XACT.
 
@@ -171,13 +106,65 @@ To recover from the burnout, I'd decided to turn most of my interest to web desi
 
 While I'd been updating my skills by studying Wwise, FMOD and their integration with modern game engines, I got to work as a [sound designer for Paris-based Amuse Animations]({{ site.url }}/work/sound-design/car-city-cartoon/).
 
-## Selected endorsements from Playstos
-
-> When passion goes beyond working duties… here’s Simone. Addiction and reliability are two great details you can't easily find nowadays in a professional and he gets both.
-> <cite>**Jean Claude Nouchy**, [Houdini FX technical director and trainer](http://www.visualcortexlab.com/showreel/)</cite>
-
-> Great co-worker! Very careful, serious and responsible, never superficial. Good webmaster with wide knowledge of the Apple world, the Adobe software and all that’s connected to audio engineering. Highly recommended.
-> <cite>**Daniele Pieroni**, [Senior Game Developer Relations Engineer at Intel Corporation](https://www.linkedin.com/in/danielepieroni/)</cite>
-
-> Simone is a very talented web designer and audio composer. He pays a lot of attention to quality and detail, and he’s always willing to improve his wide array of skills. Definitely a pleasure to work with.
-> <cite>**Michele Sandroni**, [Technical Artist at Bosch Rexroth AG](https://www.linkedin.com/in/michelesandroni/)</cite>
+<div class="warning">
+  <h2 id="the-studio"><strong>Bonus content: the studio</strong></h2>
+  <p>An Apple G4 and two Dell machines <strong>ran in digital sync</strong>: they were all equipped with the same model of Creamware Pulsar II soundcard, connected to a Yamaha 01W digital mixer through an <a href="https://www.wikiaudio.org/aes-ebu/">AES/EBU</a> sync box. Each computer had a specific digital audio workstation, which were often connected together through MIDI Time Code:</p>
+  <ul>
+    <li><strong>Emagic Logic Platinum</strong>, main <abbr title="Digital Audio Workstation">DAW</abbr>, on Mac OS X.</li>
+    <li><strong>Steinberg Cubase VST</strong>, secondary, hosting the sampler.</li>
+    <li><strong>Sonic Foundry Acid Pro</strong>, running loops.</li>
+  </ul>
+  <p>Mixes went through the Yamaha digital mixer, to be bounced on a Sony <abbr title="Digital Audio Tape">DAT</abbr>, before the final master was sampled back into the computer. One of the Dell machines also hosted the software developer kits: a level editor, the audio middleware, and later <strong>Microsoft XACT for Xbox</strong>. The photo below shows this setup, at the beginning of 2002.</p>
+  <p><img src="/assets/images/playstos-studio.jpg" alt="In the audio studio, circa 2002" width="800" height="531"></p>
+  <br>
+  <h3><strong>Outboard</strong></h3>
+  <ul>
+    <li>Yamaha 01W digital mixer</li>
+    <li>MOTU Midi Express XT MIDI interface</li>
+    <li>Sony PCM-R300 DAT Player Recorder Deck</li>
+    <li>Novation A-station sound module</li>
+    <li>Roland JV-2080 sound module</li>
+    <li>Korg Triton sound module</li>
+    <li>Yamaha NS-10 speakers</li>
+    <li>Sony surround speakers</li>
+  </ul>
+  <h3><strong>Instrumentation</strong></h3>
+  <ul>
+    <li>Yamaha Clavinova digital piano</li>
+    <li>Korg Trinity Pro</li>
+    <li>Fender Jazz bass</li>
+  </ul>
+  <h3><strong>VST sound modules</strong></h3>
+  <ul>
+    <li>Gigastudio sampler</li>
+    <li>Propellerheads Reason</li>
+    <li>Propellerheads Rebirth</li>
+    <li>AKAI sample libraries</li>
+  </ul>
+  <h3><strong>Digital Audio Workstations</strong></h3>
+  <ul>
+    <li>Emagic Logic Platinum 5</li>
+    <li>Steinberg Cubase VST 4</li>
+    <li>Sonic Foundry Acid Pro</li>
+  </ul>
+  <h3><strong>Audio and video editors</strong></h3>
+  <ul>
+    <li><a href="https://www.soundonsound.com/reviews/bias-peak-pro-6-xt">BIAS Peak</a></li>
+    <li>Sonic Foundry SoundForge</li>
+    <li>Sonic Foundry Vegas Pro</li>
+  </ul>
+  <h3><strong>Game audio</strong></h3>
+  <ul>
+    <li>In-house <a href="https://www.gamesindustry.biz/natsume-and-playstosrsquos-conspiracy">Wazábe&reg; game engine & audio middleware</a></li>
+    <li>Sony Playstation2 SDK</li>
+    <li>Xbox XACT audio middleware</li>
+    <li><a href="http://www.alienbrain.com/">Alienbrain</a> assets manager</li>
+  </ul>
+  <h3><strong>Microphones</strong></h3>
+  <ul>
+    <li>SM57</li>
+    <li>SM58</li>
+  </ul>
+  <p><img src="/assets/images/playstos-studio-2.jpg" alt="Photo of the studio, where an Xbox SDK is visible at the top of a rack" width="1200" height="900">
+  <em>Audio studio, circa 2003, featuring a transparent Xbox SDK at the top of the rack</em></p>
+</div>

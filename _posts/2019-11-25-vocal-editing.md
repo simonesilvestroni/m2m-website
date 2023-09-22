@@ -1,5 +1,5 @@
 ---
-title: 'Vocal editing'
+title: 'Sound design: editing vocals'
 date: '2019-11-25'
 last_modified_at: '2022-01-27 12:39:54'
 tags: 

@@ -1,5 +1,5 @@
 ---
-title: 'Drums restoration'
+title: 'Sound design: Drums restoration'
 date: '2017-06-20'
 last_modified_at: '2022-01-27 12:40:09'
 tags:
