@@ -71,6 +71,6 @@ Endorsed&nbsp;by [Leland Sklar and others](/work/endorsements/).
 	{%- for post in bassProjects %}
 	{% include pattern-casestudy.html %}
 	{% endfor %}
-	<p>Here's a Spotify playlist with a more comprehensive list of songs where I recorded bass tracks:</p>
+	<p>Here’s a Spotify playlist with a more comprehensive list of songs where I recorded bass tracks:</p>
 	<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1EC2Hm0xSywc5pITPMhuIA?utm_source=generator" width="100%" height="475" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
