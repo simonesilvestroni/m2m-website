@@ -23,13 +23,13 @@ featimage-height: 720
 permalink: /work/sound-design/ruff-trigger-playstation2-game/
 ---
 > Great co-worker! Very careful, serious and responsible, never superficial, with a wide knowledge of the Apple world, and all that’s connected to audio engineering. Highly recommended.
-> <cite>**Daniele Pieroni**, [Senior Game Developer Relations Engineer at Intel Corporation](https://www.linkedin.com/in/danielepieroni/)</cite>
+> <cite>**Daniele Pieroni**, [senior game developer relations engineer at Intel](https://www.linkedin.com/in/danielepieroni/)</cite>
 
-Hired by Playstos Entertainment in January 2000, I stayed for five years, helping to shape their debut title, _Ruff Trigger: The Vanocore Conspiracy_. The company didn't have a defined plan for the game audio, so within a few months **I turned a decent-sized room into a [full-fledged studio](#the-studio)**, capable of handling the workflow of an audio team.
+Hired by Playstos Entertainment in January 2000, I helped shaping their debut title — _Ruff Trigger: The Vanocore Conspiracy_. As my first duty was to define a plan for the game audio, I started by **turning a perfect-sized room into a [full-fledged studio](#the-studio)**, capable of handling the workflow of a small dedicated audio team.
 
 ## Adaptive soundtrack
 
-Working closely with the audio programmers, I wrote and implemented an [adaptive soundtrack](https://en.wikipedia.org/wiki/Adaptive_music) within the **in-house game engine Wazábe&reg;**. I deployed stems divided in overlaying chunks: similarly to what can be achieved today with modern audio middleware such as Wwise and FMOD, the layers could be triggered by specific game parameters based on different runtime situations, thus helping increase or decrease the tension.
+Working closely with the audio programmers, I produced and implemented an [adaptive soundtrack](https://en.wikipedia.org/wiki/Adaptive_music) within the **in-house game engine Wazábe&reg;**. I deployed stems divided in overlaying chunks: similarly to what can be achieved today with modern audio middleware such as Wwise and FMOD, the layers could be triggered by specific game parameters based on different runtime situations, thus helping increase or decrease the tension.
 
 <div class="warning">
   <h3>Examples</h3>
