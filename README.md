@@ -36,10 +36,7 @@ An unordered list of people who inspired improvements and helped me find a bette
 
 - SVGs for logos and icons
 - 'Dirt' background image by [Michael Rose](https://mademistakes.com/)
-- Typography:
-  + [Geometric Humanist](https://github.com/system-fonts/modern-font-stacks#geometric-humanist) system stack for headings and various interactive elements
-  + [Source Serif Pro](https://www.fontsquirrel.com/fonts/source-serif-pro) locally loaded custom web font for everything else, optimised to weigh as little as possible: `45KB` instead of `519KB` for three variants: regular, regular italic, bold. Georgia is used as a fallback
-  + Courier system stack for everything monospaced
+- Typography: system stack and Georgia for headings and copy. Courier for monospace.
 
 ### Site sustainability
 
