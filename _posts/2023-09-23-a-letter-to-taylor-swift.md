@@ -6,7 +6,7 @@ tags:
   - 'music'
 description: 'Ted Gioia wrote an open letter to Taylor Swift, denouncing the current state of the music industry, and asking for a radical initiative.'
 ---
-The letter starts with an honest introduction, the common ground between Swift and Gioia, two strangers to each other. All emphasis are mine:
+The letter starts with an honest introduction, the common ground between Swift and Gioia. All emphasis are mine:
 
 > I’ve devoted my life to music, but mostly jazz, a niche field with niche concerns, but where I get to spend time with other people who deeply love music. In my own small way, I’ve tried to be an honest broker, working to earn trust and promote a fair and healthy music ecosystem. That’s the one thing we have most in common. We both love the music. We want to see it flourish—not just for ourselves, but **for the good of all musicians. And for the benefit of the fans. And for our communities**.
 
