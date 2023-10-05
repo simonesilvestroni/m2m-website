@@ -4,12 +4,8 @@ title: 'Equipment I use'
 date: '2021-11-08 10:54:03'
 last_modified_at: '2023-09-06 10:01:34'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
-tldr: false
 permalink: '/uses/'
 ---
-{: .warning }
-This page is part of the [uses.tech](https://github.com/wesbos/awesome-uses) project.
-
 ## Hardware
 
 {: .list-hr }

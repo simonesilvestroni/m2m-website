@@ -6,7 +6,7 @@ layout: default
 		<h1 class="p-name">{{ page.title }}</h1>
 	</header>
 	{% unless page.tldr == false %}
-	<p class="p-summary post-tldr">{{ page.description }}</p>
+	<p class="p-summary"><strong>{{ page.description }}</strong></p>
 	{% endunless %}
 	{%- if page.featimage == true %}
 	<figure>
