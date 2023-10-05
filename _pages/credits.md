@@ -43,7 +43,7 @@ An unordered list of people who inspired improvements and helped me find a bette
 
 - SVGs for logos and icons
 - 'Dirt' background image by [Michael Rose](https://mademistakes.com/)
-- Typography: system stack and Georgia for headings and copy. Courier for monospace.
+- Typography: default system UI for sans-serif, and Georgia for serif.
 
 ### Site sustainability
 
