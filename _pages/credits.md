@@ -42,7 +42,7 @@ An unordered list of people who inspired improvements and helped me find a bette
 
 - SVGs for logos and icons
 - 'Dirt' background image by [Michael Rose](https://mademistakes.com/)
-- Typography: default system UI for sans-serif, and Georgia for serif.
+- Typography: default system UI for sans-serif, Iowan Old Style for serif, with fallbacks.
 
 ### Site sustainability
 
