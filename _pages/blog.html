@@ -17,31 +17,17 @@ permalink: /blog/
 	<li><a href="/blog/tag/video-games/">video games</a></li>
 	<li><a href="/sitemap/#tags">more&hellip;</a></li>
 </ul>
-<aside class="warning">
-	<details>
-		<summary>Personal favourites</summary>
-		{% assign featured = site.posts | where_exp:'post','post.tags contains "featured"' %}
-		<ul class="h-feed">
-			{% for post in featured %}
-			<li>
-	      <time class="dim" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d&nbsp;%b&nbsp;%Y" }}</time>
-	      <a href="{{ post.url }}">{{ post.title }}</a>
-	    </li>
-			{% endfor %}
-		</ul>
-	</details>
-</aside>
-<div class="h-feed">
+<section>
 	<h2>All posts</h2>
-	{%- for post in site.posts %}
-	{%- if post -%}{% assign date = post.date %}
-	{%- elsif page -%}{% assign date = page.date %}
-	{%- endif -%}
-	<h3>
-		<a class="u-url" title="Read the post ‘{{ post.title }}’" href="{{ post.url }}">{{ post.title }}</a>{% if post.tags contains "work" %}&nbsp;&nbsp;<mark class="small">WORK</mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small">FAVOURITE</mark>{% endif %}
-	</h3>
-	<time class="dt-published dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %b %Y" }}</time>
-	<p class="p-summary">{{ post.description }}</p>
-	<br>
-	{% endfor %}
-</div>
+	<ul class="h-feed">
+	  {%- for post in site.posts %}
+	  {%- if post -%}{% assign date = post.date %}
+	  {%- elsif page -%}{% assign date = page.date %}
+	  {%- endif -%}
+	  <li>
+	    <time class="dim" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %b %Y" }}</time>
+	    <a href="{{ post.url }}">{{ post.title }}{% if post.tags contains "work" %}&nbsp;&nbsp;<mark class="small">Case&nbsp;study</mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small"><strong>Favourite</strong></mark>{% endif %}</a>
+	  </li>
+	  {% endfor %}
+	</ul>
+</section>
