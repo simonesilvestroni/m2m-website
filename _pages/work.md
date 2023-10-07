@@ -35,37 +35,37 @@ Endorsed&nbsp;by [Leland Sklar and others](/work/endorsements/).
 
 <hr>
 
-<div class="case-studies h-feed">
+<section class="case-studies h-feed">
 	<h3 id="sound-design"><strong>Sound design</strong></h3>
 	<p>I enjoy telling stories with sound using field recording, Foley, synthesis, editing, mix and mastering.</p>
 	{%- for post in designProjects %}
 	{% include pattern-casestudy.html %}
 	{% endfor %}
-</div>
+</section>
 
 <hr>
 
-<div class="case-studies h-feed">
+<section class="case-studies h-feed">
 	<h3 id="music-production"><strong>Music production</strong></h3>
 	<p>As a producer, I help artists deliver a balanced and characterful mix and master.</p>
 	{%- for post in fullProdProjects %}
 	{% include pattern-casestudy.html %}
 	{% endfor %}
-</div>
+</section>
 
 <hr>
 
-<div class="case-studies h-feed">
+<section class="case-studies h-feed">
 	<h3 id="original-music"><strong>Original music</strong></h3>
 	<p>Evoking a theme through interconnected songs is what makes the concept album my favourite.</p>
 	{%- for post in musicProjects %}
 	{% include pattern-casestudy.html %}
 	{% endfor %}
-</div>
+</section>
 
 <hr>
 
-<div class="case-studies h-feed">
+<section class="case-studies h-feed">
 	<h3 id="bass"><strong>Bass</strong></h3>
 	<p>I deliver solid bass tracks that stand out in the mix.</p>
 	{%- for post in bassProjects %}
@@ -73,4 +73,4 @@ Endorsed&nbsp;by [Leland Sklar and others](/work/endorsements/).
 	{% endfor %}
 	<p>Here’s a Spotify playlist with a more comprehensive list of songs where I recorded bass tracks:</p>
 	<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1EC2Hm0xSywc5pITPMhuIA?utm_source=generator" width="100%" height="475" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
+</section>
