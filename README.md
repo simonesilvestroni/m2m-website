@@ -36,7 +36,7 @@ An unordered list of people who inspired improvements and helped me find a bette
 
 - SVGs for logos and icons
 - 'Dirt' background image by [Michael Rose](https://mademistakes.com/)
-- Typography: default system UI for sans-serif, Iowan Old Style for serif, with fallbacks.
+- Typography: default system UI, [Humanist](https://github.com/system-fonts/modern-font-stacks#humanist), Iowan Old Style, with fallbacks.
 
 ### Site sustainability
 
