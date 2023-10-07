@@ -3,6 +3,7 @@ title: Why I use so little software by Apple
 date: '2023-08-25 23:30:58'
 last_modified_at: '2023-08-25 23:31:01'
 tags:
+  - 'apple'
   - 'degrowth'
   - 'internet'
   - 'personal'
