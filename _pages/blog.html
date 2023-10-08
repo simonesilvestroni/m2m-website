@@ -25,7 +25,7 @@ permalink: /blog/
 	  {%- elsif page -%}{% assign date = page.date %}
 	  {%- endif -%}
 	  <li>
-	    <time class="dim" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d %b %Y" }}</time>
+	    <time class="dim" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d&nbsp;%b&nbsp;%Y" }}</time>
 	    <a href="{{ post.url }}" title="{{ post.description }}">{{ post.title }}{% if post.tags contains "work" %}&nbsp;&nbsp;<mark class="small">Case&nbsp;study</mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small"><strong>Favourite</strong></mark>{% endif %}</a>
 	  </li>
 	  {% endfor %}
