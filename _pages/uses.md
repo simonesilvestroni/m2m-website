@@ -2,15 +2,15 @@
 layout: page
 title: 'Equipment I use'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2023-09-06 10:01:34'
+last_modified_at: '2023-10-10 18:43:55'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
 permalink: '/uses/'
 ---
 ## Hardware
 
 {: .list-hr }
-- **Computer**: 2015 MacBook Pro i7 running macOS Catalina and Windows 11. Accessories: 27-in Dell screen, Apple Magic Keyboard 2, Logitech M350 Pebble mouse, Razer Deathadder gaming mouse.
-- **Mobile**: Xiaomi Redmi Note 7 running Android 13 (custom ROM).
+- **Computer**: 2015 MacBook Pro i7 running macOS Ventura. Accessories: 27-in Dell screen, Apple Magic Keyboard 2, Logitech M350 Pebble mouse, Razer Deathadder gaming mouse.
+- **Mobile**: Xiaomi Redmi Note 7 running Android 13 (custom ROM), iPhone SE (1st edition) running iOS 15.7.9.
 
 ## Music equipment
 
@@ -27,12 +27,12 @@ permalink: '/uses/'
 ## Audio software
 
 {: .list-hr }
-- **<abbr title="Digital Audio Workstation">DAW</abbr>s**: [REAPER 6.x]({{ site.url }}/blog/tag/reaper/), Logic Pro X 10.5.1, Pro Tools 12.5, Reason 8.3.2.
+- **<abbr title="Digital Audio Workstation">DAW</abbr>s**: [REAPER 6.x]({{ site.url }}/blog/tag/reaper/), Logic Pro X 10.7.9, Pro Tools 12.5, Reason 8.3.2.
 - **Audio editors**: iZotope RX 6 Standard, iZotope Ozone 9 advanced, Zynaptiq Triumph.
 - **Audio utilities**: Zynaptiq Myriad, Stereo Monoizer, [Swinsian](http://www.swinsian.com).
 - **Virtual instruments**: Kilohearts Phase Plant, XLN Addictive Drums, XLN Addictive Keys, Tonsturm Whoosh 1.5.4, Radical Piano, Waves Flow Motion FM, Decidedly Decent Sampler, Waldorf Streichfett, Vital, Decomposer Sitala, Air XPand! 2, EastWest Hollywood Strings Gold.
 - **Plug-ins**: Soundtoys v5.4, Tokyo Dawn (NOVA, Limiter 6 GE, Kotelnikov GE, Slick EQ GE, Slick EQ Mastering), Waves v13, Kilohearts Snap Heap, Voxengo (SPAN plus, TEOTE), Klanghelm (VUMT deluxe, MJUC vari-mu compressor), AudioThing Fog Convolver, McDSP Compressors Bank, Celemony Melodyne 5.
-- **Game audio**: Audiokinetic Wwise, FMOD studio, Unity, integrated with Visual Studio Code, [Microsoft’s XACT for Xbox]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/#xbox), In-house [Wazábe editor and middleware]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/).
+- **Game audio**: Audiokinetic Wwise, FMOD studio, Unity.
 
 ## Video software
 
@@ -51,8 +51,7 @@ permalink: '/uses/'
 
 {: .list-hr }
 - **Browser**: Firefox (primary), Safari, Vivaldi.
-- **Email**: Thunderbird.
-- **Chat**: BeagleIM (XMPP), LimeChat (IRC).
+- **Email**: Mail.app, Thunderbird.
 
 ## Reading
 
@@ -64,8 +63,7 @@ permalink: '/uses/'
 ## Management
 
 {: .list-hr }
-- [Todo.txt methodology](https://github.com/todotxt) using iA Writer
-- Alfred 5
+- Plain text to-do using iA Writer, as a companion to my paper bullet journal.
 - [Syncthing](https://syncthing.net/)
 - Transmit
 - Commander One

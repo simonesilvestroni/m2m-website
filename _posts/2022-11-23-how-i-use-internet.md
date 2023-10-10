@@ -47,6 +47,8 @@ Besides following subscriptions through RSS and watching videos through a few In
 
 After discovering the [pages functionality in Feedbin](https://feedbin.com/blog/2019/08/20/save-webpages-to-read-later/), I ditched my Pocket account. NetNewsWire handles them well, making it easy to save articles from the Mac.
 
+**Update**: I went back to Pocket in 2023.
+
 ## Social interactions
 
 I joined [Mastodon](https://sonomu.club/@m2m) in 2017, only to leave after a few months because I still was hooked on Twitter. In 2020, I deleted all my social media accounts and re-joined.
@@ -65,7 +67,9 @@ I started blogging in March 2002.
 
 The only news outlet that I check somewhat regularly is [Legible News](https://legiblenews.com/). Like physical newspapers, they publish an update the day after. It’s slow, carefully sourced, and doesn’t track.
 
-If, for whatever reason, the need to read mainstream news headlines arises, I sometimes use the [text version of NPR](https://text.npr.org/). The number of times I find myself checking the site decreases exponentially over time. When I stopped checking _The Guardian_, I simply subscribed to a couple of their weekly or monthly [newsletters](https://www.theguardian.com/email-newsletters), the ones about art, music and long-form reads.
+If, for whatever reason, the need to read mainstream news headlines arises, I sometimes use the [text version of NPR](https://text.npr.org/). The number of times I find myself checking the site decreases exponentially over time. When I stopped checking _The Guardian_, I simply subscribed to a couple of their weekly or monthly newsletters, the ones about art, music and long-form reads.
+
+**Update**: I switched to [Longreads](https://longreads.com) and [The Conversation](https://theconversation.com) in 2023.
 
 ## Search
 
