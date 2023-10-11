@@ -36,7 +36,7 @@ An unordered list of people who inspired me:
 
 - SVGs for logos and icons
 - 'Dirt' background image by [Michael Rose](https://mademistakes.com/)
-- Typography: default system UI, [Humanist](https://github.com/system-fonts/modern-font-stacks#humanist), Iowan Old Style, with fallbacks.
+- Typography: default system UI plus Helvetica Neue, with fallbacks.
 
 ### Site sustainability
 

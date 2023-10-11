@@ -2,7 +2,7 @@
 layout: page
 title: 'Credits'
 date: '2023-01-14 13:49:31'
-last_modified_at: '2023-09-13 21:02:02'
+last_modified_at: '2023-10-11 11:27:28'
 description: 'All about this website: tools, benchmarks, a note about copyright and a thank you to people that inspired me.'
 permalink: '/credits/'
 ---
@@ -42,7 +42,7 @@ An unordered list of people who inspired me:
 
 - SVGs for logos and icons
 - 'Dirt' background image by [Michael Rose](https://mademistakes.com/)
-- Typography: default system UI, [Humanist](https://github.com/system-fonts/modern-font-stacks#humanist), Iowan Old Style, with fallbacks.
+- Typography: default system UI plus Helvetica Neue, with fallbacks.
 
 ### Site sustainability
 
