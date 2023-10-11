@@ -2,7 +2,7 @@
 layout: page
 title: 'About'
 date: '2022-01-14'
-last_modified_at: '2023-08-19 14:01:23'
+last_modified_at: '2023-10-11 11:28:21'
 description: 'I’m Simone (he/him), a straight to the point person with a major interest in sound design, music, and programming.'
 permalink: '/about/'
 featimage: true
@@ -40,6 +40,7 @@ I try to listen to people and be open to new ideas. Disagreeing with a society t
 - Apple certified for Logic Pro X, I switched to [Pro Tools](/blog/tag/pro-tools/), and later [REAPER](/blog/tag/reaper/).
 - Audiokinetic Wwise is my preferred [game audio](/blog/tag/game-audio/) middleware.
 - Field recording, Foley, audio editing and restoration are done with iZotope RX.
+- Here's a comprehensive list of [hardware and software that I use]({{ site.url }}/uses/).
 
 {: .notice }
-[**Hardware and software I use**&nbsp;→]({{ site.url }}/uses/)
+[All about the website&nbsp;→]({{ site.url }}/credits/)
