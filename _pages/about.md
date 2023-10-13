@@ -2,7 +2,7 @@
 layout: page
 title: 'About'
 date: '2022-01-14'
-last_modified_at: '2023-10-11 11:28:21'
+last_modified_at: '2023-10-13 17:51:52'
 description: 'I’m Simone (he/him), a straight to the point person with a major interest in sound design, music, and programming.'
 permalink: '/about/'
 featimage: true
@@ -29,7 +29,7 @@ I try to listen to people and be open to new ideas. Disagreeing with a society t
 - Gen-X born in Italy. First name is pronounced `see-mow-nay`.
 - Graduated in 1995 (bass and music theory) at the _CPM Music Institute_ in Milan.
 - After moving to Milan I worked as a desktop publishing specialist, which proved to be a gateway to a [parallel career in web programming](https://simonesilvestroni.com).
-- I moved to the UK in 2011, enjoying the process of integrating with a different culture.
+- I moved to the UK in 2011, enjoying the process of integrating with a different culture. Currently based in Cambridge.
 - Graduated in 2017 at the _Berklee College of Music_ (audio mastering and music production).
 - My favourite bass player is Andy Rourke.
 - The moniker _Minutes to Midnight_ [does not come from Iron Maiden]({{ site.url }}/about/name-and-logo/).
