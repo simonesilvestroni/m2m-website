@@ -2,21 +2,18 @@ menu:
   - name: Now
     link: /now/
     desc: 'What have I been up to?'
+  - name: Credits
+    link: /credits/
+    desc: 'All about the website'
   - name: Sitemap
     link: /sitemap/
     desc: 'A full sitemap of the website'
   - name: Links
     link: /links/
     desc: 'My Blogroll'
-  - name: Uses
+  - name: My setup
     link: /uses/
     desc: 'Equipment I use'
-  - name: Credits
-    link: /credits/
-    desc: 'All about the website'
-  - name: Search
-    link: /search/
-    desc: 'Accessible search through DuckDuckGoo'
   - name: RSS
     link: /feed.xml
     desc: 'RSS feed'
@@ -24,3 +21,6 @@ menu:
     link: https://themarkup.org/blacklight?url=minutestomidnight.co.uk
     desc: 'About your privacy'
     target: true
+  - name: Search
+    link: /search/
+    desc: 'Accessible search through DuckDuckGoo'
