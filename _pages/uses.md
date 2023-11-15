@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 'Equipment I use'
+title: 'My setup'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2023-10-10 18:43:55'
+last_modified_at: '2023-11-15 19:04:02'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
 permalink: '/uses/'
 ---
@@ -10,7 +10,7 @@ permalink: '/uses/'
 
 {: .list-hr }
 - **Computer**: 2015 MacBook Pro i7 running macOS Ventura. Accessories: 27-in Dell screen, Apple Magic Keyboard 2, Logitech M350 Pebble mouse, Razer Deathadder gaming mouse.
-- **Mobile**: Xiaomi Redmi Note 7 running Android 13 (custom ROM), iPhone SE (1st edition) running iOS 15.7.9.
+- **Mobile**: Xiaomi Redmi Note 7 running Android 13 (custom ROM), iPhone SE (1st edition) running iOS 15.
 
 ## Music equipment
 
@@ -19,15 +19,15 @@ permalink: '/uses/'
 - **Guitar**: Fender Stratocaster.
 - **Interface**: Audient iD14, with a dedicated FX-Audio DAC.
 - **Speakers**: Yamaha HS5.
-- **Headphones**: Ollo S4X, Sony MDR-7506, Beyerdynamic DT 770 Pro.
-- **MIDI controllers**: Novation Launchkey Mini MkII, Korg Micro KEY 66, M-Audio Keystation Mini 32, Behringer X-Touch One.
+- **Headphones**: Ollo S4X, Sony MDR-7506.
+- **MIDI controllers**: Novation Launchkey Mini MkII, Korg Micro KEY 66, Behringer X-Touch One.
 - **Microphones**: Shure SM58, Røde NT5 condenser matched pair with SB20 stereo bar, Thomann SC 1100 studio large diaphragm mic.
 - **Field recording**: Zoom H5, Ulanzy mini tripod MT-08, Movo shock mount, Zoom XY stereo mic, Zoom SSH-6 mid-side stereo shotgun mic, Telephone pick-up coil mic, Korg contact microphone CM-300.
 
 ## Audio software
 
 {: .list-hr }
-- **<abbr title="Digital Audio Workstation">DAW</abbr>s**: [REAPER 6.x]({{ site.url }}/blog/tag/reaper/), Logic Pro X 10.7.9, Pro Tools 12.5, Reason 8.3.2.
+- **<abbr title="Digital Audio Workstation">DAW</abbr>s**: [REAPER 7]({{ site.url }}/blog/tag/reaper/), Logic Pro X 10.8, Pro Tools 12.5, Reason 8.
 - **Audio editors**: iZotope RX 6 Standard, iZotope Ozone 9 advanced, Zynaptiq Triumph.
 - **Audio utilities**: Zynaptiq Myriad, Stereo Monoizer, [Swinsian](http://www.swinsian.com).
 - **Virtual instruments**: Kilohearts Phase Plant, XLN Addictive Drums, XLN Addictive Keys, Tonsturm Whoosh 1.5.4, Radical Piano, Waves Flow Motion FM, Decidedly Decent Sampler, Waldorf Streichfett, Vital, Decomposer Sitala, Air XPand! 2, EastWest Hollywood Strings Gold.
@@ -56,14 +56,14 @@ permalink: '/uses/'
 ## Reading
 
 {: .list-hr }
-- **RSS**: Feedbin, [NetNewsWire 6](https://inessential.com/2023/02/20/on_not_taking_money_for_netnewswire).
+- **RSS**: [NetNewsWire](https://inessential.com/2023/02/20/on_not_taking_money_for_netnewswire).
 - **Read later**: Pocket.
-- **E-reader**: Kobo Glo, Calibre.
+- **E-reader**: Kobo Glo.
 
 ## Management
 
 {: .list-hr }
-- Plain text to-do using iA Writer, as a companion to my paper bullet journal.
+- Plain text to-do using any text editor, as a companion to my paper bullet journal.
 - [Syncthing](https://syncthing.net/)
 - Transmit
 - Commander One
