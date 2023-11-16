@@ -25,7 +25,7 @@ To solve the risk of losing years of collected useful material, he wrote a Go pr
 - PGP keys
 - Pocket articles (both archived and to read), using their included [export tool](https://getpocket.com/export)
 - Podcasts OPML
-- Feedbin OPML
+- RSS OPML
 - Preferences and custom settings for a bunch of macOS programs (Alfred, Carbon Copy Cloner, Graphic Converter, iTerm, NetNewsWire, Reaper, Sublime Text, Typora, iA Writer)
 
 Besides the weekly-ish routine, I also periodically export (once a year, usually) my email, using Thunderbird. The resulting `.mbox` files are then compressed to `.tar` and safely stored. Data backup that doesn’t include binary files are also pushed to private, or sometimes public, git repositories.
