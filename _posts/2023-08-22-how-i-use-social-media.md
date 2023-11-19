@@ -14,6 +14,7 @@ It's been three years since I rejected the morally corrupt, privacy-invading, ti
 
 My approach to Mastodon has consolidated to these practices:
 
+{: .list-hr }
 - Checking out anyone who follows me, using a few criteria on what constitutes a potentially interesting person. It's often empirical.
 - Following (or following back) people who actively interact with others, generally post interesting things, seem empathetic, and are _not a brand_. If there's no authenticity, I see no point. Broadcasting a successful _online persona_ is not being social.
 - Limiting 99% of my posts to pure text and links, which lowers the load on the electric grid.
