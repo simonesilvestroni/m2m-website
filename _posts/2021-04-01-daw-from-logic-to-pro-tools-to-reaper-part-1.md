@@ -74,26 +74,22 @@ Initially, I was seriously attracted by two factors. In order of importance:
 
 REAPER is not free. The trial lasts for two months, after which the software keeps working anyway, fully functional. As Cockos says: it’s _up to your conscience_. No iLok, no authentication required. If you use the software, pay for it. They trust you to do the good thing. As a matter of fact, I tried it for about a week: that’s how long it took me to decide. There are two tiers available: _discounted_ and _commercial_, depending on how you use it — a very sensible distinction.
 
-<table class="table table-responsive my-5">
-  <thead class="table-dark">
-    <tr>
-      <th scope="col" class="w-20">License</th>
-      <th scope="col" class="w-70">Description</th>
-      <th scope="col" class="w-10">Cost</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Discounted</td>
-      <td>You are an individual, and REAPER is only for your personal use, or you are an individual or business using REAPER commercially, and yearly gross revenue does not exceed USD $20,000, or you are an educational or non-profit organization.</td>
-      <td><code><strong>$60</strong></code></td>
-    </tr>
-    <tr>
-      <td>Commercial</td>
-      <td>Every other case.</td>
-      <td><code><strong>$225</strong></code></td>
-    </tr>
-  </tbody>
+<table>
+  <tr>
+    <th scope="col">License</th>
+    <th scope="col">Description</th>
+    <th scope="col">Cost</th>
+  </tr>
+  <tr>
+    <td>Discounted</td>
+    <td>You are an individual, and REAPER is only for your personal use, or you are an individual or business using REAPER commercially, and yearly gross revenue does not exceed USD $20,000, or you are an educational or non-profit organization.</td>
+    <td><code><strong>$60</strong></code></td>
+  </tr>
+  <tr>
+    <td>Commercial</td>
+    <td>Every other case.</td>
+    <td><code><strong>$225</strong></code></td>
+  </tr>
 </table>
 
 **Each license includes two major releases**. For instance, I bought it now, at v6.x, which gives me free updates until v7.99 included. To put things in perspective, Logic Pro X costs `€199`, _no exceptions_.
