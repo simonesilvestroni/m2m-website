@@ -69,6 +69,7 @@ For the last twenty years, I've been obsessed with the idea of recovering my lat
 
 When iZotope released _Master Rebalance_ as part of Ozone and RX, I tried the full process of taking the drums out of an existing song.
 
+{: .list-hr }
 - In Reaper, I imported a full track from a CD he released with his band in the late 1990s.
 - Several passages of Ozone's module later, I removed vocals and bass.
 - I cleaned up piano and distorted guitars with RX.
