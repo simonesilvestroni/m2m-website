@@ -68,7 +68,7 @@
 }
 </script>
 </head>
-<body id="top">
+<body id="top"{% if page.url contains '/blog/tag/' %} class="page-tag"{% endif %}>
 	<a class="skip-to-content" href="#main">Skip to content</a>
 	<a class="skip-to-footer" href="#footer">Skip to footer</a>
 	<header>
