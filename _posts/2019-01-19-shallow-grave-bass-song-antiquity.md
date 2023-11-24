@@ -30,9 +30,9 @@ Also, I love when I’m presented with a proper challenge. As a songwriter, Gera
 
 ### Performed by
 
-- Gerald Duchene / **instrumentation**
-- Dan Ecclestone / **melody and vocals**
-- Simone Silvestroni / **fretless bass**
+- Gerald Duchene: _instrumentation_
+- Dan Ecclestone: _melody and vocals_
+- Simone Silvestroni: _fretless bass_
 
 ### Production
 

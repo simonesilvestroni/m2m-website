@@ -24,7 +24,7 @@ Gerald also received this magnificent endorsement by [Leland Sklar](https://en.w
 
 {: .big }
 > I’m really digging this one. His style reminds me of Paul Webb from Talk Talk. No needless notes. Great tone and feel. Good work, brother.
-> <cite><strong>Leland Sklar</strong></cite>
+> <cite>Leland Sklar</cite>
 
 ## Production notes
 
@@ -34,25 +34,25 @@ I’ve asked the guys to let me know their feelings about the process that lead 
 
 > Writing music is like having children, you are supposed to treat them all with the same amount of love and affection. This song was like the child that questioned everything I did. It asked me why the world was round and why its cat had to die. I have a love/hate relationship with this song.<br>
 > Since it has been finished, it has slowly grown on me. Like a child, you don’t know what you have created till it’s grown up.
-> <cite><strong>Gerald Duchene</strong></cite>
+> <cite>Gerald Duchene</cite>
 
 > This song proved to be a really positive turning point for Gerald and I, having worked together on last year’s *The Experience* album. Despite having worked together effortlessly, a number of recent tunes hadn’t worked out quite as well and we were unsure how to proceed.<br>
 > Gerald broke this creative deadlock by bringing our mutual friend and co-conspirator Simone Silvestroni onboard. Simone had of course been playing bass with Gerald for some time but now acted as a creative go-between, joining the conversations and widening them out from dialogue to discourse.<br>
 > With more heads came a real flow of ideas and all involved agreed: this is probably our finest yet.
-> <cite><strong>Dan Ecclestone</strong></cite>
+> <cite>Dan Ecclestone</cite>
 
 > It’s always a good day in the studio when an Antiquity track is on the speakers, _Shelter From A Storm_ was no exception! The track already had so much life and vibrance to it in the mix, it was clear from the outset that no massive moves where needed from myself.<br>
 > Because of the detail and often complex instrumentation of the Antiquity productions, it’s always integral to make sure all of that nuanced material gets retained in the final master. This song pulls you in and the rhythms and musical ideas are the hook.<br>
 > That level of energy and sense of urgency that permeates the song needed to translate into the finished master. Respecting the detail but maintaining and enhancing the ‘punch’ was the path I walked with _Shelter From A Storm_.
-> <cite><strong>Chris Pavey</strong></cite>
+> <cite>Chris Pavey</cite>
 
 ## Credits
 
 ### Performed by
 
-- Gerald Duchene / **instrumentation**
-- Dan Ecclestone / **vocals and melody**
-- Simone Silvestroni / **bass**
+- Gerald Duchene: _instrumentation_
+- Dan Ecclestone: _vocals and melody_
+- Simone Silvestroni: _bass_
 
 ### Production
 

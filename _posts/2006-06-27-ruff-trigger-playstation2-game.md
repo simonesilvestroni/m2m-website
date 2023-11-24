@@ -23,7 +23,7 @@ featimage-height: 720
 permalink: /work/sound-design/ruff-trigger-playstation2-game/
 ---
 > Great co-worker! Very careful, serious and responsible, never superficial, with a wide knowledge of the Apple world, and all that’s connected to audio engineering. Highly recommended.
-> <cite>**Daniele Pieroni**, [senior game developer relations engineer at Intel](https://www.linkedin.com/in/danielepieroni/)</cite>
+> <cite>Daniele Pieroni**, [senior game developer relations engineer at Intel](https://www.linkedin.com/in/danielepieroni/)</cite>
 
 [Hired by Playstos Entertainment]({{ site.url }}/blog/joining-playstos/) in January 2000, I helped shaping their debut title — _Ruff Trigger: The Vanocore Conspiracy_. As my first duty was to define a plan for the game audio, I started by **turning a perfect-sized room into a [full-fledged studio](#the-studio)**, capable of handling the workflow of a small dedicated audio team.
 
@@ -60,7 +60,7 @@ After obtaining a license to develop for PlayStation2, we worked to get _Ruff Tr
 Following a company reorganisation, my project management duties increased. I needed to recalibrate my efforts, including the addition of a new sound designer who previously worked for Sony in Liverpool. That was arguably my best time with the company: two sound designers and an audio programmer working well together in the studio. We were a tight-knit small team, with **an infallible delivery record**. I designed audio and attended daily meetings where I offered my suggestions and voiced our concerns, co-ordinating with the producers. Overall, **the audio team consisted of six people**: two sound designers, two composers, and two audio programmers.
 
 > Simone is a very talented audio composer. He pays a lot of attention to quality and detail, and he’s always willing to improve his wide array of skills. Definitely a pleasure to work with.
-> <cite>**Michele Sandroni**, [Technical Artist at Bosch Rexroth AG](https://www.linkedin.com/in/michelesandroni/)</cite>
+> <cite>Michele Sandroni**, [Technical Artist at Bosch Rexroth AG](https://www.linkedin.com/in/michelesandroni/)</cite>
 
 ## Game Developer Conference 2002: <abbr title="Game Audio Network Guild">GANG</abbr>, Steam, and a nice learning curve
 

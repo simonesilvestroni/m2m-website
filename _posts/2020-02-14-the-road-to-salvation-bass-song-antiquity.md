@@ -23,9 +23,9 @@ I always enjoy being a part of [Gerald’s music](https://sessions.antiquity-mus
 
 ### Performed by
 
-- Gerald Duchene / **instrumentation**
-- Dan Ecclestone / **vocals and melody**
-- Simone Silvestroni / **bass**
+- Gerald Duchene: _instrumentation_
+- Dan Ecclestone: _vocals and melody_
+- Simone Silvestroni: _bass_
 
 ### Production
 

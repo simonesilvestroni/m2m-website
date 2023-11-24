@@ -38,13 +38,13 @@ This was the first full-fledged album that I mixed using Reaper after [I switche
 
 ### Performed by
 
-- Dan Ecclestone / **piano & vocals**
-- Jake Hatter / **trumpet**
-- Julia Black / **violin**
-- Katharine Parsons / **viola**
-- Abby Wollston / **cello**
-- Richard Partridge / **double bass**
-- David Youngs / **drums**
+- Dan Ecclestone: _piano & vocals_
+- Jake Hatter: _trumpet_
+- Julia Black: _violin_
+- Katharine Parsons: _viola_
+- Abby Wollston: _cello_
+- Richard Partridge: _double bass_
+- David Youngs: _drums_
 
 ### Production
 

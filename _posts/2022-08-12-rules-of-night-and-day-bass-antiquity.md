@@ -25,11 +25,11 @@ permalink: /work/bass/the-rules-of-night-and-day-bass-antiquity/
 
 ### Performed by
 
-- Dan Ecclestone / **vocals and melody**
-- Gerald Duchene / **instrumentation**
-- Angelo Zarra / **lead guitar**
-- Simone Silvestroni / **bass**
-- Matisse Duchene / **trumpet**
+- Dan Ecclestone: _vocals and melody_
+- Gerald Duchene: _instrumentation_
+- Angelo Zarra: _lead guitar_
+- Simone Silvestroni: _bass_
+- Matisse Duchene: _trumpet_
 
 ### Production
 

@@ -23,11 +23,11 @@ permalink: /work/music-production/from-the-country-to-the-city-to-the-sea-album-
 
 ### Performed by
 
-- Dan Ecclestone / **vocals, guitar, ukulele**
-- Chris Peckham / **accordion**
-- Dom Hall-Smith / **bass**
-- David Youngs / **drums, percussion**
-- Liz Mitchell / **clarinet**
+- Dan Ecclestone: _vocals, guitar, ukulele_
+- Chris Peckham: _accordion_
+- Dom Hall-Smith: _bass_
+- David Youngs: _drums, percussion_
+- Liz Mitchell: _clarinet_
 
 ### Production
 
@@ -38,4 +38,4 @@ permalink: /work/music-production/from-the-country-to-the-city-to-the-sea-album-
 - Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
 
 {: .small }
-<br>&copy; 2018 Dan Ecclestone.
+<br>&copy; 2019 Dan Ecclestone.

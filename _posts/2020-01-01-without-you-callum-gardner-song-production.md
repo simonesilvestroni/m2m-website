@@ -27,10 +27,10 @@ Like the previous singles, [_Hang Loose_](/work/music-production/hang-loose-call
 
 ### Performed by
 
-- Callum Gardner / **vocals and acoustic guitar**
-- Hugh Wheatley / **electric and lead guitar, backing vocals**
-- Simone Silvestroni / **fretless bass**
-- Arlen Millwall / **drums, backing vocals**
+- Callum Gardner: _vocals, acoustic guitar_
+- Hugh Wheatley: _electric guitars, backing vocals_
+- Simone Silvestroni: _fretless bass_
+- Arlen Millwall: _drums, backing vocals_
 
 ### Production
 

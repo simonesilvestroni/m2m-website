@@ -104,8 +104,8 @@ For *In Super-8* I used subprojects to save time, but it's useful for sound desi
 
 ### Performed by
 
-- Dan Ecclestone / **vocals and instrumentation**
-- Ian Pickering / **drums**
+- Dan Ecclestone: _vocals and instrumentation_
+- Ian Pickering: _drums_
 
 ### Production
 

@@ -58,7 +58,7 @@ A skilled shoemaker, the SS kept him in the _konzentrationslager_ working on mil
 > Put in the line to the chambers  
 > He was spared by the guards  
 > Only because of his craft  
-> <cite>**Skinny Kid**</cite>
+> <cite>Skinny Kid</cite>
 
 After a while, the SS allowed him, and others, to work outside during the day. It was a common practice at Sachsenhausen. Although we cannot be sure whether he was moved to a [subcamp](https://en.wikipedia.org/wiki/List_of_subcamps_of_Sachsenhausen) or not, we believe he spent the latest months not far from Potsdam. During his time there, he befriended a German citizen. My granddad was adamant in describing this person as someone “working for the office of the local Mayor”. Based on his witness, this was the man, or woman, who suggested _when_ and _how_ to flee.
 
@@ -75,7 +75,7 @@ Unfortunately, we only have little details about the escape: first and foremost 
 > Some clothes and ran  
 > We kept going all night all day  
 > Until Berlin was far away  
-> <cite>**A Little Boy That Santa Claus Forgot On A B-29**</cite>
+> <cite>A Little Boy That Santa Claus Forgot On A B-29</cite>
 
 To survive, they stole clothes, food and at least one weapon. In fact, he carried a [Luger pistol](https://en.wikipedia.org/wiki/Luger_pistol) with him when he came back. After a thorough cleaning, he buried it in the courtyard of our home. Years later, someone erected another building on top of the original hiding place, thus making it impossible to retrieve.
 
@@ -94,7 +94,7 @@ We went to Prague, Dresden and Berlin, before visiting a few towns in West Germa
 > The breeze, the vane  
 > A Trabant passes by  
 > Naked sign of time  
-> <cite>**Berlin 91**</cite>
+> <cite>Berlin 91</cite>
 
 ![My travel card in Berlin, 1991](/assets/images/full-story-berlin-bvg.jpg){: width="1024" height="768" }
 *My travel card in Berlin, 1991*
@@ -155,7 +155,7 @@ I keep wondering what kind of friendship he had with the Russian inmate; if they
 > No future, no fate  
 > ‘Work sets you free’  
 > Next time you might be free  
-> <cite>**Sachsenhausen**</cite>
+> <cite>Sachsenhausen</cite>
 
 ## Making ends meet
 
@@ -166,7 +166,7 @@ My research became a music concept album. Both the synopsis and the music stayed
 > This is me changing the life I planned  
 > That was me thinking of where to stand, that was me  
 > This is me walking the no man’s land  
-> <cite>**Berlin 91**</cite>
+> <cite>Berlin 91</cite>
 
 ## He knows
 

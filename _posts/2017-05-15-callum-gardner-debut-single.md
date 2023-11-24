@@ -30,7 +30,7 @@ The opening act was a young singer-songwriter playing an acoustic solo set, [Cal
 
 > Sometimes things really do happen for a reason. It’s those coincidences that put you in a situation that just would never have happened otherwise. I was filling in last minute for a solo act opening at _Nambucca_ after a friend had kindly waved my name over to an independent promoter. Two people I was introduced to during that show went on to join my musical journey, and we are still in collaboration to this day.
 > 
-> <cite>**Callum Gardner**</cite>
+> <cite>Callum Gardner</cite>
 
 Later, we got in touch and started chatting. Less than a year later he asked me to be part of his new band. There was a debut single ready to be produced and a few live gigs already planned.
 
@@ -42,7 +42,7 @@ The song was mixed and mastered using Logic Pro and Wavelab. Because of some unc
 
 > _Commit to the List_ was written at a very important time for me. I’d moved to London and was eager to make some waves within touching distance of the Thames. It’s still the opening song for my live shows today and went through quite a journey from pen & paper to mix & master.
 > 
-> <cite>**Callum Gardner**</cite>
+> <cite>Callum Gardner</cite>
 
 ## Going live
 
@@ -55,10 +55,10 @@ Rehearsals for the live concerts went well. I loved how quickly we all blended a
 
 ### Performed by
 
-- Callum Gardner / **vocals, guitars**
-- Simone Silvestroni / **bass**
-- Paolo Clementi / **viola**
-- Arlen Millwall / **drums**
+- Callum Gardner: _vocals, guitars_
+- Simone Silvestroni: _bass_
+- Paolo Clementi: _viola_
+- Arlen Millwall: _drums_
 
 ### Production
 

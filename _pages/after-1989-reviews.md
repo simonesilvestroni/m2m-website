@@ -21,7 +21,7 @@ I absolutely love the story and the songs, especially the way historical audio s
 
 {: .big }
 > Ultimately at the core of all the beautiful lyrics, very deliberate melodies, and incredible choice of historical audio samples, this is the story of family.
-> <cite><strong>Rosa Nadine Xochimilco Sánchez</strong></cite>
+> <cite>Rosa Nadine Xochimilco Sánchez</cite>
 
 The subject matter of the concentration camps, the Cold War, and the Berlin Wall all underline the music, and the two things are inseparable from each other as the stories are told. There are echoes of Pink Floyd and The Who in its cinematic scope, as well as darkly emotive lyrics and vocals you might find in tracks by Wolfsheim, Covenant, or Nine Inch Nails.
 
@@ -142,7 +142,7 @@ The first track _Skinny Kid_ opens with some soft piano and a sombre Bowie-like 
 
 {: .big }
 > _After 1989_’s themes are timely and human, and effortlessly connect with a modern audience.
-> <cite><strong>IndieRepublik</strong></cite>
+> <cite>IndieRepublik</cite>
 
 The cleverly named _A Little Boy that Santa Claus Forgot on a B-29_ documents the grandfather and his friend fleeing Berlin toward the end of the war, also providing a parallel narrative of the atomic bombs being dropped on Hiroshima and Nagasaki. Again, _Little Boy_ comes from a place of innocence which is cleverly complimented by a toy piano and some beautiful viola playing.  
 

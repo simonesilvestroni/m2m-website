@@ -27,7 +27,7 @@ Comping his fantastic solo on the fly allowed me to feel how each take was bette
 
 {: .big }
 > _Wriggle a Little_ describe the mental and physical struggle of a lonely introspective creative, looking for longevity and purpose in their work. The music and groove represents that bread trail of small successes—that momentum we all crave to prove we’re on the right track.
-> <cite>**Callum Gardner**</cite>
+> <cite>Callum Gardner</cite>
 
 ## Official video
 
@@ -37,10 +37,10 @@ Comping his fantastic solo on the fly allowed me to feel how each take was bette
 
 ### Performed by
 
-- Callum Gardner / **vocals and acoustic guitar**
-- Hugh Wheatley / **electric guitar, backing vocals**
-- Simone Silvestroni / **bass**
-- Arlen Millwall / **drums, backing vocals**
+- Callum Gardner: _vocals and acoustic guitar_
+- Hugh Wheatley: _electric guitar, backing vocals_
+- Simone Silvestroni: _bass_
+- Arlen Millwall: _drums, backing vocals_
 
 ### Production
 

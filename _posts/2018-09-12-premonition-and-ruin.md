@@ -50,10 +50,10 @@ A year later, I ended up mixing the band’s follow-up album [_From The Country 
 
 ### Performed by
 
-- Dan Ecclestone / **vocals, guitar, ukulele**
-- Chris Peckham / **accordion**
-- Dom Hall-Smith / **bass**
-- Ian Pickering / **drums**
+- Dan Ecclestone: _vocals, guitar, ukulele_
+- Chris Peckham: _accordion_
+- Dom Hall-Smith: _bass_
+- Ian Pickering: _drums_
 
 ### Production
 

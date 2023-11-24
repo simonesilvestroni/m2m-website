@@ -40,7 +40,7 @@ These two songs prefectly encapsulate those days in June 2016. I spoke with [Ger
 
 {: .big }
 > When I first heard the original recordings of these songs, I knew there was something there. Simone and I were pretty much simpatico and on the same page right from the start of our work on these tunes. We’ve been working together for awhile now and it seems like we have comfortably fallen into this new sound. I’m very proud of the work we did on these two great songs by Dan. I think they are the products of careful thoughtful musicianship.
-> <cite>**Gerald Duchene**</cite>
+> <cite>Gerald Duchene</cite>
 
 ## Production notes
 
@@ -62,10 +62,10 @@ A couple of samples completed the remixes. _Land Of Kings_ features the exact TV
 
 ### Performed by
 
-- Simone Silvestroni / **bass, piano, synth, drums, sound effects**
-- Gerald Duchene / **flugel horn, trumpet, guitars, synth, percussion, synth vocals**
-- Dan Ecclestone / **vocals, mellotron, distorted guitar**
-- Romy Gensale / **background vocals**
+- Simone Silvestroni: _bass, piano, synth, drums, sound effects_
+- Gerald Duchene: _flugelhorn, trumpet, guitars, synth, percussion, synth vocals_
+- Dan Ecclestone: _vocals, mellotron, distorted guitar_
+- Romy Gensale: _background vocals_
 
 ### Production
 

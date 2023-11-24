@@ -25,7 +25,7 @@ Besides recording and producing the song, I worked as a bassist, contributing to
 
 {: .big }
 > This song is all about missed opportunities and blessings in disguise. I wrote _Hang Loose_ after failing to pounce upon a great chance to change my career, but little did I know that this mistake would become the catalyst for me to take on my musical journey as a full-time artist.
-> <cite>**Callum Gardner**</cite>
+> <cite>Callum Gardner</cite>
 
 ## Official video
 
@@ -41,10 +41,10 @@ Watch a video teaser of _Hang Loose_ [performed live at the Strongroom](/blog/li
 
 ### Performed by
 
-- Callum Gardner / **vocals, acoustic guitar**
-- Hugh Wheatley / **electric guitar, backing vocals**
-- Simone Silvestroni / **bass**
-- Arlen Millwall / **drums, backing vocals**
+- Callum Gardner: _vocals, acoustic guitar_
+- Hugh Wheatley: _electric guitar, backing vocals_
+- Simone Silvestroni: _bass_
+- Arlen Millwall: _drums, backing vocals_
 
 ### Production
 

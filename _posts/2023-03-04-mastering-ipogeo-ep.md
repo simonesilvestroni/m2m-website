@@ -60,8 +60,8 @@ With [SWS](https://www.sws-extension.org/) installed, checking on loudness is a 
 
 ### Performed by
 
-- Bruno Valeri / **vocals, piano, synth**
-- Emilio Albertoni / **guitars, bass, synth**
+- Bruno Valeri: _vocals_, _piano_, _synth_
+- Emilio Albertoni: _guitars_, _bass_, _synth_
 
 ### Production
 

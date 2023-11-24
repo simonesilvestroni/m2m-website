@@ -67,9 +67,9 @@ We exchanged opinions about the rough mixes, efficiently collaborating to the ed
 
 ### Performed by
 
-- Emilio Albertoni / **guitars, synth, drums**
-- Simone Silvestroni / **bass, drums, sound effects**
-- Gianluca Lo Presti / **vocals, synth, sound effects**  
+- Emilio Albertoni: _guitars, synth, drums_
+- Simone Silvestroni: _bass, drums, sound effects_
+- Gianluca Lo Presti: _vocals, synth, sound effects_
 
 ### Production
 
