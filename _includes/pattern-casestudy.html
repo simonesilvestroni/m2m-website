@@ -4,6 +4,6 @@
 		{%- if post.featimage == true %}
 		<a href="{{ post.url }}" title="Read about {{ post.title }}"><img src="/assets/images/thumb-{{ post.id | split: "/" | last | append: ".jpg" }}" alt="{{ post.title }}" width="120" height="120"></a>
 		{% endif -%}
-		<p>{{ post.description }}&nbsp;&nbsp;<a class="u-url" href="{{ post.url }}" title="Read about {{ post.title }}"><strong>Read&nbsp;more</strong></a></p>
+		<p>{{ post.description }}&nbsp;&nbsp;<a class="u-url" href="{{ post.url }}" title="Read about {{ post.title }}">Read&nbsp;more&nbsp;&rarr;</a></p>
 	</div>
 </div>
