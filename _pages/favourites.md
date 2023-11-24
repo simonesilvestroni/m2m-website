@@ -3,7 +3,7 @@ layout: page
 title: Favourite posts
 date: '2023-11-24 20:13:30'
 last_modified_at: '2023-11-24 20:13:33'
-description: ''
+description: 'A page collecting some posts that I like, or that generated private commants, or got some traction on the internet.'
 tldr: false
 permalink: '/blog/favourites/'
 ---
