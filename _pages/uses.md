@@ -10,7 +10,7 @@ permalink: '/uses/'
 
 {: .list-hr }
 - **Computer**: 2015 MacBook Pro i7 running macOS Ventura. Accessories: 27-in Dell screen, Apple Magic Keyboard 2, Logitech M350 Pebble mouse, Razer Deathadder gaming mouse.
-- **Mobile**: Xiaomi Redmi Note 7 running Android 13 (custom ROM), iPhone SE (1st edition) running iOS 15.
+- **Mobile**: iPhone SE (2nd gen) running iOS 17, Xiaomi Redmi Note 7 running Android 13 (custom ROM).
 
 ## Music equipment
 
