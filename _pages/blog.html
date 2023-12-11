@@ -2,7 +2,7 @@
 layout: blog
 title: 'Blog'
 date: '2021-11-06 14:11:45'
-last_modified_at: '2023-08-23 10:57:42'
+last_modified_at: '2023-12-05 16:26:52'
 description: 'I’ve been running an online journal since March 2002. For fifteen years, it had been published on another domain, exclusively centred around personal thoughts on life and work.'
 permalink: /blog/
 ---
@@ -27,7 +27,7 @@ permalink: /blog/
 	  {%- endif -%}
 	  <li>
 	    <time class="dim" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d&nbsp;%b&nbsp;%Y" }}</time>
-	    <a href="{{ post.url }}" title="{{ post.description }}">{{ post.title }}{% if post.tags contains "work" %}&nbsp;&nbsp;<mark class="small">Case&nbsp;study</mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;&nbsp;<mark class="small"><strong>Favourite</strong></mark>{% endif %}</a>
+	    <a href="{{ post.url }}" title="{{ post.description }}">{{ post.title }}{% if post.tags contains "sound project" %}&nbsp;<mark class="small">Sound&nbsp;project</mark>{% elsif post.tags contains "dev project" %}&nbsp;<mark class="small">Dev&nbsp;project</mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;<mark class="small">Favourite</mark>{% endif %}</a>
 	  </li>
 	  {% endfor %}
 	</ul>
