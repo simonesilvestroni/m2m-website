@@ -2,7 +2,7 @@
 layout: page
 title: 'My setup'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2023-11-27 11:18:57'
+last_modified_at: '2023-12-13 12:46:58'
 description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
 permalink: '/uses/'
 ---
@@ -43,9 +43,9 @@ permalink: '/uses/'
 ## Editing and code
 
 {: .list-hr }
-- **Image editors**: Sketch v59, Pixelmator classic, Graphic Converter 12, ImageOptim.
-- **Text editors**: [Sublime Text 4](https://tonsky.me/blog/sublime/), iA Writer, Typora, Visual Studio Code (for `C#` Unity projects).
-- **Packages**: [MacPorts](https://ports.macports.org/).
+- **Image editors**: Affinity Designer, Affinity Photo, Sketch v59 (legacy files), Graphic Converter 12, ImageOptim.
+- **Text editors**: [Sublime Text 4](https://tonsky.me/blog/sublime/), Textmate 2, iA Writer, Typora, Visual Studio Code (for `C#` Unity projects).
+- **Packages**: Homebrew.
 
 ## Internet
 
@@ -57,8 +57,8 @@ permalink: '/uses/'
 
 {: .list-hr }
 - **RSS**: [NetNewsWire](https://inessential.com/2023/02/20/on_not_taking_money_for_netnewswire) on both macOS and iOS, currently using an offline OPML sync'd through iCloud.
-- **Read later**: Pocket, using Reeder 5 on macOS and the app on mobile.
-- **E-reader**: Kobo Glo.
+- **Read later**: Pocket, using Reeder 5 on both macOS and iOS.
+- **E-reader**: Kobo Glo (2015).
 
 ## Management
 
