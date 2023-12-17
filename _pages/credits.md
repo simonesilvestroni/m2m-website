@@ -42,7 +42,7 @@ An unordered list of people who inspired me:
 
 - SVGs for logos and icons
 - 'Dirt' background image by [Michael Rose](https://mademistakes.com/)
-- Typography: default system UI plus Helvetica Neue, with fallbacks.
+- Typography: Atkinson Hyperlegible.
 
 ### Site sustainability
 
