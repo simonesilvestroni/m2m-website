@@ -14,6 +14,7 @@ As a creature who's prone to read certain things with a hint of dogma, I don't u
 
 A couple of weeks ago, after deciding to take an [indefinite break from social media](https://sonomu.club/@m2m/111081247395833716), I restricted my communication with people to email,[^1] RSS feeds, and the occasional phone chat. Something emerged quickly: 
 
+{: .list-hr }
 - The healthy distance between me and the 24/7 world news firehose *increased*; 
 - I’ve stumbled on a string of thoughtful and very interesting articles about living a more disconnected life.[^2]
 - I turned out calmer and self-aware. Interesting deep thoughts are becoming rarer even on Mastodon, so once I'm not exposed to its constant barrage of people venting frustrations, sharing memes or other ephemeral considerations, I see things differently. 
