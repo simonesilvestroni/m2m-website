@@ -88,9 +88,9 @@ Similarly, a business model based on subscriptions doesn't get my money.
 
 ## Planned obsolescence
 
-All the aforementioned methods are used by their creators to induce [planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence) and bring people to spend more money. A progressive increase in waste is one of the direct results. A sneaky aspect is the arbitrary cycle of upgrades, usually on an annual basis. Apple is likely the worst offender here. Since I care more about [degrowth]({{ site.url }}/blog/tag/degrowth/), I downgraded my old laptop to an operating system from 2018. It works very well, I have sufficient security updates and I avoid using the obsolete packages shipped with the <abbr title="Operating System">OS</abbr>.
+All the aforementioned methods are used by their creators to induce [planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence) and bring people to spend more money. A progressive increase in waste is one of the direct results. A sneaky aspect is the arbitrary cycle of upgrades, usually on an annual basis. Apple is likely the worst offender here. Since I care about [degrowth]({{ site.url }}/blog/tag/degrowth/), ~~I downgraded my old laptop to an operating system from 2018. It works very well, and I have sufficient security updates~~ I started using [OpenCore Legacy Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/) and upgraded my now unsupported Mac to the latest operating system.
 
-The same thing happens with my phone: old, cheap, and running the [latest Android with ease](/blog/installing-android-13-on-an-unsupported-non-google-phone/).
+The same thing happens with my Android phone: old, cheap, and running the [latest system with ease](/blog/installing-android-13-on-an-unsupported-non-google-phone/).
 
 ## Right to repair
 
@@ -100,14 +100,14 @@ Rather than buy the shiny new object, I prefer to [maintain and repair](https://
 
 I support <abbr title="Free and Open-Source Software">FOSS</abbr> projects, including the Mastodon instance that hosts my account, _and_ closed-source software built by small companies with a well-thought business model. None of them have a marketing department gaslighting their customers or plastering ads everywhere. 
 
-A few, mostly multi-platform, examples:
+A few (multi-platform) examples:
 
 - [Cockos](https://cockos.com/)
 - [Klanghelm](https://klanghelm.com/contents/main.html)
 - [Tokyo Dawn Labs](https://www.tokyodawn.net/tokyo-dawn-labs/)
 - [Voxengo](https://www.voxengo.com/)
 - [Sublime HQ](https://www.sublimehq.com/)
-- [Obsidian](https://obsidian.md/)
-- [Alfred](https://www.alfredapp.com/) (macOS only)
+- [Typora](https://typora.io/)
+- [iA Writer](https://ia.net/writer)
 
 I don't pirate software.
