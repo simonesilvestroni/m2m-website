@@ -15,7 +15,7 @@
       style-src 'self' 'unsafe-inline';
       img-src 'self';
       script-src 'self' https://s4.bcbits.com;
-      frame-src https://yewtu.be/embed/ https://www.youtube-nocookie.com/embed/ https://w.soundcloud.com/player/ https://bandcamp.com/EmbeddedPlayer/ https://open.spotify.com/embed/ https://player-widget.mixcloud.com/
+      frame-src https://yewtu.be/embed/ https://www.youtube-nocookie.com/embed/ https://w.soundcloud.com/player/ https://bandcamp.com/EmbeddedPlayer/ https://open.spotify.com/embed/ https://player-widget.mixcloud.com/;
       require-trusted-types-for 'script';
       object-src 'self';
     '''
