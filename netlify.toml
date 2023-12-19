@@ -1,7 +1,7 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    X-Frame-Options = "deny"
+    X-Frame-Options = "SAMEORIGIN"
     X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "no-referrer"
@@ -18,23 +18,19 @@
       frame-src https://yewtu.be/embed/ https://www.youtube-nocookie.com/embed/ https://w.soundcloud.com/player/ https://bandcamp.com/EmbeddedPlayer/ https://open.spotify.com/embed/ https://player-widget.mixcloud.com/
     '''
     Permissions-Policy = '''
-      accelerometer=(none),
-      ambient-light-sensor=(none),
-      autoplay=(none),
-      camera=(none),
-      encrypted-media=(none),
-      fullscreen=(none),
-      geolocation=(none),
-      gyroscope=(none),
-      magnetometer=(none),
-      microphone=(none),
-      midi=(none),
-      payment=(none),
-      picture-in-picture=(none),
-      speaker=(none),
+      accelerometer=(self),
+      autoplay=(self),
+      camera=(self),
+      encrypted-media=(self),
+      fullscreen=(self),
+      geolocation=(self),
+      gyroscope=(self),
+      magnetometer=(self),
+      microphone=(self),
+      midi=(self),
+      payment=(self),
+      picture-in-picture=(self "https://yewtu.be/embed/" "https://www.youtube-nocookie.com/embed/"),
       usb=(none),
-      vibrate=(none),
-      vr=(none)
     '''
 [[headers]]
   for = "/img/*"
