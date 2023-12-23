@@ -25,7 +25,7 @@ Cutting off the news doesn't mean I don't know what's going on in the world, in 
 - Newsletters, to keep my email clean.
 
 {: .notice .cta }
-**Update 5 December 2023**: [I stopped using Feedbin&nbsp;&rarr;]({{ site.url }}/blog/i-stopped-using-feedbin-for-rss/)
+Update 5 December 2023: [I stopped using Feedbin&nbsp;&rarr;]({{ site.url }}/blog/i-stopped-using-feedbin-for-rss/)
 
 ## Pocket
 
