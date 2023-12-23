@@ -69,5 +69,5 @@ permalink: /uses/
 - Commander One
 - Carbon Copy Cloner
 
-{: .notice .cta }
+{: .notice }
 [How I Use The Internet&nbsp;→](/blog/how-i-use-internet/)

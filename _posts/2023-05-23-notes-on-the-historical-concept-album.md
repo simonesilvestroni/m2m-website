@@ -25,5 +25,5 @@ When the algorithm is off, the lights come in.
 > Even if this wasn’t excellent music, I would still recommend it. As the horrors of the Second World War, the Holocaust, and the all-pervading existential terror of the Cold War fade from living memory, it falls to artists to keep that history alive for future generations lest it be repeated.
 > <cite>Matthew Graybosch</cite>
 
-{: .notice .cta }
+{: .notice }
 [Read the full review&nbsp;→](https://starbreaker.org/blog/after-1989-trip-to-freedom/index.html)

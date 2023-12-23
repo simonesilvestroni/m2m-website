@@ -47,5 +47,5 @@ The threat of a pre-emptive strike to America is real, as the level of military 
 - Cuban missile crisis footage by [David G. Coleman](https://historyinpieces.com/).
 - Prelinger Archive.
 
-{: .notice .cta }
+{: .notice }
 [Read the album analysis&nbsp;→](/work/music/after-1989/)
