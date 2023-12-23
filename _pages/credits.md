@@ -2,7 +2,7 @@
 layout: page
 title: 'Credits'
 date: '2023-01-14 13:49:31'
-last_modified_at: '2023-10-11 11:27:28'
+last_modified_at: '2023-12-23 12:41:36'
 description: 'All about this website: tools, benchmarks, a note about copyright and a thank you to people that inspired me.'
 permalink: /credits/
 ---
@@ -12,27 +12,29 @@ Handcrafted by Simone Silvestroni. Maintenance and content updates are achieved 
 
 An unordered list of people who inspired me:
 
+{: .list-hr }
 - [Silvia Maggi](https://silviamaggidesign.com)
 - [Luke Harris](https://www.lkhrs.com)
 - [Zinzy Waleson Geene](https://www.zinzy.website)
-- [Chris Wiegman](https://chriswiegman.com)
-- [Wouter Groeneveld](https://brainbaking.com)
-- [Brad Taunt](https://bt.ht)
-- [Matthew Graybosch](https://starbreaker.org/)
-- [Kev Quirk](https://kevquirk.com)
-- [Ru Singh](https://rusingh.com)
-- [Ruben Schade](https://rubenerd.com/)
 - [Leon Paternoster](https://www.thisdaysportion.com/)
+- [Matthew Graybosch](https://starbreaker.org/)
+- [Wouter Groeneveld](https://brainbaking.com)
+- [Ali Reza Hayati](https://alirezahayati.com)
+- [Chris Wiegman](https://chriswiegman.com)
+- [Ru Singh](https://rusingh.com)
+- [Brad Taunt](https://bt.ht)
 
 ## Site
 
-- Built with Jekyll `v4.2.2`
+{: .list-hr }
+- Built with Jekyll `v4.2.3`
 - Code repository on [GitHub](https://github.com/simonesilvestroni/m2m-website)
 - Hosted on Netlify
 - Latest deploy: {{ site.time | date: "%-d %B %Y, at %H:%M" }}
 
 ### Code
 
+{: .list-hr }
 - Markdown extended
 - Liquid
 - HTML ([validated](https://validator.w3.org/nu/?doc=https%3A%2F%2Fminutestomidnight.co.uk%2F))
@@ -40,13 +42,15 @@ An unordered list of people who inspired me:
 
 ### Visual
 
+{: .list-hr }
 - SVGs for logos and icons
 - 'Dirt' background image by [Michael Rose](https://mademistakes.com/)
-- Typography: Atkinson Hyperlegible.
+- Typography: [Atkinson Hyperlegible](https://en.wikipedia.org/wiki/Atkinson_Hyperlegible)
 
 ### Site sustainability
 
-- The homepage loads in less than a second and weighs `25KB` (`44.1KB` uncompressed)
+{: .list-hr }
+- The homepage loads in less than a second and weighs `56.6KB` (`74.2KB` uncompressed)
 - The entire source code is `3.7MB`
 - `0.01g` of CO<sub>2</sub> [produced when someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/)
 - Scores `100` on [Ecograder](https://ecograder.com/report/crccbrW1xmYgrNUdrNxEulBa)
@@ -55,6 +59,7 @@ An unordered list of people who inspired me:
 
 ### Accessibility
 
+{: .list-hr }
 - Compliant with <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> guidelines
 - Current [WAVE accessibility rank](https://webaim.org/projects/million/lookup?domain=minutestomidnight.co.uk): `#7,280` of 1,000,000
 
