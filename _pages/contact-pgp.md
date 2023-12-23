@@ -5,7 +5,7 @@ date: '2023-07-05 18:56:06'
 last_modified_at: '2023-07-05 18:56:10'
 description: 'My PGP public key.'
 tldr: false
-permalink: '/contact/pgp/'
+permalink: /contact/pgp/
 ---
 Copy and paste it, or [download the key as a file]({{ site.url }}/assets/files/key.pub).
 ```

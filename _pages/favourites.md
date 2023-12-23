@@ -5,7 +5,7 @@ date: '2023-11-24 20:13:30'
 last_modified_at: '2023-11-24 20:13:33'
 description: 'A page collecting some posts that I like, or that generated private commants, or got some traction on the internet.'
 tldr: false
-permalink: '/blog/favourites/'
+permalink: /blog/favourites/
 ---
 {% assign favposts = site.posts | where_exp:'post','post.tags contains "featured"' -%}
 <ul class="h-feed">

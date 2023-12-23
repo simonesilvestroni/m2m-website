@@ -4,7 +4,7 @@ title: 'After 1989: Reviews'
 date: '2020-11-09 10:52:12'
 last_modified_at: '2023-04-07 21:29:18'
 description: "A collection of reviews for ‘After 1989’, gathered from music blogs, magazines, Bandcamp, podcasts and social media."
-permalink: '/work/music/after-1989-reviews/'
+permalink: /work/music/after-1989-reviews/
 ---
 ## In-depth reviews
 

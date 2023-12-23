@@ -6,7 +6,7 @@ last_modified_at: '2023-05-09 19:22:28'
 description: '30 years after the Berlin Wall, the tale of how a young man escaped Germany in 1945, while his grandson made the other way round, looking for answers that he could only find in 2017.'
 robots: 'noindex,follow'
 sitemap: false
-permalink: '/epk/'
+permalink: /epk/
 ---
 ## Video teaser
 

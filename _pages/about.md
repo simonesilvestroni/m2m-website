@@ -4,12 +4,12 @@ title: 'About'
 date: '2022-01-14'
 last_modified_at: '2023-10-13 17:51:52'
 description: 'I’m Simone (he/him), a straight to the point person with a major interest in sound design, music, and programming.'
-permalink: '/about/'
 featimage: true
 featimage-name: simone-silvestroni-warwick.png
 featimage-alt: Simone Silvestroni with a Warwick Thumb Bass
 featimage-width: 780
 featimage-height: 455
+permalink: /about/
 ---
 Playing **bass** since my teenage years, I learned the craft of **audio engineering** as a studio assistant during the Nineties. After moving to the big city, I've explored print design and programming jobs as a source of income, until I was eventually hired as a [sound designer for video games](/blog/tag/sound-design/) in 1999, to me the ultimate audio-visual narrative medium. Having managed to make a career out of _each passion of mine_ means being able to competently juggle between different disciplines, which creates a constant flow of curiosity, and a desire for improvement. [My main focus is still sound]({{ site.url }}/work/).
 

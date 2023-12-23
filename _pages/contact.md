@@ -5,7 +5,7 @@ date: '2021-11-08'
 last_modified_at: '2023-11-16 22:59:40'
 description: 'Reaching out via email is always the best way to get in touch.'
 tldr: false
-permalink: '/contact/'
+permalink: /contact/
 ---
 The best and quickest way to get in touch is [sending an email](mailto:hello@minutestomidnight.co.uk). If secure communication is needed, use my [PGP public key]({{ site.url }}/contact/pgp/). 
 

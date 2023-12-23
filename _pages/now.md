@@ -4,7 +4,7 @@ title: 'Now'
 date: '2023-02-19 21:14:17'
 last_modified_at: '2023-11-15 18:42:46'
 description: 'A ‘Now’ page tells people what the person is focused on at this point in their life. From an idea by Derek Sivers.'
-permalink: '/now/'
+permalink: /now/
 ---
 **Life**: my wife and I have just moved back to the UK, re-settling in the same house in Cambridge where we previously lived for 5 years. 
 
