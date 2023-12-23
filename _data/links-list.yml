@@ -1,6 +1,3 @@
-- name: Indieweb webring
-  url: https://indieweb.org/indiewebring
-  desc: This website is part of the webring. Browse random sites from the same ring, to discover personal websites that are part of the small web.
 - name: Ye Olde Blogroll
   url: https://blogroll.org/
   desc: A humanly curated list of fine personal & independent blogs that are updated regularly. _No algorithms ever_. Managed by [Ray](https://alongtheray.com/).
@@ -84,7 +81,7 @@
   desc: Steven Novella covers news and issues in neuroscience, but also general science, scientific skepticism, philosophy of science, critical thinking, and the intersection of science with the media and society.
 - name: Om Malik
   url: https://om.co/
-  desc: Om is a San Francisco-based writer, photographer, and investor. He writes about technology, photography, and general observations about life. Om likes to write like a human, steering clear of jargon and B-school speak.
+  desc: A San Francisco-based writer, photographer, and investor, Om writes about technology, photography, and personal topics. I like that he writes like a human, steering clear of jargon.
 - name: Abandoned Berlin
   url: https://abandonedberlin.com/
   desc: An attempt to document the past, uncover hidden history and preserve the memory of neglected glories, as they are now.
