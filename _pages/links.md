@@ -2,7 +2,7 @@
 layout: page
 title: Links
 date: '2023-04-25'
-last_modified_at: '2023-04-25 23:46:21'
+last_modified_at: '2023-12-25 16:48:05'
 description: 'A partial list of websites (in alphabetical order) that I consistently follow through RSS. In the good old days this page would have been called “Blogroll”.'
 permalink: /links/
 ---

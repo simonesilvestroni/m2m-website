@@ -1,99 +1,120 @@
 - name: Ye Olde Blogroll
   url: https://blogroll.org/
-  desc: A humanly curated list of fine personal & independent blogs that are updated regularly. _No algorithms ever_. Managed by [Ray](https://alongtheray.com/).
+  desc: "A humanly curated list of fine personal & independent blogs that are updated regularly. _No algorithms ever_. Managed by Raymond Hines."
 - name: Ooh Directory
   url: https://ooh.directory/
-  desc: A collection of sites, bigger than a personal list of favourites, which feature an RSS feed and are updated often. Managed by [Phil Gyford](https://www.gyford.com/).
+  desc: "A collection of sites, bigger than a personal list of favourites, which feature an RSS feed and are updated often. Managed by Phil Gyford."
 - name: Search My Site
   url: https://searchmysite.net/
-  desc: A niche search, focussing on the "indieweb" or "small web" or "digital gardens", i.e. non-commercial content, primarily personal and independent websites. It features a sortable RSS feed of the latest posts. Created by Michael Lewis.
+  desc: "A niche search, focussing on the 'indieweb' or 'small web' or 'digital gardens', i.e. non-commercial content, primarily personal and independent websites. It features a sortable RSS feed of the latest posts. Created by Michael Lewis."
 - name: Melissa Pons
   url: https://thesounddesignprocess.wordpress.com/
-  desc: A field recordist whose main interests orbit around anthropology, environment, culture and social justice. For each project a part of the profit made goes back to the institutions or communities that support much needed causes and that had welcomed and guided her.
+  desc: "A field recordist whose main interests orbit around anthropology, environment, culture and social justice. For each project a part of the profit made goes back to the institutions or communities that support much needed causes and that had welcomed and guided her."
 - name: REAPER blog
   url: https://reaperblog.net/
-  desc: Jon Tidey runs an indispensable resource for the REAPER user community, providing news, reviews, tips & tricks, and detailed tutorials on music production using the REAPER software.
+  desc: "Jon Tidey runs an indispensable resource for the REAPER user community, providing news, reviews, tips & tricks, and detailed tutorials on music production using the REAPER software."
 - name: Silvia Maggi
   url: https://silviamaggidesign.com
-  desc: Web designer focused on usability, accessibility and information architecture. An expert in HTML, CSS and designing using web standards since 2004, she curates the inspiration series _Design, Digested_. Photography is her life-long passion. 🔥 Her newsletter can also be followed via RSS.
+  desc: "Web designer focused on usability, accessibility and information architecture. An expert in HTML, CSS and designing using web standards since 2004, she curates the inspiration series _Design, Digested_. Photography is her life-long passion. Her newsletter can also be followed via RSS."
 - name: Imogen
   url: https://write.as/imgn/
-  desc: She's a scientist, songwriter and storyteller interested in data privacy, decentralized communication and free open source software. I followed Imogen on Mastodon because of her majestic taste in music and ended up finding a human connection with a kindred spirit.
+  desc: "She's a scientist, songwriter and storyteller interested in data privacy, decentralized communication and free open source software. I followed Imogen on Mastodon because of her majestic taste in music and ended up finding a human connection with a kindred spirit."
 - name: Bradley Taunt
   url: https://bt.ht/
-  desc: Works as a user interface and experience designer and also dabble in open source projects. Writes about macOS, design, CSS, web development, digital privacy, Linux.
+  desc: "Works as a user interface and experience designer and also dabble in open source projects. Writes about macOS, design, CSS, web development, digital privacy, Linux."
 - name: Small Technology Foundation
   url: https://small-tech.org/news/
-  desc: Laura and Aral advocate for and build small technology to protect personhood and democracy in the digital network age.
+  desc: "Laura and Aral advocate for and build small technology to protect personhood and democracy in the digital network age."
 - name: Luke Harris
   url: https://www.lkhrs.com
-  desc: Web designer specializing in WordPress, Webflow, and static site generators. He lives and works remotely in Corpus Christi, Texas. Except for geolocation, I have a ton in common with Luke.
+  desc: "Web designer specializing in WordPress, Webflow, and static site generators. He lives and works remotely in Corpus Christi, Texas. Except for geolocation, I have a ton in common with Luke."
 - name: Michael Harley
   url: https://obsolete29.com/
-  desc: Software engineer living in Nashville and working as a SharePoint Developer specializing in Power Apps, Power Automate and PowerShell. He enjoys writing about privacy, development, security, hiking, riding bicycles and grilling.
+  desc: "Software engineer living in Nashville and working as a SharePoint Developer specializing in Power Apps, Power Automate and PowerShell. He enjoys writing about privacy, development, security, hiking, riding bicycles and grilling."
 - name: Wouter Groeneveld
   url: https://brainbaking.com/
-  desc: He's many things, a teacher, researcher, programmer and bread baker. I love Wouter's way of thinking about the web and programming in general, plus he's the source of inspiration for a few functionality added to my websites. One of the very few I've been exchanging webmentions with.
+  desc: "He's many things, a teacher, researcher, programmer and bread baker. I love Wouter's way of thinking about the web and programming in general, plus he's the source of inspiration for a few functionality added to my websites. One of the very few I've been exchanging webmentions with."
 - name: Zachary Flower
   url: http://flower.codes/
-  desc: Another brutalist minimal website that I love. I really enjoy Zach's writings, especially when he focuses on sustainable technology and embracing a slower life. He has a brilliant page collecting rules and values that he lives by.
+  desc: "Another brutalist minimal website that I love. I really enjoy Zach's writings, especially when he focuses on sustainable technology and embracing a slower life. He has a brilliant page collecting rules and values that he lives by."
 - name: Richard Pierce
   url: https://tettig.com/
-  desc: Author, broadcaster and painter from the United Kingdom. His prose is captivating and always incredibly empathetic.
+  desc: "Author, broadcaster and painter from the United Kingdom. His prose is captivating and always incredibly empathetic."
 - name: Raymond Hines
   url: https://alongtheray.com
   desc: "A lifelong entrepreneur who began a nomadic life on the road in 2016. He's been living in a tiny camper ever since. In his inspiring blog he shares the literal and figurative journey in all manner of ways: the highs, lows, introspectives, poetry, photographs, and more."
 - name: Ali Reza Hayati
   url: https://alirezahayati.com/
-  desc: An entrepreneur, hacker, cypherpunk, and user freedom activist working to spread the use of strong cryptography and privacy-enhancing free (as in freedom) technologies to help people take full control over what they own. I share his point of view and love his gentle irony.
+  desc: "An entrepreneur, hacker, cypherpunk, and user freedom activist working to spread the use of strong cryptography and privacy-enhancing free technologies to help people take full control over what they own. I share a lot with Ali, and love his gentle irony."
 - name: Tommaso Marmo
   url: https://tommi.space/zibenglish
-  desc: A proud and enthusiastic fedinaut since 2020. He's a philosophy, international studies and economics student, but actually he does many things. I absolutely am in love with his website, which perfectly conveys the feeling of the weird and free exciting web of the 1990s.
+  desc: "An enthusiastic philosophy, international studies and economics student currently living in Berlin. He does many things. His website perfectly conveys the feeling of the weird and open exciting web of the 1990s."
 - name: Jan Boddez
   url: https://jan.boddez.net/
-  desc: Jan is a mechanical engineer, amateur guitarist, and web standards, WordPress and Laravel enthusiast from Belgium. By following him on Mastodon, I can appreciate his thorough, empathetic and gentle approach to all things, not just tech-related.
+  desc: "Jan is a mechanical engineer, amateur guitarist, and web standards, WordPress and Laravel enthusiast from Belgium. By following him on Mastodon, I can appreciate his thorough, empathetic and gentle approach to all things, not just tech-related."
 - name: Zinzy Waleson Geene
   url: https://www.zinzy.website
-  desc: She works at the intersection of research, design, language, and strategy. At her current job she's taking an interdisciplinary approach to sustainable educational data. I love the content on her website and the fact she's not afraid to experiment with brutalist design, which I'm very fond of.
+  desc: "She works at the intersection of research, design, language, and strategy. At her current job she's taking an interdisciplinary approach to sustainable educational data. I love the content on her website and the fact she's not afraid to experiment with brutalist design, which I'm very fond of."
 - name: Thomas Michael Semmler
   url: https://helloyes.dev/
-  desc: I've been hit by his openness and the opinionated takes on the web design industry, which I wholeheartedly agree with.
+  desc: "I've been hit by his openness and the opinionated takes on the web design industry, which I wholeheartedly agree with."
 - name: Adrianna Tan
   url: https://popagandhi.com
-  desc: She's been blogging since 2003, advocating for an open web. Her website is a magnificent example of minimalist design done well.
+  desc: "She's been blogging since 2003, advocating for an open web. Her website is a magnificent example of minimalist design done well."
 - name: Matthew Graybosch
   url: https://starbreaker.org/
-  desc: The author of the novels _Without Bloodshed_ and _Silent Clarion_, he has a day job as a software developer. Not afraid to tell things by their name, he runs his personal website with the same directness. I've been devouring his posts, waiting to start reading his newest work in progress, _Spiral Architect_.
+  desc: "The author of the novels _Without Bloodshed_ and _Silent Clarion_, he has a day job as a software developer. Not afraid to tell things by their name, he runs his personal website with the same directness. I've been devouring his posts, waiting to start reading his newest work in progress, _Spiral Architect_."
 - name: Steven Hoefer
   url: https://readsteven.com
-  desc: He makes things with his imagination and his hands. When writing doesn't engage his hands enough he invents whimsical — and occasionally useful — gadgets, and shares them with the world. Author of _The Embassy_ Series, an ongoing series of sci-fi novels. I'm procrastinating with Steven's books, but I love his short novella _Ascension Day_.
+  desc: "He makes things with his imagination and his hands. When writing doesn't engage his hands enough he invents whimsical — and occasionally useful — gadgets, and shares them with the world. Author of _The Embassy_ Series, an ongoing series of sci-fi novels. I'm procrastinating with Steven's books, but I love his short novella _Ascension Day_."
 - name: Winifred Phillips
   url: https://winifredphillips.wpcomstaging.com/
-  desc: A composer of music for entertainment media, her work most recently has focused on video games. She writes about music, video games, and the convergence of the two.
+  desc: "A composer of music for entertainment media, her work most recently has focused on video games. She writes about music, video games, and the convergence of the two."
 - name: Game Developer
   url: https://www.gamedeveloper.com/blogs
-  desc: First founded in 1997 as _Gamasutra_, striving to be a leading resource and reference for game development and industry knowledge. Their daily posts focus on current events and developments in the game industry alongside regular, in-depth features and interviews.
+  desc: "First founded in 1997 as _Gamasutra_, striving to be a leading resource and reference for game development and industry knowledge. Their daily posts focus on current events and developments in the game industry alongside regular, in-depth features and interviews."
 - name: Gamesindustry.biz
   url: https://www.gamesindustry.biz/
-  desc: A community for news and information about the global video games industry, they deliver news content with opinion-forming industry interviews and analysis, while the site boasts one of the largest recruitment databases for video games-related roles and a comprehensive guide to the events that span the games business.
+  desc: "A community for news and information about the global video games industry, they deliver news content with opinion-forming industry interviews and analysis, while the site boasts one of the largest recruitment databases for video games-related roles and a comprehensive guide to the events that span the games business."
 - name: Neurologica
   url: https://theness.com/neurologicablog
-  desc: Steven Novella covers news and issues in neuroscience, but also general science, scientific skepticism, philosophy of science, critical thinking, and the intersection of science with the media and society.
+  desc: "Steven Novella covers news and issues in neuroscience, but also general science, scientific skepticism, philosophy of science, critical thinking, and the intersection of science with the media and society."
 - name: Om Malik
   url: https://om.co/
-  desc: A San Francisco-based writer, photographer, and investor, Om writes about technology, photography, and personal topics. I like that he writes like a human, steering clear of jargon.
+  desc: "A San Francisco-based writer, photographer, and investor, Om writes about technology, photography, and personal topics. I like that he writes like a human, steering clear of jargon."
 - name: Abandoned Berlin
   url: https://abandonedberlin.com/
-  desc: An attempt to document the past, uncover hidden history and preserve the memory of neglected glories, as they are now.
+  desc: "An attempt to document the past, uncover hidden history and preserve the memory of neglected glories, as they are now."
 - name: Alison Wilder
   url: https://alisonwilder.net/
-  desc: Music obsessive with a wild passion for beautiful and efficient systems. Advocates for human-scale thinking & design. I absolutely love how she bends the tone of her voice to the needs of the music she writes.
+  desc: "Music obsessive with a wild passion for beautiful and efficient systems. Advocates for human-scale thinking & design. I'm in love with how she's able to bend the tone of her voice to the needs of the music she writes."
 - name: Chris Wiegman
   url: https://chriswiegman.com/
-  desc: Engineering manager, teacher and speaker, whose work focuses on WordPress, developer experience and emphasizes humane and sustainable technology. I enjoy how our online debates carry a satisfying feeling of reciprocal improvement.
+  desc: "Engineering manager, teacher and speaker, whose work focuses on WordPress, developer experience and emphasizes humane and sustainable technology. I enjoy how our online debates carry a satisfying feeling of reciprocal improvement."
 - name: Daniel Aleksandersen
   url: https://www.ctrl.blog
-  desc: Developer-focused blog, where he shares essays, tutorials, reviews, technical notes and articles on a variety of topics. He works for Vivaldi (browser), and this is one of the very few tech-related blogs that I still follow.
+  desc: "Developer-focused blog, where he shares essays, tutorials, reviews, technical notes and articles on a variety of topics. He works for Vivaldi (browser), and this is one of the very few tech-related blogs that I still follow."
 - name: Michał Żelazny
   url: https://www.michalzelazny.com/
-  desc: His blog, named _Untitled_, is loaded with feelings that I can relate to. Michał and I never met in person, however we share a common point of view on so many things, it's become a common thing to have an email exchange after each publication.
+  desc: "His blog, named _Untitled_, is loaded with feelings that I can relate to. Michał and I never met in person, however we share a common point of view on so many things, it's become a common thing to have an email exchange after each publication."
+- name: Peter Moore
+  url: https://pimoore.ca/
+  desc: "Pete defines himself as a 'bearded smartass, future embarrassment, permanent geek'. He's a Gen X as I am, and I feel this communal origin: we share many a thing, including a love for typewriters. What he writes often hits home, so every few blog posts of his, we have an email exchange."
+- name: The History of the Web
+  url: https://thehistoryoftheweb.com/
+  desc: "Side project by Jay Hoffmann, it started as a timeline with the goal to create a detailed timeline that spans the entire history of the web. It's now a website, a blog, and a twice-a-month newsletter."
+- name: Unixsheikh
+  url: https://unixsheikh.com/
+  desc: "Danish, born in the 1970s, he's a passionate proponent of open source, and of making systems simple, clear, secure and very performant. I read a gigantic amount of posts they, loving the pragmatic approach and sharing their opinionated stances."
+- name: Michael Tsai
+  url: https://mjtsai.com/blog/
+  desc: "Tech-related blog from the author of a few macOS apps that have been around for two decades. Michael quotes a lot of point of views from articles and posts on various social media, giving an objective round of opinions on any topic."
+- name: Garrit Franke
+  url: https://garrit.xyz/
+  desc: "I've found about Garrit a while ago, back when I was researching the indieweb, and never stopped following his RSS feed. We share several habits, including our common love for taking notes on small pocket-sized notepads. I like his weird lists a lot, such as life goals and impossible tasks."
+- name: Mike Haynes
+  url: https://mikehayn.es/
+  desc: "A fellow introverted, Mike is another find from the Fediverse. I love his website, the simple and minimalistic yet detailed good design, the immediate access to information, the cool idea of an 'ephemeral' photo gallery that's not related to what people consider online images nowadays."
+- name: Flamed Fury
+  url: https://flamedfury.com/
+  desc: "I got to know Flamed thanks to the networking power of the Fediverse, where strangers read other strangers' posts and connect dots that were naturally there. Flamed insists on themes that I care about a lot, often using the same arguments."
