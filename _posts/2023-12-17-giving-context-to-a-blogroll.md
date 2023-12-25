@@ -20,4 +20,10 @@ While list-only blogrolls are pretty common, the result of reading them across v
 - Why are you following them?
 - What’s in their blog that caught your interest?
 
-It doesn't have to be a long synopsis, a little context is what might actually drive me to their websites, which should be the ultimate goal of a blogroll: to share interesting bits of the web to potentially like-minded people. I’ve stumbled upon several blogrolls that are descriptive and interesting, and beside [my own](https://minutestomidnight.co.uk/links/), these are two fitting examples: [https://starbreaker.org/links/](https://starbreaker.org/links/), and [https://maya.land/blogroll.opml](https://maya.land/blogroll.opml). The latter is also a beautiful example of how to format an [OPML](https://en.wikipedia.org/wiki/OPML) file for the web, something I’d really like to do someday.
+It doesn't have to be a long synopsis, a little context is what might actually drive me to their websites, which should be the ultimate goal of a blogroll: to share interesting bits of the web to potentially like-minded people. I’ve stumbled upon several blogrolls that are descriptive and interesting, and beside [my own](https://minutestomidnight.co.uk/links/), these are fitting examples: [Starbreaker links](https://starbreaker.org/links/), [Silvia Maggi links](https://silviamaggidesign.com/links/), and [Maya Land Blogroll](https://maya.land/blogroll.opml). The latter is also a beautiful example of how to format an [OPML](https://en.wikipedia.org/wiki/OPML) file for the web, something I’d really like to do someday.
+
+## Edit: 25 December 2023
+
+After publishing the post, I received several awesome replies. Evidently, the grocery-list blogroll is so common that people don't even notice the lack of context is making them bland. People who changed their blogroll and added context so far: [Garrit Franke](https://garrit.xyz/blogroll), [Ali Reza Hayati](https://alirezahayati.com/blogroll/), [Mike Haynes](https://mikehayn.es/). 
+
+Another amazing discovery was the post [_The Art of Hyperlinking_](https://flamedfury.com/posts/the-art-of-hyperlinking/) by Flamed Fury, which, unbeknownst to me, wrote a very similar (while more articulated) post. Flamed also has a [blogroll with context](https://flamedfury.com/links/).
