@@ -2,7 +2,7 @@
 layout: page
 title: 'Credits'
 date: '2023-01-14 13:49:31'
-last_modified_at: '2023-12-23 12:41:36'
+last_modified_at: '2023-12-25 23:27:06'
 description: 'All about this website: tools, benchmarks, a note about copyright and a thank you to people that inspired me.'
 permalink: /credits/
 ---
@@ -27,7 +27,7 @@ An unordered list of people who inspired me:
 ## Site
 
 {: .list-hr }
-- Built with Jekyll `v4.2.3`
+- Built with Jekyll `v4.3.2`
 - Code repository on [GitHub](https://github.com/simonesilvestroni/m2m-website)
 - Hosted on Netlify
 - Latest deploy: {{ site.time | date: "%-d %B %Y, at %H:%M" }}
