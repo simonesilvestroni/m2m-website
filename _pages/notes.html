@@ -13,10 +13,10 @@ permalink: /notes/
   <li>
     {%- if note.replyto -%}
     <img src="/assets/images/reply.svg" alt="Reply">
-    <a href="{{ note.url }}">Reply to <strong>{{ note.replytouser }}</strong></a> /&nbsp;<time class="dt-published dim" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %b %Y" }}</time><br>
+    <a href="{{ note.url }}">Reply to <mark>{{ note.replytouser }}</mark></a> /&nbsp;<time class="dt-published dim" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %b %Y" }}</time><br>
     {%- elsif note.likeof %}
     <img src="/assets/images/like.svg" alt="Like">
-    Like: <a href="{{ note.url }}"><em>{{ note.likeoftitle }}</em> by&nbsp;<strong>{{ note.likeofuser }}</strong></a> /&nbsp;<time class="dt-published dim" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %b %Y" }}</time><br>
+    Like: <a href="{{ note.url }}"><em>{{ note.likeoftitle }}</em> by&nbsp;<mark>{{ note.likeofuser }}</mark></a> /&nbsp;<time class="dt-published dim" datetime="{{ note.date | date_to_xmlschema }}" itemprop="dateCreated">{{ note.date | date: "%-d %b %Y" }}</time><br>
     {%- endif %}
   </li>
   {% endfor -%}
