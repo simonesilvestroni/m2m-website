@@ -19,7 +19,7 @@ An unordered list of people who inspired me:
 - [Leon Paternoster](https://www.thisdaysportion.com/)
 - [Matthew Graybosch](https://starbreaker.org/)
 - [Wouter Groeneveld](https://brainbaking.com)
-- [Ali Reza Hayati](https://alirezahayati.com)
+- [Ali Reza Hayati](https://web.archive.org/web/20231223023152/https://alirezahayati.com/)
 - [Chris Wiegman](https://chriswiegman.com)
 - [Ru Singh](https://rusingh.com)
 - [Brad Taunt](https://bt.ht)
