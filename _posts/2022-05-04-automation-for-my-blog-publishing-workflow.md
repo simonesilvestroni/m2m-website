@@ -3,20 +3,27 @@ title: 'Automation for my static blog publishing workflow'
 date: '2022-05-10'
 last_modified_at: '2022-05-10 13:43:39'
 tags:
+  - 'dev project'
   - 'internet'
   - 'software'
   - 'walled gardens'
   - 'web development'
   - 'workflow'
 description: 'How I’m currently managing new content in my Jekyll-based static blog, using Shortcuts on macOS.'
+featimage: true
+featimage-name: 'automation-for-my-blog-publishing-workflow.jpg'
+featimage-alt: Screenshot of the macOS application Shortcuts showing automation routines
+featimage-width: 1024
+featimage-height: 739
 syndication: true
 syndicate:
   - name: Mastodon
     url: https://indieweb.social/@m2m/108277577329784745
+permalink: /work/dev/automation-for-my-blog-publishing-workflow/
 ---
 Ever since I went live with a redesigned Jekyll-based website, I’ve been looking for ways to improve my publishing workflow. I prefer working with a static website rather than a CMS such as WordPress, yet there are methods to make this process more efficient. This is a work in progress, I might be adding new bits to this concept.
 
-A few weeks ago I saw a few links posted on Mastodon about the frustrations of maintaining a static web site. [Ru Singh](https://rusingh.com/why-bother-with-static-sites/) argued about the complexity that takes away the pleasure of writing. A couple of follow-ups by [Michael Harley](https://obsolete29.com/posts/2022/03/10/why-i-bother-with-static-sites/), who uses Eleventy, and [Luke Harris](https://www.lkhrs.com/blog/2022/04/easier-static-site-publishing/), who uses Hugo, showed different point of views while still aknowledging similar problems.
+A few weeks ago I saw a few links posted on Mastodon about the frustrations of maintaining a static web site. [Ru Singh](https://rusingh.com/why-bother-with-static-sites/) argued about the complexity that takes away the pleasure of writing. A couple of follow-ups by [Michael Harley](https://michaelharley.net/posts/2022/03/10/why-i-bother-with-static-sites/), who uses Eleventy, and [Luke Harris](https://www.lkhrs.com/blog/2022/04/easier-static-site-publishing/), who uses Hugo, showed different point of views while still aknowledging similar problems.
 
 I can understand the issues, yet none particularly apply to me. However, it’s true that I’ve been honing my process, looking for a way where ideally I would end up clicking an icon or dragging a file into a folder and a few seconds later the post would be ready. Read [*Taking Shortcuts*](https://www.robinrendle.com/notes/taking-shortcuts/) by Robin Rendle to get what I’m talking about.
 
