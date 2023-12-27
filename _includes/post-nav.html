@@ -1,13 +1,13 @@
 <div class="pagination">
   <div>
     {% if page.previous.url %}
-    <p>&larr; <strong>Older post</strong></p>
+    <p>&larr;&nbsp;Older post</p>
     <a href="{{ site.url }}{{ page.previous.url }}">{{ page.previous.title }}</a>
     {% endif %}
   </div>
   <div>
     {% if page.next.url %}
-    <p><strong>Newer post</strong> &rarr;</p>
+    <p>Newer post&nbsp;&rarr;</p>
     <a href="{{ site.url }}{{ page.next.url }}">{{ page.next.title }}</a>
     {% endif %}
   </div>
