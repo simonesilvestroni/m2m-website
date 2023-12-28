@@ -24,6 +24,6 @@ It doesn't have to be a long synopsis, a little context is what might actually d
 
 ## Edit: 25 December 2023
 
-After publishing the post, I received several awesome replies. Evidently, the grocery-list blogroll is so common that people don't even notice the lack of context is making them bland. People who changed their blogroll and added context so far: [Garrit Franke](https://garrit.xyz/blogroll), [Ali Reza Hayati](https://web.archive.org/web/20231223023152/https://alirezahayati.com/blogroll/), [Mike Haynes](https://mikehayn.es/blogroll/). 
+After publishing the post, I received several awesome replies. Evidently, the grocery-list blogroll is so common that people don't even notice the lack of context is making them bland. People who changed their blogroll and added context so far: [Garrit Franke](https://garrit.xyz/blogroll), [Ali Reza Hayati](https://web.archive.org/web/20231223023152/https://alirezahayati.com/blogroll/), [Mike Haynes](https://mikehayn.es/blogroll/), [Michal Zelazny](https://www.michalzelazny.com/links/).
 
 Another amazing discovery was the post [_The Art of Hyperlinking_](https://flamedfury.com/posts/the-art-of-hyperlinking/) by Flamed Fury, which, unbeknownst to me, wrote a very similar (while more articulated) post. Flamed also has a [blogroll with context](https://flamedfury.com/links/).
