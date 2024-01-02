@@ -6,7 +6,7 @@
 				<span class="visually-hidden">Minutes to Midnight</span>
 			{%- endif -%}
 		{%- endcapture -%}
-		<li><a{% if page.url contains item.link %} class="current"{% endif %} href="{{ item.link }}">{{ main-nav-icon }}{{ item.name }}</a></li>
+		<li><a{% if page.url contains item.link %} class="current"{% endif %} href="{{ site.url }}{{ item.link }}">{{ main-nav-icon }}{{ item.name }}</a></li>
 		{% endfor -%}
 	</ul>
 </nav>
