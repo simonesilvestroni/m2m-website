@@ -43,5 +43,5 @@ A year ago today, on the 30th anniversary of the fall of the Berlin Wall, I publ
 - Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
 - Management Christopher Carvalho of [Unlock your sound](https://unlockyoursound.com).
 
-{: .notice }
-[Read the album analysis&nbsp;→](/work/music/after-1989/)
+{: .cta }
+[**Read the album analysis**&nbsp;&rarr;](/work/music/after-1989/)

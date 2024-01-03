@@ -24,8 +24,8 @@ Cutting off the news doesn't mean I don't know what's going on in the world, in 
 - Notifications of any webmentions that my website might receive.
 - Newsletters, to keep my email clean.
 
-{: .notice }
-Update 5 December 2023: [I stopped using Feedbin&nbsp;&rarr;]({{ site.url }}/blog/i-stopped-using-feedbin-for-rss/)
+{: .cta }
+[Update: **I stopped using Feedbin**&nbsp;&rarr;]({{ site.url }}/blog/i-stopped-using-feedbin-for-rss/)
 
 ## Pocket
 

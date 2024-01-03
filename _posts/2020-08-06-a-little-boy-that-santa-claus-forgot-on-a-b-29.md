@@ -63,5 +63,5 @@ The contrast between the Christmas carol-like music of the final section, and th
 - U.S. Army.
 - Barbed wire design by freepik.com.
 
-{: .notice }
-[Read the album analysis&nbsp;→](/work/music/after-1989/)
+{: .cta }
+[**Read the album analysis**&nbsp;&rarr;](/work/music/after-1989/)

@@ -36,5 +36,5 @@ Besides being fully validated, the site doesn't have Javascript functionality pr
 
 No cookies, no analytics, no tracking people.
 
-{: .notice }
+{: .cta }
 [A full case study is on my development website](https://simonesilvestroni.com/project-minutes-to-midnight/)&nbsp;→

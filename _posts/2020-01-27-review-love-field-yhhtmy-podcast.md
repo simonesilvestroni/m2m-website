@@ -33,5 +33,5 @@ Here’s the relevant section:
 
 {% include pattern-video.html id="wb2hRjPuU6Y" %}
 
-{: .notice }
-[Read the album analysis&nbsp;→](/work/music/after-1989/)
+{: .cta }
+[**Read the album analysis**&nbsp;&rarr;](/work/music/after-1989/)
