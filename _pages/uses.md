@@ -3,7 +3,7 @@ layout: page
 title: 'My setup'
 date: '2021-11-08 10:54:03'
 last_modified_at: '2023-12-27 17:42:39'
-description: "Specifics about the hardware and software equipment I use. The page is part of the uses.tech project."
+description: "Specifics about the hardware and software equipment I use. The page is part of the <a href='https://uses.tech'>uses.tech</a> project."
 permalink: /uses/
 ---
 ## Hardware
@@ -166,5 +166,5 @@ permalink: /uses/
 	</tr>
 </table>
 
-{: .notice }
-[How I Use The Internet&nbsp;→](/blog/how-i-use-internet/)
+{: .cta }
+[**How I Use The Internet**&nbsp;→](/blog/how-i-use-internet/)

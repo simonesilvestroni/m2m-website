@@ -3,7 +3,7 @@ layout: page
 title: 'Now'
 date: '2023-02-19 21:14:17'
 last_modified_at: '2023-12-28 12:02:31'
-description: 'A ‘Now’ page tells people what the person is focused on at this point in their life. From an idea by Derek Sivers.'
+description: "A ‘Now’ page tells people what the person is focused on at this point in their life. From an <a href='https://nownownow.com/about'>idea by Derek Sivers</a>."
 permalink: /now/
 ---
 I’ve been growing accustomed to the unbelievable fact that, after a 3-year hiatus abroad, we’ve re-settled in the same house in Cambridge where we previously lived for 5 years.
