@@ -2,46 +2,46 @@
 layout: default
 ---
 <article class="h-entry">
-  <header>
-    <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a rel="me" class="u-url u-uid dim" href="{{ site.url }}{{ page.url }}" title="Permalink">{{ page.date | date: "%-d %B %Y" }}</a></time>
-    <h1 class="p-name">{{ page.title }}</h1>
-    {%- unless page.tldr == false %}
-    <p class="p-summary">{{ page.description }}</p>
-    <!-- <br> -->
-    {% endunless -%}
-    <span class="p-author h-card"><img class="u-photo" src="{{ site.url }}/assets/images/minutes-to-midnight-portrait.jpg" alt="Simone Silvestroni's avatar" width="28" height="28"> by <a class="p-name" href="{{ site.url }}/about/" rel="author">Simone Silvestroni</a>{% if page.replyto %} <span>in reply to <a href="{{ page.replyto }}" class="u-in-reply-to">{{ page.replytouser }}</a></span>{% endif -%}</span>
-  </header>
-  {%- unless page.thumbOnly == true -%}
-  {% if page.featimage == true %}
-  <figure>
-    <img src="{{ site.url }}/assets/images/{{ page.featimage-name }}" alt="{{ page.featimage-alt }}" {{ page.featimage-width | prepend: 'width="' | append: '"' }} {{ page.featimage-height | prepend: 'height="' | append: '"' }}>
-    {%- if page.featimage-caption %}
-    <figcaption class="p-name">{{ page.featimage-caption }}</figcaption>
-    {% endif %}  
-  </figure>
-  {% endif %}
-  {% endunless -%}
-  <div class="e-content">
-    {{ content }}
-  </div>
-  <h4>Related topics</h4>
-  <ul class="list-hr">
-    {% for tag in page.tags -%}
-    <li><a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase }}</a></li>
-    {%- endfor -%}
-  </ul>
-  {% if page.syndication == true %}
-  <h4>Syndication</h4>
-  <ul class="list-hr">
-    {% for s in page.syndicate %}
-    <li><a rel="syndication" class="u-syndication" href="{{ s.url }}">{{ s.name }}</a></li>
-    {% endfor %}
-  </ul>
-  {% endif %}
+	<header>
+		<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a rel="me" class="u-url u-uid dim" href="{{ site.url }}{{ page.url }}" title="Permalink">{{ page.date | date: "%-d %B %Y" }}</a></time>
+		<h1 class="p-name">{{ page.title }}</h1>
+		{%- unless page.tldr == false %}
+		<p class="p-summary">{{ page.description }}</p>
+		{% endunless -%}
+		<span class="p-author h-card"><img class="u-photo" src="{{ site.url }}/assets/images/minutes-to-midnight-portrait.jpg" alt="Simone Silvestroni's avatar" width="28" height="28"> by <a class="p-name" href="{{ site.url }}/about/" rel="author">Simone Silvestroni</a>{% if page.replyto %} <span>in reply to <a href="{{ page.replyto }}" class="u-in-reply-to">{{ page.replytouser }}</a></span>{% endif -%}</span>
+	</header>
+	{%- unless page.thumbOnly == true -%}
+	{% if page.featimage == true %}
+	<figure>
+		<img src="{{ site.url }}/assets/images/{{ page.featimage-name }}" alt="{{ page.featimage-alt }}" {{ page.featimage-width | prepend: 'width="' | append: '"' }} {{ page.featimage-height | prepend: 'height="' | append: '"' }}>
+		{%- if page.featimage-caption %}
+		<figcaption class="p-name">{{ page.featimage-caption }}</figcaption>
+		{% endif %}  
+	</figure>
+	{% endif %}
+	{% endunless -%}
+	<div class="e-content">
+		{{ content }}
+	</div>
+	<br>
+	<div class="warning">
+		<h4>Related topics</h4>
+		<ul class="list-hr">
+			{% for tag in page.tags -%}
+			<li><a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase }}</a></li>
+			{%- endfor -%}
+		</ul>
+		{% if page.syndication == true %}
+		<h4>Syndication</h4>
+		<ul class="list-hr">
+			{% for s in page.syndicate %}
+			<li><a rel="syndication" class="u-syndication" href="{{ s.url }}">{{ s.name }}</a></li>
+			{% endfor %}
+		</ul>
+		{% endif %}
+		<h4>Comments?</h4>
+		<p>Reply <a href="mailto:hello@minutestomidnight.co.uk?subject={{ page.title | uri_escape }}" title="Reply to this post">via email</a>, or use <a href="https://indieweb.org/Webmention">webmentions</a>.</p>
+		<p class="small">If you liked this, consider subscribing to the <a href="{{ site.url }}/feed.xml">full-text RSS feed</a>, so that you’ll get notified whenever I post anything new.</p>
+	</div>
 </article>
-<div class="post-meta">
-  <h4>Comments?</h4>
-  <p>Reply <a href="mailto:hello@minutestomidnight.co.uk?subject={{ page.title | uri_escape }}" title="Reply to this post">via email</a>, or use <a href="https://indieweb.org/Webmention">webmentions</a>.</p>
-  <p class="small">If you liked this, consider subscribing to the <a href="{{ site.url }}/feed.xml">full-text RSS feed</a>, so that you’ll get notified whenever I post anything new.</p>
-</div>
 {% include post-nav.html %}
