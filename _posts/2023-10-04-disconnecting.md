@@ -12,7 +12,7 @@ As a creature who's prone to read certain things with a hint of dogma, I don't u
 
 ## Social media
 
-A couple of weeks ago, after deciding to take an [indefinite break from social media](https://sonomu.club/@m2m/111081247395833716), I restricted my communication with people to email,[^1] RSS feeds, and the occasional phone chat. Something emerged quickly: 
+A couple of weeks ago, after deciding to take an indefinite break from social media, I restricted my communication with people to email,[^1] RSS feeds, and the occasional phone chat. Something emerged quickly: 
 
 {: .list-hr }
 - The healthy distance between me and the 24/7 world news firehose *increased*; 
