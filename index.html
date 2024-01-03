@@ -12,10 +12,10 @@ last_modified_at: '2023-05-09 19:19:28'
 		<div class="e-content">
 			<h2>who?</h2>
 			<p class="p-author">
-				My name is Simone<span class="visually-hidden"> Silvestroni</span>, <span class="p-note">welcome to the personal website where {{ site.who }}</span>
-				<img class="u-photo" src="/assets/images/minutes-to-midnight-portrait.jpg" width="120" height="120" alt="Portrait of Simone Silvestroni with headphones">
+				I’m Simone<span class="visually-hidden"> Silvestroni</span>, <span class="p-note">welcome to the personal website where {{ site.who }}</span>
+				<img class="u-photo" src="{{ site.url }}/assets/images/minutes-to-midnight-portrait.jpg" width="120" height="120" alt="Portrait of Simone Silvestroni with headphones">
 			</p>
-			<p>Minutes to Midnight is a reference to the <em>Doomsday Clock</em>. Both the moniker and the logo are a connection to the unstable risky world I grew up in during the Cold War.</p>
+			<p>The moniker Minutes to Midnight references the <em>Doomsday Clock</em>, a connection to the risky world I grew up in during the Cold War.</p>
 			<a rel="me" class="u-url u-uid cta" href="{{ site.url }}/about/"><strong>More information</strong>&nbsp;&rarr;</a>
 		</div>
 	</div>
@@ -26,7 +26,7 @@ last_modified_at: '2023-05-09 19:19:28'
 		{% for post in site.posts limit:10 %}
 		<li>
 			<time class="dim" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d&nbsp;%b&nbsp;’%y" }}</time>
-			<a href="{{ post.url }}" title="{{ post.description }}">{{ post.title }}</a>
+			<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}">{{ post.title }}</a>
 		</li>
 		{% endfor %}
 	</ul>
