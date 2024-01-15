@@ -82,7 +82,7 @@ Here is my security policy, which grants an [`A+` on benchmarks](https://securit
       style-src 'self';
       img-src 'self' https://webmention.io https://*.amazonaws.com;
       script-src 'self';
-      frame-src https://yewtu.be/embed/ https://www.youtube-nocookie.com/embed/ https://w.soundcloud.com/player/ https://bandcamp.com/EmbeddedPlayer/
+      frame-src https://yewtu.be/embed/ https://www.youtube-nocookie.com/embed/ https://bandcamp.com/EmbeddedPlayer/
     '''
     Permissions-Policy = '''
       accelerometer=(none),
