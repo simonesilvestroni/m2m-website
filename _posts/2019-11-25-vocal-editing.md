@@ -11,7 +11,7 @@ tags:
   - 'recording'
   - 'software'
   - 'sound design'
-  - 'work'
+  - 'sound project'
 description: "I transplanted a vocal performance from one song to a different one by manipulating pitch, formants and tempo. Plus, cleaning up historical speeches."
 featimage: true
 featimage-name: 'vocal-editing.jpg'
@@ -19,7 +19,6 @@ featimage-alt: Rachel Goodman singing
 featimage-caption: Rachel Goodman, who performed on my debut album
 featimage-width: 720
 featimage-height: 720
-permalink: /work/sound-design/vocal-editing/
 ---
 ## Vocal transformation
 
@@ -27,7 +26,7 @@ After the [demo stage of my album]({{ site.url }}/work/music/after-1989-demos/) 
 
 Despite the two songs having different tonality and tempo, I decided to salvage Rachel's parts as backing vocals and counterpoint to Dan Ecclestone's lead.
 
-### Before and after
+### Before &amp; after
 
 Rachel Goodman's performance in _Niemandsland_ (an unpublished demo scrapped in 2017) and the same chorus section edited and adapted for _Skinny Kid_. The tempo jumped from `78` to `105`.
 
@@ -41,15 +40,26 @@ Working on both the pitch and the _formant_, I strived to obtain a new track tha
 
 I love restoring audio for historical speeches. A famous eulogy given by Robert Francis Kennedy in 1968 after Martin Luther King's assassination was [used in this song](https://minutestomidnight.bandcamp.com/track/requiem). iZotope RX was the only tool I used.
 
-### Historical speech: before
+### Before &amp; after
 
-{% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695948953%3Fsecret_token%3Ds-MSqq5&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
+<div class="audioplayer">
+  <span>Robert Kennedy eulogy (before restoration)</span>
+  <audio controls>
+    <source src="{{ site.url }}/assets/sounds/vocals-restoration-rfk-eulogy-before.mp3" type="audio/mpeg" />
+    <p>Download the <a href="{{ site.url }}/assets/sounds/vocals-restoration-rfk-eulogy-before.mp3">MP3 audio file</a> (1.3 MB).</p>
+  </audio>
+</div>
 
-### Historical speech: after
-
-{% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695948973%3Fsecret_token%3Ds-zaojZ&color=%23b4b696&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}
+<div class="audioplayer">
+  <span>Robert Kennedy eulogy (after restoration)</span>
+  <audio controls>
+    <source src="{{ site.url }}/assets/sounds/vocals-restoration-rfk-eulogy-after.mp3" type="audio/mpeg" />
+    <p>Download the <a href="{{ site.url }}/assets/sounds/vocals-restoration-rfk-eulogy-after.mp3">MP3 audio file</a> (1.4 MB).</p>
+  </audio>
+</div>
 
 ## Reviews
 
+{: .big }
 > Simone is a gifted musician, producer and all round creative, with every project we have worked on being greatly improved by his talents. Impressive technical proficiency with various DAW’s (ProTools, Wavelab, RX) as well as the creative knowledge to craft with them what ever is required for the project. When working with Simone, his precise and detailed manor make him an excellent addition to any project or team.
-> <cite>Chris Pavey**, [Chris Pavey Mastering](https://www.chrispaveymastering.com)</cite>
+> <cite>Chris Pavey, [Chris Pavey Mastering](https://www.chrispaveymastering.com)</cite>

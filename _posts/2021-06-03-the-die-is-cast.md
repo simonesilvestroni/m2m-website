@@ -16,11 +16,10 @@ tags:
   - 'reaper'
   - 'remix'
   - 'uk'
-  - 'work'
+  - 'sound project'
 description: "An autobiographical rumination about migrating in Europe during a time of populism. Remixing Ember Rev in collaboration with Antiquity."
 featimage: true
 thumbOnly: true
-permalink: /work/music/the-die-is-cast/
 ---
 {% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=367059768/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://minutestomidnight.bandcamp.com/album/the-die-is-cast-ep">The Die Is Cast (EP) by Minutes to Midnight + Antiquity</a></iframe>' %}
 
@@ -62,19 +61,23 @@ A couple of samples completed the remixes. _Land Of Kings_ features the exact TV
 
 ### Performed by
 
-- Simone Silvestroni: _bass, piano, synth, drums, sound effects_
-- Gerald Duchene: _flugelhorn, trumpet, guitars, synth, percussion, synth vocals_
-- Dan Ecclestone: _vocals, mellotron, distorted guitar_
-- Romy Gensale: _background vocals_
+**Simone Silvestroni**\
+bass, piano, synth, drums, sound effects
+
+**Gerald Duchene**\
+flugelhorn, trumpet, guitars, synth, percussion, synth vocals
+
+**Dan Ecclestone**\
+vocals, mellotron, distorted guitar
+
+**Romy Gensale**\
+background vocals
 
 ### Production
 
-- Recorded between the UK, Italy and the United States.
-- _Papillon_ produced by Simone Silvestroni and Gerald Duchene.
-- _Land Of Kings_ produced by Simone Silvestroni.
-- Mixed and mastered by Simone Silvestroni.
+Recorded between the UK, Italy and the United States / _Papillon_ produced by Simone Silvestroni and Gerald Duchene / _Land Of Kings_ produced by Simone Silvestroni / Mixed and mastered by Simone Silvestroni.
 
 {: .small }
-<br>&copy; 2018 Dan Ecclestone<br>
-&copy; 2021 Remix produced and arranged by Simone Silvestroni and Gerald Duchene.<br>
-℗ 2021 Minutes to Midnight (sound recording copyright).
+<br>&copy; 2018 Dan Ecclestone\
+&copy; 2021 Remix produced and arranged by Simone Silvestroni and Gerald Duchene\
+℗ 2021 Minutes to Midnight (sound recording copyright)

@@ -11,11 +11,10 @@ tags:
   - 'music production'
   - 'music release'
   - 'uk'
-  - 'work'
-description: "I mixed Ember Rev’s follow-up album to ‘Premonition and Ruin’, collaborating with Sam Inglis and Ian Shepherd."
+  - 'sound project'
+description: "I mixed Ember Rev’s follow-up album to ‘Premonition and Ruin’ using Logic Pro, collaborating with Sam Inglis and Ian Shepherd."
 featimage: true
 thumbOnly: true
-permalink: /work/music-production/from-the-country-to-the-city-to-the-sea-album-mix/
 ---
 {% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=404229151/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://emberrev.bandcamp.com/album/from-the-country-to-the-city-to-the-sea-2">From The Country To The City To The Sea by Ember Rev</a></iframe>' %}
 
@@ -23,19 +22,23 @@ permalink: /work/music-production/from-the-country-to-the-city-to-the-sea-album-
 
 ### Performed by
 
-- Dan Ecclestone: _vocals, guitar, ukulele_
-- Chris Peckham: _accordion_
-- Dom Hall-Smith: _bass_
-- David Youngs: _drums, percussion_
-- Liz Mitchell: _clarinet_
+**Dan Ecclestone**\
+vocals, guitar, ukulele
+
+**Chris Peckham**\
+accordion
+
+**Dom Hall-Smith**\
+bass
+
+**David Youngs**\
+drums, percussion
+
+**Liz Mitchell**\
+clarinet
 
 ### Production
-
-- Written by Dan Ecclestone.
-- Produced by Ember Rev.
-- Recorded by [Sam Inglis](https://www.soundonsound.com/author/sam-inglis) at The Mill, February 2019.
-- Mixed by Simone Silvestroni.
-- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
+Written by Dan Ecclestone / Produced by Ember Rev / Recorded by [Sam Inglis](https://www.soundonsound.com/author/sam-inglis) at The Mill, February 2019 / Mixed by Simone Silvestroni / Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
 
 {: .small }
-<br>&copy; 2019 Dan Ecclestone.
+&copy; 2019 Dan Ecclestone

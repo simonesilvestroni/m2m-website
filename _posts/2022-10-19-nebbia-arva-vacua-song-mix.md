@@ -9,11 +9,10 @@ tags:
   - 'music release'
   - 'pro tools'
   - 'italy'
-  - 'work'
-description: 'I mixed the lead song from the debut EP ‘Tales from holographic seas’.'
+  - 'sound project'
+description: 'I mixed the lead song from the debut EP <em>Tales from holographic seas</em>.'
 featimage: true
 thumbOnly: true
-permalink: /work/music-production/nebbia-arva-vacua-song-mix/
 ---
 Based in my hometown Ravenna, the trio ranges between cinematic suggestions and an indie-rock feeling, shifting the perspective of a diverse music background.
 

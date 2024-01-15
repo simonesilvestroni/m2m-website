@@ -1,5 +1,5 @@
 ---
-title: 'Co-production: ‘Funky Bacterium’ by Antiquity'
+title: 'Production: ‘Funky Bacterium’ by Antiquity'
 date: '2021-07-02'
 last_modified_at: '2023-05-23 16:38:08'
 tags:
@@ -10,11 +10,10 @@ tags:
   - 'music release'
   - 'reaper'
   - 'usa'
-  - 'work'
+  - 'sound project'
 featimage: true
 thumbOnly: true
 description: 'Written during the pandemic, this song is about the madness of the times. Loud, in your face, at a 100mph.'
-permalink: /work/music-production/funky-bacterium-antiquity-song-co-production/
 ---
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=4262932484/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/funky-bacterium">Funky Bacterium by Antiquity</a></iframe>' %}
 
@@ -25,15 +24,17 @@ permalink: /work/music-production/funky-bacterium-antiquity-song-co-production/
 
 ### Performed by
 
-- Justine J. Hall: _vocals and melody_
-- Gerald Duchene: _instrumentation_
-- Matisse Duchene: _trumpet_
+**Justine J. Hall**\
+vocals and melody
+
+**Gerald Duchene**\
+instrumentation
+
+**Matisse Duchene**\
+trumpet
 
 ### Production
-
-- Written and mixed by Gerald Duchene.
-- Produced by Gerald Duchene and Simone Silvestroni.
-- Mastered By Chris Pavey.
+Written and mixed by Gerald Duchene / Produced by Gerald Duchene and Simone Silvestroni / Mastered By Chris Pavey.
 
 {: .small }
-<br>&copy; 2021 Gerald Duchene.
+&copy; 2021 Gerald Duchene

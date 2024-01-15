@@ -9,11 +9,10 @@ tags:
   - 'music production'
   - 'reaper'
   - 'software'
-  - 'work'
-description: "I mastered the debut EP for IsadoraD, an Italian duo. They blend electronica, pop and indie."
+  - 'sound project'
+description: "I mastered the debut EP for the Italian duo <em>IsadoraD</em>. They blend electronica, pop and indie."
 featimage: true
 thumbOnly: true
-permalink: /work/music-production/mastering-ipogeo-ep/
 ---
 {% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=3556110038/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://isadorad.bandcamp.com/album/ipogeo">Ipogeo by IsadoraD</a></iframe>' %}
 
@@ -60,14 +59,15 @@ With [SWS](https://www.sws-extension.org/) installed, checking on loudness is a 
 
 ### Performed by
 
-- Bruno Valeri: _vocals_, _piano_, _synth_
-- Emilio Albertoni: _guitars_, _bass_, _synth_
+**Bruno Valeri**\
+vocals, piano, synth
+
+**Emilio Albertoni**\
+guitars, bass, synth
 
 ### Production
-
-- Mixed by Emilio Albertoni.
-- Mastered by Simone Silvestroni.
+Mixed by Emilio Albertoni / Mastered by Simone Silvestroni.
 
 {: .small }
-<br>&copy; 2023 Emilio Albertoni &amp; Bruno Valeri.
-<br>℗ 2023 Minutes to Midnight (sound recording copyright).
+&copy; 2023 Emilio Albertoni &amp; Bruno Valeri\
+℗ 2023 Minutes to Midnight (sound recording copyright)

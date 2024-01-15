@@ -6,7 +6,7 @@ tags:
   - 'bandcamp'
   - 'bass'
   - 'indie artist'
-  - 'work'
+  - 'sound project'
   - 'master'
   - 'mix'
   - 'music production'
@@ -15,7 +15,6 @@ tags:
 description: 'Bass and full production for London-based singer-songwriter Callum Gardner’s new single, ‘Hang Loose’.'
 featimage: true
 thumbOnly: true
-permalink: /work/music-production/hang-loose-callum-gardner-song-production/
 ---
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1148436830/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://callumgardner.bandcamp.com/track/hang-loose">Hang Loose by Callum Gardner</a></iframe>' %}
 
@@ -41,16 +40,22 @@ Watch a video teaser of _Hang Loose_ [performed live at the Strongroom](/blog/li
 
 ### Performed by
 
-- Callum Gardner: _vocals, acoustic guitar_
-- Hugh Wheatley: _electric guitar, backing vocals_
-- Simone Silvestroni: _bass_
-- Arlen Millwall: _drums, backing vocals_
+**Callum Gardner**\
+vocals, acoustic guitar
+
+**Hugh Wheatley**\
+electric guitar, backing vocals
+
+**Simone Silvestroni**\
+bass
+
+**Arlen Millwall**\
+drums, backing vocals
 
 ### Production
 
-- Written by Callum Gardner.
-- Produced, mixed and mastered by Simone Silvestroni.
+Written by Callum Gardner / Produced, mixed and mastered by Simone Silvestroni.
 
 {: .small }
-<br>&copy; 2018 Callum Gardner.<br>
-℗ 2018 Minutes to Midnight (sound recording copyright).
+<br>&copy; 2018 Callum Gardner\
+℗ 2018 Minutes to Midnight (sound recording copyright)

@@ -13,7 +13,7 @@ tags:
   - 'music release'
   - 'pro tools'
   - 'recording'
-  - 'work'
+  - 'sound project'
   - 'workflow'
 description: "An in-depth analysis of the process I go through to produce an effective bass track, from tracking to delivery. Based on a real-life scenario."
 featimage: true
@@ -25,7 +25,6 @@ syndicate:
     url: https://unlockyoursound.com/producing-bass-tracks-remotely/
 sitemap: false
 search: true
-permalink: /work/bass/producing-bass-remotely/
 ---
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
 
@@ -101,14 +100,16 @@ Finally, I switch elastic audio to `X-Form`. As a high-quality process, it is a 
 
 ### EQ
 
-1. I usually focus on the relationship between kick and bass. After working out the fundamental of the kick I try to scoop out that same frequency from the bass, usually in sidechain.
-2. Since I use a 4-string instrument, I remove the deepest sub-bass with a high-pass filter.
-3. Adding _harmonic enhancing_ is usually the most efficient way for the bass guitar to be heard on smaller speakers such as mobile phones, tablets and laptops. I mostly use Waves's _RBass_ for the task.
+{: .list-hr }
+- I usually focus on the relationship between kick and bass. After working out the fundamental of the kick I try to scoop out that same frequency from the bass, usually in sidechain.
+- Since I use a 4-string instrument, I remove the deepest sub-bass with a high-pass filter.
+- Adding _harmonic enhancing_ is usually the most efficient way for the bass guitar to be heard on smaller speakers such as mobile phones, tablets and laptops. I mostly use Waves's _RBass_ for the task.
 
 ### Compression
 
 Not a fan of compressing the source channel, except for when there are extreme peaks or dips. In some cases, Pro Tools’ `clip gain` gets the job done. I prefer compression as a parallel process, oftentimes adopting multiple parallel processes through several busses. After applying different flavours of gentle to more drastic compression, I blend all the signals together. My plug-in staples are:
 
+{: .list-hr }
 - 1176 (black)
 - LA-2A
 - A third of my choice depending on the sound and the interpretation I want to convey:
@@ -143,5 +144,6 @@ Unless I’m working on a larger project, for which I use my [Trello system]({{ 
 
 ## Client review
 
+{: .big }
 > I’ve worked with Simone on both my projects and his and the professionalism and quality of his work is world class. I have rarely had to give direction and he takes direction like an interested pro. I’m very partial to his style and tone. I hope to be still playing with him in the years to come. If you want a bass track that stands out and makes people sit up and listen, Simone is your man.
 > <cite>Gerald Duchene, [Antiquity](http://antiquity-music.com/)</cite>

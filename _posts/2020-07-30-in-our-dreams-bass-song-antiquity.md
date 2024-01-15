@@ -9,11 +9,10 @@ tags:
   - 'indie artist'
   - 'music release'
   - 'usa'
-  - 'work'
+  - 'sound project'
 description: "‘In Our Dreams’ is the new single by Gerald Duchene. Vocals by Dan Ecclestone, bass by Minutes to Midnight."
 featimage: true
 thumbOnly: true
-permalink: /work/bass/in-our-dreams-bass-song-antiquity/
 ---
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=984842794/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/in-our-dreams">In Our Dreams by Antiquity</a></iframe>' %}
 
@@ -23,14 +22,18 @@ I always enjoy being a part of [Gerald’s music](https://sessions.antiquity-mus
 
 ### Performed by
 
-- Gerald Duchene: _instrumentation_
-- Dan Ecclestone: _vocals and melody_
-- Simone Silvestroni: _bass_
+**Gerald Duchene**\
+instrumentation
+
+**Dan Ecclestone**\
+vocals and melody
+
+**Simone Silvestroni**\
+bass
 
 ### Production
 
-- Written, produced and mixed by Gerald Duchene.  
-- Mastered by Chris Pavey.
+Written, produced and mixed by Gerald Duchene / Mastered by Chris Pavey.
 
 {: .small }
 <br>&copy; 2020 Gerald Duchene.

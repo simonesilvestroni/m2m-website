@@ -10,11 +10,10 @@ tags:
   - 'music production'
   - 'mix'
   - 'music release'
-  - 'work'
+  - 'sound project'
 description: 'I snapped out of my comfort zone to help the promising young artist Method Sinik with the production of his recent EP.'
 featimage: true
 thumbOnly: true
-permalink: /work/music-production/eclipse-method-sinik-song-production/
 ---
 ## Stream the song
 
@@ -30,9 +29,12 @@ _Eclipse_ is a new single, part of a different batch of new releases, where I up
 
 ### Performed by
 
-- Lenny Nathan Frumento: _music, production_
-- Simone Silvestroni: _bass, production, mix, master_
+**Lenny Nathan Frumento**\
+music, production
+
+**Simone Silvestroni**\
+bass, production, mix, master
 
 {: .small }
-<br>&copy; 2019 Lenny Nathan Frumento.
-<br>℗ 2019 Minutes to Midnight (sound recording copyright).
+&copy; 2019 Lenny Nathan Frumento\
+℗ 2019 Minutes to Midnight (sound recording copyright)

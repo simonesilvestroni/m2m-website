@@ -11,11 +11,10 @@ tags:
   - 'reaper'
   - 'software'
   - 'uk'
-  - 'work'
+  - 'sound project'
 description: 'How I mixed a rework of Ember Rev’s debut album, exploiting the subproject functionality in REAPER to save time and processing power.'
 featimage: true
 thumbOnly: true
-permalink: /work/music-production/mix-ember-rev-reaper-subprojects/
 syndication: yes
 syndicate:
   - name: Mastodon
@@ -27,6 +26,7 @@ syndicate:
 
 The Cambridge-based band [Ember Rev](https://germanshepherdrecords.com/artists/ember-rev/) published their debut album in 2017&nbsp;—&nbsp;a year before I first met them&nbsp;—&nbsp;and *In Super-8* is a reworking of that album. After having mixed [*Premonition and Ruin*](/work/music-production/premonition-and-ruin/) and [*From The Country To The City To The Sea*](/work/music-production/from-the-country-to-the-city-to-the-sea-album-mix/), it was a brilliant opportunity to have my signature mix on their first trilogy.
 
+{: .big }
 > This re-appraising and re-working is an attempt to capture the character of the songs as they sounded when performed live. This was not  represented in the earlier arrangements which I felt compromised the  songs themselves; songs that we still play to this day.
 > <cite>Dan Ecclestone</cite>
 
@@ -104,13 +104,14 @@ For *In Super-8* I used subprojects to save time, but it's useful for sound desi
 
 ### Performed by
 
-- Dan Ecclestone: _vocals and instrumentation_
-- Ian Pickering: _drums_
+**Dan Ecclestone**\
+vocals and instrumentation
+
+**Ian Pickering**\
+drums
 
 ### Production
-
-- Mixed by Simone Silvestroni.
-- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
+Mixed by Simone Silvestroni / Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
 
 {: .small }
-<br>&copy; 2017 Dan Ecclestone.
+&copy; 2017 Dan Ecclestone

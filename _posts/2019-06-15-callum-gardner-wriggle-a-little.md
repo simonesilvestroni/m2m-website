@@ -11,11 +11,10 @@ tags:
   - 'music production'
   - 'music release'
   - 'uk'
-  - 'work'
+  - 'sound project'
 featimage: true
 thumbOnly: true
 description: 'I produced and played a mean bass in Gardner’s new single, ‘Wriggle A Little’, which featured an epic guitar solo.'
-permalink: /work/music-production/wriggle-a-little-song-production/
 ---
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1398022832/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://callumgardner.bandcamp.com/track/wriggle-a-little">Wriggle a Little by Callum Gardner</a></iframe>' %}
 
@@ -37,16 +36,22 @@ Comping his fantastic solo on the fly allowed me to feel how each take was bette
 
 ### Performed by
 
-- Callum Gardner: _vocals and acoustic guitar_
-- Hugh Wheatley: _electric guitar, backing vocals_
-- Simone Silvestroni: _bass_
-- Arlen Millwall: _drums, backing vocals_
+**Callum Gardner**\
+vocals and acoustic guitar
+
+**Hugh Wheatley**\
+electric guitar, backing vocals
+
+**Simone Silvestroni**\
+bass
+
+**Arlen Millwall**\
+drums, backing vocals
 
 ### Production
 
-- Written by Callum Gardner.
-- Produced, mixed and mastered by Simone Silvestroni.
+Written by Callum Gardner / Produced, mixed and mastered by Simone Silvestroni.
 
 {: .small }
-<br>&copy; 2019 Callum Gardner.<br>
-℗ 2019 Minutes to Midnight (sound recording copyright).
+&copy; 2019 Callum Gardner\
+℗ 2019 Minutes to Midnight (sound recording copyright)

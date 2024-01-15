@@ -9,11 +9,10 @@ tags:
   - 'indie artist'
   - 'music release'
   - 'usa'
-  - 'work'
+  - 'sound project'
 description: "Second collaboration with Gerald Duchene and his project Antiquity. I recorded a bass track for this beautiful song."
 featimage: true
 thumbOnly: true
-permalink: /work/bass/shallow-grave-bass-song-antiquity/
 ---
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1048816351/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/shallow-grave">Shallow Grave by Antiquity</a></iframe>' %}
 
@@ -30,14 +29,18 @@ Also, I love when I’m presented with a proper challenge. As a songwriter, Gera
 
 ### Performed by
 
-- Gerald Duchene: _instrumentation_
-- Dan Ecclestone: _melody and vocals_
-- Simone Silvestroni: _fretless bass_
+**Gerald Duchene**\
+instrumentation
+
+**Dan Ecclestone**\
+melody and vocals
+
+**Simone Silvestroni**\
+fretless bass
 
 ### Production
 
-- Written and mixed by Gerald Duchene.  
-- Mastered by Chris Pavey.
+Written and mixed by Gerald Duchene / Mastered by Chris Pavey.
 
 {: .small }
 <br>&copy; 2019 Gerald Duchene.

@@ -9,11 +9,10 @@ tags:
   - 'mix'
   - 'post-production'
   - 'sound design'
-  - 'work'
+  - 'sound project'
 description: "Sound effects, dialogue and music sync for the acclaimed show ‘Tom the Tow Truck’, part of the Car City series by Paris-based Amuse."
 featimage: true
 thumbOnly: true
-permalink: /work/sound-design/car-city-cartoon/
 ---
 ## Cartoon series episodes
 

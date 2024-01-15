@@ -7,11 +7,10 @@ tags:
   - 'music production'
   - 'software'
   - 'uk'
-  - 'work'
+  - 'sound project'
 description: 'I recorded and co-produced strings arrangements for Clifford’s eponymous debut album, in collaboration with Paolo Clementi.'
 featimage: true
 thumbOnly: true
-permalink: /work/music-production/ciara-clifford-album-strings-production/
 ---
 <iframe style="margin-top:2rem;border-radius:12px" src="https://open.spotify.com/embed/album/4jaYdZbqJG4JVJrUVujqV7?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

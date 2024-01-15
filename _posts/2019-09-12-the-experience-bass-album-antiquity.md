@@ -9,11 +9,10 @@ tags:
   - 'indie artist'
   - 'music release'
   - 'usa'
-  - 'work'
+  - 'sound project'
 description: "‘The Experience’ is the new concept album by Antiquity. Vocals by Dan Ecclestone, bass by Minutes to Midnight."
 featimage: true
 thumbOnly: true
-permalink: /work/bass/the-experience-bass-album-antiquity/
 ---
 {% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3153550265/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/album/the-experience-the-album">The Experience (The Album) by Antiquity</a></iframe>' %}
 
@@ -24,14 +23,18 @@ permalink: /work/bass/the-experience-bass-album-antiquity/
 
 ### Performed by
 
-- Gerald Duchene: _all instrumentation_
-- Dan Ecclestone: _vocals and melody_
-- Simone Silvestroni: _bass_
+**Gerald Duchene**\
+all instrumentation
+
+**Dan Ecclestone**\
+vocals and melody
+
+**Simone Silvestroni**\
+bass
 
 ### Production
 
-- Written, produced and mixed by Gerald Duchene.  
-- Mastered by Chris Pavey.
+Written, produced and mixed by Gerald Duchene / Mastered by Chris Pavey.
 
 {: .small }
 <br>&copy; 2019 Gerald Duchene.

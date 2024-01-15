@@ -10,11 +10,10 @@ tags:
   - 'music release'
   - 'reaper'
   - 'usa'
-  - 'work'
+  - 'sound project'
 featimage: true
 thumbOnly: true
 description: 'The new single released by Antiquity, featuring the guitar work of Angelo Zarra and my bass.'
-permalink: /work/bass/the-rules-of-night-and-day-bass-antiquity/
 ---
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=416597860/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/the-rules-of-night-and-day">The Rules Of Night And Day by Antiquity</a></iframe>' %}
 
@@ -25,16 +24,24 @@ permalink: /work/bass/the-rules-of-night-and-day-bass-antiquity/
 
 ### Performed by
 
-- Dan Ecclestone: _vocals and melody_
-- Gerald Duchene: _instrumentation_
-- Angelo Zarra: _lead guitar_
-- Simone Silvestroni: _bass_
-- Matisse Duchene: _trumpet_
+**Dan Ecclestone**\
+vocals and melody
+
+**Gerald Duchene**\
+instrumentation
+
+**Angelo Zarra**\
+lead guitar
+
+**Simone Silvestroni**\
+bass
+
+**Matisse Duchene**\
+trumpet
 
 ### Production
 
-- Written, produced and mixed by Gerald Duchene.
-- Mastered By Chris Pavey.
+Written, produced and mixed by Gerald Duchene / Mastered By Chris Pavey.
 
 {: .small }
 <br>&copy; 2022 Gerald Duchene.

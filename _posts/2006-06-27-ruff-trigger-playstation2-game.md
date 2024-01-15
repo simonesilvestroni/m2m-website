@@ -13,17 +13,17 @@ tags:
   - 'software'
   - 'sound design'
   - 'video games'
-  - 'work'
+  - 'sound project'
 description: "As the audio team leader, I created and implemented sound effects and an adaptive soundtrack, bootstrapping the audio for the PlayStation2 video game ‘Ruff Trigger’."
 featimage: true
 featimage-name: 'ruff-trigger-playstation2-video-game.jpg'
 featimage-alt: Ruff Trigger game cover
 featimage-width: 720
 featimage-height: 720
-permalink: /work/sound-design/ruff-trigger-playstation2-game/
 ---
+{: .big }
 > Great co-worker! Very careful, serious and responsible, never superficial, with a wide knowledge of the Apple world, and all that’s connected to audio engineering. Highly recommended.
-> <cite>Daniele Pieroni**, [senior game developer relations engineer at Intel](https://www.linkedin.com/in/danielepieroni/)</cite>
+> <cite>Daniele Pieroni, [senior game developer relations engineer at Intel](https://www.linkedin.com/in/danielepieroni/)</cite>
 
 [Hired by Playstos Entertainment]({{ site.url }}/blog/joining-playstos/) in January 2000, I helped shaping their debut title — _Ruff Trigger: The Vanocore Conspiracy_. As my first duty was to define a plan for the game audio, I started by **turning a perfect-sized room into a [full-fledged studio](#the-studio)**, capable of handling the workflow of a small dedicated audio team.
 
@@ -31,13 +31,37 @@ permalink: /work/sound-design/ruff-trigger-playstation2-game/
 
 Working closely with the audio programmers, I produced and implemented an [adaptive soundtrack](https://en.wikipedia.org/wiki/Adaptive_music) within the **in-house game engine Wazábe&reg;**. I deployed stems divided in overlaying chunks: similarly to what can be achieved today with modern audio middleware such as Wwise and FMOD, the layers could be triggered by specific game parameters based on different runtime situations, thus helping increase or decrease the tension.
 
-<div class="warning">
-  <h3>Examples</h3>
-  <p>The following songs are demos <em>rendered in their linear versions</em>, thus they don't reflect their original behaviour in the gameplay. They are not mastered.</p>
-  <p>{% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671219%3Fsecret_token%3Ds-NZEFQ&color=%23b0b0b0&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>' %}</p>
-  <p>{% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671210%3Fsecret_token%3Ds-szxDn&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}</p>
-  <p>{% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671156%3Fsecret_token%3Ds-MN1dE&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}</p>
-  <p>{% include pattern-soundcloud.html iframecode='<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695671060%3Fsecret_token%3Ds-vGqvZ&color=%23b0b0b0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>' %}</p>
+### Examples
+
+The following songs are demos rendered in their linear versions, thus they don't reflect their original behaviour in the gameplay. They are not mastered.
+
+<div class="audioplayer">
+  <span>Industrial City</span>
+  <audio controls>
+    <source src="{{ site.url }}/assets/sounds/ruff-trigger_industrialcity.mp3" type="audio/mpeg" />
+    <p>Download the <a href="{{ site.url }}/assets/sounds/ruff-trigger_industrialcity.mp3">MP3 audio file</a> (6.1 MB).</p>
+  </audio>
+</div>
+<div class="audioplayer">
+  <span>Racing part 1</span>
+  <audio controls>
+    <source src="{{ site.url }}/assets/sounds/ruff-trigger_racing.mp3" type="audio/mpeg" />
+    <p>Download the <a href="{{ site.url }}/assets/sounds/ruff-trigger_racing.mp3">MP3 audio file</a> (3 MB).</p>
+  </audio>
+</div>
+<div class="audioplayer">
+  <span>Tex Mex</span>
+  <audio controls>
+    <source src="{{ site.url }}/assets/sounds/ruff-trigger_texmex.mp3" type="audio/mpeg" />
+    <p>Download the <a href="{{ site.url }}/assets/sounds/ruff-trigger_texmex.mp3">MP3 audio file</a> (5.7 MB).</p>
+  </audio>
+</div>
+<div class="audioplayer">
+  <span>Tribal cave</span>
+  <audio controls>
+    <source src="{{ site.url }}/assets/sounds/ruff-trigger_tribalcave.mp3" type="audio/mpeg" />
+    <p>Download the <a href="{{ site.url }}/assets/sounds/ruff-trigger_tribalcave.mp3">MP3 audio file</a> (5.4 MB).</p>
+  </audio>
 </div>
 
 ## Sound effects
@@ -59,8 +83,9 @@ After obtaining a license to develop for PlayStation2, we worked to get _Ruff Tr
 
 Following a company reorganisation, my project management duties increased. I needed to recalibrate my efforts, including the addition of a new sound designer who previously worked for Sony in Liverpool. That was arguably my best time with the company: two sound designers and an audio programmer working well together in the studio. We were a tight-knit small team, with **an infallible delivery record**. I designed audio and attended daily meetings where I offered my suggestions and voiced our concerns, co-ordinating with the producers. Overall, **the audio team consisted of six people**: two sound designers, two composers, and two audio programmers.
 
+{: .big }
 > Simone is a very talented audio composer. He pays a lot of attention to quality and detail, and he’s always willing to improve his wide array of skills. Definitely a pleasure to work with.
-> <cite>Michele Sandroni**, [Technical Artist at Bosch Rexroth AG](https://www.linkedin.com/in/michelesandroni/)</cite>
+> <cite>Michele Sandroni, [Technical Artist at Bosch Rexroth AG](https://www.linkedin.com/in/michelesandroni/)</cite>
 
 ## Game Developer Conference 2002: <abbr title="Game Audio Network Guild">GANG</abbr>, Steam, and a nice learning curve
 
@@ -102,69 +127,69 @@ Once Playstos found a publisher (Natsume), the game was [released on 27 June 200
 
 ## Why I didn't join another game company
 
-To recover from the burnout, I'd decided to turn most of my interest to web design and development. What started as time off the game industry turned into [a different kind of career](https://simonesilvestroni.com). I kept working with audio production, until I founded Minutes to Midnight after moving to the UK. Besides working as a mixing engineer, I wrote an autobiographical concept album where a few songs were made of [unused music]({{ site.url }}/blog/skinny-kid-song-backstory/) from the Playstos years. Initially conceived as a theatrical piece, and released at the end of 2019, it rekindled my passion for audio-visual narration, prompting me to go back to game audio.
+To recover from the burnout, I'd decided to turn most of my interest to web design and development. What started as time off the game industry turned into [a different kind of career]({{ site.url }}/about/). I kept working with audio production, until I founded Minutes to Midnight after moving to the UK. Besides working as a mixing engineer, I wrote an autobiographical concept album where a few songs were made of [unused music]({{ site.url }}/blog/skinny-kid-song-backstory/) from the Playstos years. Initially conceived as a theatrical piece, and released at the end of 2019, it rekindled my passion for audio-visual narration, prompting me to go back to game audio.
 
 While I'd been updating my skills by studying Wwise, FMOD and their integration with modern game engines, I got to work as a [sound designer for Paris-based Amuse Animations]({{ site.url }}/work/sound-design/car-city-cartoon/).
 
-<div class="warning">
-  <h2 id="the-studio"><strong>Bonus content: the studio</strong></h2>
-  <p>An Apple G4 and two Dell machines <strong>ran in digital sync</strong>: they were all equipped with the same model of Creamware Pulsar II soundcard, connected to a Yamaha 01W digital mixer through an <a href="https://www.wikiaudio.org/aes-ebu/">AES/EBU</a> sync box. Each computer had a specific digital audio workstation, which were often connected together through MIDI Time Code:</p>
-  <ul>
-    <li><strong>Emagic Logic Platinum</strong>, main <abbr title="Digital Audio Workstation">DAW</abbr>, on Mac OS X.</li>
-    <li><strong>Steinberg Cubase VST</strong>, secondary, hosting the sampler.</li>
-    <li><strong>Sonic Foundry Acid Pro</strong>, running loops.</li>
-  </ul>
-  <p>Mixes went through the Yamaha digital mixer, to be bounced on a Sony <abbr title="Digital Audio Tape">DAT</abbr>, before the final master was sampled back into the computer. One of the Dell machines also hosted the software developer kits: a level editor, the audio middleware, and later <strong>Microsoft XACT for Xbox</strong>. The photo below shows this setup, at the beginning of 2002.</p>
-  <p><img src="/assets/images/playstos-studio.jpg" alt="In the audio studio, circa 2002" width="800" height="531"></p>
-  <br>
-  <h3><strong>Outboard</strong></h3>
-  <ul>
-    <li>Yamaha 01W digital mixer</li>
-    <li>MOTU Midi Express XT MIDI interface</li>
-    <li>Sony PCM-R300 DAT Player Recorder Deck</li>
-    <li>Novation A-station sound module</li>
-    <li>Roland JV-2080 sound module</li>
-    <li>Korg Triton sound module</li>
-    <li>Yamaha NS-10 speakers</li>
-    <li>Sony surround speakers</li>
-  </ul>
-  <h3><strong>Instrumentation</strong></h3>
-  <ul>
-    <li>Yamaha Clavinova digital piano</li>
-    <li>Korg Trinity Pro</li>
-    <li>Fender Jazz bass</li>
-  </ul>
-  <h3><strong>VST sound modules</strong></h3>
-  <ul>
-    <li>Gigastudio sampler</li>
-    <li>Propellerheads Reason</li>
-    <li>Propellerheads Rebirth</li>
-    <li>AKAI sample libraries</li>
-  </ul>
-  <h3><strong>Digital Audio Workstations</strong></h3>
-  <ul>
-    <li>Emagic Logic Platinum 5</li>
-    <li>Steinberg Cubase VST 4</li>
-    <li>Sonic Foundry Acid Pro</li>
-  </ul>
-  <h3><strong>Audio and video editors</strong></h3>
-  <ul>
-    <li><a href="https://www.soundonsound.com/reviews/bias-peak-pro-6-xt">BIAS Peak</a></li>
-    <li>Sonic Foundry SoundForge</li>
-    <li>Sonic Foundry Vegas Pro</li>
-  </ul>
-  <h3><strong>Game audio</strong></h3>
-  <ul>
-    <li>In-house <a href="https://www.gamesindustry.biz/natsume-and-playstosrsquos-conspiracy">Wazábe&reg; game engine & audio middleware</a></li>
-    <li>Sony Playstation2 SDK</li>
-    <li>Xbox XACT audio middleware</li>
-    <li><a href="http://www.alienbrain.com/">Alienbrain</a> assets manager</li>
-  </ul>
-  <h3><strong>Microphones</strong></h3>
-  <ul>
-    <li>SM57</li>
-    <li>SM58</li>
-  </ul>
-  <p><img src="/assets/images/playstos-studio-2.jpg" alt="Photo of the studio, where an Xbox SDK is visible at the top of a rack" width="1200" height="900">
-  <em>Audio studio, circa 2003, featuring a transparent Xbox SDK at the top of the rack</em></p>
-</div>
+## Bonus content: the studio
+
+![Photo of the studio, where an Xbox SDK is visible at the top of a rack]({{ site.url }}/assets/images/playstos-studio-2.jpg){: width="1200" height="900" }
+_Audio studio, circa 2003, featuring a transparent Xbox SDK at the top of the rack_
+
+An Apple G4 and two Dell machines **ran in digital sync**: they were all equipped with the same model of Creamware Pulsar II soundcard, connected to a Yamaha 01W digital mixer through an [AES/EBU](https://www.wikiaudio.org/aes-ebu/) sync box. Each computer had a specific digital audio workstation, which were often connected together through MIDI Time Code:
+
+- **Emagic Logic Platinum**, main <abbr title="Digital Audio Workstation">DAW</abbr>, on Mac OS X.
+- **Steinberg Cubase VST**, secondary, hosting the sampler.
+- **Sonic Foundry Acid Pro**, running loops.
+
+Mixes went through the Yamaha digital mixer, to be bounced on a Sony <abbr title="Digital Audio Tape">DAT</abbr>, before the final master was sampled back into the computer. One of the Dell machines also hosted the software developer kits: a level editor, the audio middleware, and later **Microsoft XACT for Xbox**. The photo below shows this setup, at the beginning of 2002.
+
+![In the audio studio, circa 2002]({{ site.url }}/assets/images/playstos-studio.jpg){: width="800" height="531" }
+
+### Outboard
+
+- Yamaha 01W digital mixer
+- MOTU Midi Express XT MIDI interface
+- Sony PCM-R300 DAT Player Recorder Deck
+- Novation A-station sound module
+- Roland JV-2080 sound module
+- Korg Triton sound module
+- Yamaha NS-10 speakers
+- Sony surround speakers
+
+### Instrumentation
+
+- Yamaha Clavinova digital piano
+- Korg Trinity Pro
+- Fender Jazz bass
+
+### VST sound modules
+
+- Gigastudio sampler
+- Propellerheads Reason
+- Propellerheads Rebirth
+- AKAI sample libraries
+
+### Digital Audio Workstations
+
+- Emagic Logic Platinum 5
+- Steinberg Cubase VST 4
+- Sonic Foundry Acid Pro
+  
+### Audio and video editors
+
+- [BIAS Peak](https://www.soundonsound.com/reviews/bias-peak-pro-6-xt)
+- Sonic Foundry SoundForge
+- Sonic Foundry Vegas Pro
+
+### Game audio
+
+- In-house [Wazábe&reg; game engine & audio middleware](https://www.gamesindustry.biz/natsume-and-playstosrsquos-conspiracy)
+- Sony Playstation2 SDK
+- Xbox XACT audio middleware
+- [Alienbrain](http://www.alienbrain.com/) assets manager
+
+### Microphones
+
+- SM57
+- SM58

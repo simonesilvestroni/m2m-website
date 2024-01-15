@@ -10,18 +10,14 @@ tags:
   - 'music production'
   - 'music release'
   - 'uk'
-  - 'work'
+  - 'sound project'
 description: "Meeting Callum Gardner fired up a long-term collaboration that started with producing, mixing and mastering his debut single."
 featimage: true
 featimage-name: 'producing-commit-to-the-list-by-callum-gardner.jpg'
 featimage-alt: Cover for the single Commit to the List
 featimage-width: 720
 featimage-height: 720
-permalink: /work/music-production/callum-gardner-debut-single/
 ---
-{: .cta }
-[Listen to the song on Spotify](https://open.spotify.com/track/4e2PTyfPfvw9WunM9nG0nT?si=0972153817224ac8){: target="_blank"}
-
 ## Backstory
 
 A few years ago I got in touch with [Ciara Clifford](https://open.spotify.com/artist/6y4HZjrBa7CMWVdyIkV5RQ), who was looking for a new bassist to play in a trio. Unfortunately, my schedule was incompatible with the required effort, but I went to her next live gig at the _Nambucca_. Besides being finally able to meet Ciara and also see [Joe Meek’s former studio](https://en.wikipedia.org/wiki/Joe_Meek) in Holloway Road, there was one further highlight that evening. 
@@ -44,6 +40,8 @@ The song was mixed and mastered using Logic Pro and Wavelab. Because of some unc
 > 
 > <cite>Callum Gardner</cite>
 
+[**Listen to the song on Spotify**&nbsp;&rarr;](https://open.spotify.com/track/4e2PTyfPfvw9WunM9nG0nT?si=0972153817224ac8){: target="_blank"}{: .cta .highlight }
+
 ## Going live
 
 Rehearsals for the live concerts went well. I loved how quickly we all blended and how tight the band was. The first gig at the Century Club in London was a success. Many others followed, including our participation at the Victorious Festival in Portsmouth.
@@ -55,17 +53,22 @@ Rehearsals for the live concerts went well. I loved how quickly we all blended a
 
 ### Performed by
 
-- Callum Gardner: _vocals, guitars_
-- Simone Silvestroni: _bass_
-- Paolo Clementi: _viola_
-- Arlen Millwall: _drums_
+**Callum Gardner**\
+vocals, guitars
+
+**Simone Silvestroni**\
+bass
+
+**Paolo Clementi**\
+viola
+
+**Arlen Millwall**\
+drums
 
 ### Production
 
-- Written by Callum Gardner.
-- Recorded at SAE (London) and the Garden Room Studio (Cambridge).
-- Produced, mixed and mastered by Simone Silvestroni.
+Written by Callum Gardner / Recorded at SAE in London &amp; Minutes to Midnight's studio in Cambridge / Produced, mixed and mastered by Simone Silvestroni.
 
 {: .small }
-<br>&copy; 2017 Callum Gardner.<br>
-℗ 2017 Minutes to Midnight (sound recording copyright).
+<br>&copy; 2017 Callum Gardner\
+℗ 2017 Minutes to Midnight (sound recording copyright)

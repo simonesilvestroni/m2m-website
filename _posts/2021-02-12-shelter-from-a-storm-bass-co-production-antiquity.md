@@ -1,5 +1,5 @@
 ---
-title: 'Co-production: ‘Shelter From A Storm’ by Antiquity'
+title: 'Production: ‘Shelter From A Storm’ by Antiquity'
 date: '2021-02-12'
 last_modified_at: '2023-05-23 17:19:27'
 tags:
@@ -10,11 +10,10 @@ tags:
   - 'music production'
   - 'music release'
   - 'usa'
-  - 'work'
+  - 'sound project'
 description: "‘Shelter From A Storm’ is my new bass recording and co-production, together with Gerald Duchene."
 featimage: true
 thumbOnly: true
-permalink: /work/music-production/shelter-from-a-storm-bass-co-production-antiquity/
 ---
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2838120524/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/shelter-from-a-storm">Shelter From A Storm by Antiquity</a></iframe>' %}
 
@@ -28,9 +27,7 @@ Gerald also received this magnificent endorsement by [Leland Sklar](https://en.w
 
 ## Production notes
 
-I’ve had the pleasure to co-produce the single, working with [Dan Ecclestone]({{ site.url }}/work/music-production/hidden-music/) on his vocal parts, helping create what seems to be our most powerful release to date. Gerald completed the mix, [Chris Pavey](https://www.chrispaveymastering.com/) of CPM mastered.
-
-I’ve asked the guys to let me know their feelings about the process that lead to this gem of a song. These are their impressions.
+I’ve had the pleasure to co-produce the single, working with [Dan Ecclestone]({{ site.url }}/work/music-production/hidden-music/) on his vocal parts, helping create what seems to be our most powerful release to date. Gerald completed the mix, [Chris Pavey](https://www.chrispaveymastering.com/) of CPM mastered. I’ve asked the guys to let me know their feelings about the process that lead to this gem of a song. These are their impressions.
 
 > Writing music is like having children, you are supposed to treat them all with the same amount of love and affection. This song was like the child that questioned everything I did. It asked me why the world was round and why its cat had to die. I have a love/hate relationship with this song.<br>
 > Since it has been finished, it has slowly grown on me. Like a child, you don’t know what you have created till it’s grown up.
@@ -50,15 +47,17 @@ I’ve asked the guys to let me know their feelings about the process that lead 
 
 ### Performed by
 
-- Gerald Duchene: _instrumentation_
-- Dan Ecclestone: _vocals and melody_
-- Simone Silvestroni: _bass_
+**Gerald Duchene**\
+instrumentation
+
+**Dan Ecclestone**\
+vocals and melody
+
+**Simone Silvestroni**\
+bass
 
 ### Production
-
-- Written and mixed by Gerald Duchene.  
-- Produced by Gerald Duchene and Simone Silvestroni.  
-- Mastered by Chris Pavey.
+Written and mixed by Gerald Duchene / Produced by Gerald Duchene and Simone Silvestroni / Mastered by Chris Pavey.
 
 {: .small }
-<br>&copy; 2021 Gerald Duchene.
+&copy; 2021 Gerald Duchene
