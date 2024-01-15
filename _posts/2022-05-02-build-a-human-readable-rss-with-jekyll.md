@@ -3,10 +3,23 @@ title: 'A human-readable RSS feed with Jekyll'
 date: '2022-05-02 10:36:05'
 last_modified_at: '2022-05-02 19:00:32'
 tags: 
+  - 'dev project'
   - 'internet'
   - 'software'
   - 'web development'
-description: 'How I refactored my RSS feed from scratch using Jekyll functionalities, and applying XSLT for presentation to render a human-readable XML feed.'
+description: 'I refactored my RSS feed using Jekyll functionalities, applying XSLT for presentation to render a human-readable XML feed.'
+skillset:
+  - Jekyll
+  - Liquid
+  - HTML
+  - CSS
+  - XML
+  - XSLT
+featimage: true
+featimage-name: 'build-a-human-readable-rss-with-jekyll.jpg'
+featimage-alt: Screenshot of my RSS XML feed page formatted to be readable in a browser
+featimage-width: 1024
+featimage-height: 622
 syndication: true
 syndicate:
   - name: IndieNews
@@ -16,57 +29,49 @@ syndicate:
   - name: Hacker News
     url: https://news.ycombinator.com/item?id=31241877
 ---
-A few days ago, while reading my Mastodon timeline, I stumbled on an [article by Wouter Groeneveld](https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/), titled *Cool Things People Do With Their Blogs*. Two things caught my eye: 
+## Objectives
 
-- [styled OPML blogrolls](https://rubenerd.com/omake.opml) that can be imported into an RSS reader, by Ruben Schade;
-- [styled RSS feeds](https://interconnected.org/home/feed) to better explain what a web feed is, by Matt Webb.
+I recently stumbled on an article,[^1] where two things caught my eye: styled OPML blogrolls that can be directly imported into an RSS reader, and styled RSS feeds. I had forgotten about [XSLT](https://en.wikipedia.org/wiki/XSLT) with its potential applications, so the above examples inspired me. Also, I wasn't aware that OPML, which I’ve been using for years to import and export RSS feeds, could be styled. This prompted me to refactor my RSS feed, and give a human readable format to it, consistent with the website.
 
-I’d forgotten about [XSLT](https://en.wikipedia.org/wiki/XSLT) with its potential applications, so the above examples inspired me. Also, I didn't know that [OPML](http://opml.org/spec2.opml), which I’ve been using to import and export my RSS feeds, could be styled and used as a human-readable experience on the web.
+## Approach
 
-After a few more clicks, I landed on the OPML [blogroll on Maya's site](https://maya.land/blogroll.opml) — likely the best and most useful blogroll I’ve ever seen. Not only they explain why each link might be interesting to anyone visiting, it’s also beautifully formatted and capable of being imported in my RSS reader.
-
-This prompted me to apply styles to my RSS feed and give a human readable format to it. It was surprisingly easy, and I wonder why didn't I do it sooner. Since my main motivation for [leaving WordPress]({{ site.url }}/blog/loops-transitions-identity/) was to take full control over my code, I should have managed the feed myself rather than relying on a widespread Jekyll plug-in.
-
-## Using Jekyll functionality
-
-I wanted to have both blog posts and projects (a Jekyll collection), hence, I created a loop that would exploit the layout type rather than the content type, iterating 20 times (my configuration value for `posts_limit`) through the resulting variable:
+I created a loop that could exploit the layout type rather than the content type, because I tend to add and remove collections to my site, and this is a more flexible solution. The loop iterates 20 times (my configuration value for `posts_limit`) through the resulting variable.
 
 ```liquid
-{% raw %}{% assign projects = site.documents | where:"layout", "project" %}
-{% assign blog = site.documents | where:"layout", "post" %}
-{% assign posts = projects | concat: blog | sort: 'date' | reverse %}
-  {% for post in posts limit:site.posts_limit %}{% endraw %}
-    <item>
-      [code here]
-    </item>
+{% raw %}{% assign blog = site.documents | where:"layout", "post" | sort: 'date' | reverse %}
+{% for post in blog limit:site.posts_limit %}
+  <item>
+    [code here]
+  </item>
+{% endfor %}{% endraw %}
 ```
 
-Finally, I created an XSL file to style the feed page into a human readable format, following the aforementioned example. Since I was rewriting the RSS feed from scratch, I added new features to the `.xsl` file:
+Then, I created an XSL file to style the feed page into a human readable format. Since I was rewriting the RSS feed from scratch, I added a few features:
 
-- an introduction to who I am at the top of the main feed;
-- useful author information directly in each post, for easy contact information;
+{: .list-hr }
+- a brief personal introduction at the top of the main feed;
+- author information directly in each post, for easy contact information;
 - a "reply via email" link at the end of each post, visible on any RSS reader.
 
-![Author contact info](/assets/images/rss-feed-head.png){: width="720" height="286" }
-*Author contact info visible in a feed*
+<div class="warning">
+  <h3>Before</h3>
+  <p><img src="/assets/images/rss-before.png" alt="RSS feed before refactor" width="960" height="584"></p>
+  <h3>After</h3>
+  <p><img src="/assets/images/rss-after.png" alt="RSS feed after refactor" width="960" height="584"></p>
+</div>
 
-![A reply link at the bottom of each post](/assets/images/rss-feed-footer.png){: width="720" height="274" }
-*A reply via email link is provided at the bottom of each post*
+## Results
 
-The weight of all the required files amounts to less than `5 KB`.
+It was surprisingly easy, and I wonder why didn't I do it sooner. Since my main motivation for leaving WordPress was to take full control over my code, I should have managed the feed myself rather than relying on a Jekyll plug-in. The source code for the [RSS XML feed](https://github.com/simonesilvestroni/m2m-website/blob/main/feed.xml) and the [XLS file](https://github.com/simonesilvestroni/m2m-website/blob/main/feed.xsl) are available on Github.
 
-## Before & after
+[**View it in action**&nbsp;&rarr;](https://minutestomidnight.co.uk/feed.xml){: .cta .highlight }
 
-Here's a link to my new human-readable [RSS feed]({{ site.url }}/feed.xml). Below, a visual comparison of the before and after.
+## Skills
 
-![RSS feed before refactor](/assets/images/rss-before.png){: width="821" height="960" }
-*RSS feed before refactor*
+<ul class="list-inline">
+  {% for skill in page.skillset %}
+  <li><mark>{{ skill }}</mark></li>
+  {% endfor %}
+</ul>
 
-![RSS feed after refactor](/assets/images/rss-after.png){: width="821" height="960" }
-*RSS feed after refactor*
-
-## Source code
-
-{: .list-unstyled .ps-0 }
-- [RSS XML feed on Github](https://github.com/simonesilvestroni/m2m-website/blob/main/feed.xml)
-- [XSL file on Github](https://github.com/simonesilvestroni/m2m-website/blob/main/feed.xsl)
+[^1]: [*Cool Things People Do With Their Blogs*](https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/) by Wouter Groeneveld.
