@@ -1,15 +1,11 @@
 menu:
-  - name: RSS feed
-    link: /feed.xml
   - name: Now
     link: /now/
-  - name: Links
-    link: /links/
   - name: My setup
     link: /uses/
   - name: Sitemap
     link: /sitemap/
-  - name: Credits
-    link: /credits/
   - name: Search
     link: /search/
+  - name: Colophon
+    link: /colophon/
