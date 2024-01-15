@@ -10,7 +10,7 @@ permalink: /work/endorsements/
 <blockquote>
   <p>
     {{ item.quote }}
-    <cite><a href="{{ item.url }}"><strong>{{ item.name }}</strong></a> ({{ item.role }})</cite>
+    <cite><a href="{{ item.url }}">{{ item.name }}</a> ({{ item.role }})</cite>
   </p>
 </blockquote>
 {% endfor %}
