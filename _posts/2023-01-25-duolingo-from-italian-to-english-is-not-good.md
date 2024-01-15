@@ -9,9 +9,7 @@ description: "Since I wanted to review my English after two years away from the 
 ---
 I’ve been using Duolingo to study German (from English) for a while now, so using the same platform seemed natural. It didn't occur to me that I would be doing the course starting from Italian. 
 
-Besides being disoriented by the change of language in both the interface and the settings, what caught me off-guard was the quality and the duration of the course.
-
-I won't be dwelling too much into everything that I found to be sub-par, however a few things need to be pointed out. 
+Besides being disoriented by the change of language in both the interface and the settings, what caught me off-guard was the quality and the duration of the course. I won't be dwelling too much into everything that I found to be sub-par, however a few things need to be pointed out. 
 
 ## It's super basic
 

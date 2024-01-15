@@ -1,5 +1,5 @@
 ---
-title: I stopped using Feedbin for RSS
+title: I stopped using Feedbin
 date: '2023-12-05 11:29:36'
 last_modified_at: '2023-12-05 11:29:38'
 tags:

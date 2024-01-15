@@ -4,6 +4,7 @@ date: '2023-08-31 11:36:56'
 last_modified_at: '2023-08-31 23:39:09'
 tags:
   - 'degrowth'
+  - 'indieweb'
   - 'internet'
   - 'personal'
   - 'sustainability'

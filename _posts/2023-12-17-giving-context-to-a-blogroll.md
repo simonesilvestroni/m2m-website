@@ -3,6 +3,7 @@ title: 'Giving context to a blogroll'
 date: '2023-12-17 17:41:10'
 last_modified_at: '2023-12-17 17:41:12'
 tags:
+  - 'indieweb'
   - 'internet'
 description: 'Garrit Franke’s recent post, titled “Roast my site”, motivated me to write about something that has always bugged me with personal sites: the grocery-style blogroll.'
 replyto: 'https://garrit.xyz/posts/2023-12-12-roast-my-site'
@@ -20,7 +21,7 @@ While list-only blogrolls are pretty common, the result of reading them across v
 - Why are you following them?
 - What’s in their blog that caught your interest?
 
-It doesn't have to be a long synopsis, a little context is what might actually drive me to their websites, which should be the ultimate goal of a blogroll: to share interesting bits of the web to potentially like-minded people. I’ve stumbled upon several blogrolls that are descriptive and interesting, and beside [my own](https://minutestomidnight.co.uk/links/), these are fitting examples: [Starbreaker links](https://starbreaker.org/links/), [Silvia Maggi links](https://silviamaggidesign.com/links/), and [Maya Land Blogroll](https://maya.land/blogroll.opml). The latter is also a beautiful example of how to format an [OPML](https://en.wikipedia.org/wiki/OPML) file for the web, something I’d really like to do someday.
+It doesn't have to be a long synopsis, a little context is what might actually drive me to their websites, which should be the ultimate goal of a blogroll: to share interesting bits of the web to potentially like-minded people. I’ve stumbled upon several blogrolls that are descriptive and interesting, and beside [my own](https://minutestomidnight.co.uk/links/), these are fitting examples: [Starbreaker links](https://old.starbreaker.org/links/), [Silvia Maggi links](https://silviamaggidesign.com/links/), and [Maya Land Blogroll](https://maya.land/blogroll.opml). The latter is also a beautiful example of how to format an [OPML](https://en.wikipedia.org/wiki/OPML) file for the web, something I’d really like to do someday.
 
 ## Edit: 25 December 2023
 

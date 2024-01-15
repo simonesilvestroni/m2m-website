@@ -2,19 +2,12 @@
 layout: page
 title: Contact
 date: '2021-11-08'
-last_modified_at: '2023-12-29 18:18:57'
-description: 'Reaching out via email is always the best way to get in touch.'
-tldr: false
+last_modified_at: '2024-01-09 00:05:19'
+description: "The best and quickest way to get in touch is <a href='mailto:hello@minutestomidnight.co.uk'>sending an email</a>. If secure communication is needed, use my <a href='{{ site.url }}/contact/pgp/'>GPG public key</a>."
 permalink: /contact/
 ---
-The best and quickest way to get in touch is sending an email to: <span class="highlight">hello@minutestomidnight.co.uk</span>. If secure communication is needed, use my [PGP public key]({{ site.url }}/contact/pgp/). 
+Beside this website, I'm active on [Mastodon](https://sonomu.club/@m2m) and [Bandcamp](https://minutestomidnight.bandcamp.com/follow_me), and have an account on {% for item in site.data.nav-elsewhere.menu -%}{% if forloop.last %} and {% endif %}[{{ item.name }}]({{ item.link }}){% unless forloop.last %}, {% endunless %}{% endfor -%}.
 
-I'm active on {% for item in site.data.nav-social.menu -%}[{{ item.name }}]({{ item.link }}){% unless forloop.last %}, {% endunless %}{% endfor -%}, and have an account on {% for item in site.data.nav-elsewhere.menu -%}[{{ item.name }}]({{ item.link }}){% unless forloop.last %}, {% endunless %}{% endfor -%}.
+## Work with me?
 
-<div class="warning">
-  <h2>Work together</h2>
-  <ul class="list-hr">
-    <li>For bass tracks, I’m available on <a href="https://soundbetter.com/profiles/206552-simone-silvestroni">SoundBetter</a>, a safe and secure platform for freelance musicians.</li>
-    <li>For anything else, email <span class="highlight">hello@minutestomidnight.co.uk</span>.</li>
-  </ul>
-</div>
+Music-wise, I’m [available on SoundBetter](https://soundbetter.com/profiles/206552-simone-silvestroni), a safe and secure platform for freelance musicians. For anything else, [reach out via email](mailto:hello@minutestomidnight.co.uk).

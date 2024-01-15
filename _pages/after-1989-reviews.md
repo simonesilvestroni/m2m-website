@@ -176,7 +176,7 @@ _After 1989_ is an immersive and interesting experiment in storytelling that wil
 
 <div class="warning author-card">
   <img src="/assets/images/matthewgraybosch.jpg" width="150" height="150" alt="Portrait of Matthew Graybosch">
-  <p><a href="https://starbreaker.org/blog/after-1989-trip-to-freedom/index.html">Matthew Graybosch</a> writes science fantasy inspired by heavy metal and has a day job as a software developer. He is currently writing a new novel called <em>Spiral Architect</em>.</p>
+  <p><a href="https://old.starbreaker.org/blog/after-1989-trip-to-freedom/index.html">Matthew Graybosch</a> writes science fantasy inspired by heavy metal and has a day job as a software developer. He is currently writing a new novel called <em>Spiral Architect</em>.</p>
 </div>
 
 Simone Silvestroni’s grandfather was one of those abducted by fascists and imprisoned in the Sachsenhausen concentration camp. He survived because his trade, that of a shoemaker, was one the Nazis valued more highly than they valued their hatred of whatever quality led to his imprisonment as a “skinny boy”: the first track in _After 1989: A Trip to Freedom_ by Simone Silvestroni recording as Minutes to Midnight.

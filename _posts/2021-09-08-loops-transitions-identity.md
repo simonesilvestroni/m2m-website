@@ -3,6 +3,7 @@ title: 'Loops, transitions, identity'
 date: '2021-09-08'
 last_modified_at: '2021-11-12 23:06:19'
 tags:
+  - 'indieweb'
   - 'internet'
   - 'italy'
   - 'personal'

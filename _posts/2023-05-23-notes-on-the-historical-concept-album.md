@@ -16,7 +16,7 @@ tags:
   - 'world war ii'
 description: 'Matthew Graybosch reviewed my album ‘After 1989’. I’m honoured and flattered by such a genuine and magnificent analysis.'
 ---
-I strongly suggest to [check his blog out](https://starbreaker.org), as it's a goldmine of deep, authentic and interesting reflections. Matthew is yet another person that I've found through the decentralised web — which is how the internet was originally built.
+I strongly suggest to [check his blog out](https://old.starbreaker.org), as it's a goldmine of deep, authentic and interesting reflections. Matthew is yet another person that I've found through the decentralised web — which is how the internet was originally built.
 
 When the algorithm is off, the lights come in.
 
@@ -26,4 +26,4 @@ When the algorithm is off, the lights come in.
 > <cite>Matthew Graybosch</cite>
 
 {: .cta }
-[Read the full review&nbsp;&rarr;](https://starbreaker.org/blog/after-1989-trip-to-freedom/index.html)
+[**Read the full review**&nbsp;&rarr;](https://old.starbreaker.org/blog/after-1989-trip-to-freedom/index.html)

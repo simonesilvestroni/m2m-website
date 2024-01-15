@@ -5,6 +5,7 @@ last_modified_at: '2023-04-20 15:23:04'
 tags:
   - 'accessibility'
   - 'featured'
+  - 'indieweb'
   - 'internet'
   - 'personal'
   - 'social media'

@@ -13,7 +13,7 @@ Since I naturally agree with him, I think I've been going further than that as o
 
 ## Full screen
 
-Last week, Matthew wrote about [dropping the narrow column in the middle of the screen](https://starbreaker.org/blog/your-screen-is-tasty/index.html). That inspired me, so I refactored my user interface using a git branch. It only took a few hours, yet towards the end I started getting itchy about how busy it looked. After a `git merge` and a push, it was live. Despite being totally okay with how Matthew's website looks and behaves, I disliked my redesign.
+Last week, Matthew wrote about [dropping the narrow column in the middle of the screen](https://old.starbreaker.org/blog/your-screen-is-tasty/index.html). That inspired me, so I refactored my user interface using a git branch. It only took a few hours, yet towards the end I started getting itchy about how busy it looked. After a `git merge` and a push, it was live. Despite being totally okay with how Matthew's website looks and behaves, I disliked my redesign.
 
 It stayed online for slightly more than twelve hours.
 

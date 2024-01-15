@@ -34,7 +34,7 @@ It's a win-win and makes perfect sense to me: the site is mine, the landing page
 ## Changelog
 
 {: .list-hr }
-- I brought back my beloved [blogroll](/links/), now renamed as *Links* because [Matthew](https://starbreaker.org/) inspired me to do so.
+- I brought back my beloved [blogroll](/links/), now renamed as *Links* because [Matthew](https://old.starbreaker.org/) inspired me to do so.
 - Re-imported several blog posts about [web development](/blog/tag/web-development/), including the long-form analysis over how I manage automation for my static site, indieweb integration, webmentions, and other how-tos.
 - There is now a full [sitemap](/sitemap/), comprising pages, posts, tags.
 - I wiped out my newsletter, including the archives and the subscription form. I'll be sending one last issue to subscribers, saying that the [blog RSS](/feed.xml) is the most meaningful place[^1] where to get updates.
@@ -45,7 +45,5 @@ It's a win-win and makes perfect sense to me: the site is mine, the landing page
 - A few posts from 2002 and 2003 re-appeared in the blog. Someone on the internet called this _necroposting_.
 - A whole lot of work on accessibility was carried out, with [very nice results](/credits/#accessibility).
 - Finally, I've included a subset of my web development skills in here as well, because I realised how immensely useful they are when learning middleware audio implementation for video games, and also: they represent me too.
-
-***
 
 [^1]: For people who love receiving blog updates via email, services like [Feedrabbit](https://feedrabbit.com/) are a good fit.

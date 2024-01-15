@@ -11,21 +11,17 @@ tags:
   - 'personal'
   - 'social media'
 description: 'Three and a half years later, an analysis on how releasing my debut concept album had informed my journey as a person more than as an indie artist.'
+typora-root-url: ../
 syndication: true
 syndicate:
   - name: Mastodon
     url: https://indieweb.social/@m2m/110057816455118169
 ---
-{: .warning }
-[← Part 1](/blog/releasing-an-album-as-an-independent-artist-pt1/) was about what the album meant to me and a few considerations about what a successful release is and isn't.<br><br>I’ll explore now the release campaign, how we approached the concept of social media marketing, why it failed (for me) and what changed in the aftermath.
-
-Here’s the song _Unter Den Linden_, arranged with [Paolo Clementi](https://www.discogs.com/artist/2142806-Paolo-Clementi):
-
-{% include pattern-bandcamp.html size='bc-single' iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=449979971/transparent=true/"><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
-
-## The release campaign
+{% include pattern-bandcamp.html size='bc-single' iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/track=449979971/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 
 I hired [Christopher Carvalho of Unlock Your Sound](https://unlockyoursound.com/christopher-carvalho/) as a manager for *After 1989* way ahead of my ideal album release day, 9 November 2019. The date wasn’t randomly chosen, as it was a double anniversary: the fall of the Berlin Wall (30 years) and the [Kristallnacht](https://en.wikipedia.org/wiki/Kristallnacht) (81 years).
+
+## The release campaign
 
 Chris immediately devised a strict but doable schedule, involving me in the process through Trello and other collaborative tools. The first single, official music video and the connected promotion material — imagery, copy and the [electronic press kit](/epk/) — had to be ready a month in advance. We worked together in a professional yet friendly manner and nothing was a problem, as I was determined, focused and willing to do what needed to be done to achieve a good album launch.
 
@@ -35,7 +31,7 @@ As planned, we published the opening single *Skinny Kid* a week before, exclusiv
 
 Since the aim was to reach the highest number of people possible, we went full-on with submissions to blogs, SubmitHub, Musosoup, magazines, podcasts.
 
-Of course, social media marketing in the form of sponsored campaigns on Facebook, Instagram and Twitter. Posts on Reddit, the private group on Facebook, the painstaking search for the owners of the most prestigious indie playlists on Spotify. For a few weeks it was a deluge of public activity and private word-of-mouth. We got [reviews](/work/music/after-1989-reviews/), interviews and very good feedback.
+Of course, social media marketing in the form of sponsored campaigns on Facebook, Instagram and Twitter. Posts on Reddit, the private group on Facebook, the painstaking search for the owners of the most prestigious indie playlists on Spotify. For a few weeks it was a deluge of public activity and private word-of-mouth. We got [reviews, interviews and very good feedback](/work/music/after-1989-reviews/).
 
 ## Wake-up call
 
@@ -71,3 +67,5 @@ I would repeat the same steps. Some mistakes are meant to serve a purpose and th
 To conclude, a short piece from my journal, 1<sup>st</sup> of November, 2019:
 
 > The album is a day closer to its release date — it’s just 8 days now. Still plenty to do, yet manageable. I realise this story has been with me for three decades, really. I’ve taken steps to distance myself: to me, it’s already released. It’s out of my system, and again: in a peaceful way.
+
+[**Read part 1**&nbsp;&rarr;]({{ site.url }}/blog/releasing-an-album-as-an-independent-artist-pt1/){: .cta }

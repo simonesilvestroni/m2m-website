@@ -3,6 +3,7 @@ title: 'How I use the internet'
 date: '2022-11-23 17:21:41'
 last_modified_at: '2023-07-13 13:24:10'
 tags:
+  - 'indieweb'
   - 'internet'
   - 'personal'
   - 'social media'

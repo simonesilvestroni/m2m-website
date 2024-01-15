@@ -2,7 +2,7 @@
 layout: page
 title: 'My setup'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2023-12-27 17:42:39'
+last_modified_at: '2024-01-12 19:02:51'
 description: "Specifics about the hardware and software equipment I use. The page is part of the <a href='https://uses.tech'>uses.tech</a> project."
 permalink: /uses/
 ---
@@ -107,11 +107,11 @@ permalink: /uses/
 <table>
 	<tr>
 		<th>Image editors</th>
-		<td>Affinity Designer, Affinity Photo, Sketch v59 (legacy files), Graphic Converter 12, ImageOptim</td>
+		<td>Affinity Designer, Affinity Photo, Sketch (legacy), Graphic Converter 12, ImageOptim</td>
 	</tr>
 	<tr>
 		<th>Text editors</th>
-		<td><a href="https://tonsky.me/blog/sublime/">Sublime Text 4</a>, Textmate 2, iA Writer, Typora, Visual Studio Code (for <code>C#</code> Unity projects)</td>
+		<td><a href="https://tonsky.me/blog/sublime/">Sublime Text 4</a>, iA Writer, Typora, Visual Studio Code (for <code>C#</code> Unity projects)</td>
 	</tr>
 	<tr>
 		<th>Packages</th>
@@ -124,7 +124,7 @@ permalink: /uses/
 <table>
 	<tr>
 		<th>Browser</th>
-		<td>Firefox (primary), Safari, Ungoogled Chromium (web dev testing)</td>
+		<td>Safari (primary), Firefox, Ungoogled Chromium and Lynx (web dev testing)</td>
 	</tr>
 	<tr>
 		<th>Email</th>
@@ -137,11 +137,11 @@ permalink: /uses/
 <table>
 	<tr>
 		<th>RSS</th>
-		<td><a href="https://inessential.com/2023/02/20/on_not_taking_money_for_netnewswire">NetNewsWire</a> on both macOS and iOS, currently using an offline OPML sync'd through iCloud</td>
+		<td><a href="https://inessential.com/2023/02/20/on_not_taking_money_for_netnewswire">NetNewsWire</a></td>
 	</tr>
 	<tr>
 		<th>Read later</th>
-		<td>Pocket, using Reeder 5 on both macOS and iOS</td>
+		<td>Reeder 5</td>
 	</tr>
 	<tr>
 		<th>E-reader</th>
@@ -166,5 +166,4 @@ permalink: /uses/
 	</tr>
 </table>
 
-{: .cta }
-[**How I Use The Internet**&nbsp;→](/blog/how-i-use-internet/)
+[**How I Use The Internet**&nbsp;→](/blog/how-i-use-internet/){: .cta .highlight }

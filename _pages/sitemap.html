@@ -2,13 +2,10 @@
 layout: page
 title: Sitemap
 date: '2023-03-31 12:22:58'
-last_modified_at: '2023-08-19 14:00:38'
-description: 'A full map of the website, including pages, posts, and tags.'
-tldr: false
-permalink: '/sitemap/'
+last_modified_at: '2023-12-05 16:18:34'
+description: 'A full map of the website, including <a href="#pages">pages</a>, <a href="#posts">posts</a>, and <a href="#tags">tags</a>.'
+permalink: /sitemap/
 ---
-A full map of the website, including <a href="#pages">pages</a>, <a href="#posts">posts</a>, and <a href="#tags">tags</a>.
-
 {%- assign pages = site.pages | where:"layout", "page" -%}
 {%- assign blogpage = site.pages | where:"layout", "blog"  -%}
 {%- assign allpages = pages | concat: blogpage | sort: 'title' -%}
@@ -32,7 +29,7 @@ A full map of the website, including <a href="#pages">pages</a>, <a href="#posts
   {%- for post in sorted_blog %}
   <li>
     <time class="dt-published dim" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d&nbsp;%b&nbsp;%Y" }}</time>
-    <a href="{{ site.url }}{{ post.url }}">{{ post.title }} {% if post.tags contains "work" %} <mark class="small">WORK</mark>{% endif %}{% if post.tags contains "featured" %} <mark class="small">FAVOURITE</mark>{% endif %}</a>
+    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}{% if post.tags contains "sound project" %}&nbsp;<mark class="small">Sound&nbsp;project</mark>{% elsif post.tags contains "dev project" %}&nbsp;<mark class="small">Dev&nbsp;project</mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;<mark class="small">Favourite</mark>{% endif %}</a>
   </li>
   {% endfor -%}
 </ul>

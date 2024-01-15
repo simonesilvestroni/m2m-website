@@ -8,7 +8,7 @@ layout: default
 		{%- unless page.tldr == false %}
 		<p class="p-summary">{{ page.description }}</p>
 		{% endunless -%}
-		<span class="p-author h-card"><img class="u-photo" src="{{ site.url }}/assets/images/minutes-to-midnight-portrait.jpg" alt="Simone Silvestroni's avatar" width="28" height="28"> by <a class="p-name" href="{{ site.url }}/about/" rel="author">Simone Silvestroni</a>{% if page.replyto %} <span>in reply to <a href="{{ page.replyto }}" class="u-in-reply-to">{{ page.replytouser }}</a></span>{% endif -%}</span>
+		<span class="p-author h-card"><img class="u-photo" src="{{ site.url }}/assets/images/minutes-to-midnight-portrait.jpg" alt="Simone Silvestroni's avatar" width="28" height="28"> by <a class="p-name" href="{{ site.url }}/about/" rel="author">Simone Silvestroni</a>{% if page.replyto %} <span>in reply to <a href="{{ page.replyto }}" class="u-in-reply-to">{{ page.replytouser }}</a></span>{% endif -%}{% if page.coauthor %} &amp; <a href="{{ page.coauthorlink }}">{{ page.coauthor }}</a>{% endif %}</span>
 	</header>
 	{%- unless page.thumbOnly == true -%}
 	{% if page.featimage == true %}
@@ -23,8 +23,7 @@ layout: default
 	<div class="e-content">
 		{{ content }}
 	</div>
-	<br>
-	<div class="warning">
+	<section>
 		<h4>Related topics</h4>
 		<ul class="list-hr">
 			{% for tag in page.tags -%}
@@ -42,6 +41,6 @@ layout: default
 		<h4>Comments?</h4>
 		<p>Reply <a href="mailto:hello@minutestomidnight.co.uk?subject={{ page.title | uri_escape }}" title="Reply to this post">via email</a>, or use <a href="https://indieweb.org/Webmention">webmentions</a>.</p>
 		<p class="small">If you liked this, consider subscribing to the <a href="{{ site.url }}/feed.xml">full-text RSS feed</a>, so that you’ll get notified whenever I post anything new.</p>
-	</div>
+	</section>
 </article>
 {% include post-nav.html %}
