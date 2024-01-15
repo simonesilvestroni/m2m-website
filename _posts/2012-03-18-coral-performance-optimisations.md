@@ -1,7 +1,7 @@
 ---
 title: 'Coral web performance optimisations'
-date: '2013-08-29'
-last_modified_at: '2023-12-19 15:16:22'
+date: '2012-03-30'
+last_modified_at: '2024-01-15 21:26:24'
 tags:
   - 'dev project'
   - 'web development'
