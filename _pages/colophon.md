@@ -12,7 +12,7 @@ People who inspired me: [Silvia Maggi](https://silviamaggidesign.com), [Luke Har
 
 ## About the website
 
-Handcrafted by Simone Silvestroni. Maintained and updated using Sublime Text, Typora, Alfred macros, and Shortcuts automation. Read [how I built the site]({{ site.url }}/work/dev/website-minutes-to-midnight/).
+Handcrafted by Simone Silvestroni. Maintained and updated using Sublime Text, Typora, Alfred macros, and Shortcuts automation. Read [how I built the site]({{ site.url }}/blog/website-minutes-to-midnight/).
 
 ### Tools
 
@@ -25,7 +25,7 @@ Handcrafted by Simone Silvestroni. Maintained and updated using Sublime Text, Ty
 - Sends and receives [![webmentions]({{ site.url }}/assets/images/webmention.svg){: width="80" height="15" }](https://indieweb.org/Webmention)
 - Logos and icons in SVG
 - _Dirt background_ image by [Michael Rose](https://mademistakes.com/)
-- Typography: _Altinn_ for headings and navigation elements, system font stack for everything else.
+- Typography: _Manrope_ for headings and navigation elements, system font stack for everything else.
 - Part of [![IndieWeb]({{ site.url }}/assets/images/indieweb.svg){: width="80" height="15" }](https://indiewebify.me/validate-h-card/?url=https%3A%2F%2Fminutestomidnight.co.uk)
 - Code repository on [GitHub](https://github.com/simonesilvestroni/m2m-website)
 - Hosted on Netlify
