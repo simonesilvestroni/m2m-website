@@ -13,9 +13,9 @@ syndicate:
   - name: Mastodon
     url: https://indieweb.social/@m2m/110265774778640661
 ---
-Having two websites, each with its own blog and overlapping content, didn't agree with me. I still wanted to keep my [web development site](https://simonesilvestroni.com/) separate. The best course of action was to migrate posts and relevant content in here, leaving the other site as some barebones *resume*.
+Having two websites, each with its own blog and overlapping content, didn't agree with me. I still wanted to keep my web development site separate. The best course of action was to migrate posts and relevant content in here, leaving the other site as some barebones *resume*.
 
-It took less time than I thought, albeit a whole lot of attention was sucked into the task: redirects and canonical links are unforgiving beasts.
+It took less time than I thought, albeit a whole lot of attention was sucked into the task: redirects and canonical links are unforgiving beasts.
 
 Both places are extremely clean right now, minimalistic and efficient. I took the opportunity to wipe out the Bootstrap remnants from the second site as well, which is great. 
 
@@ -43,7 +43,7 @@ It's a win-win and makes perfect sense to me: the site is mine, the landing page
 - Reshuffled microformats code in the layouts, which made the [notes](/notes/) I use to send webmentions much more efficient and easy to use.
 - I've added my favourite bass player to the quick facts section of the [About page](/about/#quick-facts).
 - A few posts from 2002 and 2003 re-appeared in the blog. Someone on the internet called this _necroposting_.
-- A whole lot of work on accessibility was carried out, with [very nice results](/credits/#accessibility).
+- A whole lot of work on accessibility was carried out, with [very nice results](/colophon/#accessibility).
 - Finally, I've included a subset of my web development skills in here as well, because I realised how immensely useful they are when learning middleware audio implementation for video games, and also: they represent me too.
 
 [^1]: For people who love receiving blog updates via email, services like [Feedrabbit](https://feedrabbit.com/) are a good fit.

@@ -44,7 +44,7 @@ I added the project to my Trello boards and added Dan as a contributor. We both 
 
 ## Follow-ups
 
-A year later, I ended up mixing the band’s follow-up album [_From The Country To The City To The Sea_](https://emberrev.bandcamp.com/album/from-the-country-to-the-city-to-the-sea-2), as well as Dan’s debut solo album [_Hidden Music_]({{ site.url }}/work/music-production/hidden-music/) in January 2021.
+A year later, I ended up mixing the band’s follow-up album [_From The Country To The City To The Sea_](https://emberrev.bandcamp.com/album/from-the-country-to-the-city-to-the-sea-2), as well as Dan’s debut solo album [_Hidden Music_]({{ site.url }}/blog/hidden-music/) in January 2021.
 
 ## Credits
 

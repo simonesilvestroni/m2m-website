@@ -30,4 +30,4 @@ Happy to see how my choice to publish a concept album in the streaming era did n
 > <cite>Secret Eclectic</cite>
 
 {: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/work/music/after-1989/)
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/)

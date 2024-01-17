@@ -25,13 +25,13 @@ I hired [Christopher Carvalho of Unlock Your Sound](https://unlockyoursound.com/
 
 Chris immediately devised a strict but doable schedule, involving me in the process through Trello and other collaborative tools. The first single, official music video and the connected promotion material — imagery, copy and the [electronic press kit](/epk/) — had to be ready a month in advance. We worked together in a professional yet friendly manner and nothing was a problem, as I was determined, focused and willing to do what needed to be done to achieve a good album launch.
 
-As planned, we published the opening single *Skinny Kid* a week before, exclusively to the private Facebook group and a selection of music blogs. The music video was favourably reviewed and got some traction on [YouTube](https://www.youtube.com/watch?v=xs00zSccUjc), ahead of the full release. [*After 1989*](/work/music/after-1989/) was out on Bandcamp, Spotify, Apple Music and all the other streaming services, on the 9<sup>th</sup> of November.
+As planned, we published the opening single *Skinny Kid* a week before, exclusively to the private Facebook group and a selection of music blogs. The music video was favourably reviewed and got some traction on [YouTube](https://www.youtube.com/watch?v=xs00zSccUjc), ahead of the full release. [*After 1989*](/blog/after-1989/) was out on Bandcamp, Spotify, Apple Music and all the other streaming services, on the 9<sup>th</sup> of November.
 
 ## Accomplishment
 
 Since the aim was to reach the highest number of people possible, we went full-on with submissions to blogs, SubmitHub, Musosoup, magazines, podcasts.
 
-Of course, social media marketing in the form of sponsored campaigns on Facebook, Instagram and Twitter. Posts on Reddit, the private group on Facebook, the painstaking search for the owners of the most prestigious indie playlists on Spotify. For a few weeks it was a deluge of public activity and private word-of-mouth. We got [reviews, interviews and very good feedback](/work/music/after-1989-reviews/).
+Of course, social media marketing in the form of sponsored campaigns on Facebook, Instagram and Twitter. Posts on Reddit, the private group on Facebook, the painstaking search for the owners of the most prestigious indie playlists on Spotify. For a few weeks it was a deluge of public activity and private word-of-mouth. We got [reviews, interviews and very good feedback](/blog/after-1989-reviews/).
 
 ## Wake-up call
 

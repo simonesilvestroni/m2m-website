@@ -23,7 +23,7 @@ November 1963. A warm weather greets the President when he lands at _Love Field_
 {% include pattern-video.html id="oTR5ZJQdRXM" %}
 
 {: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/work/music/after-1989/)
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/)
 
 ## Credits
 

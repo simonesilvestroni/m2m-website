@@ -27,7 +27,7 @@ Gerald also received this magnificent endorsement by [Leland Sklar](https://en.w
 
 ## Production notes
 
-I’ve had the pleasure to co-produce the single, working with [Dan Ecclestone]({{ site.url }}/work/music-production/hidden-music/) on his vocal parts, helping create what seems to be our most powerful release to date. Gerald completed the mix, [Chris Pavey](https://www.chrispaveymastering.com/) of CPM mastered. I’ve asked the guys to let me know their feelings about the process that lead to this gem of a song. These are their impressions.
+I’ve had the pleasure to co-produce the single, working with [Dan Ecclestone]({{ site.url }}/blog/hidden-music/) on his vocal parts, helping create what seems to be our most powerful release to date. Gerald completed the mix, [Chris Pavey](https://www.chrispaveymastering.com/) of CPM mastered. I’ve asked the guys to let me know their feelings about the process that lead to this gem of a song. These are their impressions.
 
 > Writing music is like having children, you are supposed to treat them all with the same amount of love and affection. This song was like the child that questioned everything I did. It asked me why the world was round and why its cat had to die. I have a love/hate relationship with this song.<br>
 > Since it has been finished, it has slowly grown on me. Like a child, you don’t know what you have created till it’s grown up.

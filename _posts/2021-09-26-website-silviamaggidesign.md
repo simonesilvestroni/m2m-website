@@ -28,11 +28,11 @@ Silvia said that, since sustainability and accessibility were core concerns, she
 
 ## Approach
 
-She used custom themes built on top of WordPress for a number of years. With the progressive build-up of fatigue, due to the complexity of the system and the intricacies of proper maintenance, she decided to go back to her roots. Clean and simple web standards, in the form of HTML and CSS. My suggestion was to use a static site generator, coupled with a ready-to-use CSS framework to avoid building one from scratch, [like we did in the past](/work/dev/a-modern-workflow-for-the-multi-device-web/). We ended up using Jekyll and Boostrap.
+She used custom themes built on top of WordPress for a number of years. With the progressive build-up of fatigue, due to the complexity of the system and the intricacies of proper maintenance, she decided to go back to her roots. Clean and simple web standards, in the form of HTML and CSS. My suggestion was to use a static site generator, coupled with a ready-to-use CSS framework to avoid building one from scratch, [like we did in the past](/blog/a-modern-workflow-for-the-multi-device-web/). We ended up using Jekyll and Boostrap.
 
 > The website obesity crisis is an increasing phenomena which gets worse every year. I wanted my website to represent a stance on sustainability.
 
-I quickly imported all the content from WordPress within the new Jekyll templates, which allowed me to focus on working with Silvia on keeping the site as light-weight as possible through the use of SVG images, and a clever implementation of responsive images. I also created a flexible system for [photo galleries with carousels]({{ site.url }}/work/dev/responsive-photogallery-carousel-css/) in plain HTML and CSS.
+I quickly imported all the content from WordPress within the new Jekyll templates, which allowed me to focus on working with Silvia on keeping the site as light-weight as possible through the use of SVG images, and a clever implementation of responsive images. I also created a flexible system for [photo galleries with carousels]({{ site.url }}/blog/responsive-photogallery-carousel-css/) in plain HTML and CSS.
 
 To optimise the output from Bootstrap, I made sure we only imported the SASS modules that were required, and added a `PostCSS` Node module to the build command, to purge unnecessary styles before minification.
 

@@ -27,7 +27,7 @@ The focus of the brief was to overhaul UniCredit’s existing online system for 
 
 ## Approach
 
-After attending meetings at UniCredit’s HQ in Rome, we agreed on following my company’s [new workflow]({{ site.url }}/work/dev/a-modern-workflow-for-the-multi-device-web/) to deliver the project in a timely manner. This choice would later prove to be a watershed moment for the client’s future approach to design. 
+After attending meetings at UniCredit’s HQ in Rome, we agreed on following my company’s [new workflow]({{ site.url }}/blog/a-modern-workflow-for-the-multi-device-web/) to deliver the project in a timely manner. This choice would later prove to be a watershed moment for the client’s future approach to design. 
 
 I built the new pages on top of PHP modules, using our efficient responsive framework, and adding *progressive enhancement* functionality through Javascript to our designer's vision.
 

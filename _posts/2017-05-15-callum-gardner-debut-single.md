@@ -34,7 +34,7 @@ Later, we got in touch and started chatting. Less than a year later he asked me 
 
 In February 2017, we met at the SAE Studio in London for the recording sessions. Drums and bass came out pretty nicely in a short time during a single session. We later recorded lead and backing vocals, along with guitars and viola. Had a chat with Callum about production and mixing and offered my help.
 
-The song was mixed and mastered using Logic Pro and Wavelab. Because of some unclear mistake occurred in the studio in London, I got the chance to let my ability with iZotope RX shine while [fixing drum tracks](/work/sound-design/drums-restoration/).
+The song was mixed and mastered using Logic Pro and Wavelab. Because of some unclear mistake occurred in the studio in London, I got the chance to let my ability with iZotope RX shine while [fixing drum tracks](/blog/drums-restoration/).
 
 > _Commit to the List_ was written at a very important time for me. I’d moved to London and was eager to make some waves within touching distance of the Thames. It’s still the opening song for my live shows today and went through quite a journey from pen & paper to mix & master.
 > 

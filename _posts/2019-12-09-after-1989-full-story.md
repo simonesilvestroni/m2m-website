@@ -178,4 +178,4 @@ The car attracted my attention because it was the same model used by [Russel Oak
 *My grandfather working outside his shop in the summer. Some of the objects visible on the crate came from Germany*
 
 {: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/work/music/after-1989/)
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/)

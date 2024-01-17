@@ -64,4 +64,4 @@ The contrast between the Christmas carol-like music of the final section, and th
 - Barbed wire design by freepik.com.
 
 {: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/work/music/after-1989/)
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/)

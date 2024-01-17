@@ -34,4 +34,4 @@ Here’s the relevant section:
 {% include pattern-video.html id="wb2hRjPuU6Y" %}
 
 {: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/work/music/after-1989/)
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/)

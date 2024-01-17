@@ -19,7 +19,7 @@ syndicate:
 ---
 {% include pattern-bandcamp.html size='bc-single' iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/track=3005791226/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 
-[*After 1989: A Trip to Freedom*](/work/music/after-1989/) was a project that I considered a personal cornerstone well before its release in November 2019. Intimate, connected to my family history and yet charged with universal themes, difficult to reminisce about and ripe with conflicting feelings.
+[*After 1989: A Trip to Freedom*](/blog/after-1989/) was a project that I considered a personal cornerstone well before its release in November 2019. Intimate, connected to my family history and yet charged with universal themes, difficult to reminisce about and ripe with conflicting feelings.
 
 I spent a great deal of time thinking about it, working, tinkering and perfecting what I had done. The aim was for it to be *perfect*, even though I was very aware that perfection is the enemy of good enough. Perfection is akin to looking for something that doesn't exist, which ultimately prevents people from releasing their art in public.
 

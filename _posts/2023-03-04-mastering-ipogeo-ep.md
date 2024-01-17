@@ -27,7 +27,7 @@ After agreeing on the type and number of stems, I proceeded with the edits. Havi
 
 ## Mastering using Reaper subprojects
 
-The way I approached the final mastering stage resembles the same technique adopted while [mixing Ember Rev's upcoming album](/work/music-production/mix-ember-rev-reaper-subprojects/). Subprojects are such a powerful and useful feature I couldn't refrain from trying it with mastering.
+The way I approached the final mastering stage resembles the same technique adopted while [mixing Ember Rev's upcoming album](/blog/mix-ember-rev-reaper-subprojects/). Subprojects are such a powerful and useful feature I couldn't refrain from trying it with mastering.
 
 Once the editing stage is complete, ideally I don't want to keep tinkering with the audio material. With subprojects there's no bouncing of the two-track to disk to be imported in a new session. Instead, the stem-mastered project becomes a _child_ to be added to a _parent_ project.
 

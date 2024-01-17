@@ -26,4 +26,4 @@ Angry Baby has been sharing new music from outstanding independent musicians for
 > <cite>[Angry Baby](https://www.angrybaby.co.uk/minutes-to-midnight-after-1989-a-trip-to-freedom/)</cite>
 
 {: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/work/music/after-1989/)
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/)

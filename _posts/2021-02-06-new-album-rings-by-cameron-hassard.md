@@ -8,7 +8,7 @@ tags:
   - 'music release'
 description: "The debut album from Berlin-based recording artist and multi-instrumentalist Cameron Hassard."
 ---
-Saturday, time for some new music. I’ve been following the online magazine Indierepublik (formerly <em>Indie Berlin</em>) for a while now, way before they wrote a [really good review for _After 1989_]({{ site.url }}/work/music/after-1989/#reviews).
+Saturday, time for some new music. I’ve been following the online magazine Indierepublik (formerly <em>Indie Berlin</em>) for a while now, way before they wrote a [really good review for _After 1989_]({{ site.url }}/blog/after-1989/#reviews).
 
 They caught my attention with an [article they published](https://indierepublik.com/music/cameron-hassard-releases-his-debut-mini-album-rings-and-it-packs-a-punch/) a couple of days ago, a review for the new album by Cameron Hassard, titled _Rings_.
 

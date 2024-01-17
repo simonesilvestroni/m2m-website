@@ -44,4 +44,4 @@ A year ago today, on the 30th anniversary of the fall of the Berlin Wall, I publ
 - Management Christopher Carvalho of [Unlock your sound](https://unlockyoursound.com).
 
 {: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/work/music/after-1989/)
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/)

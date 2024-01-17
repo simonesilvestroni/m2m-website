@@ -48,7 +48,7 @@ After several years working with PHP-based dynamic websites, I wasn't ready to d
 
 #### Modularity
 
-I wrote an array of reusable components, ready to be included in posts and pages. They are embeddable modules that work in a similar fashion as shortcodes[^3] in WordPress, and they can be automated, for example [through a launcher such as Alfred on macOS]({{ site.url }}/work/dev/automation-for-my-blog-publishing-workflow/).
+I wrote an array of reusable components, ready to be included in posts and pages. They are embeddable modules that work in a similar fashion as shortcodes[^3] in WordPress, and they can be automated, for example [through a launcher such as Alfred on macOS]({{ site.url }}/blog/automation-for-my-blog-publishing-workflow/).
 
 #### Build process
 I run build tasks through [Bash](https://www.gnu.org/software/bash/), using appropriate aliases in my `bash_profile` for quick localhost live preview, with optional draft and future posts.

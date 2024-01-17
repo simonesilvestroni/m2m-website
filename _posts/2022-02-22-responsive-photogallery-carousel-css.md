@@ -22,7 +22,7 @@ featimage-height: 622
 ---
 ## Objectives
 
-While working on [Silvia Maggi's new website]({{ site.url }}/work/dev/silviamaggidesign-website/), we realised that her photo galleries, relying on two Javascript-based components from Bootstrap 5, were slowing down the loading time and affecting the benchmarks. Since we shared a principle of considering _web performance as a design feature_ instead of an afterthought, she asked me to create an image gallery carousel in HTML and CSS instead. It had to be integrated in Jekyll, adopt responsive images and a few intuitive touch controls for mobile devices.
+While working on [Silvia Maggi's new website]({{ site.url }}/blog/website-silviamaggidesign/), we realised that her photo galleries, relying on two Javascript-based components from Bootstrap 5, were slowing down the loading time and affecting the benchmarks. Since we shared a principle of considering _web performance as a design feature_ instead of an afterthought, she asked me to create an image gallery carousel in HTML and CSS instead. It had to be integrated in Jekyll, adopt responsive images and a few intuitive touch controls for mobile devices.
 
 ## Approach
 

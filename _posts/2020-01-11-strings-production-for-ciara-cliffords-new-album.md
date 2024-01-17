@@ -16,6 +16,6 @@ thumbOnly: true
 
 ## Production notes
 
-Building on the same workflow adopted for [Mally Harpaz's solo album _Zoom In Zoom Out_](/work/music-production/zoom-in-zoom-out-mally-harpaz-album-strings-production/), we added an electric viola to the mix, and switched from the Miroslav Philarmonik library to my current [Hollywood Strings Orchestra](https://www.soundsonline.com/orchestral/hollywood-orchestra-opus-edition) strings library.
+Building on the same workflow adopted for [Mally Harpaz's solo album _Zoom In Zoom Out_](/blog/strings-production-for-mally-harpaz-solo-album/), we added an electric viola to the mix, and switched from the Miroslav Philarmonik library to my current [Hollywood Strings Orchestra](https://www.soundsonline.com/orchestral/hollywood-orchestra-opus-edition) strings library.
 
 The record was then mixed by [Shuta Shinoda](https://www.soundonsound.com/people/talkback-shuta-shinoda) at the [_Strongroom_](https://www.strongroom.com/), in London.

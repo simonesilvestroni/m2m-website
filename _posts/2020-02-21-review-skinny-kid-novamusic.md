@@ -27,4 +27,4 @@ NOVA MUSIC blog is about music, from novice to emerging groups to it artists —
 > <cite>[Nova Music](https://novamusic.blog/minutes-to-midnight-skinny-kid/)</cite>
 
 {: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/work/music/after-1989/)
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/)

@@ -29,9 +29,9 @@ Despite a fantastic chemistry with the [drummer](https://www.discogs.com/artist/
 
 ## ‘Nine Eleven’
 
-After stripping away the guitar, I rewrote again the piece with a similar bass on a different groove, new piano and synth parts on a reimagined chord structure. It was a solid backbone for something, and I was excited. Next, was blending in a piano sequence from my [years as a composer for video games]({{ site.url }}/work/sound-design/ruff-trigger-playstation2-game/). Originally written right before 9/11 happened, it fit beautifully. Like most people, I’ve experienced that dreadful day on live television, so I decided to make this new music go along with some of the original live commentaries.
+After stripping away the guitar, I rewrote again the piece with a similar bass on a different groove, new piano and synth parts on a reimagined chord structure. It was a solid backbone for something, and I was excited. Next, was blending in a piano sequence from my [years as a composer for video games]({{ site.url }}/blog/ruff-trigger-playstation2-game/). Originally written right before 9/11 happened, it fit beautifully. Like most people, I’ve experienced that dreadful day on live television, so I decided to make this new music go along with some of the original live commentaries.
 
-I enhanced the piano progression, added a tom roll in anticipation for the choruses and wrote a guitar solo. Finally, I sampled the audio from the [footage shot around the WTC](https://www.youtube.com/watch?v=IJpql03lDKQ) where the events unfolded. The song, titled _Nine Eleven_, later morphed into _Skinny Kid_, the opening single and lead song for my album [_After 1989_]({{ site.url }}/work/music/after-1989/).
+I enhanced the piano progression, added a tom roll in anticipation for the choruses and wrote a guitar solo. Finally, I sampled the audio from the [footage shot around the WTC](https://www.youtube.com/watch?v=IJpql03lDKQ) where the events unfolded. The song, titled _Nine Eleven_, later morphed into _Skinny Kid_, the opening single and lead song for my album [_After 1989_]({{ site.url }}/blog/after-1989/).
 
 ## ‘Nine Eleven’ instrumental demo
 
@@ -66,7 +66,7 @@ _Skinny Kid_ was the first piece that I turned into a proper song when I refacto
 > _Skinny Kid_ is a tender delicate number as Simone expresses emotional and harrowing themes through a bitter, icy piano and tense progressive soundscapes. With a steady beat pounding through weaving guitars and ominous rumble on bass, the track projects images of isolation and loneliness by means of sinister chilling twinkles and tender vocals. The haunting backing vocals and lamenting pines on guitar have a chilling element as Simone portrays this harsh experience with sublime instrumentation and vivid musicianship.<cite>[Indie Buddie](https://www.indiebuddie.com/minutes-to-midnight-skinny-kid-video-premiere/)</cite>
 
 {: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/work/music/after-1989/)
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/)
 
 ## Credits for ‘Skinny Kid’
 
