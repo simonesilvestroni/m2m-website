@@ -1,9 +1,10 @@
 <div class="case-study warning">
-	<h2><a href="{{ post.url }}" title="Read: &ldquo;{{ post.title }}&rdquo;">{{ post.title }}</a></h2>
+	<h2>{{ post.title }}</h2>
 	<div>
 		{%- if post.featimage == true %}
-		<a href="{{ post.url }}" title="Read: &ldquo;{{ post.title }}&rdquo;"><img src="/assets/images/thumb-{{ post.id | split: "/" | last | append: ".jpg" }}" alt="{{ post.title }}" width="120" height="120"></a>
+		<img src="/assets/images/thumb-{{ post.id | split: "/" | last | append: ".jpg" }}" alt="{{ post.title }}" width="120" height="120">
 		{% endif -%}
 		<p>{{ post.description }}</p>
+		<a href="{{ post.url }}">Read &rarr;</a>
 	</div>
 </div>
