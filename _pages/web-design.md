@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Web Design & Development'
+title: 'Web Design &amp; Development'
 date: '2023-12-05 17:21:46'
 last_modified_at: '2024-01-17 16:38:26'
 description: "My key skill is turning raw sketched ideas into live interfaces, studying and modifying them through user testing, always keeping a strong eye to accessibility, performance, and good design balance."

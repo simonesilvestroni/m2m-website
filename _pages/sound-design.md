@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Sound Design & Music Production'
+title: 'Sound Design &amp; Music Production'
 date: '2021-11-08 10:51:46'
 last_modified_at: '2024-01-17 18:46:09'
 description: 'A professional bass player and composer by trade, a keen eye for details helped me becoming a game audio sound designer, and specialising as a mix and master engineer.'
