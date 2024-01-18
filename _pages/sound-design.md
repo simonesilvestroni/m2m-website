@@ -16,9 +16,9 @@ permalink: /sound-design/
 {% assign OriginalMusic = site.posts | where_exp:'post','post.title contains "Release" and post.tags contains "sound project"' %}
 {% assign Bass = site.posts | where_exp:'post','post.title contains "Bass" and post.tags contains "sound project"' -%}
 
-For more, check my comprehensive&nbsp;[**resume**&nbsp;&rarr;](https://sound.minutestomidnight.co.uk){: .cta .cta-nospace .highlight }
+{%- comment %}For more, check my comprehensive&nbsp;[**resume**&nbsp;&rarr;](https://sound.minutestomidnight.co.uk){: .cta .cta-nospace .highlight }
 
----
+---{% endcomment -%}
 
 {: .sound-design-categories }
 Browse a selection of relevant case studies by:<br>{% for item in site.data.nav-work-sound.menu %}[{{ item.name }}]({{ item.link }}) {% unless forloop.last %} {% endunless %}{% endfor %}
