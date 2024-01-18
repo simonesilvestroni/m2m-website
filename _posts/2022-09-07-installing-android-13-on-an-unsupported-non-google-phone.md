@@ -22,8 +22,8 @@ Xiaomi told me that *no new Android updates* would be made available for the dev
 
 Most Xiaomi devices come factory locked, which means it’s impossible to rewrite the bootloader without unlocking. Obligatory note: the procedure voids any type of warranty or support from the manufacturer.
 
-- Enabling developer options: in `Settings > My Device` I tapped repeatedly on the MIUI version, until a pop-up message *You are now a developer!* appeared on screen.
-- USB debugging: activated *USB debugging* and *Install via USB* in `Settings > Additional Settings > Developer Options`.
+- Enabling developer options: in Settings &rarr; My Device I tapped repeatedly on the MIUI version, until a pop-up message *You are now a developer!* appeared on screen.
+- USB debugging: activated *USB debugging* and *Install via USB* in Settings &rarr; Additional Settings &rarr; Developer Options`.
 - Unlocking: [Xiaomi’s Unlock app](https://www.miui.com/unlock/index_en.html) required a Windows machine.
 
 ## Second: custom recovery bootloader
@@ -42,7 +42,7 @@ Next, I rebooted the device by pushing the power button together with the volume
 - Data
 - Internal storage
 
-Afterwards, I hit <kbd>Back</kbd> and tapped on <kbd>Format Data</kbd>. Typed `yes`, hit the back button again, tapped the bottom icon <kbd>Menu</kbd> and chose `Reboot > Recovery`. If it wasn’t already, that’s when I was supposed to connect the device to the Windows machine via USB cable.
+Afterwards, I hit <kbd>Back</kbd> and tapped on <kbd>Format Data</kbd>. Typed `yes`, hit the back button again, tapped the bottom icon <kbd>Menu</kbd> and chose Reboot &rarr; Recovery. If it wasn’t already, that’s when I was supposed to connect the device to the Windows machine via USB cable.
 
 ## Fourth: custom ROM
 

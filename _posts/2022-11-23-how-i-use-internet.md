@@ -8,17 +8,11 @@ tags:
   - 'personal'
   - 'social media'
   - 'software'
-description: "A brief description of how I use the internet in 2022, two years after leaving all mainstream social networks."
+description: 'A brief description of how I use the internet in 2022, two years after leaving all mainstream social networks. Post inspired by Michael Harley’s <a href="https://michaelharley.net/posts/2022/11/07/how-i-internet/"><em>How I Internet</em></a>, which was inspired by Cassey Lottman’s, <a href="https://www.cassey.dev/posts/2022-11-05-my-internet/"><em>My Internet</em></a>.'
 ---
-This post is inspired by Michael Harley’s [_How I Internet_](https://michaelharley.net/posts/2022/11/07/how-i-internet/), which was inspired by Cassey Lottman’s, [_My Internet_](https://www.cassey.dev/posts/2022-11-05-my-internet/).
-
 ## E-mail
 
-I still prefer e-mail over any other form of communication.
-
-A few years ago I’ve switched to Protonmail, after possibly using all the available systems out there — both free and paid. ~~Even though I’m not entirely satisfied, it fits my current privacy needs.~~ 
-
-After a few years with Proton, [I switched to Mailbox.org](/blog/email-migration-from-proton-to-mailbox/). I now sync my calendars and address book with Android through the open source [DAVx<sup>5</sup>](https://f-droid.org/en/packages/at.bitfire.davdroid/).
+I still prefer e-mail over any other form of communication. A few years ago I’ve switched to Protonmail, after possibly using all the available systems out there — both free and paid. ~~Even though I’m not entirely satisfied, it fits my current privacy needs.~~ After a few years with Proton, [I switched to Mailbox.org](/blog/email-migration-from-proton-to-mailbox/). I now sync my calendars and address book with Android through the open source [DAVx<sup>5</sup>](https://f-droid.org/en/packages/at.bitfire.davdroid/).
 
 My first e-mail client was [Eudora](https://en.wikipedia.org/wiki/Eudora_(email_client)).
 
@@ -52,9 +46,7 @@ After discovering the [pages functionality in Feedbin](https://feedbin.com/blog/
 
 ## Social interactions
 
-I joined [Mastodon](https://sonomu.club/@m2m) in 2017, only to leave after a few months because I still was hooked on Twitter. In 2020, I deleted all my social media accounts and re-joined.
-
-Outside the fediverse, I follow a couple of forums, namely [Reaper](https://forum.cockos.com/forumdisplay.php?f=20) and [Airwiggles](https://www.airwiggles.com).
+I joined [Mastodon](https://sonomu.club/@m2m) in 2017, only to leave after a few months because I still was hooked on Twitter. In 2020, I deleted all my social media accounts and re-joined. Outside the fediverse, I follow a couple of forums, namely [Reaper](https://forum.cockos.com/forumdisplay.php?f=20) and [Airwiggles](https://www.airwiggles.com).
 
 I started in the 1990s with BBSes and Usenet newsgroups. Still missing both.
 
