@@ -1,11 +1,11 @@
 <div class="pagination">
-  <div>
+  <div class="notice">
     {% if page.previous.url %}
     <p>&larr;&nbsp;Older</p>
     <a href="{{ site.url }}{{ page.previous.url }}">{{ page.previous.title }}</a>
     {% endif %}
   </div>
-  <div>
+  <div class="notice">
     {% if page.next.url %}
     <p>Newer&nbsp;&rarr;</p>
     <a href="{{ site.url }}{{ page.next.url }}">{{ page.next.title }}</a>
