@@ -3,8 +3,13 @@ layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {%- assign blog = site.documents | where:"layout", "post" | sort: 'date' | reverse %}
-  {%- for post in blog %}
+  {% assign pages = site.pages | where:"layout", "page" %}
+  {% assign blogpage = site.pages | where:"layout", "blog" %}
+  {% assign allpages = pages | concat: blogpage | sort: 'title' %}
+  {% assign sorted_blog = site.documents | where:"layout", "post" | sort: 'date' | reverse %}
+  {% assign sorted_tags = site.tags | sort %}
+
+  {%- for post in sorted_blog %}
   {%- unless post.sitemap == false %}
   <url>
     <loc title='{{ post.title }}'>{{ site.url }}{{ post.url }}</loc>
@@ -16,9 +21,6 @@ layout: none
     <loc title="Homepage">{{ site.url }}</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
   </url>
-  {%- assign pages = site.pages | where:"layout", "page" -%}
-  {%- assign blog = site.pages | where:"layout", "blog"  -%}
-  {%- assign allpages = pages | concat: blog | sort: 'title' -%}
   {%- for page in allpages %}
   {%- unless page.sitemap == false %}
   <url>
@@ -27,7 +29,6 @@ layout: none
   </url>
   {%- endunless -%}
   {% endfor -%}
-  {% assign sorted_tags = site.tags | sort %}
   {%- for tag in sorted_tags -%}
   {%- assign t = tag | first %}
   <url>
