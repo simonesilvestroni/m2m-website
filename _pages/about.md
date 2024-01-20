@@ -2,38 +2,31 @@
 layout: page
 title: 'About'
 date: '2022-01-14'
-last_modified_at: '2023-10-13 17:51:52'
-description: 'I’m Simone (he/him), a straight to the point person with a major interest in sound design, music, and web development.'
+last_modified_at: '2024-01-19 23:25:54'
+description: 'Based in Cambridge (UK), I’m a gen X with a straight to the point attitude. Gravitating around duality, I use a mix of instinct and academic learning to juggle between art and technology in equal measure.'
 permalink: /about/
 ---
-Playing **bass** since my teenage years, I learned the craft of **audio engineering** as a studio assistant during the Nineties. After moving to the big city, I've explored print design and development jobs as a source of income, until I was eventually hired as a [sound designer for video games](/blog/tag/sound-design/) in 1999, to me the ultimate audio-visual narrative medium. Having managed to make a career out of _each passion of mine_ means being able to competently juggle between different disciplines, which creates a constant flow of curiosity, and a desire for improvement. [My main focus is still sound]({{ site.url }}/work/).
+<div class="warning">
+  <h2>What I stand for</h2>
+  <p>Leading a quiet life in a time where noise, toxic controversy and anger have become dominant, is a struggle. Capitalism seems to favour abject things like patriarchy, racism, sexism, homophobia, and an incessant rush to accumulate wealth at the expense of people and the environment.</p>
+  <p>I don’t contribute to this hive mind mentality, especially the one fuelled by corporations destroying personal privacy while <a href="{{ site.url }}/blog/life-after-social-networks/">exploiting vanity-driven human weaknesses</a>. I also  stay away from the 24/7 ‘breaking’ news circus.</p>
+  <p>I’ve expanded on these topics in <a href="{{ site.url }}/personal-manifesto/"><strong><code>/personal-manifesto/</code></strong></a>.</p>
+</div>
 
-<aside>
-	{% for endorsement in site.data.endorsements.quotes limit:1 %}
-	<blockquote>
-		<p>{{ endorsement.quote }}<cite><a href="{{ endorsement.url }}">{{ endorsement.name }}</a> ({{ endorsement.role }})</cite></p>
-	</blockquote>
-	{% endfor %}
-</aside>
+## What I do
 
-I try to listen to people and be open to new ideas. Disagreeing with a society that's oblivious of its unsustainability, I wrote a personal [manifesto of some of the principles I live by](/personal-manifesto/).
+While my small-town boy introversion can be challenging in a raucous world, it has brilliant side effects. Helped by an eidetic memory, and the ability to hyper focus, I can dig deep into several interests, learning and honing new crafts over time. As a result, a peculiar skill of mine is the capacity to work comfortably in both creative and technical roles. 
 
-## Quick facts
+After graduating from music school, I acquired production chops as a resident bass player and studio assistant during the 1990s. Attracted by tiny villages and metropolis alike, I moved to the big city, where I worked as a print designer and editor to fund my music activities. Seeing web design as a natural evolution of the publishing industry, I built my first website in 1997.
 
-{: .list-hr }
-- Gen-X born in Italy. First name is pronounced `see-mow-nay`.
-- Graduated in 1995 (bass and music theory) at the _CPM Music Institute_ in Milan.
-- After moving to Milan I worked as a desktop publishing specialist, which proved to be a gateway to a [parallel career in web programming](https://simonesilvestroni.com).
-- I moved to the UK in 2011, enjoying the process of integrating with a different culture. Currently based in Cambridge.
-- Graduated in 2017 at the _Berklee College of Music_ (audio mastering and music production).
-- My favourite bass player is Andy Rourke.
+Shortly after, I received an invite for a job interview with a company that was looking for a web developer who could also understand design. As they were starting production on a platform video game, I [landed the double role of sound and web designer]({{ site.url }}/blog/joining-playstos/), bringing my duality to a full circle.
 
-## Tools
+[Recent work as a **sound designer**&nbsp;&rarr;]({{ site.url }}/sound-design/){: .notice-cta }
 
-{: .list-hr }
-- Apple certified for Logic Pro X, I switched to [Pro Tools](/blog/tag/pro-tools/), and later [REAPER](/blog/tag/reaper/).
-- Audiokinetic Wwise is my preferred [game audio](/blog/tag/game-audio/) middleware.
-- Field recording, Foley, audio editing and restoration are done with iZotope RX.
-- Here's a comprehensive list of [hardware and software that I use]({{ site.url }}/uses/).
+[Recent work as a **web designer**&nbsp;&rarr;]({{ site.url }}/web-design/){: .notice-cta }
 
-[**About the website**&nbsp;→]({{ site.url }}/colophon/){: .cta .highlight }
+## More
+
+I care about accessibility, [sustainability]({{ site.url }}/blog/tag/sustainability/), the environment. The recent renaissance of what is now called the *small web* pushed me to [redesign my site and join the IndieWeb movement]({{ site.url }}/blog/website-minutes-to-midnight/).
+
+As part of the process, I have a [**`/Now`**]({{ site.url }}/now/) page where I write down the things I'm involved with at the moment, a [**`/Links`**]({{ site.url }}/links/) page which is what years ago would have been called *Blogroll*, and a [**`/Uses`**]({{ site.url }}/uses/) page, with a list of the tools I use.
