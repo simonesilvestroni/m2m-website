@@ -46,7 +46,7 @@ After discovering the [pages functionality in Feedbin](https://feedbin.com/blog/
 
 ## Social interactions
 
-I joined [Mastodon](https://sonomu.club/@m2m) in 2017, only to leave after a few months because I still was hooked on Twitter. In 2020, I deleted all my social media accounts and re-joined. Outside the fediverse, I follow a couple of forums, namely [Reaper](https://forum.cockos.com/forumdisplay.php?f=20) and [Airwiggles](https://www.airwiggles.com).
+I joined [Mastodon](https://sonomu.club/@m2m) in 2017, only to leave after a few months because I still was hooked on Twitter. In 2020, I deleted all my social media accounts and re-joined. Outside the fediverse, I follow a few forums, namely [Reaper](https://forum.cockos.com/forumdisplay.php?f=20), [Sublime Text](https://forum.sublimetext.com), [MPU](https://talk.macpowerusers.com), and [Airwiggles](https://www.airwiggles.com).
 
 I started in the 1990s with BBSes and Usenet newsgroups. Still missing both.
 
