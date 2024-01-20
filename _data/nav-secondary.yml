@@ -1,8 +1,10 @@
 menu:
   - name: Now
     link: /now/
-  - name: My setup
+  - name: Uses
     link: /uses/
+  - name: Links
+    link: /links/
   - name: Sitemap
     link: /sitemap/
   - name: Search
