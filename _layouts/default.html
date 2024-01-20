@@ -36,7 +36,7 @@
 	{% endunless -%}
 	"author": {
 		"@type": "Person",
-		"name": "Simone Silvestroni",
+		"name": "{{ site.author.name }}",
 		"givenName": "Simone",
 		"familyName": "Silvestroni"
 	},
@@ -81,7 +81,7 @@
 	<footer>
 		{% include site-nav-secondary.html %}
 		<div class="warning">
-			<p>&copy; 2002-{{ site.time | date: "%Y"}} Simone Silvestroni, all rights reserved. However, blog posts are licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 license</a>, so the written content can be used, including commercially, provided that a proper attribution to me is given, including a link to <code>minutestomidnight.co.uk</code>.</p>
+			<p>&copy; 2002-{{ site.time | date: "%Y"}} {{ site.author.name }}, all rights reserved. However, blog posts are licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 license</a>, so the written content can be used, including commercially, provided that a proper attribution to me is given, including a link to <code>minutestomidnight.co.uk</code>.</p>
 			<p><a href="https://themarkup.org/blacklight?url=minutestomidnight.co.uk">No statistics, no tracking, no ads, zero affiliates</a>.</p>
 			<p><strong>Part of the Indieweb webring</strong><br>
 			<a class="small" href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/previous">← PREVIOUS SITE</a> &middot; <a class="small" href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/next">NEXT SITE →</a></p>

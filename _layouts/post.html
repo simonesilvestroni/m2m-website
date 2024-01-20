@@ -8,7 +8,7 @@ layout: default
 		{%- unless page.tldr == false %}
 		<p class="p-summary">{{ page.description }}</p>
 		{% endunless -%}
-		<span class="p-author h-card"><img class="u-photo" src="{{ site.url }}/assets/images/minutes-to-midnight-portrait.jpg" alt="Simone Silvestroni's avatar" width="28" height="28"> by <a class="p-name" href="{{ site.url }}/about/" rel="author">Simone Silvestroni</a>{% if page.replyto %} <span>in reply to <a href="{{ page.replyto }}" class="u-in-reply-to">{{ page.replytouser }}</a></span>{% endif -%}{% if page.coauthor %} &amp; <a href="{{ page.coauthorlink }}">{{ page.coauthor }}</a>{% endif %}</span>
+		<span class="p-author h-card"><img class="u-photo" src="{{ site.url }}/assets/images/minutes-to-midnight-portrait.jpg" alt="Simone Silvestroni's avatar" width="28" height="28"> by <a class="p-name" href="{{ site.url }}/about/" rel="author">{{ site.author.name }}</a>{% if page.replyto %} <span>in reply to <a href="{{ page.replyto }}" class="u-in-reply-to">{{ page.replytouser }}</a></span>{% endif -%}{% if page.coauthor %} &amp; <a href="{{ page.coauthorlink }}">{{ page.coauthor }}</a>{% endif %}</span>
 	</header>
 	{%- unless page.thumbOnly == true -%}
 	{% if page.featimage == true %}
@@ -16,7 +16,7 @@ layout: default
 		<img src="{{ site.url }}/assets/images/{{ page.featimage-name }}" alt="{{ page.featimage-alt }}" {{ page.featimage-width | prepend: 'width="' | append: '"' }} {{ page.featimage-height | prepend: 'height="' | append: '"' }}>
 		{%- if page.featimage-caption %}
 		<figcaption class="p-name">{{ page.featimage-caption }}</figcaption>
-		{% endif %}  
+		{% endif %}
 	</figure>
 	{% endif %}
 	{% endunless -%}
@@ -25,12 +25,12 @@ layout: default
 	</div>
 	<section>
 		<h4>Comments</h4>
-		<p><a href="mailto:hello@minutestomidnight.co.uk?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a>, or send a <a href="https://indieweb.org/Webmention">webmention</a>.</p>
+		<p><a href="mailto:{{ site.author.email }}?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a>, or send a <a href="https://indieweb.org/Webmention">webmention</a>.</p>
 		<h4>Related topics</h4>
 		<ul class="list-hr">
 			{% for tag in page.tags -%}
 			<li><a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase }}</a></li>
-			{%- endfor -%}
+			{% endfor -%}
 		</ul>
 		{% if page.syndication == true %}
 		<h4>Syndication</h4>
@@ -39,7 +39,7 @@ layout: default
 			<li><a rel="syndication" class="u-syndication" href="{{ s.url }}">{{ s.name }}</a></li>
 			{% endfor %}
 		</ul>
-		{% endif %}
+		{% endif -%}
 	</section>
 </article>
 {% include post-nav.html %}
