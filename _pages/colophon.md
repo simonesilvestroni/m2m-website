@@ -2,7 +2,7 @@
 layout: page
 title: 'Colophon'
 date: '2023-01-14 13:49:31'
-last_modified_at: '2024-01-06 13:11:47'
+last_modified_at: '2024-01-19 23:43:05'
 description: 'Thank yous, tools used for this website, accessibility and performance benchmarks, notes about privacy and copyright.'
 permalink: /colophon/
 ---
@@ -34,7 +34,7 @@ Handcrafted by Simone Silvestroni. Maintained and updated using Sublime Text, Ty
 ### Accessibility
 
 {: .list-hr }
-- Compliant with <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> AAA guidelines
+- Compliant with the [Web Content Accessibility AAA Guidelines](https://wave.webaim.org/report#/https://minutestomidnight.co.uk/)
 - Current [WAVE accessibility rank](https://webaim.org/projects/million/lookup?domain=minutestomidnight.co.uk): #7,280 of 1,000,000
 
 ### Sustainability
