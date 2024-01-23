@@ -25,15 +25,11 @@ thumbOnly: true
 
 ## Backstory
 
-In 2018, together with Dan Ecclestone, songwriter for Cambridge-based band Ember Rev, I worked as a co-producer and mixer for their second album, [*Premonition And Ruin*]({{ site.url }}/blog/premonition-and-ruin/). A song didn’t make the cut: *Land Of Kings* is my interpretation of it. Together with *Papillon*, they reference the painful process of living in England through Brexit.
-
-I had been living in the UK for five years when the referendum took place. That night I was up in front of the TV, watching my idea of the UK — England in particular — crumble before my eyes.
+In 2018, together with Dan Ecclestone, songwriter for Cambridge-based band Ember Rev, I worked as a co-producer and mixer for their second album, [*Premonition And Ruin*]({{ site.url }}/blog/premonition-and-ruin/). A song didn’t make the cut: *Land Of Kings* is my interpretation of it. Together with *Papillon*, they reference the painful process of living in England through Brexit. I had been living in the UK for five years when the referendum took place. That night I was up in front of the TV, watching my idea of the UK — England in particular — crumble before my eyes.
 
 {% include pattern-video.html id="SAn9Dw_srPA" %}
 
-At five in the morning, right after the BBC declared the result, I stood alone in the garden. It was sunny, a good fresh smell in the air. Gobsmacked and incapable of thinking clearly, I felt betrayed.
-
-Then, the most pantomimic four years came and went, and all I could see was ‘Rule Britannia’, which looked so out of touch with the world at large.
+At five in the morning, right after the BBC declared the result, I stood alone in the garden. It was sunny, a good fresh smell in the air. Gobsmacked and incapable of thinking clearly, I felt betrayed. Then, the most pantomimic four years came and went, and all I could see was ‘Rule Britannia’, which looked so out of touch with the world at large.
 
 These two songs prefectly encapsulate those days in June 2016. I spoke with [Gerald Duchene](https://antiquity-music.com/), long-time collaborator and friend of mine, about the idea of working together at these remixes. We both love a challenge, so off we went.
 
