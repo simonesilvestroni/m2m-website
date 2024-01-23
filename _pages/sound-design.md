@@ -2,7 +2,7 @@
 layout: page
 title: 'Sound Design &amp; Music Production'
 date: '2021-11-08 10:51:46'
-last_modified_at: '2024-01-17 18:46:09'
+last_modified_at: '2024-01-20 00:30:43'
 description: 'A professional bass player and composer by trade, a keen eye for details helped me becoming a game audio sound designer, and specialising as a mix and master engineer.'
 permalink: /sound-design/
 ---
@@ -16,39 +16,37 @@ permalink: /sound-design/
 {% assign OriginalMusic = site.posts | where_exp:'post','post.title contains "Release" and post.tags contains "sound project"' %}
 {% assign Bass = site.posts | where_exp:'post','post.title contains "Bass" and post.tags contains "sound project"' -%}
 
-{%- comment %}For more, check my comprehensive&nbsp;[**resume**&nbsp;&rarr;](https://sound.minutestomidnight.co.uk){: .cta .cta-nospace .highlight }
-
----{% endcomment -%}
+[For more: **comprehensive resume**&nbsp;&rarr;](https://sound.minutestomidnight.co.uk){: .notice-cta }
 
 {: .sound-design-categories }
 Browse a selection of relevant case studies by:<br>{% for item in site.data.nav-work-sound.menu %}[{{ item.name }}]({{ item.link }}) {% unless forloop.last %} {% endunless %}{% endfor %}
 
-<section class="case-studies h-feed">
+<section class="h-feed">
 	<h2 id="sound-design"><strong>Sound design</strong></h2>
 	{%- for post in SoundDesign %}
 	{% include pattern-casestudy.html %}
 	{% endfor %}
 </section>
 
-<section class="case-studies h-feed">
+<section class="h-feed">
 	<h2 id="music-production"><strong>Music production</strong></h2>
 	{%- for post in MusicProduction %}
 	{% include pattern-casestudy.html %}
 	{% endfor %}
 </section>
 
-<section class="case-studies h-feed">
+<section class="h-feed">
 	<h2 id="original-music"><strong>Original music</strong></h2>
 	{%- for post in OriginalMusic %}
 	{% include pattern-casestudy.html %}
 	{% endfor %}
 </section>
 
-<section class="case-studies h-feed">
+<section class="h-feed">
 	<h2 id="bass"><strong>Bass</strong></h2>
 	{%- for post in Bass %}
 	{% include pattern-casestudy.html %}
 	{% endfor %}
-	<p>Here’s a Spotify playlist with a more comprehensive list of songs where I recorded bass tracks:</p>
-	<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1EC2Hm0xSywc5pITPMhuIA?utm_source=generator" width="100%" height="475" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </section>
+
+<p>There's <a href="https://open.spotify.com/playlist/1EC2Hm0xSywc5pITPMhuIA?go=1&sp_cid=487d59ad613576f2112257ebd71a52af&utm_source=embed_player_p&utm_medium=desktop">a Spotify playlist</a> with a more comprehensive list of songs where I recorded bass tracks.</p>
