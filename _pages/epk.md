@@ -10,7 +10,14 @@ permalink: /epk/
 ---
 ## Video teaser
 
-{% include pattern-video.html id="q148xmdgHrY" %}
+<video controls src="{{ site.url }}/assets/videos/music-video-after-1989-teaser.mp4"
+  poster="{{ site.url }}/assets/videos/music-video-after-1989-teaser.jpg"
+  width="1280">
+  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-after-1989-teaser.mp4">download it</a> and watch it with your favorite video player.
+</video>
+
+{: .small }
+If you prefer, [watch the video on YouTube](https://youtu.be/q148xmdgHrY){: target="_blank"}
 
 ## Biography
 

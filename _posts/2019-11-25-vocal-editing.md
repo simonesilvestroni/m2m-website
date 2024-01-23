@@ -22,19 +22,22 @@ featimage-height: 720
 ---
 ## Vocal transformation
 
-After the [demo stage of my album]({{ site.url }}/blog/after-1989-demos/) _After 1989_, I scrapped a song called _Niemandsland_, featuring a marvellous vocal performance by Rachel Goodman. Since the lyrics were critical for the concept, I repurposed them for the new lead single _Skinny Kid_. 
-
-Despite the two songs having different tonality and tempo, I decided to salvage Rachel's parts as backing vocals and counterpoint to Dan Ecclestone's lead.
+After the [demo stage of my album]({{ site.url }}/blog/after-1989-demos/) _After 1989_, I scrapped a song called _Niemandsland_, featuring a marvellous vocal performance by Rachel Goodman. Since the lyrics were critical for the concept, I repurposed them for the new lead single _Skinny Kid_. Despite the two songs having different tonality and tempo, I decided to salvage Rachel's parts as backing vocals and counterpoint to Dan Ecclestone's lead.
 
 ### Before &amp; after
 
 Rachel Goodman's performance in _Niemandsland_ (an unpublished demo scrapped in 2017) and the same chorus section edited and adapted for _Skinny Kid_. The tempo jumped from `78` to `105`.
 
-{% include pattern-video.html id="NqvejQhhUao" %}
+<video controls src="{{ site.url }}/assets/videos/case-study-vocals-transformation.mp4"
+  poster="{{ site.url }}/assets/videos/case-study-vocals-transformation.jpg"
+  width="1024">
+  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/case-study-vocals-transformation.mp4">download it</a> and watch it with your favorite video player.
+</video>
 
-The painstaking process of transforming a vocal performance from one song to another was done using Logic Pro and Soundtoys.
+{: .small }
+If you prefer, [watch the video on YouTube](https://youtu.be/NqvejQhhUao){: target="_blank"}<br><br>
 
-Working on both the pitch and the _formant_, I strived to obtain a new track that sounded coherent with the new lead single without showing notable artifacts.
+The painstaking process of transforming a vocal performance from one song to another was done using Logic Pro and Soundtoys. Working on both the pitch and the _formant_, I strived to obtain a new track that sounded coherent with the new lead single without showing notable artifacts.
 
 ## Robert F. Kennedy eulogy clean-up
 

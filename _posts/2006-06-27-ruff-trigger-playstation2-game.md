@@ -23,7 +23,7 @@ featimage-height: 720
 ---
 {: .big }
 > Great co-worker! Very careful, serious and responsible, never superficial, with a wide knowledge of the Apple world, and all that’s connected to audio engineering. Highly recommended.
-> <cite>Daniele Pieroni, [senior game developer relations engineer at Intel](https://www.linkedin.com/in/danielepieroni/)</cite>
+> <cite>Daniele Pieroni, [Senior platform programmer at Epic Games](https://www.linkedin.com/in/danielepieroni/)</cite>
 
 [Hired by Playstos Entertainment]({{ site.url }}/blog/joining-playstos/) in January 2000, I helped shaping their debut title — _Ruff Trigger: The Vanocore Conspiracy_. As my first duty was to define a plan for the game audio, I started by **turning a perfect-sized room into a [full-fledged studio](#the-studio)**, capable of handling the workflow of a small dedicated audio team.
 
@@ -68,7 +68,14 @@ The following songs are demos rendered in their linear versions, thus they don't
 
 My process for sound effects was to create them from scratch, layering my recordings with a few libraries at my disposal. The example below is a section of a full motion teaser integrated in a demo shown to Sony in London, in order to obtain the license to develop for the Playstation2. The sound commentary was made using a combination of **Foley, field recording, and synthesis**.
 
-{% include pattern-video.html id="X4eQAhk6dKM" %}
+<video controls src="{{ site.url }}/assets/videos/case-study-ruff-trigger-prototype-teaser-extended.mp4"
+  poster="{{ site.url }}/assets/videos/case-study-ruff-trigger-prototype-teaser-extended.jpg"
+  width="1024">
+  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/case-study-ruff-trigger-prototype-teaser-extended.mp4">download it</a> and watch it with your favorite video player.
+</video>
+
+{: .small }
+If you prefer, [watch the video on YouTube](https://youtu.be/X4eQAhk6dKM){: target="_blank"}<br><br>
 
 The video includes **processed recordings** of myself typing on a mechanical keyboard, thunderstorms in Milan, wooshes using belts and other artifacts, various metal hits from around the office, a wheeled chair on irregular surfaces, multiple compressed air cans, colleagues making noise and voices, rustled newspapers, a cat collar with a little bell, a few presets from a Korg Trinity synthesizer, all edited with Sound Forge, and assembled in Logic Platinum.
 

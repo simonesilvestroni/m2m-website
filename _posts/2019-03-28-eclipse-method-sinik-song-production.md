@@ -15,11 +15,14 @@ description: 'I snapped out of my comfort zone to help the promising young artis
 featimage: true
 thumbOnly: true
 ---
-## Stream the song
+<video controls src="{{ site.url }}/assets/videos/eclipse-method-sinik.mp4"
+  poster="{{ site.url }}/assets/videos/eclipse-method-sinik.jpg"
+  width="1024">
+  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/eclipse-method-sinik.mp4">download it</a> and watch it with your favorite video player.
+</video>
 
-[Listen to the song on Spotify](https://open.spotify.com/track/3Ydz49mYSfJ122pCf9PQrd?si=772cd61e061f47cd){: target="_blank"}
-
-{% include pattern-video.html id="D0mFNEwirGg" %}
+{: .small }
+If you prefer, [listen to the song on YouTube](https://youtu.be/D0mFNEwirGg){: target="_blank"}, or on [Spotify](https://open.spotify.com/track/3Ydz49mYSfJ122pCf9PQrd?si=772cd61e061f47cd){: target="_blank"}
 
 ## Production notes
 

@@ -99,7 +99,14 @@ When iZotope released _Master Rebalance_ as part of Ozone and RX, I tried the fu
 
 The first ten seconds of the original song, followed by the same section with the isolated drums plus drum doubling in Reaper.
 
-{% include pattern-video.html id="ofgU1kXiSHE" margin="mt-4 mb-0" %}
+<video controls src="{{ site.url }}/assets/videos/case-study-isolating-the-drums-from-a-stereo-track.mp4"
+  poster="{{ site.url }}/assets/videos/case-study-isolating-the-drums-from-a-stereo-track.jpg"
+  width="1024">
+  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/case-study-isolating-the-drums-from-a-stereo-track.mp4">download it</a> and watch it with your favorite video player.
+</video>
+
+{: .small }
+If you prefer, [watch the video on YouTube](https://youtu.be/ofgU1kXiSHE){: target="_blank"}
 
 ## Reviews
 

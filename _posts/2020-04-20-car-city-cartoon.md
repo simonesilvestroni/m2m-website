@@ -16,15 +16,27 @@ thumbOnly: true
 ---
 ## Cartoon series episodes
 
-{% include pattern-video.html id="LLH6DfooMLg" title="Car City: Tom the Tow Truck" %}
+<video controls src="{{ site.url }}/assets/videos/case-study-carcity-inventom-candy-machine.mp4"
+  poster="{{ site.url }}/assets/videos/case-study-carcity-inventom-candy-machine.jpg"
+  width="1280">
+  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/case-study-carcity-inventom-candy-machine.mp4">download it</a> and watch it with your favorite video player.
+</video>
 
-{% include pattern-video.html id="h66pXVCEbqw" title="Car City: Tom the Tow Truck" %}
+{: .small }
+If you prefer, [watch the video on YouTube](https://youtu.be/LLH6DfooMLg){: target="_blank"}
+
+<video controls src="{{ site.url }}/assets/videos/case-study-carcity-inventom-race-car.mp4"
+  poster="{{ site.url }}/assets/videos/case-study-carcity-inventom-race-car.jpg"
+  width="1280">
+  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/case-study-carcity-inventom-race-car.mp4">download it</a> and watch it with your favorite video player.
+</video>
+
+{: .small }
+If you prefer, [watch the video on YouTube](https://youtu.be/h66pXVCEbqw){: target="_blank"}
 
 ## About Amuse
 
-Founded in 2015, Amuse is dedicated to producing and distributing kids' content across digital platforms.
-
-> Located in the heart of Paris, our team of artists & animators, writers, developers and executives collaborate everyday to produce & distribute great shows throughout the world.
+Founded in 2015, Amuse is dedicated to producing and distributing kids' content across digital platforms. Located in the heart of Paris, their team of artists & animators, writers, developers and executives collaborate everyday to produce & distribute great shows throughout the world.
 
 ## Initial test
 
@@ -39,9 +51,7 @@ For the straightforward process, I signed up for an account on their own online 
 
 ## Project management
 
-The company adopts agile processes to ensure a steady production schedule.
-
-The job started before the pandemic and continued during the first lockdowns in Europe. I interacted with the project manager through Slack. All the episodes of _Car City_ in production were listed in the system, along with features such as state of completion, deadlines and the required documentation.
+The company adopts agile processes to ensure a steady production schedule. The job started before the pandemic and continued during the first lockdowns in Europe. I interacted with the project manager through Slack. All the episodes of _Car City_ in production were listed in the system, along with features such as state of completion, deadlines and the required documentation.
 
 ## Cloud storage
 
@@ -55,14 +65,13 @@ I chose to book tasks based on the type of story and the fun I thought I would g
 
 Once I familiarized with the screenplay and the silent video animation, my go-to actions were:
 
-- Open my template in Logic Pro
+{: .list-hr }
+- Open the template in Logic Pro
 - Drag the video into the timeline
 - Create markers with the first obvious cues, such as the reusable scenes
 - Drag and precisely position audio files for the reusable scenes and the voice-overs, following the screenplay document
 
-Then it was a matter of following the story and create the sound design for the rest of the movie. I kept an iPad as an external monitor, to always have the video on its own.
-
-I didn't use plug-ins except for impulse response reverbs, though I did rely a lot functionalities such as gain, pan, and a whole lot of automation.
+Then it was a matter of following the story and create the sound design for the rest of the movie. I kept an iPad as an external monitor, to always have the video on its own. I didn't use plug-ins except for impulse response reverbs, though I did rely a lot functionalities such as gain, pan, and a whole lot of automation.
 
 ![Logic project with automation for Car City: Tom the Tow Truck](/assets/images/carcity-tom-logic.jpg){: width="1024" height="604" }
 *Logic project with automation for Car City: Tom the Tow Truck*
@@ -71,7 +80,7 @@ I didn't use plug-ins except for impulse response reverbs, though I did rely a l
 
 Amuse requested the following specifications:
 
-**Audio**
+### Audio
 
 - `.wav`
 - Stereo
@@ -83,15 +92,13 @@ Amuse requested the following specifications:
 - Loudness integrated target: `–16 dB LUFS` (+/-1 dB margin)
 - Dynamic range: `> 9 LU`
 
-**Video**
+### Video
 
 - `25 fps`
 - HDV
 - `1280*720p`
 
-Once the mix was finalized and uploaded, the project manager would listen to it and send their feedback. I would receive a message on Slack, along with the possibility of having a discussion or asking for further explanations.
-
-Once all the edits requested in the feedback were completed and a sign-off was obtained, I would proceed to master the audio  and export the video following the guidelines. The task would be marked as complete, usually in less than an hour.
+Once the mix was finalized and uploaded, the project manager would listen to it and send their feedback. I would receive a message on Slack, along with the possibility of having a discussion or asking for further explanations. Once all the edits requested in the feedback were completed and a sign-off was obtained, I would proceed to master the audio  and export the video following the guidelines. The task would be marked as complete, usually in less than an hour.
 
 ## Release
 
