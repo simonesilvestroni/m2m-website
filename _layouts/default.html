@@ -1,7 +1,16 @@
+{%- capture siteTitle %}
+{%- if page.url == "/" -%}
+{{ site.title }} - {{ page.title }}
+{%- elsif page.type == 'tag' -%}
+{{ site.title }} - {{ page.type | capitalize }}: {{ page.title | capitalize }}
+{%- else -%}
+{% unless page.tagline == false %}{{ site.title }}{% endunless %} - {{ page.title }}
+{%- endif -%}
+{% endcapture -%}
 <!DOCTYPE html>
 <html lang="{{ site.lang }}" dir="ltr" itemscope itemtype="http://schema.org/WebPage">
 <head>
-<title>{%- include site-title.html -%}</title>
+<title>{{ siteTitle }}</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {% if page.robots %}<meta name="robots" content="{{ page.robots }}, noai, noimageai">{% else %}<meta name="robots" content="index, follow, noai, noimageai">{% endif %}
@@ -25,7 +34,7 @@
 	"@context": "http://schema.org",
 	{% if page.is_post -%}"@type": "BlogPosting"{%- else %}"@type": "WebSite"{%- endif %},
 	"name": "{{ site.title }}",
-	"headline": "{%- include site-title.html %}",
+	"headline": "{{ siteTitle }}",
 	"url": "{{ site.url }}{{ page.url }}",
 	"description": "{% if page.description %}{{ page.description | strip_html }}{% else %}{{ site.who | strip_html }}{% endif %}",
 	"keywords": "{% if page.tags %}{{ page.tags | join: ', ' }}{% else %}{{ site.keywords }}{% endif %}",
@@ -69,17 +78,34 @@
 }
 </script>
 </head>
-<body id="top"{% if page.url contains '/blog/tag/' %} class="page-tag"{% endif %}>
+<body id="top"{% if page.url contains '/blog/tag/' %} class="page-tag"{% endif %}{% if page.url contains 'sound-design' or page.url contains 'web-design' %} class="case-study"{% endif %}>
 	<a class="skip-to-content" href="#main">Skip to content</a>
 	<a class="skip-to-footer" href="#footer">Skip to footer</a>
 	<header>
-		{% include site-nav-main.html %}
+		<nav aria-label="Main navigation">
+			<ul>
+				{% for item in site.data.nav-main.menu -%}
+				{%- capture main-nav-icon -%}
+					{%- if item.link == 'Homepage' -%}
+						<span class="visually-hidden">Go to the homepage</span>
+					{%- endif -%}
+				{%- endcapture -%}
+				<li><a{% if page.url contains item.link %} class="current"{% endif %} href="{{ site.url }}{{ item.link }}"{% if forloop.last %} title="Subscribe for free via RSS"{% endif %}>{{ main-nav-icon }}{{ item.name }}</a></li>
+				{% endfor -%}
+			</ul>
+		</nav>
 	</header>
 	<main id="main">
 		{{ content }}
 	</main>
 	<footer>
-		{% include site-nav-secondary.html %}
+		<nav aria-label="Secondary navigation" id="footer">
+			<ul>
+				{% for item in site.data.nav-secondary.menu -%}
+				<li><a{% if page.url contains item.link %} class="current"{% endif %} href="{{ site.url }}{{ item.link }}"{% if item.target == true %} target="_blank"{% endif %}>{{ item.name }}</a></li>
+				{% endfor -%}
+			</ul>
+		</nav>
 		<div class="warning">
 			<p>&copy; 2002-{{ site.time | date: "%Y"}} {{ site.author.name }}, all rights reserved. However, blog posts are licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 license</a>, so the written content can be used, including commercially, provided that a proper attribution to me is given, including a link to <code>minutestomidnight.co.uk</code>.</p>
 			<p><a href="https://themarkup.org/blacklight?url=minutestomidnight.co.uk">No statistics, no tracking, no ads, zero affiliates</a>.</p>
