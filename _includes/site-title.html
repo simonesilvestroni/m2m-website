@@ -1,7 +1,0 @@
-{%- if page.url == "/" -%}
-{{ site.title }} - {{ page.title }}
-{%- elsif page.type == 'tag' -%}
-{{ site.title }} - {{ page.type | capitalize }}: {{ page.title | capitalize }}
-{%- else -%}
-{% unless page.tagline == false %}{{ site.title }}{% endunless %} - {{ page.title }}
-{%- endif -%}
