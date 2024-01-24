@@ -17,7 +17,7 @@ posts_limit: 20
 title: Minutes to Midnight
 tagline: Sound designer, game audio pioneer
 permalink: /blog/:title/
-timezone: Europe/Berlin
+timezone: Europe/London
 logo: /assets/images/m2m-og-image.jpg
 author:
   name: Simone Silvestroni
