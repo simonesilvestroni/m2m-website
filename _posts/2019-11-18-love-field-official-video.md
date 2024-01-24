@@ -20,26 +20,33 @@ description: 'Cheering crowds greet the President at Love Field, the Dallas airp
 ---
 November 1963. A warm weather greets the President when he lands at _Love Field_. Following the motorcade, I fantasise about waving at Jack and Jackie, or leaning over the window of a sixth floor, or being Abraham Zapruder, standing still while everything changes.
 
-{% include pattern-video.html id="oTR5ZJQdRXM" %}
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .cta .highlight }
 
-{: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/)
+<video controls src="{{ site.url }}/assets/videos/music-video-love-field.mp4"
+  poster="{{ site.url }}/assets/videos/music-video-love-field.jpg"
+  width="1024">
+  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-love-field.mp4">download it</a> and watch it with your favorite video player.
+</video>
+
+{: .small }
+If you prefer, [watch the video on YouTube](https://youtu.be/oTR5ZJQdRXM){: target="_blank"}
 
 ## Credits
 
 ### Performed by
 
-- Dan Ecclestone / **vocals**
-- Paolo Clementi / **guitars, viola**
-- Simone Silvestroni / **bass, piano, synth, strings, drums, sound effects**
+**Dan Ecclestone**\
+vocals
+
+**Paolo Clementi**\
+guitars, viola
+
+**Simone Silvestroni**\
+bass, piano, synth, strings, drums, sound effects
 
 ## Production
 
-- Written, produced and mixed by Simone Silvestroni.
-- Mastered by [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd).
-- Video by [Silvia Maggi](https://silviamaggidesign.com).
-- Management by Christopher Carvalho of [Unlock Your Sound Ltd](https://unlockyoursound.com/).
+Written, produced and mixed by Simone Silvestroni / Mastered by [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd) / Video by [Silvia Maggi](https://silviamaggidesign.com) / Management by Christopher Carvalho of [Unlock Your Sound Ltd](https://unlockyoursound.com/).
 
 {: .small }
-<br>&copy; 2019 Simone Silvestroni.
-<br>℗ 2019 Minutes to Midnight (sound recording copyright).
+&copy; 2019 Simone Silvestroni

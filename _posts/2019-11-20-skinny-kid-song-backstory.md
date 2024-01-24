@@ -19,6 +19,16 @@ tags:
   - 'world war ii'
 description: 'How an arrangement for another band became the opening single and lead song for Minutes to Midnight’s concept album ‘After 1989’.'
 ---
+## Music video
+
+<video controls src="{{ site.url }}/assets/videos/music-video-skinny-kid.mp4"
+  width="1024">
+  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-skinny-kid.mp4">download it</a> and watch it with your favorite video player.
+</video>
+
+{: .small }
+If you prefer, [watch the video on YouTube](https://youtu.be/xs00zSccUjc){: target="_blank"}
+
 ## Origin
 
 Back in 2009, I was the bassist for a trio in the Milan area. The band was about to present, in the form of live concerts, a CD that was published a few months earlier. A few songs featured sketchy electric guitars on their own, with neither rhythm nor structure. I revamped one of those by adding bass, a reference drum track, keyboard parts and sound effects. It became a full-fledged song that bared little resemblance with the original.
@@ -56,42 +66,43 @@ I’m in Berlin. After boarding the S-Bahn 1 to Oranienburg, I relive the decade
 
 _Skinny Kid_ was the first piece that I turned into a proper song when I refactored my album at the beginning of 2019. I adapted the lyrics I wrote for a different tune — now discarded from the project — and re-arranged the structure for a linear narration. The first version of _Nine Eleven_ lasted 8 minutes and 30 seconds. _Skinny Kid_ is now a 3-minutes song with a standard structure. It’s also a personal statement about simplicity, and a desire to go to the core of things.
 
-## Official music video
-
-{% include pattern-video.html id="xs00zSccUjc" %}
-
-
 ## Review By The Indie Buddie
 
 > _Skinny Kid_ is a tender delicate number as Simone expresses emotional and harrowing themes through a bitter, icy piano and tense progressive soundscapes. With a steady beat pounding through weaving guitars and ominous rumble on bass, the track projects images of isolation and loneliness by means of sinister chilling twinkles and tender vocals. The haunting backing vocals and lamenting pines on guitar have a chilling element as Simone portrays this harsh experience with sublime instrumentation and vivid musicianship.<cite>[Indie Buddie](https://www.indiebuddie.com/minutes-to-midnight-skinny-kid-video-premiere/)</cite>
 
-{: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/)
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .cta .highlight }
 
 ## Credits for ‘Skinny Kid’
 
 ### Performed by
 
-- Dan Ecclestone / **vocals**
-- Rachel Goodman / **vocals**
-- Gerald Duchene / **guitars**
-- Keven Howard Bellamy / **backing vocals**
-- Simone Silvestroni / **bass, drums, piano, synth, sound effects**
+**Dan Ecclestone**\
+vocals
+
+**Rachel Goodman**\
+vocals
+
+**Gerald Duchene**\
+guitars
+
+**Keven Howard Bellamy**\
+backing vocals
+
+**Simone Silvestroni**\
+bass, drums, piano, synth, sound effects
 
 ## Credits for ‘Nine Eleven’
 
 ### Performed by
 
-- Simone Silvestroni / **bass, drums, piano, synth, sound effects**
-- Paolo Clementi / **guitars, viola**
+**Simone Silvestroni**\
+bass, drums, piano, synth, sound effects
+
+**Paolo Clementi**\
+guitars, viola
 
 ### Production
-
-- Written, produced and mixed by Simone Silvestroni.
-- Music video by [Silvia Maggi](https://silviamaggidesign.com/).
-- Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
-- Management by Christopher Carvalho of [Unlock Your Sound](https://unlockyoursound.com/).
+Written, produced and mixed by Simone Silvestroni / Music video by [Silvia Maggi](https://silviamaggidesign.com/) / Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/) / Management by Christopher Carvalho of [Unlock Your Sound](https://unlockyoursound.com/).
 
 {: .small }
-<br>&copy; 2019 Simone Silvestroni.
-<br>℗ 2019 Minutes to Midnight (sound recording copyright).
+&copy; 2019 Simone Silvestroni

@@ -18,9 +18,16 @@ tags:
   - 'video'
 description: '75 years ago, while two young men escaped from Sachsenhausen concentration camp, the US nuked Hiroshima with a bomb named Little Boy.'
 ---
-## Official video
+## Music video
 
-{% include pattern-video.html id="5M1XTw483Ew" %}
+<video controls src="{{ site.url }}/assets/videos/music-video-a-little-boy-that-santa-claus-forgot-on-a-b-29.mp4"
+  poster="{{ site.url }}/assets/videos/music-video-a-little-boy-that-santa-claus-forgot-on-a-b-29.jpg"
+  width="1024">
+  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-a-little-boy-that-santa-claus-forgot-on-a-b-29.mp4">download it</a> and watch it with your favorite video player.
+</video>
+
+{: .small }
+If you prefer, [watch the video on YouTube](https://youtu.be/5M1XTw483Ew){: target="_blank"}
 
 ## Backstory
 
@@ -28,9 +35,7 @@ description: '75 years ago, while two young men escaped from Sachsenhausen conce
 
 ![The aftermath, Hiroshima](/assets/images/hiroshima_aftermath.jpg){: width="780" height="546" }
 
-April, same year: two men escaped from a concentration camp called [Sachsenhausen](https://www.sachsenhausen-sbg.de/en/), built in the town of Oranienburg, north of Berlin. One of them was my grandfather.
-
-Now a fugitive, he’s running away from imprisonment with a fellow Soviet inmate. They have to steal from German citizens, for food, protection and to go unnoticed during the day. They tie themselves to tree branches at night. The skinny kid came back home, mostly walking, [from Berlin to Italy]({{ site.url }}/blog/after-1989-full-story/).
+April, same year: two men escaped from a concentration camp called [Sachsenhausen](https://www.sachsenhausen-sbg.de/en/), built in the town of Oranienburg, north of Berlin. One of them was my grandfather. Now a fugitive, he’s running away from imprisonment with a fellow Soviet inmate. They have to steal from German citizens, for food, protection and to go unnoticed during the day. They tie themselves to tree branches at night. The skinny kid came back home, mostly walking, [from Berlin to Italy]({{ site.url }}/blog/after-1989-full-story/).
 
 ## A glimpse of something
 
@@ -42,26 +47,29 @@ A pun over an [old tune by Vera Lynn](https://youtu.be/4Zj-XYQ21qE) intertwined 
 
 The contrast between the Christmas carol-like music of the final section, and this flatly delivered horrifying declaration is chilling.
 
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .cta .highlight }
+
 ## Credits
 
 ### Performed by
 
-- Dan Ecclestone / **vocals, ukulele, toy piano**
-- Paolo Clementi / **viola**
-- Callum Gardner / **acoustic guitar**
-- Simone Silvestroni / **bass, drums, sound effects**
+**Dan Ecclestone**\
+vocals, ukulele, toy piano
+
+**Paolo Clementi**\
+viola
+
+**Callum Gardner**\
+acoustic guitar
+
+**Simone Silvestroni**\
+bass, drums, sound effects
 
 ### Production
-
-- Written and produced by Simone Silvestroni.
-- Mastered by Ian Shepherd.
-- Management by Christopher Carvalho of [Unlock your sound](https://unlockyoursound.com).
+Written and produced by Simone Silvestroni / Mastered by Ian Shepherd / Management by Christopher Carvalho of [Unlock your sound](https://unlockyoursound.com).
 
 ### Footage
+Prelinger Archive / U.S. Army / Barbed wire design by freepik.com.
 
-- Prelinger Archive.
-- U.S. Army.
-- Barbed wire design by freepik.com.
-
-{: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/)
+{: .small }
+&copy;&nbsp;2019 Simone Silvestroni

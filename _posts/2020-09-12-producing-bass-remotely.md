@@ -65,7 +65,10 @@ Whenever I’m sure about a good take, I write down its number. I might refer to
 
 I record the bass through a [SansAmp BassDriver DI v2](/uses/), rarely applying a software pre-amp or amp simulators.
 
-{% include pattern-video.html id="touEk1I8hJE" %}
+<video controls src="{{ site.url }}/assets/videos/producing-bass-tracks-remotely-tracking.mp4"
+  width="1024">
+  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/producing-bass-tracks-remotely-tracking.mp4">download it</a> and watch it with your favorite video player.
+</video>
 
 ## Stage 3: Comping
 
@@ -79,7 +82,10 @@ In Pro Tools I can select a section and quickly swap between takes in loop mode 
 
 The final step is listening to the track in context with the mix. If I’m happy with the result I commit to audio, hiding and deactivating the source in case I want to go back and tweak something.
 
-{% include pattern-video.html id="hbHGVrxn6Mw" %}
+<video controls src="{{ site.url }}/assets/videos/producing-bass-tracks-remotely-comping.mp4"
+  width="1024">
+  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/producing-bass-tracks-remotely-comping.mp4">download it</a> and watch it with your favorite video player.
+</video>
 
 ## Stage 4: Editing
 
@@ -92,7 +98,10 @@ After switching the track view to `Analysis`, excessive transients that might ha
 
 In case I decide to go for an automated process, I never go beyond an 82% clean-up. I prefer to _retain the human factor_ with my playing. In the video below, you can see a single automatic audio quantize to a specific small selection played as triplets, and a couple of notes adjusted.
 
-{% include pattern-video.html id="QoFwDqM58dc" %}
+<video controls src="{{ site.url }}/assets/videos/producing-bass-tracks-remotely-editing.mp4"
+  width="1024">
+  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/producing-bass-tracks-remotely-editing.mp4">download it</a> and watch it with your favorite video player.
+</video>
 
 Finally, I switch elastic audio to `X-Form`. As a high-quality process, it is a _rendering-only mode_. The result is always satisfying to my ears. Once again, I commit the audio to a new track, and hide/disable the source.
 
@@ -123,7 +132,10 @@ Once I'm happy with compression, I add a Pultec to the final bass track.
 
 Although I’ve applied both reverb and delay to the bass on a [song contained in my recent album _After 1989_](https://minutestomidnight.bandcamp.com/track/requiem), I usually never do. I prefer to add spacing effects only if the instrument is performing an important melodic function. In the aforementioned song, there's a synth bass audible in the second half. It's my Warwick played with a pick, passed through a stutter effect, a phaser, a panner and a delay.
 
-{% include pattern-video.html id="yHYuOuujeMk" %}
+<video controls src="{{ site.url }}/assets/videos/producing-bass-tracks-remotely-mixing.mp4"
+  width="1024">
+  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/producing-bass-tracks-remotely-mixing.mp4">download it</a> and watch it with your favorite video player.
+</video>
 
 ## Stage 6: Delivery
 
@@ -133,7 +145,10 @@ With Antiquity I bounce the bass from Pro Tools and import in the original Logic
 
 Optimising is paramount. To deliver a clean session I export a new copy cleaning up any unused or deactivated tracks. I _never deliver a session with my takes_, comp or edits: only the mixdown.
 
-{% include pattern-video.html id="6mpy1pyqV-A" %}
+<video controls src="{{ site.url }}/assets/videos/producing-bass-tracks-remotely-delivery.mp4"
+  width="1024">
+  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/producing-bass-tracks-remotely-delivery.mp4">download it</a> and watch it with your favorite video player.
+</video>
 
 ## Stage 7: Feedback from the client
 
