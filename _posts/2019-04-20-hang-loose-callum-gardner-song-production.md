@@ -22,7 +22,6 @@ thumbOnly: true
 
 Besides recording and producing the song, I worked as a bassist, contributing to the solid groove foundation, supporting this beautifully written and performed song.
 
-{: .big }
 > This song is all about missed opportunities and blessings in disguise. I wrote _Hang Loose_ after failing to pounce upon a great chance to change my career, but little did I know that this mistake would become the catalyst for me to take on my musical journey as a full-time artist.
 > <cite>Callum Gardner</cite>
 

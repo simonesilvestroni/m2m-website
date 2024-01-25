@@ -26,7 +26,6 @@ syndicate:
 
 The Cambridge-based band [Ember Rev](https://germanshepherdrecords.com/artists/ember-rev/) published their debut album in 2017&nbsp;—&nbsp;a year before I first met them&nbsp;—&nbsp;and *In Super-8* is a reworking of that album. After having mixed [*Premonition and Ruin*]({{ site.url }}/blog/premonition-and-ruin/) and [*From The Country To The City To The Sea*]({{ site.url }}/blog/from-the-country-to-the-city/), it was a brilliant opportunity to have my signature mix on their first trilogy.
 
-{: .big }
 > This re-appraising and re-working is an attempt to capture the character of the songs as they sounded when performed live. This was not  represented in the earlier arrangements which I felt compromised the  songs themselves; songs that we still play to this day.
 > <cite>Dan Ecclestone</cite>
 

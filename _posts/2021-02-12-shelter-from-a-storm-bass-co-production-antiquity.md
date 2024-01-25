@@ -21,7 +21,6 @@ Crafted by [Gerald](https://antiquitysessions1.bandcamp.com/track/shelter-from-a
 
 Gerald also received this magnificent endorsement by [Leland Sklar](https://en.wikipedia.org/wiki/Leland_Sklar) (bassist with Phil Collins, Toto and many more), which makes me immensely proud:
 
-{: .big }
 > I’m really digging this one. His style reminds me of Paul Webb from Talk Talk. No needless notes. Great tone and feel. Good work, brother.
 > <cite>Leland Sklar</cite>
 

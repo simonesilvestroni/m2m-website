@@ -159,6 +159,5 @@ Unless I’m working on a larger project, for which I use my [Trello system]({{ 
 
 ## Client review
 
-{: .big }
 > I’ve worked with Simone on both my projects and his and the professionalism and quality of his work is world class. I have rarely had to give direction and he takes direction like an interested pro. I’m very partial to his style and tone. I hope to be still playing with him in the years to come. If you want a bass track that stands out and makes people sit up and listen, Simone is your man.
 > <cite>Gerald Duchene, [Antiquity](http://antiquity-music.com/)</cite>

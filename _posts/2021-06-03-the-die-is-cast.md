@@ -33,7 +33,6 @@ At five in the morning, right after the BBC declared the result, I stood alone i
 
 These two songs prefectly encapsulate those days in June 2016. I spoke with [Gerald Duchene](https://antiquity-music.com/), long-time collaborator and friend of mine, about the idea of working together at these remixes. We both love a challenge, so off we went.
 
-{: .big }
 > When I first heard the original recordings of these songs, I knew there was something there. Simone and I were pretty much simpatico and on the same page right from the start of our work on these tunes. We’ve been working together for awhile now and it seems like we have comfortably fallen into this new sound. I’m very proud of the work we did on these two great songs by Dan. I think they are the products of careful thoughtful musicianship.
 > <cite>Gerald Duchene</cite>
 

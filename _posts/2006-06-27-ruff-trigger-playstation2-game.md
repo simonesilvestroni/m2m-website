@@ -21,7 +21,6 @@ featimage-alt: Ruff Trigger game cover
 featimage-width: 720
 featimage-height: 720
 ---
-{: .big }
 > Great co-worker! Very careful, serious and responsible, never superficial, with a wide knowledge of the Apple world, and all that’s connected to audio engineering. Highly recommended.
 > <cite>Daniele Pieroni, [Senior platform programmer at Epic Games](https://www.linkedin.com/in/danielepieroni/)</cite>
 
@@ -90,7 +89,6 @@ After obtaining a license to develop for PlayStation2, we worked to get _Ruff Tr
 
 Following a company reorganisation, my project management duties increased. I needed to recalibrate my efforts, including the addition of a new sound designer who previously worked for Sony in Liverpool. That was arguably my best time with the company: two sound designers and an audio programmer working well together in the studio. We were a tight-knit small team, with **an infallible delivery record**. I designed audio and attended daily meetings where I offered my suggestions and voiced our concerns, co-ordinating with the producers. Overall, **the audio team consisted of six people**: two sound designers, two composers, and two audio programmers.
 
-{: .big }
 > Simone is a very talented audio composer. He pays a lot of attention to quality and detail, and he’s always willing to improve his wide array of skills. Definitely a pleasure to work with.
 > <cite>Michele Sandroni, [Technical Artist at Bosch Rexroth AG](https://www.linkedin.com/in/michelesandroni/)</cite>
 

@@ -38,7 +38,6 @@ I added the project to my Trello boards and added Dan as a contributor. We both 
 
 ## Review
 
-{: .big }
 > Simone mixed my band’s latest two albums. I worked closely with him during this process, using his Trello-based methodology to help sequence the work. Each song appeared as a series of tasks to be completed, checked and commented on. As a result, we were able to manage our time smoothly and efficiently. Creative ideas flowed back and forth. I’m looking forward to involving him in the next recordings!
 > <cite>Dan Ecclestone, [Ember Rev](https://emberrev.bandcamp.com/)</cite>
 

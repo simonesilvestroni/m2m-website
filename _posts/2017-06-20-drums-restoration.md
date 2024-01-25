@@ -110,6 +110,5 @@ If you prefer, [watch the video on YouTube](https://youtu.be/ofgU1kXiSHE){: targ
 
 ## Reviews
 
-{: .big }
 > In the band I started, Simone was the most involved with regards to arrangement and dynamics. Using his fretless bass, he completely switched the mood of any given part. Simone and I have been working on my new releases, and it’s been an incredibly worthwhile experience. It’s great to have him with me to lead the production side and also to influence the arrangement. I’m really happy to have a producer that understands completely my process as a songwriter.
 > <cite>Callum Gardner, [Singer-songwriter](https://callumgardnerofficial.com/)</cite>

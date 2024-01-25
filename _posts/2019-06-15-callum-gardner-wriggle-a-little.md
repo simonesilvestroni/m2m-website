@@ -24,7 +24,6 @@ I went to the band’s HQ, an old police station in Central London, to record th
 
 Comping his fantastic solo on the fly allowed me to feel how each take was better than the previous one. The rest of the production, except for the drums, was completed at my Garden Room studio, in Cambridge.
 
-{: .big }
 > _Wriggle a Little_ describe the mental and physical struggle of a lonely introspective creative, looking for longevity and purpose in their work. The music and groove represents that bread trail of small successes—that momentum we all crave to prove we’re on the right track.
 > <cite>Callum Gardner</cite>
 

@@ -51,7 +51,6 @@ A skilled shoemaker, the SS kept him in the _konzentrationslager_ working on mil
 ![Shoe-testing track](/assets/images/full-story-shoe-track.jpg){: width="1024" height="768" }
 *Shoe-testing track*
 
-{: .big }
 > Wave upon wave  
 > of Faceless strangers  
 > Chosen, discarded  
@@ -68,7 +67,6 @@ He managed to escape and come back home in the summer of 1945. It took a few mon
 
 Unfortunately, we only have little details about the escape: first and foremost is the fact he did it together with a fellow Russian inmate. They had been forced to climb on trees and tie themselves to the most vigorous branches to sleep and avoid checks overnight.
 
-{: .big }
 > There were two of us  
 > We left in a rush  
 > We stole a gun  
@@ -87,7 +85,6 @@ Two years later, in the summer of 1991, my friends and I bought an InterRail tic
 
 We went to Prague, Dresden and Berlin, before visiting a few towns in West Germany. I wasn’t ready to dig into my family story at the time and given my obsession for the Cold War, the idea of observing the divided city as a historical place was way more compelling to me. Even though the dismantling was moving at a decent pace, long strips of slabs from the Wall were still standing. The city hadn’t changed much yet, and the scars were visible. Potsdamer Platz was still a no man’s land, the buildings clearly showing their remarkably different styles, and I vividly remember how I watched in dismay at the bricked windows in the Eastside, facing the West.
 
-{: .big }
 > I’m twenty again  
 > On a noisy bus  
 > No matter where we are  
@@ -146,7 +143,6 @@ In hindsight, I now understand why some of the objects he kept throughout the od
 
 I keep wondering what kind of friendship he had with the Russian inmate; if they were — in fact — friends; how exactly did they manage to escape: was that in Sachsenhausen or at a labor camp outside? Did he manage to go back to the Soviet Union? Did the Cold War make them enemies?
 
-{: .big }
 > I stand up to my fears  
 > After so many years  
 > Walking towards your jail  
@@ -161,7 +157,6 @@ I keep wondering what kind of friendship he had with the Russian inmate; if they
 
 My research became a music concept album. Both the synopsis and the music stayed with me for quite a long time before I could find the best way to communicate the story in a relatable form. It’s a tale of pain and hope. Although it wasn’t easy trying to convey my sentiments about a family story while inscribing it in the context of my time — the Cold War — it became a process towards personal liberation.
 
-{: .big }
 > That was me watching the no man’s land, that was me  
 > This is me changing the life I planned  
 > That was me thinking of where to stand, that was me  
