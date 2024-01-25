@@ -43,10 +43,9 @@
 	--nav-active: #000;
 	--border: #d9d9d9;
 	--accent: #2d2f56;
-	--deflink: #8be9Fd;
-	--deflinkvisited: #B09BFD;
-	--deflinkdark: #0000ee;
-	--deflinkdarkvisited: #551a8b;
+	--deflink: #666666;
+	--deflinkover: #8be9Fd;
+	--deflinkovervisited: #B09BFD;
 	--preformatted: #444;
 	--marked: 242,241,175;
 	--cta: 200,200,200;
@@ -313,18 +312,15 @@ nav[aria-label="Project navigation"] a:visited {
 a {
 	color: var(--text-headings);
 	text-decoration-color: var(--deflink);
-	text-decoration-thickness: 3px;
+	text-decoration-thickness: 2px;
 	text-underline-offset: 0.1rem;
 }
-a:visited {
-	text-decoration-color: var(--deflinkvisited);
-}
 a:hover {
-	text-decoration-thickness: 2px;
-	text-decoration-color: var(--text-headings);
+	text-decoration-thickness: 3px;
+	text-decoration-color: var(--deflinkover);
 }
 a:visited:hover {
-	text-decoration-color: var(--text-headings);
+	text-decoration-color: var(--deflinkovervisited);
 }
 a:focus-visible,
 a:active {
@@ -1194,9 +1190,12 @@ body.case-study .h-feed a {
 	z-index: 10;
 }
 body.case-study .h-feed a:hover {
-	border: 3px solid var(--deflinkvisited);
+	border: 3px solid var(--deflinkover);
 	border-radius: var(--double-border-radius);
 	transition: border 0.3s;
+}
+body.case-study .h-feed a:visited:hover {
+	border: 3px solid var(--deflinkovervisited);
 }
 body.case-study .h-feed div h2 {
 	font-size: smaller;
@@ -1238,7 +1237,7 @@ audio {
 .audioplayer {
 	padding: 1rem;
 	margin: 3rem 0;
-	border: 2px solid var(--deflinkvisited);
+	border: 2px solid var(--deflinkovervisited);
 	border-radius: var(--double-border-radius);
 	background-color: var(--strong-bg);
 }
@@ -1246,6 +1245,7 @@ audio {
 	display: block;
 	float: left;
 	font-family: var(--sans-font);
+	font-size: smaller;
 	font-weight: bold;
 	margin-top: -2rem;
 	margin-bottom: 1rem;
