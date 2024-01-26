@@ -1,7 +1,7 @@
 /* -------------------------------- *\
  * $WEBFONTS
  * -------------------------------- */
-@font-face {
+/*@font-face {
 	font-family: 'Manrope';
 	src: url('/assets/fonts/manrope-regular.woff2') format('woff2');
 	font-weight: normal;
@@ -14,13 +14,34 @@
 	font-weight: bold;
 	font-style: normal;
 	font-display: swap;
+}*/
+@font-face {
+	font-family: 'CooperHewitt';
+	src: url('/assets/fonts/cooperhewitt-book.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'CooperHewitt';
+	src: url('/assets/fonts/cooperhewitt-bookitalic.woff2') format('woff2');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'CooperHewitt';
+	src: url('/assets/fonts/cooperhewitt-bold.woff2') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
 }
 
 /* -------------------------------- *\
  * $VARIABLES
  * -------------------------------- */
 :root {
-	--sans-font: 'Manrope', system-ui, sans-serif;
+	--sans-font: 'CooperHewitt', system-ui, sans-serif;
 	--sans-system: system-ui, sans-serif;
 	--serif-font: 'Iowan Old Style', 'Palatino', 'URW Palladio L', P052, serif;
 	--mono-font: 'SF Mono', monospace;
@@ -99,7 +120,7 @@ progress {
 	-moz-appearance: none;
 }
 html {
-	font-family: var(--sans-system);
+	font-family: var(--sans-font);
 	scroll-behavior: smooth;
 	background: var(--body) url('/assets/images/dirt.png');
 	background-repeat: no-repeat;
@@ -114,7 +135,7 @@ body {
 	grid-template-columns: 1fr min(42rem, 90%) 1fr;
 	grid-template-rows: auto 1fr auto;
 	color: var(--text);
-	font-size: 1.3rem;
+	font-size: 1.35rem;
 	line-height: 1.45;
 	min-height: 100vh;
 	margin: 0;
@@ -965,6 +986,7 @@ figure {
 }
 figure img {
 	border: 1px solid var(--accent-bg);
+	border-radius: var(--double-border-radius);
 }
 figcaption {
 	text-align: left;
