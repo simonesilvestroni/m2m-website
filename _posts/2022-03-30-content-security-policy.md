@@ -48,11 +48,11 @@ Bandcamp comes with a fixed dimension `iframe`, depending on a few options when 
 I turned their fixed height in two specific embed classes:
 
 ```html
-<div class="iframe-bandcamp my-5 bc-single">
+<div class="iframe-bandcamp bc-single">
 [...]
-<div class="iframe-bandcamp my-5 bc-ep">
+<div class="iframe-bandcamp bc-ep">
 [...]
-<div class="iframe-bandcamp my-5 bc-album">
+<div class="iframe-bandcamp bc-album">
 ```
 
 Note that in Bandcamp, whenever I have more than one song, I always check "Show tracklist":

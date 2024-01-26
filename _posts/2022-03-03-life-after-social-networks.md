@@ -18,6 +18,7 @@ Having lived through the full experience of being engulfed in social networks, I
 
 ## What happened after I left social media
 
+{: .list-hr }
 - I suddenly gained what still seems like an insane amount of free time.
 - My work has massively improved, becoming more productive and focused.
 - I started reading again without interruptions.
@@ -30,7 +31,7 @@ Above all, I stopped caring about whatever CEO billionaire do or say, while foll
 
 ## Audience
 
-I can understand the argument about having an _audience_ (though [I dislike the term]({{ site.url }}/blog/de-brand/)), and I get people when they tell me they can’t leave a particular social network because of the relationships they built there. Yet, my escape pushed me to **actually speak to the people I used to hang around** on those networks. I got in touch, asked for their emails and sometimes their phone numbers.
+I can understand the argument about having an _audience_ (though [I dislike the term]({{ site.url }}/blog/de-brand/)), and I get people when they tell me they can’t leave a particular social network because of the relationships they built there. Yet, my escape pushed me to actually speak to the people I used to hang around on those networks. I got in touch, asked for their emails and sometimes their phone numbers.
 
 I now talk to them asynchronously and it feels genuine, real. We have stuff to discuss about, without the usual _oh yeah, I saw it earlier on Facebook_. I nurtured my email newsletter and stayed in touch with a larger amount of people than expected through either email, newsletters, RSS and sometimes Telegram or Signal. Finally, if my contacts came from [Bandcamp](https://minutestomidnight.bandcamp.com/), I followed them there. The vast majority of people who left social media reports the very same conclusions.
 
