@@ -643,7 +643,10 @@ time {
    ------------------------------ */
 .footnote {
 	color: var(--text);
-	padding: 0 2px;
+	padding: 2px;
+	text-decoration: none;
+	border-radius: var(--standard-border-radius);
+	background-color: var(--transparent-bg);
 }
 .footnotes {
 	margin-top: 4rem;
