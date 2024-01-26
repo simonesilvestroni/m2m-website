@@ -885,7 +885,6 @@ cite {
 	font-style: normal;
 	font-variant: small-caps;
 	text-transform: lowercase;
-	letter-spacing: 1px;
 	color: var(--extra-bg);
 	margin-top: 1rem;
 }
