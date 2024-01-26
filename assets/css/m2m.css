@@ -22,7 +22,7 @@
 :root {
 	--sans-font: 'Manrope', system-ui, sans-serif;
 	--sans-system: system-ui, sans-serif;
-	--serif-font: 'Georgia', 'URW Palladio L', P052, serif;
+	--serif-font: 'Iowan Old Style', 'Palatino', 'URW Palladio L', P052, serif;
 	--mono-font: 'SF Mono', monospace;
 	--standard-border-radius: 6px;
 	--double-border-radius: 12px;
