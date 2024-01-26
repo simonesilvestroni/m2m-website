@@ -1,20 +1,6 @@
 /* -------------------------------- *\
  * $WEBFONTS
  * -------------------------------- */
-/*@font-face {
-	font-family: 'Manrope';
-	src: url('/assets/fonts/manrope-regular.woff2') format('woff2');
-	font-weight: normal;
-	font-style: normal;
-	font-display: swap;
-}
-@font-face {
-	font-family: 'Manrope';
-	src: url('/assets/fonts/manrope-bold.woff2') format('woff2');
-	font-weight: bold;
-	font-style: normal;
-	font-display: swap;
-}*/
 @font-face {
 	font-family: 'CooperHewitt';
 	src: url('/assets/fonts/cooperhewitt-book.woff2') format('woff2');
@@ -378,10 +364,7 @@ abbr[title] {
 }
 .notice-cta {
 	display: inline-block;
-	position: relative;
-	left: 50%; 
-	transform: translateX(-50%);
-	margin: 0.5rem 0;
+	margin-bottom: 2rem;
 }
 .notice-cta:hover {
 	text-decoration-color: rgba(var(--cta), 1);
