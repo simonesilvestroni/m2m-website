@@ -176,9 +176,6 @@ body > footer p {
 /* -------------------------------- *\
  * $HEADINGS
  * -------------------------------- */
-h1, h2, h3, h4, h5, h6 {
-	font-family: var(--sans-font);
-}
 h1 {
 	font-size: 2.5rem;
 	font-weight: 500;
@@ -248,7 +245,9 @@ h5, h6 {
  * -------------------------------- */
 nav[aria-label="Main navigation"], 
 nav[aria-label="Secondary navigation"] {
-	font-family: var(--sans-font);
+	font-variant: small-caps;
+	text-transform: lowercase;
+	color: var(--text);
 }
 nav[aria-label="Main navigation"] ul,
 nav[aria-label="Secondary navigation"] ul {
@@ -266,10 +265,7 @@ nav[aria-label="Main navigation"] a,
 nav[aria-label="Main navigation"] a:visited {
 	display: inline-block;
 	font-size: 1.3rem;
-	font-variant: small-caps;
-	text-transform: lowercase;
 	font-weight: bold;
-	color: var(--text);
 	text-decoration: none;
 }
 @media (min-width: 768px) {
@@ -286,9 +282,8 @@ nav[aria-label="Main navigation"] a:visited {
 nav[aria-label="Secondary navigation"] a,
 nav[aria-label="Secondary navigation"] a:visited {
 	display: inline-block;
-	font-size: 1.2rem;
+	font-size: 1.4rem;
 	letter-spacing: 1px;
-	color: var(--text);
 }
 nav[aria-label="Main navigation"] a:hover,
 nav[aria-label="Secondary navigation"] a:hover {
@@ -347,7 +342,6 @@ abbr[title] {
    ------------------------------ */
 .cta,
 .notice-cta {
-	font-family: var(--sans-font);
 	font-size: smaller;
 	text-transform: uppercase;
 	letter-spacing: 2px;
@@ -376,7 +370,6 @@ abbr[title] {
 	transition: text-decoration-color, 0.5s;
 }
 .sound-design-categories a {
-	font-family: var(--sans-font);
 	font-size: smaller;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -614,7 +607,6 @@ p {
 p.p-summary {
 	padding: 0 0 1rem 0;
 	font-size: 120%;
-	line-height: 1.35;
 }
 @media (min-width: 768px) {
 	p.p-summary {
@@ -661,6 +653,7 @@ time {
 	background-color: var(--transparent-bg);
 }
 .footnotes {
+	font-family: var(--serif-font);
 	margin-top: 4rem;
 	padding-top: 2rem;
 	border-top: 1px solid var(--border);
@@ -768,7 +761,6 @@ ul.h-feed li time {
 	padding-left: 2rem;
 }
 dt {
-	font-family: var(--sans-font);
 	font-weight: bold;
 	color: var(--text-light);
 	margin-top: 3rem;
@@ -1268,7 +1260,6 @@ audio {
 .audioplayer span {
 	display: block;
 	float: left;
-	font-family: var(--sans-font);
 	font-size: smaller;
 	font-weight: bold;
 	margin-top: -2rem;
