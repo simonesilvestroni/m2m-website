@@ -279,10 +279,8 @@ nav[aria-label="Main navigation"] a:visited {
 nav[aria-label="Secondary navigation"] a,
 nav[aria-label="Secondary navigation"] a:visited {
 	display: inline-block;
-	font-size: 1.45rem;
+	font-size: 1.2rem;
 	font-weight: 700;
-	font-variant: small-caps;
-	text-transform: lowercase;
 	letter-spacing: 1px;
 	color: var(--text);
 }
