@@ -6,6 +6,7 @@ tags:
   - 'internet'
   - 'software'
 description: 'Another year, another platform goes down.'
+syndication: true
 syndicate:
   - name: IndieNews
     url: https://news.indieweb.org/en
