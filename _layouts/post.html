@@ -27,9 +27,9 @@ layout: default
 		<h4>Comments</h4>
 		<p><a href="mailto:{{ site.author.email }}?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a>, or send a <a href="https://indieweb.org/Webmention">webmention</a>.</p>
 		<h4>Related topics</h4>
-		<ul class="list-hr">
+		<ul class="list-inline">
 			{% for tag in page.tags -%}
-			<li><a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}">{{ tag | upcase }}</a></li>
+			<li><a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}"><span class="tag">{{ tag | upcase }}</span></a></li>
 			{% endfor -%}
 		</ul>
 		{% if page.syndication == true %}
