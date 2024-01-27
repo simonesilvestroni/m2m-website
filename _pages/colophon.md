@@ -21,7 +21,7 @@ Handcrafted by Simone Silvestroni. Maintained and updated using Sublime Text, Ty
 - Markdown extended
 - Liquid template language
 - [Valid](https://validator.w3.org/nu/?doc=https%3A%2F%2Fminutestomidnight.co.uk%2F) HTML, tagged with [![microformats 2]({{ site.url }}/assets/images/microformats.svg){: width="80" height="15" }](https://microformats.org/)
-- [Valid CSS level 3 + SVG](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fminutestomidnight.co.uk%2Fassets%2Fcss%2Fm2m.min.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en). Custom theme based on [Simple CSS](https://simplecss.org)
+- [Valid CSS level 3](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fminutestomidnight.co.uk%2Fassets%2Fcss%2Fm2m.min.css&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en). Custom theme based on [Simple CSS](https://simplecss.org)
 - Sends and receives [![webmentions]({{ site.url }}/assets/images/webmention.svg){: width="80" height="15" }](https://indieweb.org/Webmention)
 - Logos and icons in SVG
 - _Dirt background_ image by [Michael Rose](https://mademistakes.com/)
