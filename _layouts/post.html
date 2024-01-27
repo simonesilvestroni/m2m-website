@@ -23,36 +23,37 @@ layout: default
 	<div class="e-content">
 		{{ content }}
 	</div>
-	<section>
-		<h4>Comments</h4>
-		<p><a href="mailto:{{ site.author.email }}?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a>, or send a <a href="https://indieweb.org/Webmention">webmention</a>.</p>
-		<h4>Related topics</h4>
-		<ul class="list-inline">
-			{% for tag in page.tags -%}
-			<li><a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}"><strong class="tag">{{ tag | upcase }}</strong></a></li>
-			{% endfor -%}
-		</ul>
-		{% if page.syndication == true %}
-		<h4>Syndication</h4>
-		<ul class="list-hr">
-			{% for s in page.syndicate %}
-			<li><a rel="syndication" class="u-syndication" href="{{ s.url }}">{{ s.name }}</a></li>
-			{% endfor %}
-		</ul>
-		{% endif -%}
-	</section>
 </article>
+<div>
+	<h4>Post meta</h4>
+	<table class="post-meta">
+		<tr>
+			<th scope="col">Comments?</th>
+			<td><a href="mailto:{{ site.author.email }}?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a>, or send a <a href="https://indieweb.org/Webmention">webmention</a></td>
+		</tr>
+		<tr>
+			<th scope="col">Related</th>
+			<td>{% for tag in page.tags -%}<a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}"><span>{{ tag | upcase }}</span></a>{% endfor -%}</td>
+		</tr>
+		{% if page.syndication == true %}
+		<tr>
+			<th scope="col">Syndication</th>
+			<td>{% for s in page.syndicate %}<a rel="syndication" class="u-syndication" href="{{ s.url }}">{{ s.name }}</a>&nbsp;&nbsp;{% endfor %}</td>
+		</tr>
+		{% endif -%}
+	</table>
+</div>
 <div class="pagination">
 	{% if page.previous.url -%}
-	<div class="notice">
-		<p>&larr;&nbsp;Older</p>
-		<a href="{{ site.url }}{{ page.previous.url }}">{{ page.previous.title }}</a>
-	</div>
+	<a class="notice" href="{{ site.url }}{{ page.previous.url }}">
+		<span>&larr;&nbsp;Older</span>
+		<span>{{ page.previous.title }}</span>
+	</a>
 	{%- endif %}
 	{%- if page.next.url -%}
-	<div class="notice">
-		<p>Newer&nbsp;&rarr;</p>
-		<a href="{{ site.url }}{{ page.next.url }}">{{ page.next.title }}</a>
-	</div>
+	<a class="notice" href="{{ site.url }}{{ page.next.url }}">
+		<span>Newer&nbsp;&rarr;</span>
+		<span>{{ page.next.title }}</span>
+	</a>
 	{%- endif %}
 </div>
