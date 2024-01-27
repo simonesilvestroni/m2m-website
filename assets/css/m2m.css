@@ -640,8 +640,9 @@ time {
 	font-variant: small-caps;
 }
 .tag {
-	font-variant: small-caps;
-	text-transform: lowercase;
+	padding: 0 8px 4px 8px;
+	border-radius: var(--double-border-radius);
+	background: var(--transparent-bg);
 }
 /* footnotes
    ------------------------------ */
