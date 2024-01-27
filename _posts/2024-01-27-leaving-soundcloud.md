@@ -6,6 +6,11 @@ tags:
   - 'internet'
   - 'software'
 description: 'Another year, another platform goes down.'
+syndicate:
+  - name: IndieNews
+    url: https://news.indieweb.org/en
+  - name: Mastodon
+    url: https://sonomu.club/@m2m/111828428103695956
 ---
 I've just completed the process to delete my 14-years-old Soundcloud account. Not much to add here, the platform has been quite pointless to me for a long time. Without going deep into the quality of their audio codec, my issue is threefold: the intensified spam problem, the complete lack of genuine interaction on the site, and the more important fact that I've been leaving centralised 'silos' for a while now.
 
