@@ -2,16 +2,17 @@
 layout: page
 title: 'About'
 date: '2022-01-14'
-last_modified_at: '2024-01-19 23:25:54'
+last_modified_at: '2024-01-27 12:26:29'
 description: 'Based in Cambridge (UK), I’m a gen X with a straight to the point attitude. Gravitating around duality, I use a mix of instinct and academic learning to juggle between art and technology in equal measure.'
 permalink: /about/
 ---
-<div class="warning">
-  <h2>What I stand for</h2>
-  <p>Leading a quiet life in a time where noise, toxic controversy and anger have become dominant, is a struggle. Capitalism seems to favour abject things like patriarchy, racism, sexism, homophobia, and an incessant rush to accumulate wealth at the expense of people and the environment.</p>
-  <p>I don’t contribute to this hive mind mentality, especially the one fuelled by corporations destroying personal privacy while <a href="{{ site.url }}/blog/life-after-social-networks/">exploiting vanity-driven human weaknesses</a>. I also  stay away from the 24/7 ‘breaking’ news circus.</p>
-  <p>I’ve expanded on these topics in <a href="{{ site.url }}/personal-manifesto/"><strong><code>/personal-manifesto/</code></strong></a>.</p>
-</div>
+## What I stand for
+
+Leading a quiet life in a time where noise, toxic controversy and anger have become dominant, is a struggle. Capitalism seems to favour abject things like patriarchy, racism, sexism, homophobia, and an incessant rush to accumulate wealth at the expense of people and the environment.
+
+I don’t contribute to this hive mind mentality, especially the one fuelled by corporations destroying personal privacy while [exploiting vanity-driven human weaknesses]({{ site.url }}/blog/life-after-social-networks/). I also stay away from the 24/7 ‘breaking’ news circus.
+
+I’ve expanded on these topics in [**`/personal-manifesto`**]({{ site.url }}/personal-manifesto/).
 
 ## What I do
 
@@ -29,4 +30,4 @@ Shortly after, I received an invite for a job interview with a company that was 
 
 I care about accessibility, [sustainability]({{ site.url }}/blog/tag/sustainability/), the environment. The recent renaissance of what is now called the *small web* pushed me to [redesign my site and join the IndieWeb movement]({{ site.url }}/blog/website-minutes-to-midnight/).
 
-As part of the process, I have a [**`/Now`**]({{ site.url }}/now/) page where I write down the things I'm involved with at the moment, a [**`/Links`**]({{ site.url }}/links/) page which is what years ago would have been called *Blogroll*, and a [**`/Uses`**]({{ site.url }}/uses/) page, with a list of the tools I use.
+As part of the process, I have a [**`/now`**]({{ site.url }}/now/) page where I write down the things I'm involved with at the moment, a [**`/links`**]({{ site.url }}/links/) page which is what years ago would have been called *Blogroll*, and a [**`/uses`**]({{ site.url }}/uses/) page, with a list of the tools I use.
