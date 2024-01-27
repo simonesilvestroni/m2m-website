@@ -29,7 +29,7 @@ layout: default
 		<h4>Related topics</h4>
 		<ul class="list-inline">
 			{% for tag in page.tags -%}
-			<li><a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}"><span class="tag">{{ tag | upcase }}</span></a></li>
+			<li><a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}"><strong class="tag">{{ tag | upcase }}</strong></a></li>
 			{% endfor -%}
 		</ul>
 		{% if page.syndication == true %}
