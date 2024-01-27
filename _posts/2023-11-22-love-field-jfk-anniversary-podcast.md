@@ -21,23 +21,24 @@ description: 'On the 60th anniversary of the Kennedy assassination, Todd Gardner
 
 <iframe width="100%" height="120" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fturnmeondeadman%2F202319-conspiracy-a-go-go%2F" frameborder="0" ></iframe>
 
-## Song credits
-
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=small/bgcol=ffffff/linkcol=333333/track=835682863/transparent=true/"><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
+
+## Credits
 
 ### Performed by
 
-- Dan Ecclestone: _vocals_
-- Paolo Clementi: _guitars_, _viola_
-- Simone Silvestroni: _bass_, _piano_, _synth_, _strings_, _drums_, _sound effects_
+**Dan Ecclestone**\
+vocals
 
-### Production
+**Paolo Clementi**\
+guitars, viola
 
-- Written, produced and mixed by Simone Silvestroni.
-- Mastered by [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd).
-- Video by [Silvia Maggi](https://silviamaggidesign.com).
-- Management by Christopher Carvalho of [Unlock Your Sound Ltd](https://unlockyoursound.com/).
+**Simone Silvestroni**\
+bass, piano, synth, strings, drums, sound effects
+
+## Production
+
+Written, produced and mixed by Simone Silvestroni / Mastered by [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd) / Video by [Silvia Maggi](https://silviamaggidesign.com) / Management by Christopher Carvalho of [Unlock Your Sound Ltd](https://unlockyoursound.com/).
 
 {: .small }
-<br>&copy; 2019 Simone Silvestroni.
-<br>℗ 2019 Minutes to Midnight (sound recording copyright).
+&copy; 2019 Simone Silvestroni
