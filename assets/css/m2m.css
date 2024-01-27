@@ -640,6 +640,7 @@ time {
 /* footnotes
    ------------------------------ */
 .footnote {
+	font-size: smaller;
 	color: var(--text);
 	padding: 2px;
 	text-decoration: none;
@@ -939,7 +940,7 @@ video {
 }
 /* SVGs 
    ------------------------------ */
-.a-fill {
+/*.a-fill {
 	fill: var(--text);
 }
 .a-stroke {
@@ -948,6 +949,7 @@ video {
 .b-fill {
 	fill: var(--body);
 }
+*/
 /*@media (prefers-color-scheme: dark) {
 	.a-fill {
 		fill: var(--text);
