@@ -209,6 +209,7 @@ h2, h3, h4, h5, h6 {
 }
 h2 {
 	font-size: 1.7rem;
+	font-weight: normal;
 }
 .h-feed h2 {
 	margin-top: 1rem;
@@ -225,7 +226,6 @@ h4, h5, h6 {
 	font-size: 1.4rem;
 }
 h4, h5, h6 {
-	font-weight: bold;
 	font-variant: small-caps;
 	text-transform: lowercase;
 	letter-spacing: 2px;
@@ -636,11 +636,17 @@ time {
 /* taxonomy
    ------------------------------ */
 .p-category {
+	text-decoration: none;
 	text-transform: lowercase;
 	font-variant: small-caps;
 }
+.p-category:hover .tag {
+	background: var(--text-light);
+	color: var(--strong-bg);
+}
 .tag {
-	padding: 0 8px 4px 8px;
+	font-size: smaller;
+	padding: 0 12px 4px 12px;
 	border-radius: var(--double-border-radius);
 	background: var(--transparent-bg);
 }
@@ -1085,6 +1091,11 @@ pre span {
 .warning img {
 	display: block;
 	margin-bottom: 0;
+}
+.warning h3 {
+	text-transform: lowercase;
+	font-variant: small-caps;
+	letter-spacing: 1px;
 }
 .warning h2:first-of-type, 
 .warning h3:first-of-type {
