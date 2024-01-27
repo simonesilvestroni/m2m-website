@@ -2,24 +2,31 @@
  * $WEBFONTS
  * -------------------------------- */
 @font-face {
-	font-family: 'CooperHewitt';
-	src: url('/assets/fonts/cooperhewitt-book.woff2') format('woff2');
+	font-family: 'IBMplexSans';
+	src: url('/assets/fonts/ibm_plexsans-regular.woff2') format('woff2');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
 }
 @font-face {
-	font-family: 'CooperHewitt';
-	src: url('/assets/fonts/cooperhewitt-bookitalic.woff2') format('woff2');
+	font-family: 'IBMplexSans';
+	src: url('/assets/fonts/ibm_plexsans-italic.woff2') format('woff2');
 	font-weight: normal;
 	font-style: italic;
 	font-display: swap;
 }
 @font-face {
-	font-family: 'CooperHewitt';
-	src: url('/assets/fonts/cooperhewitt-bold.woff2') format('woff2');
+	font-family: 'IBMplexSans';
+	src: url('/assets/fonts/ibm_plexsans-bold.woff2') format('woff2');
 	font-weight: bold;
 	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'IBMplexSans';
+	src: url('/assets/fonts/ibm_plexsans-bolditalic.woff2') format('woff2');
+	font-weight: bold;
+	font-style: italic;
 	font-display: swap;
 }
 
@@ -27,7 +34,7 @@
  * $VARIABLES
  * -------------------------------- */
 :root {
-	--sans-font: 'CooperHewitt', system-ui, sans-serif;
+	--sans-font: 'IBMplexSans', system-ui, sans-serif;
 	--sans-system: system-ui, sans-serif;
 	--serif-font: 'Iowan Old Style', 'Palatino', 'URW Palladio L', P052, serif;
 	--mono-font: 'SF Mono', monospace;
@@ -280,7 +287,6 @@ nav[aria-label="Secondary navigation"] a,
 nav[aria-label="Secondary navigation"] a:visited {
 	display: inline-block;
 	font-size: 1.2rem;
-	font-weight: 700;
 	letter-spacing: 1px;
 	color: var(--text);
 }
