@@ -631,6 +631,7 @@ body.page-tag .p-summary {
 	border-top: 1px solid rgb(var(--cta));
 }
 time {
+	font-family: var(--serif-font);
 	font-size: 70%;
 }
 /* taxonomy
