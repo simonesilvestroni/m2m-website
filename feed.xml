@@ -11,8 +11,8 @@ layout: none
     <language>{{ site.lang }}</language>
     <copyright>{{ site.url }}/credits/#copyright</copyright>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-    {% assign blog = site.documents | where:"layout", "post" | sort: 'date' | reverse %}
-    {% for post in blog limit:site.posts_limit %}
+    {%- assign blog = site.documents | where:"layout", "post" | sort: 'date' | reverse -%}
+    {%- for post in blog limit:site.posts_limit %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <author>{{ site.author.email }} ({{ site.author.name }})</author>
@@ -24,11 +24,11 @@ layout: none
         </description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ site.url }}{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-        {% for tag in post.tags %}
-          <category>{{ tag | xml_escape | capitalize }}</category>
-        {% endfor %}
+        <guid isPermaLink="false">{{ site.url }}{{ post.url }}</guid>
+        {%- for tag in post.tags %}
+        <category>{{ tag | xml_escape | capitalize }}</category>
+        {%- endfor %}
       </item>
-    {% endfor %}
+    {%- endfor %}
   </channel>
 </rss>
