@@ -1,7 +1,7 @@
 http://blog.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/blog/:splat 301!
 https://blog.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/blog/:splat 301!
-http://after1989.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/work/music/after-1989/:splat 301!
-https://after1989.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/work/music/after-1989/:splat 301!
+http://after1989.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/blog/after-1989/:splat 301!
+https://after1989.minutestomidnight.co.uk/* https://minutestomidnight.co.uk/blog/after-1989/:splat 301!
 /.well-known/avatar /.well-known/avatar-m2m.png 200
 /a-little-boy-that-santa-claus-forgot-on-a-b-29/ /blog/a-little-boy-that-santa-claus-forgot-on-a-b-29/ 301
 /after-1989-love-field-official-music-video/ /blog/love-field-official-video/ 301
