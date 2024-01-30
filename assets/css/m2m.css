@@ -1229,7 +1229,7 @@ body.case-study .h-feed a {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	text-indent: -30rem;
+	text-indent: -1000rem;
 	z-index: 10;
 }
 body.case-study .h-feed a:hover {
