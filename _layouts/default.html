@@ -10,74 +10,78 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang }}" dir="ltr" itemscope itemtype="http://schema.org/WebPage">
 <head>
-<title>{{ siteTitle }}</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-{% if page.robots %}<meta name="robots" content="{{ page.robots }}, noai, noimageai">{% else %}<meta name="robots" content="index, follow, noai, noimageai">{% endif %}
-<meta name="description" content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ site.who | strip_html }}{% endif %}">
-<meta name="pinterest" content="nopin">
-<link rel="preload" href="{{ site.url }}/assets/fonts/ibm_plexsans-regular.woff2" as="font" type="font/woff2" crossorigin>
-{% if jekyll.environment == "production" %}<link rel="stylesheet" href="{{ site.url }}/assets/css/m2m.min.css">{% else -%}<link rel="stylesheet" href="{{ site.url }}/assets/css/m2m.css">{% endif %}
-<link rel="canonical" href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | replace:'index.html','' | absolute_url }}{% endif %}">
-<link rel="webmention" href="https://webmention.io/minutestomidnight.co.uk/webmention">
-<link rel="authorization_endpoint" href="https://indieauth.com/auth">
-<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
-<link rel="pgpkey authn" href="{{ site.url }}/assets/files/key.pub">
-<link rel="me" href="https://github.com/simonesilvestroni/">
-<link rel="icon" href="{{ site.url }}/favicon.ico" sizes="any">
-<link rel="icon" href="{{ site.url }}/assets/images/favicons/favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="{{ site.url }}/assets/images/favicons/apple-touch-icon.png" sizes="180x180">
-<link rel="manifest" href="{{ site.url }}/assets/images/favicons/site.webmanifest">
-<link rel="preview" href="{% if page.featimage == true and page.thumbOnly != true %}{{ site.url }}/assets/images/{{ page.featimage-name }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}">
-<link rel="alternate" href="{{ site.url }}/feed.xml" type="application/atom+xml">
-<script type="application/ld+json">
-{
-	"@context": "http://schema.org",
-	{% if page.is_post -%}"@type": "BlogPosting"{%- else %}"@type": "WebSite"{%- endif %},
-	"name": "{{ site.title }}",
-	"headline": "{{ siteTitle }}",
-	"url": "{{ site.url }}{{ page.url }}",
-	"description": "{% if page.description %}{{ page.description | strip_html }}{% else %}{{ site.who | strip_html }}{% endif %}",
-	"keywords": "{% if page.tags %}{{ page.tags | join: ', ' }}{% else %}{{ site.keywords }}{% endif %}",
-	{%- assign tagArchive = page.type | where: 'post.type', 'tag' -%}
-	{% unless tagArchive %}
-	"datePublished": "{{ page.date }}",
-	"dateModified": "{{ page.last_modified_at }}",
-	{% endunless -%}
-	"author": {
-		"@type": "Person",
-		"name": "{{ site.author.name }}",
-		"givenName": "Simone",
-		"familyName": "Silvestroni"
-	},
-	"mainEntityOfPage": {
-		"@type": "WebPage",
-		"@id": "{{ site.url }}{{ page.url }}"
-	},
-	{%- if page.featimage == true and page.thumbOnly != true %}
-	"image": {
-		"@type": "ImageObject",
-		"width": "1024",
-		"height": "765",
-		"url": "{{ site.url }}/assets/images/{{ page.featimage-name }}"
-	},
-	{%- else %}
-	"image": {
-		"@type": "ImageObject",
-		"width": "1200",
-		"height": "628",
-		"url": "{{ site.url }}{{ site.logo }}"
-	},
-	{%- endif %}
-	"sameAs": [
-		"https://sonomu.club/@m2m",
-		"https://minutestomidnight.bandcamp.com/",
-		"https://www.youtube.com/@m2m",
-		"https://github.com/simonesilvestroni/",
-		"https://www.linkedin.com/in/simonesilvestroni/"
-	]
-}
-</script>
+	<title>{{ siteTitle }}</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	{% if page.robots %}<meta name="robots" content="{{ page.robots }}, noai, noimageai">{% else %}<meta name="robots" content="index, follow, noai, noimageai">{% endif %}
+	<!-- minimal open graph implementation -->
+	<meta content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ site.who | strip_html }}{% endif %}" name="description" property="og:description">
+	<meta content="{{ siteTitle }}" property="og:title">
+	<meta content="{{ site.url }}{{ site.logo }}" property="og:image">
+	<meta content="{{ site.url }}{{ site.logo }}" name="twitter:card">
+	<!-- end open graph -->
+	<meta name="pinterest" content="nopin">
+	<link rel="preload" href="{{ site.url }}/assets/fonts/ibm_plexsans-regular.woff2" as="font" type="font/woff2" crossorigin>
+	{% if jekyll.environment == "production" %}<link rel="stylesheet" href="{{ site.url }}/assets/css/m2m.min.css">{% else -%}<link rel="stylesheet" href="{{ site.url }}/assets/css/m2m.css">{% endif %}
+	<link rel="webmention" href="https://webmention.io/minutestomidnight.co.uk/webmention">
+	<link rel="authorization_endpoint" href="https://indieauth.com/auth">
+	<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+	<link rel="pgpkey authn" href="{{ site.url }}/assets/files/key.pub">
+	<link rel="me" href="https://github.com/simonesilvestroni/">
+	<link rel="icon" href="{{ site.url }}/favicon.ico" sizes="any">
+	<link rel="icon" href="{{ site.url }}/assets/images/favicons/favicon.svg" type="image/svg+xml">
+	<link rel="apple-touch-icon" href="{{ site.url }}/assets/images/favicons/apple-touch-icon.png" sizes="180x180">
+	<link rel="manifest" href="{{ site.url }}/assets/images/favicons/site.webmanifest">
+	<link rel="alternate" href="{{ site.url }}/feed.xml" type="application/atom+xml">
+	<link rel="canonical" href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | replace:'index.html','' | absolute_url }}{% endif %}">
+	<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		{% if page.is_post -%}"@type": "BlogPosting"{%- else %}"@type": "WebSite"{%- endif %},
+		"name": "{{ site.title }}",
+		"headline": "{{ siteTitle }}",
+		"url": "{{ site.url }}{{ page.url }}",
+		"description": "{% if page.description %}{{ page.description | strip_html }}{% else %}{{ site.who | strip_html }}{% endif %}",
+		"keywords": "{% if page.tags %}{{ page.tags | join: ', ' }}{% else %}{{ site.keywords }}{% endif %}",
+		{%- assign tagArchive = page.type | where: 'post.type', 'tag' -%}
+		{% unless tagArchive %}
+		"datePublished": "{{ page.date }}",
+		"dateModified": "{{ page.last_modified_at }}",
+		{% endunless -%}
+		"author": {
+			"@type": "Person",
+			"name": "{{ site.author.name }}",
+			"givenName": "Simone",
+			"familyName": "Silvestroni"
+		},
+		"mainEntityOfPage": {
+			"@type": "WebPage",
+			"@id": "{{ site.url }}{{ page.url }}"
+		},
+		{%- if page.featimage == true and page.thumbOnly != true %}
+		"image": {
+			"@type": "ImageObject",
+			"width": "1024",
+			"height": "765",
+			"url": "{{ site.url }}/assets/images/{{ page.featimage-name }}"
+		},
+		{%- else %}
+		"image": {
+			"@type": "ImageObject",
+			"width": "500",
+			"height": "500",
+			"url": "{{ site.url }}{{ site.logo }}"
+		},
+		{%- endif %}
+		"sameAs": [
+			"https://sonomu.club/@m2m",
+			"https://minutestomidnight.bandcamp.com/",
+			"https://www.youtube.com/@m2m",
+			"https://github.com/simonesilvestroni/",
+			"https://www.linkedin.com/in/simonesilvestroni/"
+		]
+	}
+	</script>
 </head>
 <body id="top"{% if page.url contains '/blog/tag/' %} class="page-tag"{% endif %}{% if page.url contains 'sound-design' or page.url contains 'web-design' %} class="case-study"{% endif %}>
 	<a class="skip-to-content" href="#main">Skip to content</a>
