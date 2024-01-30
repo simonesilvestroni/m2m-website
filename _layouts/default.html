@@ -15,8 +15,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	{% if page.robots %}<meta name="robots" content="{{ page.robots }}, noai, noimageai">{% else %}<meta name="robots" content="index, follow, noai, noimageai">{% endif %}
 	<!-- minimal open graph implementation -->
-	<meta content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ site.who | strip_html }}{% endif %}" name="description" property="og:description">
 	<meta content="{{ siteTitle }}" property="og:title">
+	<meta content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ site.who | strip_html }}{% endif %}" name="description" property="og:description">
 	<meta content="{{ site.url }}{{ site.logo }}" property="og:image">
 	<meta content="{{ site.url }}{{ site.logo }}" name="twitter:card">
 	<!-- end open graph -->
@@ -90,11 +90,6 @@
 		<nav aria-label="Main navigation">
 			<ul>
 				{% for item in site.data.nav-main.menu -%}
-				{%- capture main-nav-icon -%}
-					{%- if item.link == 'Homepage' -%}
-						<span class="visually-hidden">Go to the homepage</span>
-					{%- endif -%}
-				{%- endcapture -%}
 				<li><a{% if page.url contains item.link %} class="current"{% endif %} href="{{ site.url }}{{ item.link }}"{% if forloop.last %} title="Subscribe for free via RSS"{% endif %}>{{ main-nav-icon }}{{ item.name }}</a></li>
 				{% endfor -%}
 			</ul>
