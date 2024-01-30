@@ -1,56 +1,27 @@
-# Minutes to Midnight website
-
-## Thank you
-
-People who inspired me: [Silvia Maggi](https://silviamaggidesign.com), [Luke Harris](https://www.lkhrs.com), [Zinzy Waleson Geene](https://www.zinzy.website), [Leon Paternoster](https://www.thisdaysportion.com/), [Matthew Graybosch](https://old.starbreaker.org/), [Wouter Groeneveld](https://brainbaking.com), [Ali Reza Hayati](https://web.archive.org/web/20231223023152/https://alirezahayati.com/), [Chris Wiegman](https://chriswiegman.com), [Ru Singh](https://rusingh.com), [Brad Taunt](https://bt.ht).
+# Minutes to Midnight personal website
 
 ## About the website
 
-Handcrafted by Simone Silvestroni. Maintained and updated using Sublime Text, Typora, Alfred macros, and Shortcuts automation. Read [how I built the site]({{ site.url }}/blog/website-minutes-to-midnight/).
+Handcrafted by Simone Silvestroni using Jekyll 4.3.2, the Liquid template language, and markdown extended. Maintained and updated using Sublime Text, Typora, Alfred macros, and Shortcuts automation.
 
-### Tools
+[Valid](https://validator.w3.org/nu/?doc=https%3A%2F%2Fminutestomidnight.co.uk%2F) HTML tagged with [microformats2](https://microformats.org/). [Valid CSS level 3](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fminutestomidnight.co.uk%2Fassets%2Fcss%2Fm2m.min.css&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en), using a custom theme based on [Simple CSS](https://simplecss.org). Part of [IndieWeb](https://indiewebify.me/validate-h-card/?url=https%3A%2F%2Fminutestomidnight.co.uk), the site sends and receives [webmentions](https://indieweb.org/Webmention).
 
-{: .list-hr }
-- Static site generator: Jekyll 4.3.2
-- Markdown extended
-- Liquid template language
-- [Valid](https://validator.w3.org/nu/?doc=https%3A%2F%2Fminutestomidnight.co.uk%2F) HTML, tagged with [![microformats 2]({{ site.url }}/assets/images/microformats.svg){: width="80" height="15" }](https://microformats.org/)
-- [Valid CSS level 3 + SVG](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fminutestomidnight.co.uk%2Fassets%2Fcss%2Fm2m.min.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en). Custom theme based on [Simple CSS](https://simplecss.org)
-- Sends and receives [![webmentions]({{ site.url }}/assets/images/webmention.svg){: width="80" height="15" }](https://indieweb.org/Webmention)
-- Logos and icons in SVG
-- _Dirt background_ image by [Michael Rose](https://mademistakes.com/)
-- Typography: _Manrope_ for headings and navigation elements, system font stack for everything else.
-- Part of [![IndieWeb]({{ site.url }}/assets/images/indieweb.svg){: width="80" height="15" }](https://indiewebify.me/validate-h-card/?url=https%3A%2F%2Fminutestomidnight.co.uk)
-- Code repository on [GitHub](https://github.com/simonesilvestroni/m2m-website)
-- Hosted on Netlify
-- Latest deploy: {{ site.time | date: "%-d %B %Y, at %H:%M" }}
+Logos and icons in SVG. "Dirt background" image by [Michael Rose](https://mademistakes.com/). Typefaces in use: _IBM Plex Sans_, _Iowan Old Style_ for quotes and footnotes. The code repository is on [GitHub](https://github.com/simonesilvestroni/m2m-website), deployed to Netlify. Latest deploy: {{ site.time | date: "%-d %B %Y, at %H:%M" }}.
 
-### Accessibility
+A case study explores [how I built the site]({{ site.url }}/blog/website-minutes-to-midnight/).
 
-{: .list-hr }
-- Compliant with the [Web Content Accessibility AAA Guidelines](https://wave.webaim.org/report#/https://minutestomidnight.co.uk/)
-- Current [WAVE accessibility rank](https://webaim.org/projects/million/lookup?domain=minutestomidnight.co.uk): #7,280 of 1,000,000
+## Accessibility and sustainability
 
-### Sustainability
+Compliant with the [Web Content Accessibility AAA Guidelines](https://wave.webaim.org/report#/https://minutestomidnight.co.uk/), the current [WAVE accessibility rank](https://webaim.org/projects/million/lookup?domain=minutestomidnight.co.uk): #7,280 of 1,000,000.
 
-{: .list-hr }
-- The homepage loads in less than a second and weighs 63.9KB (86.2KB uncompressed)
-- The entire source is 13.8MB including images
-- 0.01g of CO<sub>2</sub> [produced when someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/)
-- Scores 100 on [Ecograder](https://ecograder.com/report/crccbrW1xmYgrNUdrNxEulBa)
-- Featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/)
-- Hosting running on sustainable energy
+The homepage loads in less than a second and weighs 63.9KB (86.2KB uncompressed). The entire source is 13.8MB excluding videos. 0.01g of CO<sub>2</sub> is [produced when someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/). Scores 100 on [Ecograder](https://ecograder.com/report/crccbrW1xmYgrNUdrNxEulBa), featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/). Hosting running on sustainable energy. Pagespeed ranking: [mobile](https://pagespeed.web.dev/analysis/https-minutestomidnight-co-uk/36t5kbzrgp?form_factor=mobile) and [desktop](https://pagespeed.web.dev/analysis/https-minutestomidnight-co-uk/36t5kbzrgp?form_factor=desktop).
 
 ## Privacy
 
 [I don't collect personal data](https://themarkup.org/blacklight?url=minutestomidnight.co.uk), there is no analytics software, no ads, no affiliate links, no tracking scripts, no pop-ups, no modal windows. A [content security policy](https://securityheaders.com/?q=https%3A%2F%2Fminutestomidnight.co.uk%2F) is in place.
 
-## Copyright
+## Copyright &amp; trademark
 
-A notice about copyright and creative commons is present in the footer down below.
-
-Photography &copy; [Silvia Maggi](https://silviamaggidesign.com).
-
-## Trademark
+A notice about copyright and creative commons is present in the footer down below. Photography &copy; [Silvia Maggi](https://silviamaggidesign.com).
 
 Minutes to Midnight&trade; is a registered trademark in the UK and worldwide. The logo, in all its variants, is use trademark for the trading name of Simone Silvestroni.
