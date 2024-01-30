@@ -23,26 +23,26 @@ layout: default
 	<div class="e-content">
 		{{ content }}
 	</div>
+	<aside>
+		<h4>Post meta</h4>
+		<table class="post-meta">
+			<tr>
+				<th scope="col">Comments?</th>
+				<td><a href="mailto:{{ site.author.email }}?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a>, or send a <a href="https://indieweb.org/Webmention">webmention</a></td>
+			</tr>
+			<tr>
+				<th scope="col">Related</th>
+				<td>{% for tag in page.tags -%}<a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}"><span>{{ tag | upcase }}</span></a>{% endfor -%}</td>
+			</tr>
+			{% if page.syndication == true %}
+			<tr>
+				<th scope="col">Syndication</th>
+				<td>{% for s in page.syndicate %}<a rel="syndication" class="u-syndication" href="{{ s.url }}">{{ s.name }}</a>&nbsp;&nbsp;{% endfor %}</td>
+			</tr>
+			{% endif -%}
+		</table>
+	</aside>
 </article>
-<div>
-	<h4>Post meta</h4>
-	<table class="post-meta">
-		<tr>
-			<th scope="col">Comments?</th>
-			<td><a href="mailto:{{ site.author.email }}?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a>, or send a <a href="https://indieweb.org/Webmention">webmention</a></td>
-		</tr>
-		<tr>
-			<th scope="col">Related</th>
-			<td>{% for tag in page.tags -%}<a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}"><span>{{ tag | upcase }}</span></a>{% endfor -%}</td>
-		</tr>
-		{% if page.syndication == true %}
-		<tr>
-			<th scope="col">Syndication</th>
-			<td>{% for s in page.syndicate %}<a rel="syndication" class="u-syndication" href="{{ s.url }}">{{ s.name }}</a>&nbsp;&nbsp;{% endfor %}</td>
-		</tr>
-		{% endif -%}
-	</table>
-</div>
 <div class="pagination">
 	{% if page.previous.url -%}
 	<a class="notice" href="{{ site.url }}{{ page.previous.url }}">
