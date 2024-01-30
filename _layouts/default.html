@@ -17,8 +17,8 @@
 	<!-- minimal open graph implementation -->
 	<meta content="{{ siteTitle }}" property="og:title">
 	<meta content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ site.who | strip_html }}{% endif %}" name="description" property="og:description">
-	<meta content="{{ site.url }}{{ site.logo }}" property="og:image">
-	<meta content="{{ site.url }}{{ site.logo }}" name="twitter:card">
+	<meta content="{%- if page.featimage == true and page.thumbOnly != true %}{{ site.url }}/assets/images/{{ page.featimage-name }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}" property="og:image">
+	<meta content="{%- if page.featimage == true and page.thumbOnly != true %}{{ site.url }}/assets/images/{{ page.featimage-name }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}" name="twitter:card">
 	<!-- end open graph -->
 	<meta name="pinterest" content="nopin">
 	<link rel="preload" href="{{ site.url }}/assets/fonts/ibm_plexsans-regular.woff2" as="font" type="font/woff2" crossorigin>
