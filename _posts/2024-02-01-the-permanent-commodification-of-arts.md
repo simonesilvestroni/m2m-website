@@ -7,6 +7,10 @@ tags:
   - 'music'
   - 'video'
 description: 'I think the streaming industry was never conceived on a decent business model. Its level of gaslighting is astonishing, and successful.'
+syndication: true
+syndicate:
+  - name: Mastodon
+    url: https://sonomu.club/@m2m/111856440267870257
 ---
 When Napster and other peer-to-peer systems threatened the then  status quo of the music industry, something changed. The largest music corporations managed to support (and join) tech companies who had this idea of renting out music, calling the process _streaming_. They somehow convinced the masses to avoid piracy, pay the corporations a monthly fee despite NOT owning the music, and even consider this transaction a form of convenient bargain, a win/win. The frontier between marketing and gaslighting have gone wafer thin.
 
