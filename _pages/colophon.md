@@ -25,6 +25,6 @@ permalink: /colophon/
 
 [I don't collect personal data](https://themarkup.org/blacklight?url=minutestomidnight.co.uk), there is no analytics software, no ads, no affiliate links, no tracking scripts, no pop-ups, no modal windows. A [content security policy](https://securityheaders.com/?q=https%3A%2F%2Fminutestomidnight.co.uk%2F) is in place.
 
-## Copyright &amp; trademark
+## Trademark
 
-A notice about copyright and creative commons is present in the footer down below. Photography &copy; [Silvia Maggi](https://silviamaggidesign.com). Minutes to Midnight&trade; is a registered trademark in the UK and worldwide. The logo, in all its variants, is use trademark for the trading name of Simone Silvestroni.
+Minutes to Midnight&trade; is a registered trademark in the UK and worldwide. The logo, in all its variants, is use trademark for the trading name of Simone Silvestroni.
