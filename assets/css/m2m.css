@@ -386,16 +386,19 @@ abbr[title] {
 }
 /* pagination
    ------------------------------ */
-.pagination {
+.pagination,
+.bottom-links {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
-.pagination a {
+.pagination a,
+.bottom-links a {
 	width: 48.5%;
 	text-decoration: none;
 }
-.pagination a:nth-child(even) {
+.pagination a:nth-child(even),
+.bottom-links a:nth-child(even) {
 	text-align: right;
 }
 .pagination span:first-child {
@@ -632,6 +635,10 @@ body.page-tag .p-summary {
 	display: inline-block;
 	margin-top: 6rem;
 	border-top: 1px solid rgb(var(--cta));
+}
+article .e-content .last-update p {
+	font-size: smaller;
+	margin-top: 1rem;
 }
 time {
 	font-family: var(--serif-font);
