@@ -24,35 +24,20 @@ layout: default
 		{{ content }}
 	</div>
 	<footer>
-		<h4>Post meta</h4>
-		<table class="post-meta">
-			<tr>
-				<th scope="col">Comments?</th>
-				<td><a href="mailto:{{ site.author.email }}?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a>, or send a <a href="https://indieweb.org/Webmention">webmention</a></td>
-			</tr>
-			<tr>
-				<th scope="col">Related</th>
-				<td>{% for tag in page.tags -%}<a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}"><span>{{ tag | upcase }}</span></a>{% endfor -%}</td>
-			</tr>
-			{% if page.syndication == true %}
-			<tr>
-				<th scope="col">Syndication</th>
-				<td>{% for s in page.syndicate %}<a rel="syndication" class="u-syndication" href="{{ s.url }}">{{ s.name }}</a>&nbsp;&nbsp;{% endfor %}</td>
-			</tr>
-			{% endif -%}
-		</table>
+		<p>{% for tag in page.tags -%}<a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}"><span><code>{{ tag | upcase }}</code></span></a>{% endfor -%}</p>
+		<p><a href="mailto:{{ site.author.email }}?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a> or send a <a href="https://indieweb.org/Webmention">webmention</a>.</p>
 	</footer>
 </article>
 <div class="pagination">
 	{% if page.previous.url -%}
 	<a class="notice" href="{{ site.url }}{{ page.previous.url }}">
-		<span>&larr;&nbsp;Older</span>
+		<span><code>&larr;&nbsp;Older</code></span>
 		<span>{{ page.previous.title }}</span>
 	</a>
 	{%- endif %}
 	{%- if page.next.url -%}
 	<a class="notice" href="{{ site.url }}{{ page.next.url }}">
-		<span>Newer&nbsp;&rarr;</span>
+		<span><code>Newer&nbsp;&rarr;</code></span>
 		<span>{{ page.next.title }}</span>
 	</a>
 	{%- endif %}
