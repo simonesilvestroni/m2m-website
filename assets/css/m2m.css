@@ -714,7 +714,8 @@ article .e-content p+p {
 	text-indent: 1.8rem;
 }
 article .e-content p:has(img),
-article .e-content p:has(img)+p {
+article .e-content p:has(img)+p,
+article .e-content p.sound-design-categories {
 	text-indent: 0;
 }
 article .e-content .iframe-container+p,
