@@ -123,12 +123,11 @@ html {
 	padding-top: 3px;
 }
 body {
-	/* make the body a nice central block */
 	display: grid;
 	grid-template-columns: 1fr min(42rem, 90%) 1fr;
 	grid-template-rows: auto 1fr auto;
 	color: var(--text);
-	font-size: 1.35rem;
+	font-size: 1.3rem;
 	line-height: 1.45;
 	min-height: 100vh;
 	margin: 0;
@@ -169,7 +168,7 @@ body > footer {
 	color: var(--text-light);
 	padding: 1.5rem 0;
 }
-body > footer p {
+body > footer {
 	font-size: smaller;
 }
 
@@ -177,7 +176,7 @@ body > footer p {
  * $HEADINGS
  * -------------------------------- */
 h1 {
-	font-size: 2.5rem;
+	font-size: 2.1rem;
 	font-weight: 500;
 	line-height: 1.3;
 	margin-top: 0; 
@@ -232,7 +231,7 @@ h5, h6 {
 }
 /* reduce header size on mobile */
 @media only screen and (max-width: 720px) {
-	h1 { font-size: 2rem; }
+	h1 { font-size: 1.8rem; }
 	h2 { font-size: 1.5rem; }
 	h3 { font-size: 1.4rem; }
 	h4 { font-size: 1.3rem; }
@@ -356,6 +355,10 @@ abbr[title] {
 	text-decoration-color: rgba(var(--cta), 1);
 	text-decoration-thickness: 4px;
 	transition: text-decoration-color, 0.5s;
+}
+.e-content .cta {
+	margin: 2rem 0;
+	text-indent: 0;
 }
 .cta-nospace {
 	margin-top: 0;
@@ -702,6 +705,28 @@ article header time {
 article header time a {
  text-decoration: none;
 }
+article .e-content p {
+	margin: 0;
+	line-height: 1.6;
+	hyphens: auto;
+}
+article .e-content p+p {
+	text-indent: 1.8rem;
+}
+article .e-content p:has(img),
+article .e-content p:has(img)+p {
+	text-indent: 0;
+}
+article .e-content .iframe-container+p,
+article .e-content video+p {
+	font-family: var(--serif-font);
+	font-size: smaller;
+	margin: 0.5rem 0 1.5rem 0;
+}
+article footer {
+	margin: 3rem 0;
+	padding: 1.5rem 0;
+}
 section {
 	padding: 2rem 0;
 	margin: 3rem 0;
@@ -922,6 +947,7 @@ cite {
 	font-size: 90%;
 	font-style: normal;
 	font-variant: small-caps;
+	text-indent: 0;
 	text-transform: lowercase;
 	color: var(--extra-bg);
 	margin-top: 1rem;
@@ -1007,9 +1033,10 @@ figure img {
 	border-radius: var(--double-border-radius);
 }
 figcaption {
-	text-align: left;
+	font-family: var(--serif-font);
 	font-size: 0.9rem;
 	font-style: italic;
+	text-align: left;
 	color: var(--text-light);
 	margin-top: 0.7rem;
 }
@@ -1103,9 +1130,12 @@ pre span {
 }
 .warning {
 	margin: 2.5rem 0;
-	background-color: var(--transparent-bg);
 	padding: 1.5rem;
+	background-color: var(--transparent-bg);
 	border-radius: 20px;
+}
+.warning p {
+	text-indent: 0;
 }
 .warning img {
 	display: block;
@@ -1294,4 +1324,12 @@ audio {
 	padding: 0 8px;
 	border-radius: var(--double-border-radius);
 	background-color: var(--body);
+}
+/* indieweb webring
+   ------------------------------ */
+.indieweb {
+	margin-top: 2rem;
+}
+.indieweb a {
+	font-variant: small-caps;
 }
