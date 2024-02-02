@@ -53,21 +53,17 @@ With [SWS](https://www.sws-extension.org/) installed, checking on loudness is a 
 
 ## Official video
 
-{% include pattern-video.html id="kXk8FZjz4OU" %}
+{% include pattern-video.html provider="yewtu.be" id="kXk8FZjz4OU" %}
+[_If you prefer, watch the video on YouTube_](https://youtu.be/kXk8FZjz4OU){: target="_blank"}
 
 ## Credits
 
-### Performed by
+Bruno Valeri
+: vocals, piano, synth
 
-**Bruno Valeri**\
-vocals, piano, synth
-
-**Emilio Albertoni**\
-guitars, bass, synth
+Emilio Albertoni
+: guitars, bass, synth
 
 ### Production
-Mixed by Emilio Albertoni / Mastered by Simone Silvestroni.
 
-{: .small }
-&copy; 2023 Emilio Albertoni &amp; Bruno Valeri\
-℗ 2023 Minutes to Midnight (sound recording copyright)
+Mixed by Emilio Albertoni / Mastered by Simone Silvestroni / &copy; 2023 Emilio Albertoni &amp; Bruno Valeri / ℗ 2023 Minutes to Midnight (sound recording copyright)

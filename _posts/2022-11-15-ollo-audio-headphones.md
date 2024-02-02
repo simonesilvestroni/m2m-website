@@ -30,12 +30,14 @@ Generally considered as the NS-10 of headphones, for several years the trusted c
 
 ## Other reviews
 
-Unpacking, test, a bit of technical details and a funny comparison against the Sennheiser HD-600 by London-based mastering engineer Streaky:
+Unpacking, test, a bit of technical details and a funny comparison against the Sennheiser HD-600 by London-based master engineer Streaky:
 
-{% include pattern-video.html id="237f_PH0VVg" %}
+{% include pattern-video.html provider="yewtu.be" id="237f_PH0VVg" %}
+[_If you prefer, watch the video on YouTube_](https://youtu.be/237f_PH0VVg){: target="_blank"}
 
 ## Conclusions
 
 The amazing discount, coupled with the opportunity of paying in three instalments, made this purchase the best for the year — including 2023 as well.
 
-[S4X reference headphones by Ollo Audio](https://olloaudio.com/products/s4x-reference-headphones)
+{: .cta }
+[S4X reference headphones by Ollo Audio&nbsp;&rarr;](https://olloaudio.com/products/s4x-reference-headphones)

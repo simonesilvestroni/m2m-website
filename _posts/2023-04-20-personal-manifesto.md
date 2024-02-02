@@ -44,9 +44,7 @@ I stopped following the news, which doesn't mean I ignore what's happening in th
 
 ## Corporate web
 
-As a gen X, I started hanging around the internet in the 1990s. <abbr title="Internet Relay Chat">IRC</abbr>, <abbr title="Bulletin Board System">BBS</abbr>es, Usenet newsgroups, Eudora, Fort&eacute; Agent — those things. I dislike all facets of the current corporate led internet, whether that be centralised social media, gigantic monopolies, and whatever else turned the so-called _web 1.0_ into the current dystopia. Having to put systems in place to browse the internet in peace, without being constantly tracked, bombarded by ads, pop-ups, modal windows and whatnot, is *not fun*.
-
-I'll never support this crap.
+As a gen X, I started hanging around the internet in the 1990s. <abbr title="Internet Relay Chat">IRC</abbr>, <abbr title="Bulletin Board System">BBS</abbr>es, Usenet newsgroups, Eudora, Fort&eacute; Agent — those things. I dislike all facets of the current corporate led internet, whether that be centralised social media, gigantic monopolies, and whatever else turned the so-called _web 1.0_ into the current dystopia. Having to put systems in place to browse the internet in peace, without being constantly tracked, bombarded by ads, pop-ups, modal windows and whatnot, is *not fun*. I'll never support this crap.
 
 ## Decentralisation
 
@@ -74,12 +72,10 @@ Rather than buy the shiny new object, I prefer to [maintain and repair](https://
 
 ## I pay for the tools I use
 
-I support <abbr title="Free and Open-Source Software">FOSS</abbr> projects, including the Mastodon instance that hosts my account, _and_ closed-source software built by small companies with a well-thought business model. None of them have a marketing department gaslighting their customers or plastering ads everywhere. A few examples: [Cockos](https://cockos.com/), [Tokyo Dawn Labs](https://www.tokyodawn.net/tokyo-dawn-labs/), [Sublime HQ](https://www.sublimehq.com/), [iA Writer](https://ia.net/writer).
+I don't pirate software. I support <abbr title="Free and Open-Source Software">FOSS</abbr> projects, including the Mastodon instance that hosts my account, _and_ closed-source software built by small companies with a well-thought business model. None of them have a marketing department gaslighting their customers or plastering ads everywhere. A few examples: [Cockos](https://cockos.com/), [Tokyo Dawn Labs](https://www.tokyodawn.net/tokyo-dawn-labs/), [Sublime HQ](https://www.sublimehq.com/), [iA Writer](https://ia.net/writer).
 
-I don't pirate software.
-
-
-{: .warning }
-Featured on [_The internet used to be fun_](https://projects.kwon.nyc/internet-is-fun/), by Rachel J. Kwon.
+<aside class="warning">
+  <p>Featured on <a href="https://projects.kwon.nyc/internet-is-fun/"><em>The internet used to be fun</em></a>, by Rachel J. Kwon.</p>
+</aside>
 
 [^1]: > A website is for a visitor, using a browser, running on a computer to read, watch, listen, or perhaps to interact. A website that embraces Brutalist Web Design is raw in its focus on content, and prioritization of the website visitor. <cite>[David Bryant Copeland](https://brutalist-web.design/)</cite>

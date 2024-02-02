@@ -18,9 +18,7 @@ I just got this email:
 > <br><br>
 > Whether you joined Bandcamp recently or have been with us since the beginning 14 years ago, thank you for being a part of this incredible community, and we look forward to serving you for many years to come!
 
-Personally, I think this might be exciting news, I hope Epic could help Bandcamp improving on their existing platform, hopefully to the point of becoming even more palatable to more musicians around the world. 
-
-Of course I'm painfully aware how lots of acquisitions in the tech industry were immediately followed by a similar e-mail from the current CEO, only to completely change over a matter of months or a year.
+Personally, I think this might be exciting news, I hope Epic could help Bandcamp improving on their existing platform, hopefully to the point of becoming even more palatable to more musicians around the world. Of course I'm painfully aware how lots of acquisitions in the tech industry were immediately followed by a similar e-mail from the current CEO, only to completely change over a matter of months or a year.
 
 ## Reactions from Hacker News
 

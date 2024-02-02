@@ -20,25 +20,21 @@ thumbOnly: true
 
 ## Credits
 
-### Performed by
+Dan Ecclestone
+: vocals, guitar, ukulele
 
-**Dan Ecclestone**\
-vocals, guitar, ukulele
+Chris Peckham
+: accordion
 
-**Chris Peckham**\
-accordion
+Dom Hall-Smith
+: bass
 
-**Dom Hall-Smith**\
-bass
+David Youngs
+: drums, percussion
 
-**David Youngs**\
-drums, percussion
-
-**Liz Mitchell**\
-clarinet
+Liz Mitchell
+: clarinet
 
 ### Production
-Written by Dan Ecclestone / Produced by Ember Rev / Recorded by [Sam Inglis](https://www.soundonsound.com/author/sam-inglis) at The Mill, February 2019 / Mixed by Simone Silvestroni / Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
 
-{: .small }
-&copy; 2019 Dan Ecclestone
+Written by Dan Ecclestone / Produced by Ember Rev / Recorded by [Sam Inglis](https://www.soundonsound.com/author/sam-inglis) at The Mill, February 2019 / Mixed by Simone Silvestroni / Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/) / &copy;&nbsp;2019 Dan Ecclestone.

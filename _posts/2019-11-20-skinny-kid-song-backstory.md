@@ -74,35 +74,29 @@ _Skinny Kid_ was the first piece that I turned into a proper song when I refacto
 
 ## Credits for ‘Skinny Kid’
 
-### Performed by
+Dan Ecclestone
+: vocals
 
-**Dan Ecclestone**\
-vocals
+Rachel Goodman
+: vocals
 
-**Rachel Goodman**\
-vocals
+Gerald Duchene
+: guitars
 
-**Gerald Duchene**\
-guitars
+Keven Howard Bellamy
+: backing vocals
 
-**Keven Howard Bellamy**\
-backing vocals
-
-**Simone Silvestroni**\
-bass, drums, piano, synth, sound effects
+Simone Silvestroni
+: bass, drums, piano, synth, sound effects
 
 ## Credits for ‘Nine Eleven’
 
-### Performed by
+Simone Silvestroni
+: bass, drums, piano, synth, sound effects
 
-**Simone Silvestroni**\
-bass, drums, piano, synth, sound effects
-
-**Paolo Clementi**\
-guitars, viola
+Paolo Clementi
+: guitars, viola
 
 ### Production
-Written, produced and mixed by Simone Silvestroni / Music video by [Silvia Maggi](https://silviamaggidesign.com/) / Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/) / Management by Christopher Carvalho of [Unlock Your Sound](https://unlockyoursound.com/).
 
-{: .small }
-&copy; 2019 Simone Silvestroni
+Written, produced and mixed by Simone Silvestroni / Music video by [Silvia Maggi](https://silviamaggidesign.com/) / Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/) / Management by Christopher Carvalho of [Unlock Your Sound](https://unlockyoursound.com/) / &copy;&nbsp;2019 Simone Silvestroni.

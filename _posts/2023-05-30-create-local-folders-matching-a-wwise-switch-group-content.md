@@ -42,8 +42,9 @@ I suppose this shouldn't be new to anyone who has worked with Audiokinetic's mid
 
 What I want to improve is the process of creating local folders that mirror the same structure of the Wwise project. In my current example with 23 Switch Containers, each one needs a local folder where to put sound assets that will be imported in Wwise. Instead of manually copy the switch names and use them to create 23 new folders in my filesystem, I devised a more efficient method.
 
-{: .warning }
-**Note** — The following solution is based on macOS (10.14), using GNU bash version 5.2.15. I'm not sure whether it's possible to replicate the same steps on Windows, maybe using [<abbr title="Windows Linux Subsystem">WLS</abbr>](https://learn.microsoft.com/en-us/windows/wsl/about).
+<aside class="warning">
+  <p><strong>Note</strong> — The following solution is based on macOS (10.14), using GNU bash version 5.2.15. I'm not sure whether it's possible to replicate the same steps on Windows, maybe using <a href="https://learn.microsoft.com/en-us/windows/wsl/about"><abbr title="Windows Linux Subsystem">WLS</abbr></a>.</p>
+</aside>
 
 {: .list-hr }
 - In the filesystem, go to the folder `Switches` under the Wwise project directory.

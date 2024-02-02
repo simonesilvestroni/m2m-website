@@ -1,5 +1,5 @@
 ---
-title: '‘13 Days’ music video: the Cuban crisis'
+title: '‘13 Days’ music video'
 date: '2020-05-31'
 last_modified_at: '2021-11-12 18:29:23'
 tags:
@@ -19,9 +19,8 @@ description: 'The Cuban crisis of 1962. President Kennedy announces proof of a b
 ---
 The threat of a pre-emptive strike to America is real, as the level of military readiness is set to DEFCON 2. _13 Days_ is a single from the concept album [_After 1989: A Trip To Freedom_]({{ site.url }}/blog/after-1989/), released 9 November 2019.
 
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .cta .highlight }
-
-## Music video
+{: .cta }
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .highlight }
 
 <video controls src="{{ site.url }}/assets/videos/music-video-13-days.mp4"
   poster="{{ site.url }}/assets/videos/music-video-13-days.jpg"
@@ -29,33 +28,26 @@ The threat of a pre-emptive strike to America is real, as the level of military 
   Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-13-days.mp4">download it</a> and watch it with your favorite video player.
 </video>
 
-{: .small }
-If you prefer, [watch the video on YouTube](https://youtu.be/v-B88EtXr9Q){: target="_blank"}
+[_If you prefer, watch the video on YouTube_](https://youtu.be/v-B88EtXr9Q){: target="_blank" }
 
 ## Credits
 
-### Performed by
+Dan Ecclestone
+: vocals
 
-**Dan Ecclestone**\
-vocals
+Paolo Clementi
+: guitars
 
-**Paolo Clementi**\
-guitars
+Andy Bonnor (AndiA of ‘In Your Dreams’)
+: drums
 
-**Andy Bonnor** (AndiA of ‘In Your Dreams’)\
-drums
-
-**Simone Silvestroni**\
-bass, additional drums, sound effects
-
-
-### Production
-
-Written and produced by Simone Silvestroni / Arranged by Paolo Clementi / Management by Christopher Carvalho of [Unlock your sound](https://unlockyoursound.com) / Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
+Simone Silvestroni
+: bass, additional drums, sound effects
 
 ### Footage
 
 Original 2020 footage by [Silvia Maggi](https://silviamaggidesign.com/) and [Andy Bonnor](https://linktr.ee/Andia) / National Archives / United States Air Force / Cuban missile crisis footage by [David G. Coleman](https://historyinpieces.com/) / Prelinger Archive.
 
-{: .small }
-&copy;&nbsp;2019 Simone Silvestroni
+### Production
+
+Written and produced by Simone Silvestroni / Arranged by Paolo Clementi / Management by Christopher Carvalho of [Unlock your sound](https://unlockyoursound.com) / Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/) / &copy;&nbsp;2019 Simone Silvestroni.

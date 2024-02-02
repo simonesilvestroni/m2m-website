@@ -51,24 +51,18 @@ Rehearsals for the live concerts went well. I loved how quickly we all blended a
 
 ## Credits
 
-### Performed by
+Callum Gardner
+: vocals, guitars
 
-**Callum Gardner**\
-vocals, guitars
+Simone Silvestroni
+: bass
 
-**Simone Silvestroni**\
-bass
+Paolo Clementi
+: viola
 
-**Paolo Clementi**\
-viola
-
-**Arlen Millwall**\
-drums
+Arlen Millwall
+: drums
 
 ### Production
 
-Written by Callum Gardner / Recorded at SAE in London &amp; Minutes to Midnight's studio in Cambridge / Produced, mixed and mastered by Simone Silvestroni.
-
-{: .small }
-<br>&copy; 2017 Callum Gardner\
-℗ 2017 Minutes to Midnight (sound recording copyright)
+Written by Callum Gardner / Recorded at SAE in London &amp; Minutes to Midnight's studio in Cambridge / Produced, mixed and mastered by Simone Silvestroni / &copy;&nbsp;2017 Callum Gardner / ℗&nbsp;2017 Minutes to Midnight (sound recording copyright).

@@ -27,18 +27,16 @@ description: 'On the 60th anniversary of the Kennedy assassination, Todd Gardner
 
 ### Performed by
 
-**Dan Ecclestone**\
-vocals
+Dan Ecclestone
+: vocals
 
-**Paolo Clementi**\
-guitars, viola
+Paolo Clementi
+: guitars, viola
 
-**Simone Silvestroni**\
-bass, piano, synth, strings, drums, sound effects
+Simone Silvestroni
+: bass, piano, synth, strings, drums, sound effects
 
 ## Production
 
 Written, produced and mixed by Simone Silvestroni / Mastered by [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd) / Video by [Silvia Maggi](https://silviamaggidesign.com) / Management by Christopher Carvalho of [Unlock Your Sound Ltd](https://unlockyoursound.com/).
-
-{: .small }
-&copy; 2019 Simone Silvestroni
+<br><br>&copy; 2019 Simone Silvestroni

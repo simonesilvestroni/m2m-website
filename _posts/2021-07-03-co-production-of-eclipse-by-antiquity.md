@@ -22,20 +22,15 @@ description: '<em>Eclipse</em> is a new single released by Antiquity, co-produce
 
 ## Credits
 
-### Performed by
+Dan Ecclestone
+: vocals and melody
 
-**Dan Ecclestone**\
-vocals and melody
+Gerald Duchene
+: instrumentation
 
-**Gerald Duchene**\
-instrumentation
-
-**Matisse Duchene**\
-trumpet
+Matisse Duchene
+: trumpet
 
 ### Production
 
-Written and mixed by Gerald Duchene / Produced by Gerald Duchene and Simone Silvestroni / Mastered By Chris Pavey.
-
-{: .small }
-&copy; 2021 Gerald Duchene
+Written and mixed by Gerald Duchene / Produced by Gerald Duchene and Simone Silvestroni / Mastered By Chris Pavey / &copy; 2021 Gerald Duchene.

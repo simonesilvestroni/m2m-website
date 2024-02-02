@@ -26,40 +26,35 @@ A year ago today, on the 30th anniversary of the fall of the Berlin Wall, I publ
   Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-the-logic.mp4">download it</a> and watch it with your favorite video player.
 </video>
 
-{: .small }
 If you prefer, [watch the video on YouTube](https://youtu.be/r9NyAYXOnyk){: target="_blank"}
 
 ## Where Were You in November 1989?
 
 31 years ago East Germany opened the Berlin Wall, symbolising the end of decades of Cold War between East and West. This song depicts the starting point, the dark days of August 1961 when Berlin was cut in half. It’s also my homage to a brother, Michele, who played the drums in the song. I lost him around the same day, almost twenty years ago.
 
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .cta .highlight }
+{: .cta }
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .highlight }
 
 ## Credits
 
-### Performed by
+Rachel Goodman
+: vocals
 
-**Rachel Goodman**\
-vocals
+Dan Ecclestone
+: vocals
 
-**Dan Ecclestone**\
-vocals
+Paolo Clementi
+: guitars
 
-**Paolo Clementi**\
-guitars
+Gerald Duchene
+: sax
 
-**Gerald Duchene**\
-sax
+Michele Frumento
+: drums
 
-**Michele Frumento**\
-drums
-
-**Simone Silvestroni**\
-bass, piano, additional drums, sound effects
+Simone Silvestroni
+: bass, piano, additional drums, sound effects
 
 ### Production
 
-Written and produced by Simone Silvestroni / Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/) / Management Christopher Carvalho of [Unlock your sound](https://unlockyoursound.com).
-
-{: .small }
-&copy;&nbsp;2019 Simone Silvestroni
+Written and produced by Simone Silvestroni / Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/) / Management Christopher Carvalho of [Unlock your sound](https://unlockyoursound.com) / &copy;&nbsp;2019 Simone Silvestroni.

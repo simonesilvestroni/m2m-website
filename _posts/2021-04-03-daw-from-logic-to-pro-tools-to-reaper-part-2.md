@@ -12,25 +12,25 @@ tags:
   - 'sound design'
 description: "In 12 months I’ve managed to revolutionize my workflow, twice. Part 2 of why I migrated to REAPER is about customization, community, stock plug-ins."
 ---
-<div class="warning">
-  <p><strong><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/">Part 1</a></strong></p>
+<aside class="warning">
+  <p><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/">Part 1</a></p>
   <ol>
     <li>Cost</li>
     <li>Multi-platform</li>
     <li>A different workflow</li>
   </ol>
-  <p><mark><strong>Part 2</strong></mark></p>
+  <p><mark>Part 2</mark></p>
   <ol>
     <li>Customization</li>
     <li>Community</li>
     <li>Stock plug-ins</li>
   </ol>
-  <p><strong><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-3/">Part 3</a></strong></p>
+  <p><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-3/">Part 3</a></p>
   <ol>
     <li>Open architecture &amp; development cycle</li>
     <li>Efficiency</li>
   </ol>
-</div>
+</aside>
 
 ## Benefit 4: Customization
 
@@ -116,4 +116,5 @@ The question of stock plug-ins is a neverending debate in the music production b
 
 I had decided a while back to settle on [very few third-party plug-ins](/uses/), and learn them in depth. I was using Logic at the time, and my intent was to be as platform agnostic as possible. Now that I’ve experimented with Cockos’ native FXs, I can safely say that I don’t need anything new for the foreseeable future. My existing commercial plug-ins, plus the REAPER integrated arsenal, is more than enough. On the topic, there’s also a video series by the great Dan Worrall.
 
-{% include pattern-video.html id="3OoVnTO3AB4" %}
+{% include pattern-video.html provider="yewtu.be" id="3OoVnTO3AB4" %}
+[_If you prefer, watch the video on YouTube_](https://youtu.be/3OoVnTO3AB4){: target="_blank" }

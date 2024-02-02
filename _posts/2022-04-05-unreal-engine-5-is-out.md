@@ -14,4 +14,5 @@ From the [announcement page](https://www.unrealengine.com/en-US/blog/introducing
 
 Here's the demo:
 
-{% include pattern-video.html id="WU0gvPcc3jQ" %}
+{% include pattern-video.html provider="yewtu.be" id="WU0gvPcc3jQ" %}
+[_If you prefer, watch the video on YouTube_](https://youtu.be/WU0gvPcc3jQ){: target="_blank" }

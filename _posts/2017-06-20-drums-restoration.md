@@ -19,11 +19,9 @@ featimage-caption: Arlen Millwall, who played drums with Callum Gardner
 featimage-width: 720
 featimage-height: 720
 ---
-## Drums restoration & doubling
+## Drums restoration
 
-In 2017 I was [producing the debut single]({{ site.url }}/blog/callum-gardner-debut-single/) for London-based singer-songwriter Callum Gardner. Most of the tracking was handled externally at SAE in London.
-
-After receiving the audio tracks, I noticed two issues with the drums.
+In 2017 I was [producing the debut single]({{ site.url }}/blog/callum-gardner-debut-single/) for London-based singer-songwriter Callum Gardner. Most of the tracking was handled by an external studio in London. When I received the audio tracks, I noticed a few issues with the drums.
 
 ### First issue: squeaky pedal
 
@@ -80,7 +78,9 @@ The final result is the original drums with the MIDI doubling blended in to incr
   </audio>
 </div>
 
-### Third issue: isolating drums from a mastered track
+## Drum doubling
+
+### Issue: isolating drums from a mastered track
 
 For the last twenty years, I've been obsessed with the idea of recovering my late cousin's drum playing so that I could have him on my tracks. I did it with my song [_The Logic_](https://minutestomidnight.bandcamp.com/track/the-logic), however that was more of a drum replacement process. In fact, I mostly used short sections and drum fills that were already in isolation in their original form.
 

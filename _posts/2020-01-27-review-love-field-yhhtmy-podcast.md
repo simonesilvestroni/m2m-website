@@ -32,7 +32,7 @@ description: 'YHHTMY podcast selected my song ‘Love Field’ from the album �
   Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/you-havent-heard-this-music-yet-podcast-love-field.mp4">download it</a> and watch it with your favorite video player.
 </video>
 
-{: .small }
 If you prefer, [listen to the podcast on YouTube](https://youtu.be/wb2hRjPuU6Y){: target="_blank"}
 
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .cta .highlight }
+{: .cta }
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .highlight }

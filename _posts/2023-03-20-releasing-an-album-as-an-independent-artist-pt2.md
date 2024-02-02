@@ -62,10 +62,8 @@ Full credits to Chris, because despite the path he initially suggested wasn’t 
 
 ## What if I had to do it again
 
-I would repeat the same steps. Some mistakes are meant to serve a purpose and this one taught me invaluable lessons. I know that I won’t go down the same route for my future releases and I would never criticise indie artists trying to make it on Spotify. Something that’s not right for me might be perfect for someone else.
-
-To conclude, a short piece from my journal, 1<sup>st</sup> of November, 2019:
+I would repeat the same steps. Some mistakes are meant to serve a purpose and this one taught me invaluable lessons. I know that I won’t go down the same route for my future releases and I would never criticise indie artists trying to make it on Spotify. Something that’s not right for me might be perfect for someone else. To conclude, a short piece from my journal, 1<sup>st</sup> of November, 2019:
 
 > The album is a day closer to its release date — it’s just 8 days now. Still plenty to do, yet manageable. I realise this story has been with me for three decades, really. I’ve taken steps to distance myself: to me, it’s already released. It’s out of my system, and again: in a peaceful way.
 
-[**Read part 1**&nbsp;&rarr;]({{ site.url }}/blog/releasing-an-album-as-an-independent-artist-pt1/){: .cta }
+[Read part 1&nbsp;&rarr;]({{ site.url }}/blog/releasing-an-album-as-an-independent-artist-pt1/){: .cta }

@@ -42,9 +42,7 @@ I aim to streamline the process of writing new posts, with a sort of *wizard* gu
 
 #### Manual approach
 
-With [Sublime Text](https://www.sublimetext.com) and the [Jekyll package](https://packagecontrol.io/packages/Jekyll) installed, it's a matter of creating a simple template with a front matter section and some variables, setting up a key command to call the `<New Post from template>` command, and finally compile the required fields in a matter of seconds.
-
-My current _new Jekyll post_ template in Sublime Text looks like this:
+With [Sublime Text](https://www.sublimetext.com) and the [Jekyll package](https://packagecontrol.io/packages/Jekyll) installed, it's a matter of creating a simple template with a front matter section and some variables, setting up a key command to call the `<New Post from template>` command, and finally compile the required fields in a matter of seconds. My current _new Jekyll post_ template in Sublime Text looks like this:
 
 ```yaml
 ---
@@ -65,6 +63,7 @@ When the template is waiting for my input, I write the post title, hit <kbd>tab<
 At this point, I wanted to explore a more advanced method, exploiting macOS’ successor to [Automator](https://support.apple.com/guide/automator/welcome/mac), which I'm familiar with. Although it sometimes feels convoluted and buggy (early days?)[^2], with a sub-par [documentation](https://support.apple.com/guide/shortcuts-mac/welcome/mac), I managed to have a perfectly working automation process, that can be launched by either the Dock, as an application, or through Finder's contextual menu _Quick Actions_. The procedure to create a new blog post using Shortcuts indeed feels like compiling a wizard:
 
 ![Shortcuts app for creating a new Jekyll post](/assets/images/jekyll-automations-new-post.jpg){: width="720" height="1296" }
+_The full script_
 
 To break it down:
 
@@ -125,7 +124,8 @@ By applying this second automation to one of the aforementioned example images, 
 
 All in all, the automated procedure is quick and efficient. Since I consider blogging a pure _desktop activity_, I'm not worried about writing on mobile devices. Plenty of markdown editors are available on iOS and Android, it would be pretty easy to start drafts on the go, and finalise them later as posts on the computer. As a quicker alternative, I can always go to my git repository, add or edit a post there, commit the changes and wait for Netlify to complete its automated build.
 
-[**Watch an old video demo**&nbsp;&rarr;](https://www.youtube.com/watch?v=K0AKv7aIxP8){: .cta .highlight }
+{: .cta }
+[**Watch an old video demo**&nbsp;&rarr;](https://www.youtube.com/watch?v=K0AKv7aIxP8){: .highlight }
 
 ### Future improvements
 

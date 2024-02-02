@@ -27,20 +27,15 @@ Also, I love when I’m presented with a proper challenge. As a songwriter, Gera
 
 ## Credits
 
-### Performed by
+Gerald Duchene
+: instrumentation
 
-**Gerald Duchene**\
-instrumentation
+Dan Ecclestone
+: melody and vocals
 
-**Dan Ecclestone**\
-melody and vocals
-
-**Simone Silvestroni**\
-fretless bass
+Simone Silvestroni
+: fretless bass
 
 ### Production
 
-Written and mixed by Gerald Duchene / Mastered by Chris Pavey.
-
-{: .small }
-<br>&copy; 2019 Gerald Duchene.
+Written and mixed by Gerald Duchene / Mastered by Chris Pavey / &copy; 2019&nbsp;Gerald Duchene.

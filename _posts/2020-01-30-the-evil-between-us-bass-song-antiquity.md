@@ -18,20 +18,15 @@ thumbOnly: true
 
 ## Credits
 
-### Performed by
+Gerald Duchene
+: instrumentation
 
-**Gerald Duchene**\
-instrumentation
+Dan Ecclestone
+: vocals and melody
 
-**Dan Ecclestone**\
-vocals and melody
-
-**Simone Silvestroni**\
-bass
+Simone Silvestroni
+: bass
 
 ### Production
 
-Written, produced and mixed by Gerald Duchene / Mastered by Chris Pavey.
-
-{: .small }
-<br>&copy; 2020 Gerald Duchene.
+Written, produced and mixed by Gerald Duchene / Mastered by Chris Pavey / &copy;&nbsp;2020 Gerald Duchene.

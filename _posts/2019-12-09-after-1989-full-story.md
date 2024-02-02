@@ -25,8 +25,9 @@ featimage-caption: Photo by Silvia Maggi, Sachsenhausen (2019)
 featimage-width: 1024
 featimage-height: 683
 ---
-{: .warning }
-This article was originally published on the Medium magazine _Lessons From History_. After deleting my Medium account, I moved it here.
+<aside class="warning">
+  <p>This article was originally published on the Medium magazine <em>Lessons From History</em>. After deleting my Medium account, I moved it here.</p>
+</aside>
 
 ## Roots
 
@@ -44,7 +45,8 @@ He wasn’t a Jew: the reason for his abduction was exclusively due to politics.
 
 All the inmates wore an upside-down red triangle, with the initial of the country of origin, sewn on the infamous white and blue striped clothes.
 
-![Prisoner’s Uniform with Red Triangle of Political Enemy - Majdanek Concentration Camp - Lublin, Poland. Photo: Adam Jones, Ph.D.](/assets/images/full-story-jacket.jpg){: width="768" height="1024" }
+![Photo of a uniform with a red triangle (political enemy)](/assets/images/full-story-jacket.jpg){: width="768" height="1024" }
+_Prisoner’s Uniform with Red Triangle of Political Enemy - Majdanek Concentration Camp - Lublin, Poland. Photo: Adam Jones_
 
 A skilled shoemaker, the SS kept him in the _konzentrationslager_ working on military boots. Each new pair had to be “tested” by other inmates, forced to walk for hours on a concrete strip, close to the camp entrance. The guards often forced the prisoners to wear smaller sizes, which made their feet swell and the walk an agony. The strip is still there.
 
@@ -173,4 +175,4 @@ The car attracted my attention because it was the same model used by [Russel Oak
 *My grandfather working outside his shop in the summer. Some of the objects visible on the crate came from Germany*
 
 {: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/)
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .highlight }

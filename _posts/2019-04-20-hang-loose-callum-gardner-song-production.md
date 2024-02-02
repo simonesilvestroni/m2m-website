@@ -25,36 +25,32 @@ Besides recording and producing the song, I worked as a bassist, contributing to
 > This song is all about missed opportunities and blessings in disguise. I wrote _Hang Loose_ after failing to pounce upon a great chance to change my career, but little did I know that this mistake would become the catalyst for me to take on my musical journey as a full-time artist.
 > <cite>Callum Gardner</cite>
 
-## Official video
+## Music video
 
-{% include pattern-video.html id="OeDQvTX9jiA" %}
+{% include pattern-video.html provider="yewtu.be" id="OeDQvTX9jiA" %}
+[_If you prefer, watch the video on YouTube_](https://youtu.be/OeDQvTX9jiA){: target="_blank"}
 
 ## Live
 
 Watch a video teaser of _Hang Loose_ [performed live at the Strongroom](/blog/live-shows/), in London:
 
-{% include pattern-video.html id="VqOZbBRU-H8" %}
+{% include pattern-video.html provider="yewtu.be" id="VqOZbBRU-H8" %}
+[_If you prefer, watch the video on YouTube_](https://youtu.be/VqOZbBRU-H8){: target="_blank"}
 
 ## Credits
 
-### Performed by
+Callum Gardner
+: vocals, acoustic guitar
 
-**Callum Gardner**\
-vocals, acoustic guitar
+Hugh Wheatley
+: electric guitar, backing vocals
 
-**Hugh Wheatley**\
-electric guitar, backing vocals
+Simone Silvestroni
+: bass
 
-**Simone Silvestroni**\
-bass
-
-**Arlen Millwall**\
-drums, backing vocals
+Arlen Millwall
+: drums, backing vocals
 
 ### Production
 
-Written by Callum Gardner / Produced, mixed and mastered by Simone Silvestroni.
-
-{: .small }
-<br>&copy; 2018 Callum Gardner\
-℗ 2018 Minutes to Midnight (sound recording copyright)
+Written by Callum Gardner / Produced, mixed and mastered by Simone Silvestroni / &copy;&nbsp;2018 Callum Gardner / ℗&nbsp;2018 Minutes to Midnight (sound recording copyright).

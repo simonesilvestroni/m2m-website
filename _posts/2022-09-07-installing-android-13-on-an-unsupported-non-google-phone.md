@@ -13,6 +13,7 @@ Xiaomi told me that *no new Android updates* would be made available for the dev
 
 ## Recent annoyances
 
+{: .list-hr }
 - I’d been having issues with MIUI recently, mostly random reboots and boot loops. Reinstalling the OS, a time-consuming procedure, didn’t fix them.
 - MIUI activates by default a ton of “suggested” features, which is a preposterous euphemism for invasive ads popping up in core apps at all times. The operation of deactivating them is per se tiresome, as they’re all scattered around numerous settings.
 - The default OS is bloated with apps that cannot be removed. Also, despite having set Firefox as my default browser, they keep insisting on opening their own MI browser — which has been found to be [akin to spyware](https://thehackernews.com/2020/05/xiaomi-browser-history.html) — from links in core apps.
@@ -22,6 +23,7 @@ Xiaomi told me that *no new Android updates* would be made available for the dev
 
 Most Xiaomi devices come factory locked, which means it’s impossible to rewrite the bootloader without unlocking. Obligatory note: the procedure voids any type of warranty or support from the manufacturer.
 
+{: .list-hr }
 - Enabling developer options: in Settings &rarr; My Device I tapped repeatedly on the MIUI version, until a pop-up message *You are now a developer!* appeared on screen.
 - USB debugging: activated *USB debugging* and *Install via USB* in Settings &rarr; Additional Settings &rarr; Developer Options`.
 - Unlocking: [Xiaomi’s Unlock app](https://www.miui.com/unlock/index_en.html) required a Windows machine.
@@ -46,9 +48,7 @@ Afterwards, I hit <kbd>Back</kbd> and tapped on <kbd>Format Data</kbd>. Typed `y
 
 ## Fourth: custom ROM
 
-My choice was [Android 13 for Pixel phones](https://www.pling.com/p/1741470/), which weighted around 2GB. From the computer, I copied the .zip file onto the internal storage.
-
-When the OrangeFox recovery had booted up again, I tapped on the <abbr title="Read Only Memory">ROM</abbr> .zip file from the main menu tab <kbd>Files</kbd> and authorized the installation.
+My choice was [Android 13 for Pixel phones](https://www.pling.com/p/1741470/), which weighted around 2GB. From the computer, I copied the .zip file onto the internal storage. When the OrangeFox recovery had booted up again, I tapped on the <abbr title="Read Only Memory">ROM</abbr> .zip file from the main menu tab <kbd>Files</kbd> and authorized the installation.
 
 Another reboot later, the animated Google logo told me that everything was going fine. Android 13 was installing. The classic Android setup routine followed.
 
@@ -56,6 +56,7 @@ Another reboot later, the animated Google logo told me that everything was going
 
 Pretty much everything I was expecting worked, and some more.
 
+{: .list-hr }
 - My old but still capable smartphone can stay up to date.
 - No random reboots.
 - No ads.
@@ -64,9 +65,7 @@ Pretty much everything I was expecting worked, and some more.
 - Battery life has improved in a way I’m struggling to explain: a single charge lasts *3.5 days* with average use; *2.5 days* with intensive use.
 - Animations are sleeker and the interactions feel fluid and faster.
 
-This is a biggie: _I never logged in to a Google account_ and everything works smoothly. I’m using [F-Droid](https://f-droid.org/) and [Aurora Store](https://auroraoss.com/) to download apps. I feel less spied on now that I have a sort of Google Pixel native Android operating system.
-
-I’ll probably want to check one of the Google-free alternatives such as [LineageOS](https://lineageos.org/), but so far I feel good where I am. Everything works, including all my OTP codes in [Aegis](https://getaegis.app/), which were re-imported in seconds from an encrypted backup.
+This is a biggie: _I never logged in to a Google account_ and everything works smoothly. I’m using [F-Droid](https://f-droid.org/) and [Aurora Store](https://auroraoss.com/) to download apps. I feel less spied on now that I have a sort of Google Pixel native Android operating system. I’ll probably want to check one of the Google-free alternatives such as [LineageOS](https://lineageos.org/), but so far I feel good where I am. Everything works, including all my OTP codes in [Aegis](https://getaegis.app/), which were re-imported in seconds from an encrypted backup.
 
 I don’t sync the phone with any cloud, I use the open source and private [Syncthing](https://syncthing.net/) to help myself with contacts and copying or deleting pictures from the phone to macOS and viceversa. My Xiaomi Redmi Note 7 (non Pro, apparently) is now seen as “Pixel 6 Pro”.
 
@@ -74,6 +73,7 @@ I don’t sync the phone with any cloud, I use the open source and private [Sync
 
 In two weeks, I’ve only experienced two minor problems, both connected to the same feature:
 
+{: .list-hr }
 - I seem to be incapable of shooting QR codes directly. I have to photograph them with the camera, and then load the photo in a QR reader.
 - The camera sometimes freezes on loading. To unblock, I just have to tap on a different scenario: portrait, night mode or whichever is there, and go back to the one I need.
 
@@ -83,6 +83,6 @@ Unlike several bug reports on LineageOS’ forums about the Redmi Note 7 camera 
 
 If, for whatever reason, I wish to go back to MIUI, all I have to do is download [Xiaomi’s flash tool](https://xiaomiflashtool.com/) and follow the instructions. I did exactly that when I bricked the phone, before re-flashing the recovery for the correct device, and it worked.
 
-### Edit: a month later
-
-The whole "Pro/non-Pro" issue was my fault. Apparently I had a [Mandela effect](https://en.wikipedia.org/wiki/False_memory#Mandela_Effect) on my own — in fact, I've found the original box, which clearly states it's a Redmi Note 7, not a Note 7 Pro.<br><br>The issue related to QR codes only exists in WhatsApp for whatever reason, which is definitely not a problem.
+<aside class="warning">
+  <p><strong>Edit, a month later</strong> — The whole "Pro/non-Pro" issue was my fault. Apparently I had a <a href="https://en.wikipedia.org/wiki/False_memory#Mandela_Effect">Mandela effect</a> — in fact, I’ve found the original box, which clearly states <em>Redmi Note 7</em>, not <em>Note 7 Pro</em>. The issue related to QR codes only exists in WhatsApp for whatever reason, which is definitely not a problem.</p>
+</aside>

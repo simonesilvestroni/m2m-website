@@ -10,9 +10,7 @@ tags:
   - 'sustainability'
 description: 'Part of a ‘degrowth’ series, this third post is focused on my online social interactions, and how I keep it manageable.'
 ---
-It's been three years since I rejected the morally corrupt, privacy-invading, time (and energy) waster that is corporate social media, and it works. Besides email, chats on either <abbr title="Extensible Messaging and Presence Protocol">XMPP</abbr> or Telegram, and a couple of audio-related forums, I only interact online on [Mastodon](https://sonomu.club/@m2m). A decentralised social media, part of a larger interconnected network called [fediverse](https://en.wikipedia.org/wiki/Fediverse), it's independent and open source. Designed to be small, it can't be owned by a single entity. Its ethos is one of inclusion, also reflected by tools that favours accessibility, and a fine tuning of the strictly chronological timeline through detailed filters. The fediverse currently [suits me well]({{ site.url }}/blog/enjoy-the-difference/).
-
-My approach to Mastodon has consolidated to these practices:
+It's been three years since I rejected the morally corrupt, privacy-invading, time (and energy) waster that is corporate social media, and it works. Besides email, chats on either <abbr title="Extensible Messaging and Presence Protocol">XMPP</abbr> or Telegram, and a couple of audio-related forums, I only interact online on [Mastodon](https://sonomu.club/@m2m). A decentralised social media, part of a larger interconnected network called [fediverse](https://en.wikipedia.org/wiki/Fediverse), it's independent and open source. Designed to be small, it can't be owned by a single entity. Its ethos is one of inclusion, also reflected by tools that favours accessibility, and a fine tuning of the strictly chronological timeline through detailed filters. The fediverse currently [suits me well]({{ site.url }}/blog/enjoy-the-difference/). My approach to Mastodon has consolidated to these practices:
 
 {: .list-hr }
 - Checking out anyone who follows me, using a few criteria on what constitutes a potentially interesting person. It's often empirical.

@@ -13,17 +13,13 @@ Since I naturally agree with him, I think I've been going further than that as o
 
 ## Full screen
 
-Last week, Matthew wrote about [dropping the narrow column in the middle of the screen](https://old.starbreaker.org/blog/your-screen-is-tasty/index.html). That inspired me, so I refactored my user interface using a git branch. It only took a few hours, yet towards the end I started getting itchy about how busy it looked. After a `git merge` and a push, it was live. Despite being totally okay with how Matthew's website looks and behaves, I disliked my redesign.
-
-It stayed online for slightly more than twelve hours.
+Last week, Matthew wrote about [dropping the narrow column in the middle of the screen](https://old.starbreaker.org/blog/your-screen-is-tasty/index.html). That inspired me, so I refactored my user interface using a git branch. It only took a few hours, yet towards the end I started getting itchy about how busy it looked. After a `git merge` and a push, it was live. Despite being totally okay with how Matthew's website looks and behaves, I disliked my redesign. It stayed online for slightly more than twelve hours.
 
 ![Screenshot of a short-lived version of my site in full-screen mode](/assets/images/styles-short-lived.jpg){: width="790" height="354" }
 
 ## Synchronicity
 
-Three events happened simultaneously.
-
-First, I dug into my archives and found a version of my old personal website from 2007, built in vanilla HTML and CSS.
+Three events happened simultaneously. First, I dug into my archives and found a version of my old personal website from 2007, built in vanilla HTML and CSS.
 
 Morula.org was a _personal_ blog that I started in 2002 to vent my frustrations as a (crunch) worker in the video game industry. It later became a way to document the trauma of losing a loved one to suicide — it was so intimate that I'd decided to erase it from the internet, [including the Wayback Machine](https://web.archive.org/web/20230000000000*/morula.org).
 
@@ -62,5 +58,3 @@ Yes! I reached the goal I was looking for — at least for a while. It's clean, 
 ### Future improvements
 
 I've been on the fence about webmentions for a long time now. I keep seeing people I admire [dropping them altogether from their sites](https://brainbaking.com/post/2023/05/why-i-retired-my-webmention-server/), for reasons that I agree with. The spam is still at a manageable level, but it's very likely I'll be axing them from this site as well. Of course, I'll be deleting some more code and copy here and there. Getting to the core of things is a beautiful journey.
-
-Now, back to completing my Wwise certifications.

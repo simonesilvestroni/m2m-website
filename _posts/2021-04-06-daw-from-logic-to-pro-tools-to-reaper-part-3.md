@@ -12,31 +12,29 @@ tags:
   - 'sound design'
 description: "In 12 months I’ve managed to revolutionize my workflow, twice. Part 3 of why I migrated to REAPER is about open architecture, development cycle, efficiency."
 ---
-<div class="warning">
-  <p><strong><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/">Part 1</a></strong></p>
+<aside class="warning">
+  <p><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/">Part 1</a></p>
   <ol>
     <li>Cost</li>
     <li>Multi-platform</li>
     <li>A different workflow</li>
   </ol>
-  <p><strong><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/">Part 2</a></strong></p>
+  <p><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/">Part 2</a></p>
   <ol>
     <li>Customization</li>
     <li>Community</li>
     <li>Stock plug-ins</li>
   </ol>
-  <p><mark><strong>Part 3</strong></mark></p>
+  <p><mark>Part 3</mark></p>
   <ol>
     <li>Open architecture &amp; development cycle</li>
     <li>Efficiency</li>
   </ol>
-</div>
+</aside>
 
 ## Benefit 7: Open architecture & development cycle
 
-Updates and fixes are relased regularly. [Dan Worrall’s video series](https://youtu.be/3OoVnTO3AB4) also confirmed the agile way the software is maintained, with maximum attention to its community.
-
-In a video about ReaComp (stock compressor plug-in), he pointed out a slight defect in the range of a slider. This is what happened, just _a week later_:
+Updates and fixes are relased regularly. [Dan Worrall’s video series](https://youtu.be/3OoVnTO3AB4) also confirmed the agile way the software is maintained, with maximum attention to its community. In a video about ReaComp (stock compressor plug-in), he pointed out a slight defect in the range of a slider. This is what happened, just _a week later_:
 
 ![Screenshot from a YouTube comment section showing people praising Dan Worrall and Cockos for a prompt update after a minor defect was pointed out by a user](/assets/images/dan-worrall-reaper-comp.jpg){: width="768" height="555" }
 *REAPER compressor received a prompt update after a minor defect was pointed out on YouTube*
@@ -98,9 +96,7 @@ Switching DAW is a _dreadful task_ for many. If you work within a team of people
 
 ### My current setup
 
-I currently use REAPER for almost everything, writing music, producing, editing audio, batch processing, mixing, stem rendering, mastering.
-
-It’s an unbelieavably powerful, fast and flexible piece of software, I regret not having tried it sooner.
+I currently use REAPER for almost everything, writing music, producing, editing audio, batch processing, mixing, stem rendering, mastering. It’s an unbelieavably powerful, fast and flexible piece of software, I regret not having tried it sooner.
 
 ### Bonus: other software
 
@@ -114,4 +110,5 @@ I do plan to try REAPER and Logic, or Reason, in sync: if the ventilation system
 
 Thanks for reading. I leave you with a video by American composer, producer and sound designer [Nick Peck](https://nicolaspeck.com/), who explains in 18 minutes his 11 reasons to switch from Pro Tools to REAPER:
 
-{% include pattern-video.html id="BKCvJsG-zrQ" %}
+{% include pattern-video.html provider="yewtu.be" id="BKCvJsG-zrQ" %}
+[_If you prefer, watch the video on YouTube_](https://youtu.be/BKCvJsG-zrQ){: target="_blank" }

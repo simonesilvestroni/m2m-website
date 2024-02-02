@@ -28,7 +28,7 @@ While working on [Silvia Maggi's new website]({{ site.url }}/blog/website-silvia
 
 Over the years, in a quest to continuous performance optimisation, I have been writing HTML and CSS alternatives to complex accordions, interactive overlays, image galleries and more. As I once again deemed the use of Javascript for such a case a waste of resources, I resorted to a similar technique.
 
-<div class="warning">
+<aside class="warning">
   <h3>Ease of use</h3>
   <p>The code under the hood is relatively complex, but I wanted to make the implementation as easy as possible. Since the functionality had to be included in a static website generator without an admin CMS, the ease of use could go as far as having to add a single line of code to include a directory in the page source. The module took care of everything else.</p>
   <p>First, the images to be used in a gallery need to be prepared, both miniature and high-resolution. As an example, Silvia had a gallery with 3 photos in her filesystem, including small <code>150x150</code> square thumbnail versions:</p>
@@ -37,7 +37,7 @@ Over the years, in a quest to continuous performance optimisation, I have been w
   <pre><code class="language-liquid">{% raw %}{% include pattern-imagegallery.html folder="/assets/images/gallery-2/" id="1" %}{% endraw %}</code></pre>
   <p>The resulting column view navigation preview, using the thumbnails, followed by a button to launch the carousel:</p>
   <p><img src="/assets/images/gallery-thumbnails.jpg" alt="Column view thumbnail photo gallery" width="1024" height="622"></p>
-</div>
+</aside>
 
 ### The photogallery in action
 
@@ -49,7 +49,7 @@ I'm considering two future improvements: in case a CMS admin dashboard had been 
 
 ## Results
 
-Tests were successful on all devices, desktop, tablets and smartphones with modern browsers. Swiping on touch devices worked as expected while most browsers on desktop gracefully accepted the scroll snapping. Performance checks returned stunning results: thanks to the efficient code, and the [implementation of responsive images](https://github.com/simonesilvestroni/css-responsive-photogallery#responsive-images), <span class="highlight">Pagespeed on mobile went from <code>27</code> to <code>100</code></span>.
+Tests were successful on all devices, desktop, tablets and smartphones with modern browsers. Swiping on touch devices worked as expected while most browsers on desktop gracefully accepted the scroll snapping. Performance checks returned stunning results: thanks to the efficient code, and the [implementation of responsive images](https://github.com/simonesilvestroni/css-responsive-photogallery#responsive-images), Pagespeed on mobile went from <code>27</code> to <code>100</code>.
 
 ## Skills
 

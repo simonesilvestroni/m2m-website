@@ -16,9 +16,7 @@ tags:
   - 'world war ii'
 description: 'My debut concept album has been receiving a bit more attention recently, especially after I stopped trying to sell it.'
 ---
-Whether the new influx is determined by my choice to stop acting like [a seller who needs to monetise a product](/blog/de-brand/) or not, I'm happy to see fresh reactions from people I don't even know. It takes a minimal effort to write a review on Bandcamp (I'm guilty of being constantly behind my to-do list on this matter), however few people do.
-
-From [_After 1989_'s Bandcamp page](https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom):
+Whether the new influx is determined by my choice to stop acting like [a seller who needs to monetise a product](/blog/de-brand/) or not, I'm happy to see fresh reactions from people I don't even know. It takes a minimal effort to write a review on Bandcamp (I'm guilty of being constantly behind my to-do list on this matter), however few people do. From [the Bandcamp page](https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom):
 
 > Superbly crafted thematic album, with each song contributing to the overall experience. 
 <cite>David Dellacroce</cite>
@@ -36,4 +34,4 @@ A musical and historical journey with depths.
 I'm very thankful for the lovely feedback, especially for a 4-year-old album.
 
 {: .cta }
-[**Read all the album reviews**&nbsp;&rarr;](/blog/after-1989-reviews/)
+[Read all the album reviews&nbsp;&rarr;](/blog/after-1989-reviews/){: .highlight }

@@ -21,8 +21,9 @@ featimage-alt: WebP official logo
 featimage-width: 1024
 featimage-height: 739
 ---
-{: .warning }
-**Note** — WebP is a modern image format [supported in all major browsers](https://caniuse.com/?search=webp) that provides superior lossless and lossy compression for images on the web. WebP images are between 25% and 34% smaller than comparable PNGs and JPEGs.
+<aside class="warning">
+  <p><strong>Note</strong> — WebP is a modern image format <a href="https://caniuse.com/?search=webp">supported in all major browsers</a> that provides superior lossless and lossy compression for images on the web. WebP images are between 25% and 34% smaller than comparable PNGs and JPEGs.</p>
+</aside>
 
 ## Objectives
 

@@ -36,9 +36,7 @@ Lack of control is the key: the code isn’t mine — even when I develop my own
 
 ## Static web generators
 
-I’ve been toying for a while with the idea of redesigning my website with a [static site generator](https://jamstack.org/generators/) and now it’s the time. 
-
-Last month I’ve developed and delivered a super-nice landing page. My first paid job as a web designer in years, and all I had to use was [Jekyll](https://jekyllrb.com/) and GitHub. No clunky local environment, no hosting fees. A smooth sailing from beginning to end, 100% benchmark on Pagespeed on both desktop and mobile, with less than 400 milliseconds loading time.
+I’ve been toying for a while with the idea of redesigning my website with a [static site generator](https://jamstack.org/generators/) and now it’s the time. Last month I’ve developed and delivered a super-nice landing page. My first paid job as a web designer in years, and all I had to use was [Jekyll](https://jekyllrb.com/) and GitHub. No clunky local environment, no hosting fees. A smooth sailing from beginning to end, 100% benchmark on Pagespeed on both desktop and mobile, with less than 400 milliseconds loading time.
 
 Despite still having a full year of hosting with SiteGround before a hefty renewal is due, the die is cast.
 
@@ -46,17 +44,13 @@ Despite still having a full year of hosting with SiteGround before a hefty renew
 
 This is what I'm using. It feels essential, stripped down to the core, super fast and efficient. GitHub is the control version, which will serve as a deployment platform towards [Netlify](https://netlify.com/), which will be our (free) hosting.
 
-With control of the codebase, the design and the information architecture, every single detail is in my hands. Every benchmark will be testing the ability to run a fast and _sustainable website_.
-
-No useless obligatory Unsplash-driven featured images, pretending to attract people’s attention while slowing down every page. Full focus on the content: typography, rhythm, speed, access to the information, clear navigation.
+With control of the codebase, the design and the information architecture, every single detail is in my hands. Every benchmark will be testing the ability to run a fast and _sustainable website_. No useless obligatory Unsplash-driven featured images, pretending to attract people’s attention while slowing down every page. Full focus on the content: typography, rhythm, speed, access to the information, clear navigation.
 
 The ease of updating isn’t secondary. Being the local site a perfect mirror of production, adding a new post is just a matter of creating a new markdown file. Write, save, push to the Git repository and that’s it. I can even edit stuff online in the browser, directly on GitHub. No SQL backups needed.
 
 ## No surveillance, no comments
 
-I won’t be showing annoying cookie messages, because the website won’t spy on anyone. No Google Analytics, no Tag Manager, no scripts at all. No comment system either. Instead of public comments, a simple button to “reply with email” looks perfect to me. _Start a conversation_, remember it?
-
-I love when blogs present this kind of interaction, and the idea of being back to the feeling of “it’s me and the author” is electrifying.
+I won’t be showing annoying cookie messages, because the website won’t spy on anyone. No Google Analytics, no Tag Manager, no scripts at all. No comment system either. Instead of public comments, a simple button to “reply with email” looks perfect to me. _Start a conversation_, remember it? I love when blogs present this kind of interaction, and the idea of being back to the feeling of “it’s me and the author” is electrifying.
 
 > There were no ads, no one could slow down your feed with third party scripts, it had a good baseline of typographic standards and, most of all, it was _quiet_. There were no comments, no likes or retweets. Just the writer’s thoughts and you.<cite>[Robin Rendle](https://robinrendle.com/notes/how-to-read-the-internet/)</cite>
 

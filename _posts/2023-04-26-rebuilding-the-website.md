@@ -13,19 +13,13 @@ syndicate:
   - name: Mastodon
     url: https://indieweb.social/@m2m/110265774778640661
 ---
-Having two websites, each with its own blog and overlapping content, didn't agree with me. I still wanted to keep my web development site separate. The best course of action was to migrate posts and relevant content in here, leaving the other site as some barebones *resume*.
-
-It took less time than I thought, albeit a whole lot of attention was sucked into the task: redirects and canonical links are unforgiving beasts.
-
-Both places are extremely clean right now, minimalistic and efficient. I took the opportunity to wipe out the Bootstrap remnants from the second site as well, which is great. 
+Having two websites, each with its own blog and overlapping content, didn't agree with me. I still wanted to keep my web development site separate. The best course of action was to migrate posts and relevant content in here, leaving the other site as some barebones *resume*. It took less time than I thought, albeit a whole lot of attention was sucked into the task: redirects and canonical links are unforgiving beasts. Both places are extremely clean right now, minimalistic and efficient. I took the opportunity to wipe out the Bootstrap remnants from the second site as well, which is great. 
 
 While digging my old posts about web development, I've found a few bits here and there that I'd forgotten about. Turns out I've been ranting against web bloat and electronic waste for way longer than I thought. This fragment, from an article written in 2013 was interesting to read:
 
 > We don’t set any custom web font in the parent main  theme, so we’re free to decide and set it up later in our child theme.  Also, if there’s no need for custom web typography we can use one of the old web-safe fonts. The less HTTP requests, the better, especially if requests are without any real use.
 
-Apparently, I keep reinventing the wheel — or, in this case, rediscovering truths that I already knew.
-
-With everything reduced to its core, I'm happy. This site is both a sound design portfolio *and my personal place*, where I can write about anything that interests me without worrying about who's reading, or fretting over catering to some external entity.
+Apparently, I keep reinventing the wheel — or, in this case, rediscovering truths that I already knew. With everything reduced to its core, I'm happy. This site is both a sound design portfolio *and my personal place*, where I can write about anything that interests me without worrying about who's reading, or fretting over catering to some external entity.
 
 Sure, when the time to start applying for a new job has come, I'll have to set up a landing page, hidden from my navigation, the sitemap and the search crawlers. It'll be tailored to recruiters and people who don't have the time to read long posts, or rummage around navigation menus to find the relevant case studies. 
 

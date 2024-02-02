@@ -33,7 +33,8 @@ If you prefer, [watch the video on YouTube](https://youtu.be/5M1XTw483Ew){: targ
 
 6 August 1945, at 8:15am (Hiroshima time), an atomic bomb called _Little Boy_, the first ever to be dropped on a populated city, took less than 50 seconds to fall from the _Enola Gay_ to the city. The _B-29_ stayed over the target area for two minutes and was ten miles away when the bomb detonated.
 
-![The aftermath, Hiroshima](/assets/images/hiroshima_aftermath.jpg){: width="780" height="546" }
+![Black and white photograph of Hiroshima after the atomic bomb flattened the city](/assets/images/hiroshima_aftermath.jpg){: width="780" height="546" }
+_Hiroshima, the aftermath_
 
 April, same year: two men escaped from a concentration camp called [Sachsenhausen](https://www.sachsenhausen-sbg.de/en/), built in the town of Oranienburg, north of Berlin. One of them was my grandfather. Now a fugitive, he’s running away from imprisonment with a fellow Soviet inmate. They have to steal from German citizens, for food, protection and to go unnoticed during the day. They tie themselves to tree branches at night. The skinny kid came back home, mostly walking, [from Berlin to Italy]({{ site.url }}/blog/after-1989-full-story/).
 
@@ -47,29 +48,26 @@ A pun over an [old tune by Vera Lynn](https://youtu.be/4Zj-XYQ21qE) intertwined 
 
 The contrast between the Christmas carol-like music of the final section, and this flatly delivered horrifying declaration is chilling.
 
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .cta .highlight }
+{: .cta }
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .highlight }
 
 ## Credits
 
-### Performed by
+Dan Ecclestone
+: vocals, ukulele, toy piano
 
-**Dan Ecclestone**\
-vocals, ukulele, toy piano
+Paolo Clementi
+: viola
 
-**Paolo Clementi**\
-viola
+Callum Gardner
+: acoustic guitar
 
-**Callum Gardner**\
-acoustic guitar
-
-**Simone Silvestroni**\
-bass, drums, sound effects
-
-### Production
-Written and produced by Simone Silvestroni / Mastered by Ian Shepherd / Management by Christopher Carvalho of [Unlock your sound](https://unlockyoursound.com).
+Simone Silvestroni
+: bass, drums, sound effects
 
 ### Footage
 Prelinger Archive / U.S. Army / Barbed wire design by freepik.com.
 
-{: .small }
-&copy;&nbsp;2019 Simone Silvestroni
+### Production
+
+Written and produced by Simone Silvestroni / Mastered by Ian Shepherd / Management by Christopher Carvalho of [Unlock your sound](https://unlockyoursound.com) / &copy;&nbsp;2019 Simone Silvestroni.

@@ -31,35 +31,31 @@ This was the first full-fledged album that I mixed using Reaper after [switching
 
 ## Official video for _Approaching Silence_
 
-{% include pattern-video.html id="GFFxceUwA-8" %}
+{% include pattern-video.html provider="yewtu.be" id="GFFxceUwA-8" %}
+[_If you prefer, watch the video on YouTube_](https://youtu.be/GFFxceUwA-8){: target="_blank" }
 
 ## Credits
 
-### Performed by
+Dan Ecclestone
+: piano & vocals
 
-**Dan Ecclestone**\
-piano & vocals
+Jake Hatter
+: trumpet
 
-**Jake Hatter**\
-trumpet
+Julia Black
+: violin
 
-**Julia Black**\
-violin
+Katharine Parsons
+: viola
 
-**Katharine Parsons**\
-viola
+Abby Wollston
+: cello
 
-**Abby Wollston**\
-cello
+Richard Partridge
+: double bass
 
-**Richard Partridge**\
-double bass
-
-**David Youngs**\
-drums
+David Youngs
+: drums
 
 ### Production
-Recorded by [Sam Inglis](https://www.soundonsound.com/author/sam-inglis) / Mixed by Simone Silvestroni / Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
-
-{: .small }
-&copy; 2021 Dan Ecclestone
+Recorded by [Sam Inglis](https://www.soundonsound.com/author/sam-inglis) / Mixed by Simone Silvestroni / Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/) / &copy;&nbsp;2021 Dan Ecclestone.

@@ -44,19 +44,14 @@ I’ve had the pleasure to co-produce the single, working with [Dan Ecclestone](
 
 ## Credits
 
-### Performed by
+Gerald Duchene
+: instrumentation
 
-**Gerald Duchene**\
-instrumentation
+Dan Ecclestone
+: vocals and melody
 
-**Dan Ecclestone**\
-vocals and melody
-
-**Simone Silvestroni**\
-bass
+Simone Silvestroni
+: bass
 
 ### Production
-Written and mixed by Gerald Duchene / Produced by Gerald Duchene and Simone Silvestroni / Mastered by Chris Pavey.
-
-{: .small }
-&copy; 2021 Gerald Duchene
+Written and mixed by Gerald Duchene / Produced by Gerald Duchene and Simone Silvestroni / Mastered by Chris Pavey / &copy;&nbsp;2021 Gerald Duchene.

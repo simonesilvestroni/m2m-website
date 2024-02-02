@@ -64,7 +64,8 @@ Then, I created an XSL file to style the feed page into a human readable format.
 
 It was surprisingly easy, and I wonder why didn't I do it sooner. Since my main motivation for leaving WordPress was to take full control over my code, I should have managed the feed myself rather than relying on a Jekyll plug-in. The source code for the [RSS XML feed](https://github.com/simonesilvestroni/m2m-website/blob/main/feed.xml) and the [XLS file](https://github.com/simonesilvestroni/m2m-website/blob/main/feed.xsl) are available on Github.
 
-[**View it in action**&nbsp;&rarr;](https://minutestomidnight.co.uk/feed.xml){: .cta .highlight }
+{: .cta }
+[**View it in action**&nbsp;&rarr;](https://minutestomidnight.co.uk/feed.xml){: .highlight }
 
 ## Skills
 

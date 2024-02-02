@@ -23,9 +23,7 @@ thumbOnly: true
 
 ## Backstory
 
-In January 2020, an old friend and former music partner, [Gianluca Lo Presti](https://open.spotify.com/artist/0ugkXokPU3KaXX3X9BFes7), had recently lost his father. A new album dedicated to reflecting on their time together was in the works. The idea included a companion EP of remixes, done by friends and former collaborators.
-
-Gianluca asked Emilio Albertoni and I to choose a song to our liking and produce a remix together. We had complete creative freedom, and several months at our disposal. After listening, in isolation, to an early demo of the album, we selected the song [_Non so chi sei_](https://open.spotify.com/track/41XOwGHELQqt9DIwbl2LNA) (“I don’t know you”).
+In January 2020, an old friend and former music partner, [Gianluca Lo Presti](https://open.spotify.com/artist/0ugkXokPU3KaXX3X9BFes7), had recently lost his father. A new album dedicated to reflecting on their time together was in the works. The idea included a companion EP of remixes, done by friends and former collaborators. Gianluca asked Emilio Albertoni and I to choose a song to our liking and produce a remix together. We had complete creative freedom, and several months at our disposal. After listening, in isolation, to an early demo of the album, we selected the song [_Non so chi sei_](https://open.spotify.com/track/41XOwGHELQqt9DIwbl2LNA) (“I don’t know you”).
 
 Shortly after, Covid arrived. A few months and several chats later, Emilio started drafting ideas in Logic and sent them over. Seeing his direction, I'd decided how to interact with his production.
 
@@ -64,22 +62,15 @@ We exchanged opinions about the rough mixes, efficiently collaborating to the ed
 
 ## Credits
 
-### Performed by
+Emilio Albertoni
+: guitars, synth, drums
 
-**Emilio Albertoni**\
-guitars, synth, drums
+Simone Silvestroni
+: bass, drums, sound effects
 
-**Simone Silvestroni**\
-bass, drums, sound effects
-
-**Gianluca Lo Presti**\
-vocals, synth, sound effects
+Gianluca Lo Presti
+: vocals, synth, sound effects
 
 ### Production
 
-Produced by Emilio Albertoni and Simone Silvestroni / Mixed and mastered by Simone Silvestroni.
-
-{: .small }
-<br>&copy; 2020 Gianluca Lo Presti.
-<br>&copy; 2021 Remix produced and arranged by Emilio Albertoni and Simone Silvestroni.
-<br>℗ 2019 Minutes to Midnight (sound recording copyright).
+Produced by Emilio Albertoni and Simone Silvestroni / Mixed and mastered by Simone Silvestroni / &copy;&nbsp;2020 Gianluca Lo Presti / &copy;&nbsp;2021 Remix produced and arranged by Emilio Albertoni and Simone Silvestroni / ℗&nbsp;2019 Minutes to Midnight (sound recording copyright).

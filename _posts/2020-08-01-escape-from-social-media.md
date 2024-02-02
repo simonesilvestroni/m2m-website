@@ -15,7 +15,7 @@ This post is a personal point of view, it’s not intended as an exhaustive anal
 I believe the term _social media_ is an oxymoron. Besides a toxicity that has reached a point of no return, there's the deliberate addictive mechanisms and the self-declared aim to _hog our time as much as they can_. The massive problem with [personal data](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal) is even beyond the point.
 
 > The thought process was all about: how do we consume as much of your time and conscious attention as possible? This means we had to give you a dopamine hit every once in a while.
-> <cite>Sean Parker, former _Facebook_ president</cite>
+> <cite>Sean Parker (former Facebook president)</cite>
 
 ## Hate
 
@@ -31,7 +31,8 @@ The decision of leaving has been brewing for a long while. Because of the releas
 
 ## Keyboard warriors
 
-{% include pattern-video.html id="VK6_tjizu_g" %}
+{% include pattern-video.html provider="yewtu.be" id="VK6_tjizu_g" %}
+[_If you prefer, watch this video on YouTube_](https://youtu.be/VK6_tjizu_g){: target="_blank" }
 
 ## Behavioral changes
 
@@ -65,31 +66,33 @@ I don’t think it’s a bold decision at all. On the contrary. Another common m
 
 ## A few resources
 
-[Tristan Harris](https://www.tristanharris.com/): your phone is trying to control your life.
+[Tristan Harris](https://youtu.be/MacJ4p0vITM): your phone is trying to control your life.
 
-{% include pattern-video.html id="MacJ4p0vITM" %}
+{% include pattern-video.html provider="yewtu.be" id="MacJ4p0vITM" %}
 
-[Cal Newport](https://www.calnewport.com/): quit social media.
+---
 
-{% include pattern-video.html id="3E7hkPZ-HTk" %}
+[Cal Newport](https://youtu.be/3E7hkPZ-HTk): quit social media.
 
-[Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier): social media is ruining your life.
+{% include pattern-video.html provider="yewtu.be" id="3E7hkPZ-HTk" %}
 
-{% include pattern-video.html id="kc_Jq42Og7Q" %}
+---
 
-I’ve been reading Lanier's [most recent book](https://www.kobo.com/gb/en/ebook/ten-arguments-for-deleting-your-social-media-accounts-right-now-1) about this very same topic, and it’s brilliant.
+[Jaron Lanier](https://youtu.be/kc_Jq42Og7Q): social media is ruining your life. I’ve been reading Lanier's [most recent book](https://www.kobo.com/gb/en/ebook/ten-arguments-for-deleting-your-social-media-accounts-right-now-1) about this very same topic, and it’s brilliant.
+
+{% include pattern-video.html provider="yewtu.be" id="kc_Jq42Og7Q" %}
 
 ## Conclusions
 
 I’ll probably post a follow-up in a year or so. Although unlikely, I might end up changing my mind. For now, I’ve been experiencing several positive effects already. I currently am:
 
+{: .list-hr }
 - Reading multiple books at the same time.
 - Chewing through my ‘read later’ list like I haven’t done in years.
 - Feeling less burdened and way less angry.
 - Having deeper conversations with a group of people larger than my usual circle.
 - Extremely productive.
 
-<div class="notice">
-  <h4>Edit: 3 March 2022</h4>
-  <p>Read the follow-up: <a href="{{ site.url }}/blog/life-after-social-networks/">Life after social networks</a>.</p>
-</div>
+<aside class="warning">
+  <p><strong>Edit, 3 March 2022</strong>. I have written a follow-up, titled <a href="{{ site.url }}/blog/life-after-social-networks/"><em>Life after social networks</em></a>.</p>
+</aside>

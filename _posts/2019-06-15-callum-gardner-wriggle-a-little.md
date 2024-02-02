@@ -27,30 +27,25 @@ Comping his fantastic solo on the fly allowed me to feel how each take was bette
 > _Wriggle a Little_ describe the mental and physical struggle of a lonely introspective creative, looking for longevity and purpose in their work. The music and groove represents that bread trail of small successes—that momentum we all crave to prove we’re on the right track.
 > <cite>Callum Gardner</cite>
 
-## Official video
+## Music video
 
-{% include pattern-video.html id="DFX53PxJk5c" %}
+{% include pattern-video.html provider="yewtu.be" id="DFX53PxJk5c" %}
+[_If you prefer, watch the video on YouTube_](https://youtu.be/DFX53PxJk5c){: target="_blank" }
 
 ## Credits
 
-### Performed by
+Callum Gardner
+: vocals and acoustic guitar
 
-**Callum Gardner**\
-vocals and acoustic guitar
+Hugh Wheatley
+: electric guitar, backing vocals
 
-**Hugh Wheatley**\
-electric guitar, backing vocals
+Simone Silvestroni
+: bass
 
-**Simone Silvestroni**\
-bass
-
-**Arlen Millwall**\
-drums, backing vocals
+Arlen Millwall
+: drums, backing vocals
 
 ### Production
 
-Written by Callum Gardner / Produced, mixed and mastered by Simone Silvestroni.
-
-{: .small }
-&copy; 2019 Callum Gardner\
-℗ 2019 Minutes to Midnight (sound recording copyright)
+Written by Callum Gardner / Produced, mixed and mastered by Simone Silvestroni / &copy;&nbsp;2019 Callum Gardner / ℗&nbsp;2019 Minutes to Midnight (sound recording copyright).

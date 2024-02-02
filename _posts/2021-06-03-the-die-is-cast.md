@@ -27,7 +27,8 @@ thumbOnly: true
 
 In 2018, together with Dan Ecclestone, songwriter for Cambridge-based band Ember Rev, I worked as a co-producer and mixer for their second album, [*Premonition And Ruin*]({{ site.url }}/blog/premonition-and-ruin/). A song didn’t make the cut: *Land Of Kings* is my interpretation of it. Together with *Papillon*, they reference the painful process of living in England through Brexit. I had been living in the UK for five years when the referendum took place. That night I was up in front of the TV, watching my idea of the UK — England in particular — crumble before my eyes.
 
-{% include pattern-video.html id="SAn9Dw_srPA" %}
+{% include pattern-video.html provider="yewtu.be" id="SAn9Dw_srPA" %}
+[_If you prefer, watch the video on YouTube_](https://youtu.be/SAn9Dw_srPA){: target="_blank"}
 
 At five in the morning, right after the BBC declared the result, I stood alone in the garden. It was sunny, a good fresh smell in the air. Gobsmacked and incapable of thinking clearly, I felt betrayed. Then, the most pantomimic four years came and went, and all I could see was ‘Rule Britannia’, which looked so out of touch with the world at large.
 
@@ -54,25 +55,18 @@ A couple of samples completed the remixes. _Land Of Kings_ features the exact TV
 
 ## Credits
 
-### Performed by
+Simone Silvestroni
+: bass, piano, synth, drums, sound effects
 
-**Simone Silvestroni**\
-bass, piano, synth, drums, sound effects
+Gerald Duchene
+: flugelhorn, trumpet, guitars, synth, percussion, synth vocals
 
-**Gerald Duchene**\
-flugelhorn, trumpet, guitars, synth, percussion, synth vocals
+Dan Ecclestone
+: vocals, mellotron, distorted guitar
 
-**Dan Ecclestone**\
-vocals, mellotron, distorted guitar
-
-**Romy Gensale**\
-background vocals
+Romy Gensale
+: background vocals
 
 ### Production
 
-Recorded between the UK, Italy and the United States / _Papillon_ produced by Simone Silvestroni and Gerald Duchene / _Land Of Kings_ produced by Simone Silvestroni / Mixed and mastered by Simone Silvestroni.
-
-{: .small }
-<br>&copy; 2018 Dan Ecclestone\
-&copy; 2021 Remix produced and arranged by Simone Silvestroni and Gerald Duchene\
-℗ 2021 Minutes to Midnight (sound recording copyright)
+Recorded between the UK, Italy and the United States / _Papillon_ produced by Simone Silvestroni and Gerald Duchene / _Land Of Kings_ produced by Simone Silvestroni / Mixed and mastered by Simone Silvestroni / &copy; 2018 Dan Ecclestone / &copy; 2021 Remix produced and arranged by Simone Silvestroni and Gerald Duchene / ℗ 2021 Minutes to Midnight (sound recording copyright).

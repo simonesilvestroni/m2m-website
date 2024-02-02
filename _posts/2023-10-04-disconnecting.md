@@ -32,8 +32,7 @@ I've been ruminating over what to do if my current MacBook Pro stopped working. 
 My most recent fool’s errand has been a quest to find the ultimate unobtrusive mobile device, in the futile hope that I can get to live like it's 1997. Another article, plus a couple of YouTube videos, inspired me to look further into it. I spent three days seriously considering the idea of ditching my Android to switch to the [Light Phone](https://www.thelightphone.com/), a tiny device equipped with an e-ink screen that can only do phone calls, SMS, listen to music, and use a rudimentary GPS — no internet, no email, no chats. I quit yanking around after finally accepting the fact that I live in a society now designed to make my life impossible without a smartphone.
 
 > Without a smartphone, it  was impossible to do basic things [&hellip;]. It is now taken as a given that everyone has an iPhone or Android phone, and while you can choose *not* to have one, it is becoming increasingly unlikely that you will be able to effectively participate in modern society without one.
->
-> <cite>Zachary Flower, <a href="https://flower.codes/2022/05/02/i-hate-my-smartphone.html"><em>I hate my smartphone</em></a></cite>
+><cite>Zachary Flower, <a href="https://flower.codes/2022/05/02/i-hate-my-smartphone.html"><em>I hate my smartphone</em></a></cite>
 
 ## The iPhone
 

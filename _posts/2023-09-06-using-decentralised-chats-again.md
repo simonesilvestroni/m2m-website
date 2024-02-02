@@ -22,9 +22,7 @@ To fight back against the fragmentation of proprietary applications, I’d rathe
 
 > XMPP has a huge potential to replace platforms like Telegram, Signal, and WhatsApp, although its use hasn't reached mass consciousness. Rather then spread awareness of friendly and open technologies like these, big tech companies preferred to build their proprietary solutions ontop of XMPP and market those instead - so you may have been using XMPP this whole time without even knowing it.
 >
-> Instead of depending on proprietary centralized chat platforms like Telegram, WhatsApp and Signal we believe that truly decentralized platforms like XMPP can achieve and surpass our needs.
-> 
-> <cite>[Take back our tech](https://takebackourtech.org/xmpp-comeback/)</cite>
+> Instead of depending on proprietary centralized chat platforms like Telegram, WhatsApp and Signal we believe that truly decentralized platforms like XMPP can achieve and surpass our needs.<cite>[Take back our tech](https://takebackourtech.org/xmpp-comeback/)</cite>
 
 I haven’t stopped using Telegram yet, what I did was creating an account with [Disroot](https://disroot.org/mission-statement), which [offers XMPP](https://disroot.org/en/services/xmpp) among their many perks.[^1] Then, I installed the free and open source lightweight application [BeagleIM](https://beagle.im/), refusing to install a mobile counterpart, because things that are conceived as decentralised and asynchronous should ditch the concept of being *always live 24/7*.
 

@@ -17,24 +17,19 @@ thumbOnly: true
 {% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
 
 {: .cta }
-[**Read the project analysis**&nbsp;&rarr;](/blog/producing-bass-remotely/)
+[**Read the project analysis**&nbsp;&rarr;](/blog/producing-bass-remotely/){: .highlight }
 
 ## Credits
 
-### Performed by
+Gerald Duchene
+: instrumentation
 
-**Gerald Duchene**\
-instrumentation
+Dan Ecclestone
+: vocals and melody
 
-**Dan Ecclestone**\
-vocals and melody
-
-**Simone Silvestroni**\
-bass
+Simone Silvestroni
+: bass
 
 ### Production
 
-Written, produced and mixed by Gerald Duchene / Mastered by Chris Pavey.
-
-{: .small }
-<br>&copy; 2020 Gerald Duchene.
+Written, produced and mixed by Gerald Duchene / Mastered by Chris Pavey / &copy;&nbsp;2020 Gerald Duchene.

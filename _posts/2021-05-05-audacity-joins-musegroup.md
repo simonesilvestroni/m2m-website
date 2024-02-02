@@ -12,12 +12,11 @@ As stated on their website:
 
 In the video announcement by Martin Keary of [Muse Group](https://mu.se/), he said:
 
-> Audacity has just joined Muse Group, a collection of brands that includes another popular open source music app called MuseScore, which I’m currently in charge of. And since things are going rather well at MuseScore, I was asked to step up and also manage Audacity in partnership with its open source community. And just like we’re doing at MuseScore, we’re now planning on significantly improving the feature set and ease of use of Audacity – providing dedicated designers and developers to give it the attention it deserves – while keeping it free and open source.<cite>&mdash; Martin Keary</cite>
+> Audacity has just joined Muse Group, a collection of brands that includes another popular open source music app called MuseScore, which I’m currently in charge of. And since things are going rather well at MuseScore, I was asked to step up and also manage Audacity in partnership with its open source community. And just like we’re doing at MuseScore, we’re now planning on significantly improving the feature set and ease of use of Audacity – providing dedicated designers and developers to give it the attention it deserves – while keeping it free and open source.<cite>Martin Keary</cite>
 
 ## About Audacity
 
-Audacity has recently reached the 3.0 iteration. Despite not being prominently featured in the professional audio community, I’m sure many producers would enjoy its powerful features.
+Audacity has recently reached the 3.0 iteration. Despite not being prominently featured in the professional audio community, I’m sure many producers would enjoy its powerful features. Audacity is a perfectly apt tool that doesn’t break the bank, allowing anyone, whether beginner or professional, to edit audio. And, same as [REAPER]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/), Audacity enjoys a [brilliant community](https://forum.audacityteam.org/) of like-minded people, always keen to help everybody and improve the already vast arsenal of functionality.
 
-Audacity is a perfectly apt tool that doesn’t break the bank, allowing anyone, whether beginner or professional, to edit audio. And, same as [REAPER]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/), Audacity enjoys a [brilliant community](https://forum.audacityteam.org/) of like-minded people, always keen to help everybody and improve the already vast arsenal of functionality.
-
-{% include pattern-video.html id="RMWNvwLiXIQ" %}
+{% include pattern-video.html provider="yewtu.be" id="RMWNvwLiXIQ" %}
+[_If you prefer, watch the video on YouTube_](https://youtu.be/RMWNvwLiXIQ){: target="_blank"}

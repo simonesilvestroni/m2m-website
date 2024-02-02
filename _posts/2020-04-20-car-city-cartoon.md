@@ -82,7 +82,7 @@ Amuse requested the following specifications:
 
 ### Audio
 
-- `.wav`
+- File format: `.wav`
 - Stereo
 - 48kHz, 24 bits
 - No dithering

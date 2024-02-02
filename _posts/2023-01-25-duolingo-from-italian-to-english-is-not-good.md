@@ -23,9 +23,7 @@ I mentioned the United States on purpose, because Duolingo uses American pronunc
 
 ## Who speaks like that in Italy?
 
-The amount of phrases that made zero sense in my native language was astounding. I'm not talking about Duolingo’s use of hyperboles: I do understand why they use phrases such as _the owl doesn't cook well_. I'm talking about sentences that were also wrong or extremely ambiguous from a grammar point of view. Most of my mistakes were caused by the confusion arising from this single issue, or from perfectly good answers that they deemed incorrect.
-
-An example:
+The amount of phrases that made zero sense in my native language was astounding. I'm not talking about Duolingo’s use of hyperboles: I do understand why they use phrases such as _the owl doesn't cook well_. I'm talking about sentences that were also wrong or extremely ambiguous from a grammar point of view. Most of my mistakes were caused by the confusion arising from this single issue, or from perfectly good answers that they deemed incorrect. An example:
 
 ![Duolingo asking to translate the Italian 'Devo fissare una data?' and deeming wrong my reply 'Shall I set a date?'](/assets/images/duolingo-mistake-1.jpg){: width="720" height="1562" }
 *A false mistake*

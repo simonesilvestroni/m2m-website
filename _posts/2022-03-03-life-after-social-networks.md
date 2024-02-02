@@ -12,9 +12,7 @@ description: "My point of view about the pros of being outside mainstream social
 ---
 At the beginning of August 2020 I [deleted all my social media accounts](/blog/escape-from-social-media/), except for YouTube. So, how has it been? I never intended to make a living solely through the music I write: my work in sound design and production is in a different business. Had I read [this post by Steve Lawson](https://www.stevelawson.net/2021/08/keeping-your-soul-in-an-algorithmic-world/) post in 2019, it would have pushed me to consider a few things. 
 
-Today I don’t judge people that are still juggling with social networks, yet I see any lucubration about how to stay in mainstream social media and save the soul as _plain weird_. I suppose once you’re out you can’t really understand why anyone would want to continue staying locked in — like an ex-smoker.
-
-Having lived through the full experience of being engulfed in social networks, I know what Steve’s talking about. However, after leaving pretty much everything in the last couple of years, including Apple's walled garden, I’ve never felt more liberated and light-weight.
+I don’t judge people that are still juggling with social networks, yet I see any lucubration about how to stay in mainstream social media and save the soul as _plain weird_. I suppose once you’re out you can’t really understand why anyone would want to continue staying locked in — like an ex-smoker. Having lived through the full experience of being engulfed in social networks, I know what Steve’s talking about. However, after leaving pretty much everything in the last couple of years, including Apple's walled garden, I’ve never felt more liberated and light-weight.
 
 ## What happened after I left social media
 
@@ -39,6 +37,6 @@ I now talk to them asynchronously and it feels genuine, real. We have stuff to d
 
 On the other hand, I can’t understand how people actually enjoy having their time, attention and focus snatched by young-white-male-dominated mega corporations. Especially knowing how they make their money through selling personal data, reprogramming the social behaviour of millions while [altering entire democracies](https://en.wikipedia.org/wiki/The_Great_Hack) in the making. I keep asking: what if these soulless machines stopped working? We all remember the fast demise of MySpace; what would happen to that _audience amplifier_? My answer was, and still is: have your own space [on the internet](https://www.onebigfluke.com/2012/07/focusing-on-positives-why-i-have-my-own.html).
 
-### Edit: 10 March 2022
-
-I re-joined [Mastodon](https://mastodon.help/), as an experiment. I did try it in 2017, to no avail. I now immediately understood why everyone says _it's not Twitter_. It sure feels like a totally different space.
+<aside class="warning">
+  <p><strong>Edit, 10 March 2022</strong>. I re-joined <a href="https://mastodon.help/">Mastodon</a>, as an experiment. I did try it in 2017, to no avail. I now immediately understood why everyone says <em>it's not Twitter</em>. It sure feels like a totally different space.</p>
+</aside>

@@ -15,25 +15,25 @@ description: "In 12 months I’ve managed to revolutionize my workflow, twice. P
 ---
 In this series, I describe eight major benefits that REAPER brought to my music production workflow, and how they pushed me toward a full switch from Pro Tools.
 
-<div class="warning">
-  <p><mark><strong>Part 1</strong></mark></p>
+<aside class="warning">
+  <p><mark>Part 1</mark></p>
   <ol>
     <li>Cost</li>
     <li>Multi-platform</li>
     <li>A different workflow</li>
   </ol>
-  <p><strong><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/">Part 2</a></strong></p>
+  <p><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-2/">Part 2</a></p>
   <ol>
     <li>Customization</li>
     <li>Community</li>
     <li>Stock plug-ins</li>
   </ol>
-  <p><strong><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-3/">Part 3</a></strong></p>
+  <p><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-3/">Part 3</a></p>
   <ol>
     <li>Open architecture &amp; development cycle</li>
     <li>Efficiency</li>
   </ol>
-</div>
+</aside>
 
 ### Disclaimer
 
@@ -61,7 +61,8 @@ Now, with my subscription about to expire, and irritated by the idea of another 
 
 Over the past ten years, I’ve been following several professionals who switched to REAPER by Cockos. Moreover, during my recent rekindling with game audio, I’ve discovered that REAPER has become a [_de facto_ standard in that industry](https://www.reddit.com/r/GameAudio/comments/4wpqtt/why_is_reaper_recommended_so_much_for_game_audio/).
 
-{% include pattern-video.html id="F2KuotvUaQU" title="One of many videos about REAPER in game audio" %}
+{% include pattern-video.html provider="yewtu.be" id="F2KuotvUaQU" title="One of many videos about REAPER in game audio" %}
+[_If you prefer, watch the video on YouTube_](https://youtu.be/F2KuotvUaQU){: target="_blank" }
 
 After the Wwise certification, learning REAPER was next in my pipeline. I thought: let’s try it now, and see if it can successfully replace Pro Tools and save me some money too.
 
@@ -69,36 +70,20 @@ After the Wwise certification, learning REAPER was next in my pipeline. I though
 
 Initially, I was seriously attracted by two factors. In order of importance:
 
+{: .list-hr }
 - The open architecture, which leads to endless customization possibilities and translates to efficiency.
 - Cockos’ business model.
 
 REAPER is not free. The trial lasts for two months, after which the software keeps working anyway, fully functional. As Cockos says: it’s _up to your conscience_. No iLok, no authentication required. If you use the software, pay for it. They trust you to do the good thing. As a matter of fact, I tried it for about a week: that’s how long it took me to decide. There are two tiers available: _discounted_ and _commercial_, depending on how you use it — a very sensible distinction.
 
-<table>
-  <tr>
-    <th scope="col">License</th>
-    <th scope="col">Description</th>
-    <th scope="col">Cost</th>
-  </tr>
-  <tr>
-    <td>Discounted</td>
-    <td>You are an individual, and REAPER is only for your personal use, or you are an individual or business using REAPER commercially, and yearly gross revenue does not exceed USD $20,000, or you are an educational or non-profit organization.</td>
-    <td><code><strong>$60</strong></code></td>
-  </tr>
-  <tr>
-    <td>Commercial</td>
-    <td>Every other case.</td>
-    <td><code><strong>$225</strong></code></td>
-  </tr>
-</table>
+| License    | Description                                                  | Cost   |
+| ---------- | ------------------------------------------------------------ | ------ |
+| Discounted | You are an individual, and REAPER is only for your personal use, or you are an individual or business using REAPER commercially, and yearly gross revenue does not exceed USD $20,000, or you are an educational or non-profit organization. | `$60`  |
+| Commercial | Every other case.                                            | `$225` |
 
-**Each license includes two major releases**. For instance, I bought it now, at v6.x, which gives me free updates until v7.99 included. To put things in perspective, Logic Pro X costs `€199`, _no exceptions_.
+**Each license includes two major releases**. For instance, I bought it now, at v6.x, which gives me free updates until v7.99 included. To put things in perspective, Logic Pro X costs `€199`, _no exceptions_. With REAPER’s discounted tier, it takes 6 major releases to reach the amount of money Apple charges. That [could translate to many years](https://en.wikipedia.org/wiki/REAPER#Version_history).
 
-With REAPER’s discounted tier, it takes 6 major releases to reach the amount of money Apple charges. That [could translate to many years](https://en.wikipedia.org/wiki/REAPER#Version_history).
-
-I won’t go down the rabbit hole of Avid’s pricing policy. As a frame of reference, Pro Tools regular is `€340` per year (including VAT). Avid also offers a “perpetual” license at `€682`: it doesn’t include all the goodies reserved to subscribers, it only comes with one year of updates and it’s so well hidden in the website I suspect they’ll remove it sooner or later. 
-
-Just consider this: over the average years it takes REAPER to release two full major updates, I would have spent up to `€3400` on Pro Tools alone. Pandemic or not, I seriously struggle to see why would I want to pay that much money when I can do the same things with a different software.
+I won’t go down the rabbit hole of Avid’s pricing policy. As a frame of reference, Pro Tools regular is `€340` per year (including VAT). Avid also offers a “perpetual” license at `€682`: it doesn’t include all the goodies reserved to subscribers, it only comes with one year of updates and it’s so well hidden in the website I suspect they’ll remove it sooner or later. Just consider this: over the average years it takes REAPER to release two full major updates, I would have spent up to `€3400` on Pro Tools alone. Pandemic or not, I seriously struggle to see why would I want to pay that much money when I can do the same things with a different software.
 
 ## Benefit 2: Multi-platform
 
@@ -139,6 +124,7 @@ As for pretty much everything in REAPER, a track can be created in three ways: d
 Drag an audio file, whether mono, stereo or multichannel, and the track accepts it; do the same by dropping a MIDI file. It also doesn’t care if the audio files are at different sample rates. Later, you can decide if it has to be mono or stereo, assign outputs and/or sends and whatnot. Also, and this is utterly cool: I can have a mono audio, a stereo (or surround) audio and a MIDI sequence all in one track:
 
 ![A track in REAPER holding a MIDI part, together with stereo and mono audio recordings]({{ site.url }}/assets/images/daw-reaper-multi-track-scaled.jpg){: width='1200' height='378' }
+_Reaper is track-type agnostic_
 
 It’s a different metaphor, and it leads to a whole new workflow. It’s become an unbelievably efficient timesaver to me. Reproducing all my Logic or Pro Tools templates, including creating groups of track presets first, only took a few minutes.
 
@@ -165,7 +151,8 @@ The routing matrix window can be used to apply elaborated signal flows to the wh
 
 Finally, it goes to the master output which holds meter readings. In addition, I have my external DAC for headphones, routed to output 7-8 of my interface. I can do all this _in seconds_, as demonstrated by Kenny Gioia in the following video:
 
-{% include pattern-video.html id="oAfF6lNlMQk" title="Kenny Gioia is THE man" %}
+{% include pattern-video.html provider="yewtu.be" id="oAfF6lNlMQk" %}
+[_If you prefer, watch the video on YouTube_](https://youtu.be/oAfF6lNlMQk){: target="_blank" }
 
 ### Grouping
 

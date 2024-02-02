@@ -1,5 +1,5 @@
 ---
-title: '‘Love Field’ video: the JFK assassination'
+title: '‘Love Field’ music video'
 date: '2019-11-18'
 last_modified_at: '2021-11-12 23:20:26'
 tags:
@@ -20,7 +20,8 @@ description: 'Cheering crowds greet the President at Love Field, the Dallas airp
 ---
 November 1963. A warm weather greets the President when he lands at _Love Field_. Following the motorcade, I fantasise about waving at Jack and Jackie, or leaning over the window of a sixth floor, or being Abraham Zapruder, standing still while everything changes.
 
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .cta .highlight }
+{: .cta }
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .highlight }
 
 <video controls src="{{ site.url }}/assets/videos/music-video-love-field.mp4"
   poster="{{ site.url }}/assets/videos/music-video-love-field.jpg"
@@ -33,20 +34,15 @@ If you prefer, [watch the video on YouTube](https://youtu.be/oTR5ZJQdRXM){: targ
 
 ## Credits
 
-### Performed by
+Dan Ecclestone
+: vocals
 
-**Dan Ecclestone**\
-vocals
+Paolo Clementi
+: guitars, viola
 
-**Paolo Clementi**\
-guitars, viola
-
-**Simone Silvestroni**\
-bass, piano, synth, strings, drums, sound effects
+Simone Silvestroni
+: bass, piano, synth, strings, drums, sound effects
 
 ## Production
 
-Written, produced and mixed by Simone Silvestroni / Mastered by [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd) / Video by [Silvia Maggi](https://silviamaggidesign.com) / Management by Christopher Carvalho of [Unlock Your Sound Ltd](https://unlockyoursound.com/).
-
-{: .small }
-&copy; 2019 Simone Silvestroni
+Written, produced and mixed by Simone Silvestroni / Mastered by [Ian Shepherd](https://en.wikipedia.org/wiki/Ian_Shepherd) / Video by [Silvia Maggi](https://silviamaggidesign.com) / Management by Christopher Carvalho of [Unlock Your Sound Ltd](https://unlockyoursound.com/) / &copy;&nbsp;2019 Simone Silvestroni.

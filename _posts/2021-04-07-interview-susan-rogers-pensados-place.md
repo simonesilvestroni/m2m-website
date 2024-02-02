@@ -9,12 +9,14 @@ description: "The amazing episode of Pensado’s Place with Susan Rogers had bee
 ---
 I’ve listened to her in awe. In particular, regarding two points:
 
+{: .list-hr }
 - The importance of using panning to make the most of our perception of music, by exploiting the different way our brain processes sounds. I love how both Pensado and Trawick reacted to it.
 - The crucial role that _non-musicians producers_ can have on the global vision of a song.
 
 I strongly advise you to watch the entire interview — it’s slightly over 45 minutes, while the ‘core’ of the discussion is probably around half an hour. Skip to around `3'08"` for the proper part to start.
 
-{% include pattern-video.html id="AJExXyVSdUs" %}
+{% include pattern-video.html provider="yewtu.be" id="AJExXyVSdUs" %}
+[_If you prefer, watch the video on YouTube_](https://youtu.be/AJExXyVSdUs){: target="_blank"}
 
 ## Who is Susan Rogers
 

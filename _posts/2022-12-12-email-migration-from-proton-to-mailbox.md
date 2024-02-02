@@ -17,7 +17,7 @@ A nice plus of the migration is that I'm going to save around €20 per year: mo
 
 ## The process
 
-The following has been carried out on macOS 10.14.
+<aside class="warning"><p><strong>Note</strong>: the following was done on macOS 10.14.</p></aside>
 
 After getting the gist of how the various services and settings work in my new Mailbox account, I've added €3 to become a paying customer. I like this formula, as it leaves me free to fully experiment for a while without committing to an annual payment yet.
 

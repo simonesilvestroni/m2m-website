@@ -39,6 +39,7 @@ Ultimately, this preliminary work is all about finding out the best way to deliv
 
 The more technical aspect of the assessment is obtaining the source material. Sometimes clients send just a rough mix of the track in a single audio file. In this case, I need to have some information:
 
+{: .list-hr }
 - The BPM of the song.
 - The SMPTE and `fps` settings in their DAW project. I need to import the rough mix in my session and avoid audio drifting because of synchronisation issues.
 
@@ -48,6 +49,7 @@ Depending on the client’s level of expertise, I might need to point out a few 
 
 Since I’ve been working with Gerald for a while, we’ve already established a routine. He sends a Logic Pro session with the following:
 
+{: .list-hr }
 - Markers. Although optional, it's a great visual help to quickly scan the song structure.
 - MIDI virtual instruments bounced to audio.
 - Audio rendered with all his plug-ins processing already applied.
@@ -97,12 +99,12 @@ After switching the track view to `Analysis`, excessive transients that might ha
 
 In case I decide to go for an automated process, I never go beyond an 82% clean-up. I prefer to _retain the human factor_ with my playing. In the video below, you can see a single automatic audio quantize to a specific small selection played as triplets, and a couple of notes adjusted.
 
+Finally, I switch elastic audio to `X-Form`. As a high-quality process, it is a _rendering-only mode_. The result is always satisfying to my ears. Once again, I commit the audio to a new track, and hide/disable the source.
+
 <video controls src="{{ site.url }}/assets/videos/producing-bass-tracks-remotely-editing.mp4"
   width="1024">
   Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/producing-bass-tracks-remotely-editing.mp4">download it</a> and watch it with your favorite video player.
 </video>
-
-Finally, I switch elastic audio to `X-Form`. As a high-quality process, it is a _rendering-only mode_. The result is always satisfying to my ears. Once again, I commit the audio to a new track, and hide/disable the source.
 
 ## Stage 5: Mix
 

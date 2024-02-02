@@ -21,7 +21,6 @@ thumbOnly: true
   Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/eclipse-method-sinik.mp4">download it</a> and watch it with your favorite video player.
 </video>
 
-{: .small }
 If you prefer, [listen to the song on YouTube](https://youtu.be/D0mFNEwirGg){: target="_blank"}, or on [Spotify](https://open.spotify.com/track/3Ydz49mYSfJ122pCf9PQrd?si=772cd61e061f47cd){: target="_blank"}
 
 ## Production notes
@@ -30,14 +29,11 @@ _Eclipse_ is a new single, part of a different batch of new releases, where I up
 
 ## Credits
 
-### Performed by
+Lenny Nathan Frumento
+: drums, samples, percussion
 
-**Lenny Nathan Frumento**\
-music, production
+Simone Silvestroni
+: bass, samples
 
-**Simone Silvestroni**\
-bass, production, mix, master
-
-{: .small }
-&copy; 2019 Lenny Nathan Frumento\
-℗ 2019 Minutes to Midnight (sound recording copyright)
+### Production
+Produced by Lenny Nathan Frumento and Simone Silvestroni / Mixed and mastered by Simone Silvestroni / &copy;&nbsp;2019 Lenny Nathan Frumento / ℗&nbsp;2019 Minutes to Midnight (sound recording copyright).

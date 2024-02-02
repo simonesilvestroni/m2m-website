@@ -22,26 +22,21 @@ description: 'The new single released by Antiquity, featuring the guitar work of
 
 ## Credits
 
-### Performed by
+Dan Ecclestone
+: vocals and melody
 
-**Dan Ecclestone**\
-vocals and melody
+Gerald Duchene
+: instrumentation
 
-**Gerald Duchene**\
-instrumentation
+Angelo Zarra
+: lead guitar
 
-**Angelo Zarra**\
-lead guitar
+Simone Silvestroni
+: bass
 
-**Simone Silvestroni**\
-bass
-
-**Matisse Duchene**\
-trumpet
+Matisse Duchene
+: trumpet
 
 ### Production
 
-Written, produced and mixed by Gerald Duchene / Mastered By Chris Pavey.
-
-{: .small }
-<br>&copy; 2022 Gerald Duchene.
+Written, produced and mixed by Gerald Duchene / Mastered By Chris Pavey / &copy; 2022 Gerald Duchene

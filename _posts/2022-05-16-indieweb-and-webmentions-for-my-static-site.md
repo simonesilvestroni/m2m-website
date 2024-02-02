@@ -140,9 +140,7 @@ A list of microformats classes I've been using in my pages and posts:
 
 I chose to only support webmentions in the form of *replies* and *likes*, and avoid turning my personal website into a social media feed, which is too noise for me. To send replies and likes I’ve been using a different type of post, called _notes_, a [common format](https://indieweb.org/note). My notes layout is a shrinked version of a blog post. It only features an `<article>` element containing the same microformats, with a logic condition to check for the presence of either a `replyto` or a `likeof` parameter.
 
-I can quickly create a note, fill-in the required original URL of the post and the name of the person I'm interacting with, and write my response. In case I’m responding to someone who mentioned me from their blog, I also quote my original post, so that my comment would also appear on my site as a reply to the previous mention.
-
-Advantages of using a note to send a reply webmention:
+I can quickly create a note, fill-in the required original URL of the post and the name of the person I'm interacting with, and write my response. In case I’m responding to someone who mentioned me from their blog, I also quote my original post, so that my comment would also appear on my site as a reply to the previous mention. Advantages of using a note to send a reply webmention:
 
 {: .list-hr }
 - Quick workflow.
@@ -167,7 +165,7 @@ I monitor incoming webmentions using an RSS feed provided by `webmention.io`. Th
 
 I subsequently dropped `webmentions.js`, which removed all comments from my posts. I still get notified of new mentions, and read them in my feed reader. Moreover, my site can still send them — however, I wanted to stop perpetuating any ego-boosting behaviour on the internet (number of replies, likes, reposts). In my opinion, these things don't add valuable insights to a blog post. On the other hand, _private communication_ does. I don't mind how other people show my replies on their websites, but I prefer to keep mine quiet. The decision allowed me to completely remove javascript from the codebase, which was something I wanted to achieve.
 
-<div class="warning">
+<aside class="warning">
   <h3>Useful articles</h3>
   <ul class="list-hr">
     <li><a href="https://aaronparecki.com/2018/06/30/11/your-first-webmention"><em>Sending your First Webmention from Scratch</em></a>, by Aaron Parecki</li>
@@ -178,8 +176,7 @@ I subsequently dropped `webmentions.js`, which removed all comments from my post
     <li><a href="https://vincentp.me/articles/2018/11/14/20-00/"><em>Implementing the IndieWeb on a static website</em></a>, by Vincent Pickering</li>
     <li><a href="https://brainbaking.com/post/2021/05/beyond-webmention-io/"><em>Host your own webmention receiver</em></a>, by Wouter Groeneveld</li>
   </ul>
-
-</div>
+</aside>
 
 ## Results
 
@@ -194,7 +191,7 @@ Webmentions[^4] pushed me towards the concept of a [small web](https://benhoyt.c
 </ul>
 
 [^1]: [_Webmentions: Enabling Better Communication on the Internet_](https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet/), published 19 July 2018.
-[^2]: See my article [Escape from social media]({{ site.url }}/blog/escape-from-social-media/) and the follow-up [Life after social networks]({{ site.url }}/blog/life-after-social-networks/).
-[^3]: See also: [https://davidyat.es/2019/06/24/indieweb/#implementation-pain-points](https://davidyat.es/2019/06/24/indieweb/#implementation-pain-points).
+[^2]: See my article [_Escape from social media_]({{ site.url }}/blog/escape-from-social-media/) and the follow-up [_Life after social networks_]({{ site.url }}/blog/life-after-social-networks/).
+[^3]: See also [this post by David Yates](https://davidyat.es/2019/06/24/indieweb/#implementation-pain-points).
 [^4]: A list of tools and people who are using webmentions can be [found on the IndieWeb wiki](https://indieweb.org/Webmention).
 [^5]: There are other types of webmention: [repost](https://indieweb.org/repost), [RSVP](https://indieweb.org/rsvp), [bookmark](https://indieweb.org/bookmark), [follow](https://indieweb.org/follow) — but I don’t use them.
