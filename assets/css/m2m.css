@@ -36,7 +36,7 @@
 :root {
 	--sans-font: 'IBMplexSans', system-ui, sans-serif;
 	--sans-system: system-ui, sans-serif;
-	--serif-font: 'Iowan Old Style', 'Palatino', 'URW Palladio L', P052, serif;
+	--serif-font: 'Iowan Old Style', 'Palatino', 'URW Palladio L', P052, 'Georgia', serif;
 	--mono-font: "SF Mono", SFMono-Regular, ui-monospace, "DejaVu Sans Mono", Menlo, Consolas, monospace;
 	--standard-border-radius: 6px;
 	--double-border-radius: 12px;
