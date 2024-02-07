@@ -2,6 +2,13 @@
  * $WEBFONTS
  * -------------------------------- */
 @font-face {
+	font-family: 'SFmono';
+	src: url('/assets/fonts/sfmono-regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
 	font-family: 'IBMplexSans';
 	src: url('/assets/fonts/ibm_plexsans-regular.woff2') format('woff2');
 	font-weight: normal;
@@ -22,13 +29,6 @@
 	font-style: normal;
 	font-display: swap;
 }
-@font-face {
-	font-family: 'IBMplexSans';
-	src: url('/assets/fonts/ibm_plexsans-bolditalic.woff2') format('woff2');
-	font-weight: bold;
-	font-style: italic;
-	font-display: swap;
-}
 
 /* -------------------------------- *\
  * $VARIABLES
@@ -37,7 +37,7 @@
 	--sans-font: 'IBMplexSans', system-ui, sans-serif;
 	--sans-system: system-ui, sans-serif;
 	--serif-font: 'Iowan Old Style', 'Palatino', 'URW Palladio L', P052, 'Georgia', serif;
-	--mono-font: "SF Mono", SFMono-Regular, ui-monospace, "DejaVu Sans Mono", Menlo, Consolas, monospace;
+	--mono-font: 'SFmono', SFMono-Regular, ui-monospace, "DejaVu Sans Mono", Menlo, Consolas, monospace;
 	--standard-border-radius: 6px;
 	--double-border-radius: 12px;
 	--navspacer-large: 2rem;
@@ -127,8 +127,7 @@ body {
 	grid-template-columns: 1fr min(42rem, 90%) 1fr;
 	grid-template-rows: auto 1fr auto;
 	color: var(--text);
-	font-size: 1.25rem;
-	line-height: 1.45;
+	font-size: 1.2rem;
 	min-height: 100vh;
 	margin: 0;
 	border-top: 1px solid var(--extra-bg);
@@ -193,6 +192,7 @@ h1:after {
 	}
 }
 h1, h2, h3, h4, h5, h6 {
+	font-family: var(--sans-font);
 	font-weight: normal;
 	line-height: 1.3;
 	color: var(--text-headings);
@@ -243,6 +243,7 @@ h5, h6 {
  * -------------------------------- */
 nav[aria-label="Main navigation"], 
 nav[aria-label="Secondary navigation"] {
+	font-family: var(--mono-font);
 	font-variant: small-caps;
 	text-transform: lowercase;
 	color: var(--text);
@@ -259,11 +260,10 @@ nav[aria-label="Secondary navigation"] ul {
 nav[aria-label="Main navigation"] ul li {
 	line-height: 32px;
 }
-nav[aria-label="Main navigation"] a,
-nav[aria-label="Main navigation"] a:visited {
+nav[aria-label="Main navigation"] a {
 	display: inline-block;
-	font-size: 1.3rem;
-	font-weight: bold;
+	font-size: 1.1rem;
+/*	font-weight: bold;*/
 	text-decoration: none;
 }
 @media (min-width: 768px) {
@@ -271,16 +271,14 @@ nav[aria-label="Main navigation"] a:visited {
 	nav[aria-label="Secondary navigation"] ul {
 		column-gap: var(--navspacer-large);
 	}
-	nav[aria-label="Main navigation"] a,
-	nav[aria-label="Main navigation"] a:visited {
-		font-size: 1.5rem;
-		letter-spacing: 2px;
+	nav[aria-label="Main navigation"] a {
+		font-size: 1.3rem;
+		letter-spacing: 1px;
 	}
 }
-nav[aria-label="Secondary navigation"] a,
-nav[aria-label="Secondary navigation"] a:visited {
+nav[aria-label="Secondary navigation"] a {
 	display: inline-block;
-	font-size: 1.3rem;
+	font-size: 1.2rem;
 	letter-spacing: 1px;
 }
 nav[aria-label="Main navigation"] a:hover,
@@ -293,15 +291,14 @@ nav[aria-label="Secondary navigation"] a:hover {
 nav[aria-label="Secondary navigation"] ul li {
 	line-height: 2;
 }
-nav[aria-label="Project navigation"] a,
-nav[aria-label="Project navigation"] a:visited {
+nav[aria-label="Project navigation"] a {
 	display: inline-block;
 	color: var(--text);
 }
 /* selected item in navigation
    ------------------------------ */
 .current {
-	font-weight: bolder;
+/*	font-weight: bolder;*/
 	color: var(--nav-active) !important;
 	text-decoration: underline !important;
 	text-decoration-thickness: 3px !important;
@@ -356,7 +353,7 @@ abbr[title] {
 	transition: text-decoration-color, 0.5s;
 }
 .e-content .cta {
-	margin: 2rem 0;
+	margin: 1rem 0;
 	text-indent: 0;
 }
 .cta-nospace {
@@ -403,7 +400,7 @@ abbr[title] {
 .pagination span:first-child {
 	display: block;
 	font-size: smaller;
-	font-weight: bold;
+/*	font-weight: bold;*/
 	text-transform: lowercase;
 	color: var(--accent);
 	margin-bottom: 6px;
@@ -618,8 +615,10 @@ p {
 /* tldr and summaries
    ------------------------------ */
 p.p-summary {
+	font-family: var(--serif-font);
+	font-size: larger;
+	line-height: 1.5;
 	padding: 0 0 1rem 0;
-	font-size: 120%;
 }
 @media (min-width: 768px) {
 	p.p-summary {
@@ -640,6 +639,7 @@ article .e-content .last-update p {
 	margin-top: 1rem;
 }
 time {
+	font-family: var(--mono-font);
 	font-size: 70%;
 }
 /* taxonomy
@@ -711,7 +711,7 @@ article header time a {
 }
 article .e-content p {
 	margin: 0;
-	line-height: 1.6;
+	line-height: 1.65;
 	hyphens: auto;
 }
 article .e-content p+p {
@@ -719,6 +719,7 @@ article .e-content p+p {
 }
 article .e-content p:has(img),
 article .e-content p:has(img)+p,
+article .e-content p:has(a.notice-cta),
 article .e-content p.sound-design-categories {
 	text-indent: 0;
 }
@@ -779,6 +780,7 @@ details[open] > :last-child {
    ------------------------------ */
 main ul {
 	list-style: none;
+	line-height: 1.6;
 	padding-left: 1.2rem;
 }
 main ul li:before {
@@ -805,7 +807,11 @@ ul.h-feed li:hover {
 }
 ul.h-feed li a {
 	display: inline-block;
+	text-decoration-thickness: 1px;
 	width: 100%;
+}
+ul.h-feed li a:hover {
+	text-decoration-thickness: 3px;
 }
 ul.h-feed li time {
 	padding-left: 2rem;
@@ -819,6 +825,7 @@ dt {
 	margin: 4rem 0 0.5rem 0;
 }
 dd {
+	line-height: 1.6;
 	margin-top: 0.5rem;
 	margin-bottom: 1rem;
 }
@@ -1234,13 +1241,13 @@ pre span {
 /* post author
    ------------------------------ */
 .p-author {
-	display: block;
 	font-size: smaller;
 	margin-bottom: 2.5rem;
 }
 .p-author img {
-	float: left;
-	margin-right: 0.5rem;
+	vertical-align: middle;
+	margin-top: 0;
+	margin-right: 0.3rem;
 	border-radius: 30em;
 }
 /* exception for the homepage */
