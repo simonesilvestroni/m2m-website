@@ -16,8 +16,8 @@ permalink: /blog/
 	<ul class="h-feed">
   {%- endif %}
 		<li>
-			<time class="dim" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d&nbsp;%b&nbsp;%Y" }}</time>
-			<a href="{{ site.url }}{{ post.url }}" title="{{ post.description | strip_html }}">{{ post.title }}{% if post.tags contains "sound project" %}&nbsp;<mark class="small">Sound&nbsp;project</mark>{% elsif post.tags contains "dev project" %}&nbsp;<mark class="small">Dev&nbsp;project</mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;<mark class="small">Favourite</mark>{% endif %}</a>
+			<time class="dim" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d&nbsp;%b" }}</time>
+			<a href="{{ site.url }}{{ post.url }}" title="{{ post.description | strip_html }}">{{ post.title }}{% if post.tags contains "sound project" %} <mark class="small">Sound&nbsp;project</mark>{% elsif post.tags contains "dev project" %}&nbsp;<mark class="small">Dev&nbsp;project</mark>{% endif %}{% if post.tags contains "featured" %}<mark class="small">Favourite</mark>{% endif %}</a>
 		</li>
 	{%- if forloop.last -%}
 	</ul>
