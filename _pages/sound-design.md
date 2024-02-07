@@ -22,28 +22,28 @@ permalink: /sound-design/
 Browse a selection of relevant case studies by:<br>{% for item in site.data.nav-work-sound.menu %}[{{ item.name }}]({{ item.link }}) {% unless forloop.last %} {% endunless %}{% endfor %}
 
 <section class="h-feed">
-	<h2 id="sound-design"><strong>Sound design</strong></h2>
+	<h2 id="sound-design">Sound design</h2>
 	{%- for post in SoundDesign %}
 	{% include pattern-casestudy.html %}
 	{% endfor %}
 </section>
 
 <section class="h-feed">
-	<h2 id="music-production"><strong>Music production</strong></h2>
+	<h2 id="music-production">Music production</h2>
 	{%- for post in MusicProduction %}
 	{% include pattern-casestudy.html %}
 	{% endfor %}
 </section>
 
 <section class="h-feed">
-	<h2 id="original-music"><strong>Original music</strong></h2>
+	<h2 id="original-music">Original music</h2>
 	{%- for post in OriginalMusic %}
 	{% include pattern-casestudy.html %}
 	{% endfor %}
 </section>
 
 <section class="h-feed">
-	<h2 id="bass"><strong>Bass</strong></h2>
+	<h2 id="bass">Bass</h2>
 	{%- for post in Bass %}
 	{% include pattern-casestudy.html %}
 	{% endfor %}
