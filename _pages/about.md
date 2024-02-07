@@ -20,7 +20,7 @@ While my small-town boy introversion can be challenging in a raucous world, it h
 
 After graduating from music school, I acquired production chops as a resident bass player and studio assistant during the 1990s. Attracted by tiny villages and metropolis alike, I moved to the big city, where I worked as a print designer and editor to fund my music activities. Seeing web design as a natural evolution of the publishing industry, I built my first website in 1997.
 
-Shortly after, I received an invite for a job interview with a company that was looking for a web developer who could also understand design. As they were starting production on a platform video game, I [landed the double role of sound and web designer]({{ site.url }}/blog/joining-playstos/), bringing my duality to a full circle.
+Shortly after, I received an invite for a job interview with a company that was looking for a web developer who could also understand design. As they were starting production on a platform video game, I [landed the double role of sound and web designer]({{ site.url }}/blog/joining-playstos/), bringing my duality to a full circle.<br><br>
 
 {: .cta .notice-cta }
 [Recent work as a **sound designer**&nbsp;&rarr;]({{ site.url }}/sound-design/)
