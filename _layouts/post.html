@@ -25,7 +25,7 @@ layout: default
 	</div>
 	<footer>
 		<p>{% for tag in page.tags -%}<a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}"><span><code>{{ tag | upcase }}</code></span></a>{% endfor -%}</p>
-		<p><a href="mailto:{{ site.author.email }}?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a> or send a <a href="https://indieweb.org/Webmention">webmention</a>.{%- if page.syndication == true %} Syndicated to {% for item in page.syndicate -%}<a href="{{ item.url }}">{{ item.name }}</a>{%- unless forloop.last %}, {% endunless -%}{% endfor -%}{% endif -%}.</p>
+		<p><a href="mailto:{{ site.author.email }}?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a> or send a <a href="https://indieweb.org/Webmention">webmention</a>.{%- if page.syndication == true %} Syndicated to {% for item in page.syndicate -%}<a class="u-syndication" href="{{ item.url }}">{{ item.name }}</a>{%- unless forloop.last %}, {% endunless -%}{% endfor -%}{% endif -%}.</p>
 	</footer>
 </article>
 <div class="pagination">
