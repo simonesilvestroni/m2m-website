@@ -3,6 +3,8 @@ title: 'A Kafkaesque digital relationship with ourselves'
 date: '2024-02-07 23:44:53'
 last_modified_at: '2024-02-07 23:44:59'
 tags:
+  - 'featured'
+  - 'indieweb'
   - 'internet'
   - 'personal'
 description: 'Words are crucial to build a sense of online community, however many of us have been using them straight out of a soulless corporate lingo in order to sell ourselves as a product.'
