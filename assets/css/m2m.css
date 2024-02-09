@@ -1257,6 +1257,8 @@ pre span {
 	margin-bottom: 0;
 }
 .h-card .p-author img {
+	float: left;
+	margin-top: 1rem;
 	margin-right: 1.5rem;
 }
 /* case studies
