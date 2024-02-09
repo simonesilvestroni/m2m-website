@@ -21,7 +21,7 @@ Leaving the corporate web is not enough. Refusing to follow *influencers* with t
 
 > I’m Simone, a seasoned web developer and sound designer with over 25 years of experience. 
 
-I can’t stress this enough: defining myself through job roles, awards, or the fact that I might be a public speaker, is good for a resume. Anywhere else, it becomes deeply uninspiring and *uninteresting*. That is what I might be doing for a living right now, but it doesn't represents who I am as a person with values, interests and priorities. Even Mastodon is choke-full of this type of profile description. Why, in a small independent social network, do so many folks use this crap marketing lingo as if they were walking LinkedIn adverts?
+I can’t stress this enough: defining myself through job roles, awards, or the fact that I might be a public speaker, is good for a resume. Anywhere else, it becomes deeply uninspiring and *uninteresting*. That is what I might be doing for a living right now, but it doesn't represent who I am as a person with values, interests and priorities. Even Mastodon is choke-full of this type of profile description. Why, in a small independent social network, do so many folks use this crap marketing lingo as if they were walking LinkedIn adverts?
 
 Blaming any social media, corporate or not, for creating this situation is flatly wrong. In [a short post wrote two decades ago]({{ site.url }}/blog/years-just-pass-by/) I had passive-aggressively complained about bloggers in a pre-Facebook era. It sounded a lot like I was talking about modern influencers, or pseudo *thought leaders*:
 
