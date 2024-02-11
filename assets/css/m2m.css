@@ -1252,6 +1252,7 @@ pre span {
 }
 /* exception for the homepage */
 .h-card .p-author {
+	font-family: var(--serif-font);
 	font-size: inherit;
 	margin-top: 3rem;
 	margin-bottom: 0;
