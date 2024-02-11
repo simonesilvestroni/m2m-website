@@ -19,7 +19,7 @@ description: "In 12 months I’ve managed to revolutionize my workflow, twice. P
     <li>Multi-platform</li>
     <li>A different workflow</li>
   </ol>
-  <p><mark>Part 2</mark></p>
+  <p><span class="highlight">Part 2</span></p>
   <ol>
     <li>Customization</li>
     <li>Community</li>

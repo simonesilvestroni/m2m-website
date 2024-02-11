@@ -48,8 +48,8 @@ A pun over an [old tune by Vera Lynn](https://youtu.be/4Zj-XYQ21qE) intertwined 
 
 The contrast between the Christmas carol-like music of the final section, and this flatly delivered horrifying declaration is chilling.
 
-{: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .highlight }
+{: .cta .notice-cta }
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/)
 
 ## Credits
 
@@ -66,6 +66,7 @@ Simone Silvestroni
 : bass, drums, sound effects
 
 ### Footage
+
 Prelinger Archive / U.S. Army / Barbed wire design by freepik.com.
 
 ### Production

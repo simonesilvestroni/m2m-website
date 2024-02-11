@@ -14,7 +14,7 @@ tags:
   - 'sound design'
   - 'video games'
   - 'sound project'
-description: "As the audio team leader, I created and implemented sound effects and an adaptive soundtrack, bootstrapping the audio for the PlayStation2 video game ‘Ruff Trigger’."
+description: "As the audio team leader, I created and implemented sound effects and an adaptive soundtrack, bootstrapping the audio for the PlayStation2 video game <em>Ruff Trigger: The Vanocore Conspiracy</em>."
 featimage: true
 featimage-name: 'ruff-trigger-playstation2-video-game.jpg'
 featimage-alt: Ruff Trigger game cover

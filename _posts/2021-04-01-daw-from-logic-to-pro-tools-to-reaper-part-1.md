@@ -16,7 +16,7 @@ description: "In 12 months I’ve managed to revolutionize my workflow, twice. P
 In this series, I describe eight major benefits that REAPER brought to my music production workflow, and how they pushed me toward a full switch from Pro Tools.
 
 <aside class="warning">
-  <p><mark>Part 1</mark></p>
+  <p><span class="highlight">Part 1</span></p>
   <ol>
     <li>Cost</li>
     <li>Multi-platform</li>

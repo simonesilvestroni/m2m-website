@@ -17,10 +17,7 @@ tags:
   - 'video'
 description: 'The Cuban crisis of 1962. President Kennedy announces proof of a build-up of Soviet missiles on the island. The world is one step from nuclear war.'
 ---
-The threat of a pre-emptive strike to America is real, as the level of military readiness is set to DEFCON 2. _13 Days_ is a single from the concept album [_After 1989: A Trip To Freedom_]({{ site.url }}/blog/after-1989/), released 9 November 2019.
-
-{: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .highlight }
+The threat of a pre-emptive strike to America is real, as the level of military readiness is set to DEFCON 2. _13 Days_ is a single from the concept album [_After 1989: A Trip To Freedom_]({{ site.url }}/blog/after-1989/), released 9 November 2019.<br><br>
 
 <video controls src="{{ site.url }}/assets/videos/music-video-13-days.mp4"
   poster="{{ site.url }}/assets/videos/music-video-13-days.jpg"

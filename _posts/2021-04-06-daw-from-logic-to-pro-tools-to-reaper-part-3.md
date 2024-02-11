@@ -25,7 +25,7 @@ description: "In 12 months I’ve managed to revolutionize my workflow, twice. P
     <li>Community</li>
     <li>Stock plug-ins</li>
   </ol>
-  <p><mark>Part 3</mark></p>
+  <p><span class="highlight">Part 3</span></p>
   <ol>
     <li>Open architecture &amp; development cycle</li>
     <li>Efficiency</li>

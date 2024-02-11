@@ -20,8 +20,8 @@ description: 'Cheering crowds greet the President at Love Field, the Dallas airp
 ---
 November 1963. A warm weather greets the President when he lands at _Love Field_. Following the motorcade, I fantasise about waving at Jack and Jackie, or leaning over the window of a sixth floor, or being Abraham Zapruder, standing still while everything changes.
 
-{: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .highlight }
+{: .cta .notice-cta }
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/)
 
 <video controls src="{{ site.url }}/assets/videos/music-video-love-field.mp4"
   poster="{{ site.url }}/assets/videos/music-video-love-field.jpg"

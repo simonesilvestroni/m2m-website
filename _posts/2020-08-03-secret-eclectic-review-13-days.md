@@ -36,4 +36,5 @@ Happy to see how my choice to publish a concept album in the streaming era did n
 > We ask artists what they would change in the music industry. An answer we often get is that bands, for reasons that relate to promotion, no longer release full albums. Minutes to Midnight released a full album. A concept album. We recommend listening to it in its entirety.
 > <cite>Secret Eclectic</cite>
 
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .cta .highlight }
+{: .cta .notice-cta }
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/)
