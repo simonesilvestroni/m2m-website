@@ -2,13 +2,6 @@
  * $WEBFONTS
  * -------------------------------- */
 @font-face {
-	font-family: 'SFmono';
-	src: url('/assets/fonts/sfmono-regular.woff2') format('woff2');
-	font-weight: normal;
-	font-style: normal;
-	font-display: swap;
-}
-@font-face {
 	font-family: 'IBMplexSans';
 	src: url('/assets/fonts/ibm_plexsans-regular.woff2') format('woff2');
 	font-weight: normal;
@@ -29,6 +22,27 @@
 	font-style: normal;
 	font-display: swap;
 }
+@font-face {
+	font-family: 'Lora';
+	src: url('/assets/fonts/lora-regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Lora';
+	src: url('/assets/fonts/lora-italic.woff2') format('woff2');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Lora';
+	src: url('/assets/fonts/lora-bold.woff2') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
 
 /* -------------------------------- *\
  * $VARIABLES
@@ -36,7 +50,7 @@
 :root {
 	--sans-font: 'IBMplexSans', system-ui, sans-serif;
 	--sans-system: system-ui, sans-serif;
-	--serif-font: 'Iowan Old Style', 'Palatino', 'URW Palladio L', P052, 'Georgia', serif;
+	--serif-font: 'Lora', 'Georgia', serif;
 	--mono-font: 'SFmono', SFMono-Regular, ui-monospace, "DejaVu Sans Mono", Menlo, Consolas, monospace;
 	--standard-border-radius: 6px;
 	--double-border-radius: 12px;
@@ -113,7 +127,7 @@ progress {
 	-moz-appearance: none;
 }
 html {
-	font-family: var(--sans-font);
+	font-family: var(--serif-font);
 	scroll-behavior: smooth;
 	background: var(--body) url('/assets/images/dirt.png');
 	background-repeat: no-repeat;
@@ -163,12 +177,11 @@ main {
  * $FOOTER
  * -------------------------------- */
 body > footer {
-	font-size: 1.25rem;
+	font-family: var(--sans-font);
+	font-size: smaller;
+	line-height: 1.6;
 	color: var(--text-light);
 	padding: 1.5rem 0;
-}
-body > footer {
-	font-size: smaller;
 }
 
 /* -------------------------------- *\
@@ -243,7 +256,7 @@ h5, h6 {
  * -------------------------------- */
 nav[aria-label="Main navigation"], 
 nav[aria-label="Secondary navigation"] {
-	font-family: var(--mono-font);
+	font-family: var(--sans-font);
 	font-variant: small-caps;
 	text-transform: lowercase;
 	color: var(--text);
@@ -262,8 +275,8 @@ nav[aria-label="Main navigation"] ul li {
 }
 nav[aria-label="Main navigation"] a {
 	display: inline-block;
-	font-size: 1.1rem;
-/*	font-weight: bold;*/
+	font-size: 1.2rem;
+	font-weight: bold;
 	text-decoration: none;
 }
 @media (min-width: 768px) {
@@ -272,13 +285,13 @@ nav[aria-label="Main navigation"] a {
 		column-gap: var(--navspacer-large);
 	}
 	nav[aria-label="Main navigation"] a {
-		font-size: 1.3rem;
+		font-size: 1.5rem;
 		letter-spacing: 1px;
 	}
 }
 nav[aria-label="Secondary navigation"] a {
 	display: inline-block;
-	font-size: 1.2rem;
+	font-size: 1.4rem;
 	letter-spacing: 1px;
 }
 nav[aria-label="Main navigation"] a:hover,
@@ -298,7 +311,7 @@ nav[aria-label="Project navigation"] a {
 /* selected item in navigation
    ------------------------------ */
 .current {
-/*	font-weight: bolder;*/
+	font-weight: bold;
 	color: var(--nav-active) !important;
 	text-decoration: underline !important;
 	text-decoration-thickness: 3px !important;
@@ -337,6 +350,7 @@ abbr[title] {
    ------------------------------ */
 .cta,
 .notice-cta {
+	font-family: var(--sans-font);
 	font-size: smaller;
 	text-transform: uppercase;
 	letter-spacing: 2px;
@@ -368,23 +382,12 @@ abbr[title] {
 	text-decoration-thickness: 4px;
 	transition: text-decoration-color, 0.5s;
 }
-.sound-design-categories a {
-	font-size: smaller;
-	font-weight: 700;
-	text-transform: uppercase;
-	padding-right: 10px;
-}
-.sound-design-categories a:after {
-	display: inline-block;
-	content: '↓';
-	font-weight: normal;
-	padding-left: 4px;
-}
 /* pagination
    ------------------------------ */
 .pagination,
 .bottom-links {
 	display: flex;
+	font-family: var(sans-serif);
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
@@ -399,8 +402,9 @@ abbr[title] {
 }
 .pagination span:first-child {
 	display: block;
+	font-family: var(--sans-font);
 	font-size: smaller;
-/*	font-weight: bold;*/
+	font-weight: bold;
 	text-transform: lowercase;
 	color: var(--accent);
 	margin-bottom: 6px;
@@ -639,7 +643,7 @@ article .e-content .last-update p {
 	margin-top: 1rem;
 }
 time {
-	font-family: var(--mono-font);
+	font-family: var(--sans-font);
 	font-size: 70%;
 }
 /* taxonomy
@@ -647,6 +651,7 @@ time {
 a.p-category {
 	display: inline-block;
 	text-transform: lowercase;
+	font-size: 140%;
 	font-variant: small-caps;
 	text-decoration: none;
 	line-height: 2.5;
@@ -662,14 +667,6 @@ a.p-category:hover span {
 	border: 2px solid var(--text-light);
 	transition: border, 0.3s;
 }
-/*a.p-category:after {
-	display: inline-block;
-	content: '/';
-	padding: 0 4px 0 8px;
-	font-size: larger;
-	font-weight: normal;
-	color: var(--border);
-}*/
 /* footnotes
    ------------------------------ */
 .footnote {
@@ -719,6 +716,7 @@ article .e-content p+p {
 }
 article .e-content p:has(img),
 article .e-content p:has(img)+p,
+article .e-content p:has(.notice-cta)+p,
 article .e-content p:has(a.notice-cta),
 article .e-content p.sound-design-categories {
 	text-indent: 0;
@@ -730,6 +728,8 @@ article .e-content video+p {
 	margin: 0.5rem 0 1.5rem 0;
 }
 article footer {
+	font-family: var(--sans-font);
+	font-size: smaller;
 	margin: 3rem 0;
 	padding: 1.5rem 0;
 }
@@ -949,18 +949,17 @@ blockquote {
 	border-left: 2px solid var(--border);
 }
 blockquote p {
-	font-family: var(--serif-font);
 	color: var(--text-light);
 	margin: 0;
 }
 cite {
 	display: block;
-	font-family: var(--serif-font);
 	font-size: 90%;
 	font-style: normal;
-	font-variant: small-caps;
+/*	font-variant: small-caps;*/
 	text-indent: 0;
-	text-transform: lowercase;
+	text-transform: uppercase;
+	letter-spacing: 1px;
 	color: var(--extra-bg);
 	margin-top: 1rem;
 }
@@ -1241,6 +1240,7 @@ pre span {
 /* post author
    ------------------------------ */
 .p-author {
+	font-family: var(--sans-font);
 	font-size: smaller;
 	margin-bottom: 2.5rem;
 }
@@ -1343,7 +1343,4 @@ audio {
    ------------------------------ */
 .indieweb {
 	margin-top: 2rem;
-}
-.indieweb a {
-	font-variant: small-caps;
 }
