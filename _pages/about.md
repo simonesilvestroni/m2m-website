@@ -12,7 +12,7 @@ Leading a quiet life in a time where noise, toxic controversy and anger have bec
 
 I don’t contribute to this hive mind mentality, especially the one fuelled by corporations destroying personal privacy while [exploiting vanity-driven human weaknesses]({{ site.url }}/blog/life-after-social-networks/). I also stay away from the 24/7 ‘breaking’ news circus.
 
-I’ve expanded on these topics in [**`/personal-manifesto`**]({{ site.url }}/personal-manifesto/).
+I’ve expanded on these topics in [`/personal-manifesto`]({{ site.url }}/personal-manifesto/).
 
 ## What I do
 
@@ -32,4 +32,4 @@ Shortly after, I received an invite for a job interview with a company that was 
 
 I care about accessibility, [sustainability]({{ site.url }}/blog/tag/sustainability/), the environment. The recent renaissance of what is now called the *small web* pushed me to [redesign my site and join the IndieWeb movement]({{ site.url }}/blog/website-minutes-to-midnight/).
 
-As part of the process, I have a [**`/now`**]({{ site.url }}/now/) page where I write down the things I'm involved with at the moment, a [**`/links`**]({{ site.url }}/links/) page which is what years ago would have been called *Blogroll*, and a [**`/uses`**]({{ site.url }}/uses/) page, with a list of the tools I use.
+As part of the process, I have a [`/now`]({{ site.url }}/now/) page where I write down the things I'm involved with at the moment, a [`/links`]({{ site.url }}/links/) page which is what years ago would have been called *Blogroll*, and a [`/uses`]({{ site.url }}/uses/) page, with a list of the tools I use.
