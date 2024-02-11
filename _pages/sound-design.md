@@ -18,9 +18,12 @@ permalink: /sound-design/
 
 [For more: **comprehensive resume**&nbsp;&rarr;](https://sound.minutestomidnight.co.uk){: .notice-cta }
 
-{: .sound-design-categories }
-Browse a selection of relevant case studies by:<br>{% for item in site.data.nav-work-sound.menu %}[{{ item.name }}]({{ item.link }}) {% unless forloop.last %} {% endunless %}{% endfor %}
-
+Browse a selection of relevant case studies by:
+<ul>
+	{%- for item in site.data.nav-work-sound.menu %}
+	<li><a href="{{ item.link }}">{{ item.name }}</a></li>
+	{%- endfor %}
+</ul>
 <section class="h-feed">
 	<h2 id="sound-design">Sound design</h2>
 	{%- for post in SoundDesign %}
