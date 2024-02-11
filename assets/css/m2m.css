@@ -927,6 +927,8 @@ mark,
 	background: linear-gradient(90deg, rgba(var(--marked), 0) 0, rgba(var(--marked), 0.75) 5%, rgba(var(--marked), 0.25) 95%, rgba(var(--marked), 0) 100%);
 }
 mark {
+	font-family: var(--sans-font);
+	font-weight: bold;
 	font-variant: small-caps;
 	text-transform: lowercase;
 	padding: 2px 12px;
@@ -1332,6 +1334,7 @@ audio {
 .audioplayer span {
 	display: block;
 	float: left;
+	font-family: var(--sans-font);
 	font-size: smaller;
 	font-weight: bold;
 	margin-top: -2rem;
