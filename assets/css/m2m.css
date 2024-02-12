@@ -49,7 +49,6 @@
  * -------------------------------- */
 :root {
 	--sans-font: 'IBMplexSans', system-ui, sans-serif;
-	--sans-system: system-ui, sans-serif;
 	--serif-font: 'Lora', 'Georgia', serif;
 	--mono-font: 'SFmono', SFMono-Regular, ui-monospace, "DejaVu Sans Mono", Menlo, Consolas, monospace;
 	--standard-border-radius: 6px;
@@ -387,7 +386,7 @@ abbr[title] {
 .pagination,
 .bottom-links {
 	display: flex;
-	font-family: var(sans-serif);
+	font-family: var(--sans-font);
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
