@@ -6,7 +6,7 @@ layout: none
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="{{ site.lang }}">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
+    <description>A gen X with a straight to the point attitude, I gravitate around duality. Using a mix of instinct and academic learning, I juggle between art and technology in equal measure. Based in Cambridge (UK), I work in web design and sound production.</description>
     <link>{{ site.url }}</link>
     <language>{{ site.lang }}</language>
     <copyright>{{ site.url }}/credits/#copyright</copyright>

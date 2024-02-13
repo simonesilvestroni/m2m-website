@@ -3,7 +3,7 @@ layout: page
 title: 'About'
 date: '2022-01-14'
 last_modified_at: '2024-02-11 19:24:23'
-description: 'Based in Cambridge (UK), I’m a gen X with a straight to the point attitude. Gravitating around duality, I use a mix of instinct and academic learning to juggle between art and technology in equal measure.'
+description: 'A gen X with a straight to the point attitude, I gravitate around duality. Using a mix of instinct and academic learning, I juggle between art and technology in equal measure. Based in Cambridge (UK), I work in web design and sound production.'
 permalink: /about/
 ---
 ## What I stand for
