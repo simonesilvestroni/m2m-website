@@ -24,8 +24,8 @@ layout: default
 		{{ content }}
 	</div>
 	<footer>
-		<p>{% for tag in page.tags -%}<a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}"><span>{{ tag | upcase }}</span></a>{% endfor -%}</p>
-		<p><a href="mailto:{{ site.author.email }}?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a> or send a <a href="https://indieweb.org/Webmention">webmention</a>.<span class="visually-hidden">{%- if page.syndication == true %} Syndicated to {% for item in page.syndicate -%}<a class="u-syndication" href="{{ item.url }}">{{ item.name }}</a>{%- unless forloop.last %}, {% endunless -%}{% endfor -%}.{% endif -%}</span></p>
+		{% for tag in page.tags -%}<a class="p-category" href="/blog/tag/{{ tag | slugify | append: '/' }}"><span>{{ tag | upcase }}</span></a>{% endfor -%}
+		<p class="reply"><a href="mailto:{{ site.author.email }}?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a> or send a <a href="https://indieweb.org/Webmention">webmention</a><span class="visually-hidden"><br>{%- if page.syndication == true %} Syndicated to {% for item in page.syndicate -%}<a class="u-syndication" href="{{ item.url }}">{{ item.name }}</a>{%- unless forloop.last %}, {% endunless -%}{% endfor -%}.{% endif -%}</span></p>
 	</footer>
 </article>
 <div class="pagination">
