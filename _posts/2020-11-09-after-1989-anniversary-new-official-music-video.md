@@ -32,8 +32,7 @@ If you prefer, [watch the video on YouTube](https://youtu.be/r9NyAYXOnyk){: targ
 
 31 years ago East Germany opened the Berlin Wall, symbolising the end of decades of Cold War between East and West. This song depicts the starting point, the dark days of August 1961 when Berlin was cut in half. It’s also my homage to a brother, Michele, who played the drums in the song. I lost him around the same day, almost twenty years ago.
 
-{: .cta .notice-cta }
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/)
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .cta .notice-cta }
 
 ## Credits
 
