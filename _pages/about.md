@@ -20,14 +20,15 @@ After graduating from music school, I acquired production chops as a resident ba
 
 Shortly after, I received an invite for a job interview with a company that was looking for a web developer who could also understand design. As they were starting production on a platform video game, I [landed the double role of sound and web designer]({{ site.url }}/blog/joining-playstos/), bringing my duality to a full circle.<br><br>
 
-{: .cta .notice-cta }
-[Recent work as a **sound designer**&nbsp;&rarr;]({{ site.url }}/sound-design/)
+[Recent work as a **sound designer**&nbsp;&rarr;]({{ site.url }}/sound-design/){: .cta .notice-cta }
 
-{: .cta .notice-cta }
-[Recent work as a **web designer**&nbsp;&rarr;]({{ site.url }}/web-design/)
+[Recent work as a **web designer**&nbsp;&rarr;]({{ site.url }}/web-design/){: .cta .notice-cta }
 
 ## More
 
 I care about accessibility, [sustainability]({{ site.url }}/blog/tag/sustainability/), the environment. The recent renaissance of what is now called the *small web* pushed me to [redesign my site and join the IndieWeb movement]({{ site.url }}/blog/website-minutes-to-midnight/).
 
 As part of the process, I have a [`/now`]({{ site.url }}/now/) page where I write down the things I'm involved with at the moment, a [`/links`]({{ site.url }}/links/) page which is what years ago would have been called *blogroll*, and a [`/uses`]({{ site.url }}/uses/) page, with a list of the tools I use.
+
+![Me in the studio]({{ site.url }}/assets/images/simone-silvestroni-in-the-studio.png)
+_In the studio, recording bass — 2019_

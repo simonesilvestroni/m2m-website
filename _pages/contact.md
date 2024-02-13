@@ -8,11 +8,8 @@ permalink: /contact/
 ---
 Beside this website, I'm active on [Mastodon](https://sonomu.club/@m2m) and [Bandcamp](https://minutestomidnight.bandcamp.com/follow_me), and have an account on {% for item in site.data.nav-elsewhere.menu -%}{% if forloop.last %} and {% endif %}[{{ item.name }}]({{ item.link }}){% unless forloop.last %}, {% endunless %}{% endfor -%}.
 
-<div class="warning">
-	<h2>Work with me?</h2>
-	<p>
-		Music-wise, I’m <a href="https://soundbetter.com/profiles/206552-simone-silvestroni">available on SoundBetter</a>, a safe and secure platform for freelance musicians. For anything else, <a href="mailto:{{ site.author.email }}">reach out via email</a>.<br><br>
-		<a class="cta notice-cta" href="{{ site.url }}/sound-design/">Recent work as a <strong>sound designer</strong>&nbsp;&rarr;</a>
-		<a class="cta notice-cta" href="{{ site.url }}/web-design/">Recent work as a <strong>web designer</strong>&nbsp;&rarr;</a>
-	</p>
-</div>
+## Work with me?
+
+Music-wise, I’m [available on SoundBetter](https://soundbetter.com/profiles/206552-simone-silvestroni), a safe and secure platform for freelance musicians. For anything else, [reach out via email](mailto:{{ site.author.email }}). 
+
+Check out my [recent work as a **sound designer**]({{ site.url }}/sound-design/) and my [recent work as a **web designer**]({{ site.url }}/web-design/).

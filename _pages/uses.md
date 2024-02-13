@@ -1,169 +1,53 @@
 ---
 layout: page
-title: 'My setup'
+title: 'Uses'
 date: '2021-11-08 10:54:03'
-last_modified_at: '2024-01-12 19:02:51'
+last_modified_at: '2024-02-13 01:02:56'
 description: "Specifics about the hardware and software equipment I use. The page is part of the <a href='https://uses.tech'>uses.tech</a> project."
 permalink: /uses/
 ---
-## Hardware
+## On the desk
 
-<table>
-	<tr>
-		<th>Computer</th>
-		<td>2015 MacBook Pro i7 running macOS Sonoma</td>
-	</tr>
-	<tr>
-		<th>Computer accessories</th>
-		<td>27-in Dell screen, Apple Magic Keyboard 2, Logitech M350 Pebble mouse, Razer Deathadder gaming mouse</td>
-	</tr>
-	<tr>
-		<th>Mobile</th>
-		<td>iPhone SE (2nd gen) running iOS 17, Xiaomi Redmi Note 7 running Android 13 (custom ROM)</td>
-	</tr>
-</table>
+The **desk** is a Quik-Lok Z-250 _Triple Shelf Workstation_, bought in London in 2011. A maxed out Mid-2015 **MacBook Pro i7 running macOS Sonoma** is connected to an Apple Magic Keyboard 2, a Logitech M350 Pebble mouse, and a 27-in Dell screen. Several external drives are connected to an Anker USB hub. An **Audient iD14 audio interface** feeds a Yamaha HS5 pair of speakers, while a Novation Launchkey Mini MkII serves as my main MIDI controller (a Korg Micro KEY 66 and a Behringer X-Touch One are also available). I work a lot with headphones, which are the Ollo S4X, and the Sony MDR-7506.
 
-## Music equipment
+## Devices
 
-<table>
-	<tr>
-		<th>Bass</th>
-		<td>Warwick Thumb bass (1991), Fretless Fender Jazz bass, both fed to a Tech 21 Sansamp Bass Driver v2</td>
-	</tr>
-	<tr>
-		<th>Guitars</th>
-		<td>Fender Stratocaster, Cort acoustic</td>
-	</tr>
-	<tr>
-		<th>Audio interface</th>
-		<td>Audient iD14, with a dedicated FX-Audio DAC</td>
-	</tr>
-	<tr>
-		<th>Speakers</th>
-		<td>Yamaha HS5</td>
-	</tr>
-	<tr>
-		<th>Headphones</th>
-		<td>Ollo S4X, Sony MDR-7506</td>
-	</tr>
-	<tr>
-		<th>MIDI controllers</th>
-		<td>Novation Launchkey Mini MkII, Korg Micro KEY 66, Behringer X-Touch One</td>
-	</tr>
-	<tr>
-		<th>Microphones</th>
-		<td>Shure SM58, Røde NT5 condenser matched pair with SB20 stereo bar, Thomann SC 1100 studio large diaphragm mic</td>
-	</tr>
-	<tr>
-		<th>Field recording</th>
-		<td>Zoom H5, Ulanzy mini tripod MT-08, Movo shock mount, Zoom XY stereo mic, Zoom SSH-6 mid-side stereo shotgun mic, Telephone pick-up coil mic, Korg contact microphone CM-300</td>
-	</tr>
-</table>
+An **iPhone SE (2019)** running the latest iOS has my UK number, and it's my daily rider. An iPhone SE (1st gen) running iOS 15 has my Italian number, while my old Xiaomi Redmi Note 7 running a custom ROM with the latest Android 13 is used to manage Italian bureaucracy on behalf of my parents. I read ebooks with a **2015 Kobo Glo**.
 
-## Audio software
+## Music instruments
 
-<table>
-	<tr>
-		<th><abbr title="Digital Audio Workstation">DAW</abbr></th>
-		<td><a href="{{ site.url }}/blog/tag/reaper/">REAPER 7</a>, Logic Pro 10.8, Pro Tools 12.5, Reason 8</td>
-	</tr>
-	<tr>
-		<th>Audio editors</th>
-		<td>iZotope RX 6 Standard, iZotope Ozone 9 advanced, Zynaptiq Triumph</td>
-	</tr>
-	<tr>
-		<th>Audio utilities</th>
-		<td>Zynaptiq Myriad, Stereo Monoizer</td>
-	</tr>
-	<tr>
-		<th>Virtual instruments</th>
-		<td>Kilohearts Phase Plant, XLN Addictive Drums, XLN Addictive Keys, Tonsturm Whoosh 1.5.4, Radical Piano, Waves Flow Motion FM, Decidedly Decent Sampler, Waldorf Streichfett, Vital, Decomposer Sitala, Air XPand! 2, EastWest Hollywood Strings Gold</td>
-	</tr>
-	<tr>
-		<th>Plug-ins</th>
-		<td>Soundtoys v5.4, Tokyo Dawn (NOVA, Limiter 6 GE, Kotelnikov GE, Slick EQ GE, Slick EQ Mastering), Waves v13, Kilohearts Snap Heap, Voxengo (SPAN plus, TEOTE), Klanghelm (VUMT deluxe, MJUC vari-mu compressor), AudioThing Fog Convolver, McDSP Compressors Bank, Celemony Melodyne 5</td>
-	</tr>
-	<tr>
-		<th>Game audio</th>
-		<td>Audiokinetic Wwise, FMOD studio, Unity</td>
-	</tr>
-</table>
+An Hercules AGS Tri-guitar stand holds my **Warwick Thumb bass** (1991), the Fender Jazz fretless bass (2014), and a Fender Stratocaster. Both basses are fed to a Tech 21 Sansamp Bass Driver v2.
 
-## Video software
+## Audio equipment
 
-<table>
-	<tr>
-		<th>Players</th>
-		<td><a href="https://iina.io/">IINA</a>, VLC</td>
-	</tr>
-	<tr>
-		<th>Utilities</th>
-		<td><a href="https://github.com/yt-dlp/yt-dlp"><code>yt-dlp</code></a>, LosslessCut, Handbrake</td>
-	</tr>
-</table>
+In my **field recording** bag I have a Zoom H5, Ulanzy mini tripod MT-08, Movo shock mount, Zoom XY stereo mic, Zoom SSH-6 mid-side stereo shotgun mic, Telephone pick-up coil mic, Korg contact microphone CM-300. Moreover, a Shure SM58, Røde NT5 condenser matched pair with SB20 stereo bar, Thomann SC 1100 studio large diaphragm microphone.
 
-## Editing and code
+## Software
 
-<table>
-	<tr>
-		<th>Image editors</th>
-		<td>Affinity Designer, Affinity Photo, Sketch (legacy), Graphic Converter 12, ImageOptim</td>
-	</tr>
-	<tr>
-		<th>Text editors</th>
-		<td><a href="https://tonsky.me/blog/sublime/">Sublime Text 4</a>, iA Writer, Typora, Visual Studio Code (for <code>C#</code> Unity projects)</td>
-	</tr>
-	<tr>
-		<th>Packages</th>
-		<td>Homebrew</td>
-	</tr>
-</table>
+### Audio
 
-## Internet
+I use a ton of software for audio, design and code, however, I'm only going to list the essential tools. My main **Digital Audio Workstation** is [REAPER 7]({{ site.url }}/blog/tag/reaper/), but I occasionally use Logic Pro 10.8 and Reason 8. iZotope RX 6 Standard is still my go-to for **audio editing and restoration**.
 
-<table>
-	<tr>
-		<th>Browser</th>
-		<td>Safari (primary), Firefox, Ungoogled Chromium and Lynx (web dev testing)</td>
-	</tr>
-	<tr>
-		<th>Email</th>
-		<td>Mail.app, Thunderbird</td>
-	</tr>
-</table>
+**Audio plug-ins** that I use regularly include iZotope Ozone 9 Advanced, Soundtoys, Waves, Tokyo Dawn, XLN Addictive Drums and Keys, Voxengo, Kilohearts, Klanghelm, AudioThing.
 
-## Reading
+For **video game** authoring, I use Audiokinetic Wwise and Unity.
 
-<table>
-	<tr>
-		<th>RSS</th>
-		<td><a href="https://inessential.com/2023/02/20/on_not_taking_money_for_netnewswire">NetNewsWire</a></td>
-	</tr>
-	<tr>
-		<th>Read later</th>
-		<td>Reeder 5</td>
-	</tr>
-	<tr>
-		<th>E-reader</th>
-		<td>Kobo Glo (2015)</td>
-	</tr>
-</table>
+### Code
 
-## Management
+[Sublime Text 4](https://tonsky.me/blog/sublime/), iA Writer, Typora, Visual Studio Code (for `C#` Unity projects). I use macOS' native Terminal, Kaleidoscope 2 for git conflicts/merge, and Sublime Merge. Packages are managed with Homebrew.
 
-<table>
-	<tr>
-		<th>To-do</th>
-		<td>Plain text to-do using any text editor, as a companion to pen and paper</td>
-	</tr>
-	<tr>
-		<th>File synchronisation</th>
-		<td><a href="https://syncthing.net/">Syncthing</a>, Transmit, Commander One</td>
-	</tr>
-	<tr>
-		<th>Backup</th>
-		<td>Carbon Copy Cloner</td>
-	</tr>
-</table>
+### Design
 
-[**How I Use The Internet**&nbsp;→](/blog/how-i-use-internet/){: .cta .highlight }
+The Affinity suite (Designer, Photo, Publisher), Sketch (legacy projects), Graphic Converter 12, ImageOptim, Figma if needed.
+
+### Internet
+
+Safari has once again become my primary. I also use Firefox for dev work, Ungoogled Chromium and Lynx for dev testing. My RSS reader is [NetNewsWire](https://inessential.com/2023/02/20/on_not_taking_money_for_netnewswire), while I reopened my account with Instapaper for reading later lists.
+
+### Video
+
+[IINA](https://iina.io/), VLC, [`yt-dlp`](https://github.com/yt-dlp/yt-dlp), LosslessCut, Handbrake.
+
+### Other
+
+To synchronise files between devices I rely on [Syncthing](https://syncthing.net/), Transmit, and Commander One. My backup workflow is managed using Carbon Copy Cloner.
