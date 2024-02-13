@@ -29,6 +29,7 @@
 :root {
 	--sans-font: system-ui, 'IBMplexSans', system-ui, sans-serif;
 	--serif-font: 'Lora', 'Georgia', serif;
+	--serif-font-headings: 'Iowan Old Style', 'Lora', 'Georgia', serif;
 	--mono-font: 'SFmono', SFMono-Regular, ui-monospace, "DejaVu Sans Mono", Menlo, Consolas, monospace;
 	--standard-border-radius: 6px;
 	--double-border-radius: 12px;
@@ -158,7 +159,7 @@ body > footer {
 	font-family: var(--sans-font);
 	font-size: smaller;
 	text-align: center;
-	line-height: 1.65;
+	line-height: 1.7;
 	color: var(--text-light);
 	padding: 1.5rem 0;
 }
@@ -167,14 +168,13 @@ body > footer {
  * $HEADINGS
  * -------------------------------- */
 h1 {
-	font-size: 2.1rem;
+	font-size: 1.8rem;
 	margin-top: 0; 
 	margin-bottom: 3rem;
 }
 h1:after {
 	content: '.';
 	color: #AAA55F;
-	font-weight: bold;
 	padding-left: 4px;
 }
 @media (min-width: 768px) {
@@ -184,9 +184,8 @@ h1:after {
 	}
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family: var(--serif-font);
-	font-weight: normal;
-	line-height: 1.4;
+	font-family: var(--serif-font-headings);
+	line-height: 1.6;
 	color: var(--text-headings);
 	overflow-wrap: break-word;
 }
@@ -195,14 +194,14 @@ h2, h3, h4, h5, h6 {
 	margin-bottom: 2rem;
 }
 h2 {
-	font-size: 1.7rem;
+	font-size: 1.5rem;
 }
 .h-feed h2 {
 	margin-top: 1rem;
 }
 h3 {
-	font-weight: bold;
-	font-size: 1.45rem;
+	font-weight: normal;
+	font-size: 1.4rem;
 	color: var(--accent);
 }
 h4 {
@@ -215,16 +214,16 @@ h4, h5, h6 {
 	font-size: 1.4rem;
 	font-variant: small-caps;
 	text-transform: lowercase;
-	letter-spacing: 2px;
+	letter-spacing: 1px;
 }
 h5, h6 {
 	font-style: italic;
 }
 /* reduce header size on mobile */
 @media only screen and (max-width: 720px) {
-	h1 { font-size: 1.8rem; }
-	h2 { font-size: 1.5rem; }
-	h3 { font-size: 1.4rem; }
+	h1 { font-size: 1.7rem; }
+	h2 { font-size: 1.4rem; }
+	h3 { font-size: 1.3rem; }
 	h4 { font-size: 1.3rem; }
 	h5 { font-size: 1.2rem; }
 	h6 { font-size: 1.15rem; }
@@ -605,7 +604,7 @@ p {
 p.p-summary {
 	font-family: var(--serif-font);
 	font-size: larger;
-	line-height: 1.65;
+	line-height: 1.7;
 	padding: 0 0 1rem 0;
 }
 @media (min-width: 768px) {
@@ -692,7 +691,7 @@ article header time a {
 }
 article .e-content p {
 	margin: 0;
-	line-height: 1.65;
+	line-height: 1.7;
 	hyphens: auto;
 }
 article .e-content p+p {
@@ -765,7 +764,7 @@ details[open] > :last-child {
    ------------------------------ */
 main ul {
 	list-style: none;
-	line-height: 1.6;
+	line-height: 1.7;
 	padding-left: 1.2rem;
 }
 main ul li:before {
@@ -810,7 +809,7 @@ dt {
 	margin: 4rem 0 0.5rem 0;
 }
 dd {
-	line-height: 1.6;
+	line-height: 1.7;
 	margin-top: 0.5rem;
 	margin-bottom: 1rem;
 }
@@ -941,11 +940,12 @@ blockquote p {
 }
 cite {
 	display: block;
+	font-family: var(--serif-font-headings);
 	font-size: 90%;
 	font-style: normal;
-/*	font-variant: small-caps;*/
+	font-variant: small-caps;
 	text-indent: 0;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	letter-spacing: 1px;
 	color: var(--extra-bg);
 	margin-top: 1rem;
@@ -1142,7 +1142,7 @@ pre span {
 .warning h3 {
 	text-transform: lowercase;
 	font-variant: small-caps;
-	letter-spacing: 1px;
+	font-weight: normal;
 }
 .warning h2:first-of-type, 
 .warning h3:first-of-type {
