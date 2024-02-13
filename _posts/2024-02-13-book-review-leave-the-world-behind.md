@@ -1,0 +1,15 @@
+---
+title: 'Book review: ‘Leave the World Behind’'
+date: '2024-02-13 01:53:36'
+last_modified_at: '2024-02-13 01:53:39'
+tags:
+  - 'book'
+description: 'TL;DR — don’t waste your time reading this book.'
+---
+For the first time in many years, I've decided to quit a book I'm reading. Rumaan Alam’s _Leave the World Behind_ is a colossal waste of time that could have been a short novella (40 pages max). I've found the redundant and meandering prose insufferable, hated the unnecessarily overdone descriptions, and found the author’s frequent depictions of genitalia — especially the underage's — creepy, uncalled for, and inappropriate.
+
+I didn't care for any of the hollow characters, couldn't feel any tension for the supposed impending catastrophe, also because the omniscient third person narrator kept disseminating pieces of the mystery without an explanation. I don't know how I managed to read a 70%. A bloated and nonsensical waffling about nothing: a master in tautology by proxy of a Thesaurus.
+
+Now I'm wondering why Sam Esmail decided to work on the [Netflix movie adaptation](https://www.netflix.com/gb/title/81314956). I see how his choices changed things for the (slightly) better. Surely, the absence of the obnoxious third person narrator is a huge plus for the film. The tension is made palpable by introducing events that give a sense of urgency entirely missing in the novel. The swap of Ruth's character, from older wife to young daughter, alter the balance in the relationship between the two families, making the racist overtones of the white adults more prominent. Quite rare for a cinematic adaptation to be much more enjoyable than the original.
+
+Ultimately, the book feels like the author tried to change every word with a 10-dollar equivalent, and since Esmail invented the connection with the TV show _Friends_, I'll end my review with a fitting analogy. When Joey Tribbiani wants to help Chandler and Monica by writing an introductory letter for the adoption agency, he's frustrated by his limited vocabulary. Ross supports him by revealing the existence of a Thesaurus, which prompts Joey to turn the phrase _They're warm, nice people with big hearts_ into: _They're humid, prepossessing Homo sapiens with full-sized aortic pumps_.
