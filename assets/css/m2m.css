@@ -336,7 +336,6 @@ abbr[title] {
 .cta,
 .notice-cta {
 	font-family: var(--sans-font);
-	font-size: smaller;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	text-decoration-thickness: 4px;
@@ -359,6 +358,7 @@ abbr[title] {
 	margin-top: 0;
 }
 .notice-cta {
+	font-size: smaller;
 	margin-top: 2rem;
 }
 .notice-cta:hover {
@@ -1248,9 +1248,8 @@ pre span {
 	margin-bottom: 0;
 }
 .h-card .p-author img {
-	float: left;
-	margin-top: 1rem;
-	margin-right: 1.5rem;
+	display: block;
+	margin: 1rem auto;
 }
 /* case studies
    ------------------------------ */
