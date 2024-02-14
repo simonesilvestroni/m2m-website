@@ -2,14 +2,12 @@
 
 ## About the website
 
-{: .list-hr-group }
 - Handcrafted by Simone Silvestroni using Jekyll 4.3.2, the Liquid template language, and markdown extended. Maintained and updated using Sublime Text, Typora, Alfred macros, and Shortcuts automation.
 - [Valid](https://validator.w3.org/nu/?doc=https%3A%2F%2Fminutestomidnight.co.uk%2F) HTML tagged with [microformats2](https://microformats.org/). [Valid CSS level 3](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fminutestomidnight.co.uk%2Fassets%2Fcss%2Fm2m.min.css&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en), using a custom theme based on [Simple CSS](https://simplecss.org). Part of [IndieWeb](https://indiewebify.me/validate-h-card/?url=https%3A%2F%2Fminutestomidnight.co.uk), the site sends and receives [webmentions](https://indieweb.org/Webmention).
 - Logos and icons in SVG. "Dirt background" image by [Michael Rose](https://mademistakes.com/). The main typeface in use is Lora, with a touch of Iowan and System font. The code repository is on [GitHub](https://github.com/simonesilvestroni/m2m-website), deployed to Netlify.
 
 ## Accessibility and sustainability
 
-{: .list-hr-group }
 - Compliant with the [Web Content Accessibility AAA Guidelines](https://wave.webaim.org/report#/https://minutestomidnight.co.uk/), the current [WAVE accessibility rank](https://webaim.org/projects/million/lookup?domain=minutestomidnight.co.uk): #7,280 of 1,000,000.
 - The homepage loads in less than a second and weighs 63.9KB (86.2KB uncompressed). The entire source is 13.8MB excluding videos. 0.01g of CO<sub>2</sub> is [produced when someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/). Scores 100 on [Ecograder](https://ecograder.com/report/crccbrW1xmYgrNUdrNxEulBa), featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/). Hosting running on sustainable energy. Pagespeed ranking: [mobile](https://pagespeed.web.dev/analysis/https-minutestomidnight-co-uk/36t5kbzrgp?form_factor=mobile) and [desktop](https://pagespeed.web.dev/analysis/https-minutestomidnight-co-uk/36t5kbzrgp?form_factor=desktop).
 
