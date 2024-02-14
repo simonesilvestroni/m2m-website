@@ -623,12 +623,12 @@ body[class*="page-tag"] p.p-summary {
 }
 .last-update {
 	display: inline-block;
+	font-size: smaller;
 	margin-top: 6rem;
 	border-top: 1px solid rgb(var(--cta));
 }
-article .e-content .last-update p {
-	font-size: smaller;
-	margin-top: 1rem;
+.last-update p {
+	padding-top: 1rem;
 }
 time {
 	font-family: var(--sans-font);
@@ -686,10 +686,15 @@ article:last-child {
 }
 article header time {
 	display: inline-block;
-	margin-bottom: 1rem;
+	font-family: var(--serif-font-headings);
 }
 article header time a {
  text-decoration: none;
+}
+article header p+p {
+	font-size: smaller;
+	text-align: center;
+	margin-bottom: 3rem;
 }
 article .e-content p {
 	margin: 0;
@@ -1230,19 +1235,13 @@ pre span {
 /* post author
    ------------------------------ */
 .p-author {
-	font-family: var(--sans-font);
-	font-size: smaller;
-	text-align: center;
-	margin-bottom: 2.5rem;
+	font-family: var(--serif-font-headings);
 }
 .p-author img {
 	vertical-align: middle;
 	margin-top: 0;
 	margin-right: 0.3rem;
 	border-radius: 30em;
-}
-.h-card {
-	text-align: center;
 }
 /* exception for the homepage */
 body.homepage .h-card .p-author {
@@ -1253,7 +1252,7 @@ body.homepage .h-card .p-author {
 }
 body.homepage .h-card .p-author img {
 	display: block;
-	margin: 1rem auto;
+	margin: 2rem auto;
 }
 /* case studies
    ------------------------------ */
