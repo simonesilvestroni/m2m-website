@@ -35,14 +35,10 @@
       picture-in-picture=(self "https://yewtu.be/embed/" "https://www.youtube-nocookie.com/embed/")
     '''
 [[headers]]
-  for = "/img/*"
+  for = "/assets/images/*"
   [headers.values]
-    Cache-Control = "public, max-age=604800"
+    Cache-Control = "public, max-age=31536000"
 [[headers]]
-  for = "/*.css"
-  [headers.values]
-    Cache-Control = "public, max-age=604800"
-[[headers]]
-  for = "/*.js"
+  for = "/assets/css/*.css"
   [headers.values]
     Cache-Control = "public, max-age=604800"
