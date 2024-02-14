@@ -7,5 +7,5 @@ menu:
     link: /blog/
   - name: Contact
     link: /contact/
-  - name: <svg class="logo-rss" width="20px" height="20px" stroke-width="2" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 19C12 14.8 9.2 12 5 12" stroke="#454545" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path><path d="M19 19C19 10.6 13.4 5 5 5" stroke="#454545" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path><path d="M5 19.01L5.01 18.9989" stroke="#454545" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+  - name: <img class="logo-rss" src="/assets/images/rss.svg" alt="RSS" width="20" height="20">
     link: /feed.xml
