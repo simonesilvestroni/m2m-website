@@ -83,7 +83,7 @@
 	}
 	</script>
 </head>
-<body id="top"{% if page.url contains '/blog/tag/' %} class="page-tag"{% endif %}{% if page.url contains 'sound-design' or page.url contains 'web-design' %} class="case-study"{% endif %}>
+<body id="top" class="{% if page.url contains '/blog/tag/' %}page-tag-{% endif %}{{ page.url | split: "/" | last | remove: ".html" }}{% if page.url == "/" %}homepage{% endif %}">
 	<a class="skip-to-content" href="#main">Skip to content</a>
 	<a class="skip-to-footer" href="#footer">Skip to footer</a>
 	<header>
