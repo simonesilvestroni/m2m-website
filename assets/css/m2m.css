@@ -427,12 +427,13 @@ input[type="reset"],
 input[type="button"],
 label[type="button"] {
 	font-variant: small-caps;
+	font-weight: bold;
 	text-transform: lowercase;
 	border: none;
 	border-radius: var(--standard-border-radius);
-	background-color: var(--accent);
+	background-color: var(--text-headings);
 	color: var(--bg);
-	padding: 0.7rem 0.9rem;
+	padding: 0.55rem 1rem;
 	margin: 0.5rem 0;
 }
 button[disabled],
@@ -614,7 +615,7 @@ p.p-summary {
 		padding-right: 3rem;
 	}
 }
-body.page-tag .p-summary {
+body[class*="page-tag"] p.p-summary {
 	text-align: left;
 	font-size: 100%;
 	font-weight: normal;
@@ -1240,23 +1241,28 @@ pre span {
 	margin-right: 0.3rem;
 	border-radius: 30em;
 }
+.h-card {
+	text-align: center;
+}
 /* exception for the homepage */
-.h-card .p-author {
+body.homepage .h-card .p-author {
 	font-family: var(--serif-font);
 	font-size: inherit;
 	margin-top: 3rem;
 	margin-bottom: 0;
 }
-.h-card .p-author img {
+body.homepage .h-card .p-author img {
 	display: block;
 	margin: 1rem auto;
 }
 /* case studies
    ------------------------------ */
-body.case-study .h-feed div {
+body.sound-design .h-feed div,
+body.web-design .h-feed div {
 	position: relative;
 }
-body.case-study .h-feed a {
+body.sound-design .h-feed a,
+body.web-design .h-feed a {
 	position: absolute;
 	display: block;
 	top: 0;
@@ -1266,43 +1272,52 @@ body.case-study .h-feed a {
 	text-indent: -1000rem;
 	z-index: 10;
 }
-body.case-study .h-feed a:hover {
+body.sound-design .h-feed a:hover,
+body.web-design .h-feed a:hover {
 	border: 3px solid var(--deflinkover);
 	border-radius: var(--double-border-radius);
 	transition: border 0.3s;
 }
-body.case-study .h-feed a:visited:hover {
+body.sound-design .h-feed a:visited:hover,
+body.web-design .h-feed a:visited:hover {
 	border: 3px solid var(--deflinkovervisited);
 }
-body.case-study .h-feed div h2 {
+body.sound-design .h-feed div h2,
+body.web-design .h-feed div h2 {
 	font-size: smaller;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
-body.case-study .h-feed div div {
+body.sound-design .h-feed div div,
+body.web-design .h-feed div div {
 	display: flex;
 	align-items: center;
 	gap: 1.5rem;
 	margin-top: 1rem;
 }
-body.case-study .h-feed div p {
+body.sound-design .h-feed div p,
+body.web-design .h-feed div p {
 	flex: 2;
 	margin: 0;
 }
-body.case-study .h-feed div img {
+body.sound-design .h-feed div img,
+body.web-design .h-feed div img {
 	flex-basis: 120px;
 	border-radius: var(--double-border-radius);
 }
 @media only screen and (max-width: 600px) {
-	body.case-study .h-feed div div {
+	body.sound-design .h-feed div div,
+	body.web-design .h-feed div div {
 		flex-wrap: wrap;
 		margin-inline-start: 0;
 	}
-	body.case-study .h-feed div img {
+	body.sound-design .h-feed div img,
+	body.web-design .h-feed div img {
 		flex-basis: 100%;
 		min-width: 100%;
 	}
-	body.case-study .h-feed div p {
+	body.sound-design .h-feed div p,
+	body.web-design .h-feed div p {
 		flex: auto;
 	}
 }
