@@ -99,18 +99,16 @@
 		{{ content }}
 	</main>
 	<footer>
-		<div class="warning">
-			<nav aria-label="Secondary navigation" id="footer">
-				<ul>
-					{% for item in site.data.nav-secondary.menu -%}
-					<li><a{% if page.url contains item.link %} class="current"{% endif %} href="{{ site.url }}{{ item.link }}"{% if item.target == true %} target="_blank"{% endif %}>{{ item.name }}</a></li>
-					{% endfor -%}
-				</ul>
-			</nav>
-			<div class="indieweb">
-				<p><strong>Indieweb webring</strong><br>
-				<a class="dim" href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/previous">← PREVIOUS SITE</a> &middot; <a class="dim" href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/next">NEXT SITE →</a></p>
-			</div>
+		<nav aria-label="Secondary navigation" id="footer">
+			<ul>
+				{% for item in site.data.nav-secondary.menu -%}
+				<li><a{% if page.url contains item.link %} class="current"{% endif %} href="{{ site.url }}{{ item.link }}"{% if item.target == true %} target="_blank"{% endif %}>{{ item.name }}</a></li>
+				{% endfor -%}
+			</ul>
+		</nav>
+		<div class="indieweb">
+			<p><strong>Indieweb webring</strong><br>
+			<a class="dim" href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/previous">← Previous site</a> &middot; <a class="dim" href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/next">Next site →</a></p>
 		</div>
 		<a class="dim" href="#top">&uarr;&nbsp;Back to top</a>
 		<a class="visually-hidden" rel="me" href="https://sonomu.club/@m2m">Follow on Mastodon</a>

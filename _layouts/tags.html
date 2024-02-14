@@ -3,15 +3,16 @@ layout: default
 ---
 <article>
 	<h1 class="p-name">Tag: {{ page.title | capitalize_all }}</h1>
+	<br>
 	<div class="h-feed">
 		{% for post in page.posts %}
 		{%- if post -%}{% assign date = post.date %}
 		{%- elsif page -%}{% assign date = page.date %}
 		{%- endif -%}
-		<time class="dt-published dim" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time>
-		<h2 class="p-name"><a href="{{ post.url }}" title="Read the post ‘{{ post.title }}’">{{ post.title }}</a></h2>
-		<p class="p-summary">{{ post.description | markdownify | strip_html }}</p>
-		<br>
+		<section>
+			<h2 class="p-name"><a href="{{ post.url }}" title="Read the post ‘{{ post.title }}’">{{ post.title }}</a></h2>
+			<p class="p-summary"><time class="dt-published dim small" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated"><span class="highlight">{{ date | date: "%-d %B %Y" }}</span></time> <span class="visually-hidden">-</span> {{ post.description | markdownify | strip_html }}</p>
+		</section>
 		{% endfor %}
 	</div>
 </article>
