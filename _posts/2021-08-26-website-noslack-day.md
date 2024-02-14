@@ -38,7 +38,8 @@ I achieved a blazing fast performance in a modern-looking landing page.
 | ----------- | --------------- | ------------ |
 | 95 KB       | 100             | 0.5 seconds  |
 
-[**Visit an archived version**&nbsp;&rarr;](https://archive.is/20210809134101/https://www.noslackday.org/){: .cta .highlight }
+{: .cta }
+[**Visit an archived version**&nbsp;&rarr;](https://archive.is/20210809134101/https://www.noslackday.org/){: .notice-cta }
 
 ## Skills
 

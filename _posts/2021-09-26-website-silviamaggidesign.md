@@ -44,7 +44,8 @@ Silvia was happy about the ease of use of her new website. My input on adopting 
 | ----------- | --------------- | ------------ |
 | 91.4 KB     | 100             | 0.73 seconds |
 
-[**Visit the live site**&nbsp;&rarr;](https://silviamaggidesign.com/){: .cta .highlight }
+{: .cta }
+[**Visit the live site**&nbsp;&rarr;](https://silviamaggidesign.com/){: .notice-cta }
 
 ## Skills
 

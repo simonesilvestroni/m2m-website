@@ -13,7 +13,7 @@ featimage-caption: Ollo S4X headphones
 featimage-width: 1005
 featimage-height: 892
 ---
-Four days ago another producer brought to my attention a fantastic 24-hours-only 40% discount on the S4X reference headphones by Ollo Audio. I bought them. Several months ago, after reading a tempting professional review of the same model, I opted out because I had different priorities and deemed them unaffordable. 
+Four days ago another producer brought to my attention a fantastic 24-hours-only 40% discount on the [S4X reference headphones by Ollo Audio](https://olloaudio.com/products/s4x-reference-headphones). I bought them. Several months ago, after reading a tempting professional review of the same model, I opted out because I had different priorities and deemed them unaffordable. 
 
 Generally considered as the NS-10 of headphones, for several years the trusted classic Sony MDR-7506 were my go-to. Never had particular issues, except for ear fatigue over long sessions.
 
@@ -38,6 +38,3 @@ Unpacking, test, a bit of technical details and a funny comparison against the S
 ## Conclusions
 
 The amazing discount, coupled with the opportunity of paying in three instalments, made this purchase the best for the year — including 2023 as well.
-
-{: .cta }
-[S4X reference headphones by Ollo Audio&nbsp;&rarr;](https://olloaudio.com/products/s4x-reference-headphones)

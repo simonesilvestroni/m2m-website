@@ -73,7 +73,8 @@ As a long time advocate for [performance as a design feature](https://web.archiv
 | ----------- | --------------- | ------------ |
 | 63.9 KB     | 100             | 0.64 seconds |
 
-[**Check detailed benchmarks**&nbsp;&rarr;](http://localhost:4000/colophon/){: .cta .highlight }
+{: .cta }
+[**Check detailed benchmarks**&nbsp;&rarr;](http://localhost:4000/colophon/){: .notice-cta }
 
 ### Easy maintenance
 

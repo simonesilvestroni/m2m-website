@@ -34,4 +34,5 @@ description: 'YHHTMY podcast selected my song ‘Love Field’ from the album �
 
 If you prefer, [listen to the podcast on YouTube](https://youtu.be/wb2hRjPuU6Y){: target="_blank"}
 
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .cta .notice-cta }
+{: .cta }
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .notice-cta }

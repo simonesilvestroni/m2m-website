@@ -38,4 +38,4 @@ Anyway, considering the expenses derived from the pure production and release pr
 The crucial consideration is: I don't care that I spent more money than what I earned from it. All I wanted was to tell a story in the best possible way I was capable of, hopefully expressing feelings that could resonate with someone else. That I've done. Way more people than I expected [have been enjoying the songs](/blog/new-reviews-after-1989/) and the story to the point of telling it publicly.
 
 {: .cta }
-[Read part 2&nbsp;&rarr;]({{ site.url }}/blog/releasing-an-album-as-an-independent-artist-pt2/)
+[Read part 2&nbsp;&rarr;]({{ site.url }}/blog/releasing-an-album-as-an-independent-artist-pt2/){: .notice-cta }

@@ -125,7 +125,7 @@ By applying this second automation to one of the aforementioned example images, 
 All in all, the automated procedure is quick and efficient. Since I consider blogging a pure _desktop activity_, I'm not worried about writing on mobile devices. Plenty of markdown editors are available on iOS and Android, it would be pretty easy to start drafts on the go, and finalise them later as posts on the computer. As a quicker alternative, I can always go to my git repository, add or edit a post there, commit the changes and wait for Netlify to complete its automated build.
 
 {: .cta }
-[**Watch an old video demo**&nbsp;&rarr;](https://www.youtube.com/watch?v=K0AKv7aIxP8){: .highlight }
+[**Watch an old video demo**&nbsp;&rarr;](https://www.youtube.com/watch?v=K0AKv7aIxP8){: .notice-cta }
 
 ### Future improvements
 

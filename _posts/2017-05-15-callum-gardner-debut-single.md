@@ -40,7 +40,8 @@ The song was mixed and mastered using Logic Pro and Wavelab. Because of some unc
 > 
 > <cite>Callum Gardner</cite>
 
-[**Listen to the song on Spotify**&nbsp;&rarr;](https://open.spotify.com/track/4e2PTyfPfvw9WunM9nG0nT?si=0972153817224ac8){: target="_blank"}{: .cta .highlight }
+{: .cta }
+[**Listen to the song on Spotify**&nbsp;&rarr;](https://open.spotify.com/track/4e2PTyfPfvw9WunM9nG0nT?si=0972153817224ac8){: target="_blank"}{: .notice-cta }
 
 ## Going live
 

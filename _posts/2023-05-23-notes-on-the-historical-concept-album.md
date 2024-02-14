@@ -23,4 +23,5 @@ I strongly suggest to [check his blog out](https://old.starbreaker.org), as it's
 > Even if this wasn’t excellent music, I would still recommend it. As the horrors of the Second World War, the Holocaust, and the all-pervading existential terror of the Cold War fade from living memory, it falls to artists to keep that history alive for future generations lest it be repeated.
 > <cite>Matthew Graybosch</cite>
 
-[**Read the full review**&nbsp;&rarr;](https://old.starbreaker.org/blog/after-1989-trip-to-freedom/index.html){: .cta .highlight }
+{: .cta }
+[**Read the full review**&nbsp;&rarr;](https://old.starbreaker.org/blog/after-1989-trip-to-freedom/index.html){: .notice-cta }

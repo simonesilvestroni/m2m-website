@@ -66,4 +66,5 @@ I would repeat the same steps. Some mistakes are meant to serve a purpose and th
 
 > The album is a day closer to its release date — it’s just 8 days now. Still plenty to do, yet manageable. I realise this story has been with me for three decades, really. I’ve taken steps to distance myself: to me, it’s already released. It’s out of my system, and again: in a peaceful way.
 
-[Read part 1&nbsp;&rarr;]({{ site.url }}/blog/releasing-an-album-as-an-independent-artist-pt1/){: .cta }
+{: .cta }
+[&larr;&nbsp;Read part 1]({{ site.url }}/blog/releasing-an-album-as-an-independent-artist-pt1/){: .notice-cta }

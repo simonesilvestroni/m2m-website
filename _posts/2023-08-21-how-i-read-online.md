@@ -14,7 +14,7 @@ I'm off real-time news: no 'breaking', no 'live reporting'. Instead, I read long
 
 ## RSS feeds
 
-Cutting off the news doesn't mean I don't know what's going on in the world, in fact, I've been using RSS for many years now. [Feedbin](https://feedbin.com/) is my current daily platform where I follow the websites that interest me, organised under the categories:
+Cutting off the news doesn't mean I don't know what's going on in the world, in fact, I've been using RSS for many years now. [Feedbin](https://feedbin.com/) is my current daily platform[^1] where I follow the websites that interest me, organised under the categories:
 
 - Personal blogs.
 - Sound and tech-related websites.
@@ -24,9 +24,6 @@ Cutting off the news doesn't mean I don't know what's going on in the world, in 
 - Notifications of any webmentions that my website might receive.
 - Newsletters, to keep my email clean.
 
-{: .cta }
-[Update: **I stopped using Feedbin**&nbsp;&rarr;]({{ site.url }}/blog/i-stopped-using-feedbin-for-rss/)
-
 ## Pocket
 
 I collect interesting links and videos from various sources (including Feedbin) on [Pocket](https://getpocket.com/), which parses web pages like the well-built _reader view_ in Firefox. There, I have a flexible and efficient routine:
@@ -34,3 +31,5 @@ I collect interesting links and videos from various sources (including Feedbin) 
 - Go through my read list using the in-built filters (video, article, etc).
 - Consume the longest articles [on my Kobo](https://help.kobo.com/hc/en-us/articles/360017763753-Use-the-Pocket-App-with-your-Kobo-eReader), thanks to its Pocket integration. Reading articles on a retro illuminated e-ink device is orders of magnitude better, in my opinion.
 - I also send the most interesting videos from Feedbin to Pocket. By doing so, I never visit YouTube's website, which saves me from both its "social" features and the suggestions algorithm. It's why I have not (yet) deleted the account.
+
+[^1]: Update: [I stopped using Feedbin.]({{ site.url }}/blog/i-stopped-using-feedbin-for-rss/)

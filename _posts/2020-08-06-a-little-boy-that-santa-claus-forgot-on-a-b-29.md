@@ -48,7 +48,8 @@ A pun over an [old tune by Vera Lynn](https://youtu.be/4Zj-XYQ21qE) intertwined 
 
 The contrast between the Christmas carol-like music of the final section, and this flatly delivered horrifying declaration is chilling.
 
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .cta .notice-cta }
+{: .cta }
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .notice-cta }
 
 ## Credits
 

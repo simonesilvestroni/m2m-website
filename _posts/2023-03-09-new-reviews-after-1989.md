@@ -34,4 +34,4 @@ A musical and historical journey with depths.
 I'm very thankful for the lovely feedback, especially for a 4-year-old album.
 
 {: .cta }
-[Read all the album reviews&nbsp;&rarr;](/blog/after-1989-reviews/){: .highlight }
+[Read all the album reviews&nbsp;&rarr;](/blog/after-1989-reviews/){: .notice-cta }
