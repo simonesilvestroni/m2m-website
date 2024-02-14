@@ -5,11 +5,8 @@ last_modified_at: '2024-01-15 20:34:06'
 tags:
   - 'sustainability'
   - 'degrowth'
-tldr: false
-description: 'Quote by Joan Westenberg.'
+description: 'I keep thinking about people who actually agree with the current incarnation of capitalism as members of a <em>growth death cult</em>. Can’t explain it differently.'
 ---
-I keep thinking about people who actually agree with the current incarnation of capitalism as members of a _growth death cult_. Can't explain it differently.
-
 > Let's start with something controversial: Capitalism is not an economic system. It is a philosophical and ideological force that shapes our lives, environment, and perception of humanity.
 > <br><br>
 > It's a behemoth that thrives on relentless growth, often at a devastating cost. Under its reign, we witness the widening chasm of inequality, where the affluent soar on the wings of wealth while the less fortunate are left to the whims of an unforgiving market.
