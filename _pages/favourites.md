@@ -14,7 +14,7 @@ permalink: /blog/favourites/
   {%- elsif page -%}{% assign date = page.date %}
   {%- endif -%}
   <li>
-    <time class="dim" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d&nbsp;%b&nbsp;%Y" }}</time>
+    <time class="dim small" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d&nbsp;%b&nbsp;%Y" }}</time>
     <a href="{{ post.url }}" title="{{ post.description }}">{{ post.title }}</a>
   </li>
   {% endfor %}

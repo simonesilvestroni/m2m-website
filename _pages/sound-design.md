@@ -16,14 +16,17 @@ permalink: /sound-design/
 {% assign OriginalMusic = site.posts | where_exp:'post','post.title contains "Release" and post.tags contains "sound project"' %}
 {% assign Bass = site.posts | where_exp:'post','post.title contains "Bass" and post.tags contains "sound project"' -%}
 
+{: .cta }
 [For more: **comprehensive resume**&nbsp;&rarr;](https://sound.minutestomidnight.co.uk){: .notice-cta }
 
-Browse a selection of relevant case studies by:
-<ul class="list-hr">
-	{%- for item in site.data.nav-work-sound.menu %}
-	<li><a href="{{ item.link }}">{{ item.name }}</a></li>
-	{%- endfor %}
-</ul>
+<section>
+	<h2>Browse a selection of relevant case studies</h2>
+	<ul class="list-hr">
+		{%- for item in site.data.nav-work-sound.menu %}
+		<li><a href="{{ item.link }}">{{ item.name }}</a></li>
+		{%- endfor %}
+	</ul>
+</section>
 <section class="h-feed">
 	<h2 id="sound-design">Sound design</h2>
 	{%- for post in SoundDesign %}

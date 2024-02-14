@@ -20,9 +20,11 @@ After graduating from music school, I acquired production chops as a resident ba
 
 Shortly after, I received an invite for a job interview with a company that was looking for a web developer who could also understand design. As they were starting production on a platform video game, I [landed the double role of sound and web designer]({{ site.url }}/blog/joining-playstos/), bringing my duality to a full circle.<br><br>
 
-[Recent work as a **sound designer**&nbsp;&rarr;]({{ site.url }}/sound-design/){: .cta .notice-cta }
+{: .cta }
+[Recent work as a **sound designer**&nbsp;&rarr;]({{ site.url }}/sound-design/){: .notice-cta }
 
-[Recent work as a **web designer**&nbsp;&rarr;]({{ site.url }}/web-design/){: .cta .notice-cta }
+{: .cta }
+[Recent work as a **web designer**&nbsp;&rarr;]({{ site.url }}/web-design/){: .notice-cta }
 
 ## More
 

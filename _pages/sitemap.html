@@ -14,12 +14,12 @@ permalink: /sitemap/
 <h2 id="pages">Pages</h2>
 <ul class="h-feed">
   <li>
-    <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%-d&nbsp;%b&nbsp;%Y" }}</time>
+    <time class="dim small" datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%-d&nbsp;%b&nbsp;%Y" }}</time>
     <a href="{{ site.url }}">Homepage</a>
   </li>
   {%- for page in allpages %}{%- unless page.sitemap == false %}
   <li>
-    <time class="dim" datetime="{%- if page.title == 'Sitemap' %}{{ site.time | date_to_xmlschema }}{% else %}{{ page.last_modified_at | date_to_xmlschema }}{% endif -%}" title="Last update">{%- if page.title == 'Sitemap' %}{{ site.time | date: "%-d&nbsp;%b&nbsp;%Y" }}{% else %}{{ page.last_modified_at | date: "%-d&nbsp;%b&nbsp;%Y" }}{% endif -%}</time>
+    <time class="dim small" datetime="{%- if page.title == 'Sitemap' %}{{ site.time | date_to_xmlschema }}{% else %}{{ page.last_modified_at | date_to_xmlschema }}{% endif -%}" title="Last update">{%- if page.title == 'Sitemap' %}{{ site.time | date: "%-d&nbsp;%b&nbsp;%Y" }}{% else %}{{ page.last_modified_at | date: "%-d&nbsp;%b&nbsp;%Y" }}{% endif -%}</time>
     <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
   </li>
   {%- endunless -%}{% endfor -%}
@@ -28,7 +28,7 @@ permalink: /sitemap/
 <ul class="h-feed">
   {%- for post in sorted_blog %}
   <li>
-    <time class="dt-published dim" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d&nbsp;%b&nbsp;%Y" }}</time>
+    <time class="dt-published dim small" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d&nbsp;%b&nbsp;%Y" }}</time>
     <a href="{{ site.url }}{{ post.url }}">{{ post.title }}{% if post.tags contains "sound project" %}&nbsp;<mark class="small">Sound&nbsp;project</mark>{% elsif post.tags contains "dev project" %}&nbsp;<mark class="small">Dev&nbsp;project</mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;<mark class="small">Favourite</mark>{% endif %}</a>
   </li>
   {% endfor -%}
