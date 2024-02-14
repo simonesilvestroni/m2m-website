@@ -7,7 +7,7 @@ layout: default
 		{%- unless page.tldr == false %}
 		<p class="p-summary">{{ page.description }}</p>
 		{% endunless -%}
-		<p class="p-author h-card"><img class="u-photo hidden" src="{{ site.url }}/assets/images/minutes-to-midnight-portrait.jpg" alt="Simone Silvestroni's avatar" width="28" height="28">Written by <a class="p-name" href="{{ site.url }}/about/" rel="author">{{ site.author.name }}</a>{% if page.replyto %} <span>in reply to <a href="{{ page.replyto }}" class="u-in-reply-to">{{ page.replytouser }}</a></span>{% endif -%}{% if page.coauthor %} &amp; <a href="{{ page.coauthorlink }}">{{ page.coauthor }}</a>{% endif %} <time class="dt-published dim" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a rel="me" class="u-url u-uid dim" href="{{ site.url }}{{ page.url }}" title="Permalink">on {{ page.date | date: "%-d %b %Y" }}</a></time></p>
+		<p class="h-card"><span class="p-author"><img class="u-photo hidden" src="{{ site.url }}/assets/images/minutes-to-midnight-portrait.jpg" alt="Simone Silvestroni's avatar" width="28" height="28"><a class="p-name" href="{{ site.url }}/about/" rel="author">{{ site.author.name }}</a>{% if page.replyto %} <span>in reply to <a href="{{ page.replyto }}" class="u-in-reply-to">{{ page.replytouser }}</a></span>{% endif -%}{% if page.coauthor %} &amp; <a href="{{ page.coauthorlink }}">{{ page.coauthor }}</a>{% endif %} <time class="dt-published dim" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a rel="me" class="u-url u-uid dim" href="{{ site.url }}{{ page.url }}" title="Permalink">on {{ page.date | date: "%-d %b %Y" }}</a></time></p>
 	</header>
 	{%- unless page.thumbOnly == true -%}
 	{% if page.featimage == true %}
