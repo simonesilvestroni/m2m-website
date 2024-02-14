@@ -3,11 +3,10 @@ layout: page
 title: PGP public key
 date: '2023-07-05 18:56:06'
 last_modified_at: '2023-07-05 18:56:10'
-description: 'My PGP public key.'
-tldr: false
+description: 'Copy and paste my public GPG key, or <a href="/assets/files/key.pub">download the key as a file</a>.
+'
 permalink: /contact/pgp/
 ---
-Copy and paste it, or [download the key as a file]({{ site.url }}/assets/files/key.pub).
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
