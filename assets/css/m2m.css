@@ -37,10 +37,12 @@
 	--navspacer-small: 1.2rem;
 	/* theme [light]
 	   ------------ */
-	--body: #f7f6f3;
-	--bg: #fAfAfA;
-	--accent-bg: #e6e6e6;
-	--transparent-bg: rgba(230,230,230,0.5);
+/*	--body: #f7f6f3;*/
+	--body: #FFFCF0;
+/*	--bg: #fAfAfA;*/
+	--bg: #F2F0E5;
+	--accent-bg: #CECDC3;
+	--transparent-bg: rgba(230,228,217,0.3);
 	--extra-bg: #000;
 	--strong-bg: #fff;
 	--light-bg: #f3f3f3;
@@ -377,9 +379,12 @@ abbr[title] {
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
-.pagination a{
+.pagination a {
 	width: 48.5%;
+	font-family: var(--serif-font-headings);
 	text-decoration: none;
+	border-top: 2px solid transparent;
+	border-left: 2px solid transparent;
 }
 .pagination a:nth-child(even) {
 	text-align: right;
@@ -394,8 +399,10 @@ abbr[title] {
 	margin-bottom: 6px;
 }
 .pagination a:hover {
-	background-color: var(--transparent-bg);
+	background-color: var(--body);
 	transition: background-color, 0.3s;
+	border-top: 2px solid var(--bg);
+	border-left: 2px solid var(--bg);
 }
 /* skip links
    ------------------------------ */
@@ -506,7 +513,7 @@ input {
 	padding: 0.5rem;
 	margin-bottom: 0.5rem;
 	color: var(--text);
-	background-color: var(--bg);
+	background-color: var(--strong-bg);
 	border: 1px solid var(--border);
 	border-radius: var(--standard-border-radius);
 	box-shadow: none;
@@ -514,6 +521,7 @@ input {
 	display: inline-block;
 }
 label {
+	font-family: var(--sans-font);
 	display: block;
 	margin-bottom: 0.5rem;
 }
@@ -882,9 +890,10 @@ th {
 	border-top: 1px solid var(--border);
 	border-bottom: 1px solid var(--border);
 }
-tr:nth-child(odd) {
+th,
+tr:nth-child(even) {
 	/* set every other cell slightly darker (improves readability) */
-	background-color: var(--light-bg);
+	background-color: var(--transparent-bg);
 }
 table caption {
 	font-weight: bold;
@@ -1033,8 +1042,14 @@ figure {
 	margin: 3rem auto;
 	overflow-x: auto;
 }
+@media (min-width: 850px) {
+	figure {
+		margin: 3rem -5rem;
+	}
+}
 figure img {
-	border: 1px solid var(--accent-bg);
+	min-width: 100%;
+/*	border: 1px solid var(--accent-bg);*/
 	border-radius: var(--double-border-radius);
 }
 figcaption {
@@ -1122,8 +1137,8 @@ pre span {
 .notice-cta {
 	padding: 1.5rem;
 	border-radius: var(--standard-border-radius);
-	box-shadow: 3px 3px var(--transparent-bg);
-	background-color: var(--bg);
+	box-shadow: 3px 3px var(--accent-bg);
+	background-color: var(--transparent-bg);
 }
 .notice {
 	display: inline-block;
@@ -1136,7 +1151,7 @@ pre span {
 .warning {
 	margin: 2.5rem 0;
 	padding: 1.5rem;
-	background-color: var(--strong-bg);
+	background-color: var(--transparent-bg);
 	border-radius: 20px;
 }
 .warning p {
@@ -1327,10 +1342,10 @@ audio {
 }
 .audioplayer {
 	padding: 1rem;
-	margin: 3rem 0;
-	border: 2px solid var(--deflinkovervisited);
+	margin: 4rem 0;
+/*	border: 2px solid var(--deflinkovervisited);*/
 	border-radius: var(--double-border-radius);
-	background-color: var(--strong-bg);
+	background-color: var(--bg);
 }
 .audioplayer span {
 	display: block;
@@ -1338,9 +1353,9 @@ audio {
 	font-family: var(--sans-font);
 	font-size: smaller;
 	font-weight: bold;
-	margin-top: -2rem;
+	margin-top: -2.5rem;
 	margin-bottom: 1rem;
-	padding: 0 8px;
+	padding: 0;
 	border-radius: var(--double-border-radius);
 	background-color: var(--body);
 }
