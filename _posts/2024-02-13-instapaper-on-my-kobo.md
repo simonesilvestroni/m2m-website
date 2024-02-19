@@ -3,6 +3,7 @@ title: Instapaper on my Kobo
 date: '2024-02-13 20:07:59'
 last_modified_at: '2024-02-14 01:32:24'
 tags:
+  - 'internet'
   - 'personal'
   - 'software'
 description: 'Once again, whenever I favour convenience over substance, my experience does not improve.'
