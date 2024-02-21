@@ -21,9 +21,7 @@ Aware of the fact that I can't possibly understand what's involved with maintain
 
 > I don't have a buffer of videos.
 
-> The biggest _YouTubers_ have upload schedules.
-
-> They release videos at certain times of the day.
+> The biggest _YouTubers_ have upload schedules, they release videos at certain times of the day.
 
 > I'm a _YouTuber_, it's not an hobby anymore.
 
