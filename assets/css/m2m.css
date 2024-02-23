@@ -1230,6 +1230,7 @@ pre span {
 }
 .author-card img {
 	flex-basis: 120px;
+	border-radius: 30em;
 }
 .author-card p {
 	flex: 2;
