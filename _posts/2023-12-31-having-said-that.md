@@ -4,8 +4,7 @@ date: '2023-12-31 15:04:14'
 last_modified_at: '2023-12-31 15:04:16'
 tags:
   - 'social media'
-tldr: false
-description: 'A quote from Nick Cave’s popular newsletter “The Red Hand Files”'
+description: 'A quote from Nick Cave’s popular newsletter <em>The Red Hand Files</em>.'
 ---
 > Three of my favourite words, and ones I find myself using more and more these days, are ‘Having said that’. I am also fond of saying ‘On the other hand’, and Seán O’Hagan tells me that the word I use most in our book, _Faith, Hope and Carnage_, is ‘However’.
 > 
