@@ -1159,8 +1159,7 @@ pre span {
 }
 .warning h3 {
 	text-align: center;
-	text-transform: lowercase;
-	font-variant: small-caps;
+	text-transform: uppercase;
 	font-weight: normal;
 }
 .warning h2:first-of-type, 
