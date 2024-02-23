@@ -2,7 +2,7 @@
 layout: page
 title: 'Colophon'
 date: '2023-01-14 13:49:31'
-last_modified_at: '2024-01-27 12:45:28'
+last_modified_at: '2024-02-23 20:11:12'
 description: 'All about the website, with notes about privacy and copyright.'
 tldr: false
 permalink: /colophon/
@@ -12,7 +12,7 @@ permalink: /colophon/
 {: .list-hr-group }
 - Handcrafted by Simone Silvestroni using Jekyll 4.3.2, the Liquid template language, and markdown extended. Maintained and updated using Sublime Text, Typora, Alfred macros, and Shortcuts automation.
 - [Valid](https://validator.w3.org/nu/?doc=https%3A%2F%2Fminutestomidnight.co.uk%2F) HTML tagged with [microformats2](https://microformats.org/). [Valid CSS level 3](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fminutestomidnight.co.uk%2Fassets%2Fcss%2Fm2m.min.css&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en), using a custom theme based on [Simple CSS](https://simplecss.org). Part of [IndieWeb](https://indiewebify.me/validate-h-card/?url=https%3A%2F%2Fminutestomidnight.co.uk), the site sends and receives [webmentions](https://indieweb.org/Webmention).
-- Logos and icons in SVG. "Dirt background" image by [Michael Rose](https://mademistakes.com/). The typeface in use is Libertinus, with a touch of Neo-Grotesque. The code repository is on [GitHub](https://github.com/simonesilvestroni/m2m-website), deployed to Netlify. Latest deploy: {{ site.time | date: "%-d %B %Y, at %H:%M" }}.
+- Logos and icons in SVG. "Dirt background" image by [Michael Rose](https://mademistakes.com/). The typeface in use is [Crimson Pro](https://www.fontshare.com/fonts/crimson-pro), with a touch of [Neo-Grotesque](https://github.com/system-fonts/modern-font-stacks#neo-grotesque). The code repository is on [GitHub](https://github.com/simonesilvestroni/m2m-website), deployed to Netlify. Latest deploy: {{ site.time | date: "%-d %B %Y, at %H:%M" }}.
 - A case study explores [how I built the site]({{ site.url }}/blog/website-minutes-to-midnight/).
 
 ## Accessibility and sustainability

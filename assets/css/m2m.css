@@ -2,22 +2,22 @@
  * $WEBFONTS
  * -------------------------------- */
 @font-face {
-	font-family: 'Libertinus';
-	src: url('/assets/fonts/libertinus-regular.woff2') format('woff2');
+	font-family: 'Crimson';
+	src: url('/assets/fonts/crimson-regular.woff2') format('woff2');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
 }
 @font-face {
-	font-family: 'Libertinus';
-	src: url('/assets/fonts/libertinus-italic.woff2') format('woff2');
+	font-family: 'Crimson';
+	src: url('/assets/fonts/crimson-italic.woff2') format('woff2');
 	font-weight: normal;
 	font-style: italic;
 	font-display: swap;
 }
 @font-face {
-	font-family: 'Libertinus';
-	src: url('/assets/fonts/libertinus-bold.woff2') format('woff2');
+	font-family: 'Crimson';
+	src: url('/assets/fonts/crimson-bold.woff2') format('woff2');
 	font-weight: bold;
 	font-style: normal;
 	font-display: swap;
@@ -28,12 +28,14 @@
  * -------------------------------- */
 :root {
 	--sans-font: Inter, Roboto, 'Helvetica Neue', 'Nimbus Sans', sans-serif;
-	--serif-font: 'Libertinus', 'Georgia', serif;
+	--serif-font: 'Crimson', 'Georgia', serif;
 	--mono-font: 'SFmono', SFMono-Regular, ui-monospace, "DejaVu Sans Mono", Menlo, Consolas, monospace;
 	--standard-border-radius: 6px;
 	--double-border-radius: 12px;
 	--navspacer-large: 2rem;
 	--navspacer-small: 1.2rem;
+	--line-height-reg: 1.6;
+	--line-height-large: 2.5;
 	/* theme [light]
 	   ------------ */
 /*	--body: #f7f6f3;*/
@@ -121,18 +123,13 @@ body {
 	grid-template-columns: 1fr min(42rem, 90%) 1fr;
 	grid-template-rows: auto 1fr auto;
 	color: var(--text);
-	font-size: 1.3rem;
+	font-size: 1.4rem;
 	min-height: 100vh;
 	margin: 0;
 	border-top: 1px solid var(--extra-bg);
 	background: transparent url('/assets/images/flat-mountains.svg');
 	background-position: right bottom;
 	background-repeat: no-repeat;
-}
-@media only screen and (max-width: 720px) {
-	body {
-		font-size: 1.2rem;
-	}
 }
 body > * {
 	grid-column: 2;
@@ -160,7 +157,7 @@ body > footer {
 	font-family: var(--sans-font);
 	font-size: smaller;
 	text-align: center;
-	line-height: 1.7;
+	line-height: var(--line-height-reg);
 	color: var(--text-light);
 	margin: 2.5rem 0;
 	padding: 1.5rem;
@@ -172,7 +169,7 @@ body > footer {
  * $HEADINGS
  * -------------------------------- */
 h1 {
-	font-size: 1.8rem;
+	font-size: 2rem;
 	text-align: center;
 	margin-top: 0; 
 	margin-bottom: 3rem;
@@ -184,7 +181,7 @@ h1 {
 	}
 }
 h1, h2, h3, h4, h5, h6 {
-	line-height: 1.6;
+	line-height: var(--line-height-reg);
 	color: var(--text-headings);
 	overflow-wrap: break-word;
 }
@@ -193,29 +190,31 @@ h2, h3, h4, h5, h6 {
 	margin-bottom: 2rem;
 }
 h2 {
-	font-size: 1.5rem;
+	font-size: 1.7rem;
 }
 .h-feed h2 {
 	margin-top: 1rem;
 }
 h3 {
+	font-size: 1.4rem;
+	font-variant: small-caps;
+	font-weight: normal;
+	text-transform: lowercase;
+	letter-spacing: 1px;
+}
+h4 {
 	font-weight: normal;
 	font-size: 1.4rem;
 	color: var(--accent);
 }
-h4 {
-	font-weight: bold;
+h4, h5, h6 {
+	font-style: italic;
+	font-size: 1.4rem;
 	color: var(--accent);
 	opacity: 0.8;
 }
-h4, h5, h6 {
-	font-weight: bold;
-	font-size: 1.4rem;
-	font-variant: small-caps;
-	text-transform: lowercase;
-	letter-spacing: 1px;
-}
 h5, h6 {
+	font-weight: bold;
 	font-style: italic;
 }
 /* reduce header size on mobile */
@@ -270,7 +269,7 @@ nav[aria-label="Secondary navigation"] ul li {
 }
 nav[aria-label="Secondary navigation"] ul li {
 	letter-spacing: 1px;
-	line-height: 2;
+	line-height: var(--line-height-large);
 }
 @media (min-width: 768px) {
 	nav[aria-label="Secondary navigation"] ul li {
@@ -609,7 +608,7 @@ p {
    ------------------------------ */
 p.p-summary {
 	font-family: var(--serif-font);
-	line-height: 1.7;
+	line-height: var(--line-height-reg);
 	text-align: center;
 	padding: 0 0 2rem 0;
 }
@@ -644,14 +643,14 @@ time {
    ------------------------------ */
 a.p-category {
 	display: inline-block;
+	font-size: smaller;
 	text-transform: uppercase;
 	text-decoration: none;
 	line-height: 2.5;
-	margin: 0.5rem 0.8rem;
+	margin: 1rem;
 }
 a.p-category span {
-	padding: 6px 18px;
-/*	background-color: var(--strong-bg);*/
+	padding: 12px 24px;
 	border: 1px solid var(--accent-bg);
 	border-radius: calc(var(--double-border-radius)*2);
 }
@@ -705,7 +704,7 @@ article header p+p {
 }
 article .e-content p {
 	margin: 0;
-	line-height: 1.7;
+	line-height: var(--line-height-reg);
 	hyphens: auto;
 }
 article .e-content p+p {
@@ -778,7 +777,7 @@ details[open] > :last-child {
    ------------------------------ */
 main ul {
 	list-style: none;
-	line-height: 1.7;
+	line-height: var(--line-height-reg);
 	padding-left: 1.2rem;
 }
 main ul li:before {
@@ -823,7 +822,7 @@ dt {
 	margin: 4rem 0 0.5rem 0;
 }
 dd {
-	line-height: 1.7;
+	line-height: var(--line-height-reg);
 	margin-top: 0.5rem;
 	margin-bottom: 1rem;
 }
@@ -1066,7 +1065,7 @@ pre,
 kbd,
 samp {
 	font-family: var(--mono-font);
-	font-size: 94%;
+	font-size: 85%;
 	color: var(--text-headings);
 }
 kbd {
@@ -1094,7 +1093,6 @@ pre code {
 }
 pre span {
 	font-family: var(--mono-font);
-	font-size: 1rem;
 	color: var(--preformatted);
 }
 
