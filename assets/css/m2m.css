@@ -2,22 +2,22 @@
  * $WEBFONTS
  * -------------------------------- */
 @font-face {
-	font-family: 'Lora';
-	src: url('/assets/fonts/lora-regular.woff2') format('woff2');
+	font-family: 'Crimson';
+	src: url('/assets/fonts/crimson-regular.woff2') format('woff2');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
 }
 @font-face {
-	font-family: 'Lora';
-	src: url('/assets/fonts/lora-italic.woff2') format('woff2');
+	font-family: 'Crimson';
+	src: url('/assets/fonts/crimson-italic.woff2') format('woff2');
 	font-weight: normal;
 	font-style: italic;
 	font-display: swap;
 }
 @font-face {
-	font-family: 'Lora';
-	src: url('/assets/fonts/lora-bold.woff2') format('woff2');
+	font-family: 'Crimson';
+	src: url('/assets/fonts/crimson-bold.woff2') format('woff2');
 	font-weight: bold;
 	font-style: normal;
 	font-display: swap;
@@ -27,9 +27,8 @@
  * $VARIABLES
  * -------------------------------- */
 :root {
-	--sans-font: system-ui, 'IBMplexSans', system-ui, sans-serif;
-	--serif-font: 'Lora', 'Georgia', serif;
-	--serif-font-headings: 'Iowan Old Style', 'Lora', 'Georgia', serif;
+	--sans-font: Inter, Roboto, 'Helvetica Neue', 'Nimbus Sans', sans-serif;
+	--serif-font: 'Crimson', 'Georgia', serif;
 	--mono-font: 'SFmono', SFMono-Regular, ui-monospace, "DejaVu Sans Mono", Menlo, Consolas, monospace;
 	--standard-border-radius: 6px;
 	--double-border-radius: 12px;
@@ -122,7 +121,7 @@ body {
 	grid-template-columns: 1fr min(42rem, 90%) 1fr;
 	grid-template-rows: auto 1fr auto;
 	color: var(--text);
-	font-size: 1.2rem;
+	font-size: 1.3rem;
 	min-height: 100vh;
 	margin: 0;
 	border-top: 1px solid var(--extra-bg);
@@ -132,7 +131,7 @@ body {
 }
 @media only screen and (max-width: 720px) {
 	body {
-		font-size: 1.15rem;
+		font-size: 1.2rem;
 	}
 }
 body > * {
@@ -185,7 +184,6 @@ h1 {
 	}
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family: var(--serif-font-headings);
 	line-height: 1.6;
 	color: var(--text-headings);
 	overflow-wrap: break-word;
@@ -250,7 +248,7 @@ nav[aria-label="Main navigation"] ul {
 	padding-inline-start: 0;
 }
 nav[aria-label="Main navigation"] ul li {
-/*	line-height: 32px;*/
+	line-height: 1;
 }
 nav[aria-label="Main navigation"] a {
 	display: inline-block;
@@ -381,7 +379,6 @@ abbr[title] {
 }
 .pagination a {
 	width: 48.5%;
-	font-family: var(--serif-font-headings);
 	text-decoration: none;
 	border-top: 2px solid transparent;
 	border-left: 2px solid transparent;
@@ -617,6 +614,9 @@ p.p-summary {
 	text-align: center;
 	padding: 0 0 2rem 0;
 }
+p.p-summary + p {
+	font-family: var(--sans-font);
+}
 @media (min-width: 768px) {
 	p.p-summary {
 		padding-left: 3rem;
@@ -694,7 +694,7 @@ article:last-child {
 }
 article header time {
 	display: inline-block;
-	font-family: var(--serif-font-headings);
+	font-family: var(--sans-font);
 }
 article header time a {
  text-decoration: none;
@@ -956,7 +956,6 @@ blockquote p {
 }
 cite {
 	display: block;
-	font-family: var(--serif-font-headings);
 	font-size: 90%;
 	font-style: normal;
 	font-variant: small-caps;
@@ -1250,7 +1249,7 @@ pre span {
 /* post author
    ------------------------------ */
 .p-author {
-	font-family: var(--serif-font-headings);
+	font-family: var(--sans-font);
 }
 .p-author img {
 	vertical-align: middle;
