@@ -954,7 +954,6 @@ blockquote p {
 }
 cite {
 	display: block;
-	font-size: 90%;
 	font-style: normal;
 	font-variant: small-caps;
 	text-indent: 0;
