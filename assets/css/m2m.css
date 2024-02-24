@@ -774,6 +774,9 @@ details[open] > :last-child {
 }
 /* lists
    ------------------------------ */
+main ol {
+	line-height: var(--line-height-reg);
+}
 main ul {
 	list-style: none;
 	line-height: var(--line-height-reg);
