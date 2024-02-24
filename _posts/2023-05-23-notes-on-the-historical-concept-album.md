@@ -12,6 +12,7 @@ tags:
   - 'music production'
   - 'music release'
   - 'personal'
+  - 'review'
   - 'uk'
   - 'world war ii'
 description: 'Matthew Graybosch reviewed my album ‘After 1989’. I’m honoured and flattered by such a genuine and magnificent analysis.'

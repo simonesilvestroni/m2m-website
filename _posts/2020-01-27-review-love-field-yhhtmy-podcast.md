@@ -12,6 +12,7 @@ tags:
   - 'mix'
   - 'music production'
   - 'music release'
+  - 'review'
   - 'uk'
   - 'usa'
   - 'video'

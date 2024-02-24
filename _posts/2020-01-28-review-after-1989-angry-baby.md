@@ -14,6 +14,7 @@ tags:
   - 'music production'
   - 'music release'
   - 'personal'
+  - 'review'
   - 'uk'
   - 'world war ii'
 description: 'Another amazing album review for ‘After 1989’: Angry Baby wade every week through great new indie music tracks to find the best gems.'

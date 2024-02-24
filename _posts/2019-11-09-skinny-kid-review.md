@@ -14,6 +14,7 @@ tags:
   - 'music production'
   - 'music release'
   - 'personal'
+  - 'review'
   - 'uk'
   - 'video'
   - 'world war ii'

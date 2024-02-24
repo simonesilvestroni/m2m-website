@@ -12,6 +12,7 @@ tags:
   - 'music production'
   - 'music release'
   - 'personal'
+  - 'review'
   - 'uk'
   - 'world war ii'
 description: 'My debut concept album has been receiving a bit more attention recently, especially after I stopped trying to sell it.'
