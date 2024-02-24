@@ -1,10 +1,12 @@
 menu:
   - name: Now
     link: /now/
+  - name: My music
+    link: /sound-design/#original-music
   - name: Uses
     link: /uses/
-  - name: Links
-    link: /links/
+  - name: Blogroll
+    link: /blogroll/
   - name: Sitemap
     link: /sitemap/
   - name: Search
