@@ -3,6 +3,7 @@ title: Years just pass by
 date: '2002-06-09'
 last_modified_at: '2023-04-09 16:25:29'
 tags:
+  - 'featured'
   - 'internet'
   - 'personal'
 description: 'The desire to be part of a community of bloggers hits the harsh reality of how humans want thought leaders who appear to be successful.'
