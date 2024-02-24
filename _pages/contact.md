@@ -12,7 +12,7 @@ Beside this website, I'm active on [Mastodon](https://sonomu.club/@m2m) and [Ban
 
 ## Work with me
 
-- Check out my [recent work as a **sound designer**]({{ site.url }}/sound-design/)
-- Check out my [recent work as a **web designer**]({{ site.url }}/web-design/)
+- [Recent work as a **sound designer**]({{ site.url }}/sound-design/)
+- [Recent work as a **web designer**]({{ site.url }}/web-design/)
 
 Music-wise I’m [available on SoundBetter](https://soundbetter.com/profiles/206552-simone-silvestroni), a safe and secure platform for freelance musicians. For anything else [reach out via email](mailto:{{ site.author.email }}).
