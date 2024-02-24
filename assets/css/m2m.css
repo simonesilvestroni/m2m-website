@@ -197,23 +197,22 @@ h2 {
 }
 h3 {
 	font-size: 1.4rem;
-	font-variant: small-caps;
 	font-weight: normal;
-	text-transform: lowercase;
+	text-transform: uppercase;
 	letter-spacing: 1px;
 }
 h4 {
 	font-weight: normal;
-	font-size: 1.4rem;
+	font-size: 1.35rem;
 	color: var(--accent);
 }
 h4, h5, h6 {
 	font-style: italic;
-	font-size: 1.4rem;
 	color: var(--accent);
 	opacity: 0.8;
 }
 h5, h6 {
+	font-size: 1.3rem;
 	font-weight: bold;
 	font-style: italic;
 }
