@@ -30,7 +30,7 @@ Shortly after, I received an invite for a job interview with a company that was 
 
 I care about accessibility, [sustainability]({{ site.url }}/blog/tag/sustainability/), the environment. The recent renaissance of what is now called the *small web* pushed me to [redesign my site and join the IndieWeb movement]({{ site.url }}/blog/website-minutes-to-midnight/).
 
-As part of the process, I have a [`/now`]({{ site.url }}/now/) page where I write down the things I'm involved with at the moment, a [`/links`]({{ site.url }}/links/) page which is what years ago would have been called *blogroll*, and a [`/uses`]({{ site.url }}/uses/) page, with a list of the tools I use.
+As part of the process, I have a [`/now`]({{ site.url }}/now/) page where I write down the things I'm involved with at the moment, a [`/blogroll`]({{ site.url }}/blogroll/), and a [`/uses`]({{ site.url }}/uses/) page, with a list of the tools I use.
 
 ![Me in the studio]({{ site.url }}/assets/images/simone-silvestroni-in-the-studio.png)
 _In the studio, recording bass — 2019_

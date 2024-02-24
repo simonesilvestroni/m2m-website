@@ -21,7 +21,7 @@ While list-only blogrolls are pretty common, the result of reading them across v
 - Why are you following them?
 - What’s in their blog that caught your interest?
 
-It doesn't have to be a long synopsis, a little context is what might actually drive me to their websites, which should be the ultimate goal of a blogroll: to share interesting bits of the web to potentially like-minded people. I’ve stumbled upon several blogrolls that are descriptive and interesting, and beside [my own](https://minutestomidnight.co.uk/links/), these are fitting examples: [Starbreaker's links](https://old.starbreaker.org/links/), [Silvia Maggi's links](https://silviamaggidesign.com/links/), [Keenan's Blogroll](https://gkeenan.co/blogroll) and [Maya Land's Blogroll](https://maya.land/blogroll.opml). The latter is also a beautiful example of how to format an [OPML](https://en.wikipedia.org/wiki/OPML) file for the web, something I’d really like to do someday.
+It doesn't have to be a long synopsis, a little context is what might actually drive me to their websites, which should be the ultimate goal of a blogroll: to share interesting bits of the web to potentially like-minded people. I’ve stumbled upon several blogrolls that are descriptive and interesting, and beside [my own]({{ site.url }}/blogroll/), these are fitting examples: [Starbreaker's links](https://old.starbreaker.org/links/), [Silvia Maggi's links](https://silviamaggidesign.com/links/), [Keenan's Blogroll](https://gkeenan.co/blogroll) and [Maya Land's Blogroll](https://maya.land/blogroll.opml). The latter is also a beautiful example of how to format an [OPML](https://en.wikipedia.org/wiki/OPML) file for the web, something I’d really like to do someday.
 
 ## Edit: 25 December 2023
 

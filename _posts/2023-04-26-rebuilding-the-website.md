@@ -28,7 +28,7 @@ It's a win-win and makes perfect sense to me: the site is mine, the landing page
 ## Changelog
 
 {: .list-hr }
-- I brought back my beloved [blogroll](/links/), now renamed as *Links* because [Matthew](https://old.starbreaker.org/) inspired me to do so.
+- I brought back my beloved [blogroll](/blogroll/).
 - Re-imported several blog posts about [web development](/blog/tag/web-development/), including the long-form analysis over how I manage automation for my static site, indieweb integration, webmentions, and other how-tos.
 - There is now a full [sitemap](/sitemap/), comprising pages, posts, tags.
 - I wiped out my newsletter, including the archives and the subscription form. I'll be sending one last issue to subscribers, saying that the [blog RSS](/feed.xml) is the most meaningful place[^1] where to get updates.
