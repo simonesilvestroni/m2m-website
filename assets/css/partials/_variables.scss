@@ -1,0 +1,70 @@
+/* -------------------------------- *\
+ * $VARIABLES
+ * -------------------------------- */
+:root {
+	--sans-font: Inter, Roboto, 'Helvetica Neue', 'Nimbus Sans', sans-serif;
+	--serif-font: 'Crimson', 'Georgia', serif;
+	--mono-font: 'SFmono', SFMono-Regular, ui-monospace, "DejaVu Sans Mono", Menlo, Consolas, monospace;
+	--standard-border-radius: 6px;
+	--double-border-radius: 12px;
+	--navspacer-large: 2rem;
+	--navspacer-small: 1.2rem;
+	--line-height-reg: 1.6;
+	--line-height-large: 2.5;
+	/* theme [light]
+	   ------------ */
+/*	--body: #f7f6f3;*/
+	--body: #FFFCF0;
+/*	--bg: #fAfAfA;*/
+	--bg: #F2F0E5;
+	--accent-bg: #CECDC3;
+	--transparent-bg: rgba(230,228,217,0.3);
+	--extra-bg: #000;
+	--strong-bg: #fff;
+	--light-bg: #f3f3f3;
+	--text: #454545;
+	--text-light: #585858;
+	--text-headings: #000;
+	--nav-active: #000;
+	--border: #d9d9d9;
+	--accent: #2d2f56;
+	--deflink: #666666;
+	--deflinkover: #8be9Fd;
+	--deflinkovervisited: #B09BFD;
+	--preformatted: #444;
+	--marked: 242,241,175;
+	--cta: 200,200,200;
+	--disabled: #efefef;
+}
+/* theme [dark]
+ * ----------------------------------------
+ * also adds a bit of transparency so light 
+ * media isn't so glaring in dark mode
+ * ---------------------------------------- */
+/*@media (prefers-color-scheme: dark) {
+	:root {
+		color-scheme: dark;
+		--body: #2b2d31;
+		--bg: #26282d;
+		--accent-bg: #2b2b2b;
+		--transparent-bg: rgba(30,30,30,0.6);
+		--extra-bg: #fff;
+		--strong-bg: #000;
+		--light-bg: #3C3C3C;
+		--text: #dcdcdc;
+		--text-light: #ababab;
+		--text-headings: #fff;
+		--nav-active: #fff;
+		--border: #999999;
+		--accent: #fBf6f5;
+		--deflink: #8be9Fd;
+		--deflinkvisited: #c4affd;
+		--preformatted: #ccc;
+		--disabled: #111;
+		--marked: 28,28,28;
+	}
+	img,
+	video {
+		opacity: 0.8;
+	}
+}*/
