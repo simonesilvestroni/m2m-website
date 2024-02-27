@@ -9,7 +9,7 @@
 ## Accessibility and sustainability
 
 - Compliant with the [Web Content Accessibility AAA Guidelines](https://wave.webaim.org/report#/https://minutestomidnight.co.uk/), the current [WAVE accessibility rank](https://webaim.org/projects/million/lookup?domain=minutestomidnight.co.uk): #7,280 of 1,000,000.
-- The homepage loads in less than a second and weighs 392KB. The entire source is 13.8MB excluding videos. 0.01g of CO<sub>2</sub> is [produced when someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/). Scores 100 on [Ecograder](https://ecograder.com/report/crccbrW1xmYgrNUdrNxEulBa), featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/). Hosting running on sustainable energy. Pagespeed ranking: [mobile](https://pagespeed.web.dev/analysis/https-minutestomidnight-co-uk/36t5kbzrgp?form_factor=mobile) and [desktop](https://pagespeed.web.dev/analysis/https-minutestomidnight-co-uk/36t5kbzrgp?form_factor=desktop).
+- The homepage loads in less than a second and weighs 344KB. The entire source is 13.8MB excluding videos. 0.01g of CO<sub>2</sub> is [produced when someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/). Scores 100 on [Ecograder](https://ecograder.com/report/crccbrW1xmYgrNUdrNxEulBa), featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/). Hosting running on sustainable energy. Pagespeed ranking: [mobile](https://pagespeed.web.dev/analysis/https-minutestomidnight-co-uk/36t5kbzrgp?form_factor=mobile) and [desktop](https://pagespeed.web.dev/analysis/https-minutestomidnight-co-uk/36t5kbzrgp?form_factor=desktop).
 
 ## Privacy
 
