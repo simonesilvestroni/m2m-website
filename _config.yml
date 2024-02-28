@@ -58,6 +58,7 @@ keywords:
 # -------------------
 exclude:
   - README.md
+  - m2m.sublime-project
 
 # -------------------
 # Inclusions
