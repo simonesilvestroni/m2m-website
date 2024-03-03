@@ -4,5 +4,6 @@ sass:
 exclude:
   - README.md
   - /assets/css/m2m.css.map
+  - m2m.sublime-project
 
 include: ["_pages", "_redirects", ".well-known"]
