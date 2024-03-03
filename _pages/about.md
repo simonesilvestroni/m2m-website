@@ -3,7 +3,7 @@ layout: page
 title: 'About'
 date: '2022-01-14'
 last_modified_at: '2024-02-11 19:24:23'
-description: 'A gen X with a straight to the point attitude, I gravitate around duality. Using a mix of instinct and academic learning, I juggle between art and technology in equal measure. Based in Cambridge (UK), I work in web design and sound production.'
+description: 'Welcome to the personal website where I document my thoughts, and how I use sound and web technology to turn ideas into an enjoyable experience. The moniker Minutes to Midnight references the <em>Doomsday Clock</em>, a connection with the world I grew up in during the Cold War.'
 permalink: /about/
 ---
 ## What I stand for
