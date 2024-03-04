@@ -38,7 +38,6 @@ Header add Permissions-Policy "accelerometer=(self),autoplay=(self),camera=(self
 </IfModule>
 
 # Redirects
-Redirect 200 /.well-known/avatar /.well-known/avatar-m2m.png
 Redirect 301 /a-little-boy-that-santa-claus-forgot-on-a-b-29/ /blog/a-little-boy-that-santa-claus-forgot-on-a-b-29/
 Redirect 301 /after-1989-love-field-official-music-video/ /blog/love-field-official-video/
 Redirect 301 /after-1989-13-days-official-video-cuban-crisis/ /blog/13-days-official-video/
@@ -60,7 +59,7 @@ Redirect 301 /archive/ /sitemap/
 Redirect 301 /backup-and-audio-archival/ /blog/backup-and-audio-archival/
 Redirect 301 /bass-tracks/ /sound-design/
 Redirect 301 /berlin-91/ /blog/berlin-91/
-Redirect 301 /blog/2020/08/06/a-little-boy-that-santa-claus-forgot-on-a-b-29/ /blog/a-little-boy-that-santa-claus-forgot-onRedirect -a-b-29/
+Redirect 301 /blog/2020/08/06/a-little-boy-that-santa-claus-forgot-on-a-b-29/ /blog/a-little-boy-that-santa-claus-forgot-on-a-b-29/
 Redirect 301 /blog/note-about-michael-c-hall/ /blog/michael-c-hall/
 Redirect 301 /blog/note-about-meta/ /blog/about-meta/
 Redirect 301 /blog/back-to-the-future-leaving-the-uk/ /blog/leaving-the-uk/
@@ -177,4 +176,4 @@ Redirect 301 /work/web-design/unicredit/ /blog/unicreditbank/
 Redirect 301 /work/web-design/responsive-photogallery-carousel/ /blog/responsive-photogallery-carousel-css/
 Redirect 301 /work/music-production/hidden-music/ /blog/hidden-music/
 Redirect 301 /work/music-production/mix-ember-rev-reaper-subprojects/ /blog/mix-ember-rev-reaper-subprojects/
-Redirect 301 /work/dev/build-a-human-readable-rss-with-jekyll/ /blog/build-a-human-readable-rss-with-jekyll/Redirect 
+Redirect 301 /work/dev/build-a-human-readable-rss-with-jekyll/ /blog/build-a-human-readable-rss-with-jekyll/ 
