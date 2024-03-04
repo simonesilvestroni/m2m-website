@@ -123,7 +123,6 @@ Redirect 301 /resume/ /about/
 Redirect 301 /review-skinny-kid-novamusic-blog/ /blog/review-skinny-kid-novamusic/
 Redirect 301 /rss/ /feed.xml
 Redirect 301 /skinny-kid/ /blog/skinny-kid-song-backstory/
-Redirect 301 /sound-design/ /sound-design/
 Redirect 301 /the-die-is-cast-ep/ /blog/the-die-is-cast-ep/
 Redirect 301 /work/ /blog/
 Redirect 301 /work/music-production/ /sound-design/
