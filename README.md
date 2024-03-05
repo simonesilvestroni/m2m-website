@@ -9,7 +9,7 @@
 ## Accessibility and sustainability
 
 - Compliant with the [Web Content Accessibility AAA Guidelines](https://wave.webaim.org/report#/https://minutestomidnight.co.uk/), the current [WAVE accessibility rank](https://webaim.org/projects/million/lookup?domain=minutestomidnight.co.uk): #7,280 of 1,000,000.
-- The homepage loads in less than a second and weighs 344KB. The entire source is 13.8MB excluding videos. 0.06g of CO<sub>2</sub> is [produced when someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/), featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/). Hosting running on sustainable energy.
+- The homepage loads in less than a second and weighs 110KB. The entire source is 13.8MB excluding videos. 0.01g of CO<sub>2</sub> is [produced when someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/), featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/). Hosting running on sustainable energy.
 
 ## Privacy
 
