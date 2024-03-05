@@ -8,7 +8,7 @@ last_modified_at: '2023-05-09 19:19:28'
 	<h1><img class="svg-logo" src="{{ site.url }}/assets/images/m2m-logo-no-glyph.svg" alt="Minutes to Midnight"><span class="visually-hidden">Welcome</span></h1>
 	<div class="h-card">
 		<div class="p-author">
-			<img class="u-photo" src="{{ site.url }}/assets/images/animated_bass.gif" width="128" height="128" alt="Myself playing bass">
+			<img class="u-photo" src="{{ site.url }}/assets/images/avatar-homepage.jpg" width="200" height="200" alt="Myself playing bass">
 			<p class="p-summary">{{ site.who }}</p>
 		</div>
 	</div>
@@ -16,7 +16,7 @@ last_modified_at: '2023-05-09 19:19:28'
 <section>
 	<h2>Recent posts</h2>
 	<ul class="h-feed">
-		{% for post in site.posts limit:10 %}
+		{% for post in site.posts limit:5 %}
 		<li>
 			<time class="dim small" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d&nbsp;%b" }}</time>
 			<a href="{{ site.url }}{{ post.url }}" title="{{ post.description | strip_html }}">{{ post.title }}</a>
