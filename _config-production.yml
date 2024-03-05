@@ -1,10 +1,19 @@
+# -------------------
+# SASS
+# -------------------
 sass:
   style: compressed
 
+# -------------------
+# Inclusions
+# -------------------
+include: ["_pages", ".htaccess", ".well-known"]
+
+# -------------------
+# Exclusions
+# -------------------
 exclude:
   - README.md
   - /assets/css/m2m.css.map
   - m2m.sublime-project
   - m2m.sublime-workspace
-
-include: ["_pages", ".htaccess", ".well-known"]

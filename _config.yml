@@ -1,36 +1,25 @@
 # -------------------
-# Main
+# Site settings
 # -------------------
 host: "localhost"
 url: "https://minutestomidnight.co.uk"
 baseurl: ""
 lang: "en-GB"
-
-# -------------------
-# Feeds
-# -------------------
-posts_limit: 20
-
-# -------------------
-# Configuration
-# -------------------
 title: Minutes to Midnight
 tagline: Sound designer, game audio pioneer
 permalink: /blog/:title/
 timezone: Europe/London
 logo: /assets/images/m2m-og-image.png
+
+# -------------------
+# Personal data
+# -------------------
 author:
   name: Simone Silvestroni
   email: hello@minutestomidnight.co.uk
 mastodon:
   instance: sonomu.club
   username: m2m
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-sass:
-  sass_dir: /assets/css/partials/
-  sourcemap: development
 
 # -------------------
 # About
@@ -60,18 +49,29 @@ keywords:
 # -------------------
 # Inclusions
 # -------------------
-include: ["_pages", "_redirects", ".well-known"]
+include: ["_pages"]
 
 # -------------------
-# Exclusions
+# SASS
 # -------------------
-exclude:
-  - README.md
-  - m2m.sublime-project
-  - m2m.sublime-workspace
+sass:
+  sass_dir: /assets/css/partials/
+  sourcemap: development
 
 # -------------------
-# Defaults
+# Feeds
+# -------------------
+posts_limit: 20
+
+# -------------------
+# Markdown
+# -------------------
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+
+# -------------------
+# Jekyll defaults
 # -------------------
 defaults:
   - scope:
@@ -100,7 +100,7 @@ defaults:
       layout: "note"
 
 # -------------------
-# Collections
+# Jekyll collections
 # -------------------
 collections:
   notes:
@@ -108,7 +108,7 @@ collections:
     permalink: /notes/:path/
 
 # -------------------
-# Archives
+# Jekyll archives
 # -------------------
 jekyll-archives:
   enabled:
@@ -121,7 +121,7 @@ jekyll-archives:
 excerpt_separator: <!--more-->
 
 # -------------------
-# Plugins
+# Jekyll plugins
 # -------------------
 plugins:
   - jekyll-archives
