@@ -1,6 +1,9 @@
 # 404
 ErrorDocument 404 /404.html
 
+# Prevent directory listings
+Options -Indexes
+
 # Content security policy
 Header add X-Frame-Options "SAMEORIGIN"
 Header add X-XSS-Protection "1; mode=block"
