@@ -96,6 +96,10 @@ h2, h3, h4, h5, h6 {
 h2 {
 	font-size: 1.7rem;
 }
+// Exception for the homepage
+body.homepage h2 {
+	text-align: center;
+}
 .h-feed h2 {
 	margin-top: 1rem;
 }
@@ -1168,7 +1172,9 @@ body.homepage .h-card .p-author {
 }
 body.homepage .h-card .p-author img {
 	display: block;
-	margin: 2rem auto;
+	margin: 2.5em auto;
+	border-radius: 0.5em;
+	transform: rotateZ(357deg);
 }
 /* case studies
    ------------------------------ */
