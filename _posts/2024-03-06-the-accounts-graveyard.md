@@ -34,4 +34,4 @@ Whether because they don't make sense to me anymore, or due to some enlightened 
 
 The above amount to a tiny percentage of the culling. A sheer number of deletions are confined in the extremely fragmented world of sound design. Every single audio plug-in depends on an inefficient online account, whether the software is paid or free, so I moved away from that world a while ago, to consolidate my efforts around a few tiny (and one big) companies.
 
-A heartfelt mention of honour goes to _Avid_. The privacy request I sent on 4 December 2023 through their official privacy channel still has to be processed. Two months later I asked what the wait was for, so they assigned a request ID to my reply, answering after a week by saying "This is a duplicate question of my previous request". I'll wait.
+A heartfelt mention of honour goes to _Avid_. The privacy request I sent on 4 December 2023 through their official privacy channel still has to be processed. Two months later I asked what the wait was for, so they assigned a request ID to my reply, answering after a week by saying "This is a duplicate question of a previous request". I'll wait.
