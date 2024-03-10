@@ -52,9 +52,6 @@
 - name: Zinzy Waleson Geene
   url: https://www.zinzy.website
   desc: "She works at the intersection of research, design, language, and strategy. At her current job she's taking an interdisciplinary approach to sustainable educational data. I love the content on her website and the fact she's not afraid to experiment with brutalist design, which I'm very fond of."
-- name: Thomas Michael Semmler
-  url: https://helloyes.dev/
-  desc: "I've been hit by his openness and the opinionated takes on the web design industry, which I wholeheartedly agree with."
 - name: Adrianna Tan
   url: https://popagandhi.com
   desc: "She's been blogging since 2003, advocating for an open web. Her website is a magnificent example of minimalist design done well."
@@ -64,21 +61,12 @@
 - name: Steven Hoefer
   url: https://readsteven.com
   desc: "He makes things with his imagination and his hands. When writing doesn't engage his hands enough he invents whimsical — and occasionally useful — gadgets, and shares them with the world. Author of _The Embassy_ Series, an ongoing series of sci-fi novels. I'm procrastinating with Steven's books, but I love his short novella _Ascension Day_."
-- name: Winifred Phillips
-  url: https://winifredphillips.wpcomstaging.com/
-  desc: "A composer of music for entertainment media, her work most recently has focused on video games. She writes about music, video games, and the convergence of the two."
 - name: Game Developer
   url: https://www.gamedeveloper.com/blogs
   desc: "First founded in 1997 as _Gamasutra_, striving to be a leading resource and reference for game development and industry knowledge. Their daily posts focus on current events and developments in the game industry alongside regular, in-depth features and interviews."
-- name: Gamesindustry.biz
-  url: https://www.gamesindustry.biz/
-  desc: "A community for news and information about the global video games industry, they deliver news content with opinion-forming industry interviews and analysis, while the site boasts one of the largest recruitment databases for video games-related roles and a comprehensive guide to the events that span the games business."
 - name: Neurologica
   url: https://theness.com/neurologicablog
   desc: "Steven Novella covers news and issues in neuroscience, but also general science, scientific skepticism, philosophy of science, critical thinking, and the intersection of science with the media and society."
-- name: Om Malik
-  url: https://om.co/
-  desc: "A San Francisco-based writer, photographer, and investor, Om writes about technology, photography, and personal topics. I like that he writes like a human, steering clear of jargon."
 - name: Abandoned Berlin
   url: https://abandonedberlin.com/
   desc: "An attempt to document the past, uncover hidden history and preserve the memory of neglected glories, as they are now."
@@ -120,7 +108,7 @@
   desc: "J.P.’s blog is one of the first I read on a daily basis. He’s so open and genuine that I feel like I’m part of his life, even though we never met and don’t exchange thoughts much, other than on Mastodon. I love getting lost in his posts, watching the beautiful pictures, following the adventures of his cat Truman, and being a quiet distant observer in the life he shares with his husband."
 - name: Nick Cave
   url: https://www.theredhandfiles.com/
-  desc: "No need to write a mini bio for Nick Cave, but his newsletter, titled _The Red Hand Files_, is one of the very few I read entirely, every single issue. He describes it as ‘Over the years, The Red Hand Files has burst the boundaries of its original concept to become a strange exercise in communal vulnerability and transparency.’"
+  desc: "His newsletter, titled _The Red Hand Files_, is one of the very few I read entirely, every single issue. He describes it as ‘Over the years, The Red Hand Files has burst the boundaries of its original concept to become a strange exercise in communal vulnerability and transparency.’"
 - name: Flamed Fury
   url: https://flamedfury.com/
   desc: "I got to know Flamed thanks to the networking power of the Fediverse, where strangers read other strangers' posts and connect dots that were naturally there. Flamed insists on themes that I care about a lot, often using the same arguments."
