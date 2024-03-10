@@ -8,7 +8,7 @@ permalink: /blogroll/
 ---
 > Pages like this one are how website operators used to promote other websites they like before Google and the SEO industry ruined the World Wide Web.<cite>Matthew Graybosch</cite>
 
-{% assign blogroll = site.data.links-list | sort: 'name' %}
+{% assign blogroll = site.data.blogroll | sort: 'name' %}
 {% for link in blogroll %}
 [{{ link.name }}]({{ link.url }})
 : {{ link.desc }}

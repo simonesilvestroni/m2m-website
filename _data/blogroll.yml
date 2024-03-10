@@ -28,9 +28,6 @@
 - name: Luke Harris
   url: https://www.lkhrs.com
   desc: "Web designer specializing in WordPress, Webflow, and static site generators. He lives and works remotely in Corpus Christi, Texas. Except for geolocation, I have a ton in common with Luke."
-- name: Michael Harley
-  url: https://michaelharley.net
-  desc: "Software engineer living in Nashville and working as a SharePoint Developer specializing in Power Apps, Power Automate and PowerShell. He enjoys writing about privacy, development, security, hiking, riding bicycles and grilling."
 - name: Wouter Groeneveld
   url: https://brainbaking.com/
   desc: "He's many things, a teacher, researcher, programmer and bread baker. I love Wouter's way of thinking about the web and programming in general, plus he's the source of inspiration for a few functionality added to my websites. One of the very few I've been exchanging webmentions with."
@@ -63,7 +60,7 @@
   desc: "She's been blogging since 2003, advocating for an open web. Her website is a magnificent example of minimalist design done well."
 - name: Matthew Graybosch
   url: https://old.starbreaker.org/
-  desc: "The author of the novels _Without Bloodshed_ and _Silent Clarion_, he has a day job as a software developer. Not afraid to tell things by their name, he runs his personal website with the same directness. I've been devouring his posts, waiting to start reading his newest work in progress, _Spiral Architect_."
+  desc: "Author of the novels _Without Bloodshed_ and _Silent Clarion_, he has a day job as a software developer. Not afraid to tell things by their name, he runs his personal website with the same directness. I devoured his posts, like a book that’s impossible to put down."
 - name: Steven Hoefer
   url: https://readsteven.com
   desc: "He makes things with his imagination and his hands. When writing doesn't engage his hands enough he invents whimsical — and occasionally useful — gadgets, and shares them with the world. Author of _The Embassy_ Series, an ongoing series of sci-fi novels. I'm procrastinating with Steven's books, but I love his short novella _Ascension Day_."
@@ -127,3 +124,6 @@
 - name: Flamed Fury
   url: https://flamedfury.com/
   desc: "I got to know Flamed thanks to the networking power of the Fediverse, where strangers read other strangers' posts and connect dots that were naturally there. Flamed insists on themes that I care about a lot, often using the same arguments."
+- name: Manuel Moreale
+  url: https://manuelmoreale.com/
+  desc: "A past version of myself is almost perfectly described by his about page, which means we share a great deal of viewpoints on different aspects of life. He speaks his mind in a direct way, doesn’t care for sugarcoating his opinions, and goes straight to the point."
