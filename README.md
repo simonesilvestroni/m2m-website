@@ -4,7 +4,7 @@
 
 - Handcrafted by Simone Silvestroni using Jekyll 4.3.2, the Liquid template language, and markdown extended. Maintained and updated using Sublime Text, Typora, Alfred macros, and Shortcuts automation.
 - [Valid](https://validator.w3.org/nu/?doc=https%3A%2F%2Fminutestomidnight.co.uk%2F) HTML tagged with [microformats2](https://microformats.org/). [Valid CSS level 3](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fminutestomidnight.co.uk%2Fassets%2Fcss%2Fm2m.min.css&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en), using a custom theme based on [Simple CSS](https://simplecss.org). Part of [IndieWeb](https://indiewebify.me/validate-h-card/?url=https%3A%2F%2Fminutestomidnight.co.uk), the site sends and receives [webmentions](https://indieweb.org/Webmention).
-- Logos and icons in SVG. "Dirt background" image by [Michael Rose](https://mademistakes.com/). The typeface in use is [Crimson Pro](https://www.fontshare.com/fonts/crimson-pro), with a touch of [Neo-Grotesque](https://github.com/system-fonts/modern-font-stacks#neo-grotesque). The code repository is on [GitHub](https://github.com/simonesilvestroni/m2m-website), hosted on [Mythic Beasts](https://www.mythic-beasts.com).
+- Logos and icons in SVG. "Dirt background" image by [Michael Rose](https://mademistakes.com/). The main typeface in use is Palatino. The code repository is on [GitHub](https://github.com/simonesilvestroni/m2m-website), hosted on [Mythic Beasts](https://www.mythic-beasts.com). Latest deploy: {{ site.time | date: "%-d %B %Y, at %H:%M" }}.
 
 ## Accessibility and sustainability
 
@@ -17,7 +17,7 @@
 
 ## Copyright
 
-&copy; 2002-2024 Simone Silvestroni, all rights reserved. However, blog posts are licensed under a [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/), so the written content can be used, including commercially, provided that a proper attribution to me is given, including a link to `minutestomidnight.co.uk`. Photography &copy; [Silvia Maggi](https://silviamaggidesign.com).
+&copy; 2002-2024 Simone Silvestroni, all rights reserved. However, blog posts are licensed under a [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/), so the written content can be used, including commercially, provided that a proper attribution to me is given, including a link to `minutestomidnight.co.uk`. Photography &copy; [Silvia Maggi](https://silviamaggidesign.com), all rights reserved.
 
 ## Trademark
 

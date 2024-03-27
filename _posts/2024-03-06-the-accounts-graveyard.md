@@ -16,7 +16,7 @@ Nobody have ever reached out by saying they were interested in knowing more, aft
 
 ## The large ones
 
-I stopped ruminating over my past participation with large conglomerates. I'm just glad that now I don't get noise from _Facebook_, _Instagram_, _Twitter_, _Reddit_, _Medium_, _Microsoft_, and _Adobe_. Happy about not spreading _Mailchimp_ tracking codes into people's inboxes, I've never went anywhere near _Substack_ either. Once I manage to refurbish my Android phone with an independent _Google_-free ROM, I'm also gonna axe the ex-search now ads giant.
+I stopped ruminating over my past participation with large conglomerates. I'm just glad that now I don't get noise from _Facebook_, _Instagram_, _Twitter_, _Reddit_, _Medium_, _Microsoft_, and _Adobe_. Happy about not spreading _Mailchimp_ tracking codes into people's inboxes, I've never went anywhere near _Substack_ either. Once I manage to refurbish my Android phone with an independent _Google_-free ROM, I'm also gonna axe the ex-search-now-ads giant.
 
 ## Automattic
 
