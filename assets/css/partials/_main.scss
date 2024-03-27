@@ -27,7 +27,7 @@ body {
 	grid-template-columns: 1fr min(42rem, 90%) 1fr;
 	grid-template-rows: auto 1fr auto;
 	color: var(--text);
-	font-size: 1.35rem;
+	font-size: calc(1rem + 0.2vw);
 	min-height: 100vh;
 	margin: 0;
 	border-top: 1px solid var(--extra-bg);
@@ -73,7 +73,6 @@ body > footer {
  * $HEADINGS
  * -------------------------------- */
 h1 {
-	font-size: 2rem;
 	text-align: center;
 	margin-top: 0; 
 	margin-bottom: 3rem;
@@ -93,9 +92,7 @@ h2, h3, h4, h5, h6 {
 	margin-top: 4rem;
 	margin-bottom: 2rem;
 }
-h2 {
-	font-size: 1.7rem;
-}
+
 // Exception for the homepage
 body.homepage h2 {
 	text-align: center;
@@ -104,14 +101,10 @@ body.homepage h2 {
 	margin-top: 1rem;
 }
 h3 {
-	font-size: 1.4rem;
 	font-weight: normal;
-	text-transform: uppercase;
-	letter-spacing: 1px;
 }
 h4 {
 	font-weight: normal;
-	font-size: 1.35rem;
 	color: var(--accent);
 }
 h4, h5, h6 {
@@ -120,19 +113,16 @@ h4, h5, h6 {
 	opacity: 0.8;
 }
 h5, h6 {
-	font-size: 1.3rem;
 	font-weight: bold;
 	font-style: italic;
 }
-/* reduce header size on mobile */
-@media only screen and (max-width: 720px) {
-	h1 { font-size: 1.7rem; }
-	h2 { font-size: 1.4rem; }
-	h3 { font-size: 1.3rem; }
-	h4 { font-size: 1.3rem; }
-	h5 { font-size: 1.2rem; }
-	h6 { font-size: 1.15rem; }
-}
+// Font size
+h1 { font-size: calc(1.7rem + 0.25vw) }
+h2 { font-size: calc(1.4rem + 0.25vw) }
+h3 { font-size: calc(1.25rem + 0.25vw) }
+h4 { font-size: calc(1.15rem + 0.25vw) }
+h5 { font-size: calc(1.1rem + 0.25vw) }
+h6 { font-size: calc(1.05rem + 0.25vw) }
 
 /* -------------------------------- *\
  * $NAVIGATION
@@ -277,7 +267,7 @@ abbr[title] {
 
 /* pagination
    ------------------------------ */
-.pagination{
+.pagination {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
@@ -285,8 +275,7 @@ abbr[title] {
 .pagination a {
 	width: 48.5%;
 	text-decoration: none;
-	border-top: 2px solid transparent;
-	border-left: 2px solid transparent;
+	border: 1px solid transparent;
 }
 .pagination a:nth-child(even) {
 	text-align: right;
@@ -303,8 +292,7 @@ abbr[title] {
 .pagination a:hover {
 	background-color: var(--body);
 	transition: background-color, 0.3s;
-	border-top: 2px solid var(--bg);
-	border-left: 2px solid var(--bg);
+	border: 1px solid var(--bg);
 }
 /* skip links
    ------------------------------ */
@@ -1042,7 +1030,6 @@ pre span {
 .notice-cta {
 	padding: 1.5rem;
 	border-radius: var(--standard-border-radius);
-	box-shadow: 3px 3px var(--accent-bg);
 	background-color: var(--transparent-bg);
 }
 .notice {
@@ -1067,6 +1054,7 @@ pre span {
 	margin-bottom: 0;
 }
 .warning h3 {
+	font-size: calc(0.85rem + 0.25vw);
 	text-align: center;
 	text-transform: uppercase;
 	font-weight: normal;
