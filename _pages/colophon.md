@@ -19,7 +19,7 @@ permalink: /colophon/
 
 {: .list-hr-group }
 - Compliant with the [Web Content Accessibility AAA Guidelines](https://wave.webaim.org/report#/https://minutestomidnight.co.uk/), the current [WAVE accessibility rank](https://webaim.org/projects/million/lookup?domain=minutestomidnight.co.uk): #7,280 of 1,000,000.
-- The homepage loads in less than a second and weighs 110KB. The entire source is 13.8MB excluding videos. 0.01g of CO<sub>2</sub> is [produced when someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/), featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/). Hosting running on [green energy](https://www.thegreenwebfoundation.org/green-web-check/?url=mythic-beasts.com).
+- The homepage loads in less than a second and weighs 62 KB. The entire source is 13.8 MB excluding videos. 0.01 g of CO<sub>2</sub> is [produced when someone visits the homepage](https://www.websitecarbon.com/website/minutestomidnight-co-uk/), featured on [Lowwwcarbon](https://lowwwcarbon.com/showcase/). Hosting running on [green energy](https://www.thegreenwebfoundation.org/green-web-check/?url=mythic-beasts.com).
 
 ## Privacy
 
