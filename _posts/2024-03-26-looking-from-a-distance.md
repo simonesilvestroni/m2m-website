@@ -3,6 +3,7 @@ title: Looking from a distance
 date: '2024-03-26 22:50:14'
 last_modified_at: '2024-03-26 22:50:17'
 tags:
+  - 'featured'
   - 'italy'
   - 'personal'
   - 'uk'
