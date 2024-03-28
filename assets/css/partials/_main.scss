@@ -1062,10 +1062,9 @@ pre span {
 	margin-bottom: 0;
 }
 .warning h3 {
-	font-size: calc(0.85rem + 0.25vw);
+	font-family: var(--sans-font);
+	font-size: calc(0.9rem + 0.25vw);
 	text-align: center;
-	text-transform: uppercase;
-	font-weight: normal;
 }
 .warning h2:first-of-type, 
 .warning h3:first-of-type {
