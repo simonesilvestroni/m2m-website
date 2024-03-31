@@ -3,7 +3,7 @@ layout: page
 title: 'Now'
 date: '2023-02-19 21:14:17'
 last_modified_at: '2024-03-04 08:33:13'
-description: "A ‘Now’ page tells people what the person is focused on at this point in their life. From an <a href='https://nownownow.com/about'>idea by Derek Sivers</a>."
+description: "From an <a href='https://nownownow.com/about'>idea by Derek Sivers</a>, a ‘Now’ page tells what the person is focused on at this point in their life."
 permalink: /now/
 ---
 {: .list-hr-group }
