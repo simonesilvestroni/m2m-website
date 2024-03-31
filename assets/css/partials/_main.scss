@@ -13,7 +13,7 @@ progress {
 	-moz-appearance: none;
 }
 html {
-	font-family: var(--serif-font);
+	font-family: var(--sans-font);
 	scroll-behavior: smooth;
 	background: var(--body) url('/assets/images/dirt.png');
 	background-repeat: no-repeat;
@@ -510,7 +510,6 @@ p {
 /* tldr and summaries
    ------------------------------ */
 p.p-summary {
-	font-family: var(--serif-font);
 	line-height: var(--line-height-reg);
 	text-align: center;
 	padding: 0 0 2rem 0;
@@ -855,6 +854,7 @@ blockquote {
 	border-left: 2px solid var(--border);
 }
 blockquote p {
+	font-family: var(--serif-font);
 	color: var(--text-light);
 	margin: 0;
 }
@@ -1160,7 +1160,6 @@ pre span {
 }
 /* exception for the homepage */
 body.homepage .h-card .p-author {
-	font-family: var(--serif-font);
 	font-size: inherit;
 	margin-top: 3rem;
 	margin-bottom: 0;
