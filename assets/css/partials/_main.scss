@@ -312,6 +312,7 @@ abbr[title] {
 .skip-to-content,
 .skip-to-footer {
 	position: absolute;
+	z-index: 10000;
 	right: 1%;
 	line-height: 1;
 	transform: translateY(-200%);
