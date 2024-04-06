@@ -10,6 +10,9 @@ tagline: Sound designer, game audio pioneer
 permalink: /blog/:title/
 timezone: Europe/London
 logo: /assets/images/m2m-og-image.png
+typefaces:
+  - Schibsted Grotesk
+  - Crimson Pro
 
 # -------------------
 # Personal data

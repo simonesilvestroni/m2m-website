@@ -105,6 +105,10 @@
 				{% endfor -%}
 			</ul>
 		</nav>
+		<div class="colophon">
+			<p>Handcrafted by Simone Silvestroni using Jekyll, Liquid, and M2M CSS framework.<br>The typefaces in use are: {% for item in site.typefaces  %}<em>{{ item }}</em>{%- unless forloop.last %}, {% endunless %}{%- if forloop.last %}.{% endif %}{% endfor %}</p>
+			<p>Read more <a href="{{ site.url }}/colophon/">about the website</a>, about <a href="{{ site.url }}/colophon/#accessibility-and-sustainability">accessibility and sustainability</a>, <a href="{{ site.url }}/colophon/#privacy">privacy</a>, <a href="{{ site.url }}/colophon/#copyright">copyright</a>, and <a href="{{ site.url }}/colophon/#trademark">trademark</a>.</p>
+		</div>
 		<div class="indieweb">
 			<p><strong>Indieweb webring</strong><br>
 			<a class="dim" href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/previous">← Previous site</a> &bull; <a class="dim" href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/next">Next site →</a></p>

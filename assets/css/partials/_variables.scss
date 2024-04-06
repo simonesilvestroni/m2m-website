@@ -3,7 +3,7 @@
  * -------------------------------- */
 :root {
 	--sans-font: 'Schibsted', system-ui, Roboto, 'Nimbus Sans', sans-serif;
-	--serif-font: 'Iowan Old Style', 'Palatino', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+	--serif-font: 'Crimson', 'Palatino', 'Palatino Linotype', 'URW Palladio L', P052, serif;
 	--mono-font: 'SFmono', SFMono-Regular, ui-monospace, "DejaVu Sans Mono", Menlo, Consolas, monospace;
 	--standard-border-radius: 6px;
 	--double-border-radius: 12px;
@@ -68,3 +68,25 @@
 		opacity: 0.8;
 	}
 }*/
+%button {
+	font-family: var(--font-sans);
+	text-transform: lowercase;
+	font-variant: small-caps;
+	text-decoration: none;
+	border-radius: 10rem;
+	padding-inline: 1.3rem;
+	padding-block: 0.75rem;
+	&:hover {
+		@extend %link-transition-opacity;
+	}
+	p:has(&) {
+		display: flex;
+		justify-content: center;
+		margin-block-start: 4rem;
+		margin-block-end: 2rem;
+	}
+}
+%link-transition-opacity {
+	opacity: 0.6;
+	transition: 0.3s opacity;
+}

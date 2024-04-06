@@ -1,9 +1,9 @@
 menu:
-  - name: SOUND&nbsp;DESIGN
-    link: '&#x23;sound-design'
-  - name: MUSIC&nbsp;PRODUCTION
-    link: '&#x23;music-production'
   - name: ORIGINAL&nbsp;MUSIC
     link: '&#x23;original-music'
+  - name: MUSIC&nbsp;PRODUCTION
+    link: '&#x23;music-production'
   - name: BASS
     link: '&#x23;bass'
+  - name: SOUND&nbsp;DESIGN
+    link: '&#x23;sound-design'
