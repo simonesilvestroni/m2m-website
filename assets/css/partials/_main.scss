@@ -275,6 +275,9 @@ abbr[title] {
 	letter-spacing: 1px;
 	margin-block: 1rem;
 	background-color: var(--transparent-bg);
+	p:has(&) {
+		text-indent: 0 !important;
+	}
 }
 .reply {
 	margin-top: 3rem;
