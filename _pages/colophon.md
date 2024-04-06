@@ -2,7 +2,7 @@
 layout: page
 title: 'Colophon'
 date: '2023-01-14 13:49:31'
-last_modified_at: '2024-02-23 20:11:12'
+last_modified_at: '2024-04-06 16:30:46'
 description: 'All about the website, with notes about privacy and copyright.'
 tldr: false
 permalink: /colophon/

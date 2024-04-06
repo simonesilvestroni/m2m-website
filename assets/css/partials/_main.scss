@@ -517,21 +517,25 @@ p {
 }
 /* tldr and summaries
    ------------------------------ */
-p.p-summary {
+p.p-summary,
+div.p-summary p {
 	line-height: var(--line-height-reg);
 	text-align: center;
 	padding: 0 0 2rem 0;
 }
-p.p-summary + p {
+p.p-summary + p,
+div.p-summary p {
 	font-family: var(--sans-font);
 }
 @media (min-width: 768px) {
-	p.p-summary {
-		padding-left: 3rem;
-		padding-right: 3rem;
+	p.p-summary,
+	div.p-summary p {
+		padding-inline-start: 3rem;
+		padding-inline-end: 3rem;
 	}
 }
-body[class*="page-tag"] p.p-summary {
+body[class*="page-tag"] p.p-summary,
+body[class*="page-tag"] div.p-summary p {
 	text-align: left;
 	font-size: 100%;
 	font-weight: normal;
