@@ -103,14 +103,11 @@ For *In Super-8* I used subprojects to save time, but it's useful for sound desi
 
 ### Performed by
 
-**Dan Ecclestone**\
-vocals and instrumentation
+Dan Ecclestone
+: vocals and instrumentation
 
-**Ian Pickering**\
-drums
+Ian Pickering
+: drums
 
 ### Production
-Mixed by Simone Silvestroni / Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/).
-
-{: .small }
-&copy; 2017 Dan Ecclestone
+Mixed by Simone Silvestroni / Mastered by [Ian Shepherd](https://productionadvice.co.uk/about/) / &copy; 2017 Dan Ecclestone.
