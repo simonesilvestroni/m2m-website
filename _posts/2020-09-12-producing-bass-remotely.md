@@ -16,8 +16,6 @@ tags:
   - 'sound project'
   - 'workflow'
 description: "An in-depth analysis of the process I go through to produce an effective bass track, from tracking to delivery. Based on a real-life scenario."
-featimage: true
-thumbOnly: true
 canonical: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'
 syndication: true
 syndicate:
@@ -25,7 +23,7 @@ syndicate:
     url: https://unlockyoursound.com/producing-bass-tracks-remotely/
 sitemap: false
 ---
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
+{% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
 
 The following analysis was written in June 2020, based on my work for [Antiquity](https://antiquity-music.com/) and their single _The Far Side Of The Sun_. They are based in New York, while I had been living in the UK at the time.
 
@@ -155,8 +153,7 @@ Optimising is paramount. To deliver a clean session I export a new copy cleaning
 
 Unless I’m working on a larger project, for which I use my [Trello system]({{ site.url }}/blog/project-management/), I have a practical way for the client to give feedback on my mixes. If they have a Dropbox account I send a direct link: they can listen and add comments that would be attached to the correct position in the song timeline. It’s the same behaviour as in SoundCloud’s comment system.
 
-![Screenshot of a Dropbox window where a waveform is presented with a sidebar where people can add comments](/assets/images/dropbox-comments-minutes-to-midnight.jpg){: width="1024" height="604" }
-*Clients can add comments from the sidebar column*
+{% include figure.liquid image='dropbox-comments-minutes-to-midnight.jpg' alt='Screenshot of a Dropbox window where a waveform is presented with a sidebar where people can add comments' width='1024' height='604' caption='Clients can add comments from the sidebar column' %}{: .fullscreen }
 
 ## Client review
 

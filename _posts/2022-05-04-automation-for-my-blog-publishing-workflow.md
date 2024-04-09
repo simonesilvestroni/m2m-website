@@ -23,11 +23,15 @@ featimage-name: 'automation-for-my-blog-publishing-workflow.jpg'
 featimage-alt: Screenshot of the macOS application Shortcuts showing automation routines
 featimage-width: 1024
 featimage-height: 739
-syndication: true
-syndicate:
-  - name: Mastodon
-    url: https://indieweb.social/@m2m/108277577329784745
 ---
+## Skills
+
+<ul class="list-inline">
+  {% for skill in page.skillset %}
+  <li><mark>{{ skill }}</mark></li>
+  {% endfor %}
+</ul>
+
 ## Objectives
 
 After reading three articles about the frustrations of maintaining static web sites[^1], I thought about the fact that to me Wordpress took away the pleasure of writing, while I don't see the debated complexity of static sites. However, it's true that I’ve been looking for ways to improve and speed up my publishing workflow. Potentially, I could end up clicking an icon or dragging a file onto a folder, and a few seconds later the post would be ready to be written.
@@ -124,8 +128,7 @@ By applying this second automation to one of the aforementioned example images, 
 
 All in all, the automated procedure is quick and efficient. Since I consider blogging a pure _desktop activity_, I'm not worried about writing on mobile devices. Plenty of markdown editors are available on iOS and Android, it would be pretty easy to start drafts on the go, and finalise them later as posts on the computer. As a quicker alternative, I can always go to my git repository, add or edit a post there, commit the changes and wait for Netlify to complete its automated build.
 
-{: .cta }
-[**Watch an old video demo**&nbsp;&rarr;](https://www.youtube.com/watch?v=K0AKv7aIxP8){: .notice-cta }
+[**Watch an old video demo**&nbsp;&rarr;](https://www.youtube.com/watch?v=K0AKv7aIxP8){: .cta }
 
 ### Future improvements
 
@@ -134,13 +137,7 @@ All in all, the automated procedure is quick and efficient. Since I consider blo
 - Handle the image resize and optimization within Shortcuts, maybe implementing [command line scripts to manipulate images](https://css-tricks.com/converting-and-optimizing-images-from-the-command-line/).
 - I'm not a fan of walled gardens, so I'd love to make the process cross-platform, using GNU make or similar alternatives.
 
-## Skills
-
-<ul class="list-inline">
-  {% for skill in page.skillset %}
-  <li><mark>{{ skill }}</mark></li>
-  {% endfor %}
-</ul>
+#### Footnotes
 
 [^1]: [_Why Bother With Static Sites_](https://rusingh.com/why-bother-with-static-sites/), by Ru Singh; [_Why I Bother With Static Sites_](https://michaelharley.net/posts/2022/03/10/why-i-bother-with-static-sites/), by Michael Harley; [_Easier Static Site Publishing_](https://www.lkhrs.com/blog/2022/04/easier-static-site-publishing/), by Luke Harris.
 [^2]: Importing workflows from Automator to Shortcuts is somewhat hit-and-miss.

@@ -20,20 +20,20 @@ description: 'New music video to celebrate the first anniversary of my debut sol
 ---
 A year ago today, on the 30th anniversary of the fall of the Berlin Wall, I published my debut solo album, _After 1989: A Trip to Freedom_. To celebrate the release, I just published on my [YouTube channel](https://www.youtube.com/@m2m) the fifth official video from the album. The song is _The Logic_.
 
-<video controls src="{{ site.url }}/assets/videos/music-video-the-logic.mp4"
-  poster="{{ site.url }}/assets/videos/music-video-the-logic.jpg"
-  width="1024">
-  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-the-logic.mp4">download it</a> and watch it with your favorite video player.
-</video>
-
-If you prefer, [watch the video on YouTube](https://youtu.be/r9NyAYXOnyk){: target="_blank"}
+<div class="fullscreen">
+  <video controls src="{{ site.url }}/assets/videos/music-video-the-logic.mp4"
+    poster="{{ site.url }}/assets/videos/music-video-the-logic.jpg"
+    width="1024">
+    Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-the-logic.mp4">download it</a> and watch it with your favorite video player.
+  </video>
+  <p>If you prefer, <a href="https://youtu.be/r9NyAYXOnyk" target="_blank">watch the video on YouTube</a></p>
+</div>
 
 ## Where Were You in November 1989?
 
 31 years ago East Germany opened the Berlin Wall, symbolising the end of decades of Cold War between East and West. This song depicts the starting point, the dark days of August 1961 when Berlin was cut in half. It’s also my homage to a brother, Michele, who played the drums in the song. I lost him around the same day, almost twenty years ago.
 
-{: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .notice-cta }
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .cta }
 
 ## Credits
 

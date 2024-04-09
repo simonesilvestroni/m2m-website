@@ -1,0 +1,502 @@
+// -------------------------------- */
+// Colours
+// -------------------------------- */
+$colour-day: #fff !default;
+$colour-night: #000 !default;
+$colour-light: #f3f3f3 !default;
+$colour-transparent: rgba(230,230,230,0.5) !default;
+$colour-day-transparent: rgba(255,255,255,0.5) !default;
+$colour-accent: #CCCCFF !default;
+$colour-extra: #FFFFCC !default;
+$colour-text: #454545 !default;
+$colour-text-light: #585858 !default;
+$colour-text-dark: #000 !default;
+$colour-link: #666 !default;
+$colour-linkover: #8be9Fd !default;
+$colour-linkovervisited: #CCCCFF !default;
+$colour-border: #d9d9d9 !default;
+$colour-highlight: #f2f1af !default;
+$colour-disabled: #efefef !default;
+$colour-shadow: #000 !default;
+
+// -------------------------------- *\
+// Main DOM elements
+// -------------------------------- */
+html {
+	scroll-behavior: smooth;
+}
+body {
+	min-height: 100vh;
+	font-family: var(--font-serif);
+	font-size: calc(1rem + 0.3vw);
+	color: $colour-text;
+}
+body > header,
+body > main,
+body > footer {
+	padding-inline: calc(1rem + 2vw);
+}
+body > header {
+	margin-block: 2.5rem 4rem;
+}
+main > * + * {
+	margin-block-start: 4rem;
+}
+body > footer {
+	background: $colour-transparent;
+	margin-block-start: 4rem;
+	padding-block: 4rem;
+}
+
+// -------------------------------- *\
+// Accessibility skip links
+// -------------------------------- */
+.skip-links {
+	margin-block-end: 2rem;
+	a {
+		&:first-child {
+			padding-inline-end: 1rem;
+		}
+	}
+}
+
+// -------------------------------- *\
+// $SECTIONS
+// -------------------------------- */
+aside {
+	> * + * {
+		margin-block-start: 2rem;
+	}
+	> h2,
+	> h3,
+	> h4,
+	> h5,
+	> h6,
+	+ p {
+		margin-block-start: 0;
+	}
+}
+section,
+article {
+	> * + * {
+		margin-block-start: 1.5rem;
+	}
+	+ h2,
+	+ h3,
+	+ h4,
+	+ h5,
+	+ h6 {
+		margin-block-start: 0;
+	}
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		margin-block-start: 3rem;
+	}
+}
+
+// -------------------------------- *\
+// $HEADINGS
+// -------------------------------- */
+// Size
+h1 { font-size: calc(1.8rem + 0.85vw) }
+h2 { font-size: calc(1.6rem + 0.25vw) }
+h3 { font-size: calc(1.4rem + 0.25vw) }
+h4 { font-size: calc(1.3rem + 0.25vw) }
+h5 { font-size: calc(1.2rem + 0.25vw) }
+h6 { font-size: calc(1.1rem + 0.25vw) }
+// Colour
+h2, h3, h4, h5, h6 {
+	color: $colour-night;
+}
+// Spacing
+h1, h2, h3, h4, h5, h6 {
+	line-height: 125%;
+}
+h3, h4, h5, h6 {
+	margin-block-start: 3rem;
+}
+// Stylings
+h3 {
+	font-weight: normal;
+}
+h4 {
+	font-variant: small-caps;
+	text-transform: lowercase;
+	letter-spacing: 2px;
+}
+h5, h6 {
+	font-style: italic;
+	font-weight: normal;
+}
+
+// -------------------------------- *\
+// $LINKS
+// -------------------------------- */
+a {
+	color: $colour-night;
+	text-decoration-color: $colour-link;
+	text-decoration-thickness: 2px;
+	text-underline-offset: 0.1rem;
+	&:hover {
+		text-decoration-thickness: 3px;
+		text-decoration-color: $colour-linkover;
+	}
+	&:focus-visible,
+	&:active {
+		outline: 3px solid $colour-night;
+	}
+}
+
+// -------------------------------- *\
+// $NAVIGATION
+// -------------------------------- */
+nav[aria-label="Main navigation"],
+nav[aria-label="Secondary navigation"] {
+	// Nav layout
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-block-start: 1rem;
+	// Nav list
+	ul {
+		display: flex;
+		flex-wrap: wrap;
+		column-gap: var(--nav-gap);
+		align-items: center;
+		list-style-type: none;
+		padding-inline-start: 0;
+	}
+	// Nav links
+	a {
+		font-variant: small-caps;
+		font-family: var(--font-serif);
+		font-weight: bold;
+		font-size: calc(1rem + 0.5vw);
+		text-transform: lowercase;
+		letter-spacing: calc(0.5px + 0.15vw);
+		color: $colour-text;
+		text-decoration: none;
+		&:hover {
+			color: $colour-text-light;
+			cursor: pointer;
+			text-decoration: underline;
+			text-decoration-thickness: 2px;
+		}
+	}
+}
+nav[aria-label="Footer navigation"] {
+	margin-block: 1.5rem;
+	// Nav list
+	ul {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		list-style-type: none;
+		padding-inline-start: 0;
+		li {
+			font-size: calc(0.85rem + 0.25vw);
+		}
+	}
+}
+
+// -------------------------------- *\
+// $FORMS
+// -------------------------------- */
+form {
+	fieldset {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		column-gap: 1rem;
+		padding: 0 2rem 2rem 2rem;
+		border-radius: var(--border-radius-standard);
+		border: 2px solid $colour-border;
+		> * + * {
+			margin-block-start: 1rem;
+		}
+	}
+	label {
+		flex-basis: 100%;
+		font-size: smaller;
+		font-weight: bold;
+		cursor: pointer;
+	}
+	input {
+		&[type='search'],
+		&[type='text'] {
+			flex-grow: 1;
+			padding-block: 0.2rem;
+			padding-inline: 0.4rem;
+			border-radius: var(--border-radius-standard);
+			background: $colour-day-transparent;
+			&:focus {
+				outline: 0.3rem solid $colour-accent;
+				background: $colour-transparent;
+			}
+		}
+		&[type='submit'] {
+			@extend %small-caps;
+			font-weight: bold;
+			padding-block: 0.2rem;
+			padding-inline: 0.8rem;
+			border-radius: var(--border-radius-standard);
+			background: $colour-light;
+		}
+	}
+}
+
+// -------------------------------- *\
+// $CONTENT
+// -------------------------------- */
+// Paragraphs
+// -------------------------------- */
+footer p {
+	margin-block-start: 1rem;
+}
+
+// -------------------------------- */
+// Imagery
+// -------------------------------- */
+img {
+	main & {
+		height: auto;
+	}
+	p:has(&) {
+		margin-block-start: 2.5rem;
+	}
+}
+img + em {
+	display: block;
+	font-family: var(--font-serif);
+	text-align: left;
+	color: $colour-text-light;
+	margin-block-start: 0.8rem;
+}
+figure {
+	overflow-x: auto;
+	margin-block-start: 3rem;
+	margin-block-end: 1rem;
+	&.fullscreen {
+		img {
+			min-width: 100%;
+		}
+		figcaption {
+			width: 75%;
+			@media (max-width: 650px) {
+				width: 100%;
+			}
+		}
+	}
+}
+figcaption {
+	font-family: var(--font-serif);
+	font-style: italic;
+	line-height: 1.4;
+	color: $colour-text-light;
+	margin-block-start: 1rem;
+}
+video + p {
+	font-family: var(--font-serif);
+	font-size: smaller;
+	margin-block: 1rem;
+}
+
+// -------------------------------- *\
+// Lists
+// -------------------------------- */
+main ul {
+	list-style-type: circle;
+	padding-inline-start: calc(1rem + 0.25vw);
+	> * + * {
+		margin-block-start: 0.5rem;
+	}
+}
+dt {
+	font-weight: bold;
+	color: $colour-text-light;
+}
+dd {
+	font-family: var(--font-serif);
+	margin-block-start: 0.25rem;
+	margin-block-end: 1.5rem;
+	padding-inline-start: 1.5rem;
+}
+
+// -------------------------------- *\
+// Code elements
+// -------------------------------- */
+code,
+pre,
+kbd,
+samp {
+	font-family: var(--font-mono);
+	color: $colour-night;
+}
+kbd {
+	border: 1px solid $colour-border;
+	border-bottom: 3px solid $colour-border;
+	border-radius: var(--border-radius-standard);
+	padding: 0 0.4rem;
+}
+pre {
+	max-width: 100%;
+	overflow: auto;
+	margin: 2rem 0;
+	padding: 1rem;
+	border: 1px solid $colour-border;
+}
+pre code {
+	margin: 0;
+	padding: 0;
+	background: transparent;
+}
+pre span {
+	font-family: var(--font-mono);
+}
+
+// -------------------------------- *\
+// Quotes
+// -------------------------------- */
+blockquote {
+	margin-block: 2rem 0.5rem;
+	> p {
+		font-family: var(--font-serif);
+		font-size: calc(1.15rem + 0.3vw);
+		line-height: 1.5;
+		width: calc(85% + 0.390625vw);
+		padding-inline-start: calc(0.5rem + 1.5vw);
+		border-inline-start: calc(1px + 0.2vw) solid $colour-border;
+	}
+	cite {
+		@extend %small-caps;
+		display: block;
+		font-style: normal;
+		letter-spacing: 1px;
+		margin-block-start: 1rem;
+		&:before {
+			content: '– ';
+		}
+	}
+}
+
+// -------------------------------- *\
+// Accordion
+// -------------------------------- */
+details {
+	margin-bottom: 1rem;
+}
+summary {
+	cursor: pointer;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-transform: lowercase;
+	letter-spacing: 1px;
+	word-break: break-all;
+}
+// details[open] > summary + * {}
+// details[open] > summary {}
+
+// -------------------------------- *\
+// Table
+// -------------------------------- */
+table {
+	border-collapse: collapse;
+	margin: 2rem 0;
+	min-width: 100%;
+}
+td,
+th {
+	text-align: left;
+	padding: 0.5rem;
+	border-top: 1px solid $colour-border;
+	border-bottom: 1px solid $colour-border;
+}
+th,
+tr:nth-child(even) {
+	background-color: $colour-transparent;
+}
+table caption {
+	font-weight: bold;
+	margin-bottom: 0.5rem;
+}
+
+// -------------------------------- *\
+// iframes
+// -------------------------------- */
+.iframe-container {
+	position: relative;
+	overflow: hidden;
+	margin: 3rem 0;
+	padding-block-start: 56.25%;
+	iframe {
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		left: 0;
+		top: 0;
+		border: 0;
+		background-color: transparent
+	}
+}
+.iframe-bandcamp iframe {
+	width: 100%;
+	background: $colour-day;
+	margin: 2rem 0;
+	box-shadow: 6px 6px lighten($colour-link, 30%);
+	border: 0;
+}
+
+.iframe-bandcamp.bc-single iframe {
+	border: 0;
+	height: 120px;
+}
+.iframe-bandcamp.bc-ep iframe {
+	border: 0;
+	height: 220px;
+}
+.iframe-bandcamp.bc-album iframe {
+	border: 0;
+	height: 400px;
+}
+
+// -------------------------------- *\
+// Inline elements
+// -------------------------------- */
+abbr[title] {
+	cursor: help;
+	text-decoration-line: underline;
+	text-decoration-style: dotted;
+}
+time {
+	@extend %dim;
+	@extend %small;
+}
+mark {
+	color: $colour-night;
+	padding: 2px 4px;
+	background-color: $colour-extra;
+}
+sup, sub {
+	font-size: 65%;
+	vertical-align: baseline;
+	position: relative;
+}
+sup {
+	top: -0.4rem;
+}
+sub { 
+	top: 0.3rem; 
+}
+
+// -------------------------------- *\
+// Separator
+// -------------------------------- */
+hr {
+	border: none;
+	height: 1px;
+	background: $colour-border;
+	margin: 2rem auto;
+}

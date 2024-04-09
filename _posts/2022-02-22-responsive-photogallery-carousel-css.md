@@ -20,6 +20,14 @@ featimage-alt: Screenshot of the photogallery in action, showing a large image a
 featimage-width: 1024
 featimage-height: 622
 ---
+## Skills
+
+<ul class="list-inline">
+  {% for skill in page.skillset %}
+  <li><mark>{{ skill }}</mark></li>
+  {% endfor %}
+</ul>
+
 ## Objectives
 
 While working on [Silvia Maggi's new website]({{ site.url }}/blog/website-silviamaggidesign/), we realised that her photo galleries, relying on two Javascript-based components from Bootstrap 5, were slowing down the loading time and affecting the benchmarks. Since we shared a principle of considering _web performance as a design feature_ instead of an afterthought, she asked me to create an image gallery carousel in HTML and CSS instead. It had to be integrated in Jekyll, adopt responsive images and a few intuitive touch controls for mobile devices.
@@ -50,11 +58,3 @@ I'm considering two future improvements: in case a CMS admin dashboard had been 
 ## Results
 
 Tests were successful on all devices, desktop, tablets and smartphones with modern browsers. Swiping on touch devices worked as expected while most browsers on desktop gracefully accepted the scroll snapping. Performance checks returned stunning results: thanks to the efficient code, and the [implementation of responsive images](https://github.com/simonesilvestroni/css-responsive-photogallery#responsive-images), Pagespeed on mobile went from <code>27</code> to <code>100</code>.
-
-## Skills
-
-<ul class="list-inline">
-  {% for skill in page.skillset %}
-  <li><mark>{{ skill }}</mark></li>
-  {% endfor %}
-</ul>

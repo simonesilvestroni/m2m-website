@@ -1,6 +1,4 @@
 menu:
-  - name: <img src="/assets/images/m2m-nav-logo.svg" alt="Homepage" width="32" height="32">
-    link: /
   - name: About
     link: /about/
   - name: Blog

@@ -11,9 +11,7 @@ tags:
   - 'italy'
   - 'sound project'
 description: 'I mixed the lead song from the debut EP <em>Tales from holographic seas</em>.'
-featimage: true
-thumbOnly: true
 ---
 Based in my hometown Ravenna, the trio ranges between cinematic suggestions and an indie-rock feeling, shifting the perspective of a diverse music background. I mixed the song [*Nebbia (part one)*](https://arvavacua.bandcamp.com/track/nebbia-part-one) using Avid's Pro Tools.
 
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3121255947/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=1132146010/transparent=true/" seamless><a href="https://arvavacua.bandcamp.com/album/tales-from-holographic-seas">Tales from holographic seas by Arva Vacua</a></iframe>' %}
+{% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3121255947/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=1132146010/transparent=true/" seamless><a href="https://arvavacua.bandcamp.com/album/tales-from-holographic-seas">Tales from holographic seas by Arva Vacua</a></iframe>' %}

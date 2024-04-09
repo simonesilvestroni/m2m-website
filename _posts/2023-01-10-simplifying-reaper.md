@@ -12,8 +12,7 @@ I'm going to be quick and straight to the point: no matter how much experience I
 
 Also, the new dimmed customized colour palette, similar to ProTools' is soothing to my eyes. Especially useful when coupled with [SWS auto-coloring tracks and regions](https://www.youtube.com/watch?v=YYUKduPumIM) based on common prefixes. 
 
-![Screenshot of Reaper's arrange window](/assets/images/reaper-full-window.jpg){: width="1280" height="800" }
-*Screenshot of my current Reaper's arrange window*
+{% include figure.liquid image='reaper-full-window.jpg' alt='Screenshot of Reaper’s arrange window' width='1280' height='800' caption='Screenshot of my current Reaper’s arrange window' %}{: .fullscreen }
 
 What can be seen in the above screenshot:
 

@@ -20,14 +20,14 @@ description: '75 years ago, while two young men escaped from Sachsenhausen conce
 ---
 ## Music video
 
-<video controls src="{{ site.url }}/assets/videos/music-video-a-little-boy-that-santa-claus-forgot-on-a-b-29.mp4"
-  poster="{{ site.url }}/assets/videos/music-video-a-little-boy-that-santa-claus-forgot-on-a-b-29.jpg"
-  width="1024">
-  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-a-little-boy-that-santa-claus-forgot-on-a-b-29.mp4">download it</a> and watch it with your favorite video player.
-</video>
-
-{: .small }
-If you prefer, [watch the video on YouTube](https://youtu.be/5M1XTw483Ew){: target="_blank"}
+<div class="fullscreen">
+  <video controls src="{{ site.url }}/assets/videos/music-video-a-little-boy-that-santa-claus-forgot-on-a-b-29.mp4"
+    poster="{{ site.url }}/assets/videos/music-video-a-little-boy-that-santa-claus-forgot-on-a-b-29.jpg"
+    width="1024">
+    Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-a-little-boy-that-santa-claus-forgot-on-a-b-29.mp4">download it</a> and watch it with your favorite video player.
+  </video>
+  <p>If you prefer, <a href="https://youtu.be/5M1XTw483Ew" target="_blank">watch the video on YouTube</a></p>
+</div>
 
 ## Backstory
 
@@ -48,8 +48,7 @@ A pun over an [old tune by Vera Lynn](https://youtu.be/4Zj-XYQ21qE) intertwined 
 
 The contrast between the Christmas carol-like music of the final section, and this flatly delivered horrifying declaration is chilling.
 
-{: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .notice-cta }
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .cta }
 
 ## Credits
 

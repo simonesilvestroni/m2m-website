@@ -1,0 +1,17 @@
+%grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(#{$grid-global-min-col}, #{$grid-global-cols}fr));
+}
+%grid-col-centre {
+	display: grid;
+	grid-template-columns: 1fr min(#{$grid-centre-width}, 100%) 1fr;
+	grid-template-rows: auto 1fr auto;
+}
+%grid-col-repeat {
+	display: grid;
+	grid-gap: #{$grid-gap};
+	grid-template-columns: repeat(auto-fit, minmax($grid-repeat-col-min-width, auto));
+	@media (max-width: 550px) {
+		grid-template-columns: 1fr;
+	}
+}

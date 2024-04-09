@@ -121,7 +121,7 @@ UI Farm adheres strictly to industry web coding standards:
 ### Performance
 
 > 86% of responsive sites send about the same hefty payload to small screens as they do to large screens.
-> <cite>Brad Frost — <a href="http://bradfrostweb.com/blog/post/prioritizing-performance-in-responsive-design/"><em>Prioritizing Performance In Responsive Design</em></a></cite>
+> <cite>[Brad Frost](http://bradfrostweb.com/blog/post/prioritizing-performance-in-responsive-design/)</cite>
 
 In other words, mobile users are downloading desktop-sized sites. We look at **performance as a major feature implemented by default**, and not treated as an afterthought. During the quality assurance Agile sprint, UI Farm run several benchmarks, implementing all of the performance improvements, to serve the best experience to all the different devices. All the results are documented and accessible by the client.
 

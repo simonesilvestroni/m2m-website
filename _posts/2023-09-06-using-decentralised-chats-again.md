@@ -36,4 +36,6 @@ Besides the obvious observation that the whole process might look less user-frie
 - I’m not tied to yet another proprietary single-use application, which makes me effectively free from corporate controversy, whether it’s Meta, the founder of Telegram, or others.
 - Most modern XMPP software clients have encryption on by default&nbsp;—&nbsp;Beagle IM uses the widespread [OMEMO](https://en.wikipedia.org/wiki/OMEMO).
 
+#### Footnotes
+
 [^1]: To sign up for Disroot head over to their [“New user registration” form](https://user.disroot.org/pwm/public/newuser)

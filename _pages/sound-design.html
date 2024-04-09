@@ -16,7 +16,7 @@ permalink: /sound-design/
 {%- assign OriginalMusic = site.posts | where_exp:'post','post.title contains "Release" and post.tags contains "sound project"' %}
 {%- assign Bass = site.posts | where_exp:'post','post.title contains "Bass" and post.tags contains "sound project"' %}
 <section>
-	<h2>Browse a selection of relevant case studies</h2>
+	<h2>Relevant case studies</h2>
 	<ul class="list-hr">
 		{%- for item in site.data.nav-work-sound.menu %}
 		<li><a href="{{ item.link }}">{{ item.name }}</a></li>
@@ -27,38 +27,25 @@ permalink: /sound-design/
 	<h2 id="original-music">Original music</h2>
 	{%- for post in OriginalMusic %}
 	{% include article-case-studies.liquid %}
-	{%- unless forloop.last %}
-	<hr>
-	{%- endunless %}
 	{%- endfor %}
 </section>
-<br>
 <section class="h-feed">
 	<h2 id="music-production">Music production</h2>
 	{%- for post in MusicProduction %}
 	{% include article-case-studies.liquid %}
-	{%- unless forloop.last %}
-	<hr>
-	{%- endunless %}
 	{%- endfor %}
 </section>
-<br>
 <section class="h-feed">
 	<h2 id="bass">Bass</h2>
 	{%- for post in Bass %}
 	{% include article-case-studies.liquid %}
-	{%- unless forloop.last %}
-	<hr>
-	{%- endunless %}
 	{%- endfor %}
 </section>
-<br>
 <section class="h-feed">
 	<h2 id="sound-design">Sound design</h2>
 	{%- for post in SoundDesign %}
 	{% include article-case-studies.liquid %}
-	{%- unless forloop.last %}
-	<hr>
-	{%- endunless %}
 	{%- endfor %}
+	<hr>
+	<p><a href="https://sound.minutestomidnight.co.uk" class="cta">Full sound design resume</a></p>
 </section>

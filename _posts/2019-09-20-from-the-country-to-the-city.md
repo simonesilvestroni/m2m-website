@@ -13,10 +13,8 @@ tags:
   - 'uk'
   - 'sound project'
 description: "I mixed Ember Rev’s follow-up album to ‘Premonition and Ruin’ using Logic Pro, collaborating with Sam Inglis and Ian Shepherd."
-featimage: true
-thumbOnly: true
 ---
-{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=404229151/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://emberrev.bandcamp.com/album/from-the-country-to-the-city-to-the-sea-2">From The Country To The City To The Sea by Ember Rev</a></iframe>' %}
+{% include bandcamp.liquid size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=404229151/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://emberrev.bandcamp.com/album/from-the-country-to-the-city-to-the-sea-2">From The Country To The City To The Sea by Ember Rev</a></iframe>' %}
 
 ## Credits
 

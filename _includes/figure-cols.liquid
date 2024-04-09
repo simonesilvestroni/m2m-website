@@ -1,0 +1,10 @@
+<div class="cols">
+	<figure>
+		<img src="{{ site.url }}/assets/images/{{ include.image1 }}" alt="{{ include.alt1 }}" {{ include.width1 ? include.width1 | prepend: 'width="' | append: '"' }} {{ include.height1 ? include.height1 | prepend: 'height="' | append: '"' }}>
+			{%- if include.caption1 %}<figcaption>{{ include.caption1 }}</figcaption>{%- endif %}
+	</figure>
+	<figure>
+		<img src="{{ site.url }}/assets/images/{{ include.image2 }}" alt="{{ include.alt2 }}" {{ include.width2 ? include.width2 | prepend: 'width="' | append: '"' }} {{ include.height2 ? include.height2 | prepend: 'height="' | append: '"' }}>
+		{%- if include.caption2 %}<figcaption>{{ include.caption2 }}</figcaption>{%- endif %}
+	</figure>
+</div>

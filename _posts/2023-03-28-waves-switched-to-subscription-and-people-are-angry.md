@@ -75,8 +75,7 @@ What about my archive of old sessions? That’s a chimera anyway, as [Eric Saraf
 
 I don’t actually give a shit about large corporations and I’m not a fanboy. However, in this particular case, I did invest in Waves’ plug-ins and still enjoy several of them. Arguably, they’ve taken one of the dumbest decision ever by a software company in the audio industry, and I stand by my comment on YouTube. I’ll leave with this:
 
-{% include pattern-video.html provider="yewtu.be" id="SWF85nOOTD8" %}
-[_Watch the video on YouTube_](https://youtu.be/SWF85nOOTD8){: target="_blank"}
+{% include video.liquid id="SWF85nOOTD8" %}
 
 ## Edit: Waves performed a U-turn
 

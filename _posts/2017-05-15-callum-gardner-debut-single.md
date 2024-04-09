@@ -24,24 +24,20 @@ A few years ago I got in touch with [Ciara Clifford](https://open.spotify.com/ar
 
 The opening act was a young singer-songwriter playing an acoustic solo set, [Callum Gardner](https://callumgardnerofficial.com/). Captivated by his performance, I went to congratulate him, taking note of his online presence to follow the progress.
 
-> Sometimes things really do happen for a reason. It’s those coincidences that put you in a situation that just would never have happened otherwise. I was filling in last minute for a solo act opening at _Nambucca_ after a friend had kindly waved my name over to an independent promoter. Two people I was introduced to during that show went on to join my musical journey, and we are still in collaboration to this day.
-> 
-> <cite>Callum Gardner</cite>
+> Sometimes things really do happen for a reason. It’s those coincidences that put you in a situation that just would never have happened otherwise. I was filling in last minute for a solo act opening at _Nambucca_ after a friend had kindly waved my name over to an independent promoter. Two people I was introduced to during that show went on to join my musical journey, and we are still in collaboration to this day.<cite>Callum Gardner</cite>
 
 Later, we got in touch and started chatting. Less than a year later he asked me to be part of his new band. There was a debut single ready to be produced and a few live gigs already planned.
 
-## Producing 'Commit to the List'
+## Producing _Commit to the List_
 
 In February 2017, we met at the SAE Studio in London for the recording sessions. Drums and bass came out pretty nicely in a short time during a single session. We later recorded lead and backing vocals, along with guitars and viola. Had a chat with Callum about production and mixing and offered my help.
 
 The song was mixed and mastered using Logic Pro and Wavelab. Because of some unclear mistake occurred in the studio in London, I got the chance to let my ability with iZotope RX shine while [fixing drum tracks](/blog/drums-restoration/).
 
 > _Commit to the List_ was written at a very important time for me. I’d moved to London and was eager to make some waves within touching distance of the Thames. It’s still the opening song for my live shows today and went through quite a journey from pen & paper to mix & master.
-> 
 > <cite>Callum Gardner</cite>
 
-{: .cta }
-[**Listen to the song on Spotify**&nbsp;&rarr;](https://open.spotify.com/track/4e2PTyfPfvw9WunM9nG0nT?si=0972153817224ac8){: target="_blank"}{: .notice-cta }
+[**Listen to the song on Spotify**&nbsp;&rarr;](https://open.spotify.com/track/4e2PTyfPfvw9WunM9nG0nT?si=0972153817224ac8){: target="_blank"}{: .cta }
 
 ## Going live
 

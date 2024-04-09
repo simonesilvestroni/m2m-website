@@ -1,0 +1,159 @@
+// -------------------------------- *\
+// Protruding elements w/ images
+// -------------------------------- */
+%fullscreen {
+	grid-column: 1/-1;
+	img,
+	video {
+		min-width: 100%;
+	}
+}
+
+// -------------------------------- *\
+// Links
+// -------------------------------- */
+%link-skip {
+	margin-block-end: 0;
+	a {
+		position: absolute;
+		top: -50em;
+		right: 1%;
+		line-height: 1;
+		font-size: 1.2rem;
+		text-transform: lowercase;
+		font-variant: small-caps;
+		font-weight: bold;
+		color: $colour-light;
+		padding: 1rem;
+		transition: top 0.3s;
+		background: $colour-night;
+		&:focus {
+			top: 0;
+		}
+	}
+}
+%link-card {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	text-indent: -10000em;
+	z-index: 10;
+}
+// Link effects
+%link-transition-opacity {
+	opacity: 0.6;
+	transition: 0.3s opacity;
+}
+%link-transition-size {
+	transform: scale(1.025);
+	transition: 0.2s transform;
+}
+
+// ------------------------------------
+// Columns
+// ------------------------------------
+%cols {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	column-gap: 1.5rem;
+	row-gap: 2rem;
+	margin-block: 2.5rem;
+	* {
+		flex: 1 400px;
+	}
+}
+
+// -------------------------------- *\
+// Lists
+// -------------------------------- */
+%list-inline {
+	list-style: none;
+	padding-inline-start: 0;
+	li {
+		list-style-type: none;
+		display: inline-block;
+	}
+}
+%list-table {
+	list-style: none;
+	padding-inline-start: 0;
+	li {
+		align-items: center;
+		display: flex;
+		flex-direction: row-reverse;
+		justify-content: space-between;
+		padding: 0.5rem 0;
+		border-bottom: 2px solid $colour-transparent;
+		&:hover {
+			border-bottom: 2px solid $colour-night;
+			transition: 0.5s border;
+		}
+		a {
+			display: inline-block;
+			text-decoration-thickness: 1px;
+			width: 100%;
+			&:hover {
+				text-decoration-thickness: 3px;
+			}
+		}
+		time {
+			padding-inline-start: 2rem;
+		}
+	}
+}
+
+// -------------------------------- *\
+// Size
+// -------------------------------- */
+%big {
+	font-size: larger !important
+}
+%small {
+	font-size: smaller !important
+}
+%micro {
+	font-size: 75% !important;
+}
+%small-caps {
+	text-transform: lowercase;
+	font-variant: small-caps;
+}
+
+// -------------------------------- *\
+// Visibility
+// -------------------------------- */
+%dim { 
+	color: lighten($colour-text-light, 20%) !important;
+}
+%hidden { 
+	display: none !important
+}
+%visually-hidden { 
+	position: absolute !important;
+	width: 1px !important;
+	height: 1px !important;
+	padding: 0 !important;
+	margin: -1px !important;
+	overflow: hidden !important;
+	clip: rect(0,0,0,0) !important;
+	white-space: nowrap !important;
+	border: 0 !important;
+}
+
+// -------------------------------- *\
+// Effects
+// -------------------------------- */
+%drop-shadow {
+	box-shadow:
+		rgba($colour-shadow, 0.03) 0px 1px 2px, 
+		rgba($colour-shadow, 0.03) 0px 2px 4px, 
+		rgba($colour-shadow, 0.03) 0px 4px 8px, 
+		rgba($colour-shadow, 0.03) 0px 8px 16px,
+		rgba($colour-shadow, 0.03) 0px 16px 32px,
+		rgba($colour-shadow, 0.03) 0px 32px 64px;
+}

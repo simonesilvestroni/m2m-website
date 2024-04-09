@@ -9,8 +9,6 @@ tags:
   - 'uk'
   - 'sound project'
 description: 'I recorded and co-produced strings arrangements for Clifford’s eponymous debut album, in collaboration with Paolo Clementi.'
-featimage: true
-thumbOnly: true
 ---
 ## Production notes
 
@@ -18,5 +16,4 @@ Building on the same workflow adopted for [Mally Harpaz's solo album _Zoom In Zo
 
 The record was then mixed by [Shuta Shinoda](https://www.soundonsound.com/people/talkback-shuta-shinoda) at the [_Strongroom_](https://www.strongroom.com/), in London.
 
-{: .cta }
-[**Listen on Spotify**&nbsp;&rarr;](https://open.spotify.com/album/4jaYdZbqJG4JVJrUVujqV7?go=1&sp_cid=a0e6dbdfd3340cbc5be1a1ac79e38591&utm_source=embed_player_p&utm_medium=desktop)
+[**Listen on Spotify**&nbsp;&rarr;](https://open.spotify.com/album/4jaYdZbqJG4JVJrUVujqV7?go=1&sp_cid=a0e6dbdfd3340cbc5be1a1ac79e38591&utm_source=embed_player_p&utm_medium=desktop){: .cta }

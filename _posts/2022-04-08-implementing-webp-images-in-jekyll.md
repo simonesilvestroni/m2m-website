@@ -14,16 +14,18 @@ skillset:
   - HTML
   - Browser support
 description: "Adding WebP images to my Jekyll-based static site ensured new levels of optimisation and performance."
-featimage: true
-thumbOnly: true
-featimage-name: 'implementing-webp-images-in-jekyll.jpg'
-featimage-alt: WebP official logo
-featimage-width: 1024
-featimage-height: 739
 ---
-<aside class="warning">
+<aside>
   <p><strong>Note</strong> — WebP is a modern image format <a href="https://caniuse.com/?search=webp">supported in all major browsers</a> that provides superior lossless and lossy compression for images on the web. WebP images are between 25% and 34% smaller than comparable PNGs and JPEGs.</p>
 </aside>
+
+## Skills
+
+<ul class="list-inline">
+  {% for skill in page.skillset %}
+  <li><mark>{{ skill }}</mark></li>
+  {% endfor %}
+</ul>
 
 ## Objectives
 
@@ -47,11 +49,3 @@ I created a `<picture>` element containing all the `srcset` needed to serve fall
 ## Results
 
 I cut the loading time by a considerable amount in pages with multiple images, getting a double `100%` on GTMetrix, and improving my [512k club](https://512kb.club/#100) rank.
-
-## Skills
-
-<ul class="list-inline">
-  {% for skill in page.skillset %}
-  <li><mark>{{ skill }}</mark></li>
-  {% endfor %}
-</ul>

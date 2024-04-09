@@ -10,7 +10,7 @@ Header add X-XSS-Protection "1; mode=block"
 Header add X-Content-Type-Options "nosniff"
 Header add Referrer-Policy "no-referrer"
 Header add Strict-Transport-Security "max-age=31536000;includeSubDomains;preload"
-Header add Content-Security-Policy "default-src 'self';style-src 'self' 'unsafe-inline' https://minutestomidnight.co.uk;img-src 'self' https://minutestomidnight.co.uk;script-src 'self' https://s4.bcbits.com;frame-src https://yewtu.be/embed/ https://www.youtube-nocookie.com/embed/ https://bandcamp.com/EmbeddedPlayer/ https://player-widget.mixcloud.com/;object-src 'self';frame-ancestors 'self' https://ui.dev/amiresponsive"
+Header add Content-Security-Policy "default-src 'self';style-src 'self' 'unsafe-inline' https://minutestomidnight.co.uk;img-src 'self' https://minutestomidnight.co.uk;script-src 'self' https://s4.bcbits.com;frame-src https://www.youtube-nocookie.com/embed/ https://bandcamp.com/EmbeddedPlayer/ https://player-widget.mixcloud.com/;object-src 'self';"
 Header add Permissions-Policy "accelerometer=(self),autoplay=(self),camera=(self),encrypted-media=(self),fullscreen=(self),geolocation=(self),gyroscope=(self),magnetometer=(self),microphone=(self),midi=(self),payment=(self),usb=(self),picture-in-picture=(self 'https://yewtu.be/embed/' 'https://www.youtube-nocookie.com/embed/')"
 
 # Caching

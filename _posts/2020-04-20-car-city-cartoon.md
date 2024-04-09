@@ -11,8 +11,6 @@ tags:
   - 'sound design'
   - 'sound project'
 description: "Sound effects, dialogue and music sync for the acclaimed show ‘Tom the Tow Truck’, part of the Car City series by Paris-based Amuse."
-featimage: true
-thumbOnly: true
 ---
 ## Cartoon series episodes
 
@@ -73,8 +71,7 @@ Once I familiarized with the screenplay and the silent video animation, my go-to
 
 Then it was a matter of following the story and create the sound design for the rest of the movie. I kept an iPad as an external monitor, to always have the video on its own. I didn't use plug-ins except for impulse response reverbs, though I did rely a lot functionalities such as gain, pan, and a whole lot of automation.
 
-![Logic project with automation for Car City: Tom the Tow Truck](/assets/images/carcity-tom-logic.jpg){: width="1024" height="604" }
-*Logic project with automation for Car City: Tom the Tow Truck*
+{% include figure.liquid image='carcity-tom-logic.jpg' alt='Logic project with automation for Car City: Tom the Tow Truck' width='1024' height='604' caption='Logic project with automation for Car City: Tom the Tow Truck' %}{: .fullscreen }
 
 ## Delivery
 

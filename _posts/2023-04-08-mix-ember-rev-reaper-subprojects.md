@@ -13,14 +13,8 @@ tags:
   - 'uk'
   - 'sound project'
 description: 'How I mixed a rework of Ember Rev’s debut album, exploiting the subproject functionality in REAPER to save time and processing power.'
-featimage: true
-thumbOnly: true
-syndication: yes
-syndicate:
-  - name: Mastodon
-    url: https://indieweb.social/@m2m/109365987013518922
 ---
-{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=2164587015/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://emberrev.bandcamp.com/album/in-super-8">In Super-8 by Ember Rev</a></iframe>' %}
+{% include bandcamp.liquid size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=2164587015/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://emberrev.bandcamp.com/album/in-super-8">In Super-8 by Ember Rev</a></iframe>' %}
 
 ## Album trilogy
 
@@ -63,28 +57,23 @@ From REAPER's official manual:
 
 Although it's possible to add a subproject in several ways, I clicked the `Insert` menu and chose `Media file...` (Fig. 1).
 
-![REAPER software showing an open Insert menu saying Media file](/assets/images/reaper-subproject-combo-01-add-project.jpg){: width="1024" height="640" }
-*Fig. 1 – Adding a project into another project*
+{% include figure.liquid image='reaper-subproject-combo-01-add-project.jpg' alt='REAPER software showing an open Insert menu saying Media file' width='1024' height='640' caption='Fig. 1 – Adding a project into another project' %}{: .fullscreen }
 
 Once the project was selected, REAPER opened it, created a proxy and started rendering the stereo master (Fig. 2).
 
-![REAPER showing the render window](/assets/images/reaper-subproject-combo-02-rendering-project.jpg){: width="1024" height="640" }
-*Fig. 2 – A session rendering as a subproject*
+{% include figure.liquid image='reaper-subproject-combo-02-rendering-project.jpg' alt='REAPER showing the render window' width='1024' height='640' caption='Fig. 2 – A session rendering as a subproject' %}{: .fullscreen }
 
 After the project was rendered into my album session as a wave file, the edit cursor positioned itself at the end of the audio clip. I then proceeded to add a 2-second gap, similar to what's usually done in mastering (Fig. 3). With the edit cursor now moved by two seconds, I added the next song.
 
-![A window menu in REAPER software, showing how to add a 2-second gap after a wave file](/assets/images/reaper-subproject-combo-03-add-space.jpg){: width="1024" height="640" }
-*Fig. 3 – Adding a 2-second gap after a song*
+{% include figure.liquid image='reaper-subproject-combo-03-add-space.jpg' alt='A window menu in REAPER software, showing how to add a 2-second gap after a wave file' width='1024' height='640' caption='Fig. 3 – Adding a 2-second gap after a song' %}{: .fullscreen }
 
 When all six projects were loaded as rendered proxy wavefiles, I could see *In Super-8* in its full glory (Fig. 4).
 
-![REAPER arrange window, showing the six song forming the album](/assets/images/reaper-subproject-combo-04-final-project.jpg){: width="1024" height="640" }
-*Fig. 4 – The entire album in the project containing 6 subprojects*
+{% include figure.liquid image='reaper-subproject-combo-04-final-project.jpg' alt='REAPER arrange window, showing the six song forming the album' width='1024' height='640' caption='Fig. 4 – The entire album in the project containing 6 subprojects' %}{: .fullscreen }
 
 It was now super easy to listen, measure and test each song as part of an album. Inconsistencies were easier to spot, and testing loudness is a piece of cake with [REAPER SWS loudness functionality](https://wiki.cockos.com/wiki/index.php/Measure_and_normalize_loudness_with_SWS) (Fig. 5).
 
-![REAPER showing SWS menu Loudness window, indicating values for the six songs](/assets/images/reaper-subproject-combo-05-test-loudness.jpg){: width="1024" height="640" }
-*Fig. 5 – Testing loudness on the entire album*
+{% include figure.liquid image='reaper-subproject-combo-05-test-loudness.jpg' alt='REAPER showing SWS menu Loudness window, indicating values for the six songs' width='1024' height='640' caption='Fig. 5 – Testing loudness on the entire album' %}{: .fullscreen }
 
 ## What's the advantage of having subprojects into one big project?
 

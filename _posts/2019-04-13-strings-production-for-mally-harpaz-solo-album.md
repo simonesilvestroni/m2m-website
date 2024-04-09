@@ -9,10 +9,8 @@ tags:
   - 'uk'
   - 'sound project'
 description: 'I recorded and co-produced strings arrangements for Mally Harpaz new solo album, in collaboration with Paolo Clementi.'
-featimage: true
-thumbOnly: true
 ---
-{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=1269621726/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://mallyharpaz.bandcamp.com/album/zoom-in-zoom-out">Zoom In Zoom Out by Mally Harpaz</a></iframe>' %}
+{% include bandcamp.liquid size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=1269621726/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://mallyharpaz.bandcamp.com/album/zoom-in-zoom-out">Zoom In Zoom Out by Mally Harpaz</a></iframe>' %}
 
 ## Production notes
 

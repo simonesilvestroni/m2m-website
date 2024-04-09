@@ -14,10 +14,8 @@ tags:
   - 'uk'
   - 'sound project'
 description: "A delicate piano-centric album, ‘Hidden Music’ is another successful collaboration with multi-instrumentalist Dan Ecclestone."
-featimage: true
-thumbOnly: true
 ---
-{% include pattern-bandcamp.html size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=3656047790/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://danecclestone.bandcamp.com/album/hidden-music">Hidden Music by Dan Ecclestone</a></iframe>' %}
+{% include bandcamp.liquid size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=3656047790/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://danecclestone.bandcamp.com/album/hidden-music">Hidden Music by Dan Ecclestone</a></iframe>' %}
 
 ## Production
 
@@ -31,8 +29,7 @@ This was the first full-fledged album that I mixed using Reaper after [switching
 
 ## Official video for _Approaching Silence_
 
-{% include pattern-video.html provider="yewtu.be" id="GFFxceUwA-8" %}
-[_If you prefer, watch the video on YouTube_](https://youtu.be/GFFxceUwA-8){: target="_blank" }
+{% include video.liquid id="GFFxceUwA-8" %}
 
 ## Credits
 

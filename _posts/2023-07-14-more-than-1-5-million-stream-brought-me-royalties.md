@@ -41,6 +41,6 @@ Checking out the dates in the report, I realise the time period is more than 3 y
 
 ## New car, caviar!
 
-So how much did I get for more than a million and a half streams on YouTube? <mark>46 GBP</mark>. That's around $50, for comparison. I still don't know where all those listens come from, because this is the streaming industry: a commodified bullshit that only care about corporate stakeholders.
+So how much did I get for more than a million and a half streams on YouTube? <mark>46 GBP</mark>. That's around $50, for comparison. I still don't know where all those listens come from, because this is the streaming industry: a commodified bullshit that only care about corporate shareholders.
 
 Anyway, if you're and independent artist wishing to publish your music online, feel free to go ahead with Spotify, YouTube Music _et al_. Maybe you'll be lucky too, and be able to afford a pizza and a beer for two, 3 years later.

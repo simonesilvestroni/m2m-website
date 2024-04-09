@@ -9,20 +9,14 @@ description: 'Sanctimonious post about something that, strangely enough, just oc
 ---
 Yesterday I watched a few videos from well-known professionals in the music production field, which left me stunned. Not sure if it was the language, or the way they were taking the topics so seriously, but the struggle to properly understand was real. They were waffling on about the reasons for having failed to release new videos in 2024, or what upload schedule works best, or ways to complement their income with online courses, Patreon, up to bragging about their considerable YouTube earnings in the name of transparency.
 
-Aware of the fact that I can't possibly understand what's involved with maintaining social media accounts with millions of subscribers, I felt so alienated that I jotted down a few key phrases out of their influencer's vocabulary:
+Aware of the fact that I can't possibly understand what's involved with maintaining social media accounts with millions of subscribers, I felt so alienated that I jotted down a few key phrases out of their influencers' vocabulary:
 
-> The _audience_ is everything.
-
-> The hole in the video release schedule caused the channel to suffer.
-
-> I failed to keep momentum for the channel.
-
-> It's going to take months to recover.
-
-> I don't have a buffer of videos.
-
-> The biggest _YouTubers_ have upload schedules, they release videos at certain times of the day.
-
+> The _audience_ is everything.<br><br>
+> The hole in the video release schedule caused the channel to suffer.<br><br>
+> I failed to keep momentum for the channel.<br><br>
+> It's going to take months to recover.<br><br>
+> I don't have a buffer of videos.<br><br>
+> The biggest _YouTubers_ have upload schedules, they release videos at certain times of the day.<br><br>
 > I'm a _YouTuber_, it's not an hobby anymore.
 
 How many people actually live in that sort of bubble? One of them has started paying a small team of employees, so they can _treble_ the amount of videos for the channel. Referring to the fact that there's been a flurry of famous "YouTubers" leaving the platform or taking a hiatus — apparently there's a burnout crisis in the "creator economy" — they unironically stated _I'm a content creator_. What does that even mean?

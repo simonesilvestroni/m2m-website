@@ -17,7 +17,7 @@ syndicate:
   - name: Mastodon
     url: https://indieweb.social/@m2m/110057816455118169
 ---
-{% include pattern-bandcamp.html size='bc-single' iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/track=449979971/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
+{% include bandcamp.liquid size='bc-single' iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=449979971/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 
 I hired [Christopher Carvalho of Unlock Your Sound](https://unlockyoursound.com/christopher-carvalho/) as a manager for *After 1989* way ahead of my ideal album release day, 9 November 2019. The date wasn’t randomly chosen, as it was a double anniversary: the fall of the Berlin Wall (30 years) and the [Kristallnacht](https://en.wikipedia.org/wiki/Kristallnacht) (81 years).
 
@@ -66,5 +66,4 @@ I would repeat the same steps. Some mistakes are meant to serve a purpose and th
 
 > The album is a day closer to its release date — it’s just 8 days now. Still plenty to do, yet manageable. I realise this story has been with me for three decades, really. I’ve taken steps to distance myself: to me, it’s already released. It’s out of my system, and again: in a peaceful way.
 
-{: .cta }
-[&larr;&nbsp;Read part 1]({{ site.url }}/blog/releasing-an-album-as-an-independent-artist-pt1/){: .notice-cta }
+[&larr;&nbsp;Read part 1]({{ site.url }}/blog/releasing-an-album-as-an-independent-artist-pt1/){: .cta }

@@ -18,4 +18,4 @@ Fast forward a few years, and nobody owns the art they consume, while paying an 
 
 What I find most surprising is how the very few that have never stopped buying and collecting music and movies are seen as a relic of a bygone era, if not ridiculed. Corporate marketing clearly have won.
 
-<br>**Recommended reading**: [_Spotify Teardown_](https://mitpress.mit.edu/9780262038904/spotify-teardown/).
+Recommended reading: [_Spotify Teardown_](https://mitpress.mit.edu/9780262038904/spotify-teardown/).

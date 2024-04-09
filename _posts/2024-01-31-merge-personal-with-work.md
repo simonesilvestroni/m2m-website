@@ -31,5 +31,7 @@ Reintroduced a minimalistic implementation of *parasocial* Open Graph meta tags,
 
 Finally, I temporarily removed the automatic switch to dark mode. I wasn't enjoying it myself, so I made the background less bright while still keeping a triple-A contrast for accessibility. The idea of an optional toggle for the dual colour theme is still there, however it's low priority right now.
 
+#### Footnotes
+
 [^1]: While I used to do this in 2005, I came to appreciate again the idea while debating with [Wouter Groeneweld](https://brainbaking.com/).
 [^2]: "I help (add subject here) to do (long gaslighting job description)". It's like these people are ashamed to say that they work to earn money: instead, they *help*.

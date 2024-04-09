@@ -19,8 +19,10 @@ The Switch Group called `GroundMaterialSwitch`, under Game Syncs, contains 23 sw
 
 The Switch Container in Project Explorer, called `PLYR_Footsteps_MaterialSwitch`, reflects the same structure, so it contains 23 Switch Containers following the naming convention `{material}_WetnessSwitch`. Therefore, for the material switch _Dirt_ inside my Switch Group, I'll have a Switch Container named `Dirt_WetnessSwitch`, and so on.
 
-![My Wwise project, showing the switch container (left), and the switch group (right)](/assets/images/wwise-footsteps-switch.jpg){: width="1024" height="622"}
-*My Wwise project, showing the switch container (left), and the switch group (right)*
+<figure class="fullscreen">
+  <img src="/assets/images/wwise-footsteps-switch.jpg" alt="My Wwise project, showing the switch container (left), and the switch group (right)" width="1024" height="622">
+  <figcaption>My Wwise project, showing the switch container (left), and the switch group (right)</figcaption>
+</figure>
 
 ## Adding sounds
 

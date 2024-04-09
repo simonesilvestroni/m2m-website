@@ -26,4 +26,6 @@ Supposedly, the entire Western civilisation is to blame, I just happen to have n
 > Those are people teetering on or even below the poverty level, desperate for comfort in their homes. To point to them as a reason to start an anti-consumerism movement is just another form of social shaming. Those aren’t the people who would benefit from a minimalist life. They can’t afford to do with less.\
 ><cite>[Ayumi Takahashi](https://www.nytimes.com/2016/07/18/opinion/the-class-politics-of-decluttering.html)</cite>
 
+#### Footnotes
+
 [^1]: Not sure what that is, sounds like "TV radio" to me.

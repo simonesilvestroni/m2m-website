@@ -26,10 +26,11 @@ Beautiful review today. Indie Buddie is a blog about amazing new music from exci
 > The black and white video allows a train journey to tell the tale of how a young man managed to escape Germany in 1945. With clips from the war mirroring more modern clips as footsteps lead us to  what happened to one individual during the war. 
 > <cite><a href="https://www.indiebuddie.com/minutes-to-midnight-skinny-kid-video-premiere/" target="_blank" rel="noreferrer noopener">Indiebuddie</a></cite>
 
-<video controls src="{{ site.url }}/assets/videos/music-video-skinny-kid.mp4"
-  width="1024">
-  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-skinny-kid.mp4">download it</a> and watch it with your favorite video player.
-</video>
-
-{: .small }
-If you prefer, [watch the video on YouTube](https://youtu.be/xs00zSccUjc){: target="_blank"}
+<div class="fullscreen">
+  <br>
+  <video controls src="{{ site.url }}/assets/videos/music-video-skinny-kid.mp4"
+    width="1024">
+    Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-skinny-kid.mp4">download it</a> and watch it with your favorite video player.
+  </video>
+  <p>If you prefer, <a href="https://youtu.be/xs00zSccUjc" target="_blank">watch the video on YouTube</a></p>
+</div>

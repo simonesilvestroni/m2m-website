@@ -6,14 +6,14 @@ tags:
   - 'internet'
   - 'personal'
   - 'social media'
-description: "Finally, I’m leaving social media, Facebook, Twitter, Instagram, WhatsApp, Reddit, Medium, redirecting my attention and my time to something more productive."
+description: "Finally, I’m leaving social media: Facebook, Twitter, Instagram, WhatsApp, Reddit, Medium. I’ll be redirecting my attention and my time to something more productive."
 ---
 This post is a personal point of view, it’s not intended as an exhaustive analysis on what is going on with social media, nor am I trying to convince anybody to do the same. I’m just redirecting my attention and my time to something more productive.
 
 **Addiction**. I believe the term _social media_ is an oxymoron. Besides a toxicity that has reached a point of no return, there's the deliberate addictive mechanisms and the self-declared aim to hog our time as much as they can. The massive problem with [personal data](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal) is even beyond the point.
 
 > The thought process was all about: how do we consume as much of your time and conscious attention as possible? This means we had to give you a dopamine hit every once in a while.
-> <cite>Sean Parker, former Facebook president</cite>
+> <cite>Sean Parker (former Facebook president)</cite>
 
 **Hate**. The relentless promotion of hateful content such as misogyny, homophobia, racism, and more. The thick [keyboard warriors](https://youtu.be/VK6_tjizu_g) peddling debunked conspiracies all day long and getting rewarded for doing that — I’m talking about holocaust deniers, and a multitude of other dangerous idiocy. Not to mention the sheer amount of [highly controversial and polarizing material](https://www.theguardian.com/technology/2020/jul/26/yael-eisenstat-facebook-is-ripe-for-manipulation-and-viral-misinformation). It’s infuriating to the point of leaving me _angry all day long_. I also don’t want to examine the depressing long list of accusations of [altering the course of major elections](https://www.npr.org/sections/alltechconsidered/2017/11/16/564542100/how-disinformation-and-distortions-on-social-media-affected-elections-worldwide).
 
@@ -43,19 +43,15 @@ I don’t think it’s a bold decision at all. On the contrary. Another common m
 
 [Tristan Harris](https://youtu.be/MacJ4p0vITM): your phone is trying to control your life.
 
-{% include pattern-video.html provider="yewtu.be" id="MacJ4p0vITM" %}
-
----
+{% include video.liquid id="MacJ4p0vITM" %}
 
 [Cal Newport](https://youtu.be/3E7hkPZ-HTk): quit social media.
 
-{% include pattern-video.html provider="yewtu.be" id="3E7hkPZ-HTk" %}
-
----
+{% include video.liquid id="3E7hkPZ-HTk" %}
 
 [Jaron Lanier](https://youtu.be/kc_Jq42Og7Q): social media is ruining your life. I’ve been reading Lanier's [most recent book](https://www.kobo.com/gb/en/ebook/ten-arguments-for-deleting-your-social-media-accounts-right-now-1) about this very same topic, and it’s brilliant.
 
-{% include pattern-video.html provider="yewtu.be" id="kc_Jq42Og7Q" %}
+{% include video.liquid id="kc_Jq42Og7Q" %}
 
 ## Conclusions
 

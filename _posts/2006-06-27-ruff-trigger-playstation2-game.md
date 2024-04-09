@@ -67,14 +67,14 @@ The following songs are demos rendered in their linear versions, thus they don't
 
 My process for sound effects was to create them from scratch, layering my recordings with a few libraries at my disposal. The example below is a section of a full motion teaser integrated in a demo shown to Sony in London, in order to obtain the license to develop for the Playstation2. The sound commentary was made using a combination of **Foley, field recording, and synthesis**.
 
-<video controls src="{{ site.url }}/assets/videos/case-study-ruff-trigger-prototype-teaser-extended.mp4"
-  poster="{{ site.url }}/assets/videos/case-study-ruff-trigger-prototype-teaser-extended.jpg"
-  width="1024">
-  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/case-study-ruff-trigger-prototype-teaser-extended.mp4">download it</a> and watch it with your favorite video player.
-</video>
-
-{: .small }
-If you prefer, [watch the video on YouTube](https://youtu.be/X4eQAhk6dKM){: target="_blank"}<br><br>
+<div class="fullscreen">
+  <video controls src="{{ site.url }}/assets/videos/case-study-ruff-trigger-prototype-teaser-extended.mp4"
+    poster="{{ site.url }}/assets/videos/case-study-ruff-trigger-prototype-teaser-extended.jpg"
+    width="1024">
+    Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/case-study-ruff-trigger-prototype-teaser-extended.mp4">download it</a> and watch it with your favorite video player.
+  </video>
+  <p>If you prefer, <a href="https://youtu.be/X4eQAhk6dKM" target="_blank">watch the video on YouTube</a></p>
+</div>
 
 The video includes **processed recordings** of myself typing on a mechanical keyboard, thunderstorms in Milan, wooshes using belts and other artifacts, various metal hits from around the office, a wheeled chair on irregular surfaces, multiple compressed air cans, colleagues making noise and voices, rustled newspapers, a cat collar with a little bell, a few presets from a Korg Trinity synthesizer, all edited with Sound Forge, and assembled in Logic Platinum.
 
@@ -138,8 +138,7 @@ While I'd been updating my skills by studying Wwise, FMOD and their integration 
 
 ## Bonus content: the studio
 
-![Photo of the studio, where an Xbox SDK is visible at the top of a rack]({{ site.url }}/assets/images/playstos-studio-2.jpg){: width="1200" height="900" }
-_Audio studio, circa 2003, featuring a transparent Xbox SDK at the top of the rack_
+{% include figure.liquid image='playstos-studio-2.jpg' alt='Photo of the studio, where an Xbox SDK is visible at the top of a rack' width='1200' height='900' caption='Audio studio, circa 2003, featuring a transparent Xbox SDK at the top of the rack' %}{: .fullscreen }
 
 An Apple G4 and two Dell machines **ran in digital sync**: they were all equipped with the same model of Creamware Pulsar II soundcard, connected to a Yamaha 01W digital mixer through an [AES/EBU](https://www.wikiaudio.org/aes-ebu/) sync box. Each computer had a specific digital audio workstation, which were often connected together through MIDI Time Code:
 
@@ -149,7 +148,7 @@ An Apple G4 and two Dell machines **ran in digital sync**: they were all equippe
 
 Mixes went through the Yamaha digital mixer, to be bounced on a Sony <abbr title="Digital Audio Tape">DAT</abbr>, before the final master was sampled back into the computer. One of the Dell machines also hosted the software developer kits: a level editor, the audio middleware, and later **Microsoft XACT for Xbox**. The photo below shows this setup, at the beginning of 2002.
 
-![In the audio studio, circa 2002]({{ site.url }}/assets/images/playstos-studio.jpg){: width="800" height="531" }
+{% include figure.liquid image='playstos-studio.jpg' alt='Photo of myself at my studio desk in 2002, surrounded by audio gear' width='800' height='531' caption='In the audio studio, circa 2002' %}{: .fullscreen }
 
 ### Outboard
 

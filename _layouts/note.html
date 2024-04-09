@@ -4,11 +4,11 @@ layout: default
 <article class="h-entry">
 	<header>
 		<h1><span class="p-category">{{ page.title }}</span>: {{ page.date | date: "%-d %B %Y %T" }}</h1>
-		<span class="p-author h-card hidden" aria-hidden="true">
-			<img class="u-photo" src="{{ site.url }}/assets/images/minutes-to-midnight-portrait.jpg" alt="Avatar of Simone Silvestroni" width="28" height="28"> <span class="p-name" rel="author">Simone Silvestroni</span>
-		</span><time class="dt-published dim" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a class="u-url u-uid" href="{{ site.url }}{{ page.url }}">{{ page.date | date: "%-d %B %Y" }}</a></time>
 	</header>
-	<div class="warning">
+	<section class="visually-hidden" aria-hidden="true">
+		<span class="p-author h-card"><img class="u-photo" src="{{ site.url }}/assets/images/minutes-to-midnight-portrait.jpg" alt="Avatar of Simone Silvestroni" width="28" height="28"> <span class="p-name" rel="author">Simone Silvestroni</span></span> <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"><a class="u-url u-uid" href="{{ site.url }}{{ page.url }}">{{ page.date | date: "%-d %B %Y" }}</a></time>
+	</section>
+	<div class="highlight">
 		{%- comment %}<!-- //// REPLY \\\\ -->{% endcomment -%}
 		{%- if page.replyto %}
 		<svg width="24" height="24" fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.704 16.294a1 1 0 1 1-1.415 1.414l-4.997-5.004a1 1 0 0 1 0-1.413L8.29 6.293a1 1 0 0 1 1.415 1.414L6.41 11H13a8 8 0 0 1 7.996 7.75L21 19a1 1 0 1 1-2 0 6 6 0 0 0-5.775-5.996L13 13H6.414l3.29 3.294Z" fill="currentColor"/></svg>&nbsp;<strong>In reply to</strong> <a href="{{ page.replyto }}" class="u-in-reply-to"><code>{{ page.replytouser }}</code></a><br><br>

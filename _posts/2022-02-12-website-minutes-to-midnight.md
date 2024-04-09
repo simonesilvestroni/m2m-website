@@ -23,6 +23,14 @@ featimage-alt: Screenshot of the homepage for Minutes to Midnight’s website
 featimage-width: 1024
 featimage-height: 622
 ---
+## Skills
+
+<ul class="list-inline">
+  {% for skill in page.skillset %}
+  <li><mark>{{ skill }}</mark></li>
+  {% endfor %}
+</ul>
+
 ## Objectives
 
 I had been using WordPress since version 1.5, and while it can serve websites with optimal performance, it requires constant maintenance as well as security audits, it's still a database-driven system that needs time to communicate with a remote server in order to return a page, and files and databases inevitably swell over time. When my WordPress-driven site ballooned to an unreasonable 740 MB, despite my relentless care, I wanted a change. My goals for the redesigned website were: 
@@ -73,20 +81,13 @@ As a long time advocate for [performance as a design feature](https://web.archiv
 | ----------- | --------------- | ------------ |
 | 63.9 KB     | 100             | 0.64 seconds |
 
-{: .cta }
-[**Check detailed benchmarks**&nbsp;&rarr;]({{ site.url }}/colophon/){: .notice-cta }
+[**Check detailed benchmarks**&nbsp;&rarr;]({{ site.url }}/colophon/){: .cta }
 
 ### Easy maintenance
 
 Since I don't need to setup and care for Apache, PHP or MySQL, file management and backup are extremely easy. Using git as a versioning system, my local source code — including images and other binary assets — is a mirror of the remote repository, with no extra maintenance required. As a bonus, the transition made me save money, as I'm not paying a dedicated hosting service anymore.
 
-## Skills
-
-<ul class="list-inline">
-  {% for skill in page.skillset %}
-  <li><mark>{{ skill }}</mark></li>
-  {% endfor %}
-</ul>
+#### Footnotes
 
 [^1]: Decoupling is the process of creating a clean separation between systems or services. By decoupling the services needed to operate a site, each component part can become easier to reason about, can be independently swapped out or upgraded, and can be designated the purview of dedicated specialists either within an organization, or as a third party.
 [^2]: [Shopify: _Who Uses Liquid?_](https://github.com/Shopify/liquid/wiki#who-uses-liquid)

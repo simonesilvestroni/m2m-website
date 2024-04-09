@@ -32,4 +32,6 @@ I collect interesting links and videos from various sources (including Feedbin) 
 - Consume the longest articles [on my Kobo](https://help.kobo.com/hc/en-us/articles/360017763753-Use-the-Pocket-App-with-your-Kobo-eReader), thanks to its Pocket integration. Reading articles on a retro illuminated e-ink device is orders of magnitude better, in my opinion.
 - I also send the most interesting videos from Feedbin to Pocket. By doing so, I never visit YouTube's website, which saves me from both its "social" features and the suggestions algorithm. It's why I have not (yet) deleted the account.
 
+#### Footnotes
+
 [^1]: Update: [I stopped using Feedbin.]({{ site.url }}/blog/i-stopped-using-feedbin-for-rss/)

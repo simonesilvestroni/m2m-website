@@ -24,11 +24,15 @@ syndication: true
 syndicate:
   - name: IndieNews
     url: https://news.indieweb.org/en
-  - name: Mastodon
-    url: https://indieweb.social/web/@m2m/108234066278671729
-  - name: Hacker News
-    url: https://news.ycombinator.com/item?id=31241877
 ---
+## Skills
+
+<ul class="list-inline">
+  {% for skill in page.skillset %}
+  <li><mark>{{ skill }}</mark></li>
+  {% endfor %}
+</ul>
+
 ## Objectives
 
 I recently stumbled on an article,[^1] where two things caught my eye: styled OPML blogrolls that can be directly imported into an RSS reader, and styled RSS feeds. I had forgotten about [XSLT](https://en.wikipedia.org/wiki/XSLT) with its potential applications, so the above examples inspired me. Also, I wasn't aware that OPML, which I’ve been using for years to import and export RSS feeds, could be styled. This prompted me to refactor my RSS feed, and give a human readable format to it, consistent with the website.
@@ -64,15 +68,8 @@ Then, I created an XSL file to style the feed page into a human readable format.
 
 It was surprisingly easy, and I wonder why didn't I do it sooner. Since my main motivation for leaving WordPress was to take full control over my code, I should have managed the feed myself rather than relying on a Jekyll plug-in. The source code for the [RSS XML feed](https://github.com/simonesilvestroni/m2m-website/blob/main/feed.xml) and the [XLS file](https://github.com/simonesilvestroni/m2m-website/blob/main/feed.xsl) are available on Github.
 
-{: .cta }
-[**View it in action**&nbsp;&rarr;](https://minutestomidnight.co.uk/feed.xml){: .notice-cta }
+[**View it in action**&nbsp;&rarr;](https://minutestomidnight.co.uk/feed.xml){: .cta }
 
-## Skills
-
-<ul class="list-inline">
-  {% for skill in page.skillset %}
-  <li><mark>{{ skill }}</mark></li>
-  {% endfor %}
-</ul>
+#### Footnotes
 
 [^1]: [*Cool Things People Do With Their Blogs*](https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/) by Wouter Groeneveld.

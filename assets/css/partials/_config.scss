@@ -1,0 +1,28 @@
+/*!
+ * Description: M2M CSS framework, based on SASS
+ * Author:      Simone Silvestroni, Cambridge (UK)
+ * Author URI:  https://minutestomidnight.co.uk
+ * Version:     1.0
+ **/
+
+// -------------------------------- */
+// Components
+// -------------------------------- */
+$webfonts:	true;
+$theme:			true;
+$cards:			false;
+$print:			false;
+
+// -------------------------------- */
+// Main
+// -------------------------------- */
+$line-height:	1.6;
+
+// -------------------------------- */
+// Grid
+// -------------------------------- */
+$grid-gap:									3rem;
+$grid-centre-width:					47rem;
+$grid-repeat-col-min-width:	27rem;
+$grid-global-cols:					12;
+$grid-global-min-col:				30rem;

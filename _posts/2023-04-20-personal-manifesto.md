@@ -78,4 +78,6 @@ I don't pirate software. I support <abbr title="Free and Open-Source Software">F
   <p>Featured on <a href="https://projects.kwon.nyc/internet-is-fun/"><em>The internet used to be fun</em></a>, by Rachel J. Kwon.</p>
 </aside>
 
-[^1]: > A website is for a visitor, using a browser, running on a computer to read, watch, listen, or perhaps to interact. A website that embraces Brutalist Web Design is raw in its focus on content, and prioritization of the website visitor. <cite>[David Bryant Copeland](https://brutalist-web.design/)</cite>
+#### Footnotes
+
+[^1]: "A website is for a visitor, using a browser, running on a computer to read, watch, listen, or perhaps to interact. A website that embraces Brutalist Web Design is raw in its focus on content, and prioritization of the website visitor". <cite>[David Bryant Copeland](https://brutalist-web.design/)</cite>

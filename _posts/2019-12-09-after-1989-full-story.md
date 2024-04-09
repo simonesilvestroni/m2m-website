@@ -25,7 +25,7 @@ featimage-caption: Photo by Silvia Maggi, Sachsenhausen (2019)
 featimage-width: 1024
 featimage-height: 683
 ---
-<aside class="warning">
+<aside class="highlight">
   <p>This article was originally published on the Medium magazine <em>Lessons From History</em>. After deleting my Medium account, I moved it here.</p>
 </aside>
 
@@ -50,8 +50,7 @@ _Prisoner’s Uniform with Red Triangle of Political Enemy - Majdanek Concentrat
 
 A skilled shoemaker, the SS kept him in the _konzentrationslager_ working on military boots. Each new pair had to be “tested” by other inmates, forced to walk for hours on a concrete strip, close to the camp entrance. The guards often forced the prisoners to wear smaller sizes, which made their feet swell and the walk an agony. The strip is still there.
 
-![Shoe-testing track](/assets/images/full-story-shoe-track.jpg){: width="1024" height="768" }
-*Shoe-testing track*
+{% include figure.liquid image='full-story-shoe-track.jpg' alt='Photo of a sign attached to the ground, saying ‘SCHUHPRÜFSTRECKE - SHOE-TESTING TRACK’' width='1024' height='768' caption='Shoe-testing track' %}{: .fullscreen }
 
 > Wave upon wave  
 > of Faceless strangers  
@@ -109,8 +108,7 @@ The owner was the only person there, so he decided to sit with us for a chat. We
 
 It took me two decades to finally find the will to go to the bottom of this story. For years, I painstakingly collected pieces of information: small details that each one of us in the family might have heard, from private conversations with him or elsewhere. The endpoint was always Sachsenhausen. My father showed me several artifacts his dad brought home after the journey back from Germany. A spoon (pictured below), a plate with a swastika on the bottom and several tins and bowls.
 
-![The spoon my grandfather brought home from Sachsenhausen](/assets/images/full-story-spoon.jpg){: width="1024" height="576" }
-*The spoon my grandfather brought home from Sachsenhausen*
+{% include figure.liquid image='full-story-spoon.jpg' alt='Photo of the spoon my grandfather brought home from Sachsenhausen, on a wooden table' width='1024' height='576' caption='The spoon my grandfather brought home from Sachsenhausen' %}{: .fullscreen }
 
 I went back to Berlin in 2011, a few months before I moved to the UK. It was a completely different beast, compared to my memories from two decades earlier. The fascination stayed with me for a while and didn’t wane until a few years later. I visited several times in the last eight years. More recently, I’ve filed requests for information: the first with the people responsible for the archives at the camp; later with the [International Tracing Service](https://arolsen-archives.org/en/) in Germany.
 
@@ -118,8 +116,7 @@ The responses arrived within 24 months. This I received from the Gedenkstätte u
 
 > I inform you that no documents have been found in our archives. Most of the files of the administration of concentration camp Sachsenhausen were destroyed by the SS before the evacuation of the camp. Among those were nearly all of prisoners’ files with exact personal data and photographs of the prisoners. Those records which have survived are kept in various archives, mainly in archives of the Russian Federation.
 
-![A plaque erected by the Communist GDR government, to commemorate the Death March undertaken by the prisoners of the Sachsenhausen concentration camp under the Nazi government](/assets/images/full-story-todesmarsch.jpg){: width="1024" height="682" }
-*This plaque was erected by the Communist GDR government, to commemorate the Death March undertaken by the prisoners of the Sachsenhausen concentration camp under the Nazi government. The GDR placed emphasis on political prisoners over the other groups held at Sachsenhausen (Jews, Jehovah’s Witnesses, Homosexuals); hence the pictured prisoners are wearing red triangles (the symbol for political prisoners, particularly communists).*
+{% include figure.liquid image='full-story-todesmarsch.jpg' alt='A plaque erected by the Communist GDR government, to commemorate the Death March undertaken by the prisoners of the Sachsenhausen concentration camp under the Nazi government' width='1024' height='682' caption='This plaque was erected by the Communist GDR government, to commemorate the Death March undertaken by the prisoners of the Sachsenhausen concentration camp under the Nazi government. The GDR placed emphasis on political prisoners over the other groups held at Sachsenhausen (Jews, Jehovah’s Witnesses, Homosexuals); hence the pictured prisoners are wearing red triangles (the symbol for political prisoners, particularly communists).' %}{: .fullscreen }
 
 ## Liberation
 
@@ -171,8 +168,6 @@ In the summer of 1988, I was reading a comic book, when my granddad went to open
 
 The car attracted my attention because it was the same model used by [Russel Oakes in the film _The Day After_](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwi41qbavojmAhVCzIUKHdJsD_MQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.imcdb.org%2Fv035046.html&psig=AOvVaw3ugOhsc-ohGHkicCLN2TNP&ust=1574878754570671). I checked the back and noticed the familiar white oval sticker with a “D” letter. Plenty of tourists from West Germany used to come to our seaside town for the holidays. An hour later, an elderly couple arrived. My granddad jumped up and walked straight towards them. He started shouting in perfect German to the guy, who was quite tall and looked sturdy to me. The man, which I estimated was around the same age as my grandpa, stood still, nodding, _without saying a single word_. After a full minute of ranting and finger-pointing towards them, the couple got in the Volvo and quietly left. Amazed by that performance, I approached my grandfather, who was finally able to open the little gate and welcome his customers. I asked, “what did you tell him?” His response was: “_he knows_”.
 
-![My grandfather working outside his shop in the summer. Some of the objects visible on the crate came from Germany](/assets/images/full-story-grandfather.jpg){: width="1024" height="722" }
-*My grandfather working outside his shop in the summer. Some of the objects visible on the crate came from Germany*
+{% include figure.liquid image='full-story-grandfather.jpg' alt='My grandfather working outside his shop during summer. Some of the objects visible on the crate came from Germany' width='1024' height='722' caption='My grandfather working outside his shop during summer. Some of the objects visible on the crate came from Germany' %}{: .fullscreen }
 
-{: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .notice-cta }
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .cta }

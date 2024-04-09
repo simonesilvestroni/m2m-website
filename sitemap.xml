@@ -3,20 +3,19 @@ layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% assign pages = site.pages | where:"layout", "page" %}
-  {% assign blogpage = site.pages | where:"layout", "blog" %}
-  {% assign allpages = pages | concat: blogpage | sort: 'title' %}
-  {% assign sorted_blog = site.documents | where:"layout", "post" | sort: 'date' | reverse %}
-  {% assign sorted_tags = site.tags | sort %}
-
+  {%- assign pages = site.pages | where:"layout", "page" %}
+  {%- assign blogpage = site.pages | where:"layout", "blog" %}
+  {%- assign allpages = pages | concat: blogpage | sort: 'title' %}
+  {%- assign sorted_blog = site.documents | where:"layout", "post" | sort: 'date' | reverse %}
+  {%- assign sorted_tags = site.tags | sort %}
   {%- for post in sorted_blog %}
   {%- unless post.sitemap == false %}
   <url>
     <loc title='{{ post.title }}'>{{ site.url }}{{ post.url }}</loc>
     <lastmod>{{ post.last_modified_at | date_to_xmlschema }}</lastmod>
   </url>
-  {%- endunless -%}
-  {%- endfor -%}
+  {%- endunless %}
+  {%- endfor %}
   <url>
     <loc title="Homepage">{{ site.url }}</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
@@ -27,9 +26,9 @@ layout: none
     <loc title="{{ page.title }}">{{ site.url }}{{ page.url }}</loc>
     <lastmod>{{ page.last_modified_at | date_to_xmlschema }}</lastmod>
   </url>
-  {%- endunless -%}
-  {% endfor -%}
-  {%- for tag in sorted_tags -%}
+  {%- endunless %}
+  {%- endfor %}
+  {%- for tag in sorted_tags %}
   {%- assign t = tag | first %}
   <url>
     <loc>{{ site.url }}/blog/tag/{{ t | slugify }}/</loc>

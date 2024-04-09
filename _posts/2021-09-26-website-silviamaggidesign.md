@@ -22,6 +22,14 @@ featimage-alt: Screenshot of the homepage for Silvia Maggi’s website
 featimage-width: 1024
 featimage-height: 622
 ---
+## Skills
+
+<ul class="list-inline">
+  {% for skill in page.skillset %}
+  <li><mark>{{ skill }}</mark></li>
+  {% endfor %}
+</ul>
+
 ## Objectives
 
 Silvia said that, since sustainability and accessibility were core concerns, she required complete control over code and design. The ultimate goal was to redesign and build her personal website from scratch, following the increasing need to have an easy to customise, flexible site to contain her work, interests and passions.
@@ -44,13 +52,4 @@ Silvia was happy about the ease of use of her new website. My input on adopting 
 | ----------- | --------------- | ------------ |
 | 91.4 KB     | 100             | 0.73 seconds |
 
-{: .cta }
-[**Visit the live site**&nbsp;&rarr;](https://silviamaggidesign.com/){: .notice-cta }
-
-## Skills
-
-<ul class="list-inline">
-  {% for skill in page.skillset %}
-  <li><mark>{{ skill }}</mark></li>
-  {% endfor %}
-</ul>
+[**Visit the live site**&nbsp;&rarr;](https://silviamaggidesign.com/){: .cta }

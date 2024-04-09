@@ -38,25 +38,20 @@ Beyond the work on customised WordPress components, I focused on making our resp
 
 Integrating scattered blogs into a single cohesive redesigned website, we set up a _solid, secure and performant_ single WordPress installation, running a combination of custom PHP plugins and our responsive framework. Thus, we delivered a fully branded responsive website, with a subtle use of animations to _enhance the user experience_, not detrimental to the site's performance.
 
-<div class="warning">
-  <h3>Before redesign, desktop only</h3>
-  <img src="/assets/images/not-on-the-high-street_before.jpg" alt="Non On The High Street corporate blog, desktop only" width="1024" height="622">
-  <h3>After redesign</h3>
-  <img src="/assets/images/not-on-the-high-street_after.jpg" alt="Non On The High Street corporate blog, responsive redesign" width="1024" height="434">
-</div>
+### Before redesign, desktop only
 
----
+![Non On The High Street corporate blog, desktop only](/assets/images/not-on-the-high-street_before.jpg){: width="1024" height="622" }
+
+### After redesign
+
+![Non On The High Street corporate blog, responsive redesign](/assets/images/not-on-the-high-street_after.jpg){: width="1024" height="434" }
 
 Created a “hero” post template, with customisable background image and vertical offset for the article. On top of that, the addition of a flexible <abbr title="What You See Is What You Get">WYSIWYG</abbr> visual editor and custom modules tailored to the client’s requirements, ensured an _intuitive and powerful creation of new content_.
 
 ![Custom 'hero' post template](/assets/images/not-on-the-high-street_art-direct.jpg){: width="800" height="668" }
 _Custom 'hero' post template_
 
----
-
 Implemented _responsive images_, serving images with different size and weight depending on the device capabilities.
-
----
 
 Integrated a custom Javascript-less functionality to show all the media included in the post, with the option to view them in an elegant _media gallery_. It featured sharing capabilities on every image, with a call to action linking either to the full screen gallery or to the product’s shop page (based on the editor’s choice).
 

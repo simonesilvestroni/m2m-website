@@ -40,4 +40,6 @@ It's a win-win and makes perfect sense to me: the site is mine, the landing page
 - A whole lot of work on accessibility was carried out, with [very nice results](/colophon/#accessibility).
 - Finally, I've included a subset of my web development skills in here as well, because I realised how immensely useful they are when learning middleware audio implementation for video games, and also: they represent me too.
 
+#### Footnotes
+
 [^1]: For people who love receiving blog updates via email, services like [Feedrabbit](https://feedrabbit.com/) are a good fit.

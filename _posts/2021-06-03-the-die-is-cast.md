@@ -18,10 +18,8 @@ tags:
   - 'uk'
   - 'sound project'
 description: "An autobiographical rumination about migrating in Europe during a time of populism. Remixing Ember Rev in collaboration with Antiquity."
-featimage: true
-thumbOnly: true
 ---
-{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=367059768/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://minutestomidnight.bandcamp.com/album/the-die-is-cast-ep">The Die Is Cast (EP) by Minutes to Midnight + Antiquity</a></iframe>' %}
+{% include bandcamp.liquid size="bc-ep" iframecode='<iframe style="border: 0; width: 100%; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=367059768/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://minutestomidnight.bandcamp.com/album/the-die-is-cast-ep">The Die Is Cast (EP) by Minutes to Midnight + Antiquity</a></iframe>' %}
 
 ## Backstory
 

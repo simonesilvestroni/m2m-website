@@ -9,8 +9,7 @@ tags:
   - 'sustainability'
 description: 'A video by Benn Jordan made me realise how little respect I hold for the idea that growth is a must, in this capitalist world I live in.'
 ---
-{% include pattern-video.html provider="yewtu.be" id="b_Aq3pCtsZo" %}
-[_Watch the video on YouTube_](https://www.youtube.com/watch?v=b_Aq3pCtsZo)
+{% include video.liquid id="b_Aq3pCtsZo" %}
 
 The [recent announcement](https://www.plugin-alliance.com/en/blog/blogpost/items/plugin-alliance-brainworx-and-izotope-now-native-instruments.html) that Plugin Alliance, iZotope, and other respected brands in the music production software sector, will now be owned and marketed under the umbrella company name of Native Instruments is not the type of news that I'm longing for. Sure enough, the usual bullshit remarks followed:
 

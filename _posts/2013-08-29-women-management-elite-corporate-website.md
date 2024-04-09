@@ -37,25 +37,17 @@ My main focus, beside project management, was on making the responsive framework
 
 Delivered a performant responsive website with *adaptive content for mobile devices and tablets*, and performance-enhanced features that made it notably fast on all devices.
 
----
-
 Multi-city navigation, with *custom drop-down sub-menus when needed*, editable in the CMS.
-
----
 
 Featured top-tier models in an *animated responsive carousel*. The client could choose which model to showcase by flagging them in their agency software.
 
 ![Women Management - homepage](/assets/images/elite-womenmanagement-homepage.jpg){: width="1024" height="1640" }
 _The homepage, featuring top-tier models in a carousel_
 
----
-
 Multi-columns layout with latest news and social feeds. In the model pages this changed to the model’s related latest news and social feeds.
 
 ![Women Management - model page](/assets/images/elite-womenmanagement-model-page.jpg){: width="1024" height="2056" }
 _The model page, featuring their latest news and feeds_
-
----
 
 Models photo gallery adapted for all devices. Clicking or tapping on a letter, a smooth scrolling animation points to the correct models names. Implemented a responsive *full screen carousel* to go through the model’s portfolio. A tailored feature written in PHP allowed users to *print a PDF version* of the related book.
 

@@ -25,7 +25,7 @@ description: "In 12 months I’ve managed to revolutionize my workflow, twice. P
     <li>Community</li>
     <li>Stock plug-ins</li>
   </ol>
-  <p><span class="highlight">Part 3</span></p>
+  <p><mark>Part 3</mark></p>
   <ol>
     <li>Open architecture &amp; development cycle</li>
     <li>Efficiency</li>
@@ -110,5 +110,4 @@ I do plan to try REAPER and Logic, or Reason, in sync: if the ventilation system
 
 Thanks for reading. I leave you with a video by American composer, producer and sound designer [Nick Peck](https://nicolaspeck.com/), who explains in 18 minutes his 11 reasons to switch from Pro Tools to REAPER:
 
-{% include pattern-video.html provider="yewtu.be" id="BKCvJsG-zrQ" %}
-[_If you prefer, watch the video on YouTube_](https://youtu.be/BKCvJsG-zrQ){: target="_blank" }
+{% include video.liquid id="BKCvJsG-zrQ" %}

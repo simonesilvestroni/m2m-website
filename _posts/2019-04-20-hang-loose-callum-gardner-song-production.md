@@ -13,10 +13,8 @@ tags:
   - 'music release'
   - 'uk'
 description: 'Bass and full production for London-based singer-songwriter Callum Gardner’s new single, ‘Hang Loose’.'
-featimage: true
-thumbOnly: true
 ---
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1148436830/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://callumgardner.bandcamp.com/track/hang-loose">Hang Loose by Callum Gardner</a></iframe>' %}
+{% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1148436830/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://callumgardner.bandcamp.com/track/hang-loose">Hang Loose by Callum Gardner</a></iframe>' %}
 
 ## Production notes
 
@@ -27,15 +25,13 @@ Besides recording and producing the song, I worked as a bassist, contributing to
 
 ## Music video
 
-{% include pattern-video.html provider="yewtu.be" id="OeDQvTX9jiA" %}
-[_If you prefer, watch the video on YouTube_](https://youtu.be/OeDQvTX9jiA){: target="_blank"}
+{% include video.liquid id="OeDQvTX9jiA" %}
 
 ## Live
 
 Watch a video teaser of _Hang Loose_ [performed live at the Strongroom](/blog/live-shows/), in London:
 
-{% include pattern-video.html provider="yewtu.be" id="VqOZbBRU-H8" %}
-[_If you prefer, watch the video on YouTube_](https://youtu.be/VqOZbBRU-H8){: target="_blank"}
+{% include video.liquid id="VqOZbBRU-H8" %}{: .fullscreen }
 
 ## Credits
 

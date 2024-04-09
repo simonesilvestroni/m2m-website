@@ -45,7 +45,7 @@ I enhanced the piano progression, added a tom roll in anticipation for the choru
 
 ## ‘Nine Eleven’ instrumental demo
 
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2694261691/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=3370953346/transparent=true/"><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom-original-demos-outtakes">After 1989: A Trip To Freedom (Original Demos &amp; Outtakes) by Minutes to Midnight</a></iframe>' %}
+{% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2694261691/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=3370953346/transparent=true/"><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom-original-demos-outtakes">After 1989: A Trip To Freedom (Original Demos &amp; Outtakes) by Minutes to Midnight</a></iframe>' %}
 
 ## About the production
 
@@ -70,8 +70,7 @@ _Skinny Kid_ was the first piece that I turned into a proper song when I refacto
 
 > _Skinny Kid_ is a tender delicate number as Simone expresses emotional and harrowing themes through a bitter, icy piano and tense progressive soundscapes. With a steady beat pounding through weaving guitars and ominous rumble on bass, the track projects images of isolation and loneliness by means of sinister chilling twinkles and tender vocals. The haunting backing vocals and lamenting pines on guitar have a chilling element as Simone portrays this harsh experience with sublime instrumentation and vivid musicianship.<cite>[Indie Buddie](https://www.indiebuddie.com/minutes-to-midnight-skinny-kid-video-premiere/)</cite>
 
-{: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .notice-cta }
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .cta }
 
 ## Credits for ‘Skinny Kid’
 

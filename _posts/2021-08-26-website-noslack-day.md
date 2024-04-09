@@ -21,6 +21,14 @@ featimage-alt: Screenshot of the landing page for the “No Slack Day” initiat
 featimage-width: 1024
 featimage-height: 622
 ---
+## Skills
+
+<ul class="list-inline">
+  {% for skill in page.skillset %}
+  <li><mark>{{ skill }}</mark></li>
+  {% endfor %}
+</ul>
+
 ## Objectives
 
 An interesting initiative, _No Slack Day_ was a yearly reminder of how a communication tool can also be distracting and counter-productive. A landing page was required to communicate the scope of the initiative and share it with the world. Since the core idea was connected with the concept of interruptions by proxy of instant messages, a very fast loading time was critical.
@@ -37,13 +45,4 @@ I achieved a blazing fast performance in a modern-looking landing page.
 | ----------- | --------------- | ------------ |
 | 95 KB       | 100             | 0.5 seconds  |
 
-{: .cta }
-[**Visit an archived version**&nbsp;&rarr;](https://archive.is/20210809134101/https://www.noslackday.org/){: .notice-cta }
-
-## Skills
-
-<ul class="list-inline">
-  {% for skill in page.skillset %}
-  <li><mark>{{ skill }}</mark></li>
-  {% endfor %}
-</ul>
+[**Visit an archived version**&nbsp;&rarr;](https://archive.is/20210809134101/https://www.noslackday.org/){: .cta }

@@ -2,9 +2,9 @@
 
 ## About the website
 
-- Handcrafted by Simone Silvestroni using Jekyll 4.3.2, the Liquid template language, and markdown extended. Maintained and updated using Sublime Text, Typora, Alfred macros, and Shortcuts automation.
+- Handcrafted by Simone Silvestroni using Jekyll 4.3.3, the Liquid template language, and markdown extended. Maintained and updated using Sublime Text, Typora, Alfred macros, and Shortcuts automation.
 - [Valid](https://validator.w3.org/nu/?doc=https%3A%2F%2Fminutestomidnight.co.uk%2F) HTML tagged with [microformats2](https://microformats.org/). [Valid CSS level 3](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fminutestomidnight.co.uk%2Fassets%2Fcss%2Fm2m.min.css&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en), using a custom theme based on [Simple CSS](https://simplecss.org). Part of [IndieWeb](https://indiewebify.me/validate-h-card/?url=https%3A%2F%2Fminutestomidnight.co.uk), the site sends and receives [webmentions](https://indieweb.org/Webmention).
-- Logos and icons in SVG. "Dirt background" image by [Michael Rose](https://mademistakes.com/). The typeface in use is Schibsted Grotesk, with hints of Iowan or Palatino. The code repository is on [GitHub](https://github.com/simonesilvestroni/m2m-website), hosted on [Mythic Beasts](https://www.mythic-beasts.com). Latest deploy: {{ site.time | date: "%-d %B %Y, at %H:%M" }}.
+- Logos and icons in SVG. "Dirt background" images by [Michael Rose](https://mademistakes.com/). The typeface in use is Schibsted Grotesk, with hints of Iowan or Palatino. The code repository is on [GitHub](https://github.com/simonesilvestroni/m2m-website), hosted on [Mythic Beasts](https://www.mythic-beasts.com). Latest deploy: {{ site.time | date: "%-d %B %Y, at %H:%M" }}.
 
 ## Accessibility and sustainability
 

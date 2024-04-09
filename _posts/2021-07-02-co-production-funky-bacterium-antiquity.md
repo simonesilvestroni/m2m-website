@@ -11,11 +11,9 @@ tags:
   - 'reaper'
   - 'usa'
   - 'sound project'
-featimage: true
-thumbOnly: true
 description: 'Written during the pandemic, this song is about the madness of the times. Loud, in your face, at a 100mph.'
 ---
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=4262932484/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/funky-bacterium">Funky Bacterium by Antiquity</a></iframe>' %}
+{% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=4262932484/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/funky-bacterium">Funky Bacterium by Antiquity</a></iframe>' %}
 
 > I wrote the music and lyrics and Justine wrangled the melody with great aplomb. Simone Silvestroni helped co-producing the vocal track. He suggested that whomever sang the song, needed to do a Tina Turner on it. That was when I realized it had to be Justine. She knew how to bring it home and I didn't have to give her one ounce of direction.
 > <cite>Gerald Duchene</cite>

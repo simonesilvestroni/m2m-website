@@ -19,13 +19,14 @@ description: 'The Cuban crisis of 1962. President Kennedy announces proof of a b
 ---
 The threat of a pre-emptive strike to America is real, as the level of military readiness is set to DEFCON 2. _13 Days_ is a single from the concept album [_After 1989: A Trip To Freedom_]({{ site.url }}/blog/after-1989/), released 9 November 2019.<br><br>
 
-<video controls src="{{ site.url }}/assets/videos/music-video-13-days.mp4"
-  poster="{{ site.url }}/assets/videos/music-video-13-days.jpg"
-  width="1024">
-  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-13-days.mp4">download it</a> and watch it with your favorite video player.
-</video>
-
-[_If you prefer, watch the video on YouTube_](https://youtu.be/v-B88EtXr9Q){: target="_blank" }
+<div class="fullscreen">
+  <video controls src="{{ site.url }}/assets/videos/music-video-13-days.mp4"
+    poster="{{ site.url }}/assets/videos/music-video-13-days.jpg"
+    width="1024">
+    Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-13-days.mp4">download it</a> and watch it with your favorite video player.
+  </video>
+  <p><a href="https://youtu.be/v-B88EtXr9Q" target="_blank">If you prefer, watch the video on YouTube</a></p>
+</div>
 
 ## Credits
 

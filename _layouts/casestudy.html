@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<aside>
+	<h2>{{ page.title }}</h2>
+	<p class="highlight">{{ page.description }}</p>
+</aside>
+<figure>
+	<img src="{{ site.url }}/assets/images/portfolio/{{ page.featImage }}" alt="{{ page.featImageAlt }}" width="{{ page.featImageWidth }}" height="{{ page.featImageHeight }}">
+	{%- if page.featCaption %}
+	<figcaption>{{ page.featCaption }}</figcaption>
+	{%- endif %}
+</figure>
+<section>
+	<h3>Skills</h3>
+	<ul class="skills">
+		{% for skill in page.skills  %}
+		<li>{{ skill }}</li>
+		{% endfor %}
+	</ul>
+</section>
+{{ content }}

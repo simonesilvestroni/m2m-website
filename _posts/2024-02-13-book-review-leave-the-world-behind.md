@@ -16,4 +16,6 @@ Now I'm wondering why Sam Esmail decided to work on the [Netflix movie adaptatio
 
 Ultimately, it feels like the author tried to change every word with a 10-dollar equivalent, and since Esmail invented for the film a connection with the TV show _Friends_, I'll end my review with a fitting analogy. When Joey Tribbiani wants to help Chandler and Monica by writing an introductory letter for the adoption agency, he's frustrated by his limited vocabulary. Ross supports him by revealing the existence of a Thesaurus, which prompts Joey to turn the phrase _They're warm, nice people with big hearts_ into: _They're humid, prepossessing Homo sapiens with full-sized aortic pumps_.
 
+#### Footnotes
+
 [^1]: There's a _page and a half_ entirely focused on listing the groceries that one of the characters is buying at a local store.

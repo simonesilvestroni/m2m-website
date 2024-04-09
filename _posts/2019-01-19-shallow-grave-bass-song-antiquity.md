@@ -11,10 +11,8 @@ tags:
   - 'usa'
   - 'sound project'
 description: "Second collaboration with Gerald Duchene and his project Antiquity. I recorded a bass track for this beautiful song."
-featimage: true
-thumbOnly: true
 ---
-{% include pattern-bandcamp.html size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1048816351/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/shallow-grave">Shallow Grave by Antiquity</a></iframe>' %}
+{% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1048816351/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/shallow-grave">Shallow Grave by Antiquity</a></iframe>' %}
 
 ## Production
 

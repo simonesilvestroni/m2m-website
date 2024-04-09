@@ -10,4 +10,4 @@ description: 'I keep thinking about people who actually agree with the current i
 > Let's start with something controversial: Capitalism is not an economic system. It is a philosophical and ideological force that shapes our lives, environment, and perception of humanity.\
 > It's a behemoth that thrives on relentless growth, often at a devastating cost. Under its reign, we witness the widening chasm of inequality, where the affluent soar on the wings of wealth while the less fortunate are left to the whims of an unforgiving market.\
 > Our planet, the cradle of life itself, is treated as a commodity, its resources extracted with reckless abandon, its delicate ecosystems pushed to the brink for profit.
-> <cite>Joan Westenberg, [_How to quit capitalism_](https://joanwestenberg.com/blog/how-to-quit-capitalism)</cite>
+> <cite>[Joan Westenberg](https://joanwestenberg.com/blog/how-to-quit-capitalism)</cite>

@@ -20,17 +20,16 @@ description: 'Cheering crowds greet the President at Love Field, the Dallas airp
 ---
 November 1963. A warm weather greets the President when he lands at _Love Field_. Following the motorcade, I fantasise about waving at Jack and Jackie, or leaning over the window of a sixth floor, or being Abraham Zapruder, standing still while everything changes.
 
-{: .cta }
-[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .notice-cta }
+[**Read the album analysis**&nbsp;&rarr;](/blog/after-1989/){: .cta }
 
-<video controls src="{{ site.url }}/assets/videos/music-video-love-field.mp4"
-  poster="{{ site.url }}/assets/videos/music-video-love-field.jpg"
-  width="1024">
-  Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-love-field.mp4">download it</a> and watch it with your favorite video player.
-</video>
-
-{: .small }
-If you prefer, [watch the video on YouTube](https://youtu.be/oTR5ZJQdRXM){: target="_blank"}
+<div class="fullscreen">
+  <video controls src="{{ site.url }}/assets/videos/music-video-love-field.mp4"
+    poster="{{ site.url }}/assets/videos/music-video-love-field.jpg"
+    width="1024">
+    Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-love-field.mp4">download it</a> and watch it with your favorite video player.
+  </video>
+  <p>If you prefer, <a href="https://youtu.be/oTR5ZJQdRXM" target="_blank">watch the video on YouTube</a></p>
+</div>
 
 ## Credits
 

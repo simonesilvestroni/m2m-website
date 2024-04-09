@@ -19,7 +19,7 @@ description: "In 12 months I’ve managed to revolutionize my workflow, twice. P
     <li>Multi-platform</li>
     <li>A different workflow</li>
   </ol>
-  <p><span class="highlight">Part 2</span></p>
+  <p><mark>Part 2</mark></p>
   <ol>
     <li>Customization</li>
     <li>Community</li>
@@ -81,8 +81,7 @@ Quick and efficient custom actions
 
 The repository for all custom themes — as well as extensions, scripts and more — is the [REAPER stash](https://stash.reaper.fm/). Talking about aesthetics, I’m not a fan of the many themes trying to recreate the GUI of other DAWs. I keep alternating a design called _Smooth_ with the default theme for v6.
 
-![A screenshot of REAPER, running the theme ‘Smooth’](/assets/images/daw-reaper-session.jpg){: width="768" height="480" }
-*REAPER running the theme ‘Smooth’*
+{% include figure.liquid image='daw-reaper-session.jpg' alt='A screenshot of REAPER, running the theme ‘Smooth’' width='768' height='480' caption='REAPER running the theme ‘Smooth’' %}{: .fullscreen }
 
 Incredibly detailed and well crafted, _Smooth_ was created for free by a guy who only asks to be [supported on Bandcamp](https://forum.cockos.com/showthread.php?p=2219276), where he published a slightly bizarre but captivating sci-fi concept. Which brings me to the next benefit. 
 
@@ -116,5 +115,4 @@ The question of stock plug-ins is a neverending debate in the music production b
 
 I had decided a while back to settle on [very few third-party plug-ins](/uses/), and learn them in depth. I was using Logic at the time, and my intent was to be as platform agnostic as possible. Now that I’ve experimented with Cockos’ native FXs, I can safely say that I don’t need anything new for the foreseeable future. My existing commercial plug-ins, plus the REAPER integrated arsenal, is more than enough. On the topic, there’s also a video series by the great Dan Worrall.
 
-{% include pattern-video.html provider="yewtu.be" id="3OoVnTO3AB4" %}
-[_If you prefer, watch the video on YouTube_](https://youtu.be/3OoVnTO3AB4){: target="_blank" }
+{% include video.liquid id="3OoVnTO3AB4" %}

@@ -1,126 +1,110 @@
-{%- capture siteTitle %}
-{%- if page.url == "/" -%}
-{{ site.title }} - {{ page.title }}
-{%- elsif page.type == 'tag' -%}
-{{ site.title }} - {{ page.type | capitalize }}: {{ page.title | capitalize }}
-{%- else -%}
-{% unless page.tagline == false %}{{ site.title }}{% endunless %} - {{ page.title }}
-{%- endif -%}
-{% endcapture -%}
 <!DOCTYPE html>
 <html lang="{{ site.lang }}" dir="ltr" itemscope itemtype="http://schema.org/WebPage">
 <head>
-	<title>{{ siteTitle }}</title>
+	<title>{{ site.title }} - {{ page.title }}</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	{% if page.robots %}<meta name="robots" content="{{ page.robots }}, noai, noimageai">{% else %}<meta name="robots" content="index, follow, noai, noimageai">{% endif %}
+	<meta name="robots" content="noindex, nofollow, noai, noimageai">
 	<!-- minimal open graph implementation -->
-	<meta content="{{ siteTitle }}" property="og:title">
-	<meta content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ site.who | strip_html }}{% endif %}" name="description" property="og:description">
-	<meta content="{%- if page.featimage == true and page.thumbOnly != true %}{{ site.url }}/assets/images/{{ page.featimage-name }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}" property="og:image">
-	<meta content="{%- if page.featimage == true and page.thumbOnly != true %}{{ site.url }}/assets/images/{{ page.featimage-name }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}" name="twitter:card">
+	<meta content="{{ site.title }}" property="og:title">
+	<meta content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ site.description | strip_html }}{% endif %}" name="description" property="og:description">
+	<meta content="{{ site.logo }}" property="og:image">
+	<meta content="{{ site.logo }}" name="twitter:card">
 	<!-- end open graph -->
-	<meta name="pinterest" content="nopin">
-	<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/m2m.css">
-	<link rel="webmention" href="https://webmention.io/minutestomidnight.co.uk/webmention">
-	<link rel="authorization_endpoint" href="https://indieauth.com/auth">
-	<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
-	<link rel="pgpkey authn" href="{{ site.url }}/assets/files/key.pub">
-	<link rel="me" href="https://github.com/simonesilvestroni/">
+	{%- if site.typeface != "" and site.typeface != nil %}
+	<link rel="preload" href="{{ site.url }}/assets/fonts/{{ site.typeface-preload }}" as="font" type="font/woff2" crossorigin>
+	{%- endif %}
+	<link rel="stylesheet" href="{{ site.url }}/assets/css/m2m.css">
 	<link rel="icon" href="{{ site.url }}/favicon.ico" sizes="any">
 	<link rel="icon" href="{{ site.url }}/assets/images/favicons/favicon.svg" type="image/svg+xml">
 	<link rel="apple-touch-icon" href="{{ site.url }}/assets/images/favicons/apple-touch-icon.png" sizes="180x180">
 	<link rel="manifest" href="{{ site.url }}/assets/images/favicons/site.webmanifest">
-	<link rel="alternate" href="{{ site.url }}/feed.xml" type="application/atom+xml">
+	<link rel="preview" href="{{ site.url }}{{ site.logo }}">
 	<link rel="canonical" href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | replace:'index.html','' | absolute_url }}{% endif %}">
 	<script type="application/ld+json">
 	{
 		"@context": "http://schema.org",
-		{% if page.is_post -%}"@type": "BlogPosting"{%- else %}"@type": "WebSite"{%- endif %},
+		"@type": "WebSite",
 		"name": "{{ site.title }}",
-		"headline": "{{ siteTitle }}",
+		"headline": "{{ site.tagline }}",
 		"url": "{{ site.url }}{{ page.url }}",
-		"description": "{% if page.description %}{{ page.description | strip_html }}{% else %}{{ site.who | strip_html }}{% endif %}",
-		"keywords": "{% if page.tags %}{{ page.tags | join: ', ' }}{% else %}{{ site.keywords }}{% endif %}",
-		{%- assign tagArchive = page.type | where: 'post.type', 'tag' -%}
-		{% unless tagArchive %}
+		"description": "{% if page.description %}{{ page.description | strip_html }}{% else %}{{ site.description | strip_html }}{% endif %}",
+		"keywords": "{{ site.keywords }}",
 		"datePublished": "{{ page.date }}",
-		"dateModified": "{% if page.url == '/' %}{{ site.time }}{% else %}{{ page.last_modified_at }}{% endif %}",
-		{% endunless -%}
+		"dateModified": "{{ site.time | date_to_xmlschema }}",
 		"author": {
 			"@type": "Person",
 			"name": "{{ site.author.name }}",
-			"givenName": "Simone",
-			"familyName": "Silvestroni"
+			"givenName": "{{ site.author.givenName }}",
+			"familyName": "{{ site.author.familyName }}"
 		},
 		"mainEntityOfPage": {
 			"@type": "WebPage",
 			"@id": "{{ site.url }}{{ page.url }}"
 		},
-		{%- if page.featimage == true and page.thumbOnly != true %}
-		"image": {
-			"@type": "ImageObject",
-			"width": "1024",
-			"height": "765",
-			"url": "{{ site.url }}/assets/images/{{ page.featimage-name }}"
-		},
-		{%- else %}
 		"image": {
 			"@type": "ImageObject",
 			"width": "500",
 			"height": "500",
 			"url": "{{ site.url }}{{ site.logo }}"
 		},
-		{%- endif %}
 		"sameAs": [
-			"https://sonomu.club/@m2m",
-			"https://minutestomidnight.bandcamp.com/",
-			"https://www.youtube.com/@m2m",
-			"https://github.com/simonesilvestroni/",
-			"https://www.linkedin.com/in/simonesilvestroni/"
+			"{{ site.link[1].url }}",
+			"{{ site.link[2].url }}",
+			"{{ site.link[3].url }}",
+			"{{ site.link[4].url }}"
 		]
 	}
 	</script>
 </head>
-<body id="top" class="{% if page.url contains '/blog/tag/' %}page-tag-{% endif %}{{ page.url | split: "/" | last | remove: ".html" }}{% if page.url == "/" %}homepage{% endif %}">
-	<a class="skip-to-content" href="#main">Skip to content</a>
-	<a class="skip-to-footer" href="#footer">Skip to footer</a>
+{%- capture pageName %}{%- if page.url == "/" %}homepage{%- elsif page.title contains "Page not found" %}not-found{%- else %}{{ page.url | split: "/" | last | remove: ".html" }}{%- endif %}{%- endcapture %}
+<body id="top" class="{{ page.layout }} {{ pageName }}">
+	<div class="skip-links">
+		<a href="#main">Skip to content</a>
+		<a href="#footer">Skip to footer</a>
+	</div>
 	<header>
+		<a href="{{ site.url }}"><img src="{{ site.url }}/assets/images/m2m-nav-logo.svg" alt="Back to the homepage" width="32" height="32"></a>
 		<nav aria-label="Main navigation">
 			<ul>
 				{% for item in site.data.nav-main.menu -%}
-				<li><a{% if page.url contains item.link %} class="current"{% endif %} href="{{ site.url }}{{ item.link }}"{% if forloop.last %} title="Subscribe for free via RSS"{% endif %}>{{ main-nav-icon }}{{ item.name }}</a></li>
-				{% endfor -%}
+				<li><a{% if page.url contains item.link %} class="current"{% endif %} href="{{ item.link }}">{{ main-nav-icon }}{{ item.name }}</a></li>
+				{%- endfor %}
 			</ul>
 		</nav>
 	</header>
 	<main id="main">
-		{{ content }}
+	{{ content }}
 	</main>
-	<footer>
-		<nav aria-label="Secondary navigation" id="footer">
+	<footer id="footer">
+		<nav aria-label="Secondary navigation">
 			<ul>
 				{% for item in site.data.nav-secondary.menu -%}
 				<li><a{% if page.url contains item.link %} class="current"{% endif %} href="{{ site.url }}{{ item.link }}"{% if item.target == true %} target="_blank"{% endif %}>{{ item.name }}</a></li>
 				{% endfor -%}
 			</ul>
 		</nav>
-		<div class="colophon">
-			<p>Handcrafted by Simone Silvestroni using Jekyll, Liquid, and M2M CSS framework.<br>The typefaces in use are: {% for item in site.typefaces  %}<em>{{ item }}</em>{%- unless forloop.last %}, {% endunless %}{%- if forloop.last %}.{% endif %}{% endfor %}</p>
-			<p>Read more <a href="{{ site.url }}/colophon/">about the website</a>, about <a href="{{ site.url }}/colophon/#accessibility-and-sustainability">accessibility and sustainability</a>, <a href="{{ site.url }}/colophon/#privacy">privacy</a>, <a href="{{ site.url }}/colophon/#copyright">copyright</a>, and <a href="{{ site.url }}/colophon/#trademark">trademark</a>.</p>
-		</div>
-		<div class="indieweb">
+		<p><a href="{{ site.url }}/colophon/#copyright">&copy; {{ site.time | date: "%Y"}} + CC BY 4.0</a></p>
+		<p>Handcrafted using Jekyll {{ site.jekyll-version }}, Liquid, and M2M CSS framework.{%- if site.typeface != "" and site.typeface != nil %} The typefaces in use are: <em>{{ site.typeface }}</em>.{% endif %}</p>
+		<p>More info about <a href="{{ site.url }}/colophon/#about-the-website">the website</a> / <a href="{{ site.url }}/colophon/#accessibility-and-sustainability">accessibility and sustainability</a> / <a href="{{ site.url }}/colophon/#privacy">privacy</a> / <a href="{{ site.url }}/colophon/#trademark">trademark</a>.</p>
+		<hr>
+		<div>
 			<p><strong>Indieweb webring</strong><br>
 			<a class="dim" href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/previous">← Previous site</a> &bull; <a class="dim" href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/next">Next site →</a></p>
 		</div>
-		<a class="dim" href="#top">&uarr;&nbsp;Back to top</a>
-		<a class="visually-hidden" rel="me" href="https://sonomu.club/@m2m">Follow on Mastodon</a>
+		<hr>
+		<nav aria-label="Footer navigation">
+			<ul>
+				<li><a href="https://themarkup.org/blacklight?location=eu&device=desktop&force=false&url=minutestomidnight.co.uk">No tracking</a></li>
+				<li><a href="#top">&uarr;&nbsp;Back to top</a></li>
+			</ul>
+		</nav>
 		<data class="p-org" value="Minutes to Midnight"></data>
-		<data class="p-note" value="{{ site.description }}"></data>
-		<data class="u-email" rel="me" value="mailto:{{ site.author.email }}"></data>
+		<data class="p-note" value="Sound designer, bassist and web designer"></data>
+		<data class="u-email" rel="me" value="mailto:hello@minutestomidnight.co.uk"></data>
+		<data rel="me" value="https://sonomu.club/@m2m"></data>
 		<data rel="me" value="https://minutestomidnight.bandcamp.com/"></data>
 		<data rel="me" value="https://www.youtube.com/@m2m"></data>
-		<data rel="me" value="https://open.spotify.com/artist/250igOmtd9HCpGyXDWUcl9?si=d9t8bLC2QfG8iT1R3y9CAw"></data>
 		<data rel="me" value="https://www.linkedin.com/in/simonesilvestroni/"></data>
 	</footer>
 </body>

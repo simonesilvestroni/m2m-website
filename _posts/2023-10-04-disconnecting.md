@@ -32,7 +32,7 @@ I've been ruminating over what to do if my current MacBook Pro stopped working. 
 My most recent fool’s errand has been a quest to find the ultimate unobtrusive mobile device, in the futile hope that I can get to live like it's 1997. Another article, plus a couple of YouTube videos, inspired me to look further into it. I spent three days seriously considering the idea of ditching my Android to switch to the [Light Phone](https://www.thelightphone.com/), a tiny device equipped with an e-ink screen that can only do phone calls, SMS, listen to music, and use a rudimentary GPS — no internet, no email, no chats. I quit yanking around after finally accepting the fact that I live in a society now designed to make my life impossible without a smartphone.
 
 > Without a smartphone, it  was impossible to do basic things [&hellip;]. It is now taken as a given that everyone has an iPhone or Android phone, and while you can choose *not* to have one, it is becoming increasingly unlikely that you will be able to effectively participate in modern society without one.
-><cite>Zachary Flower, <a href="https://flower.codes/2022/05/02/i-hate-my-smartphone.html"><em>I hate my smartphone</em></a></cite>
+><cite>[Zachary Flower](https://flower.codes/2022/05/02/i-hate-my-smartphone.html)</cite>
 
 ## The iPhone
 
@@ -51,6 +51,8 @@ With a newfound timid pleasure in using iPhones, I’d decided to split my SIM c
 After getting used to iOS again, I better understood why Apple veered its macOS design to what is now, including the infamous Ventura’s System Settings overhaul. At that point I got increasingly curious, and read all about macOS 13: what I found was interesting and inviting. Something that always bugged me about staying on older OSes is the lack of security updates, so I decided to take a leap of faith (after reading *a lot* of reviews from my peers), and installed macOS Ventura on my unsupported 2015 MacBook Pro. Thanks to the people who created [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher), it was a breeze. Also, I haven’t dwelled into technicalities, but my Mac is seriously snappier running Ventura than Mojave or Catalina ever were.
 
 The result? After using Ventura for almost a week, I’m very satisfied with it, *including* System Settings. I finally saw the reasons behind the redesign: needing to reflect the fact that it has become so much more complicated than it used to be twenty years ago, they made macOS consistent with an interface people were already familiar with. I guess I was judging a book by its cover.
+
+#### Footnotes
 
 [^1]: [_Get a typewriter, write a friend_](https://flower.codes/2020/12/14/get-a-typewriter-write-a-friend.html) by Zachary Flower.
 [^2]: [_Thoughts on a more offline life_](https://davidt.co.uk/thoughts-on-a-more-offline-life) by David Thorpe; [_Seeking offline-ness and slowness_](https://alongtheray.com/8-29-seeking-offline-ness-and-slowness-bump-in-the-night-more-trash) by Raymond Hines; [_Self care happens offline_](http://flower.codes/2023/08/14/self-care-happens-offline.html) by Zachary Flower.

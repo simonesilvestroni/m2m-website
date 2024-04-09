@@ -10,13 +10,12 @@ layout: default
 	<article>
 		<h2 class="p-name"><a href="{{ post.url }}" title="Read the post ‘{{ post.title }}’">{{ post.title }}</a></h2>
 		<div class="p-summary">
-			<p><time class="dt-published dim small" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time></p>
+			<time class="dt-published dim small" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time>
 			<p>{{ post.description | markdownify | strip_html }}</p>
 		</div>
-		<a class="read" href="{{ post.url }}"><strong>Read</strong> &rarr;</a>
+		<p><a href="{{ post.url }}"><strong>Read</strong> &rarr;</a></p>
 	</article>
 	{%- unless forloop.last %}
-	<hr>
 	{%- endunless %}
 	{%- endfor %}
 </section>

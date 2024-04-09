@@ -11,10 +11,8 @@ tags:
   - 'software'
   - 'sound project'
 description: "I mastered the debut EP for the Italian duo <em>IsadoraD</em>. They blend electronica, pop and indie."
-featimage: true
-thumbOnly: true
 ---
-{% include pattern-bandcamp.html size="bc-ep" iframecode='<iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=3556110038/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://isadorad.bandcamp.com/album/ipogeo">Ipogeo by IsadoraD</a></iframe>' %}
+{% include bandcamp.liquid size="bc-ep" iframecode='<iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=3556110038/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://isadorad.bandcamp.com/album/ipogeo">Ipogeo by IsadoraD</a></iframe>' %}
 
 ## Stem mastering
 
@@ -22,8 +20,7 @@ After listening to the mixes, I almost immediately opted for [stem mastering](ht
 
 After agreeing on the type and number of stems, I proceeded with the edits. Having such a granular access to the layers, I could apply gentle strokes of EQ and compression to some tracks leaving the others untouched. Automation also was of great help, especially for enhancing the choruses.
 
-![A Reaper project where I mastered using stems for drums, bass, vocals, guitars and keyboards](/assets/images/ipogeo-stem-mastering.jpeg){: width="1200" height="750" }
-*A Reaper project with stems for drums, bass, vocals, guitars and keys*
+{% include figure.liquid image='ipogeo-stem-mastering.jpeg' alt='A Reaper project where I mastered using stems for drums, bass, vocals, guitars and keyboards' width='1200' height='750' caption='A Reaper project with stems for drums, bass, vocals, guitars and keys' %}{: .fullscreen }
 
 ## Mastering using Reaper subprojects
 
@@ -41,20 +38,17 @@ I had to go back to the stems a couple times, because of minor loudness adjustme
 
 Once happy with the master, I bounced three versions, each one with a progressively higher loudness. In the following screengrab, the subproject (yellow audio item) had retained the original session markers as item/take markers, which helped with automating the limiter in certain sections.
 
-!["The master project in Reaper containing a subproject, along with 3 rendered test masters](/assets/images/ipogeo-master.jpeg){: width="1200" height="750" }
-*The master project in Reaper containing a subproject, along with 3 rendered test masters*
+{% include figure.liquid image='ipogeo-master.jpeg' alt='The master project in Reaper containing a subproject, along with 3 rendered test masters' width='1200' height='750' caption='The master project in Reaper containing a subproject, along with 3 rendered test masters' %}{: .fullscreen }
 
 ## Checking loudness
 
 With [SWS](https://www.sws-extension.org/) installed, checking on loudness is a breeze. Besides having useful metering plug-ins, I love how quickly I can select multiple audio items, click on the Extensions menu and select <kbd>Loudness</kbd> to [see the complete analysis in a neat table](https://wiki.cockos.com/wiki/index.php/Measure_and_normalize_loudness_with_SWS).
 
-![Final session with the 3 mastered songs on different tracks, to check on loudness and consistency](/assets/images/ipogeo-final-check.jpeg){: width="1200" height="750" }
-*Final session with the mastered songs, to check on loudness and consistency*
+{% include figure.liquid image='ipogeo-final-check.jpeg' alt='Final session with the 3 mastered songs on different tracks, to check on loudness and consistency' width='1200' height='750' caption='Final session with the 3 mastered songs on different tracks, to check on loudness and consistency' %}{: .fullscreen }
 
 ## Official video
 
-{% include pattern-video.html provider="yewtu.be" id="kXk8FZjz4OU" %}
-[_If you prefer, watch the video on YouTube_](https://youtu.be/kXk8FZjz4OU){: target="_blank"}
+{% include video.liquid id="kXk8FZjz4OU" %}
 
 ## Credits
 

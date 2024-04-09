@@ -24,6 +24,14 @@ syndicate:
   - name: IndieNews
     url: https://news.indieweb.org/e
 ---
+## Skills
+
+<ul class="list-inline">
+  {% for skill in page.skillset %}
+  <li><mark>{{ skill }}</mark></li>
+  {% endfor %}
+</ul>
+
 ## Objectives
 
 Two years after [Silvia](https://silviamaggidesign.com) made me discover webmentions by suggesting an *A List Apart* article by Chris Aldrich[^1], I decided to leave social media[^2] and turn my WordPress blog into a static website. Choosing not to implement a third-party commenting system, I wanted to turn to webmentions instead. A [W3C recommendation](https://www.w3.org/TR/webmention/), it’s a decentralised way to interact with other websites’ posts, enabling replies, likes, reposts and more.
@@ -118,17 +126,17 @@ I have a tweaked version that I use on blog posts, containing the time it's publ
 A list of microformats classes I've been using in my pages and posts:
 
 {: .list-hr-group }
-- `p-author`{: .highlight } signals that’s me who’s writing the content.
-- `p-name`{: .highlight } is the equivalent of a heading, also used for names.
-- `u-photo`{: .highlight } marks my avatar.
-- `u-url`{: .highlight } is the current page’s permalink.
-- `dt-published`{: .highlight } is the time of publication.
-- `u-in-reply-to`{: .highlight } marks someone else's article that I'm [replying to](https://indieweb.org/reply) with a webmention.
-- `u-like-of`{: .highlight } for [like types](https://indieweb.org/like) of webmentions.[^5]
-- `p-category`{: .highlight } for categories and tags.
-- `p-summary`{: .highlight } for the post excerpt.
-- `e-content`{: .highlight } wraps the main content of the post.
-- `u-syndication`{: .highlight } for links to other websites, if I [cross-post](https://indieweb.org/POSSE).
+- <mark><code>p-author</code></mark> signals that’s me who’s writing the content.
+- <mark><code>p-name</code></mark> is the equivalent of a heading, also used for names.
+- <mark><code>u-photo</code></mark> marks my avatar.
+- <mark><code>u-url</code></mark> is the current page’s permalink.
+- <mark><code>dt-published</code></mark> is the time of publication.
+- <mark><code>u-in-reply-to</code></mark> marks someone else's article that I'm [replying to](https://indieweb.org/reply) with a webmention.
+- <mark><code>u-like-of</code></mark> for [like types](https://indieweb.org/like) of webmentions.[^5]
+- <mark><code>p-category</code></mark> for categories and tags.
+- <mark><code>p-summary</code></mark> for the post excerpt.
+- <mark><code>e-content</code></mark> wraps the main content of the post.
+- <mark><code>u-syndication</code></mark> for links to other websites, if I [cross-post](https://indieweb.org/POSSE).
 
 #### IndieWebify
 
@@ -145,7 +153,7 @@ I can quickly create a note, fill-in the required original URL of the post and t
 {: .list-hr }
 - Quick workflow.
 - Feels like a _separate entity_ — which is how I perceive comments on the web.
-- Contained. Since the block tagged with `e-content`{: .highlight } is what’s going to be fetched and printed on someone’s comment section, I like it to be straight to the point and as brief as possible. When I see webmentions that are basically complete long posts, I feel like they miss the point altogether.
+- Contained. Since the block tagged with <mark><code>e-content</code></mark> is what’s going to be fetched and printed on someone’s comment section, I like it to be straight to the point and as brief as possible. When I see webmentions that are basically complete long posts, I feel like they miss the point altogether.
 
 ## Sending webmentions
 
@@ -182,13 +190,7 @@ I subsequently dropped `webmentions.js`, which removed all comments from my post
 
 Webmentions[^4] pushed me towards the concept of a [small web](https://benhoyt.com/writings/the-small-web-is-beautiful/), free from corporate interference. It matches the way I approach the internet and communication in general, and despite a few implementation hiccups I'm happy to be part of a larger independent community.
 
-## Skills
-
-<ul class="list-inline">
-  {% for skill in page.skillset %}
-  <li><mark>{{ skill }}</mark></li>
-  {% endfor %}
-</ul>
+#### Footnotes
 
 [^1]: [_Webmentions: Enabling Better Communication on the Internet_](https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet/), published 19 July 2018.
 [^2]: See my article [_Escape from social media_]({{ site.url }}/blog/escape-from-social-media/) and the follow-up [_Life after social networks_]({{ site.url }}/blog/life-after-social-networks/).

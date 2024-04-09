@@ -16,7 +16,7 @@ description: "In 12 months I’ve managed to revolutionize my workflow, twice. P
 In this series, I describe eight major benefits that REAPER brought to my music production workflow, and how they pushed me toward a full switch from Pro Tools.
 
 <aside class="warning">
-  <p><span class="highlight">Part 1</span></p>
+  <p><mark>Part 1</mark></p>
   <ol>
     <li>Cost</li>
     <li>Multi-platform</li>
@@ -61,8 +61,7 @@ Now, with my subscription about to expire, and irritated by the idea of another 
 
 Over the past ten years, I’ve been following several professionals who switched to REAPER by Cockos. Moreover, during my recent rekindling with game audio, I’ve discovered that REAPER has become a [_de facto_ standard in that industry](https://www.reddit.com/r/GameAudio/comments/4wpqtt/why_is_reaper_recommended_so_much_for_game_audio/).
 
-{% include pattern-video.html provider="yewtu.be" id="F2KuotvUaQU" title="One of many videos about REAPER in game audio" %}
-[_If you prefer, watch the video on YouTube_](https://youtu.be/F2KuotvUaQU){: target="_blank" }
+{% include video.liquid id="F2KuotvUaQU" title="One of many videos about REAPER in game audio" %}
 
 After the Wwise certification, learning REAPER was next in my pipeline. I thought: let’s try it now, and see if it can successfully replace Pro Tools and save me some money too.
 
@@ -123,8 +122,7 @@ As for pretty much everything in REAPER, a track can be created in three ways: d
 
 Drag an audio file, whether mono, stereo or multichannel, and the track accepts it; do the same by dropping a MIDI file. It also doesn’t care if the audio files are at different sample rates. Later, you can decide if it has to be mono or stereo, assign outputs and/or sends and whatnot. Also, and this is utterly cool: I can have a mono audio, a stereo (or surround) audio and a MIDI sequence all in one track:
 
-![A track in REAPER holding a MIDI part, together with stereo and mono audio recordings]({{ site.url }}/assets/images/daw-reaper-multi-track-scaled.jpg){: width='1200' height='378' }
-_Reaper is track-type agnostic_
+{% include figure.liquid image='daw-reaper-multi-track-scaled.jpg' alt='A track in REAPER holding a MIDI part, together with stereo and mono audio recordings' width='1200' height='378' caption='Reaper is track-type agnostic' %}{: .fullscreen }
 
 It’s a different metaphor, and it leads to a whole new workflow. It’s become an unbelievably efficient timesaver to me. Reproducing all my Logic or Pro Tools templates, including creating groups of track presets first, only took a few minutes.
 
@@ -144,15 +142,13 @@ I can also select multiple tracks at once, hold SHIFT and drag from the same ico
 
 The fastest way to create a bus is to create a folder. It’s as easy as clicking the folder icon in the track: the ones below will indent and be instantly re-routed. Once a folder is created, a "ghost clip" is generated at the top level, so that when the folder is collapsed its content is still visible.
 
-![Screenshot of a track control panel section in REAPER, showing a folder with its ghost clip at the top](/assets/images/daw-reaper-folder.png){: width="768" height="183" }
-*A folder in REAPER, with its ghost clip at the top*
+{% include figure.liquid image='daw-reaper-folder.png' alt='Screenshot of a track control panel section in REAPER, showing a folder with its ghost clip at the top' width='768' height='183' caption='A folder in REAPER, with its ghost clip at the top' %}{: .fullscreen }
 
 The routing matrix window can be used to apply elaborated signal flows to the whole song. As an example, I always send my mix to four groups (see: [Brauerizing](https://brauerizing.wordpress.com/)) depending on the material; these A to D groups feed a mix bus where I apply my top-level processing. 
 
 Finally, it goes to the master output which holds meter readings. In addition, I have my external DAC for headphones, routed to output 7-8 of my interface. I can do all this _in seconds_, as demonstrated by Kenny Gioia in the following video:
 
-{% include pattern-video.html provider="yewtu.be" id="oAfF6lNlMQk" %}
-[_If you prefer, watch the video on YouTube_](https://youtu.be/oAfF6lNlMQk){: target="_blank" }
+{% include video.liquid id="oAfF6lNlMQk" %}
 
 ### Grouping
 
