@@ -165,17 +165,17 @@ nav[aria-label="Secondary navigation"] {
 		display: flex;
 		flex-wrap: wrap;
 		column-gap: var(--nav-gap);
+		row-gap: 1rem;
 		align-items: center;
 		list-style-type: none;
 		padding-inline-start: 0;
 	}
 	// Nav links
 	a {
-		font-variant: small-caps;
 		font-family: var(--font-serif);
 		font-weight: bold;
-		font-size: calc(1rem + 0.5vw);
-		text-transform: lowercase;
+		font-size: calc(1rem + 0.3vw);
+		text-transform: uppercase;
 		letter-spacing: calc(0.5px + 0.15vw);
 		color: $colour-text;
 		text-decoration: none;

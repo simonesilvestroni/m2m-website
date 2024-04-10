@@ -1,12 +1,12 @@
 :root {
 	// Typography
-	--font-sans: '#{$font-sans}', system-ui, sans-serif;
-	--font-serif: '#{$font-serif}', serif;
-	--font-mono: '#{$font-mono}', monospace;
+	--font-sans: #{$font-sans}, system-ui, sans-serif;
+	--font-serif: #{$font-serif}, serif;
+	--font-mono: #{$font-mono}, monospace;
 	// Spacing
 	--border-radius-standard: 0.5rem;
 	--border-radius-double: 1rem;
-	--nav-gap: 2rem;
+	--nav-gap: 1.5rem;
 }
 // ----------------------------------------
 // Dark theme

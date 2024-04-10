@@ -26,7 +26,7 @@
 	:root {
 		--border-radius-standard: 0.5rem;
 		--border-radius-double: 1rem;
-		--nav-gap: 2rem;
+		--nav-gap: 1.5rem;
 	}
 	// ----------------------------------------
 	// Dark theme
@@ -172,7 +172,7 @@
 	body.homepage .h-card {
 		.p-author img {
 			width: calc(5rem + 20vw);
-			margin: 2.5rem auto;
+			margin: 5rem auto 0 auto;
 			border-radius: .5rem;
 			transform: rotateZ(357deg);
 		}

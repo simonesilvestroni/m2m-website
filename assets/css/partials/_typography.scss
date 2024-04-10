@@ -1,5 +1,5 @@
-$font-sans: Helvetica;
-$font-serif: Georgia;
+$font-sans: 'Helvetica';
+$font-serif: 'Georgia';
 $font-mono: Menlo;
 @if $webfonts == true {
 	// ------------------------------------
@@ -47,7 +47,7 @@ $font-mono: Menlo;
 		font-style: normal;
 		font-display: swap;
 	}
-	$font-serif: Crimson;
-	$font-sans: Schibsted;
-	$font-mono: SF Mono;
+	$font-serif: 'Crimson';
+	$font-sans: 'Schibsted';
+	$font-mono: ui-monospace, 'Source Code Pro', Menlo, 'Cascadia Code', Consolas, 'DejaVu Sans Mono';
 }
