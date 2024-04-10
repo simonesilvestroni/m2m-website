@@ -472,7 +472,7 @@ abbr[title] {
 }
 time {
 	@extend %dim;
-	@extend %small;
+	// @extend %small;
 }
 mark {
 	color: $colour-night;

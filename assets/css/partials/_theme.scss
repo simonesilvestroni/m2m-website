@@ -178,20 +178,20 @@
 		}
 	}
 	// h-card in blog posts
-	body.post .h-card {
+	body.post {
+	 .author {
+	 	@extend %small;
 		margin-block-end: 1.5rem;
-		a {
-			text-decoration-thickness: 1px;
-		}
-		img {
-			display: inline-block;
-			vertical-align: middle;
-			margin-inline-end: 0.3rem;
-			border-radius: 10rem;
-		}
-		.p-name,
-		time {
-			@extend %micro;
+			a {
+				display: inline-block;
+				text-decoration-thickness: 1px;
+			}
+			img {
+				display: inline-block;
+				vertical-align: middle;
+				margin-inline-end: 0.3rem;
+				border-radius: 10rem;
+			}
 		}
 	}
 	// Author full cards
@@ -435,6 +435,9 @@
 	// ------------------------------------
 	.list-table {
 		@extend %list-table;
+		time {
+			@extend %small;
+		}
 	}
 	.list-inline {
 		@extend %list-inline;

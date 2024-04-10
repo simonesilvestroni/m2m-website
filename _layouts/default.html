@@ -11,10 +11,16 @@
 	<meta content="{{ site.logo }}" property="og:image">
 	<meta content="{{ site.logo }}" name="twitter:card">
 	<!-- end open graph -->
+	<meta name="pinterest" content="nopin">
 	{%- if site.typeface != "" and site.typeface != nil %}
 	<link rel="preload" href="{{ site.url }}/assets/fonts/{{ site.typeface-preload }}" as="font" type="font/woff2" crossorigin>
 	{%- endif %}
 	<link rel="stylesheet" href="{{ site.url }}/assets/css/m2m.css">
+	<link rel="webmention" href="https://webmention.io/minutestomidnight.co.uk/webmention">
+	<link rel="authorization_endpoint" href="https://indieauth.com/auth">
+	<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+	<link rel="pgpkey authn" href="{{ site.url }}/assets/files/key.pub">
+	<link rel="me" href="https://github.com/simonesilvestroni/">
 	<link rel="icon" href="{{ site.url }}/favicon.ico" sizes="any">
 	<link rel="icon" href="{{ site.url }}/assets/images/favicons/favicon.svg" type="image/svg+xml">
 	<link rel="apple-touch-icon" href="{{ site.url }}/assets/images/favicons/apple-touch-icon.png" sizes="180x180">
@@ -100,8 +106,8 @@
 			</ul>
 		</nav>
 		<data class="p-org" value="Minutes to Midnight"></data>
-		<data class="p-note" value="Sound designer, bassist and web designer"></data>
-		<data class="u-email" rel="me" value="mailto:hello@minutestomidnight.co.uk"></data>
+		<data class="p-note" value="{{ site.tagline }}"></data>
+		<data class="u-email" rel="me" value="mailto:{{ site.author.email }}"></data>
 		<data rel="me" value="https://sonomu.club/@m2m"></data>
 		<data rel="me" value="https://minutestomidnight.bandcamp.com/"></data>
 		<data rel="me" value="https://www.youtube.com/@m2m"></data>
