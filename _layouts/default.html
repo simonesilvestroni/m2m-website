@@ -80,7 +80,7 @@
 		<nav aria-label="Secondary navigation">
 			<ul>
 				{% for item in site.data.nav-secondary.menu -%}
-				<li><a{% if page.url contains item.link %} class="current"{% endif %} href="{{ site.url }}{{ item.link }}"{% if item.target == true %} target="_blank"{% endif %}>{{ item.name }}</a></li>
+				<li><a{% if page.url contains item.link %} class="current"{% endif %} href="{{ site.url }}{{ item.link }}">{{ item.name }}</a></li>
 				{% endfor -%}
 			</ul>
 		</nav>

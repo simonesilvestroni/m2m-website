@@ -73,7 +73,7 @@ My process for sound effects was to create them from scratch, layering my record
     width="1024">
     Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/case-study-ruff-trigger-prototype-teaser-extended.mp4">download it</a> and watch it with your favorite video player.
   </video>
-  <p>If you prefer, <a href="https://youtu.be/X4eQAhk6dKM" target="_blank">watch the video on YouTube</a></p>
+  <p>If you prefer, <a href="https://youtu.be/X4eQAhk6dKM">watch the video on YouTube</a></p>
 </div>
 
 The video includes **processed recordings** of myself typing on a mechanical keyboard, thunderstorms in Milan, wooshes using belts and other artifacts, various metal hits from around the office, a wheeled chair on irregular surfaces, multiple compressed air cans, colleagues making noise and voices, rustled newspapers, a cat collar with a little bell, a few presets from a Korg Trinity synthesizer, all edited with Sound Forge, and assembled in Logic Platinum.

@@ -25,7 +25,7 @@ featimage-height: 434
 ---
 ## Objectives
 
-WOMEN Management, a global model agency based in New York and now part of [Elite](https://elitemodel.com/){: target="_blank"}{: rel="noopener nofollow"}, wanted to rebrand their existing online presence and create a website to showcase their models. The site required full-screen elegant photogalleries, along with the possibility for agents to create and print PDF portfolios. Finally, it had to work on multiple devices, with the ability to easily manage content.
+WOMEN Management, a global model agency based in New York and now part of [Elite](https://elitemodel.com/), wanted to rebrand their existing online presence and create a website to showcase their models. The site required full-screen elegant photogalleries, along with the possibility for agents to create and print PDF portfolios. Finally, it had to work on multiple devices, with the ability to easily manage content.
 
 ## Approach
 

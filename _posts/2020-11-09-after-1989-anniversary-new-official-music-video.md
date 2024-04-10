@@ -26,7 +26,7 @@ A year ago today, on the 30th anniversary of the fall of the Berlin Wall, I publ
     width="1024">
     Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-the-logic.mp4">download it</a> and watch it with your favorite video player.
   </video>
-  <p>If you prefer, <a href="https://youtu.be/r9NyAYXOnyk" target="_blank">watch the video on YouTube</a></p>
+  <p>If you prefer, <a href="https://youtu.be/r9NyAYXOnyk">watch the video on YouTube</a></p>
 </div>
 
 ## Where Were You in November 1989?

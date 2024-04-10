@@ -24,7 +24,7 @@ description: "Secret Eclectic review for my song <em>13 Days</em>. A London-base
     width="1024">
     Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-13-days.mp4">download it</a> and watch it with your favorite video player.
   </video>
-  <p>If you prefer, <a href="https://youtu.be/v-B88EtXr9Q" target="_blank">watch the video on YouTube</a></p>
+  <p>If you prefer, <a href="https://youtu.be/v-B88EtXr9Q">watch the video on YouTube</a></p>
 </div>
 
 > The song exists between two worlds. The inner and the outer. It starts in the outer world where the spoken samples and the lyrics get us in the mood and captures the tense of crisis from an external point of view. Then the song transfers us into the inner world, we are no longer an outsider but on the contrary, we are in the heart of the scene, where ”Helen stares at the window”. This change does not only happen through the lyrics. It is the chord progression, the melodies, the whole song itself, that moves between these two parallel worlds. 

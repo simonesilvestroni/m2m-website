@@ -21,7 +21,7 @@ description: "Sound effects, dialogue and music sync for the acclaimed show ‘T
 </video>
 
 {: .small }
-If you prefer, [watch the video on YouTube](https://youtu.be/LLH6DfooMLg){: target="_blank"}
+If you prefer, [watch the video on YouTube](https://youtu.be/LLH6DfooMLg)
 
 <video controls src="{{ site.url }}/assets/videos/case-study-carcity-inventom-race-car.mp4"
   poster="{{ site.url }}/assets/videos/case-study-carcity-inventom-race-car.jpg"
@@ -30,7 +30,7 @@ If you prefer, [watch the video on YouTube](https://youtu.be/LLH6DfooMLg){: targ
 </video>
 
 {: .small }
-If you prefer, [watch the video on YouTube](https://youtu.be/h66pXVCEbqw){: target="_blank"}
+If you prefer, [watch the video on YouTube](https://youtu.be/h66pXVCEbqw)
 
 ## About Amuse
 

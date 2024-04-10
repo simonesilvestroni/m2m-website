@@ -24,7 +24,7 @@ Beautiful review today. Indie Buddie is a blog about amazing new music from exci
 
 > ‘Skinny Kid’ is a tender delicate number as Simone expresses emotional and harrowing themes through a bitter, icy piano and tense progressive soundscapes. With a steady beat pounding through weaving guitars and ominous rumble on bass, the track projects images of isolation and loneliness by means of sinister chilling twinkles and tender vocals. The haunting backing vocals and lamenting pines on guitar have a chilling element as Simone portrays this harsh experience with sublime instrumentation and vivid musicianship.<br><br>
 > The black and white video allows a train journey to tell the tale of how a young man managed to escape Germany in 1945. With clips from the war mirroring more modern clips as footsteps lead us to  what happened to one individual during the war. 
-> <cite><a href="https://www.indiebuddie.com/minutes-to-midnight-skinny-kid-video-premiere/" target="_blank" rel="noreferrer noopener">Indiebuddie</a></cite>
+> <cite><a href="https://www.indiebuddie.com/minutes-to-midnight-skinny-kid-video-premiere/" rel="noreferrer noopener">Indiebuddie</a></cite>
 
 <div class="fullscreen">
   <br>
@@ -32,5 +32,5 @@ Beautiful review today. Indie Buddie is a blog about amazing new music from exci
     width="1024">
     Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-skinny-kid.mp4">download it</a> and watch it with your favorite video player.
   </video>
-  <p>If you prefer, <a href="https://youtu.be/xs00zSccUjc" target="_blank">watch the video on YouTube</a></p>
+  <p>If you prefer, <a href="https://youtu.be/xs00zSccUjc">watch the video on YouTube</a></p>
 </div>

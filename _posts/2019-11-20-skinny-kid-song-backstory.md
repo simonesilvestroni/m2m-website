@@ -27,7 +27,7 @@ description: 'How an arrangement for another band became the opening single and 
 </video>
 
 {: .small }
-If you prefer, [watch the video on YouTube](https://youtu.be/xs00zSccUjc){: target="_blank"}
+If you prefer, [watch the video on YouTube](https://youtu.be/xs00zSccUjc)
 
 ## Origin
 

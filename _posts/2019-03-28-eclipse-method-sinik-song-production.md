@@ -19,7 +19,7 @@ description: 'I snapped out of my comfort zone to help the promising young artis
   Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/eclipse-method-sinik.mp4">download it</a> and watch it with your favorite video player.
 </video>
 
-If you prefer, [listen to the song on YouTube](https://youtu.be/D0mFNEwirGg){: target="_blank"}, or on [Spotify](https://open.spotify.com/track/3Ydz49mYSfJ122pCf9PQrd?si=772cd61e061f47cd){: target="_blank"}
+If you prefer, [listen to the song on YouTube](https://youtu.be/D0mFNEwirGg), or on [Spotify](https://open.spotify.com/track/3Ydz49mYSfJ122pCf9PQrd?si=772cd61e061f47cd)
 
 ## Production notes
 

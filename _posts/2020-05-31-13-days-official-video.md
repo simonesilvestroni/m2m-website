@@ -25,7 +25,7 @@ The threat of a pre-emptive strike to America is real, as the level of military 
     width="1024">
     Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-13-days.mp4">download it</a> and watch it with your favorite video player.
   </video>
-  <p><a href="https://youtu.be/v-B88EtXr9Q" target="_blank">If you prefer, watch the video on YouTube</a></p>
+  <p><a href="https://youtu.be/v-B88EtXr9Q">If you prefer, watch the video on YouTube</a></p>
 </div>
 
 ## Credits

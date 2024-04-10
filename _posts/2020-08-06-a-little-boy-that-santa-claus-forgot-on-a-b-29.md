@@ -26,7 +26,7 @@ description: '75 years ago, while two young men escaped from Sachsenhausen conce
     width="1024">
     Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/music-video-a-little-boy-that-santa-claus-forgot-on-a-b-29.mp4">download it</a> and watch it with your favorite video player.
   </video>
-  <p>If you prefer, <a href="https://youtu.be/5M1XTw483Ew" target="_blank">watch the video on YouTube</a></p>
+  <p>If you prefer, <a href="https://youtu.be/5M1XTw483Ew">watch the video on YouTube</a></p>
 </div>
 
 ## Backstory

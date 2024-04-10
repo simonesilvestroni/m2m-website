@@ -34,7 +34,7 @@ Rachel Goodman's performance in _Niemandsland_ (an unpublished demo scrapped in 
     width="1024">
     Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/case-study-vocals-transformation.mp4">download it</a> and watch it with your favorite video player.
   </video>
-  <p>If you prefer, <a href="https://youtu.be/NqvejQhhUao" target="_blank">watch the video on YouTube</a></p>
+  <p>If you prefer, <a href="https://youtu.be/NqvejQhhUao">watch the video on YouTube</a></p>
 </div>
 
 The painstaking process of transforming a vocal performance from one song to another was done using Logic Pro and Soundtoys. Working on both the pitch and the _formant_, I strived to obtain a new track that sounded coherent with the new lead single without showing notable artifacts.

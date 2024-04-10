@@ -105,7 +105,7 @@ The first ten seconds of the original song, followed by the same section with th
     width="1024">
     Sorry, your browser doesn't support embedded videos, but you can <a href="{{ site.url }}/assets/videos/case-study-isolating-the-drums-from-a-stereo-track.mp4">download it</a> and watch it with your favorite video player.
   </video>
-  <p>If you prefer, <a href="https://youtu.be/ofgU1kXiSHE" target="_blank">watch the video on YouTube</a></p>
+  <p>If you prefer, <a href="https://youtu.be/ofgU1kXiSHE">watch the video on YouTube</a></p>
 </div>
 
 ## Reviews

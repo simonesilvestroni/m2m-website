@@ -466,12 +466,6 @@
 		&:hover {
 			@extend %link-transition-opacity;
 		}
-		p:has(&) {
-			display: flex;
-			justify-content: center;
-			margin-block-start: 4rem;
-			margin-block-end: 2rem;
-		}
 	}
 	%cta-inline {
 		@extend %button;
@@ -488,6 +482,12 @@
 	}
 	.cta {
 		@extend %cta;
+		p:has(&) {
+			display: flex;
+			justify-content: center;
+			margin-block-start: 4rem;
+			margin-block-end: 2rem;
+		}
 	}
 	.cta-inline {
 		@extend %cta-inline;
@@ -496,7 +496,7 @@
 		@extend %list-inline;
 		li {
 			margin-block-end: 1rem;
-			margin-inline-end: 1rem;
+			margin-inline: 0.5rem;
 			a {
 				@extend %button;
 				@extend %small;

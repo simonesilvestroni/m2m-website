@@ -37,7 +37,7 @@ The song was mixed and mastered using Logic Pro and Wavelab. Because of some unc
 > _Commit to the List_ was written at a very important time for me. I’d moved to London and was eager to make some waves within touching distance of the Thames. It’s still the opening song for my live shows today and went through quite a journey from pen & paper to mix & master.
 > <cite>Callum Gardner</cite>
 
-[**Listen to the song on Spotify**&nbsp;&rarr;](https://open.spotify.com/track/4e2PTyfPfvw9WunM9nG0nT?si=0972153817224ac8){: target="_blank"}{: .cta }
+[**Listen to the song on Spotify**&nbsp;&rarr;](https://open.spotify.com/track/4e2PTyfPfvw9WunM9nG0nT?si=0972153817224ac8){: .cta }
 
 ## Going live
 
