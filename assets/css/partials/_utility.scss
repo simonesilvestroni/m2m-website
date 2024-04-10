@@ -128,7 +128,7 @@
 // Visibility
 // -------------------------------- */
 %dim { 
-	color: lighten($colour-text-light, 20%) !important;
+	color: $colour-dim !important;
 }
 %hidden { 
 	display: none !important
