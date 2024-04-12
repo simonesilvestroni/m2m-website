@@ -19,6 +19,7 @@ $colour-border: #d9d9d9 !default;
 $colour-highlight: #f2f1af !default;
 $colour-disabled: #efefef !default;
 $colour-shadow: #000 !default;
+$colour-notice: floralwhite !default;
 
 // -------------------------------- *\
 // Main DOM elements
@@ -367,9 +368,8 @@ blockquote {
 		font-family: var(--font-serif);
 		font-size: calc(1.15rem + 0.3vw);
 		line-height: 1.5;
-		width: calc(85% + 0.390625vw);
-		padding-inline-start: calc(0.5rem + 1.5vw);
-		border-inline-start: calc(1px + 0.2vw) solid $colour-border;
+		padding: calc(0.5rem + 2.5vw);
+		background-color: floralwhite;
 	}
 	cite {
 		@extend %small-caps;
@@ -417,7 +417,7 @@ th {
 }
 th,
 tr:nth-child(even) {
-	background-color: $colour-transparent;
+	background-color: $colour-notice;
 }
 table caption {
 	font-weight: bold;

@@ -20,6 +20,7 @@
 	$colour-highlight: #f2f1af;
 	$colour-disabled: #efefef;
 	$colour-shadow: #0f0f0f;
+	$colour-notice: floralwhite;
 
 	// ------------------------------------
 	// Root
@@ -397,7 +398,8 @@
 		margin-block: 3rem;
 		margin-inline: -3rem;
 		padding: 3rem;
-		background-color: $colour-day-transparent;
+		transform: rotateZ(359deg);
+		background: transparent url('../images/scratches-invert.png');
 		@media (max-width: 960px) {
 			padding: calc(1rem + 2vw);
 			margin-inline: calc(-1rem - 2vw);
@@ -486,6 +488,7 @@
 	}
 	.cta {
 		@extend %cta;
+		font-size: larger;
 		p:has(&) {
 			display: flex;
 			justify-content: center;
