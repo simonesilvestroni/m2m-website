@@ -183,6 +183,7 @@
 	body.post {
 	 .author {
 	 	@extend %small;
+	 	text-align: center;
 		margin-block-end: 1.5rem;
 			a {
 				display: inline-block;
