@@ -19,10 +19,8 @@ I’d like to understand how and why I’ve been having this disconcerting feeli
 
 Supposedly, the entire Western civilisation is to blame, I just happen to have noticed this behaviour from a specific geographic area. For sure I’ve grown tired of listening to rich privileged people who can’t see how transparent is their push to commercialise and make money off anything. I'll close with a quote.
 
-> In a documentary about the [minimalist] movement, “bad” consumption is portrayed by masses of people swarming into big box stores on Black Friday, rushing over one another for the best deals. They are, we’re led to understand, slaves to material goods, whereas the people who stay away from mass consumption are independent thinkers, free to enjoy the higher planes of life.
-> 
-> But those people flocking to Walmart and other stores don’t necessarily see things that way. To go out and purchase furniture, or an entertainment set, or a television bigger than an average computer monitor are all beyond my means. That those major sales bring the unattainable items to a level of affordability is what drives all of those people to line up and storm through doors on Black Friday.
-> 
+> In a documentary about the [minimalist] movement, “bad” consumption is portrayed by masses of people swarming into big box stores on Black Friday, rushing over one another for the best deals. They are, we’re led to understand, slaves to material goods, whereas the people who stay away from mass consumption are independent thinkers, free to enjoy the higher planes of life.<br>
+> But those people flocking to Walmart and other stores don’t necessarily see things that way. To go out and purchase furniture, or an entertainment set, or a television bigger than an average computer monitor are all beyond my means. That those major sales bring the unattainable items to a level of affordability is what drives all of those people to line up and storm through doors on Black Friday.<br>
 > Those are people teetering on or even below the poverty level, desperate for comfort in their homes. To point to them as a reason to start an anti-consumerism movement is just another form of social shaming. Those aren’t the people who would benefit from a minimalist life. They can’t afford to do with less.\
 ><cite>[Ayumi Takahashi](https://www.nytimes.com/2016/07/18/opinion/the-class-politics-of-decluttering.html)</cite>
 

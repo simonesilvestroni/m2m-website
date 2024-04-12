@@ -25,8 +25,10 @@ featimage-caption: Photo by Silvia Maggi, Sachsenhausen (2019)
 featimage-width: 1024
 featimage-height: 683
 ---
-<aside class="highlight">
-  <p>This article was originally published on the Medium magazine <em>Lessons From History</em>. After deleting my Medium account, I moved it here.</p>
+<aside>
+  <blockquote>
+    <p>This article was originally published on the Medium magazine <em>Lessons From History</em>. After deleting my Medium account, I moved it here.</p>
+  </blockquote>
 </aside>
 
 ## Roots

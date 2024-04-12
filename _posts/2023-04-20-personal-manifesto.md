@@ -74,8 +74,10 @@ Rather than buy the shiny new object, I prefer to [maintain and repair](https://
 
 I don't pirate software. I support <abbr title="Free and Open-Source Software">FOSS</abbr> projects, including the Mastodon instance that hosts my account, _and_ closed-source software built by small companies with a well-thought business model. None of them have a marketing department gaslighting their customers or plastering ads everywhere. A few examples: [Cockos](https://cockos.com/), [Tokyo Dawn Labs](https://www.tokyodawn.net/tokyo-dawn-labs/), [Sublime HQ](https://www.sublimehq.com/), [iA Writer](https://ia.net/writer).
 
-<aside class="warning">
-  <p>Featured on <a href="https://projects.kwon.nyc/internet-is-fun/"><em>The internet used to be fun</em></a>, by Rachel J. Kwon.</p>
+<aside>
+  <blockquote>
+    <p>Featured on <a href="https://projects.kwon.nyc/internet-is-fun/"><em>The internet used to be fun</em></a>, by Rachel J. Kwon.</p>
+  </blockquote>
 </aside>
 
 #### Footnotes

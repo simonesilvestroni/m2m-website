@@ -13,9 +13,7 @@ description: 'A video by Benn Jordan made me realise how little respect I hold f
 
 The [recent announcement](https://www.plugin-alliance.com/en/blog/blogpost/items/plugin-alliance-brainworx-and-izotope-now-native-instruments.html) that Plugin Alliance, iZotope, and other respected brands in the music production software sector, will now be owned and marketed under the umbrella company name of Native Instruments is not the type of news that I'm longing for. Sure enough, the usual bullshit remarks followed:
 
-> [&hellip;] you might be wondering how this change will affect you — it will have no impact on your subscription or customer experience with Plugin Alliance. We are simply creating a tighter bond with Native Instruments.
-> 
-> This move will help us to create a seamless and consistent experience for customers that use Brainworx, Native Instruments, and iZotope products.
+> You might be wondering how this change will affect you — it will have no impact on your subscription or customer experience with Plugin Alliance. We are simply creating a tighter bond with Native Instruments. [&hellip;] This move will help us to create a seamless and consistent experience for customers that use Brainworx, Native Instruments, and iZotope products.
 
 At this point, I'd say everyone should know better than believing these things like they're principles carved in stone. Every buyout is followed by the same marketing jargon, aimed at keeping the customer base calm. Moreover, they're promising a unified login (which isn't a bad idea per se), but above all:
 
