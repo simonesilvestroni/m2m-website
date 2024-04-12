@@ -23,11 +23,9 @@ _Hidden Music_ is a vocals and piano-driven delicate and beautiful album featuri
 
 This was the first full-fledged album that I mixed using Reaper after [switching from Pro Tools](/blog/tag/reaper/) last year, and also my first work after I temporarily moved to Italy.
 
-> I realised these six songs worked together both lyrically and musically after three albums with Ember Rev but these songs were conceived at and for the piano and wouldn’t work if reconfigured for different instruments. Also, I had little desire to perform live such intensely personal downtempo ruminations on family, fatherhood, status anxiety and the memory of ambition. So it became this: a solo album of music for headphones, music for contemplation, music that is, and has been for many years, hidden.
-> 
-> <cite>Dan Ecclestone</cite>
+> I realised these six songs worked together both lyrically and musically after three albums with Ember Rev but these songs were conceived at and for the piano and wouldn’t work if reconfigured for different instruments. Also, I had little desire to perform live such intensely personal downtempo ruminations on family, fatherhood, status anxiety and the memory of ambition. So it became this: a solo album of music for headphones, music for contemplation, music that is, and has been for many years, hidden.<cite>Dan Ecclestone</cite>
 
-## Official video for _Approaching Silence_
+## Video for _Approaching Silence_
 
 {% include video.liquid id="GFFxceUwA-8" %}
 
