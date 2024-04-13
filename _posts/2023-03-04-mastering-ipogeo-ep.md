@@ -46,10 +46,6 @@ With [SWS](https://www.sws-extension.org/) installed, checking on loudness is a 
 
 {% include figure.liquid image='ipogeo-final-check.jpeg' alt='Final session with the 3 mastered songs on different tracks, to check on loudness and consistency' width='1200' height='750' caption='Final session with the 3 mastered songs on different tracks, to check on loudness and consistency' %}{: .fullscreen }
 
-## Official video
-
-{% include video.liquid id="kXk8FZjz4OU" %}
-
 ## Credits
 
 Bruno Valeri

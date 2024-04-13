@@ -17,8 +17,7 @@ It was interesting to check out further comments:
 
 > Each year before WWDC, Apple posts a note encouraging developers to file feedbacks. In the past, I used to see Apple engineers emphasizing how important this is and developers chiming in about how to do a good job writing bug reports. This year, sadly, the most common reaction seemed to be laughter. People can’t believe that Apple is acting like we should take this process seriously.<cite>Michael Tsai</cite>
 
-> Like many, I've mostly given up on filing bugs with Apple, because most of the time they're entirely ignored. [&hellip;] My Feedback Reporter list is a graveyard littered with shouts into the void.
-> 
+> Like many, I've mostly given up on filing bugs with Apple, because most of the time they're entirely ignored. [&hellip;] My Feedback Reporter list is a graveyard littered with shouts into the void.<br>
 > Each year I hold out a bit of optimism that developer relations will improve, but I've come to recognize that it's a waste of emotion.<cite>Ben Kennedy</cite>
 
 > What a fucked-up process.<cite>Ole Begemann</cite>
