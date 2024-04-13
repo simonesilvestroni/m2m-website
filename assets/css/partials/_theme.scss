@@ -150,7 +150,7 @@
 	pre,
 	kbd,
 	samp {
-		font-size: 90%;
+		font-size: 95%;
 	}
 
 	// ------------------------------------
@@ -399,11 +399,15 @@
 		margin-block: 3rem;
 		margin-inline: -3rem;
 		padding: 3rem;
-		transform: rotateZ(359deg);
+		transform: rotateZ(358deg);
 		background: transparent url('../images/scratches-invert.png');
 		@media (max-width: 960px) {
 			padding: calc(1rem + 2vw);
 			margin-inline: calc(-1rem - 2vw);
+		}
+		span {
+			display: block;
+			transform: rotateZ(2deg);
 		}
 		aside & {
 			margin-block-end: 0;

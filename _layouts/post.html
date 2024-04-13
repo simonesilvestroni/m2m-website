@@ -6,7 +6,7 @@ layout: default
 		<h1 class="p-name">{{ page.title }}</h1>
 	</header>
 	{%- unless page.tldr == false %}
-	<p class="highlight e-content">{{ page.description }}</p>
+	<p class="highlight e-content"><span>{{ page.description }}</span></p>
 	{%- endunless %}
 	<div class="author">
 		<a rel="author" class="p-author h-card" href="{{ site.url }}/about/"><img class="u-photo" src="{{ site.url }}/assets/images/minutes-to-midnight-portrait.jpg" alt="{{ site.author.name }}" width="48" height="48"></a>{% if page.replyto %}&nbsp;<span>[in reply to <a href="{{ page.replyto }}" class="u-in-reply-to">{{ page.replytouser }}</a>]</span>{% endif %}{% if page.coauthor %}&nbsp;&amp;&nbsp;<a href="{{ page.coauthorlink }}">{{ page.coauthor }}</a>{% endif %}&nbsp;&nbsp;<a class="u-url u-uid" href="{{ site.url }}{{ page.url }}" title="Permalink"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %b %Y" }}</time></a>
