@@ -1,0 +1,21 @@
+// -------------------------------- *\
+//  Base transition
+// -------------------------------- */
+@mixin m2m-transition($time, $mode, $property) {
+	// SHORT
+	@if $time == short {
+		transition: .5s $mode $property;
+	}
+	// LONG
+	@else if $time == long {
+		transition: 1s $mode $property;
+	}
+	// EXTRA LONG
+	@else if $time == xlong {
+		transition: 2s $mode $property;
+	}
+	// DEFAULT
+	@else {
+		transition: .2s linear all;
+	}
+}
