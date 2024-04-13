@@ -1,0 +1,17 @@
+---
+layout: none
+permalink: /robots.txt
+---
+{%- for item in site.data.bots -%}
+User-agent: {{ item }}
+Disallow: /
+
+{% endfor -%}
+
+# Everybody else
+User-agent: *
+Disallow: /assets/
+Disallow: /epk/
+Disallow: /notes/
+
+Sitemap: {{ site.url}}/sitemap.xml
