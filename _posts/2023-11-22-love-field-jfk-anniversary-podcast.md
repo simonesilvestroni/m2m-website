@@ -7,7 +7,7 @@ tags:
   - 'indie artist'
   - 'usa'
   - 'video'
-description: 'On the 60th anniversary of the Kennedy assassination, Todd Gardner featured my song in a special episode of his podcast.'
+summary: 'On the 60th anniversary of the Kennedy assassination, Todd Gardner featured my song in a special episode of his podcast.'
 ---
 > Ten years ago as the 50th anniversary of the JFK assassination was approaching, I asked garage/psychedelic bands if they would contribute a track to a Creative Commons compilation I put together called Conspiracy A-Go-Go. Several bands recorded new tracks specifically for that compilation, while other bands contributed tracks that they had already released. The original Conspiracy A-Go-Go compilation was released November 1, 2013, and is available as a [free download on Bandcamp](https://turnmeondeadman.bandcamp.com/album/conspiracy-a-go-go), the Free Music Archive and the [Internet Archive](https://archive.org/details/Conspiracy_A-Go-Go-15396). This episode of Turn Me On, Dead Man picks up where the 2013 compilation left off.<br>
 > [&hellip;]<br>

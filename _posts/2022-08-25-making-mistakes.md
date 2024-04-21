@@ -6,7 +6,7 @@ tags:
   - 'italy'
   - 'personal'
   - 'uk'
-description: 'A frustration-fueled personal post on how migrating back to Italy two years ago was not the solution.'
+summary: 'A frustration-fueled personal post on how migrating back to Italy two years ago was not the solution.'
 ---
 As a two-year anniversary of *temporarily* [moving back to Italy](/blog/leaving-the-uk/) is approaching, I’m here ruminating on how naively optimistic we were when we took that decision. Nothing really went the way we hoped for, no matter how much we tried. I think I should see the outcome as: never rush to take disrupting decisions when the rationale is based on a sentiment that might not last. I’m not going into a deep analysis on why and how we got to that decision&nbsp;—&nbsp;the classic *what if* thought excercise is also utterly pointless in this case&nbsp;—&nbsp;this post serves more as a personal memorandum for the future.
 

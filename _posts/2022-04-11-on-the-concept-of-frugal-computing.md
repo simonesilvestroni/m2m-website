@@ -5,7 +5,7 @@ last_modified_at: '2022-04-11 17:57:46'
 tags:
   - 'minimalism'
   - 'sustainability'
-description: "Wim Vanderbauwhede on the need for low-carbon and sustainable computing and the path towards zero-carbon computing."
+summary: "Wim Vanderbauwhede on the need for low-carbon and sustainable computing and the path towards zero-carbon computing."
 ---
 A [professor in Computing Science](https://www.gla.ac.uk/schools/computing/staff/wimvanderbauwhede/#/biography) and a Reader at the University of Glasgow, Wim argued:
 

@@ -14,7 +14,7 @@ tags:
   - 'sound design'
   - 'video games'
   - 'sound project'
-description: "As the audio team leader, I created and implemented sound effects and an adaptive soundtrack, bootstrapping the audio for the PlayStation2 video game <em>Ruff Trigger: The Vanocore Conspiracy</em>."
+summary: "As the audio team leader, I created and implemented sound effects and an adaptive soundtrack, bootstrapping the audio for the PlayStation2 video game <em>Ruff Trigger: The Vanocore Conspiracy</em>."
 featimage: true
 featimage-name: 'ruff-trigger-playstation2-video-game.jpg'
 featimage-alt: Ruff Trigger game cover
@@ -94,12 +94,12 @@ Following a company reorganisation, my project management duties increased. I ne
 
 ## Game Developer Conference 2002: <abbr title="Game Audio Network Guild">GANG</abbr>, Steam, and a nice learning curve
 
-Between 19 and 23 March 2002 twelve colleagues and I attended the [Game Developer Conference](https://gdconf.com/) in San Jose (California). The motto for that edition, where ten thousand people participated, was _Make Better Games_. A **fantastic formative experience**, it pushed me out of my comfort zone like anything has ever done before. I met with strangers from all over the world, discussed our respective viewpoints, and exchanged contacts. I took an astounding amount of notes! My first day was filled with the 8-hours workshop _Using DirectMusic for Music and Sound FX_, with [Brian Schmidt](https://www.brianschmidtstudios.com/) and Scott Selfon (then at Microsoft) giving amazing insights into how to optimize the audio delivery on an Xbox using XACT.
+Between 19 and 23 March 2002 twelve colleagues and I attended the [Game Developer Conference](https://gdconf.com/) in San Jose (California). The motto for that edition, where ten thousand people participated, was _Make Better Games_. A fantastic formative experience, it pushed me out of my comfort zone like anything had done before. I met with strangers from all over the world, discussed our respective viewpoints, and exchanged contacts. I took an astounding amount of notes! My first day was filled with the 8-hours workshop _Using DirectMusic for Music and Sound FX_, with [Brian Schmidt](https://www.brianschmidtstudios.com/) and Scott Selfon (then at Microsoft) giving amazing insights into how to optimize the audio delivery on an Xbox using XACT.
 
 ![GDC 2002: Attendance at a workshop](/assets/images/gdc-2002-attendants.jpg){: width="768" height="519" }
 *GDC 2002: attendance at a workshop*
 
-Besides the [unveiling of Steam](https://www.gamespot.com/articles/gdc-2002-valve-unveils-steam/1100-2857298/) by Valve, I took part in the historical event for the game audio industry: the foundation of the [Game Audio Network Guild](https://www.audiogang.org/) by Tommy Tallarico, Brian Schmidt, Thomas Dolby among others, a non-profit organisation aiming at **working to promote excellence in interactive audio**. I joined as a bronze member.
+Besides the [unveiling of Steam](https://www.gamespot.com/articles/gdc-2002-valve-unveils-steam/1100-2857298/) by Valve, I took part in the historical event for the game audio industry: the foundation of the [Game Audio Network Guild](https://www.audiogang.org/) by Tommy Tallarico, Brian Schmidt, Thomas Dolby among others, a non-profit organisation aiming at working to promote excellence in interactive audio. I joined as a bronze member.
 
 ![Bronze member certificate from GANG, signed by Tommy Tallarico](/assets/images/gang-certificate.jpg){: width="960" height="720" }
 *My GANG member certificate*
@@ -111,13 +111,13 @@ On the last day, a keynote titled _The Audio Production for Halo_, by the then B
 
 ## After the GDC
 
-Back home, I was optimistic and excited about the vast amount of knowledge and inspiration gained at the conference. After a week of unexpected lack of communication, I'd decided to implement what I learned in California by **making it an integral part of the audio workflow**. However, the absence of a shared feedback across teams was disappointing.
+Back home, I was optimistic and excited about the vast amount of knowledge and inspiration gained at the conference. After a week of unexpected lack of communication, I'd decided to implement what I learned in California by making it an integral part of the audio workflow. However, the absence of a shared feedback across teams was disappointing.
 
 ## Burnout
 
-Something changed in the company. Founded by a group of friends, and up to a certain point managed with the same spirit, the growing difficulties due to a lack of interest by high-level publishers eroded confidence, while the first layoffs soured relationships among colleagues. To appeal to smaller publishers, the game _had to change_, so a new wave of hirings brought people with more industry experience. The full discretionary powers they received were promptly enforced without getting to know the internal dynamics first. Several people who were with Playstos since the beginning resigned.
+Something changed in the company. Founded by a group of friends, and up to a certain point managed with the same spirit, the growing difficulties due to a lack of interest by high-level publishers eroded confidence, while the first layoffs soured relationships among colleagues. To appeal to smaller publishers, the game _had to change_, so a new wave of hirings brought people with more industry experience. Enforcing the full discretionary powers they received, without getting to know the internal dynamics first, upset several people who were with Playstos since the beginning. Resignations followed.
 
-Some of the new leaders criticized the game, calling it puerile. What was _Ruff Trigger_ as I knew it changed rapidly. **Striving to be constructive**, I supported some decisions whilst debating others, and for that I was told to stop creating problems. To me, it looked like the goal was to cut corners and publish the game whatever the cost.
+Some of the new leaders criticised the game, calling it puerile. What was _Ruff Trigger_ as I knew it changed rapidly. Striving to be constructive, I supported some decisions whilst debating others, which didn't get me far. My impression was that the goal was to cut corners and publish the game whatever the cost.
 
 I asked to step down as team leader, and renegotiated a new contract as a remote worker. Regularly going to the studios to check on the progress, a special <abbr title="Virtual Private Network">VPN</abbr> connection allowed me to access the internal assets **while performing tests and backups**. Despite the renewed situation, I discovered how exhausted I was. I spent many nights at Playstos over the years, working double and triple shifts: the impending feeling of _it was all for nothing_ was weighing me down with brute force. In the meantime, I was witnessing _Ruff Trigger_ morphing from a multi-platform ambitious project into a budget game.
 

@@ -8,7 +8,7 @@ tags:
   - 'indie artist'
   - 'music'
   - 'uk'
-description: 'A comprehensive list of live shows that I performed around England as a bass player, between 2017 and 2018, with Callum Gardner and his band.'
+summary: 'A comprehensive list of live shows that I performed around England as a bass player, between 2017 and 2018, with Callum Gardner and his band.'
 featimage: true
 featimage-name: 'live-with-callum-gardner.jpg'
 featimage-alt: Live in London with Callum Gardner and band

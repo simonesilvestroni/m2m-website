@@ -16,7 +16,7 @@ tags:
   - 'uk'
   - 'usa'
   - 'video'
-description: "Secret Eclectic review for my song <em>13 Days</em>. A London-based website, they’re a team of people who love supporting emerging acts."
+summary: "Secret Eclectic review for my song <em>13 Days</em>. A London-based website, they’re a team of people who love supporting emerging acts."
 ---
 <div class="fullscreen">
   <video controls src="{{ site.url }}/assets/videos/music-video-13-days.mp4"

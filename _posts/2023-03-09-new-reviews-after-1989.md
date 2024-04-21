@@ -15,7 +15,7 @@ tags:
   - 'review'
   - 'uk'
   - 'world war ii'
-description: 'My debut concept album has been receiving a bit more attention recently, especially after I stopped trying to sell it.'
+summary: 'My debut concept album has been receiving a bit more attention recently, especially after I stopped trying to sell it.'
 ---
 Whether the new influx is determined by my choice to stop acting like [a seller who needs to monetise a product](/blog/de-brand/) or not, I'm happy to see fresh reactions from people I don't even know. It takes a minimal effort to write a review on Bandcamp (I'm guilty of being constantly behind my to-do list on this matter), however few people do. From [the Bandcamp page](https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom):
 

@@ -5,7 +5,7 @@ last_modified_at: '2023-07-06 16:19:22'
 tags:
   - 'internet'
   - 'personal'
-description: 'Taking time off my day to reach out to strangers who were kind to me on the internet.'
+summary: 'Taking time off my day to reach out to strangers who were kind to me on the internet.'
 syndication: true
 syndicate:
   - name: IndieNews

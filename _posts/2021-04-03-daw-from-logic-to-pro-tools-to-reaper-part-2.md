@@ -10,7 +10,7 @@ tags:
   - 'reaper'
   - 'software'
   - 'sound design'
-description: "In 12 months I’ve managed to revolutionize my workflow, twice. Part 2 of why I migrated to REAPER is about customization, community, stock plug-ins."
+summary: "In 12 months I’ve managed to revolutionize my workflow, twice. Part 2 of why I migrated to REAPER is about customization, community, stock plug-ins."
 ---
 <aside class="warning">
   <p><a href="{{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/">Part 1</a></p>

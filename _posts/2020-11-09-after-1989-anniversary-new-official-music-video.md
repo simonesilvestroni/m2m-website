@@ -16,7 +16,7 @@ tags:
   - 'personal'
   - 'uk'
   - 'video'
-description: 'New music video to celebrate the first anniversary of my debut solo album, ‘After 1989: A Trip to Freedom’.'
+summary: 'New music video to celebrate the first anniversary of my debut solo album, ‘After 1989: A Trip to Freedom’.'
 ---
 A year ago today, on the 30th anniversary of the fall of the Berlin Wall, I published my debut solo album, _After 1989: A Trip to Freedom_. To celebrate the release, I just published on my [YouTube channel](https://www.youtube.com/@m2m) the fifth official video from the album. The song is _The Logic_.
 

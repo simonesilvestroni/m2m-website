@@ -10,7 +10,7 @@ tags:
   - 'reaper'
   - 'usa'
   - 'sound project'
-description: 'The new single released by Antiquity, featuring the guitar work of Angelo Zarra and my bass.'
+summary: 'The new single released by Antiquity, featuring the guitar work of Angelo Zarra and my bass.'
 ---
 {% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=416597860/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/the-rules-of-night-and-day">The Rules Of Night And Day by Antiquity</a></iframe>' %}
 

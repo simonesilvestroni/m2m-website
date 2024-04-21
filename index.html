@@ -21,7 +21,7 @@ last_modified_at: '2024-04-07 21:16:20'
 		{%- for post in site.posts limit:7 %}
 		<li>
 			<time class="dim small" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d&nbsp;%b" }}</time>
-			<a href="{{ site.url }}{{ post.url }}" title="{{ post.description | strip_html }}">{{ post.title }}</a>
+			<a href="{{ site.url }}{{ post.url }}" title="{{ post.summary | strip_html }}">{{ post.title }}</a>
 		</li>
 		{%- endfor %}
 	</ul>

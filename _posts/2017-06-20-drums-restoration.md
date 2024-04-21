@@ -11,7 +11,7 @@ tags:
   - 'software'
   - 'sound design'
   - 'sound project'
-description: 'Painstakingly removing an insidious noise from a multi-track recording, plus various techniques for drum replacing and drum doubling.'
+summary: 'Painstakingly removing an insidious noise from a multi-track recording, plus various techniques for drum replacing and drum doubling.'
 featimage: true
 featimage-name: 'drums-restoration.jpg'
 featimage-alt: Arlen Millwall on drums

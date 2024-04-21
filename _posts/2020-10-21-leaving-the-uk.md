@@ -8,7 +8,7 @@ tags:
   - 'italy'
   - 'personal'
   - 'uk'
-description: "I spent the last month and a half leaving the UK, followed by two lingering monsters: a global pandemic and a massive feeling of betrayal."
+summary: "I spent the last month and a half leaving the UK, followed by two lingering monsters: a global pandemic and a massive feeling of betrayal."
 ---
 ## Brexit
 

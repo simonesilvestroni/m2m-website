@@ -8,7 +8,7 @@ tags:
   - 'software'
   - 'sound design'
   - 'walled gardens'
-description: 'The software company announced their switch to a subscription-only business model, leaving behind a loyal user base of several decades.'
+summary: 'The software company announced their switch to a subscription-only business model, leaving behind a loyal user base of several decades.'
 ---
 From their announcement (emphasis mine):
 

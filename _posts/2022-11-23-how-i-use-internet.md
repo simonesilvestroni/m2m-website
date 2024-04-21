@@ -8,7 +8,7 @@ tags:
   - 'personal'
   - 'social media'
   - 'software'
-description: 'A brief description of how I use the internet in 2022, two years after leaving all mainstream social networks. Post inspired by Michael Harley’s <a href="https://michaelharley.net/posts/2022/11/07/how-i-internet/"><em>How I Internet</em></a>, which was inspired by Cassey Lottman’s, <a href="https://www.cassey.dev/posts/2022-11-05-my-internet/"><em>My Internet</em></a>.'
+summary: 'A brief description of how I use the internet in 2022, two years after leaving all mainstream social networks. Post inspired by Michael Harley’s <a href="https://michaelharley.net/posts/2022/11/07/how-i-internet/"><em>How I Internet</em></a>, which was inspired by Cassey Lottman’s, <a href="https://www.cassey.dev/posts/2022-11-05-my-internet/"><em>My Internet</em></a>.'
 ---
 ## E-mail
 

@@ -10,7 +10,7 @@ tags:
   - 'sustainability'
   - 'web development'
   - 'workflow'
-description: 'Last post in my ‘degrowth’ series: a few points around my concept of a personal and sustainable website.'
+summary: 'Last post in my ‘degrowth’ series: a few points around my concept of a personal and sustainable website.'
 ---
 I've been expressing myself on a personal website since 2002, writing about what I do&nbsp;—&nbsp;or want to do, along with personal thoughts. Two years ago it's gone back to its static HTML and vanilla CSS roots, perfectly reflecting my attitude towards designing and developing for the web. I've always regarded the value of web performance as paramount, thus it was only natural that I kept my site [as fast as I could]({{ site.url }}/colophon/), _reducing its footprint_ to the very minimum. It's not just about how fast a page loads, but also the weight of the data, along with its back-and-forth between client and server.
 

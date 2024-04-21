@@ -14,7 +14,7 @@ skillset:
   - GitHub Pages
   - Node
   - Bootstrap 5
-description: 'Website for the yearly initiative to remind people of how Slack can also be distracting and counter-productive.'
+summary: 'Website for the yearly initiative to remind people of how Slack can also be distracting and counter-productive.'
 featimage: true
 featimage-name: 'website-no-slack-day.jpg'
 featimage-alt: Screenshot of the landing page for the “No Slack Day” initiative

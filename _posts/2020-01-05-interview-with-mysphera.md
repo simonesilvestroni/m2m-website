@@ -7,7 +7,7 @@ tags:
   - 'interview'
   - 'music'
   - 'video'
-description: 'MySphera, a team of music and tech experts working to connect musicians to audiences, <a href="https://www.mysphera.co/post/the-independent-musician-guide-for-the-perfect-diy-music-video-in-2020">interviewed me</a> regarding the work behind some of the music videos I released.'
+summary: 'MySphera, a team of music and tech experts working to connect musicians to audiences, <a href="https://www.mysphera.co/post/the-independent-musician-guide-for-the-perfect-diy-music-video-in-2020">interviewed me</a> regarding the work behind some of the music videos I released.'
 ---
 ## Can you please tell us a bit about yourself? (basic info, musical style etc, inspirations)
 

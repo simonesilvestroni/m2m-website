@@ -10,7 +10,7 @@ tags:
   - 'software'
   - 'sustainability'
   - 'workflow'
-description: '‘Degrowth’ series, part 6: now that I moved most of my workflow to plain text, I struggle to understand why I relied on proprietary locked-in formats for so long.'
+summary: '‘Degrowth’ series, part 6: now that I moved most of my workflow to plain text, I struggle to understand why I relied on proprietary locked-in formats for so long.'
 ---
 I worked with a plethora of file formats throughout my multiple careers, while using both proprietary and open source software on different operating systems. For the last five years, I've been steering towards plain text. Why? The answer is manyfold: 
 

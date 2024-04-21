@@ -6,7 +6,7 @@ tags:
   - 'featured'
   - 'internet'
   - 'personal'
-description: 'The desire to be part of a community of bloggers hits the harsh reality of how humans want thought leaders who appear to be successful.'
+summary: 'The desire to be part of a community of bloggers hits the harsh reality of how humans want thought leaders who appear to be successful.'
 ---
 We went to the park today, had a nice time. We talked, laughed and later had dinner on the canal, a very tasty fish-based meal.
 

@@ -11,7 +11,7 @@ tags:
   - 'reaper'
   - 'usa'
   - 'sound project'
-description: 'Written during the pandemic, this song is about the madness of the times. Loud, in your face, at a 100mph.'
+summary: 'Written during the pandemic, this song is about the madness of the times. Loud, in your face, at a 100mph.'
 ---
 {% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=4262932484/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/funky-bacterium">Funky Bacterium by Antiquity</a></iframe>' %}
 

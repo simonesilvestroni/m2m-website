@@ -18,7 +18,7 @@ tags:
   - 'uk'
   - 'video'
   - 'world war ii'
-description: 'The music blog Indiebuddie reviews ‘Skinny Kid’, opening single from my debut concept album ‘After 1989’.'
+summary: 'The music blog Indiebuddie reviews ‘Skinny Kid’, opening single from my debut concept album ‘After 1989’.'
 ---
 Beautiful review today. Indie Buddie is a blog about amazing new music from exciting bands and artists who deserve recognition.
 

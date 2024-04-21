@@ -7,7 +7,7 @@
 	<meta name="robots" content="noindex, nofollow, noai, noimageai">
 	<!-- minimal open graph implementation -->
 	<meta content="{{ site.title }}" property="og:title">
-	<meta content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ site.description | strip_html }}{% endif %}" name="description" property="og:description">
+	<meta content="{% if page.summary %}{{ page.summary | strip_html }}{% else %}{{ site.description | strip_html }}{% endif %}" name="description" property="og:description">
 	<meta content="{{ site.logo }}" property="og:image">
 	<meta content="{{ site.logo }}" name="twitter:card">
 	<!-- end open graph -->
@@ -34,7 +34,7 @@
 		"name": "{{ site.title }}",
 		"headline": "{{ site.tagline }}",
 		"url": "{{ site.url }}{{ page.url }}",
-		"description": "{% if page.description %}{{ page.description | strip_html }}{% else %}{{ site.description | strip_html }}{% endif %}",
+		"description": "{% if page.summary %}{{ page.summary | strip_html }}{% else %}{{ site.description | strip_html }}{% endif %}",
 		"keywords": "{{ site.keywords }}",
 		"datePublished": "{{ page.date }}",
 		"dateModified": "{{ site.time | date_to_xmlschema }}",

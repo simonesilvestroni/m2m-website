@@ -5,7 +5,7 @@ last_modified_at: '2022-11-15 12:11:56'
 tags:
   - 'audio equipment'
   - 'music production'
-description: 'I bought a new pair of exceptional open-back headphones by Ollo Audio, the S4X model. Here’s a quick review.'
+summary: 'I bought a new pair of exceptional open-back headphones by Ollo Audio, the S4X model. Here’s a quick review.'
 featimage: true
 featimage-name: 'ollo-s4x.jpg'
 featimage-alt: Ollo S4X headphones

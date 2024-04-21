@@ -13,7 +13,7 @@ skillset:
   - Markdown
   - HTML
   - Browser support
-description: "Adding WebP images to my Jekyll-based static site ensured new levels of optimisation and performance."
+summary: "Adding WebP images to my Jekyll-based static site ensured new levels of optimisation and performance."
 ---
 <aside>
   <p><strong>Note</strong> — WebP is a modern image format <a href="https://caniuse.com/?search=webp">supported in all major browsers</a> that provides superior lossless and lossy compression for images on the web. WebP images are between 25% and 34% smaller than comparable PNGs and JPEGs.</p>

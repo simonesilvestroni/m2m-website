@@ -10,7 +10,7 @@ tags:
   - 'software'
   - 'sustainability'
   - 'web development'
-description: "Following a process to recalibrate my self-identity after leaving social media, I’m going back to the roots and leave WordPress for Jekyll, joining the IndieWeb."
+summary: "Following a process to recalibrate my self-identity after leaving social media, I’m going back to the roots and leave WordPress for Jekyll, joining the IndieWeb."
 ---
 Milan is the city where I spent 15 years before emigrating to the UK. It’s where I kickstarted my work life, met great people and became an adult. I find it slightly funny how, over the last couple of years, I’ve been studying to — hopefully — go back to an audio video game career, ending up moving back to where it all started.
 

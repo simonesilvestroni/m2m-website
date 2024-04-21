@@ -6,7 +6,7 @@ tags:
   - 'apple'
   - 'personal'
   - 'social media'
-description: 'I’m quietly cutting on the habit of being always connected. Fighting my tendency to add ideology to tech choices, I’ve decided to confront things from a different point of view.'
+summary: 'I’m quietly cutting on the habit of being always connected. Fighting my tendency to add ideology to tech choices, I’ve decided to confront things from a different point of view.'
 ---
 As a creature who's prone to read certain things with a hint of dogma, I don't usually realise it until I'm deep into it. Sometimes certainties are granitic, with personal takes that sound brutal and definitive, sometimes it's all fluid and subtle. Either way, the bit I enjoy the most is when I suddenly become fully aware, ready to dismantle the self-propaganda, and start considering things from different point of views.
 

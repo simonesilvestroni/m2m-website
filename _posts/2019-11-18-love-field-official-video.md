@@ -16,7 +16,7 @@ tags:
   - 'usa'
   - 'video'
   - 'world war ii'
-description: 'Cheering crowds greet the President at Love Field, the Dallas airport. As the motorcade cuts through the city, I imagine to be there, standing still while everything changes.'
+summary: 'Cheering crowds greet the President at Love Field, the Dallas airport. As the motorcade cuts through the city, I imagine to be there, standing still while everything changes.'
 ---
 November 1963. A warm weather greets the President when he lands at _Love Field_. Following the motorcade, I fantasise about waving at Jack and Jackie, or leaning over the window of a sixth floor, or being Abraham Zapruder, standing still while everything changes.
 

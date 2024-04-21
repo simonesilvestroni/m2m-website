@@ -7,7 +7,7 @@ tags:
   - 'personal'
   - 'video games'
   - 'web development'
-description: 'A transparent and honest analysis on the struggle to go back to a job that I left.'
+summary: 'A transparent and honest analysis on the struggle to go back to a job that I left.'
 ---
 This is not my first foray into the unintended consequences of a past decision that's affecting my present. I'm not again onto why I left the UK to "temporarily stay in Italy" until COVID is over&nbsp;—&nbsp;I'm thinking of a specific chain of events caused by a life choice from several years ago.
 

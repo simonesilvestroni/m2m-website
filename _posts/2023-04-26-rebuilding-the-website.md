@@ -7,7 +7,7 @@ tags:
   - 'internet'
   - 'personal'
   - 'web development'
-description: 'I changed the website with a under-the-hood reworking. It involved a structure clean-up, CSS polishing, and a refactor of my alt site.'
+summary: 'I changed the website with a under-the-hood reworking. It involved a structure clean-up, CSS polishing, and a refactor of my alt site.'
 syndication: true
 syndicate:
   - name: Mastodon

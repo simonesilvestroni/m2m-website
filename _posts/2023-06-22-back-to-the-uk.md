@@ -5,7 +5,7 @@ last_modified_at: '2023-06-22 14:37:22'
 tags:
   - 'personal'
   - 'uk'
-description: 'Personal considerations about what visiting the UK meant to me, three years after my wife and I left the country.'
+summary: 'Personal considerations about what visiting the UK meant to me, three years after my wife and I left the country.'
 featimage: true
 featimage-name: 'greenwich_20230611.jpg'
 featimage-alt: The skyline of Canary Wharf at night, as seen from the Thames Clipper pier in Greenwich, landscape photo, June 2023

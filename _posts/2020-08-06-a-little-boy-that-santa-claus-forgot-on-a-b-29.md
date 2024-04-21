@@ -16,7 +16,7 @@ tags:
   - 'uk'
   - 'usa'
   - 'video'
-description: '75 years ago, while two young men escaped from Sachsenhausen concentration camp, the US nuked Hiroshima with a bomb named Little Boy.'
+summary: '75 years ago, while two young men escaped from Sachsenhausen concentration camp, the US nuked Hiroshima with a bomb named Little Boy.'
 ---
 ## Music video
 

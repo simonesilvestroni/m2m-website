@@ -11,12 +11,12 @@ skillset:
   - 'CSS'
   - 'Javascript'
   - 'Agile'
-description: 'The process that led UI Farm to a workflow for delivering modern web solutions, using sustainable Responsive Web Design.'
+summary: 'The process that led UI Farm to a workflow for delivering modern web solutions, using sustainable Responsive Web Design.'
 coauthor: 'Kara McCain (technical review)'
 coauthorlink: 'https://www.linkedin.com/in/karamccain/'
 featimage: true
 featimage-name: 'a-modern-workflow-for-the-multi-device-web.jpg'
-featimage-alt: image description
+featimage-alt: 'Photo of numerous devices, of different types and sizes, on a table'
 featimage-width: 1024
 featimage-height: 739
 ---

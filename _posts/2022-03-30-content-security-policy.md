@@ -6,7 +6,7 @@ tags:
   - 'internet'
   - 'web development'
 image-caption: true
-description: "How I implemented a content security policy on a static website built with Jekyll, hosted on Netlify and loaded with several external embeds."
+summary: "How I implemented a content security policy on a static website built with Jekyll, hosted on Netlify and loaded with several external embeds."
 ---
 ## What is a content security policy?
 

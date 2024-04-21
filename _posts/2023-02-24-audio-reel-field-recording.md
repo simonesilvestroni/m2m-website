@@ -8,7 +8,7 @@ tags:
   - 'reaper'
   - 'sound design'
   - 'video games'
-description: 'Field recording is great fun, especially when done with a precise plan.'
+summary: 'Field recording is great fun, especially when done with a precise plan.'
 featimage: true
 featimage-name: 'field-recording.jpg'
 featimage-alt: Sit in a park setting up the Zoom H5 handheld recorder for a session of field recording. Photo by Silvia Maggi

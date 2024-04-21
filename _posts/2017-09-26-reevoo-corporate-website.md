@@ -14,7 +14,7 @@ skillset:
   - SSH
   - Capistrano
   - Git
-description: 'A pioneer of ratings and reviews services for brands and retailers, Reevoo hired my company to rebuild their online presence through tailored WordPress sites with Salesforce integration.'
+summary: 'A pioneer of ratings and reviews services for brands and retailers, Reevoo hired my company to rebuild their online presence through tailored WordPress sites with Salesforce integration.'
 featimage: true
 featimage-name: 'reevoo-corporate-website.jpg'
 featimage-alt: Screenshot of the homepage for Reevoo’s website

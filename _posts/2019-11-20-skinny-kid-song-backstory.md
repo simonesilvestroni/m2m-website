@@ -17,7 +17,7 @@ tags:
   - 'uk'
   - 'video'
   - 'world war ii'
-description: 'How an arrangement for another band became the opening single and lead song for Minutes to Midnight’s concept album ‘After 1989’.'
+summary: 'How an arrangement for another band became the opening single and lead song for Minutes to Midnight’s concept album ‘After 1989’.'
 ---
 ## Music video
 

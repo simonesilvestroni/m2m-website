@@ -13,7 +13,7 @@ skillset:
  - CSS
  - SASS
  - Bootstrap 5
-description: 'I built a photogallery carousel in pure HTML and CSS, featuring responsive images and touch controls for mobile devices.'
+summary: 'I built a photogallery carousel in pure HTML and CSS, featuring responsive images and touch controls for mobile devices.'
 featimage: true
 featimage-name: 'responsive-photogallery-carousel-css.jpg'
 featimage-alt: Screenshot of the photogallery in action, showing a large image and three thumbnails underneath

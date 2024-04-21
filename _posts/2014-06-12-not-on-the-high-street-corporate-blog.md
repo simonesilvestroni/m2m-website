@@ -17,7 +17,7 @@ skillset:
   - 'WordPress'
   - 'Project management'
   - 'Agile'
-description: 'I worked on Notonthehighstreet.com’s ambitious rebrand as co-director of the London-based design and development firm UI Farm.'
+summary: 'I worked on Notonthehighstreet.com’s ambitious rebrand as co-director of the London-based design and development firm UI Farm.'
 featimage: true
 featimage-name: 'not-on-the-high-street-corporate-blog.jpg'
 featimage-alt: Composite image showing four devices, mobile, tablet, laptop and large screen, featuring Not On The High Street’s website

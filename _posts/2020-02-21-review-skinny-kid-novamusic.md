@@ -18,7 +18,7 @@ tags:
   - 'uk'
   - 'video'
   - 'world war ii'
-description: 'Stunning review by Nova Music Blog for ‘Skinny Kid’, the opening single from my debut album ‘After 1989’.'
+summary: 'Stunning review by Nova Music Blog for ‘Skinny Kid’, the opening single from my debut album ‘After 1989’.'
 ---
 ## About Nova Music
 

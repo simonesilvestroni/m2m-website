@@ -10,7 +10,7 @@ tags:
   - 'reaper'
   - 'software'
   - 'sound project'
-description: "I mastered the debut EP for the Italian duo <em>IsadoraD</em>. They blend electronica, pop and indie."
+summary: "I mastered the debut EP for the Italian duo <em>IsadoraD</em>. They blend electronica, pop and indie."
 ---
 {% include bandcamp.liquid size="bc-ep" iframecode='<iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=3556110038/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://isadorad.bandcamp.com/album/ipogeo">Ipogeo by IsadoraD</a></iframe>' %}
 

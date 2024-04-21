@@ -6,7 +6,7 @@ tags:
   - 'internet'
   - 'personal'
   - 'software'
-description: 'Once again, whenever I favour convenience over substance, my experience does not improve.'
+summary: 'Once again, whenever I favour convenience over substance, my experience does not improve.'
 ---
 Erasing my Pocket account a few weeks ago was an easy choice. Ever since Mozilla morphed it into yet another algorithmic-based attention seeker, I couldn't stand the product. Went straight back to [Instapaper](https://www.instapaper.com) — a mature, simple, elegant reading application that's not trying to force unsolicited crap onto me.
 

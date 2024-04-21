@@ -6,7 +6,7 @@ tags:
   - 'android'
   - 'software'
   - 'walled gardens'
-description: "I’m finding myself eerily happy with the technology I use, while staying outside digital ecosystems."
+summary: "I’m finding myself eerily happy with the technology I use, while staying outside digital ecosystems."
 ---
 I’ve been having interesting discussions on Mastodon recently about whether a tech stack is satisfactory or if better solutions lie ahead. By _tech stack_ I mean computer, software, mobile phone, operating systems, data sync and how easy is to manage the relationship between these parts.
 

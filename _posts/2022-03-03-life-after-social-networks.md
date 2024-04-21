@@ -8,7 +8,7 @@ tags:
   - 'personal'
   - 'social media'
   - 'walled gardens'
-description: "My point of view about the pros of being outside mainstream social networks for the last 19 months."
+summary: "My point of view about the pros of being outside mainstream social networks for the last 19 months."
 ---
 At the beginning of August 2020 I [deleted all my social media accounts](/blog/escape-from-social-media/), except for YouTube. So, how has it been? I never intended to make a living solely through the music I write: my work in sound design and production is in a different business. Had I read [this post by Steve Lawson](https://www.stevelawson.net/2021/08/keeping-your-soul-in-an-algorithmic-world/) post in 2019, it would have pushed me to consider a few things. 
 

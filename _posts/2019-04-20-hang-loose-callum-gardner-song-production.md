@@ -12,7 +12,7 @@ tags:
   - 'music production'
   - 'music release'
   - 'uk'
-description: 'Bass and full production for London-based singer-songwriter Callum Gardner’s new single, ‘Hang Loose’.'
+summary: 'Bass and full production for London-based singer-songwriter Callum Gardner’s new single, ‘Hang Loose’.'
 ---
 {% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1148436830/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://callumgardner.bandcamp.com/track/hang-loose">Hang Loose by Callum Gardner</a></iframe>' %}
 

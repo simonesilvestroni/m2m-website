@@ -7,7 +7,7 @@ tags:
   - 'italy'
   - 'personal'
   - 'uk'
-description: 'A draft of this post languished in my computer for longer than two months. Pessimistic, self-deprecating, depressing, bad. So, I wiped it out, and started from scratch.'
+summary: 'A draft of this post languished in my computer for longer than two months. Pessimistic, self-deprecating, depressing, bad. So, I wiped it out, and started from scratch.'
 ---
 Several months after returning to the UK — back from the 3-year-long limbo spent in my home country — the endless ruminations on the pain of having gone back to Italy brought me to a simple conclusion: it actually was a good thing.
 

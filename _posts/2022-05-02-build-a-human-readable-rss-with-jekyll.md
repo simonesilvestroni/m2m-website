@@ -7,7 +7,7 @@ tags:
   - 'internet'
   - 'software'
   - 'web development'
-description: 'I refactored my RSS feed using Jekyll functionalities, applying XSLT for presentation to render a human-readable XML feed.'
+summary: 'I refactored my RSS feed using Jekyll functionalities, applying XSLT for presentation to render a human-readable XML feed.'
 skillset:
   - Jekyll
   - Liquid

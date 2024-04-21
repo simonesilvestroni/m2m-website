@@ -6,7 +6,7 @@ tags:
   - 'internet'
   - 'personal'
   - 'social media'
-description: "Finally, I’m leaving social media: Facebook, Twitter, Instagram, WhatsApp, Reddit, Medium. I’ll be redirecting my attention and my time to something more productive."
+summary: "Finally, I’m leaving social media: Facebook, Twitter, Instagram, WhatsApp, Reddit, Medium. I’ll be redirecting my attention and my time to something more productive."
 ---
 This post is a personal point of view, it’s not intended as an exhaustive analysis on what is going on with social media, nor am I trying to convince anybody to do the same. I’m just redirecting my attention and my time to something more productive.
 

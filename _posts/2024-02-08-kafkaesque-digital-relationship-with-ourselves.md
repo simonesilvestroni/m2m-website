@@ -7,7 +7,7 @@ tags:
   - 'indieweb'
   - 'internet'
   - 'personal'
-description: 'Words are crucial to build a sense of online community, however many of us have been using them straight out of a soulless corporate lingo in order to sell ourselves as a product.'
+summary: 'Words are crucial to build a sense of online community, however many of us have been using them straight out of a soulless corporate lingo in order to sell ourselves as a product.'
 syndication: true
 syndicate:
   - name: IndieNews

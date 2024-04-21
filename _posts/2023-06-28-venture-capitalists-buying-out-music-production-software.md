@@ -7,7 +7,7 @@ tags:
   - 'music production'
   - 'software'
   - 'sustainability'
-description: 'A video by Benn Jordan made me realise how little respect I hold for the idea that growth is a must, in this capitalist world I live in.'
+summary: 'A video by Benn Jordan made me realise how little respect I hold for the idea that growth is a must, in this capitalist world I live in.'
 ---
 {% include video.liquid id="b_Aq3pCtsZo" %}
 

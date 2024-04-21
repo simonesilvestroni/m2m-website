@@ -5,7 +5,7 @@ last_modified_at: '2024-03-30 22:13:57'
 tags:
   - 'minimalism'
   - 'usa'
-description: 'The one where I ask myself if I have a bias that makes me perceive Americans as if they want to commodify everything.'
+summary: 'The one where I ask myself if I have a bias that makes me perceive Americans as if they want to commodify everything.'
 ---
 Stumbled on a "video podcast"[^1] by the people who call themselves *The Minimalists*. They were debating with Cal Newport about social media. I’ve noticed once again how almost everything that comes from the United States seems to be carrying a not-so-veiled specific *patina*. The push to self promote and sell looks relentless to me, like a prepared script. I watched the podcast and sometimes nodded in agreement — however, before I realised, I was struck with the indisputable fact that the ultimate goal seemed to package a product, or whatever that is, that could be later sold for a price.
 

@@ -11,7 +11,7 @@ tags:
   - 'reaper'
   - 'usa'
   - 'sound project'
-description: '<em>Eclipse</em> is a new single released by Antiquity, co-produced by Minutes to Midnight.'
+summary: '<em>Eclipse</em> is a new single released by Antiquity, co-produced by Minutes to Midnight.'
 ---
 {% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2746368137/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/the-eclipse">The Eclipse by Antiquity</a></iframe>' %}
 

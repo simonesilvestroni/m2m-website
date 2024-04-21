@@ -4,7 +4,7 @@ date: '2021-01-27'
 last_modified_at: '2021-11-08 21:37:08'
 tags:
   - 'workflow'
-description: "Quick explanation of my strategy for saving and preserving data, and especially sound material, both for personal use and for work."
+summary: "Quick explanation of my strategy for saving and preserving data, and especially sound material, both for personal use and for work."
 ---
 I believe audio archiving is a nice-to-have additional feature to offer to people I work for. Think about future potential re-mixing or re-mastering, for instance. Audio stems from each session can be carefully filed to multiple sources, to guarantee the preservation of the material for years to come. I'm not talking about _full sessions archives_, as that’s unrealistic.
 

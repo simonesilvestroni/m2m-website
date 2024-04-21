@@ -5,7 +5,7 @@ last_modified_at: '2024-01-31 01:02:27'
 tags:
   - 'personal'
   - 'web development'
-description: 'Over the last few weeks I’ve introduced changes to the website. While the design has received relatively minor tweaks, and a new typeface, structure and language have substantially shifted.'
+summary: 'Over the last few weeks I’ve introduced changes to the website. While the design has received relatively minor tweaks, and a new typeface, structure and language have substantially shifted.'
 ---
 ## I am large, I contain multitudes
 

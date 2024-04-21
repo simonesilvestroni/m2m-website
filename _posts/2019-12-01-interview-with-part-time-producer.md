@@ -6,7 +6,7 @@ tags:
   - 'indie artist'
   - 'interview'
   - 'music'
-description: 'As part of his <em>10 questions with</em> series, I <a href="https://www.parttimeproducer.com/simone-silvestroni-minutes-to-midnight/">chat with Marting Glover of Part-Time Producer</a> about my career so far and just how to make the break to a job in full time music production.'
+summary: 'As part of his <em>10 questions with</em> series, I <a href="https://www.parttimeproducer.com/simone-silvestroni-minutes-to-midnight/">chat with Marting Glover of Part-Time Producer</a> about my career so far and just how to make the break to a job in full time music production.'
 canonical: https://www.parttimeproducer.com/simone-silvestroni-minutes-to-midnight/
 sitemap: false
 ---

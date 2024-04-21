@@ -11,7 +11,7 @@ tags:
   - 'social media'
   - 'sustainability'
   - 'walled gardens'
-description: 'Is there even a point in hiding behind a mask? After ditching the concept of <em>personal brand</em>, here I go with a few principles I stand for. My takes on being genuine, pursuing sustainability, and more.'
+summary: 'Is there even a point in hiding behind a mask? After ditching the concept of <em>personal brand</em>, here I go with a few principles I stand for. My takes on being genuine, pursuing sustainability, and more.'
 syndication: true
 syndicate:
   - name: IndieNews

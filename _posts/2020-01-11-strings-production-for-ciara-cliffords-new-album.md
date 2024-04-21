@@ -8,7 +8,7 @@ tags:
   - 'software'
   - 'uk'
   - 'sound project'
-description: 'I recorded and co-produced strings arrangements for Clifford’s eponymous debut album, in collaboration with Paolo Clementi.'
+summary: 'I recorded and co-produced strings arrangements for Clifford’s eponymous debut album, in collaboration with Paolo Clementi.'
 ---
 ## Production notes
 

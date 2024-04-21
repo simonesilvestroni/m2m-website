@@ -6,7 +6,7 @@ tags:
   - 'game audio'
   - 'sound design'
   - 'video games'
-description: 'While working on a test project based on a video series by Cujo Sounds called ‘Setting up a AAA Wwise project’, I envisioned a method to speed up the process.'
+summary: 'While working on a test project based on a video series by Cujo Sounds called ‘Setting up a AAA Wwise project’, I envisioned a method to speed up the process.'
 typora-root-url: ../
 ---
 Provided that a certain knowledge of Wwise is required, these [didactic videos by Bjørn Jacobsen](https://www.youtube.com/@CujoSound/search?query=Setting%20up%20a%20AAA%20Wwise%20project) are brilliant and I highly recommend them. The entire brief course is built around the idea of "making a game in a fictional Wwise environment to eventually have a project that will fully work without a game". The chapter I'm focusing on is called _Part 5: Complex footstep switching with simple <abbr title="Real Time Parameter Control">RTPC</abbr>s_.

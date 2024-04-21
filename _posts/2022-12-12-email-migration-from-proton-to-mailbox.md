@@ -7,7 +7,7 @@ tags:
   - 'personal'
   - 'software'
   - 'walled gardens'
-description: 'How I moved email, calendar and contacts from Proton to Mailbox, on both desktop and mobile.'
+summary: 'How I moved email, calendar and contacts from Proton to Mailbox, on both desktop and mobile.'
 ---
 The reason for embarking on such a task has a very short answer. When I chose Proton years ago, I wasn’t bothered by the feeling of being trapped in a walled garden. Now I am.
 

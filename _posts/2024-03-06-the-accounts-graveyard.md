@@ -4,7 +4,7 @@ date: '2024-03-06 22:27:41'
 last_modified_at: '2024-03-06 22:27:43'
 tags:
   - 'internet'
-description: 'A personal process of disinvesting from the corporate internet, started last year, is speeding up considerably in 2024. It’s fuelled by a desire of reducing digital noise, and severing my contacts with a tech world that isn’t appealing anymore.'
+summary: 'A personal process of disinvesting from the corporate internet, started last year, is speeding up considerably in 2024. It’s fuelled by a desire of reducing digital noise, and severing my contacts with a tech world that isn’t appealing anymore.'
 ---
 After deleting an old WordPress account last week, I opened my Bitwarden password vault to check on the preposterous number of login entries&nbsp;—&nbsp;around 460. Inspired by the [Google Graveyard](https://killedbygoogle.com), I started a side project: collecting names of major corporations that I've had an account with for years, and that I want to rid of.
 

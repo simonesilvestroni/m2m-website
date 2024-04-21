@@ -8,7 +8,7 @@ tags:
   - 'personal'
   - 'software'
   - 'sustainability'
-description: 'Second post in my ‘degrowth’ series. How I approach the news online, including blogs, videos, newsletters.'
+summary: 'Second post in my ‘degrowth’ series. How I approach the news online, including blogs, videos, newsletters.'
 ---
 I'm off real-time news: no 'breaking', no 'live reporting'. Instead, I read long-form articles from trusted sources such as [The Conversation](https://theconversation.com/). I don't have an account on Medium, Substack or any other Silicon Valley <abbr title="Venture Capitalist">VC</abbr>-funded centralised proprietary thingy. My anxiety levels are already in a dreadful state, without the need of added stress from constant news intake. No algorithm, no _everything now_, I choose what and when to read.
 

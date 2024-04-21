@@ -6,7 +6,7 @@ tags:
   - 'internet'
   - 'personal'
   - 'social media'
-description: 'I read an article on The Atlantic titled <em>The Endless Cycle of Social Media</em>, missing the subtitle about Threads by Meta. Slightly amusing nonetheless.'
+summary: 'I read an article on The Atlantic titled <em>The Endless Cycle of Social Media</em>, missing the subtitle about Threads by Meta. Slightly amusing nonetheless.'
 ---
 I usually couldn't care less about the topic of what Meta do or don't do with their time and money, but found the [interview by Lora Kelley to Charlie Warzel on _The Atlantic_](https://www.theatlantic.com/newsletters/archive/2023/07/threads-meta-twitter-competitor-mark-zuckerberg/674655/) entertaining and a bit baffling. 
 

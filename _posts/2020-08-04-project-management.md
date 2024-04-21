@@ -6,7 +6,7 @@ tags:
   - 'music production'
   - 'sound project'
   - 'workflow'
-description: 'I wrote an ebook about how to streamline project management as a music professional. Available for free, no strings attached.'
+summary: 'I wrote an ebook about how to streamline project management as a music professional. Available for free, no strings attached.'
 featimage: true
 featimage-name: 'efficient-productivity-ebook.png'
 featimage-alt: Efficient productivity for music professionals (ebook cover)

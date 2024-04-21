@@ -11,7 +11,7 @@ tags:
   - 'mix'
   - 'music release'
   - 'sound project'
-description: 'I snapped out of my comfort zone to help the promising young artist Method Sinik with the production of his recent EP.'
+summary: 'I snapped out of my comfort zone to help the promising young artist Method Sinik with the production of his recent EP.'
 ---
 <video controls src="{{ site.url }}/assets/videos/eclipse-method-sinik.mp4"
   poster="{{ site.url }}/assets/videos/eclipse-method-sinik.jpg"

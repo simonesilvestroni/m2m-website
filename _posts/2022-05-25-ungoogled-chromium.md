@@ -6,7 +6,7 @@ tags:
   - 'internet'
   - 'software'
   - 'web development'
-description: 'A brief list of steps taken to install and properly configure Ungoogled Chromium for pure web development testing purposes on macOS.'
+summary: 'A brief list of steps taken to install and properly configure Ungoogled Chromium for pure web development testing purposes on macOS.'
 syndication: true
 syndicate:
   - name: Mastodon

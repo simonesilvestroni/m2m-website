@@ -12,7 +12,7 @@ tags:
   - 'software'
   - 'uk'
   - 'sound project'
-description: 'How I mixed a rework of Ember Rev’s debut album, exploiting the subproject functionality in REAPER to save time and processing power.'
+summary: 'How I mixed a rework of Ember Rev’s debut album, exploiting the subproject functionality in REAPER to save time and processing power.'
 ---
 {% include bandcamp.liquid size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=2164587015/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://emberrev.bandcamp.com/album/in-super-8">In Super-8 by Ember Rev</a></iframe>' %}
 

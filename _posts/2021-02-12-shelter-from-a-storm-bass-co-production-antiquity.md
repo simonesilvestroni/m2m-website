@@ -11,7 +11,7 @@ tags:
   - 'music release'
   - 'usa'
   - 'sound project'
-description: "‘Shelter From A Storm’ is my new bass recording and co-production, together with Gerald Duchene."
+summary: "‘Shelter From A Storm’ is my new bass recording and co-production, together with Gerald Duchene."
 ---
 {% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2838120524/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/shelter-from-a-storm">Shelter From A Storm by Antiquity</a></iframe>' %}
 

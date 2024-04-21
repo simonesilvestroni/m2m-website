@@ -12,7 +12,7 @@ tags:
   - 'music release'
   - 'uk'
   - 'sound project'
-description: "A concept album around a lament for the European ideal. I mixed and co-produced working with songwriter Dan Ecclestone."
+summary: "A concept album around a lament for the European ideal. I mixed and co-produced working with songwriter Dan Ecclestone."
 ---
 {% include bandcamp.liquid size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=4041862783/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://emberrev.bandcamp.com/album/premonition-and-ruin">Premonition and Ruin by Ember Rev</a></iframe>' %}
 

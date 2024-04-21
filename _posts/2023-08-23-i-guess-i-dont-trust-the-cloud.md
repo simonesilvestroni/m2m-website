@@ -8,7 +8,7 @@ tags:
   - 'personal'
   - 'sustainability'
   - 'workflow'
-description: 'Fourth instalment in my ‘degrowth’ series: how and why I use the cloud (not), with a closing note about backup.'
+summary: 'Fourth instalment in my ‘degrowth’ series: how and why I use the cloud (not), with a closing note about backup.'
 ---
 I basically use _zero_ cloud systems, even though I was an eager early adopter, because of the following reasons: 
 

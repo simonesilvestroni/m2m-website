@@ -4,7 +4,7 @@ date: '2024-02-13 01:53:36'
 last_modified_at: '2024-02-13 01:53:39'
 tags:
   - 'book'
-description: 'TL;DR — Don’t waste your time reading this book, and watch the film instead. If you really have to.'
+summary: 'TL;DR — Don’t waste your time reading this book, and watch the film instead. If you really have to.'
 ---
 For the first time in many years, I've decided to quit a book I'm reading. Rumaan Alam’s _Leave the World Behind_ is a colossal waste of time that could have been a short novella (40 pages max). I've found the redundant and meandering prose insufferable, hated the unnecessarily overdone descriptions[^1], and found the author’s frequent depictions of genitalia — especially the underage's — creepy, uncalled for, and inappropriate. Not to mention the obsession with wealth and status, underlined by gems such as:
 

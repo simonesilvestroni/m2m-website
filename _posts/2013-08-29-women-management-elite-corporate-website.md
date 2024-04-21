@@ -16,10 +16,10 @@ skillset:
   - 'SSH'
   - 'WordPress'
   - 'Project management'
-description: 'I worked on Women Management’s multi-site rebrand while co-directing the London-based design and development firm UI Farm.'
+summary: 'I worked on Women Management’s multi-site rebrand while co-directing the London-based design and development firm UI Farm.'
 featimage: true
 featimage-name: 'women-management-elite-corporate-website.jpg'
-featimage-alt: image description
+featimage-alt: 'Composite image showing four devices, mobile, tablet, laptop and large screen, featuring Women Management’s website'
 featimage-width: 1024
 featimage-height: 434
 ---

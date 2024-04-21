@@ -6,7 +6,7 @@ tags:
   - 'internet'
   - 'music'
   - 'video'
-description: 'I think the streaming industry was never conceived on a decent business model. Its level of gaslighting is astonishing, and successful.'
+summary: 'I think the streaming industry was never conceived on a decent business model. Its level of gaslighting is astonishing, and successful.'
 syndication: true
 syndicate:
   - name: Mastodon

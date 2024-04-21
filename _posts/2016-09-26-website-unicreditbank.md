@@ -14,7 +14,7 @@ skillset:
   - Git
   - Usability
   - Project management
-description: 'A leading European bank with a network spanning 50 markets impacting millions of people on a daily basis, UniCredit wanted to redesign their online acquisition processes.'
+summary: 'A leading European bank with a network spanning 50 markets impacting millions of people on a daily basis, UniCredit wanted to redesign their online acquisition processes.'
 featimage: true
 featimage-name: 'website-unicredit-bank.jpg'
 featimage-alt: Screenshot of a landing page for UniCredit Bank

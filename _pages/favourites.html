@@ -3,7 +3,7 @@ layout: page
 title: Favourite posts
 date: '2023-11-24 20:13:30'
 last_modified_at: '2023-11-24 20:13:33'
-description: 'A page collecting some posts that I like, or that generated private comments interesting to me, or got some traction on the fediverse.'
+summary: 'A page collecting some posts that I like, or that generated private comments interesting to me, or got some traction on the fediverse.'
 permalink: /blog/favourites/
 ---
 {%- assign favposts = site.posts | where_exp:'post','post.tags contains "featured"' -%}
@@ -16,7 +16,7 @@ permalink: /blog/favourites/
     {%- endif -%}
     <li>
       <time class="dim small" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d&nbsp;%b&nbsp;%Y" }}</time>
-      <a href="{{ post.url }}" title="{{ post.description }}">{{ post.title }}</a>
+      <a href="{{ post.url }}" title="{{ post.summary }}">{{ post.title }}</a>
     </li>
     {% endfor %}
   </ul>

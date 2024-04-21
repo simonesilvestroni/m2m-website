@@ -12,7 +12,7 @@ tags:
   - 'music release'
   - 'uk'
   - 'sound project'
-description: "Singer-songwriter Callum Gardner’s new single, ‘Without You’, is out now. Bass and full production by Minutes to Midnight."
+summary: "Singer-songwriter Callum Gardner’s new single, ‘Without You’, is out now. Bass and full production by Minutes to Midnight."
 ---
 Like the previous singles, [_Hang Loose_](/blog/hang-loose-callum-gardner-song-production/) and [_Wriggle A Little_]({{ site.url }}/blog/callum-gardner-wriggle-a-little/), I recorded and produced the single using Logic Pro, along with playing my Fender Jazz [fretless bass](https://soundbetter.com/profiles/206552-simone-silvestroni).
 

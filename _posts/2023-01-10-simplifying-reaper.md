@@ -6,7 +6,7 @@ tags:
   - 'music production'
   - 'reaper'
   - 'software'
-description: "Helping another producer with his transition from Logic made me appreciate a simpler REAPER for my own good."
+summary: "Helping another producer with his transition from Logic made me appreciate a simpler REAPER for my own good."
 ---
 I'm going to be quick and straight to the point: no matter how much experience I have with the software, I've found the act of removing custom keyboard shortcuts and turning them into a new toolbar very refreshing. The other step I've taken was to reduce the number of key strokes necessary to hit a shortcut: wherever possible they're now down to 1 or max 2. Pretty much every shortcut requiring more than two modifiers have been moved to a toolbar. Less mental load is good.
 

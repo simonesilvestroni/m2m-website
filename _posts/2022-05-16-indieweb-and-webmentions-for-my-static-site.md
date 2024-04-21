@@ -13,7 +13,7 @@ skillset:
   - Javascript
   - Jekyll
   - Liquid
-description: 'Analysing the method I used to implement IndieWeb principles and webmentions. A step-by-step process that works on a Jekyll-based static website.'
+summary: 'Analysing the method I used to implement IndieWeb principles and webmentions. A step-by-step process that works on a Jekyll-based static website.'
 featimage: true
 featimage-name: 'indieweb-and-webmentions-for-my-static-site.jpg'
 featimage-alt: IndieWeb logo
@@ -113,7 +113,7 @@ I have a tweaked version that I use on blog posts, containing the time it's publ
       <a rel="me" class="u-url u-uid" href="{{ site.url }}{{ page.url }}" title="Permalink">{{ page.date | date: "%-d %B %Y" }}</a>
     </time>
     <h1 class="p-name">{{ page.title }}</h1>
-    <p class="p-summary">{{ page.description }}</p>
+    <p class="p-summary">{{ page.summary }}</p>
     <span class="p-author h-card">
       <img class="u-photo" src="{{ site.url }}/assets/images/minutes-to-midnight-portrait.jpg" alt="Simone Silvestroni's avatar" width="28" height="28"> by <a class="p-name" href="{{ site.url }}/about/" rel="author">Simone Silvestroni</a>
       {% if page.replyto %} <span>in reply to <a href="{{ page.replyto }}" class="u-in-reply-to">{{ page.replytouser }}</a></span>{% endif -%}

@@ -17,7 +17,7 @@ skillset:
   - Bash
   - macOS
   - apple script
-description: 'Advanced content management in a Jekyll-based static blog, using automation on macOS.'
+summary: 'Advanced content management in a Jekyll-based static blog, using automation on macOS.'
 featimage: true
 featimage-name: 'automation-for-my-blog-publishing-workflow.jpg'
 featimage-alt: Screenshot of the macOS application Shortcuts showing automation routines
@@ -55,7 +55,7 @@ date: '$2'
 last_modified_at: '$3'
 tags:
   - '$4'
-description: '$5'
+summary: '$5'
 ---
 $6
 ```

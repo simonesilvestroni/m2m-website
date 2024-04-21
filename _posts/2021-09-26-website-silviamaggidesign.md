@@ -15,7 +15,7 @@ skillset:
   - Bootstrap 5
   - Git
   - WordPress
-description: 'Silvia Maggi is an expert in designing for accessibility and usability. Curator of the inspiration series ‘Design, Digested’.'
+summary: 'Silvia Maggi is an expert in designing for accessibility and usability. Curator of the inspiration series ‘Design, Digested’.'
 featimage: true
 featimage-name: 'website-silviamaggidesign.jpg'
 featimage-alt: Screenshot of the homepage for Silvia Maggi’s website

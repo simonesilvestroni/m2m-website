@@ -5,7 +5,7 @@ last_modified_at: '2023-06-19 13:05:10'
 tags:
   - 'apple'
   - 'software'
-description: 'Finally, my long-time feelings about the pointlessness of filing bug reports to Apple is backed by proof.'
+summary: 'Finally, my long-time feelings about the pointlessness of filing bug reports to Apple is backed by proof.'
 ---
 Back when I was still using Logic Pro X as my main <abbr title="Digital Audio Workstation">DAW</abbr>, I used to hang out in Logic-centred forums and Facebook groups alike. Every now and then, someone would go on complaining about some bug in the software, and immediately there would be the obligatory advice "if you're not happy, go file a bug feedback to Apple", followed by the correct link. I've always perceived that to be a waste of time, and even though there wasn't much of a proof until now, the feeling was strong. I personally filed several bug feedbacks, to no avail.
 

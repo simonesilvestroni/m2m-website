@@ -17,7 +17,7 @@ tags:
   - 'personal'
   - 'uk'
   - 'world war ii'
-description: "A partial chronicle of what I did to retrace my grandfather’s steps in Sachsenhausen concentration camp. In the process, I wrote my debut concept album."
+summary: "A partial chronicle of what I did to retrace my grandfather’s steps in Sachsenhausen concentration camp. In the process, I wrote my debut concept album."
 featimage: true
 featimage-name: 'full-story-featured.jpg'
 featimage-alt: Sachsenhausen concentration camp entrance gates

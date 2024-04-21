@@ -5,7 +5,7 @@ last_modified_at: '2023-12-17 17:41:12'
 tags:
   - 'indieweb'
   - 'internet'
-description: 'Garrit Franke’s recent post, titled “Roast my site”, motivated me to write about something that has always bugged me with personal sites: the grocery-style blogroll.'
+summary: 'Garrit Franke’s recent post, titled “Roast my site”, motivated me to write about something that has always bugged me with personal sites: the grocery-style blogroll.'
 replyto: 'https://garrit.xyz/posts/2023-12-12-roast-my-site'
 replytouser: 'Garrit Franke'
 syndication: true

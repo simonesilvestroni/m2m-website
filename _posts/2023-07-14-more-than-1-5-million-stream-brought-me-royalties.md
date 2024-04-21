@@ -7,7 +7,7 @@ tags:
   - 'internet'
   - 'music release'
   - 'personal'
-description: 'After receiving an unexpected royalty payment today, I’ve been reflecting about the music industry, again.'
+summary: 'After receiving an unexpected royalty payment today, I’ve been reflecting about the music industry, again.'
 syndication: true
 syndicate:
   - name: Mastodon

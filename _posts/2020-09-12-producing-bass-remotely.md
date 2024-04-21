@@ -15,7 +15,7 @@ tags:
   - 'recording'
   - 'sound project'
   - 'workflow'
-description: "An in-depth analysis of the process I go through to produce an effective bass track, from tracking to delivery. Based on a real-life scenario."
+summary: "An in-depth analysis of the process I go through to produce an effective bass track, from tracking to delivery. Based on a real-life scenario."
 canonical: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'
 syndication: true
 syndicate:

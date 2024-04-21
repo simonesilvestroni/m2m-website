@@ -6,7 +6,7 @@ tags:
   - 'internet'
   - 'personal'
   - 'social media'
-description: 'Reflecting on the slower decentralised way to communicate online during the 1990s, I outline a simple path to bring back a quieter and safer internet-based chat.'
+summary: 'Reflecting on the slower decentralised way to communicate online during the 1990s, I outline a simple path to bring back a quieter and safer internet-based chat.'
 ---
 The best ways to join communities on the internet, when I started in the early 1990s, were: [BBS](https://en.wikipedia.org/wiki/Bulletin_board_system), [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) and [Usenet](https://en.wikipedia.org/wiki/Usenet). I happily used them for more than a decade, still missing them all. From my point of view, every time someone tries to “evolve” an existing online platform, they lose the ethos in the process. The push to centralise everything, especially after the advent of large social networks, brought an obsessive effort to rack up money from venture capitalists whilst catering every product to the largest possible amount of people. Clearly, the sum of these factors out-shadow the concept of an open web: what was once *the* web, is now a tiny corner inhabited by misfits. Even though I’m content to be spending time in small online niches, several modern offsprings of those old systems feel forced onto me. 
 

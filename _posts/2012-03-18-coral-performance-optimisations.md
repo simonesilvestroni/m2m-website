@@ -10,7 +10,7 @@ skillset:
   - 'CSS'
   - 'Web typography'
   - 'Agile'
-description: 'As part of the London-based design firm UI Farm, I worked with Coral to optimise their codebase, solving performance issues reported by many users.'
+summary: 'As part of the London-based design firm UI Farm, I worked with Coral to optimise their codebase, solving performance issues reported by many users.'
 featimage: true
 featimage-name: 'coral-performance-optimisations.jpg'
 featimage-alt: Screenshot of a browser window showing Coral’s logo on a multi-colour background

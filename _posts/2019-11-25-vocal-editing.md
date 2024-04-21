@@ -12,7 +12,7 @@ tags:
   - 'software'
   - 'sound design'
   - 'sound project'
-description: "I transplanted a vocal performance from one song to a different one by manipulating pitch, formants and tempo. Plus, cleaning up historical speeches."
+summary: "I transplanted a vocal performance from one song to a different one by manipulating pitch, formants and tempo. Plus, cleaning up historical speeches."
 featimage: true
 featimage-name: 'vocal-editing.jpg'
 featimage-alt: Rachel Goodman singing

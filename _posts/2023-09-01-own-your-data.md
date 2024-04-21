@@ -6,7 +6,7 @@ tags:
   - 'degrowth'
   - 'software'
   - 'workflow'
-description: 'What happens to your data when a remote system is shut down or just stops working? I don’t care, because I back it up, locally.'
+summary: 'What happens to your data when a remote system is shut down or just stops working? I don’t care, because I back it up, locally.'
 ---
 A fantastic post by Parker Moore, titled [_Preserve your Instapaper bookmarks, highlights, and notes_](https://byparker.com/blog/2022/archive-instapaper-bookmarks/) inspired me to add an addendum to my recent post series about degrowth. When [talking about backup]({{ site.url }}/blog/i-guess-i-dont-trust-the-cloud/), I'd forgotten to note how I'm constantly saving data (locally) that's usually either scattered around my systems, or stored elsewhere online. While this point might be not specific to degrowth, it's part of a thought process that's been removed from our habits over the last decade or so. By accepting the _convenience_ of delegating everything that's supposed to be ours to corporation-owned remote systems, we basically exposed ourselves to data loss. I know, because I've been there.
 

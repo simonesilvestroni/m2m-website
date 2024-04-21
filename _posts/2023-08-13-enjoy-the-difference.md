@@ -7,7 +7,7 @@ tags:
   - 'internet'
   - 'music production'
   - 'social media'
-description: 'Three years after I left Twitter, Facebook and Instagram, I might have found a space where to both agree and disagree in peace, while growing connections.'
+summary: 'Three years after I left Twitter, Facebook and Instagram, I might have found a space where to both agree and disagree in peace, while growing connections.'
 syndication: true
 syndicate:
   - name: IndieNews

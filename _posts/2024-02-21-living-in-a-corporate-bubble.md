@@ -5,7 +5,7 @@ last_modified_at: '2024-02-21 11:23:14'
 tags:
   - 'internet'
   - 'social media'
-description: 'Sanctimonious post about something that, strangely enough, just occurred to me: normal people can easily turn into soulless sellers, casually dropping ridiculous corporate jargon while taking money out of the same group they call <em>community</em>.'
+summary: 'Sanctimonious post about something that, strangely enough, just occurred to me: normal people can easily turn into soulless sellers, casually dropping ridiculous corporate jargon while taking money out of the same group they call <em>community</em>.'
 ---
 Yesterday I watched a few videos from well-known professionals in the music production field, which left me stunned. Not sure if it was the language, or the way they were taking the topics so seriously, but the struggle to properly understand was real. They were waffling on about the reasons for having failed to release new videos in 2024, or what upload schedule works best, or ways to complement their income with online courses, Patreon, up to bragging about their considerable YouTube earnings in the name of transparency.
 

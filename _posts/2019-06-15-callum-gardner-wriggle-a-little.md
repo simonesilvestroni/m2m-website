@@ -12,7 +12,7 @@ tags:
   - 'music release'
   - 'uk'
   - 'sound project'
-description: 'I produced and played a mean bass in Gardner’s new single, <em>Wriggle A Little</em>, which featured an epic guitar solo.'
+summary: 'I produced and played a mean bass in Gardner’s new single, <em>Wriggle A Little</em>, which featured an epic guitar solo.'
 ---
 {% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1398022832/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://callumgardner.bandcamp.com/track/wriggle-a-little">Wriggle a Little by Callum Gardner</a></iframe>' %}
 

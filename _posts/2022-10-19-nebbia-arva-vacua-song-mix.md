@@ -10,7 +10,7 @@ tags:
   - 'pro tools'
   - 'italy'
   - 'sound project'
-description: 'I mixed the lead song from the debut EP <em>Tales from holographic seas</em>.'
+summary: 'I mixed the lead song from the debut EP <em>Tales from holographic seas</em>.'
 ---
 Based in my hometown Ravenna, the trio ranges between cinematic suggestions and an indie-rock feeling, shifting the perspective of a diverse music background. I mixed the song [*Nebbia (part one)*](https://arvavacua.bandcamp.com/track/nebbia-part-one) using Avid's Pro Tools.
 

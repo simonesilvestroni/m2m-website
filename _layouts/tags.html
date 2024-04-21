@@ -11,7 +11,7 @@ layout: default
 		<h2 class="p-name"><a href="{{ post.url }}" title="Read the post ‘{{ post.title }}’">{{ post.title }}</a></h2>
 		<div class="p-summary">
 			<time class="dt-published dim small" datetime="{{ date | date_to_xmlschema }}" itemprop="dateCreated">{{ date | date: "%-d %B %Y" }}</time>
-			<p>{{ post.description | markdownify | strip_html }}</p>
+			<p>{{ post.summary | markdownify | strip_html }}</p>
 		</div>
 		<p><a href="{{ post.url }}"><strong>Read</strong> &rarr;</a></p>
 	</article>

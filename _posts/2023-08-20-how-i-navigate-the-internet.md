@@ -8,7 +8,7 @@ tags:
   - 'personal'
   - 'software'
   - 'sustainability'
-description: 'First of a series of short posts on personal degrowth. Not a “how to” step-by-step guide, rather a point of view on tech choices that I feel are necessary.'
+summary: 'First of a series of short posts on personal degrowth. Not a “how to” step-by-step guide, rather a point of view on tech choices that I feel are necessary.'
 ---
 Regarding how I manage my time online, I think the best way to action some [degrowth](https://en.wikipedia.org/wiki/Degrowth) is to reduce my own footprint. Use less services, remove accounts, bring down the size of my online data. I tried many alternative combinations before, but they always felt like accepting that the convenience of a specific tech, or the social pressure to be present on a certain app or network, are more important than my morals and the environment. Reclaiming time and focus are paramount to me, hence why leaving redundant platforms and shrinking the use of broadband feels like a step in the right direction. Might be small, but it's mine.
 

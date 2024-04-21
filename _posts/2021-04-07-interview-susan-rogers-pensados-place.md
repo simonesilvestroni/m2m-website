@@ -5,7 +5,7 @@ last_modified_at: '2021-11-08 16:59:59'
 tags:
   - 'music'
   - 'music production'
-description: "The amazing episode of Pensado’s Place with Susan Rogers had been sitting in my to-do list for a few weeks. The best interview in a long time."
+summary: "The amazing episode of Pensado’s Place with Susan Rogers had been sitting in my to-do list for a few weeks. The best interview in a long time."
 ---
 I’ve listened to her in awe. In particular, regarding two points: the importance of using panning to make the most of our perception of music, by exploiting the different way our brain processes sounds, and the crucial role that _non-musicians producers_ can have on the global vision of a song.
 

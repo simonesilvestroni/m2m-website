@@ -16,7 +16,7 @@ skillset:
   - Netlify
   - Git
   - Bash
-description: 'My new website eclipses the previous on <abbr title="Information Architecture">IA</abbr>, performance, sustainability and ease of maintenance.'
+summary: 'My new website eclipses the previous on <abbr title="Information Architecture">IA</abbr>, performance, sustainability and ease of maintenance.'
 featimage: true
 featimage-name: 'website-redesign-for-minutes-to-midnight.jpg'
 featimage-alt: Screenshot of the homepage for Minutes to Midnight’s website

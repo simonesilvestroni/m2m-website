@@ -5,7 +5,7 @@ last_modified_at: '2023-05-12 11:34:58'
 tags:
   - 'personal'
   - 'web development'
-description: 'I’ve been using this website as a platform to experiment visual solutions that might appease my aesthetic sense, and at the same time be more accessible for everyone.'
+summary: 'I’ve been using this website as a platform to experiment visual solutions that might appease my aesthetic sense, and at the same time be more accessible for everyone.'
 ---
 That's fine, many people from my RSS list are doing the same, it's kind of a perk of having a personal place on the internet. As my friend Claudio — who happens to work as a Ruby programmer — keep saying: part of being a good developer is the ability to know _what code to delete_.
 

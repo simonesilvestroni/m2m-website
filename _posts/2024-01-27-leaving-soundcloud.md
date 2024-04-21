@@ -5,7 +5,7 @@ last_modified_at: '2024-01-27 14:33:34'
 tags:
   - 'internet'
   - 'software'
-description: 'Another year, another platform goes down.'
+summary: 'Another year, another platform goes down.'
 syndication: true
 syndicate:
   - name: IndieNews

@@ -11,7 +11,7 @@ tags:
   - 'sustainability'
   - 'walled gardens'
   - 'workflow'
-description: 'Part of my ‘degrowth’ series: why I’ve been using less and less Apple products. Might sound like venting, though it’s not.'
+summary: 'Part of my ‘degrowth’ series: why I’ve been using less and less Apple products. Might sound like venting, though it’s not.'
 ---
 As a quick premise, I don't judge anyone's choices when it comes to computer hardware and software. Therefore, I'm okay with people relying on Apple software (and hardware) _for everything they do_. I've been there too. As I've embarked on a quest to decrease my digital footprint and achieve some form of actual [degrowth]({{ site.url }}/blog/tag/degrowth/), this is something I can't leave out. Apart from strongly disliking the recent incarnations of macOS, I believe that the $2tn company is hell-bent on a path that's impossible for me to agree with. To each their own.
 
