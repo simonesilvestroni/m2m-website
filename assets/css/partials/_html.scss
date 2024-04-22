@@ -369,7 +369,7 @@ blockquote {
 		font-size: calc(1.15rem + 0.3vw);
 		line-height: 1.5;
 		padding: calc(0.5rem + 2.5vw);
-		background-color: floralwhite;
+		background-color: $colour-day;
 	}
 	cite {
 		@extend %small-caps;
