@@ -111,21 +111,21 @@ On the last day, a keynote titled _The Audio Production for Halo_, by the then B
 
 ## After the GDC
 
-Back home, I was optimistic and excited about the vast amount of knowledge and inspiration gained at the conference. After a week of unexpected lack of communication, I'd decided to implement what I learned in California by making it an integral part of the audio workflow. However, the absence of a shared feedback across teams was disappointing.
+Back home, I was optimistic and excited about the amount of knowledge and inspiration gained at the conference. After a week of unexpected lack of communication, I had decided to implement what I learned in California by making it an integral part of the audio workflow. However, the absence of a shared feedback across teams was disappointing.
+
+Something had changed in the company. Founded by a group of friends, and up to a certain point managed with the same spirit, growing difficulties eroded confidence, while the first layoffs soured relationships among colleagues. A new wave of hirings brought people with more industry experience. The enforcement of their full discretionary powers, without getting to know the internal dynamics first, upset several people who were with Playstos since the beginning. Resignations followed.
+
+Some of the new leaders criticised the game, and soon what was _Ruff Trigger_ as I knew it changed. Striving to be constructive, I supported some decisions whilst debating others, which didn't get me far. My impression was that the goal was to cut corners and publish the game whatever the cost.
 
 ## Burnout
 
-Something changed in the company. Founded by a group of friends, and up to a certain point managed with the same spirit, the growing difficulties due to a lack of interest by high-level publishers eroded confidence, while the first layoffs soured relationships among colleagues. To appeal to smaller publishers, the game _had to change_, so a new wave of hirings brought people with more industry experience. Enforcing the full discretionary powers they received, without getting to know the internal dynamics first, upset several people who were with Playstos since the beginning. Resignations followed.
+I asked to step down as team leader, and negotiated a new contract as a remote worker. Regularly going to the studios to check on the progress, a special <abbr title="Virtual Private Network">VPN</abbr> connection allowed me to access the internal assets and perform tests and backups. Despite the renewed situation, I discovered how exhausted I was. I spent many nights at Playstos over the years, working double and triple shifts: the feeling of _why did I do that for?_ was weighing me down with brute force. In the meantime, I was witnessing _Ruff Trigger_ morphing from a multi-platform ambitious project into a budget game.
 
-Some of the new leaders criticised the game, calling it puerile. What was _Ruff Trigger_ as I knew it changed rapidly. Striving to be constructive, I supported some decisions whilst debating others, which didn't get me far. My impression was that the goal was to cut corners and publish the game whatever the cost.
-
-I asked to step down as team leader, and renegotiated a new contract as a remote worker. Regularly going to the studios to check on the progress, a special <abbr title="Virtual Private Network">VPN</abbr> connection allowed me to access the internal assets **while performing tests and backups**. Despite the renewed situation, I discovered how exhausted I was. I spent many nights at Playstos over the years, working double and triple shifts: the impending feeling of _it was all for nothing_ was weighing me down with brute force. In the meantime, I was witnessing _Ruff Trigger_ morphing from a multi-platform ambitious project into a budget game.
-
-In 2005, I left.
+In 2005, I left. A mistake that I still regret.
 
 ## Aftermath
 
-Once Playstos found a publisher (Natsume), the game was [released on 27 June 2006](https://www.mobygames.com/game/34741/ruff-trigger-the-vanocore-conspiracy/). Most of the less favorable feedback is focused on a couple of factors: a general lackluster gameplay, and the excessive similarity with _Ratchet and Clank_ — which was originally conceived as an homage to the genre.
+The game was [released on 27 June 2006](https://www.mobygames.com/game/34741/ruff-trigger-the-vanocore-conspiracy/), published by Natsume. Most of the less favorable feedback is focused on a couple of factors: a general lackluster gameplay, and the excessive similarity with _Ratchet and Clank_—which was originally conceived as an homage to the genre.
 
 ![Ruff Trigger's official packaging](/assets/images/playstos-ruff-trigger.jpg){: width="720" height="1006" }
 *Ruff Trigger's official packaging*
