@@ -9,8 +9,8 @@ title: 'Minutes to Midnight'
 tagline: 'Web designer & music producer'
 timezone: Europe/London
 logo: '/assets/images/m2m-og-image.png'
-typeface: 'Crimson Pro, Schibsted Grotesk'
-typeface-preload: 'schibstedgrotesk-regular.woff2'
+typeface: 'Crimson Pro'
+typeface-preload: 'crimson-regular.woff2'
 jekyll-version: '4.3.3'
 
 # -------------------
