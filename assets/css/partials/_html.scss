@@ -174,11 +174,10 @@ nav[aria-label="Secondary navigation"] {
 	}
 	// Nav links
 	a {
-		font-family: var(--font-serif);
 		font-weight: bold;
-		font-size: calc(1rem + 0.3vw);
+		font-size: calc(0.8rem + 0.3vw);
 		text-transform: uppercase;
-		letter-spacing: calc(0.5px + 0.15vw);
+		letter-spacing: calc(0.4px + 0.125vw);
 		color: $colour-text;
 		text-decoration: none;
 		&:hover {
