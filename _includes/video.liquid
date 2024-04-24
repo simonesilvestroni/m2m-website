@@ -2,7 +2,7 @@
 	<iframe
 		title="{{ include.title | default: "Video" }}"
 		src="https://{{ include.provider | default: "www.youtube-nocookie.com" }}/embed/{{ include.id }}?rel=0"
-		allow="allowfullscreen; picture-in-picture"
+		allow="fullscreen; picture-in-picture"
 		loading="lazy"
 		referrerpolicy="no-referrer">
 	</iframe>
