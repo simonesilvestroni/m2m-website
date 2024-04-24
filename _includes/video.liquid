@@ -1,3 +1,9 @@
 <div class="iframe-container">
-	<iframe src="https://{{ include.provider | default: "www.youtube-nocookie.com" }}/embed/{{ include.id }}" allowfullscreen title="{{ include.title | default: "Video" }}"></iframe>
+	<iframe
+		title="{{ include.title | default: "Video" }}"
+		src="https://{{ include.provider | default: "www.youtube-nocookie.com" }}/embed/{{ include.id }}?rel=0"
+		allow="allowfullscreen; picture-in-picture"
+		loading="lazy"
+		referrerpolicy="no-referrer">
+	</iframe>
 </div>
