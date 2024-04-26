@@ -25,7 +25,7 @@ Besides recording and producing the song, I worked as a bassist, contributing to
 
 ## Music video
 
-{% include video.liquid id="OeDQvTX9jiA" %}
+{% include video.liquid title="Hang Loose video on YouTube" id="OeDQvTX9jiA" %}
 
 ## Live
 
