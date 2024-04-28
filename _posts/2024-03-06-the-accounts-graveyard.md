@@ -20,7 +20,7 @@ I stopped ruminating over my past participation with large conglomerates. I'm ju
 
 ## Automattic
 
-Four years ago, when I decided to leave WordPress, I didn't do it in spite of any company shenanigans: I simply didn't enjoy the software anymore. While it's true that I've never liked its CEO and co-founder, the recent pile-up of multiple controversies pushed me to delete accounts with _wordpress.com_, _wordpress.org_, _PocketCast_, and consequently the now useless _WP Rocket_ and _Yoast_. _Tumblr_ had been in the graveyard for some time.
+Four years ago, when I decided to leave WordPress, I didn't do it in spite of any company shenanigans: I simply wanted to simplify my personal site. While it's true that I've never liked its CEO and co-founder, the recent pile-up of multiple controversies pushed me to delete accounts with _wordpress.com_, _wordpress.org_, _PocketCast_, and consequently the now useless _WP Rocket_ and _Yoast_. _Tumblr_ had been in the graveyard for some time.
 
 ## VC-funded vultures
 
