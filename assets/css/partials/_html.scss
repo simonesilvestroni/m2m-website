@@ -103,12 +103,12 @@ article {
 // $HEADINGS
 // -------------------------------- */
 // Size
-h1 { font-size: calc(1.8rem + 0.85vw) }
-h2 { font-size: calc(1.6rem + 0.25vw) }
-h3 { font-size: calc(1.4rem + 0.25vw) }
-h4 { font-size: calc(1.3rem + 0.25vw) }
-h5 { font-size: calc(1.2rem + 0.25vw) }
-h6 { font-size: calc(1.1rem + 0.25vw) }
+h1 { font-size: calc(1.5rem + 0.35vw) }
+h2 { font-size: calc(1.3rem + 0.35vw) }
+h3 { font-size: calc(1.2rem + 0.30vw) }
+h4 { font-size: calc(1.1rem + 0.30vw) }
+h5 { font-size: calc(1.1rem + 0.25vw) }
+h6 { font-size: calc(1.1rem + 0.20vw) }
 // Colour
 h2, h3, h4, h5, h6 {
 	color: $colour-night;
@@ -364,7 +364,7 @@ blockquote {
 	margin-block: 2rem 0.5rem;
 	> p {
 		font-family: var(--font-serif);
-		font-size: calc(1.15rem + 0.3vw);
+		// font-size: calc(1.15rem + 0.3vw);
 		line-height: 1.5;
 		padding: calc(0.5rem + 2.5vw);
 		background-color: $colour-day;
