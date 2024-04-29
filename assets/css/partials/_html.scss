@@ -29,7 +29,7 @@ html {
 }
 body {
 	min-height: 100vh;
-	font-family: var(--font-serif);
+	font-family: var(--font-secondary);
 	font-size: calc(1rem + 0.3vw);
 	color: $colour-text;
 }
@@ -174,8 +174,9 @@ nav[aria-label="Secondary navigation"] {
 	}
 	// Nav links
 	a {
-		font-weight: bold;
+		font-family: var(--font-secondary);
 		font-size: calc(0.8rem + 0.3vw);
+		font-weight: bold;
 		text-transform: uppercase;
 		letter-spacing: calc(0.4px + 0.125vw);
 		color: $colour-text;
@@ -271,7 +272,7 @@ img {
 }
 img + em {
 	display: block;
-	font-family: var(--font-serif);
+	font-family: var(--font-secondary);
 	text-align: left;
 	color: $colour-text-light;
 	margin-block-start: 0.8rem;
@@ -293,14 +294,14 @@ figure {
 	}
 }
 figcaption {
-	font-family: var(--font-serif);
+	font-family: var(--font-secondary);
 	font-style: italic;
 	line-height: 1.4;
 	color: $colour-text-light;
 	margin-block-start: 1rem;
 }
 video + p {
-	font-family: var(--font-serif);
+	font-family: var(--font-secondary);
 	font-size: smaller;
 	margin-block: 1rem;
 }
@@ -363,7 +364,7 @@ pre span {
 blockquote {
 	margin-block: 2rem 0.5rem;
 	> p {
-		font-family: var(--font-serif);
+		font-family: var(--font-secondary);
 		// font-size: calc(1.15rem + 0.3vw);
 		line-height: 1.5;
 		padding: calc(0.5rem + 2.5vw);

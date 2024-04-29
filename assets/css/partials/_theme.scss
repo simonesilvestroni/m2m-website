@@ -48,7 +48,7 @@
 		background-position: 20% 3rem;
 	}
 	body {
-		font-family: var(--font-sans);
+		font-family: var(--font-primary);
 		background: transparent url('/assets/images/flat-mountains.svg');
 		background-position: right bottom;
 		background-size: 100% 65rem;
@@ -118,7 +118,7 @@
 	// Headings
 	// ------------------------------------
 	h1, h2, h3, h4, h5, h6 {
-		font-family: var(--font-serif);
+		font-family: var(--font-secondary);
 	}
 	// h1 as logo in homepage
 	body.homepage h1 {
@@ -223,7 +223,7 @@
 			border-radius: 30em;
 		}
 		p {
-			font-family: var(--font-serif);
+			font-family: var(--font-secondary);
 			flex: 2;
 			margin: 0;
 		}
@@ -407,7 +407,7 @@
 	// Highlighted blocks
 	// ------------------------------------
 	.highlight {
-		font-family: var(--font-serif);
+		font-family: var(--font-secondary);
 		// font-size: larger;
 		margin-block: 3rem;
 		margin-inline: -3rem;
@@ -480,7 +480,7 @@
 	// Buttons
 	// ------------------------------------
 	%button {
-		font-family: var(--font-sans);
+		font-family: var(--font-primary);
 		text-transform: lowercase;
 		font-variant: small-caps;
 		text-decoration: none;
@@ -559,7 +559,7 @@
 	// Last update
 	// ------------------------------------
 	.last-update {
-		font-family: var(--font-serif);
+		font-family: var(--font-secondary);
 		padding-block: 4rem;
 	}
 

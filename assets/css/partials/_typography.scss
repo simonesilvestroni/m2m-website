@@ -1,5 +1,5 @@
-$font-sans: 'system-ui', 'Inter', 'Helvetica';
-$font-serif: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro;
+$font-primary: 'system-ui', 'Inter', 'Helvetica';
+$font-secondary: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro;
 $font-mono: ui-monospace, 'Source Code Pro', Menlo, 'Cascadia Code', Consolas, 'DejaVu Sans Mono';
 @if $webfonts == true {
 	// ------------------------------------
@@ -26,7 +26,7 @@ $font-mono: ui-monospace, 'Source Code Pro', Menlo, 'Cascadia Code', Consolas, '
 		font-style: normal;
 		font-display: swap;
 	}
-	$font-serif: 'Crimson';
-	$font-sans: 'system-ui';
+	$font-secondary: 'Crimson';
+	$font-primary: 'system-ui';
 	// $font-mono: ui-monospace, 'Source Code Pro', Menlo, 'Cascadia Code', Consolas, 'DejaVu Sans Mono';
 }
