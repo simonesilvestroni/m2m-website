@@ -12,9 +12,7 @@
 	<meta content="{{ site.logo }}" name="twitter:card">
 	<!-- end open graph -->
 	<meta name="pinterest" content="nopin">
-	{%- if site.typeface != "" and site.typeface != nil %}
-	<link rel="preload" href="{{ site.url }}/assets/fonts/{{ site.typeface-preload }}" as="font" type="font/woff2" crossorigin>
-	{%- endif %}
+	{%- comment %}	<link rel="preload" href="{{ site.url }}/assets/fonts/{{ site.typeface-preload }}" as="font" type="font/woff2" crossorigin>{% endcomment %}
 	<link rel="stylesheet" href="{{ site.url }}/assets/css/m2m.css">
 	<link rel="webmention" href="https://webmention.io/minutestomidnight.co.uk/webmention">
 	<link rel="authorization_endpoint" href="https://indieauth.com/auth">
