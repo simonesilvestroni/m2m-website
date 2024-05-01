@@ -12,7 +12,7 @@
 	<meta content="{{ site.logo }}" name="twitter:card">
 	<!-- end open graph -->
 	<meta name="pinterest" content="nopin">
-	{%- comment %}	<link rel="preload" href="{{ site.url }}/assets/fonts/{{ site.typeface-preload }}" as="font" type="font/woff2" crossorigin>{% endcomment %}
+	{%- comment %}<link rel="preload" href="{{ site.url }}/assets/fonts/{{ site.typeface-preload }}" as="font" type="font/woff2" crossorigin>{% endcomment %}
 	<link rel="stylesheet" href="{{ site.url }}/assets/css/m2m.css">
 	<link rel="webmention" href="https://webmention.io/minutestomidnight.co.uk/webmention">
 	<link rel="authorization_endpoint" href="https://indieauth.com/auth">
@@ -109,12 +109,7 @@
 		<data rel="me" value="https://minutestomidnight.bandcamp.com/"></data>
 		<data rel="me" value="https://www.youtube.com/@m2m"></data>
 		<data rel="me" value="https://www.linkedin.com/in/simonesilvestroni/"></data>
-		<script>
-			window.addEventListener('load', function() {
-				console.log('404! 🌵 I’m not using any JavaScript here. Want to know why?')
-				console.log('Get in touch: https://minutestomidnight.co.uk/contact/')
-			})
-		</script>
+		<script src="{{ site.url }}/assets/js/m2m.js"></script>
 	</footer>
 </body>
 </html>
