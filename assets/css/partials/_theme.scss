@@ -525,7 +525,6 @@
 			margin-inline: 0.5rem;
 			a {
 				@extend %button;
-				@extend %small;
 				display: inline-block;
 				border: 1px solid $colour-border;
 			}
