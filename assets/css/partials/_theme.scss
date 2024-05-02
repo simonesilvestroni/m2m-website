@@ -165,6 +165,9 @@
 	samp {
 		font-size: 95%;
 	}
+	pre {
+		border: 2px double $colour-accent;
+	}
 
 	// ------------------------------------
 	// Navigation
