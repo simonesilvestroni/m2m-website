@@ -410,8 +410,6 @@
 	// Highlighted blocks
 	// ------------------------------------
 	.highlight {
-		font-family: var(--font-secondary);
-		// font-size: larger;
 		margin-block: 3rem;
 		margin-inline: -3rem;
 		padding: 3rem;
@@ -545,10 +543,8 @@
 	// Footnotes
 	// ------------------------------------
 	.footnote {
-		background-color: $colour-transparent;
 		padding-inline: 4px;
 		text-decoration: none;
-		border: 1px dotted $colour-shadow;
 		border-radius: var(--border-radius-double);
 	}
 	.footnotes {

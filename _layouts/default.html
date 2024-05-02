@@ -6,13 +6,13 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="robots" content="noindex, nofollow, noai, noimageai">
 	<!-- minimal open graph implementation -->
-	<meta content="{{ site.title }}" property="og:title">
+	<meta content="{{ page.title }}" property="og:title">
 	<meta content="{% if page.summary %}{{ page.summary | strip_html }}{% else %}{{ site.description | strip_html }}{% endif %}" name="description" property="og:description">
 	<meta content="{{ site.logo }}" property="og:image">
 	<meta content="{{ site.logo }}" name="twitter:card">
 	<!-- end open graph -->
 	<meta name="pinterest" content="nopin">
-	{%- comment %}<link rel="preload" href="{{ site.url }}/assets/fonts/{{ site.typeface-preload }}" as="font" type="font/woff2" crossorigin>{% endcomment %}
+	<link rel="preload" href="{{ site.url }}/assets/fonts/{{ site.typeface-preload }}" as="font" type="font/woff2" crossorigin>
 	<link rel="stylesheet" href="{{ site.url }}/assets/css/m2m.css">
 	<link rel="webmention" href="https://webmention.io/minutestomidnight.co.uk/webmention">
 	<link rel="authorization_endpoint" href="https://indieauth.com/auth">
