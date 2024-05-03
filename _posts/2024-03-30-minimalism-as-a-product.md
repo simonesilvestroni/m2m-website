@@ -4,6 +4,7 @@ date: '2024-03-30 22:13:55'
 last_modified_at: '2024-03-30 22:13:57'
 tags:
   - 'minimalism'
+  - 'sustainability'
   - 'usa'
 summary: 'The one where I ask myself if I have a bias that makes me perceive Americans as if they want to commodify everything.'
 ---
