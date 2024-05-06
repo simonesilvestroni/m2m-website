@@ -1,0 +1,18 @@
+// hexToRGB
+//
+// USAGE
+// -------------------------------------------------
+// 
+// $primary: #898DF8;
+// 
+// :root {
+//   --primary: #{$primary};
+//   --primary-rgb: #{hexToRGB(#{$primary})} ;
+
+// .example {
+//   background-color: rgba(var(--primary-rgb), .3) ;
+// }
+
+@function hexToRGB($hex) {
+	@return red($hex), green($hex), blue($hex);
+}
