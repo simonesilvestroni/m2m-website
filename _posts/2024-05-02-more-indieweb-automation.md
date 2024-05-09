@@ -8,6 +8,10 @@ tags:
   - 'software'
   - 'web development'
 summary: 'Follow-up to a <a href="/blog/automation-for-my-blog-publishing-workflow/">previous case study</a> on how I automated my static website publishing workflow. This time, a lean Shortcut script is allowing me to write webmentions in seconds.'
+syndication: true
+syndicate:
+  - name: IndieNews
+    url: https://news.indieweb.org/en
 ---
 For a while now I've been using [notes]({{ site.url }}/notes/) to send Indieweb webmentions in the form of replies and likes. As these tend to be very short pieces, I thought again about how to bypass the annoying bits in the process of creating a note. When I experimented with Apple's Shortcuts to find ways to expedite my writing workflow, I discovered it can be a pretty powerful tool.
 
