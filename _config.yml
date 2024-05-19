@@ -9,8 +9,8 @@ title: 'Minutes to Midnight'
 tagline: 'Web designer & music producer'
 timezone: Europe/London
 logo: '/assets/images/m2m-og-image.png'
-typeface: 'Humanist font stack, and Tanohe Sans'
-typeface-preload: 'tanohesans-regular.woff2'
+typeface: 'Old Style font stack, and Rubik'
+typeface-preload: 'rubik-regular.woff2'
 jekyll-version: '4.3.3'
 
 # -------------------

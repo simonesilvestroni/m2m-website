@@ -364,6 +364,7 @@ pre span {
 blockquote {
 	margin-block: 2rem 0.5rem;
 	> p {
+		font-family: var(--font-secondary);
 		padding: calc(0.5rem + 2.5vw);
 		background-color: $colour-day;
 	}

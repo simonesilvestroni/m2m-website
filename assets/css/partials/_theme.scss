@@ -117,9 +117,9 @@
 	// ------------------------------------
 	// Headings
 	// ------------------------------------
-	h1, h2, h3, h4, h5, h6 {
-		font-family: var(--font-secondary);
-	}
+	// h1, h2, h3, h4, h5, h6 {
+	// 	font-family: var(--font-secondary);
+	// }
 	// h1 as logo in homepage
 	body.homepage h1 {
 		mask-image: url('../images/scratches.png');
@@ -226,7 +226,7 @@
 			border-radius: 30em;
 		}
 		p {
-			font-family: var(--font-secondary);
+			// font-family: var(--font-secondary);
 			flex: 2;
 			margin: 0;
 		}
