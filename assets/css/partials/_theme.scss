@@ -37,7 +37,7 @@
 	// 	:root {}
 	// 	img, video { opacity: 0.8; }
 	// }
-	
+
 	// ------------------------------------
 	// Main DOM elements
 	// ------------------------------------
@@ -122,8 +122,13 @@
 	// }
 	// h1 as logo in homepage
 	body.homepage h1 {
+		margin: auto;
+		width: 100%;
 		mask-image: url('../images/scratches.png');
 		mask-size: 400px 400px;
+		@media (min-width: 575px) {
+			width: calc(100% - 20vw);
+		}
 	}
 	// h1 in pages and posts
 	h1 {
@@ -558,6 +563,7 @@
 	// ------------------------------------
 	.last-update {
 		font-family: var(--font-secondary);
+		font-size: smaller;
 		padding-block: 4rem;
 	}
 
