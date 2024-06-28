@@ -94,14 +94,7 @@ sass:
 # -------------------
 # Feeds
 # -------------------
-posts_limit: 20
-
-# -------------------
-# Markdown
-# -------------------
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
+posts_limit: 20  
 
 # -------------------
 # Jekyll defaults
@@ -158,6 +151,7 @@ jekyll-archives:
 kramdown:
   syntax_highlighter_opts:
     disable: true
+  smart_quotes: ["apos", "apos", "quot", "quot"]
 
 # -------------------
 # Jekyll plugins
