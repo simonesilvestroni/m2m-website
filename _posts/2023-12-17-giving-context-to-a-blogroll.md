@@ -5,7 +5,7 @@ last_modified_at: '2023-12-17 17:41:12'
 tags:
   - 'indieweb'
   - 'internet'
-summary: 'Garrit Franke’s recent post, titled “Roast my site”, motivated me to write about something that has always bugged me with personal sites: the grocery-style blogroll.'
+summary: "Garrit Franke's recent post, titled <em>Roast my site</em>, motivated me to write about something that has always bugged me with personal sites: the grocery-style blogroll."
 replyto: 'https://garrit.xyz/posts/2023-12-12-roast-my-site'
 replytouser: 'Garrit Franke'
 syndication: true
@@ -15,13 +15,13 @@ syndicate:
   - name: Mastodon
     url: https://sonomu.club/@m2m/111597228371982056
 ---
-While list-only blogrolls are pretty common, the result of reading them across various blogs is an uninspiring jumble of names. I never ever click on any of them because to me it’s like clicking on a random link on a random page. What I would like to see instead is *context*: 
+While list-only blogrolls are pretty common, the result of reading them across various blogs is an uninspiring jumble of names. I never ever click on any of them because to me it's like clicking on a random link on a random page. What I would like to see instead is *context*: 
 
-- Who is this person you’re linking? 
+- Who is this person you're linking? 
 - Why are you following them?
-- What’s in their blog that caught your interest?
+- What's in their blog that caught your interest?
 
-It doesn't have to be a long synopsis, a little context is what might actually drive me to their websites, which should be the ultimate goal of a blogroll: to share interesting bits of the web to potentially like-minded people. I’ve stumbled upon several blogrolls that are descriptive and interesting, and beside [my own]({{ site.url }}/blogroll/), these are fitting examples: [Starbreaker's links](https://old.starbreaker.org/links/), [Silvia Maggi's links](https://silviamaggidesign.com/links/), [Keenan's Blogroll](https://gkeenan.co/blogroll) and [Maya Land's Blogroll](https://maya.land/blogroll.opml). The latter is also a beautiful example of how to format an [OPML](https://en.wikipedia.org/wiki/OPML) file for the web, something I’d really like to do someday.
+It doesn't have to be a long synopsis, a little context is what might actually drive me to their websites, which should be the ultimate goal of a blogroll: to share interesting bits of the web to potentially like-minded people. I've stumbled upon several blogrolls that are descriptive and interesting, and beside [my own]({{ site.url }}/blogroll/), these are fitting examples: [Starbreaker's links](https://old.starbreaker.org/links/), [Silvia Maggi's links](https://silviamaggidesign.com/links/), [Keenan's Blogroll](https://gkeenan.co/blogroll) and [Maya Land's Blogroll](https://maya.land/blogroll.opml). The latter is also a beautiful example of how to format an [OPML](https://en.wikipedia.org/wiki/OPML) file for the web, something I'd really like to do someday.
 
 ## Edit: 25 December 2023
 

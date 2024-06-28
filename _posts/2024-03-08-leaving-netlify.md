@@ -6,7 +6,7 @@ tags:
   - 'internet'
   - 'web development'
   - 'workflow'
-summary: "Tomorrow marks the first week after migrating all the websites I share with my wife <a href='https://silviamaggidesign.com'>Silvia</a>, from Netlify to <a href='https://www.mythic-beasts.com'>Mythic Beasts</a>. Very happy about the quick transition, and grateful to <a href='https://www.thisdaysportion.com'>Leon Paternoster</a> for the brilliant suggestion. Here’s something I’ve noticed since."
+summary: "Tomorrow marks the first week after migrating all the websites I share with my wife <a href='https://silviamaggidesign.com'>Silvia</a>, from Netlify to <a href='https://www.mythic-beasts.com'>Mythic Beasts</a>. Very happy about the quick transition, and grateful to <a href='https://www.thisdaysportion.com'>Leon Paternoster</a> for the brilliant suggestion. Here's something I've noticed since."
 ---
 In a similar fashion to how people can't remember phone numbers anymore, by delegating production build and deployment to Netlify, I progressively lost parts of a technical knowledge that comes with habits. While their free tier allowed me to quickly move away from WordPress at no cost, it undoubtedly contributed to the loss of control over how I manage the last stage of web design. Ironically, the main reason for leaving Automattic four years ago was indeed the will to regain control over my source code.
 
