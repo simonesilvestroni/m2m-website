@@ -3,6 +3,7 @@ title: Leaving the web industry
 date: '2024-06-28 11:57:36'
 last_modified_at: '2024-06-28 11:57:39'
 tags:
+  - 'featured'
   - 'personal'
   - 'web development'
 summary: "I accepted an offer for a permanent job in one of the most prestigious British institutes. To get there, I had to first understand I'm not cut for the web industry anymore."
