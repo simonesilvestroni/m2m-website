@@ -2,14 +2,13 @@
 layout: page
 title: Sitemap
 date: '2023-03-31 12:22:58'
-last_modified_at: '2023-12-05 16:18:34'
-summary: 'A full map of the website, including <a href="#pages">pages</a>, <a href="#posts">posts</a>, and <a href="#tags">tags</a>.'
+last_modified_at: '2024-07-15 22:22:34'
+summary: 'An archive of <a href="#pages">pages</a> and <a href="#tags">tags</a>.'
 permalink: /sitemap/
 ---
 {%- assign pages = site.pages | where:"layout", "page" -%}
 {%- assign blogpage = site.pages | where:"layout", "blog"  -%}
 {%- assign allpages = pages | concat: blogpage | sort: 'title' -%}
-{%- assign sorted_blog = site.documents | where:"layout", "post" | sort: 'date' | reverse -%}
 <section>
   <h2 id="pages">Pages</h2>
   <ul class="h-feed list-table">
@@ -23,17 +22,6 @@ permalink: /sitemap/
       <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
     </li>
     {%- endunless -%}{% endfor -%}
-  </ul>
-</section>
-<section>
-  <h2 id="posts">Posts</h2>
-  <ul class="h-feed list-table">
-    {%- for post in sorted_blog %}
-    <li>
-      <time class="dt-published dim small" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d&nbsp;%b&nbsp;%Y" }}</time>
-      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}{% if post.tags contains "sound project" %}&nbsp;<mark class="small">Sound&nbsp;project</mark>{% elsif post.tags contains "dev project" %}&nbsp;<mark class="small">Dev&nbsp;project</mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;<mark class="small">Favourite</mark>{% endif %}</a>
-    </li>
-    {% endfor -%}
   </ul>
 </section>
 <section>

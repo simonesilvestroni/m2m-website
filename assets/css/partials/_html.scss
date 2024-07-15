@@ -24,6 +24,14 @@ $colour-notice: floralwhite !default;
 // -------------------------------- *\
 // Main DOM elements
 // -------------------------------- */
+
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+* {
+	margin: 0;
+	line-height: $line-height;
+}
 html {
 	scroll-behavior: smooth;
 }
@@ -48,6 +56,10 @@ body > footer {
 	background: $colour-transparent;
 	margin-block-start: 4rem;
 	padding-block: 4rem;
+}
+p, h1, h2, h3, h4, h5, h6 {
+	overflow-wrap: break-word;
+	hyphens: auto;
 }
 
 // -------------------------------- *\
@@ -221,10 +233,14 @@ form {
 		}
 	}
 	label {
+		display: block;
 		flex-basis: 100%;
 		font-size: smaller;
 		font-weight: bold;
 		cursor: pointer;
+	}
+	input, button, textarea, select {
+		font: inherit;
 	}
 	input {
 		&[type='search'],
@@ -262,6 +278,10 @@ footer p {
 // -------------------------------- */
 // Imagery
 // -------------------------------- */
+img, picture, figure, video, canvas, svg {
+	display: block;
+	max-width: 100%;
+}
 img {
 	main & {
 		height: auto;
