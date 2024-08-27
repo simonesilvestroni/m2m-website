@@ -38,7 +38,7 @@ _Papillon_ started with Gerald. He sent the full Logic Pro X project, which feat
 
 I produced both songs using REAPER, as I had [recently switched from Pro Tools]({{ site.url }}/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/). With _Papillon_ I worked intensively for a full day, adding the fretless bass, editing the drums and enhancing the rhythm with some drum doubling and a new groove using a custom patch on REAPER, where I summed my trusted XLN Addictive Drums to Steven Slate Drums 5. I wrote a piano theme, refactored all the vocals effect following the same reverb I did use in the original version, and optimized all Gerald's parts.
 
-For _Land of Kings_ I started with the [Warwick bass](/uses/). I replaced all the original harmonium parts with a few synth patches, one of which is Logic's Alchemy, and used the bass to build a delay-driven arpeggio who pretty much served as a leading melody. For both songs, I employed my REAPER presets — which replicate the same patches I've had for years in Logic and then Pro Tools — including send effects (verbs, delays) and my interpretation of Michael Brauer's multi-bus compression.
+For _Land of Kings_ I started with the Warwick bass. I replaced all the original harmonium parts with a few synth patches, one of which is Logic's Alchemy, and used the bass to build a delay-driven arpeggio who pretty much served as a leading melody. For both songs, I employed my REAPER presets — which replicate the same patches I've had for years in Logic and then Pro Tools — including send effects (verbs, delays) and my interpretation of Michael Brauer's multi-bus compression.
 
 ### Vocals
 

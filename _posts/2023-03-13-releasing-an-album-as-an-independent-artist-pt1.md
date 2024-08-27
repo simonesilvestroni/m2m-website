@@ -12,10 +12,6 @@ tags:
   - 'personal'
   - 'social media'
 summary: 'Three and a half years later, an analysis on how releasing my debut concept album had informed my journey as a person more than as an indie artist.'
-syndication: true
-syndicate:
-  - name: Mastodon
-    url: https://indieweb.social/@m2m/110016368797042587
 ---
 {% include bandcamp.liquid size='bc-single' iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=large/bgcol=FFFFFF/linkcol=000000/tracklist=false/artwork=small/track=3005791226/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 

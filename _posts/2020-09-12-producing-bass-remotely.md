@@ -2,7 +2,7 @@
 title: 'Producing bass remotely'
 date: '2020-09-12'
 last_modified_at: '2021-12-07 17:00:42'
-tags: 
+tags:
   - 'bandcamp'
   - 'bass'
   - 'audio editing'
@@ -17,10 +17,6 @@ tags:
   - 'workflow'
 summary: "An in-depth analysis of the process I go through to produce an effective bass track, from tracking to delivery. Based on a real-life scenario."
 canonical: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'
-syndication: true
-syndicate:
-  - name: Unlock Your Sound
-    url: https://unlockyoursound.com/producing-bass-tracks-remotely/
 sitemap: false
 ---
 {% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
@@ -62,7 +58,7 @@ I don’t have a standard on how many takes I record. My rule is: _as many takes
 
 Whenever I’m sure about a good take, I write down its number. I might refer to it as the _default_ later in the comping phase. I occasionally might want to take breaks or even stop working on the track altogether until the day after. The advantage of this approach is fresh ears and a more open vision.
 
-I record the bass through a [SansAmp BassDriver DI v2](/uses/), rarely applying a software pre-amp or amp simulators.
+I record the bass through a SansAmp BassDriver DI v2, rarely applying a software pre-amp or amp simulators.
 
 <video controls src="{{ site.url }}/assets/videos/producing-bass-tracks-remotely-tracking.mp4"
   width="1024">
@@ -71,12 +67,12 @@ I record the bass through a [SansAmp BassDriver DI v2](/uses/), rarely applying 
 
 ## Stage 3: Comping
 
-I’m an exception to the rule _the first take is always the best_. I tend to see the early attempts as rehearsals. I rarely do punch-ins. If I make an unrecoverable mistake, unless there’s something I really want to keep, I stop and delete. I always start with a default good take, using: 
+I’m an exception to the rule _the first take is always the best_. I tend to see the early attempts as rehearsals. I rarely do punch-ins. If I make an unrecoverable mistake, unless there’s something I really want to keep, I stop and delete. I always start with a default good take, using:
 
 - [takes](https://youtu.be/9zyld5BicWQ) in Reaper
 - [playlists](https://www.avid.com/resource-center/whats-new-in-pro-tools) in Pro Tools
 - [comp edit](https://www.macprovideo.com/article/logic-pro/heres-how-to-quickly-comp-audio-takes-in-logic-pro-x) in Logic
- 
+
 In Pro Tools I can select a section and quickly swap between takes in loop mode using a keyboard shortcut. The comp is done on the whole track, moving forward from start to end. I check each section of the song, following the markers. I always remember where I played interesting riffs, so I tend to primarily focus on those. When needed, I record a punch-in to fix minor problems.
 
 The final step is listening to the track in context with the mix. If I’m happy with the result I commit to audio, hiding and deactivating the source in case I want to go back and tweak something.

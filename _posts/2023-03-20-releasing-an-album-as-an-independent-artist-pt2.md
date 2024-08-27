@@ -11,11 +11,6 @@ tags:
   - 'personal'
   - 'social media'
 summary: 'Three and a half years later, an analysis on how releasing my debut concept album had informed my journey as a person more than as an indie artist.'
-typora-root-url: ../
-syndication: true
-syndicate:
-  - name: Mastodon
-    url: https://indieweb.social/@m2m/110057816455118169
 ---
 {% include bandcamp.liquid size='bc-single' iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4002304498/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=449979971/transparent=true/" seamless><a href="https://minutestomidnight.bandcamp.com/album/after-1989-a-trip-to-freedom">After 1989: A Trip To Freedom by Minutes to Midnight</a></iframe>' %}
 
@@ -52,7 +47,7 @@ I’m not the most socially skilled person out there, however, I wish and can co
 
 ## Aftermath
 
-The immediate result was that I completely stopped promoting the album. I think everything came to a halt right before the pandemic arrived in southern Europe. The rest is history: in August 2020 [I deleted my account](/blog/life-after-social-networks/) on Twitter, Facebook, Instagram, Reddit, cutting off usage and interactions on Spotify. 
+The immediate result was that I completely stopped promoting the album. I think everything came to a halt right before the pandemic arrived in southern Europe. The rest is history: in August 2020 [I deleted my account](/blog/life-after-social-networks/) on Twitter, Facebook, Instagram, Reddit, cutting off usage and interactions on Spotify.
 
 During a complete refactor of my website that appeased my innate minimalism, I joined the [Indieweb](https://indieweb.org/) and re-joined [Mastodon](https://sonomu.club/@m2m), finally finding that smaller but tighter community of genuine people who are not afraid to call a spade a spade.
 

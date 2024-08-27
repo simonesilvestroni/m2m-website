@@ -8,18 +8,14 @@ tags:
   - 'internet'
   - 'personal'
 summary: 'Words are crucial to build a sense of online community, however many of us have been using them straight out of a soulless corporate lingo in order to sell ourselves as a product.'
-syndication: true
-syndicate:
-  - name: IndieNews
-    url: https://news.indieweb.org/en
 ---
 The topic of this month's IndieWeb Carnival, [digital relationships](https://manuelmoreale.com/indieweb-carnival-digital-relationships), invites a lot of reflection, especially from an introvert like myself, who's been basking in the shadow of any form of genuine online communication for a long time. As a Gen-X, I had been heavily invested in email, Usenet newsgroups, BBSes, and IRC channels during the 1990s. I used to juggle between Eudora, Forté Agent, a client called *FirstClass*, and some form of terminal emulation.
 
 When even the largest corporations were deploying static HTML and CSS, learning to build a personal website was exciting. It was a fertile time where novelty was not a fleeting concept, where establishing connections with people living in other countries was genuinely thrilling. Today, not being involved in the kind of corporate web that contributed to destroying the *personal* and open nature of the web's first wave, is a natural consequence of my online upbringing. The current resurgence of what is now defined *small web*, fuelled by projects such as the IndieWeb, Webmentions, ActivityPub, was electrifying at first. However, not even this space is immune from a poison that is so widespread to have become the norm. If I had to define the problem, I'd say *personal branding*.
 
-Leaving the corporate web is not enough. Refusing to follow *influencers* with their incessant broadcasting of self-promotion is not enough. Repopulate an RSS reader with brilliant blogs from newfound like-minded people is not enough. Homepages dressed as business cards are everywhere, convinced as we are that [presenting ourselves as a product is the only way to go](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following). 
+Leaving the corporate web is not enough. Refusing to follow *influencers* with their incessant broadcasting of self-promotion is not enough. Repopulate an RSS reader with brilliant blogs from newfound like-minded people is not enough. Homepages dressed as business cards are everywhere, convinced as we are that [presenting ourselves as a product is the only way to go](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following).
 
-> I’m Simone, a seasoned web developer and sound designer with over 25 years of experience. 
+> I’m Simone, a seasoned web developer and sound designer with over 25 years of experience.
 
 I can’t stress this enough: defining myself through job roles, awards, or the fact that I might be a public speaker, is good for a resume. Anywhere else, it becomes deeply uninspiring and *uninteresting*. That is what I might be doing for a living right now, but it doesn't represent who I am as a person with values, interests and priorities. Even Mastodon is choke-full of this type of profile description. Why, in a small independent social network, do so many folks use this crap marketing lingo as if they were walking LinkedIn adverts?
 
@@ -29,7 +25,7 @@ Blaming any social media, corporate or not, for creating this situation is flatl
 
 ## Walk the walk
 
-Removing the brand from the person is all but  straightforward. I now start my about page with a quick way to introduce myself by putting forward some of my values. The following section focuses on telling a short story about my path and work goals, rather than listing accomplishments. Also, [as I said already]({{ site.url }}/blog/de-brand/), words are important. Beside saying _people_ instead of _users_, stop considering who's reading my stuff as _audience_, and quit referring to what I do as _content_, I want to modify a few more behaviours: 
+Removing the brand from the person is all but  straightforward. I now start my about page with a quick way to introduce myself by putting forward some of my values. The following section focuses on telling a short story about my path and work goals, rather than listing accomplishments. Also, [as I said already]({{ site.url }}/blog/de-brand/), words are important. Beside saying _people_ instead of _users_, stop considering who's reading my stuff as _audience_, and quit referring to what I do as _content_, I want to modify a few more behaviours:
 
 {: .list-hr }
 - **Quit mentioning well-known bloggers on a first-name basis**. The self-aggrandising concealed implication is extremely annoying. The practice of obsessively quoting the same guys as if they're close friends only reinforces the idea that these white men are a walled garden of successful people in their field. The same distortion happened in the UK recently, when the media insisted on referencing to the former Prime Minister Johnson as _Boris_, like he was a cuddly bear, or a mate you meet at a pub. He was neither.

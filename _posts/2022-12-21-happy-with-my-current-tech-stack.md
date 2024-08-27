@@ -26,7 +26,7 @@ As part of a push to leave everything related to the concept of [walled gardens]
 
 ## Software
 
-While I won't dig deep on [everything I use]({{ site.url }}/uses/), the crucial concept is getting to know software as deeply as possible so that forced upgrades get out of the way. As a random example, I've been using the creative tool _Sketch_ for several years, staying on version 59. Since it's fulfilling my needs and I know it very well, there's no need for more functionality.
+While I won't dig deep on everything I use, the crucial concept is getting to know software as deeply as possible so that forced upgrades get out of the way. As a random example, I've been using the creative tool _Sketch_ for several years, staying on version 59. Since it's fulfilling my needs and I know it very well, there's no need for more functionality.
 
 ## Integration and sync
 

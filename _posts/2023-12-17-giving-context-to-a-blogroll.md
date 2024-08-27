@@ -8,12 +8,6 @@ tags:
 summary: "Garrit Franke's recent post, titled <em>Roast my site</em>, motivated me to write about something that has always bugged me with personal sites: the grocery-style blogroll."
 replyto: 'https://garrit.xyz/posts/2023-12-12-roast-my-site'
 replytouser: 'Garrit Franke'
-syndication: true
-syndicate:
-  - name: IndieNews
-    url: https://news.indieweb.org/en
-  - name: Mastodon
-    url: https://sonomu.club/@m2m/111597228371982056
 ---
 While list-only blogrolls are pretty common, the result of reading them across various blogs is an uninspiring jumble of names. I never ever click on any of them because to me it's like clicking on a random link on a random page. What I would like to see instead is *context*:
 

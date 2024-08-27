@@ -83,7 +83,7 @@ The repository for all custom themes — as well as extensions, scripts and more
 
 {% include figure.liquid image='daw-reaper-session.jpg' alt='A screenshot of REAPER, running the theme ‘Smooth’' width='768' height='480' caption='REAPER running the theme ‘Smooth’' %}{: .fullscreen }
 
-Incredibly detailed and well crafted, _Smooth_ was created for free by a guy who only asks to be [supported on Bandcamp](https://forum.cockos.com/showthread.php?p=2219276), where he published a slightly bizarre but captivating sci-fi concept. Which brings me to the next benefit. 
+Incredibly detailed and well crafted, _Smooth_ was created for free by a guy who only asks to be [supported on Bandcamp](https://forum.cockos.com/showthread.php?p=2219276), where he published a slightly bizarre but captivating sci-fi concept. Which brings me to the next benefit.
 
 ## Benefit 5: community
 
@@ -113,6 +113,6 @@ The question of stock plug-ins is a neverending debate in the music production b
 - are stock plug-ins okay to use?
 - can I use them to produce good music or shall I buy the commercial ones?
 
-I had decided a while back to settle on [very few third-party plug-ins](/uses/), and learn them in depth. I was using Logic at the time, and my intent was to be as platform agnostic as possible. Now that I’ve experimented with Cockos’ native FXs, I can safely say that I don’t need anything new for the foreseeable future. My existing commercial plug-ins, plus the REAPER integrated arsenal, is more than enough. On the topic, there’s also a video series by the great Dan Worrall.
+I had decided a while back to settle on very few third-party plug-ins, and learn them in depth. I was using Logic at the time, and my intent was to be as platform agnostic as possible. Now that I’ve experimented with Cockos’ native FXs, I can safely say that I don’t need anything new for the foreseeable future. My existing commercial plug-ins, plus the REAPER integrated arsenal, is more than enough. On the topic, there’s also a video series by the great Dan Worrall.
 
 {% include video.liquid id="3OoVnTO3AB4" %}

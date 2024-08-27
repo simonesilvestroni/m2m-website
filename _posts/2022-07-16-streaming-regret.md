@@ -6,10 +6,6 @@ tags:
   - 'internet'
   - 'music'
 summary: 'Delegating music curation to soulless corporations doesn’t take into consideration how they can take it away on a whim. We’re losing control over the music we love.'
-syndication: yes
-syndicate:
-  - name: Mastodon
-    url: https://indieweb.social/@m2m/108656389900836564
 ---
 I properly tried music streaming a few years back — never fell in love with it. Only after a while I was able to pinpoint my unease: it implies delegating music to a distant corporation’s silo, creating a huge waste of broadband. I’ve always been in control of curating music so I jumped out of that wagon, going back to having a local music repository.
 

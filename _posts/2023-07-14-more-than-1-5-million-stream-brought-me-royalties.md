@@ -8,16 +8,12 @@ tags:
   - 'music release'
   - 'personal'
 summary: 'After receiving an unexpected royalty payment today, I’ve been reflecting about the music industry, again.'
-syndication: true
-syndicate:
-  - name: Mastodon
-    url: https://sonomu.club/@m2m/110712147500523150
 ---
 Not long ago, I wrote a personal account (in two parts) of what it meant to [release a concept album as an indie artist](/blog/releasing-an-album-as-an-independent-artist-pt1/) in 2019. Specifically talking about the consequences of the music industry move to streaming, I wrote:
 
 > Something that truly bothered me was the fact that Spotify completed the commodification of music in a way that I couldn’t stand. Everyone kept repeating how good of a marketing tool for musicians it was. I could never see that. Spotify don’t tell you who your fans are, don’t allow fans to get in touch with you and surely isn’t interested in making indie music profitable.
 > <br>[&hellip;]<br>
-> It wasn’t the ridiculous trickle of pennies that the streaming services sent me over the following thirty-eight months, nor the fact that Bandcamp was indeed in a different league (I knew my followers, got messages, reviews, sold CDs and digital albums). It was the obnoxious feeling that corporate social media, and Spotify, weren’t a place where I wanted to be. 
+> It wasn’t the ridiculous trickle of pennies that the streaming services sent me over the following thirty-eight months, nor the fact that Bandcamp was indeed in a different league (I knew my followers, got messages, reviews, sold CDs and digital albums). It was the obnoxious feeling that corporate social media, and Spotify, weren’t a place where I wanted to be.
 
 This morning I received an email from <abbr title="Performing Right Society">PRS</abbr> For Music (UK), with the promising jolly subject: _You're being paid royalties today_, followed by an announcement regarding how many millions or British Pounds are being paid out today globally (`161`), and a request to check my statement for more information.
 

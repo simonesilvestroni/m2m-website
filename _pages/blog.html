@@ -3,7 +3,7 @@ layout: page
 title: Blog
 date: '2021-11-06 14:11:45'
 last_modified_at: '2024-01-30 18:11:25'
-summary: "I've been running an online journal since March 2002. Whether <a href='/blog/tag/personal/'>personal</a> or work-related, I write about what interests me. There is a list of <a href='/blog/favourites/'>favourite posts</a>, an <a href='/sitemap/#tags'>archive by tags</a>, and collections of case studies about <a href='/sound-design/'>sound design</a> and <a href='/web-design/'>web design</a>."
+summary: "I've been running an online journal since March 2002. Whether <a href='/blog/tag/personal/'>personal</a> or work-related, I write about what interests me. There is a list of <a href='/blog/favourites/'>favourite posts</a>, an <a href='/sitemap/#tags'>archive by tags</a>, and collections of case studies about <a href='/sound-design/'>sound design</a>."
 permalink: /blog/
 ---
 <section>
@@ -12,11 +12,11 @@ permalink: /blog/
 	{%- capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture -%}
 	{%- if forloop.first %}
 	<h2 id="{{ this_year }}">{{ this_year }}</h2>
-	<ul class="h-feed list-table">
+	<ul class="list-table">
   {%- endif %}
 		<li>
 			<time class="dim small" datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateCreated">{{ post.date | date: "%-d&nbsp;%b" }}</time>
-			<a href="{{ site.url }}{{ post.url }}" title="{{ post.summary | strip_html }}">{{ post.title }}{% if post.tags contains "sound project" %} <mark class="small">Sound&nbsp;project</mark>{% elsif post.tags contains "dev project" %}&nbsp;<mark class="small">Web&nbsp;project</mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;<mark class="small">Favourite</mark>{% endif %}</a>
+			<a href="{{ site.url }}{{ post.url }}" title="{{ post.summary | strip_html }}">{{ post.title }}{% if post.tags contains "sound project" %} <mark class="small">Sound&nbsp;project</mark>{% endif %}{% if post.tags contains "featured" %}&nbsp;<mark class="small">Favourite</mark>{% endif %}</a>
 		</li>
 	{%- if forloop.last -%}
 	</ul>
@@ -26,7 +26,7 @@ permalink: /blog/
 	</ul>
 	<hr>
 	<h2 id="{{ next_year }}">{{ next_year }}</h2>
-	<ul class="h-feed list-table">
+	<ul class="list-table">
 	{%- endif %}
 	{%- endif %}
 {%- endfor %}

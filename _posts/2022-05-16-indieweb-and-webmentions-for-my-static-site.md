@@ -19,10 +19,6 @@ featimage-name: 'indieweb-and-webmentions-for-my-static-site.jpg'
 featimage-alt: IndieWeb logo
 featimage-width: 768
 featimage-height: 384
-syndication: true
-syndicate:
-  - name: IndieNews
-    url: https://news.indieweb.org/en/
 ---
 ## Skills
 

@@ -7,10 +7,6 @@ tags:
   - 'software'
   - 'web development'
 summary: 'A brief list of steps taken to install and properly configure Ungoogled Chromium for pure web development testing purposes on macOS.'
-syndication: true
-syndicate:
-  - name: Mastodon
-    url: https://indieweb.social/@m2m/108363784201325745
 ---
 I’ve finally switched back to [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) for web dev testing purposes. Here’s a brief list of the steps I followed to get it done. Installation on macOS happens through [Homebrew](https://brew.sh/).
 

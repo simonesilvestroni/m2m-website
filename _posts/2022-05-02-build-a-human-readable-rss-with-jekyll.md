@@ -2,7 +2,7 @@
 title: 'A human-readable RSS feed with Jekyll'
 date: '2022-05-02 10:36:05'
 last_modified_at: '2022-05-02 19:00:32'
-tags: 
+tags:
   - 'dev project'
   - 'internet'
   - 'software'
@@ -20,10 +20,6 @@ featimage-name: 'build-a-human-readable-rss-with-jekyll.jpg'
 featimage-alt: Screenshot of my RSS XML feed page formatted to be readable in a browser
 featimage-width: 1024
 featimage-height: 622
-syndication: true
-syndicate:
-  - name: IndieNews
-    url: https://news.indieweb.org/en
 ---
 ## Skills
 

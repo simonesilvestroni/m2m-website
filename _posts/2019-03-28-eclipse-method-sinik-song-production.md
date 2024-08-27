@@ -23,7 +23,7 @@ If you prefer, [listen to the song on YouTube](https://youtu.be/D0mFNEwirGg), or
 
 ## Production notes
 
-_Eclipse_ is a new single, part of a different batch of new releases, where I upped the ante and played three different electric bass parts. Despite being out of my usual go-to genres, I enjoyed the experience. All bass tracks, dry and distorted, are played with my [1991 Warwick Thumb](/uses/).
+_Eclipse_ is a new single, part of a different batch of new releases, where I upped the ante and played three different electric bass parts. Despite being out of my usual go-to genres, I enjoyed the experience. All bass tracks, dry and distorted, are played with my 1991 Warwick Thumb.
 
 ## Credits
 

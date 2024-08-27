@@ -14,11 +14,6 @@
 	<meta name="pinterest" content="nopin">
 	<link rel="preload" href="{{ site.url }}/assets/fonts/{{ site.typeface-preload }}" as="font" type="font/woff2" crossorigin>
 	<link rel="stylesheet" href="{{ site.url }}/assets/css/m2m.css">
-	<link rel="webmention" href="https://webmention.io/minutestomidnight.co.uk/webmention">
-	<link rel="authorization_endpoint" href="https://indieauth.com/auth">
-	<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
-	<link rel="pgpkey authn" href="{{ site.url }}/assets/files/key.pub">
-	<link rel="me" href="https://github.com/simonesilvestroni/">
 	<link rel="icon" href="{{ site.url }}/favicon.ico" sizes="any">
 	<link rel="icon" href="{{ site.url }}/assets/images/favicons/favicon.svg" type="image/svg+xml">
 	<link rel="apple-touch-icon" href="{{ site.url }}/assets/images/favicons/apple-touch-icon.png" sizes="180x180">
@@ -91,24 +86,12 @@
 		<p><a href="{{ site.url }}/colophon/#copyright">&copy; {{ site.time | date: "%Y"}} + CC BY 4.0</a></p>
 		<p>Handcrafted using Jekyll {{ site.jekyll-version }}, Liquid, and the M2M CSS framework.{%- if site.typeface != "" and site.typeface != nil %} Typefaces: <em>{{ site.typeface }}</em>.{% endif %} Info about <a href="{{ site.url }}/colophon/#about-the-website">the website</a>, <a href="{{ site.url }}/colophon/#accessibility-and-sustainability">accessibility &amp; sustainability</a>, and <a href="{{ site.url }}/colophon/#privacy">privacy</a>.</p>
 		<hr>
-		<div>
-			<p><strong>Indieweb webring</strong><br>
-			<a class="dim" href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/previous">← Previous site</a> &bull; <a class="dim" href="https://xn--sr8hvo.ws/%F0%9F%8E%BC%F0%9F%8D%B3%F0%9F%8C%B9/next">Next site →</a></p>
-		</div>
-		<hr>
 		<nav aria-label="Footer navigation">
 			<ul>
 				<li><a href="https://themarkup.org/blacklight?location=eu&device=desktop&force=false&url=minutestomidnight.co.uk">No tracking</a></li>
 				<li><a href="#top">&uarr;&nbsp;Back to top</a></li>
 			</ul>
 		</nav>
-		<data class="p-org" value="Minutes to Midnight"></data>
-		<data class="p-note" value="{{ site.tagline }}"></data>
-		<data class="u-email" rel="me" value="mailto:{{ site.author.email }}"></data>
-		<data rel="me" value="https://sonomu.club/@m2m"></data>
-		<data rel="me" value="https://minutestomidnight.bandcamp.com/"></data>
-		<data rel="me" value="https://www.youtube.com/@m2m"></data>
-		<data rel="me" value="https://www.linkedin.com/in/simonesilvestroni/"></data>
 	</footer>
 </body>
 </html>

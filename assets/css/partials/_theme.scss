@@ -192,13 +192,11 @@
 	// h-card
 	// ------------------------------------
 	// h-card in homepage
-	body.homepage .h-card {
-		.p-author img {
-			width: calc(5rem + 20vw);
-			margin: 5rem auto 0 auto;
-			border-radius: .5rem;
-			transform: rotateZ(357deg);
-		}
+	body.homepage .avatar {
+		width: calc(5rem + 20vw);
+		margin: 5rem auto 0 auto;
+		border-radius: .5rem;
+		transform: rotateZ(357deg);
 	}
 	// h-card in blog posts
 	body.post {

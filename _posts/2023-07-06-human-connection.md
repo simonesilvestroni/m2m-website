@@ -6,10 +6,6 @@ tags:
   - 'internet'
   - 'personal'
 summary: 'Taking time off my day to reach out to strangers who were kind to me on the internet.'
-syndication: true
-syndicate:
-  - name: IndieNews
-    url: https://news.indieweb.org/en
 ---
 Ever since I ditched web statistics platforms, I proved to myself that all I really care for is connecting with others, at their pace, in anonymity. For _genuine reasons_. I signed up to a free [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) account, even though I'm not interested in SEO. Apart from checking broken URLs and other fine-tuning, the section that I tend to go back to is _backlinks_. Among the vast amount of scrapers and spam, I've discovered several people who wrote posts inspired by something I'd published. The simple act of seeing strangers quoting a post of mine, or reviewing my music, and doing so from _their personal websites_ instead of some godforsaken comment section, was incredibly uplifting.
 

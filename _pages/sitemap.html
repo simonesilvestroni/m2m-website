@@ -11,7 +11,7 @@ permalink: /sitemap/
 {%- assign allpages = pages | concat: blogpage | sort: 'title' -%}
 <section>
   <h2 id="pages">Pages</h2>
-  <ul class="h-feed list-table">
+  <ul class="list-table">
     <li>
       <time class="dim small" datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%-d&nbsp;%b&nbsp;%Y" }}</time>
       <a href="{{ site.url }}">Homepage</a>

@@ -3,7 +3,6 @@
 ## About the website
 
 - Handcrafted by Simone Silvestroni using Jekyll 4.3.3, Liquid, and the M2M CSS framework.
-- Part of [IndieWeb](https://indiewebify.me/validate-h-card/?url=https%3A%2F%2Fminutestomidnight.co.uk), the site sends and receives [webmentions](https://indieweb.org/Webmention).
 - Logos and icons in SVG. "Dirt background" images by [Michael Rose](https://mademistakes.com/).
 - Hosted on [Mythic Beasts](https://www.mythic-beasts.com).
 

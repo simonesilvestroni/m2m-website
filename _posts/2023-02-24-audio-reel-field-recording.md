@@ -16,7 +16,7 @@ featimage-caption: Photo by Silvia Maggi
 featimage-width: 1024
 featimage-height: 683
 ---
-I finally re-started using my [Zoom H5](/uses/) for field recording. I've been quite consistently capturing several audio sources inside and outside the house. Here on the Lake Maggiore, there are several spots where to record interesting sounds. 
+I finally re-started using my Zoom H5 for field recording. I've been quite consistently capturing several audio sources inside and outside the house. Here on the Lake Maggiore, there are several spots where to record interesting sounds.
 
 I've been particularly enjoying experimenting with two mics, which coincidentally are also the cheapest in my rig. One is a [telephone pick-up coil mic](https://www.amazon.com/Telephone-Microphone-Suction-Cup-Pickup/dp/B0034I75IK) that I bought off Amazon last year for 3 dollars, the second is a [Korg contact microphone](https://www.korg.com/us/products/tuners/cm_300/) that's way cheaper than the usual suspects and is usually employed to tune instruments. The pick-up coil microphone is giving great satisfaction with its quirky unique way of capturing sounds that are completely inaudible to the human ear. Can't wait to post audio samples in the near future.
 

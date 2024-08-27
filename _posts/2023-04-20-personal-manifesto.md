@@ -12,12 +12,6 @@ tags:
   - 'sustainability'
   - 'walled gardens'
 summary: 'After ditching the concept of <em>personal brand</em>, here I go with a few principles I stand for. Is there a point in hiding behind a mask?'
-syndication: true
-syndicate:
-  - name: IndieNews
-    url: https://news.indieweb.org/en
-  - name: Mastodon
-    url: https://indieweb.social/@m2m/110231597126123151
 permalink: /personal-manifesto/
 ---
 Most of the following points are interconnected, glued together by an attention to *mental health*. Modern capitalism has made a point in exploiting stress and weakness to relentlessly extract money from people. I find it disgraceful, and my hope is that more folks will take decisive steps to safeguard their well-being.
@@ -74,7 +68,7 @@ As I have an old Intel-based Apple computer from 2015, I use [OpenCore Legacy Pa
 
 ## Right to repair
 
-Rather than buy the shiny new object, I prefer to [maintain and repair](https://en.wikipedia.org/wiki/Right_to_repair) hardware whenever possible. The vast majority of [my devices]({{ site.url }}/uses/), and music equipment, is 5-year-old or more. They work very well, and I don't plan to change the situation.
+Rather than buy the shiny new object, I prefer to [maintain and repair](https://en.wikipedia.org/wiki/Right_to_repair) hardware whenever possible. The vast majority of my devices, and music equipment, is 5-year-old or more. They work very well, and I don't plan to change the situation.
 
 ## I pay for what I use
 

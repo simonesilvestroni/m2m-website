@@ -9,7 +9,7 @@ permalink: /blog/favourites/
 {%- assign favposts = site.posts | where_exp:'post','post.tags contains "featured"' -%}
 <section>
   <h2 class="visually-hidden">List of my favourite posts</h2>
-  <ul class="h-feed list-table">
+  <ul class="list-table">
     {%- for post in favposts %}
     {%- if post -%}{% assign date = post.date %}
     {%- elsif page -%}{% assign date = page.date %}
