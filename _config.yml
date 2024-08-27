@@ -48,9 +48,9 @@ link:
 # -------------------
 # About
 # -------------------
-description: "My name is <a rel='me' class='u-url' href='/about/'><span class='p-name'>Simone Silvestroni</span></a>. A gen X with a straight to the point attitude, I use a mix of instinct and learning to juggle between art and technology. Based in Cambridge, I work in <a class='highlight' href='/sound-design/'>sound production</a> and <a class='highlight' href='/web-design/'>web design</a> under the moniker <em>Minutes to Midnight</em>."
-intro: "Based in Cambridge, I play bass and work as a <a href='/sound-design/'><mark>music producer</mark></a> under the moniker <em>Minutes to Midnight</em>."
-indepth: "My name is <a href='/about/'>Simone Silvestroni</a>. A gen X with a straight to the point attitude, I use a mix of instinct and learning to juggle between art and technology."
+description: "My name is Simone Silvestroni. A gen X with a straight to the point attitude, I use a mix of logic and creativity to juggle between art and technology. Based in Cambridge, I play bass and design sound under the moniker Minutes to Midnight."
+intro: "Based in Cambridge, I play bass and <a href='/sound-design/'>design sound</a> under the moniker <em>Minutes to Midnight</em>."
+indepth: "My name is <a href='/about/'>Simone Silvestroni</a>. A gen X with a straight to the point attitude, I use a mix of logic and creativity to juggle between art and technology."
 keywords:
   minutes to midnight,
   simone silvestroni,
@@ -94,7 +94,7 @@ sass:
 # -------------------
 # Feeds
 # -------------------
-posts_limit: 20  
+posts_limit: 20
 
 # -------------------
 # Jekyll defaults
@@ -125,14 +125,6 @@ defaults:
       type: "notes"
     values:
       layout: "note"
-
-# -------------------
-# Jekyll collections
-# -------------------
-collections:
-  notes:
-    output: true
-    permalink: /notes/:path/
 
 # -------------------
 # Jekyll archives

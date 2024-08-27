@@ -22,7 +22,7 @@ featimage-height: 384
 syndication: true
 syndicate:
   - name: IndieNews
-    url: https://news.indieweb.org/e
+    url: https://news.indieweb.org/en/
 ---
 ## Skills
 

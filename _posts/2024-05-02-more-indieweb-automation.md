@@ -13,9 +13,9 @@ syndicate:
   - name: IndieNews
     url: https://news.indieweb.org/en
 ---
-For a while now I've been using [notes]({{ site.url }}/notes/) to send Indieweb webmentions in the form of replies and likes. As these tend to be very short pieces, I thought again about how to bypass the annoying bits in the process of creating a note. When I experimented with Apple's Shortcuts to find ways to expedite my writing workflow, I discovered it can be a pretty powerful tool.
+For a while now I've been using notes to send Indieweb webmentions in the form of replies and likes. As these tend to be very short pieces, I thought again about how to bypass the annoying bits in the process of creating a note. When I experimented with Apple's Shortcuts to find ways to expedite my writing workflow, I discovered it can be a pretty powerful tool.
 
-Unlike regular posts, likes and replies only require an URL, a name, and in the case of replies also a bit of written content. Everything else can be inferred automatically (date, file name, creation of the file, tags). That's when I decided to make the creation of a webmention with Jekyll as fast as possible. What I've ended up with is an icon in the Dock that I can click whenever I'm ready to reply or like someone's post. The applet asks me for: 
+Unlike regular posts, likes and replies only require an URL, a name, and in the case of replies also a bit of written content. Everything else can be inferred automatically (date, file name, creation of the file, tags). That's when I decided to make the creation of a webmention with Jekyll as fast as possible. What I've ended up with is an icon in the Dock that I can click whenever I'm ready to reply or like someone's post. The applet asks me for:
 
 - the URL of the post I'm liking or replying to;
 - the name of the person that I'm mentioning;
