@@ -2,22 +2,22 @@
 layout: page
 title: 'Colophon'
 date: '2023-01-14 13:49:31'
-last_modified_at: '2024-04-26 18:19:55'
+last_modified_at: '2024-08-28 22:02:22'
 summary: 'All about the website, with notes about accessibility, sustainability, privacy, copyright, and trademark.'
 permalink: /colophon/
 ---
 <section>
 	<h2 id="about-the-website">About the website</h2>
 	<ul class="list-hr-group">
-		<li><a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fminutestomidnight.co.uk%2F">Valid</a> HTML tagged with <a href="https://microformats.org/">microformats2</a>.</li>
-		<li><a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fminutestomidnight.co.uk%2Fassets%2Fcss%2Fm2m.css&profile=css3svg&usermedium=screen&warning=no&vextwarning=&lang=en">Valid CSS level 3</a>.</li>
+		<li><a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fminutestomidnight.co.uk%2F">Valid HTML</a>, and <a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fminutestomidnight.co.uk%2Fassets%2Fcss%2Fm2m.css&profile=css3svg&usermedium=screen&warning=no&vextwarning=&lang=en">Valid CSS level 3</a>.</li>
 		<li>Logos and icons in SVG. "Dirt background" images by <a href="https://mademistakes.com/">Michael Rose</a>.</li>
 		<li>Latest deploy: <code>{{ site.time | date: "%-d %B %Y, at %H:%M" }}</code>.</li>
 	</ul>
 	<h2>To do</h2>
 	<ul class="list-hr-group">
-		<li><del>Remove all third-party dependencies.</del></li>
+		<li><del>Remove Javascript and third-party dependencies.</del></li>
 		<li><del>Delete unused images.</del></li>
+		<li><del>Strip away webmentions and microformats.</del></li>
 		<li>Print CSS.</li>
 		<li>Add an accessibility statement (<a href="https://toddl.dev/a11y">example</a>).</li>
 		<li>Add note that I adhere to the <a href="https://www.sustainablewebmanifesto.com/">sustainability manifesto</a>.</li>
@@ -41,7 +41,8 @@ permalink: /colophon/
 </section>
 <section>
 	<h2 id="copyright">Copyright</h2>
-	<p>&copy; 2002-{{ site.time | date: "%Y"}} {{ site.author.name }}, all rights reserved. However, blog posts are licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 license</a>, so the written content can be used, including commercially, provided that a proper attribution to me is given, including a link to <code>minutestomidnight.co.uk</code>. Photography &copy; <a href="https://silviamaggidesign.com">Silvia Maggi</a>, all rights reserved.</p>
+	<p>&copy; 2002-{{ site.time | date: "%Y"}} {{ site.author.name }}, all rights reserved. However, blog posts are licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 license</a>, so the written content can be used, including commercially, provided that a proper attribution to me is given, including a link to <code>minutestomidnight.co.uk</code>.</p>
+	<p>Photography &copy; <a href="https://silviamaggidesign.com">Silvia Maggi</a>, all rights reserved.</p>
 </section>
 <section>
 	<h2 id="trademark">Trademark</h2>

@@ -1,48 +1,39 @@
 - name: Ye Olde Blogroll
   url: https://blogroll.org/
   desc: "A humanly curated list of fine personal & independent blogs that are updated regularly. <em>No algorithms ever</em>. Managed by Raymond Hines."
-- name: Ooh Directory
-  url: https://ooh.directory/
-  desc: "A collection of sites, bigger than a personal list of favourites, which feature an RSS feed and are updated often. Managed by Phil Gyford."
-- name: Search My Site
-  url: https://searchmysite.net/
-  desc: "A niche search, focussing on the 'indieweb' or 'small web' or 'digital gardens', i.e. non-commercial content, primarily personal and independent websites. It features a sortable RSS feed of the latest posts. Created by Michael Lewis."
 - name: Silvia Maggi
   url: https://silviamaggidesign.com
-  desc: "Web designer focused on usability, accessibility and information architecture. An expert in HTML, CSS and designing using web standards since 2004, she curates the inspiration series <em>Design, Digested</em>. Photography is her life-long passion. Her newsletter can also be followed via RSS."
+  desc: "Web designer focused on usability, accessibility and information architecture. An expert in designing using web standards since 2004, she curates the inspiration series <em>Design, Digested</em>. Photography is her life-long passion."
 - name: Imogen
   url: https://write.as/imgn/
   desc: "She’s a scientist, songwriter and storyteller interested in data privacy, decentralized communication and free open source software. I followed Imogen on Mastodon because of her majestic taste in music and ended up finding a human connection with a kindred spirit."
-- name: Bradley Taunt
-  url: https://bt.ht/
-  desc: "Works as a user interface and experience designer and also dabble in open source projects. Writes about macOS, design, CSS, web development, digital privacy, Linux."
 - name: Luke Harris
   url: https://www.lkhrs.com
   desc: "Web designer specializing in WordPress, Webflow, and static site generators. He lives and works remotely in Corpus Christi, Texas. Except for geolocation, I have a ton in common with Luke."
 - name: Wouter Groeneveld
   url: https://brainbaking.com/
-  desc: "He's many things, a teacher, researcher, programmer and bread baker. I love Wouter's way of thinking about the web and programming in general, plus he's the source of inspiration for a few functionality added to my websites. One of the very few I've been exchanging webmentions with."
+  desc: "He's many things, a teacher, researcher, programmer and bread baker. I love Wouter's way of thinking about the web and programming in general, plus he's the source of inspiration for a few functionality added to my websites."
 - name: Raymond Hines
   url: https://alongtheray.com
-  desc: "A lifelong entrepreneur who began a nomadic life on the road in 2016. He's been living in a tiny camper ever since. In his inspiring blog he shares the literal and figurative journey in all manner of ways: the highs, lows, introspectives, poetry, photographs, and more."
+  desc: "A lifelong entrepreneur who lives a nomadic life in a tiny camper since 2016. In his inspiring blog he shares the literal and figurative journey in all manner of ways: the highs, lows, introspectives, poetry, photographs, and more."
 - name: Ali Reza Hayati
-  url: https://web.archive.org/web/20231223023152/https://alirezahayati.com/
+  url: https://alirezahayati.com/
   desc: "An entrepreneur, hacker, cypherpunk, and user freedom activist working to spread the use of strong cryptography and privacy-enhancing free technologies to help people take full control over what they own. I share a lot with Ali, and love his gentle irony."
 - name: Tommaso Marmo
   url: https://tommi.space/zibenglish
-  desc: "An enthusiastic philosophy, international studies and economics student currently living in Berlin. He does many things. His website perfectly conveys the feeling of the weird and open exciting web of the 1990s."
+  desc: "An enthusiastic philosophy, international studies and economics student. He does many things. His website perfectly conveys the feeling of the weird and open exciting web of the 1990s."
 - name: Jan Boddez
   url: https://jan.boddez.net/
   desc: "Jan is a mechanical engineer, amateur guitarist, and web standards, WordPress and Laravel enthusiast from Belgium. By following him on Mastodon, I can appreciate his thorough, empathetic and gentle approach to all things, not just tech-related."
 - name: Zinzy Waleson Geene
   url: https://www.zinzy.website
-  desc: "She works at the intersection of research, design, language, and strategy. At her current job she's taking an interdisciplinary approach to sustainable educational data. I love the content on her website and the fact she's not afraid to experiment with brutalist design, which I'm very fond of."
+  desc: "She works at the intersection of research, design, language, and strategy. I love the content on her website and the fact she's not afraid to experiment with brutalist design, which I'm very fond of."
 - name: Matthew Graybosch
-  url: https://old.starbreaker.org/
-  desc: "Author of the novels <em>Without Bloodshed</em> and <em>Silent Clarion</em>, he has a day job as a software developer. Not afraid to tell things by their name, he runs his personal website with the same directness. I devoured his posts, like a book that’s impossible to put down."
+  url: https://starbreaker.org/
+  desc: "Author of the novels <em>Without Bloodshed</em> and <em>Silent Clarion</em>, he has a day job as a software developer. Not afraid to tell things by their name, he runs his personal website with the same directness. I devour his posts, like a book that’s impossible to put down."
 - name: Steven Hoefer
   url: https://readsteven.com
-  desc: "He makes things with his imagination and his hands. When writing doesn’t engage his hands enough he invents whimsical gadgets, and shares them with the world. Author of <em>The Embassy</em> Series, an ongoing series of sci-fi novels. I'm procrastinating with Steven's books, but I love his short novella <em>Ascension Day</em>."
+  desc: "He makes things with his imagination and his hands. When writing doesn’t engage his hands enough he invents whimsical gadgets. Author of <em>The Embassy</em> Series, an ongoing series of sci-fi novels."
 - name: Alison Wilder
   url: https://alisonwilder.net/
   desc: "Music obsessive with a wild passion for beautiful and efficient systems. Advocates for human-scale thinking & design. I'm in love with how she's able to bend the tone of her voice to the needs of the music she writes."
@@ -60,7 +51,7 @@
   desc: "I’ve found about Garrit a while ago, back when I was researching the indieweb, and never stopped following his RSS feed. We share several habits, including our common love for taking notes on small pocket-sized notepads. I like his weird lists a lot, such as life goals and impossible tasks."
 - name: Mike Haynes
   url: https://crashthearcade.com/
-  desc: "A fellow introverted, Mike is another find from the Fediverse. I love his website, the simple and minimalistic yet detailed good design, the immediate access to information, the cool idea of an 'ephemeral' photo gallery that's not related to what people consider online images nowadays."
+  desc: "A fellow introverted, I love Mike's website, the simple and minimalistic yet detailed good design, the cool idea of an 'ephemeral' photo gallery that's not related to what people consider online images nowadays."
 - name: Leon Paternoster
   url: https://www.thisdaysportion.com/
   desc: "<em>This day’s portion</em> is Leon’s personal blog, and also his experimental playfield in terms of web design. I can load the site once a day and have a good chance of seeing some meaningful change. Beside liking his takes on what he writes about, I’m in love with his fine taste for minimalism and a good balanced typography."
