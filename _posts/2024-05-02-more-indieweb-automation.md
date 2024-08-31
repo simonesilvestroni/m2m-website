@@ -4,6 +4,7 @@ date: '2024-05-02 20:17:38'
 last_modified_at: '2024-05-02 20:17:40'
 tags:
   - 'workflow'
+  - 'indieweb'
   - 'internet'
   - 'software'
   - 'web development'
