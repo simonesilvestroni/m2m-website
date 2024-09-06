@@ -21,11 +21,11 @@ layout: default
 	{%- endif %}
 	{{ content }}
 	<footer>
+		<p>Comments? <a href="mailto:{{ site.author.email }}?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a>.</p>
 		<ul class="taxonomy">
 			{%- for tag in page.tags %}
 			<li><a href="/blog/tag/{{ tag | slugify | append: '/' }}"><span>{{ tag | upcase }}</span></a>{% endfor -%}</li>
 		</ul>
-		<p class="reply"><a href="mailto:{{ site.author.email }}?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a></p>
 	</footer>
 </article>
 <div class="pagination">
