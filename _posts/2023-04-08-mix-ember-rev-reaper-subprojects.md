@@ -3,16 +3,21 @@ title: 'Mix: ‘In Super-8’ by Ember Rev'
 date: '2023-03-17 12:38:53'
 last_modified_at: '2023-04-08 14:50:44'
 tags:
-  - 'indie artist'
   - 'mix'
-  - 'music'
   - 'music production'
-  - 'music release'
   - 'reaper'
+  - 'indie artist'
+  - 'music'
+  - 'music release'
   - 'software'
   - 'uk'
   - 'sound project'
 summary: 'How I mixed a rework of Ember Rev’s debut album, exploiting the subproject functionality in REAPER to save time and processing power.'
+featimage: true
+featimage-name: 'feat-in-super-8.webp'
+featimage-alt: Cover for album 'In Super-8'
+featimage-width: 1000
+featimage-height: 1000
 ---
 {% include bandcamp.liquid size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=2164587015/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://emberrev.bandcamp.com/album/in-super-8">In Super-8 by Ember Rev</a></iframe>' %}
 

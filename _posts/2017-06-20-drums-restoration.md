@@ -13,7 +13,7 @@ tags:
   - 'sound project'
 summary: 'Painstakingly removing an insidious noise from a multi-track recording, plus various techniques for drum replacing and drum doubling.'
 featimage: true
-featimage-name: 'drums-restoration.jpg'
+featimage-name: 'feat-drums-restoration.webp'
 featimage-alt: Arlen Millwall on drums
 featimage-caption: Arlen Millwall, who played drums with Callum Gardner
 featimage-width: 720

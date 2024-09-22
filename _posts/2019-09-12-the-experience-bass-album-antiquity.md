@@ -3,14 +3,19 @@ title: 'Bass: ‘The Experience’ by Antiquity'
 date: '2019-09-12'
 last_modified_at: '2023-05-23 18:19:01'
 tags:
-  - 'indie artist'
-  - 'bandcamp'
   - 'bass'
   - 'indie artist'
+  - 'logic pro'
+  - 'bandcamp'
   - 'music release'
   - 'usa'
   - 'sound project'
 summary: "<em>The Experience</em> is the new concept album by Antiquity. Vocals by Dan Ecclestone, bass by Minutes to Midnight."
+featimage: true
+featimage-name: 'feat-the-experience.webp'
+featimage-alt: Cover for the album 'The Experience'
+featimage-width: 1000
+featimage-height: 1000
 ---
 {% include bandcamp.liquid size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3153550265/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/album/the-experience-the-album">The Experience (The Album) by Antiquity</a></iframe>' %}
 

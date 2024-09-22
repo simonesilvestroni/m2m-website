@@ -2,7 +2,7 @@
 title: 'Sound design: editing vocals'
 date: '2019-11-25'
 last_modified_at: '2022-01-27 12:39:54'
-tags: 
+tags:
   - 'audio editing'
   - 'indie artist'
   - 'mix'
@@ -14,11 +14,11 @@ tags:
   - 'sound project'
 summary: "I transplanted a vocal performance from one song to a different one by manipulating pitch, formants and tempo. Plus, cleaning up historical speeches."
 featimage: true
-featimage-name: 'vocal-editing.jpg'
+featimage-name: 'feat-vocal-editing.webp'
 featimage-alt: Rachel Goodman singing
 featimage-caption: Rachel Goodman, who performed on my debut album
-featimage-width: 720
-featimage-height: 720
+featimage-width: 1000
+featimage-height: 1000
 ---
 ## Vocal transformation
 

@@ -3,16 +3,21 @@ title: 'Production: ‘Hang Loose’ by Callum Gardner'
 date: '2018-04-19'
 last_modified_at: '2023-05-23 17:43:23'
 tags:
-  - 'bandcamp'
+  - 'mix'
+  - 'music production'
   - 'bass'
+  - 'bandcamp'
   - 'indie artist'
   - 'sound project'
   - 'master'
-  - 'mix'
-  - 'music production'
   - 'music release'
   - 'uk'
 summary: 'Bass and full production for London-based singer-songwriter Callum Gardner’s new single, ‘Hang Loose’.'
+featimage: true
+featimage-name: 'feat-hang-loose.webp'
+featimage-alt: Cover for the song 'Hang Loose'
+featimage-width: 1000
+featimage-height: 1000
 ---
 {% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1148436830/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://callumgardner.bandcamp.com/track/hang-loose">Hang Loose by Callum Gardner</a></iframe>' %}
 

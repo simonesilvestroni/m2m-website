@@ -2,7 +2,7 @@
 title: "Production: ‘Commit To The List’ by Callum Gardner"
 date: '2017-05-15'
 last_modified_at: '2021-11-14 20:43:08'
-tags: 
+tags:
   - 'bass'
   - 'indie artist'
   - 'master'
@@ -13,14 +13,14 @@ tags:
   - 'sound project'
 summary: "Meeting Callum Gardner fired up a long-term collaboration that started with producing, mixing and mastering his debut single."
 featimage: true
-featimage-name: 'producing-commit-to-the-list-by-callum-gardner.jpg'
-featimage-alt: Cover for the single Commit to the List
-featimage-width: 720
-featimage-height: 720
+featimage-name: 'feat-commit-to-the-list.webp'
+featimage-alt: Cover for the single 'Commit to the List'
+featimage-width: 1000
+featimage-height: 1000
 ---
 ## Backstory
 
-A few years ago I got in touch with [Ciara Clifford](https://open.spotify.com/artist/6y4HZjrBa7CMWVdyIkV5RQ), who was looking for a new bassist to play in a trio. Unfortunately, my schedule was incompatible with the required effort, but I went to her next live gig at the _Nambucca_. Besides being finally able to meet Ciara and also see [Joe Meek’s former studio](https://en.wikipedia.org/wiki/Joe_Meek) in Holloway Road, there was one further highlight that evening. 
+A few years ago I got in touch with [Ciara Clifford](https://open.spotify.com/artist/6y4HZjrBa7CMWVdyIkV5RQ), who was looking for a new bassist to play in a trio. Unfortunately, my schedule was incompatible with the required effort, but I went to her next live gig at the _Nambucca_. Besides being finally able to meet Ciara and also see [Joe Meek’s former studio](https://en.wikipedia.org/wiki/Joe_Meek) in Holloway Road, there was one further highlight that evening.
 
 The opening act was a young singer-songwriter playing an acoustic solo set, [Callum Gardner](https://callumgardnerofficial.com/). Captivated by his performance, I went to congratulate him, taking note of his online presence to follow the progress.
 

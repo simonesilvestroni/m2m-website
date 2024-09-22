@@ -3,15 +3,20 @@ title: 'Production: ‘Eclipse’ by Method Sinik'
 date: '2019-03-28'
 last_modified_at: '2021-11-14 17:44:39'
 tags:
+  - 'music production'
+  - 'master'
   - 'bass'
   - 'indie artist'
   - 'italy'
-  - 'master'
-  - 'music production'
   - 'mix'
   - 'music release'
   - 'sound project'
 summary: 'I snapped out of my comfort zone to help the promising young artist Method Sinik with the production of his recent EP.'
+featimage: true
+featimage-name: 'feat-eclipse-method-sinik.webp'
+featimage-alt: Cover for the album 'All Work and No Play Makes Jack a Dull Boy'
+featimage-width: 1000
+featimage-height: 1000
 ---
 <video controls src="{{ site.url }}/assets/videos/eclipse-method-sinik.mp4"
   poster="{{ site.url }}/assets/videos/eclipse-method-sinik.jpg"

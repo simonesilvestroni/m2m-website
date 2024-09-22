@@ -1,17 +1,21 @@
 ---
-title: 'Production: ‘Eclipse’ by Antiquity'
+title: 'Production: ‘The Eclipse’ by Antiquity'
 date: '2021-07-03'
 last_modified_at: '2023-05-23 11:21:37'
 tags:
+  - 'music production'
+  - 'reaper'
   - 'indie artist'
   - 'bandcamp'
-  - 'indie artist'
-  - 'music production'
   - 'music release'
-  - 'reaper'
   - 'usa'
   - 'sound project'
-summary: '<em>Eclipse</em> is a new single released by Antiquity, co-produced by Minutes to Midnight.'
+summary: '<em>The Eclipse</em> is a new single released by Antiquity, co-produced by Minutes to Midnight.'
+featimage: true
+featimage-name: 'feat-the-eclipse.webp'
+featimage-alt: Cover for the song 'The Eclipse'
+featimage-width: 1000
+featimage-height: 1000
 ---
 {% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2746368137/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/the-eclipse">The Eclipse by Antiquity</a></iframe>' %}
 

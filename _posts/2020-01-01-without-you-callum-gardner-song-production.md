@@ -3,16 +3,21 @@ title: 'Production: ‘Without You’ by Callum Gardner'
 date: '2020-01-01'
 last_modified_at: '2023-05-23 16:55:46'
 tags:
-  - 'bandcamp'
-  - 'bass'
-  - 'indie artist'
-  - 'master'
   - 'mix'
   - 'music production'
+  - 'bass'
+  - 'bandcamp'
+  - 'indie artist'
+  - 'master'
   - 'music release'
   - 'uk'
   - 'sound project'
 summary: "Singer-songwriter Callum Gardner’s new single, ‘Without You’, is out now. Bass and full production by Minutes to Midnight."
+featimage: true
+featimage-name: 'feat-without-you.webp'
+featimage-alt: Cover for the song 'Without You'
+featimage-width: 1000
+featimage-height: 1000
 ---
 Like the previous singles, [_Hang Loose_](/blog/hang-loose-callum-gardner-song-production/) and [_Wriggle A Little_]({{ site.url }}/blog/callum-gardner-wriggle-a-little/), I recorded and produced the single using Logic Pro, along with playing my Fender Jazz [fretless bass](https://soundbetter.com/profiles/206552-simone-silvestroni).
 

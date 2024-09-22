@@ -16,7 +16,7 @@ tags:
   - 'sound project'
 summary: "As the audio team leader, I created and implemented sound effects and an adaptive soundtrack, bootstrapping the audio for the PlayStation2 video game <em>Ruff Trigger: The Vanocore Conspiracy</em>."
 featimage: true
-featimage-name: 'ruff-trigger-playstation2-video-game.jpg'
+featimage-name: 'feat-ruff-trigger-playstation2-video-game.webp'
 featimage-alt: Ruff Trigger game cover
 featimage-width: 720
 featimage-height: 720
@@ -179,7 +179,7 @@ Mixes went through the Yamaha digital mixer, to be bounced on a Sony <abbr title
 - Emagic Logic Platinum 5
 - Steinberg Cubase VST 4
 - Sonic Foundry Acid Pro
-  
+
 ### Audio and video editors
 
 - [BIAS Peak](https://www.soundonsound.com/reviews/bias-peak-pro-6-xt)

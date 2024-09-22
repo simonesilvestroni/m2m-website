@@ -15,7 +15,12 @@ tags:
   - 'pro tools'
   - 'remix'
   - 'sound project'
-summary: "A friend asked me to remix one of his songs. I co-produced, mixed and mastered ‘Non sai chi sono’."
+summary: "A friend asked me to remix one of his songs. I co-produced, mixed and mastered 'Non sai chi sono'."
+featimage: true
+featimage-name: 'feat-non-sai-chi-sono.webp'
+featimage-alt: Cover for the single 'Non sai chi sono'
+featimage-width: 1000
+featimage-height: 1000
 ---
 {% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2164870187/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://minutestomidnight.bandcamp.com/track/non-sai-chi-sono-remix">Non sai chi sono (remix) by Minutes to Midnight</a></iframe>' %}
 

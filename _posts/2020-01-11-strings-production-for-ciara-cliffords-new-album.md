@@ -3,12 +3,18 @@ title: 'Strings production: Ciara Clifford'
 date: '2020-01-11'
 last_modified_at: '2023-05-23 12:03:27'
 tags:
-  - 'indie artist'
   - 'music production'
+  - 'indie artist'
+  - 'reason'
   - 'software'
   - 'uk'
   - 'sound project'
 summary: 'I recorded and co-produced strings arrangements for Clifford’s eponymous debut album, in collaboration with Paolo Clementi.'
+featimage: true
+featimage-name: 'feat-ciara-clifford.webp'
+featimage-alt: Cover for the eponymous album 'Ciara Clifford'
+featimage-width: 1000
+featimage-height: 1000
 ---
 ## Production notes
 

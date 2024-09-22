@@ -3,15 +3,19 @@ title: 'Production: ‘Funky Bacterium’ by Antiquity'
 date: '2021-07-02'
 last_modified_at: '2023-05-23 16:38:08'
 tags:
+  - 'music production'
+  - 'reaper'
   - 'indie artist'
   - 'bandcamp'
-  - 'indie artist'
-  - 'music production'
   - 'music release'
-  - 'reaper'
   - 'usa'
   - 'sound project'
 summary: 'Written during the pandemic, this song is about the madness of the times. Loud, in your face, at a 100mph.'
+featimage: true
+featimage-name: 'feat-funky-bacterium.webp'
+featimage-alt: Cover for the song 'Funky Bacterium'
+featimage-width: 1000
+featimage-height: 1000
 ---
 {% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=4262932484/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/funky-bacterium">Funky Bacterium by Antiquity</a></iframe>' %}
 

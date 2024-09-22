@@ -2,17 +2,23 @@
 title: 'Production and mix: ‘Premonition And Ruin’ by Ember Rev'
 date: '2018-09-12'
 last_modified_at: '2021-12-07 17:00:42'
-tags: 
+tags:
+  - 'mix'
+  - 'music production'
+  - 'logic pro'
+  - 'indie artist'
   - 'audio editing'
   - 'bandcamp'
-  - 'indie artist'
-  - 'mix'
   - 'music'
-  - 'music production'
   - 'music release'
   - 'uk'
   - 'sound project'
 summary: "A concept album around a lament for the European ideal. I mixed and co-produced working with songwriter Dan Ecclestone."
+featimage: true
+featimage-name: 'feat-premonition-and-ruin.webp'
+featimage-alt: Cover for the album 'Premonition and Ruin'
+featimage-width: 1000
+featimage-height: 1000
 ---
 {% include bandcamp.liquid size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=4041862783/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://emberrev.bandcamp.com/album/premonition-and-ruin">Premonition and Ruin by Ember Rev</a></iframe>' %}
 

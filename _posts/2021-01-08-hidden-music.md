@@ -2,18 +2,23 @@
 title: 'Mix: ‘Hidden Music’ by Dan Ecclestone'
 date: '2021-01-08'
 last_modified_at: '2023-03-02 21:43:15'
-tags: 
+tags:
+  - 'mix'
+  - 'music production'
+  - 'reaper'
   - 'bandcamp'
   - 'audio editing'
   - 'indie artist'
-  - 'mix'
-  - 'music production'
   - 'music release'
-  - 'reaper'
   - 'software'
   - 'uk'
   - 'sound project'
 summary: "A delicate piano-centric album, ‘Hidden Music’ is another successful collaboration with multi-instrumentalist Dan Ecclestone."
+featimage: true
+featimage-name: 'feat-hidden-music.webp'
+featimage-alt: Cover for the album 'Hidden Music'
+featimage-width: 1000
+featimage-height: 1000
 ---
 {% include bandcamp.liquid size="bc-album" iframecode='<iframe style="border: 0; width: 100%; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=3656047790/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"><a href="https://danecclestone.bandcamp.com/album/hidden-music">Hidden Music by Dan Ecclestone</a></iframe>' %}
 

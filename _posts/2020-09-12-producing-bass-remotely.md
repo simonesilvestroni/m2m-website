@@ -3,21 +3,26 @@ title: 'Producing bass remotely'
 date: '2020-09-12'
 last_modified_at: '2021-12-07 17:00:42'
 tags:
-  - 'bandcamp'
-  - 'bass'
   - 'audio editing'
+  - 'bass'
+  - 'pro tools'
+  - 'bandcamp'
   - 'featured'
   - 'master'
   - 'mix'
   - 'music production'
   - 'music release'
-  - 'pro tools'
   - 'recording'
   - 'sound project'
   - 'workflow'
 summary: "An in-depth analysis of the process I go through to produce an effective bass track, from tracking to delivery. Based on a real-life scenario."
 canonical: 'https://unlockyoursound.com/producing-bass-tracks-remotely/'
 sitemap: false
+featimage: true
+featimage-name: 'feat-producing-bass-remotely.webp'
+featimage-alt: Photo of a bass player in studio while recording a track
+featimage-width: 1000
+featimage-height: 1000
 ---
 {% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2478609134/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/the-far-side-of-the-sun">The Far Side Of The Sun by Antiquity</a></iframe>' %}
 

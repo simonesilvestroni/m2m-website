@@ -3,14 +3,19 @@ title: "Bass: ‘Shallow Grave’ by Antiquity"
 date: '2019-01-18'
 last_modified_at: '2021-11-14 20:35:27'
 tags:
-  - 'indie artist'
-  - 'bandcamp'
   - 'bass'
   - 'indie artist'
+  - 'logic pro'
+  - 'bandcamp'
   - 'music release'
   - 'usa'
   - 'sound project'
 summary: "Second collaboration with Gerald Duchene and his project Antiquity. I recorded a bass track for this beautiful song."
+featimage: true
+featimage-name: 'feat-shallow-grave.webp'
+featimage-alt: Cover for the song 'Shallow Grave'
+featimage-width: 1000
+featimage-height: 1000
 ---
 {% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1048816351/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://sessions.antiquity-music.com/track/shallow-grave">Shallow Grave by Antiquity</a></iframe>' %}
 

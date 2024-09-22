@@ -1,6 +1,6 @@
 <li>
 	<h4>{{ post.title }}</h4>
-	<img src="{{ site.url }}/assets/images/{{ post.featimage-name }}" alt="{{ post.featimage-alt }}">
+	<img src="{{ site.url }}/assets/images/thumb-{{ post.featimage-name }}" alt="{{ post.featimage-alt }}" width='600' height='600'>
 	<div>
 		{%- for tag in post.tags limit:3 %}
 		<span>{{ tag }}</span>

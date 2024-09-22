@@ -616,6 +616,22 @@
 	}
 
 	// ------------------------------------
+	// Accordion
+	// ------------------------------------
+	details {
+		padding: 1.5rem;
+		border: 4px solid $colour-highlight;
+	}
+	details[open] {
+		padding: 1.5rem;
+		background-color: $colour-highlight;
+	}
+	details[open] > p,
+	details[open] > ul {
+		margin-block-start: 1rem;
+	}
+
+	// ------------------------------------
 	// Last update
 	// ------------------------------------
 	.last-update {

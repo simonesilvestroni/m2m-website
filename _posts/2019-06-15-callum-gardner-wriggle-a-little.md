@@ -3,22 +3,27 @@ title: 'Production: ‘Wriggle a Little’ by Callum Gardner'
 date: '2019-06-15'
 last_modified_at: '2021-11-14 17:44:39'
 tags:
-  - 'bandcamp'
-  - 'bass'
-  - 'indie artist'
-  - 'master'
   - 'mix'
   - 'music production'
+  - 'bass'
+  - 'bandcamp'
+  - 'indie artist'
+  - 'master'
   - 'music release'
   - 'uk'
   - 'sound project'
 summary: 'I produced and played a mean bass in Gardner’s new single, <em>Wriggle A Little</em>, which featured an epic guitar solo.'
+featimage: true
+featimage-name: 'feat-wriggle-a-little.webp'
+featimage-alt: Cover for the song 'Wriggle a Little'
+featimage-width: 1000
+featimage-height: 1000
 ---
 {% include bandcamp.liquid size="bc-single" iframecode='<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1398022832/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"><a href="https://callumgardner.bandcamp.com/track/wriggle-a-little">Wriggle a Little by Callum Gardner</a></iframe>' %}
 
 ## Producing ‘Wriggle a Little’
 
-I went to the band’s HQ, an old police station in Central London, to record the electric guitars. Using my Focusrite-based mobile rig, I tracked Hugh’s sound using multiple sources, including a lovely XY stereo capture of the large room. 
+I went to the band’s HQ, an old police station in Central London, to record the electric guitars. Using my Focusrite-based mobile rig, I tracked Hugh’s sound using multiple sources, including a lovely XY stereo capture of the large room.
 
 Comping his fantastic solo on the fly allowed me to feel how each take was better than the previous one. The rest of the production, except for the drums, was completed at my Garden Room studio, in Cambridge.
 
