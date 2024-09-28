@@ -1,5 +1,5 @@
-.jekyll-cache/
-.jekyll-metadata
+src/.jekyll-cache/
+src/.jekyll-metadata
+src/Gemfile.lock
 .DS_Store
-Gemfile.lock
 site/
