@@ -13,7 +13,5 @@ include: ["_pages", ".htaccess", ".well-known"]
 # Exclusions
 # -------------------
 exclude:
-  - /.sublime/
   - /assets/css/partials/
   - /assets/css/m2m.css.map
-  - README.md
