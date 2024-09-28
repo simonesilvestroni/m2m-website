@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en-GB" dir="ltr" itemscope itemtype="http://schema.org/WebPage">
+<head>
+	<title>Minutes to Midnight - Automation for my static blog publishing workflow</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex, nofollow, noai, noimageai">
+	<!-- minimal open graph implementation -->
+	<meta content="Automation for my static blog publishing workflow" property="og:title">
+	<meta content="Advanced content management in a Jekyll-based static blog, using automation on macOS." name="description" property="og:description">
+	<meta content="/assets/images/m2m-og-image.png" property="og:image">
+	<meta content="/assets/images/m2m-og-image.png" name="twitter:card">
+	<!-- end open graph -->
+	<meta name="pinterest" content="nopin">
+	<link rel="preload" href="https://minutestomidnight.co.uk/assets/fonts/rubik-regular.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="stylesheet" href="https://minutestomidnight.co.uk/assets/css/m2m.css">
+	<link rel="icon" href="https://minutestomidnight.co.uk/favicon.ico" sizes="any">
+	<link rel="icon" href="https://minutestomidnight.co.uk/assets/images/favicons/favicon.svg" type="image/svg+xml">
+	<link rel="apple-touch-icon" href="https://minutestomidnight.co.uk/assets/images/favicons/apple-touch-icon.png" sizes="180x180">
+	<link rel="manifest" href="https://minutestomidnight.co.uk/assets/images/favicons/site.webmanifest">
+	<link rel="preview" href="https://minutestomidnight.co.uk/assets/images/m2m-og-image.png">
+	<link rel="canonical" href="https://minutestomidnight.co.uk/blog/automation-for-my-blog-publishing-workflow/">
+	<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "WebSite",
+		"name": "Minutes to Midnight",
+		"headline": "Web designer & music producer",
+		"url": "https://minutestomidnight.co.uk/blog/automation-for-my-blog-publishing-workflow/",
+		"description": "Advanced content management in a Jekyll-based static blog, using automation on macOS.",
+		"keywords": "minutes to midnight, simone silvestroni, sound design, bass, game audio, foley, field recording, music production, music composer, mix, master, reaper, pro tools, logic pro, web design, web development, web performance, web accessibility, web usability, front-end, ux, user experience, jekyll, wordpress, html, css",
+		"datePublished": "2022-05-10 00:00:00 +0100",
+		"dateModified": "2024-09-28T12:26:47+01:00",
+		"author": {
+			"@type": "Person",
+			"name": "Simone Silvestroni",
+			"givenName": "Simone",
+			"familyName": "Silvestroni"
+		},
+		"mainEntityOfPage": {
+			"@type": "WebPage",
+			"@id": "https://minutestomidnight.co.uk/blog/automation-for-my-blog-publishing-workflow/"
+		},
+		"image": {
+			"@type": "ImageObject",
+			"width": "500",
+			"height": "500",
+			"url": "https://minutestomidnight.co.uk/assets/images/m2m-og-image.png"
+		},
+		"sameAs": [
+			"https://github.com/simonesilvestroni",
+			"https://www.linkedin.com/in/simonesilvestroni",
+			"https://minutestomidnight.bandcamp.com",
+			"https://www.youtube.com/@m2m"
+		]
+	}
+	</script>
+</head>
+<body id="top" class="post automation-for-my-blog-publishing-workflow">
+	<div class="skip-links">
+		<a href="#main">Skip to content</a>
+		<a href="#footer">Skip to footer</a>
+	</div>
+	<header>
+		<a href="https://minutestomidnight.co.uk"><img src="https://minutestomidnight.co.uk/assets/images/m2m-nav-logo.svg" alt="Back to the homepage" width="32" height="32"></a>
+		<nav aria-label="Main navigation">
+			<ul>
+				<li><a href="/about/">About</a></li><li><a class="current" href="/blog/">Blog</a></li><li><a href="/contact/">Contact</a></li><li><a href="/feed.xml"><img class="logo-rss" src="/assets/images/rss.svg" alt="RSS" width="20" height="20"></a></li>
+			</ul>
+		</nav>
+	</header>
+	<main id="main">
+	<article class="h-entry">
+	<header>
+		<h1>Automation for my static blog publishing workflow</h1>
+	</header>
+	
+	<p class="highlight"><span>Advanced content management in a Jekyll-based static blog, using automation on macOS.</span></p>
+	
+	<div class="author">
+		<a href="https://minutestomidnight.co.uk/about/"><img src="https://minutestomidnight.co.uk/assets/images/minutes-to-midnight-portrait.jpg" alt="Simone Silvestroni" width="48" height="48"></a>&nbsp;&nbsp;<a href="https://minutestomidnight.co.uk/blog/automation-for-my-blog-publishing-workflow/" title="Permalink"><time datetime="2022-05-10T00:00:00+01:00" itemprop="dateCreated">10 May 2022</time></a>
+	</div>
+	<figure class="fullscreen">
+		<img src="https://minutestomidnight.co.uk/assets/images/automation-for-my-blog-publishing-workflow.jpg" alt="Screenshot of the macOS application Shortcuts showing automation routines" width="1024" height="739">
+	</figure>
+	<h2 id="skills">Skills</h2>
+
+<ul class="list-inline">
+  
+  <li><mark>Jekyll</mark></li>
+  
+  <li><mark>Markdown</mark></li>
+  
+  <li><mark>HTML</mark></li>
+  
+  <li><mark>CSS</mark></li>
+  
+  <li><mark>Bash</mark></li>
+  
+  <li><mark>macOS</mark></li>
+  
+  <li><mark>apple script</mark></li>
+  
+</ul>
+
+<h2 id="objectives">Objectives</h2>
+
+<p>After reading three articles about the frustrations of maintaining static web sites<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, I thought about the fact that to me Wordpress took away the pleasure of writing, while I don't see the debated complexity of static sites. However, it's true that I’ve been looking for ways to improve and speed up my publishing workflow. Potentially, I could end up clicking an icon or dragging a file onto a folder, and a few seconds later the post would be ready to be written.</p>
+
+<h2 id="approach">Approach</h2>
+
+<p>What are the most annoying parts of writing a new post with a static site generator? Arguably, the answer would be twofold: first, the <a href="https://jekyllrb.com/docs/front-matter/">front matter</a>, which is the YAML-based section at the top of each post; second, adding images. I have two ideas in mind: a relatively 'manual' solution, versus a fully automated one.</p>
+
+<h3 id="first-front-matter-content">First: front matter content</h3>
+
+<p>I aim to streamline the process of writing new posts, with a sort of <em>wizard</em> guiding me throughout compiling the repetitive bits until an editor appears, and I just have to write the content.</p>
+
+<h4 id="manual-approach">Manual approach</h4>
+
+<p>With <a href="https://www.sublimetext.com">Sublime Text</a> and the <a href="https://packagecontrol.io/packages/Jekyll">Jekyll package</a> installed, it's a matter of creating a simple template with a front matter section and some variables, setting up a key command to call the <code>&lt;New Post from template&gt;</code> command, and finally compile the required fields in a matter of seconds. My current <em>new Jekyll post</em> template in Sublime Text looks like this:</p>
+
+<pre><code class="language-yaml">---
+title: '$1'
+date: '$2'
+last_modified_at: '$3'
+tags:
+  - '$4'
+summary: '$5'
+---
+$6
+</code></pre>
+
+<p>When the template is waiting for my input, I write the post title, hit <kbd>tab</kbd>, invoke the Sublime command <code>Jekyll insert current datetime</code> to add a date in the correct format, repeat the same for <code>last_modified_at</code>, and then two more tabs to fill in tags and description. Basically, I'm six clicks away from writing a new post, which is fast enough for me.</p>
+
+<h4 id="automated-approach">Automated approach</h4>
+
+<p>At this point, I wanted to explore a more advanced method, exploiting macOS’ successor to <a href="https://support.apple.com/guide/automator/welcome/mac">Automator</a>, which I'm familiar with. Although it sometimes feels convoluted and buggy (early days?)<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>, with a sub-par <a href="https://support.apple.com/guide/shortcuts-mac/welcome/mac">documentation</a>, I managed to have a perfectly working automation process, that can be launched by either the Dock, as an application, or through Finder's contextual menu <em>Quick Actions</em>. The procedure to create a new blog post using Shortcuts indeed feels like compiling a wizard:</p>
+
+<p><img src="/assets/images/jekyll-automations-new-post.jpg" alt="Shortcuts app for creating a new Jekyll post" width="720" height="1296">
+<em>The full script</em></p>
+
+<p>To break it down:</p>
+
+<ol class="list-hr">
+  <li>A series of pop-ups ask for post title, post description, and a couple of tags (I can add more later if I need), setting variables for each input I type.</li>
+  <li>Runs a bash script which uses the variables passed as argument, and performs a few operations very quickly:
+    <ul>
+      <li>it creates a file in the correct <code>_posts/</code> folder, named after today’s date followed by the <code>title</code> variable, all converted to a web-friendly name;</li>
+      <li>adds the front matter section filled with previous variables;</li>
+      <li>opens the file in <a href="https://typora.io">Typora</a> where I can start writing my post, while at the same time a simple AppleScript opens Terminal in a minimized session, running the site in localhost (<code>post</code> is a bash alias to my Jekyll build command).</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="second-adding-images-to-a-post">Second: adding images to a post</h3>
+
+<p>I see three steps: a process to guarantee that the image is thoroughly optimised for the web (resize, remove metadata, etc); placing the image where the blog expects it to be, and finally the addition of a code snippet to the post. The first step is made of four stages:</p>
+
+<ul>
+  <li>Process the image so it’s web-safe and as lightweight as possible.</li>
+  <li>Rename it to a web-friendly format.</li>
+  <li>Move it to the correct folder, in my case <code>/assets/images/</code>.</li>
+  <li>Add the required code snippet in the page.</li>
+</ul>
+
+<h4 id="manual-approach-1">Manual approach</h4>
+
+<p>With <a href="https://www.alfredapp.com">Alfred</a> I can add pre-compiled <em>shortcodes</em> (Markdown or Liquid code snippets in this case) by typing an associated keyword. Once the image has been processed with an external software, and moved to the directory <code>/assets/images/</code>, I can type the key command to paste my desired shortcode, whether that be a <code>&lt;figure&gt;</code> tag, <code>&lt;picture&gt;</code>, or a simple <code>&lt;img&gt;</code>. To that, I'd need to manually add alt description, along with <code>width</code> and <code>height</code>. It's a slightly convoluted procedure, yet it's something I've been doing for a long time.</p>
+
+<h4 id="automated-approach-1">Automated approach</h4>
+
+<p>I aimed at having to simply drag and drop images onto a droplet, which would take care of optimising (size and removal of metadata), web-friendly renaming, moving to my assets folder. Finally, I would end up with a markdown code snippet ready to paste in a post, complete with any required info. So far, I have a Shortcuts automation in its infancy, trying to deal with the optimisation stage. It's not ready yet, but if I manage to reach the same level of compression/quality ratio as I manually do with my image editing software, I’ll make the full switch.</p>
+
+<p>I'm currently employing two Shortcut automations, because while I still want to apply a few steps to multiple images, my preference is to add one image at a time to a post. As an example, I have 3 pictures on my desktop, named with spaces and odd capitalizations:</p>
+
+<ul>
+  <li><code>evil CORP.png</code></li>
+  <li><code>FRIEND.jpg</code></li>
+  <li><code>fux socy.JPG</code></li>
+</ul>
+
+<p>I select them all, right-click and choose: <code>Quick Actions &gt; M2M process images</code>, which transforms file names into web-friendly versions, performs a conversion to <code>.webp</code> with a 85% quality factor, and finally moves everything to my assets folder. What I end up with is:</p>
+
+<ul>
+  <li><code>/assets/images/evil-corp.png</code></li>
+  <li><code>/assets/images/evil-corp.webp</code></li>
+  <li><code>/assets/images/friend.jpg</code></li>
+  <li><code>/assets/images/friend.webp</code></li>
+  <li><code>/assets/images/fux-socy.jpg</code></li>
+  <li><code>/assets/images/fux-socy.webp</code></li>
+</ul>
+
+<p><img src="/assets/images/jekyll-automations-process-images.jpg" alt="Shortcut automation for processing images to be used in a Jekyll post" width="821" height="2187">
+<em>Shortcut automation for processing images to be used in a Jekyll post</em></p>
+
+<p>The final action takes a selected image, fetches its <code>width</code> and <code>height</code> while asking for the alt description in a pop-up text prompt. The script collects the required information, stores it in variables used to compile the snippet of code and send it to the clipboard, ready to be pasted in the post.</p>
+
+<p><img src="/assets/images/jekyll-automations-insert-figure.jpg" alt="Shortcut automation for inserting an image in a Jekyll post" width="821" height="1046">
+<em>Shortcut automation for inserting an image in a Jekyll post</em></p>
+
+<p>By applying this second automation to one of the aforementioned example images, I end up with a buffered shortcode ready to be pasted in a blog post. In this case, a Jekyll module that passes parameters to the small block of code generating a <code>&lt;picture&gt;</code> element complete with the <code>.webp</code> image and its <code>.png</code> or <code>.jpg</code> fallbacks.</p>
+
+<pre><code class="language-html">{% include pattern-figure.html image="/assets/images/evil-corp.png" alt="this is the alt" caption="a caption here" width="1024" height="768" %}
+</code></pre>
+
+<h2 id="results">Results</h2>
+
+<p>All in all, the automated procedure is quick and efficient. Since I consider blogging a pure <em>desktop activity</em>, I'm not worried about writing on mobile devices. Plenty of markdown editors are available on iOS and Android, it would be pretty easy to start drafts on the go, and finalise them later as posts on the computer. As a quicker alternative, I can always go to my git repository, add or edit a post there, commit the changes and wait for Netlify to complete its automated build.</p>
+
+<p><a href="https://www.youtube.com/watch?v=K0AKv7aIxP8" class="cta"><strong>Watch an old video demo</strong> →</a></p>
+
+<h3 id="future-improvements">Future improvements</h3>
+
+<ul class="list-hr">
+  <li>Polish the <em>new post</em> shell script, for example by switching from <code>tr</code> to <code>sed</code><sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup>.</li>
+  <li>Handle the image resize and optimization within Shortcuts, maybe implementing <a href="https://css-tricks.com/converting-and-optimizing-images-from-the-command-line/">command line scripts to manipulate images</a>.</li>
+  <li>I'm not a fan of walled gardens, so I'd love to make the process cross-platform, using GNU make or similar alternatives.</li>
+</ul>
+
+<h4 id="footnotes">Footnotes</h4>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><a href="https://rusingh.com/why-bother-with-static-sites/"><em>Why Bother With Static Sites</em></a>, by Ru Singh; <a href="https://michaelharley.net/posts/2022/03/10/why-i-bother-with-static-sites/"><em>Why I Bother With Static Sites</em></a>, by Michael Harley; <a href="https://www.lkhrs.com/blog/2022/04/easier-static-site-publishing/"><em>Easier Static Site Publishing</em></a>, by Luke Harris. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Importing workflows from Automator to Shortcuts is somewhat hit-and-miss. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p><a href="https://en.wikipedia.org/wiki/Tr_(Unix)"><code>tr</code></a> is a Unix command: an abbreviation of <em>translate</em> or <em>transliterate</em>, indicates its operation of replacing or removing specific characters in its input data set, while <a href="https://en.wikipedia.org/wiki/Sed"><code>sed</code></a> ("stream editor") is a Unix utility that parses and transforms text, using a simple, compact programming language. <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+	<footer>
+		<p>Comments? <a href="mailto:hello@minutestomidnight.co.uk?subject=Automation%20for%20my%20static%20blog%20publishing%20workflow" title="Reply to this post">Reply via email</a>.</p>
+		<ul class="taxonomy">
+			<li><a href="/blog/tag/dev-project/"><span>DEV PROJECT</span></a>
+			<li><a href="/blog/tag/internet/"><span>INTERNET</span></a>
+			<li><a href="/blog/tag/software/"><span>SOFTWARE</span></a>
+			<li><a href="/blog/tag/walled-gardens/"><span>WALLED GARDENS</span></a>
+			<li><a href="/blog/tag/web-development/"><span>WEB DEVELOPMENT</span></a>
+			<li><a href="/blog/tag/workflow/"><span>WORKFLOW</span></a></li>
+		</ul>
+	</footer>
+</article>
+<div class="pagination">
+	<a class="pagination-prev" href="https://minutestomidnight.co.uk/blog/build-a-human-readable-rss-with-jekyll/">
+		<span>&larr;&nbsp;Older</span>
+		<span>A human-readable RSS feed with Jekyll</span>
+	</a><a class="pagination-next" href="https://minutestomidnight.co.uk/blog/indieweb-and-webmentions-for-my-static-site/">
+		<span>Newer&nbsp;&rarr;</span>
+		<span>IndieWeb and webmentions for my static site</span>
+	</a>
+</div>
+	</main>
+	<footer id="footer">
+		<nav aria-label="Secondary navigation">
+			<ul>
+				<li><a href="https://minutestomidnight.co.uk/sound-design/#original-music">My music</a></li>
+				<li><a href="https://minutestomidnight.co.uk/now/">Now</a></li>
+				<li><a href="https://minutestomidnight.co.uk/blogroll/">Blogroll</a></li>
+				<li><a href="https://minutestomidnight.co.uk/sitemap/">Sitemap</a></li>
+				<li><a href="https://minutestomidnight.co.uk/search/">Search</a></li>
+				</ul>
+		</nav>
+		<p><a href="https://minutestomidnight.co.uk/colophon/#copyright">&copy; 2024 + CC BY 4.0</a></p>
+		<p>Handcrafted using Jekyll 4.3.3, Liquid, and the M2M CSS framework. Typefaces: <em>Rubik, with a touch of serif</em>. Info about <a href="https://minutestomidnight.co.uk/colophon/#about-the-website">the website</a>, <a href="https://minutestomidnight.co.uk/colophon/#accessibility-and-sustainability">accessibility &amp; sustainability</a>, and <a href="https://minutestomidnight.co.uk/colophon/#privacy">privacy</a>.</p>
+		<hr>
+		<nav aria-label="Footer navigation">
+			<ul>
+				<li><a href="https://themarkup.org/blacklight?location=eu&device=desktop&force=false&url=minutestomidnight.co.uk">No tracking</a></li>
+				<li><a href="#top">&uarr;&nbsp;Back to top</a></li>
+			</ul>
+		</nav>
+	</footer>
+</body>
+</html>

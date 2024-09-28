@@ -1,0 +1,25 @@
+{
+  "subject":"acct:m2m@sonomu.club",
+  "aliases":
+  [
+    "https://sonomu.club/@m2m",
+    "https://sonomu.club/users/m2m"
+  ],
+  "links":
+  [
+    {
+      "rel":"http://webfinger.net/rel/profile-page",
+      "type":"text/html",
+      "href":"https://sonomu.club/@m2m"
+    },
+    {
+      "rel":"self",
+      "type":"application/activity+json",
+      "href":"https://sonomu.club/users/m2m"
+    },
+    {
+      "rel":"http://ostatus.org/schema/1.0/subscribe",
+      "template":"https://sonomu.club/authorize_interaction?uri={uri}"
+    }
+  ]
+}

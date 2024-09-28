@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en-GB" dir="ltr" itemscope itemtype="http://schema.org/WebPage">
+<head>
+	<title>Minutes to Midnight - Reply: You need a versioning system</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex, nofollow, noai, noimageai">
+	<!-- minimal open graph implementation -->
+	<meta content="Reply: You need a versioning system" property="og:title">
+	<meta content="A quick reply to the excellent post by Jamie Hill about the need of a strict versioning system for people who work in music (on the computer)." name="description" property="og:description">
+	<meta content="/assets/images/m2m-og-image.png" property="og:image">
+	<meta content="/assets/images/m2m-og-image.png" name="twitter:card">
+	<!-- end open graph -->
+	<meta name="pinterest" content="nopin">
+	<link rel="preload" href="https://minutestomidnight.co.uk/assets/fonts/rubik-regular.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="stylesheet" href="https://minutestomidnight.co.uk/assets/css/m2m.css">
+	<link rel="icon" href="https://minutestomidnight.co.uk/favicon.ico" sizes="any">
+	<link rel="icon" href="https://minutestomidnight.co.uk/assets/images/favicons/favicon.svg" type="image/svg+xml">
+	<link rel="apple-touch-icon" href="https://minutestomidnight.co.uk/assets/images/favicons/apple-touch-icon.png" sizes="180x180">
+	<link rel="manifest" href="https://minutestomidnight.co.uk/assets/images/favicons/site.webmanifest">
+	<link rel="preview" href="https://minutestomidnight.co.uk/assets/images/m2m-og-image.png">
+	<link rel="canonical" href="https://minutestomidnight.co.uk/blog/re-you-need-a-versioning-system/">
+	<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "WebSite",
+		"name": "Minutes to Midnight",
+		"headline": "Web designer & music producer",
+		"url": "https://minutestomidnight.co.uk/blog/re-you-need-a-versioning-system/",
+		"description": "A quick reply to the excellent post by Jamie Hill about the need of a strict versioning system for people who work in music (on the computer).",
+		"keywords": "minutes to midnight, simone silvestroni, sound design, bass, game audio, foley, field recording, music production, music composer, mix, master, reaper, pro tools, logic pro, web design, web development, web performance, web accessibility, web usability, front-end, ux, user experience, jekyll, wordpress, html, css",
+		"datePublished": "2023-08-02 15:19:54 +0100",
+		"dateModified": "2024-09-28T12:26:47+01:00",
+		"author": {
+			"@type": "Person",
+			"name": "Simone Silvestroni",
+			"givenName": "Simone",
+			"familyName": "Silvestroni"
+		},
+		"mainEntityOfPage": {
+			"@type": "WebPage",
+			"@id": "https://minutestomidnight.co.uk/blog/re-you-need-a-versioning-system/"
+		},
+		"image": {
+			"@type": "ImageObject",
+			"width": "500",
+			"height": "500",
+			"url": "https://minutestomidnight.co.uk/assets/images/m2m-og-image.png"
+		},
+		"sameAs": [
+			"https://github.com/simonesilvestroni",
+			"https://www.linkedin.com/in/simonesilvestroni",
+			"https://minutestomidnight.bandcamp.com",
+			"https://www.youtube.com/@m2m"
+		]
+	}
+	</script>
+</head>
+<body id="top" class="post re-you-need-a-versioning-system">
+	<div class="skip-links">
+		<a href="#main">Skip to content</a>
+		<a href="#footer">Skip to footer</a>
+	</div>
+	<header>
+		<a href="https://minutestomidnight.co.uk"><img src="https://minutestomidnight.co.uk/assets/images/m2m-nav-logo.svg" alt="Back to the homepage" width="32" height="32"></a>
+		<nav aria-label="Main navigation">
+			<ul>
+				<li><a href="/about/">About</a></li><li><a class="current" href="/blog/">Blog</a></li><li><a href="/contact/">Contact</a></li><li><a href="/feed.xml"><img class="logo-rss" src="/assets/images/rss.svg" alt="RSS" width="20" height="20"></a></li>
+			</ul>
+		</nav>
+	</header>
+	<main id="main">
+	<article class="h-entry">
+	<header>
+		<h1>Reply: You need a versioning system</h1>
+	</header>
+	
+	<p class="highlight"><span>A quick reply to the excellent post by Jamie Hill about the need of a strict versioning system for people who work in music (on the computer).</span></p>
+	
+	<div class="author">
+		<a href="https://minutestomidnight.co.uk/about/"><img src="https://minutestomidnight.co.uk/assets/images/minutes-to-midnight-portrait.jpg" alt="Simone Silvestroni" width="48" height="48"></a>&nbsp;&nbsp;<a href="https://minutestomidnight.co.uk/blog/re-you-need-a-versioning-system/" title="Permalink"><time datetime="2023-08-02T15:19:54+01:00" itemprop="dateCreated">2 Aug 2023</time></a>
+	</div>
+	<p>Jamie Hill <a href="https://jamieslist.deptofenergymgmt.com/p/you-need-a-versioning-system">argues for a backup system</a>, and rightly so. Although his post outlines the exact same manual, effective, simple methodology I'd been using for many years, I felt compelled to write down a reply with my current procedure. Disclaimer: while Jamie uses Pro Tools, his way can be indeed applied to every <abbr title="Digital Audio Workstation">DAW</abbr>, while mine is exclusively related to <abbr title="Rapid Environment for Audio Production, Engineering and Recording">REAPER</abbr>. Two years after my <a href="https://minutestomidnight.co.uk/blog/daw-from-logic-to-pro-tools-to-reaper-part-1/">switch from Pro Tools</a>, I keep finding improvements to my workflow, and this is one of them. What I'm currently doing to save multiple progressive versions of my work:</p>
+
+<ul>
+  <li>I hit <kbd>⌘&nbsp;S</kbd> (<kbd>⌃&nbsp;S</kbd> on Windows and Linux).</li>
+</ul>
+
+<p><em>That's it</em>. Under the hood, REAPER is saving a new version of the project, adding an automatic increment number to the filename. REAPER's actions panel is where the magic happens:</p>
+
+<p><img src="/assets/images/reaper-saveasnewproject.png" alt="Screenshot of the action panel in Reaper, with the File: Save new version of project action selected" width="1024" height="698">
+<em>The action panel in Reaper</em></p>
+
+<p>All I had to do was finding the correct action (or build a custom one if nobody thought of it), and add the shortcut usually associated to saving a project. I'm <em>de facto</em> hijacking the "save" command here. The result is that every time a session is saved, the project changes its filename, while the previous one stays in the same folder as a backup. Granted, I can end up with a large number of files, but that's fine: they don't weigh much, plus I take care of moving the versions to my backup sub-folder at the end of a work day.</p>
+
+<p>If this is not ideal, a good alternative is the technique I'd been using until a few months ago: REAPER's automatic backup system. It's in the preferences:</p>
+
+<p><img src="/assets/images/reaper-projectsettings-backup.jpg" alt="Screenshot of the preference window in Reaper, where the field 'Save to timestamped file' is circled in red" width="1024" height="675">
+<em>Reaper preferences window</em></p>
+
+<p>The pros of this second method are clear: the software takes care of both the versioning <em>and</em> moving the backups in a sub-folder. Why did I switch? Because I want to determine the point of a new version when I save the session, which is when a substantial change that needs preserving has happened. A method based on <em>x minutes</em> doesn't mean much to me.</p>
+
+	<footer>
+		<p>Comments? <a href="mailto:hello@minutestomidnight.co.uk?subject=Reply:%20You%20need%20a%20versioning%20system" title="Reply to this post">Reply via email</a>.</p>
+		<ul class="taxonomy">
+			<li><a href="/blog/tag/music-production/"><span>MUSIC PRODUCTION</span></a>
+			<li><a href="/blog/tag/reaper/"><span>REAPER</span></a>
+			<li><a href="/blog/tag/software/"><span>SOFTWARE</span></a>
+			<li><a href="/blog/tag/workflow/"><span>WORKFLOW</span></a></li>
+		</ul>
+	</footer>
+</article>
+<div class="pagination">
+	<a class="pagination-prev" href="https://minutestomidnight.co.uk/blog/yellow-brick-road/">
+		<span>&larr;&nbsp;Older</span>
+		<span>Yellow Brick Road</span>
+	</a><a class="pagination-next" href="https://minutestomidnight.co.uk/blog/enjoy-the-difference/">
+		<span>Newer&nbsp;&rarr;</span>
+		<span>Enjoy the difference</span>
+	</a>
+</div>
+	</main>
+	<footer id="footer">
+		<nav aria-label="Secondary navigation">
+			<ul>
+				<li><a href="https://minutestomidnight.co.uk/sound-design/#original-music">My music</a></li>
+				<li><a href="https://minutestomidnight.co.uk/now/">Now</a></li>
+				<li><a href="https://minutestomidnight.co.uk/blogroll/">Blogroll</a></li>
+				<li><a href="https://minutestomidnight.co.uk/sitemap/">Sitemap</a></li>
+				<li><a href="https://minutestomidnight.co.uk/search/">Search</a></li>
+				</ul>
+		</nav>
+		<p><a href="https://minutestomidnight.co.uk/colophon/#copyright">&copy; 2024 + CC BY 4.0</a></p>
+		<p>Handcrafted using Jekyll 4.3.3, Liquid, and the M2M CSS framework. Typefaces: <em>Rubik, with a touch of serif</em>. Info about <a href="https://minutestomidnight.co.uk/colophon/#about-the-website">the website</a>, <a href="https://minutestomidnight.co.uk/colophon/#accessibility-and-sustainability">accessibility &amp; sustainability</a>, and <a href="https://minutestomidnight.co.uk/colophon/#privacy">privacy</a>.</p>
+		<hr>
+		<nav aria-label="Footer navigation">
+			<ul>
+				<li><a href="https://themarkup.org/blacklight?location=eu&device=desktop&force=false&url=minutestomidnight.co.uk">No tracking</a></li>
+				<li><a href="#top">&uarr;&nbsp;Back to top</a></li>
+			</ul>
+		</nav>
+	</footer>
+</body>
+</html>

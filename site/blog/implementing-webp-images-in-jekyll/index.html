@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en-GB" dir="ltr" itemscope itemtype="http://schema.org/WebPage">
+<head>
+	<title>Minutes to Midnight - Implementing WebP images in Jekyll</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex, nofollow, noai, noimageai">
+	<!-- minimal open graph implementation -->
+	<meta content="Implementing WebP images in Jekyll" property="og:title">
+	<meta content="Adding WebP images to my Jekyll-based static site ensured new levels of optimisation and performance." name="description" property="og:description">
+	<meta content="/assets/images/m2m-og-image.png" property="og:image">
+	<meta content="/assets/images/m2m-og-image.png" name="twitter:card">
+	<!-- end open graph -->
+	<meta name="pinterest" content="nopin">
+	<link rel="preload" href="https://minutestomidnight.co.uk/assets/fonts/rubik-regular.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="stylesheet" href="https://minutestomidnight.co.uk/assets/css/m2m.css">
+	<link rel="icon" href="https://minutestomidnight.co.uk/favicon.ico" sizes="any">
+	<link rel="icon" href="https://minutestomidnight.co.uk/assets/images/favicons/favicon.svg" type="image/svg+xml">
+	<link rel="apple-touch-icon" href="https://minutestomidnight.co.uk/assets/images/favicons/apple-touch-icon.png" sizes="180x180">
+	<link rel="manifest" href="https://minutestomidnight.co.uk/assets/images/favicons/site.webmanifest">
+	<link rel="preview" href="https://minutestomidnight.co.uk/assets/images/m2m-og-image.png">
+	<link rel="canonical" href="https://minutestomidnight.co.uk/blog/implementing-webp-images-in-jekyll/">
+	<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "WebSite",
+		"name": "Minutes to Midnight",
+		"headline": "Web designer & music producer",
+		"url": "https://minutestomidnight.co.uk/blog/implementing-webp-images-in-jekyll/",
+		"description": "Adding WebP images to my Jekyll-based static site ensured new levels of optimisation and performance.",
+		"keywords": "minutes to midnight, simone silvestroni, sound design, bass, game audio, foley, field recording, music production, music composer, mix, master, reaper, pro tools, logic pro, web design, web development, web performance, web accessibility, web usability, front-end, ux, user experience, jekyll, wordpress, html, css",
+		"datePublished": "2022-04-08 00:00:00 +0100",
+		"dateModified": "2024-09-28T12:26:47+01:00",
+		"author": {
+			"@type": "Person",
+			"name": "Simone Silvestroni",
+			"givenName": "Simone",
+			"familyName": "Silvestroni"
+		},
+		"mainEntityOfPage": {
+			"@type": "WebPage",
+			"@id": "https://minutestomidnight.co.uk/blog/implementing-webp-images-in-jekyll/"
+		},
+		"image": {
+			"@type": "ImageObject",
+			"width": "500",
+			"height": "500",
+			"url": "https://minutestomidnight.co.uk/assets/images/m2m-og-image.png"
+		},
+		"sameAs": [
+			"https://github.com/simonesilvestroni",
+			"https://www.linkedin.com/in/simonesilvestroni",
+			"https://minutestomidnight.bandcamp.com",
+			"https://www.youtube.com/@m2m"
+		]
+	}
+	</script>
+</head>
+<body id="top" class="post implementing-webp-images-in-jekyll">
+	<div class="skip-links">
+		<a href="#main">Skip to content</a>
+		<a href="#footer">Skip to footer</a>
+	</div>
+	<header>
+		<a href="https://minutestomidnight.co.uk"><img src="https://minutestomidnight.co.uk/assets/images/m2m-nav-logo.svg" alt="Back to the homepage" width="32" height="32"></a>
+		<nav aria-label="Main navigation">
+			<ul>
+				<li><a href="/about/">About</a></li><li><a class="current" href="/blog/">Blog</a></li><li><a href="/contact/">Contact</a></li><li><a href="/feed.xml"><img class="logo-rss" src="/assets/images/rss.svg" alt="RSS" width="20" height="20"></a></li>
+			</ul>
+		</nav>
+	</header>
+	<main id="main">
+	<article class="h-entry">
+	<header>
+		<h1>Implementing WebP images in Jekyll</h1>
+	</header>
+	
+	<p class="highlight"><span>Adding WebP images to my Jekyll-based static site ensured new levels of optimisation and performance.</span></p>
+	
+	<div class="author">
+		<a href="https://minutestomidnight.co.uk/about/"><img src="https://minutestomidnight.co.uk/assets/images/minutes-to-midnight-portrait.jpg" alt="Simone Silvestroni" width="48" height="48"></a>&nbsp;&nbsp;<a href="https://minutestomidnight.co.uk/blog/implementing-webp-images-in-jekyll/" title="Permalink"><time datetime="2022-04-08T00:00:00+01:00" itemprop="dateCreated">8 Apr 2022</time></a>
+	</div>
+	<aside>
+  <p><strong>Note</strong> — WebP is a modern image format <a href="https://caniuse.com/?search=webp">supported in all major browsers</a> that provides superior lossless and lossy compression for images on the web. WebP images are between 25% and 34% smaller than comparable PNGs and JPEGs.</p>
+</aside>
+
+<h2 id="skills">Skills</h2>
+
+<ul class="list-inline">
+  
+  <li><mark>Jekyll</mark></li>
+  
+  <li><mark>Liquid</mark></li>
+  
+  <li><mark>Markdown</mark></li>
+  
+  <li><mark>HTML</mark></li>
+  
+  <li><mark>Browser support</mark></li>
+  
+</ul>
+
+<h2 id="objectives">Objectives</h2>
+
+<p>While I initially wanted to achieve further performance improvements on my website, the actual end goal was to properly implement a modern <code>&lt;figure&gt;</code> module that included the <code>&lt;picture&gt;</code> element, tailored to the static site generator Jekyll.</p>
+
+<h2 id="approach">Approach</h2>
+
+<p>I created a <code>&lt;picture&gt;</code> element containing all the <code>srcset</code> needed to serve fallbacks to fully support older browsers. Within my workflow, the module would be called in any page or post with a single Liquid include, using the Alfred snippet <code>/figure</code> to speed up the process. I only had to pass the name of the image, the alternative description, a caption (that could serve as a default alt parameter), and size.</p>
+
+<pre><code class="language-html">&lt;figure&gt;
+  &lt;picture&gt;
+    &lt;source srcset="{{ include.image | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }}" type="image/webp"&gt;
+    &lt;source srcset="{{ include.image }}" {% if include.image contains '.jpg' or include.image contains '.jpeg' %}type="image/jpeg"{% elsif include.image contains '.png' %}type="image/png"{% endif %}&gt;
+    &lt;img src="{{ include.image }}" alt="{{ include.alt | default: include.caption }}" {{ include.width ? include.width | prepend: 'width="' | append: '"' }} {{ include.height ? include.height | prepend: 'height="' | append: '"' }}&gt;
+  &lt;/picture&gt;
+  {% if include.caption %}&lt;figcaption&gt;{{ include.caption }}&lt;/figcaption&gt;{% endif -%}
+&lt;/figure&gt;
+</code></pre>
+
+<h2 id="results">Results</h2>
+
+<p>I cut the loading time by a considerable amount in pages with multiple images, getting a double <code>100%</code> on GTMetrix, and improving my <a href="https://512kb.club/#100">512k club</a> rank.</p>
+
+	<footer>
+		<p>Comments? <a href="mailto:hello@minutestomidnight.co.uk?subject=Implementing%20WebP%20images%20in%20Jekyll" title="Reply to this post">Reply via email</a>.</p>
+		<ul class="taxonomy">
+			<li><a href="/blog/tag/dev-project/"><span>DEV PROJECT</span></a>
+			<li><a href="/blog/tag/software/"><span>SOFTWARE</span></a>
+			<li><a href="/blog/tag/sustainability/"><span>SUSTAINABILITY</span></a>
+			<li><a href="/blog/tag/web-development/"><span>WEB DEVELOPMENT</span></a></li>
+		</ul>
+	</footer>
+</article>
+<div class="pagination">
+	<a class="pagination-prev" href="https://minutestomidnight.co.uk/blog/content-security-policy/">
+		<span>&larr;&nbsp;Older</span>
+		<span>Content security policy on Netlify</span>
+	</a><a class="pagination-next" href="https://minutestomidnight.co.uk/blog/on-the-concept-of-frugal-computing/">
+		<span>Newer&nbsp;&rarr;</span>
+		<span>On the concept of frugal computing</span>
+	</a>
+</div>
+	</main>
+	<footer id="footer">
+		<nav aria-label="Secondary navigation">
+			<ul>
+				<li><a href="https://minutestomidnight.co.uk/sound-design/#original-music">My music</a></li>
+				<li><a href="https://minutestomidnight.co.uk/now/">Now</a></li>
+				<li><a href="https://minutestomidnight.co.uk/blogroll/">Blogroll</a></li>
+				<li><a href="https://minutestomidnight.co.uk/sitemap/">Sitemap</a></li>
+				<li><a href="https://minutestomidnight.co.uk/search/">Search</a></li>
+				</ul>
+		</nav>
+		<p><a href="https://minutestomidnight.co.uk/colophon/#copyright">&copy; 2024 + CC BY 4.0</a></p>
+		<p>Handcrafted using Jekyll 4.3.3, Liquid, and the M2M CSS framework. Typefaces: <em>Rubik, with a touch of serif</em>. Info about <a href="https://minutestomidnight.co.uk/colophon/#about-the-website">the website</a>, <a href="https://minutestomidnight.co.uk/colophon/#accessibility-and-sustainability">accessibility &amp; sustainability</a>, and <a href="https://minutestomidnight.co.uk/colophon/#privacy">privacy</a>.</p>
+		<hr>
+		<nav aria-label="Footer navigation">
+			<ul>
+				<li><a href="https://themarkup.org/blacklight?location=eu&device=desktop&force=false&url=minutestomidnight.co.uk">No tracking</a></li>
+				<li><a href="#top">&uarr;&nbsp;Back to top</a></li>
+			</ul>
+		</nav>
+	</footer>
+</body>
+</html>

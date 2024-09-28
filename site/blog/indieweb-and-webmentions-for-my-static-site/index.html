@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en-GB" dir="ltr" itemscope itemtype="http://schema.org/WebPage">
+<head>
+	<title>Minutes to Midnight - IndieWeb and webmentions for my static site</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex, nofollow, noai, noimageai">
+	<!-- minimal open graph implementation -->
+	<meta content="IndieWeb and webmentions for my static site" property="og:title">
+	<meta content="Analysing the method I used to implement IndieWeb principles and webmentions. A step-by-step process that works on a Jekyll-based static website." name="description" property="og:description">
+	<meta content="/assets/images/m2m-og-image.png" property="og:image">
+	<meta content="/assets/images/m2m-og-image.png" name="twitter:card">
+	<!-- end open graph -->
+	<meta name="pinterest" content="nopin">
+	<link rel="preload" href="https://minutestomidnight.co.uk/assets/fonts/rubik-regular.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="stylesheet" href="https://minutestomidnight.co.uk/assets/css/m2m.css">
+	<link rel="icon" href="https://minutestomidnight.co.uk/favicon.ico" sizes="any">
+	<link rel="icon" href="https://minutestomidnight.co.uk/assets/images/favicons/favicon.svg" type="image/svg+xml">
+	<link rel="apple-touch-icon" href="https://minutestomidnight.co.uk/assets/images/favicons/apple-touch-icon.png" sizes="180x180">
+	<link rel="manifest" href="https://minutestomidnight.co.uk/assets/images/favicons/site.webmanifest">
+	<link rel="preview" href="https://minutestomidnight.co.uk/assets/images/m2m-og-image.png">
+	<link rel="canonical" href="https://minutestomidnight.co.uk/blog/indieweb-and-webmentions-for-my-static-site/">
+	<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "WebSite",
+		"name": "Minutes to Midnight",
+		"headline": "Web designer & music producer",
+		"url": "https://minutestomidnight.co.uk/blog/indieweb-and-webmentions-for-my-static-site/",
+		"description": "Analysing the method I used to implement IndieWeb principles and webmentions. A step-by-step process that works on a Jekyll-based static website.",
+		"keywords": "minutes to midnight, simone silvestroni, sound design, bass, game audio, foley, field recording, music production, music composer, mix, master, reaper, pro tools, logic pro, web design, web development, web performance, web accessibility, web usability, front-end, ux, user experience, jekyll, wordpress, html, css",
+		"datePublished": "2022-05-16 12:47:30 +0100",
+		"dateModified": "2024-09-28T12:26:47+01:00",
+		"author": {
+			"@type": "Person",
+			"name": "Simone Silvestroni",
+			"givenName": "Simone",
+			"familyName": "Silvestroni"
+		},
+		"mainEntityOfPage": {
+			"@type": "WebPage",
+			"@id": "https://minutestomidnight.co.uk/blog/indieweb-and-webmentions-for-my-static-site/"
+		},
+		"image": {
+			"@type": "ImageObject",
+			"width": "500",
+			"height": "500",
+			"url": "https://minutestomidnight.co.uk/assets/images/m2m-og-image.png"
+		},
+		"sameAs": [
+			"https://github.com/simonesilvestroni",
+			"https://www.linkedin.com/in/simonesilvestroni",
+			"https://minutestomidnight.bandcamp.com",
+			"https://www.youtube.com/@m2m"
+		]
+	}
+	</script>
+</head>
+<body id="top" class="post indieweb-and-webmentions-for-my-static-site">
+	<div class="skip-links">
+		<a href="#main">Skip to content</a>
+		<a href="#footer">Skip to footer</a>
+	</div>
+	<header>
+		<a href="https://minutestomidnight.co.uk"><img src="https://minutestomidnight.co.uk/assets/images/m2m-nav-logo.svg" alt="Back to the homepage" width="32" height="32"></a>
+		<nav aria-label="Main navigation">
+			<ul>
+				<li><a href="/about/">About</a></li><li><a class="current" href="/blog/">Blog</a></li><li><a href="/contact/">Contact</a></li><li><a href="/feed.xml"><img class="logo-rss" src="/assets/images/rss.svg" alt="RSS" width="20" height="20"></a></li>
+			</ul>
+		</nav>
+	</header>
+	<main id="main">
+	<article class="h-entry">
+	<header>
+		<h1>IndieWeb and webmentions for my static site</h1>
+	</header>
+	
+	<p class="highlight"><span>Analysing the method I used to implement IndieWeb principles and webmentions. A step-by-step process that works on a Jekyll-based static website.</span></p>
+	
+	<div class="author">
+		<a href="https://minutestomidnight.co.uk/about/"><img src="https://minutestomidnight.co.uk/assets/images/minutes-to-midnight-portrait.jpg" alt="Simone Silvestroni" width="48" height="48"></a>&nbsp;&nbsp;<a href="https://minutestomidnight.co.uk/blog/indieweb-and-webmentions-for-my-static-site/" title="Permalink"><time datetime="2022-05-16T12:47:30+01:00" itemprop="dateCreated">16 May 2022</time></a>
+	</div>
+	<figure class="fullscreen">
+		<img src="https://minutestomidnight.co.uk/assets/images/indieweb-and-webmentions-for-my-static-site.jpg" alt="IndieWeb logo" width="768" height="384">
+	</figure>
+	<h2 id="skills">Skills</h2>
+
+<ul class="list-inline">
+  
+  <li><mark>Microformats</mark></li>
+  
+  <li><mark>HTML</mark></li>
+  
+  <li><mark>Javascript</mark></li>
+  
+  <li><mark>Jekyll</mark></li>
+  
+  <li><mark>Liquid</mark></li>
+  
+</ul>
+
+<h2 id="objectives">Objectives</h2>
+
+<p>Two years after <a href="https://silviamaggidesign.com">Silvia</a> made me discover webmentions by suggesting an <em>A List Apart</em> article by Chris Aldrich<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, I decided to leave social media<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> and turn my WordPress blog into a static website. Choosing not to implement a third-party commenting system, I wanted to turn to webmentions instead. A <a href="https://www.w3.org/TR/webmention/">W3C recommendation</a>, it’s a decentralised way to interact with other websites’ posts, enabling replies, likes, reposts and more.</p>
+
+<h2 id="approach">Approach</h2>
+
+<p>The process to implementing webmentions manually was not straightforward. Of course, now that that I have it working, it’s obvious what I was doing wrong — however, despite being love with the concept, I found confusing and off-putting the way the documentation was scattered over different places, with little consistency. I’m not criticizing the people who made this possible, but I believe that the less tech-savvy could be excluded by using webmentions because of the technical barrier<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup> — unless they use a ready-made system such as WordPress, and can therefore install some plug-ins.</p>
+
+<blockquote>
+  <p>It might be time for IndieWeb to rethink principles and priorities. The current list might appeal to developers […] but it doesn't necessarily talk to  the ones looking to satisfy the call of creativity, or those  disillusioned of social media itself. <cite>Peter Molnar</cite></p>
+</blockquote>
+
+<h3 id="indieauth">IndieAuth</h3>
+
+<p><a href="https://indieauth.com/">IndieAuth</a> provides authentication for personal websites using existing social accounts. Part of the IndieWeb effort to take back control of your online identity, it requires my domain to either have a link to supported providers, or a valid <a href="https://en.wikipedia.org/wiki/GNU_Privacy_Guard">GPG key</a>. Since I wanted to be able to use either, I first added two <code>&lt;link&gt;</code> lines with a <code>rel="me"</code> parameter to the <code>&lt;head&gt;</code> section, pointing to my GitHub and public GPG key. Then, I added a link back to my homepage from <a href="https://github.com/settings/profile">GitHub's profile settings</a>.</p>
+
+<pre><code class="language-html">&lt;head&gt;
+  [...]
+  &lt;link rel="me" href="https://github.com/simonesilvestroni/"&gt;
+  &lt;link rel="pgpkey authn" href="/assets/files/key.pub"&gt;
+  [...]
+&lt;/head&gt;
+</code></pre>
+
+<p><img src="https://minutestomidnight.co.uk/assets/images/webmentions-indieauth-1.jpg" alt="Screenshot from the IndieAuth website, where it found supported providers" width="1024" height="622">
+<em>IndieAuth finds my two supported verified providers for authentication</em></p>
+
+<p>By clicking on the green button linking github.com, the authentication happens at once, while using GPG a modal window asks for verification: an encripted text block has to be signed using my private key. Once that's done, authentication is ensured.</p>
+
+<p><img src="https://minutestomidnight.co.uk/assets/images/webmention-indieauth-gpg.jpg" alt="Screenshot of a browser window showing a modal window from IndieAuth, asking to sign an encrypted code" width="1024" height="622">
+<em>Request to sign an encrypted code with GPG</em></p>
+
+<p><img src="https://minutestomidnight.co.uk/assets/images/webmention-indieauth-ok.jpg" alt="Screenshot of a browser window showing a page from IndieAuth, saying 'you successfully authenticated'" width="1024" height="622">
+<em>IndieAuth successfully authenticated</em></p>
+
+<h3 id="webmentionio">webmention.io</h3>
+
+<p>The authentication procedure needs to be done once, or whenever I'm logged out from IndieAuth. I use it to log in to <a href="https://webmention.io/">Webmention.io</a>, a free hosted service created by Aaron Parecki to easily receive webmentions on any web page, and a bunch of other related services. Once loggedin with IndieAuth, I have a dashboard up and running. Time to copy the code required to start accepting webmentions, again in the <code>&lt;head&gt;</code> section of the website.</p>
+
+<pre><code class="language-html">&lt;head&gt;
+  [...]
+  &lt;link rel="webmention" href="https://webmention.io/minutestomidnight.co.uk/webmention"&gt;
+  &lt;link rel="pingback" href="https://webmention.io/minutestomidnight.co.uk/xmlrpc"&gt;
+  [...]
+&lt;/head&gt;
+</code></pre>
+
+<h3 id="microformats">Microformats</h3>
+
+<p>To properly send and receive webmentions it’s necessary to add additional markup to the code, using <a href="http://microformats.org/wiki/microformats2">microformats</a>. They're simple class names to be added to the HTML code, so that other people’s software can use it for things like <a href="https://indieweb.org/reply-context">reply</a>, <a href="https://indieweb.org/comment">cross-site comments</a>, and more.</p>
+
+<h4 id="h-entry">h-entry</h4>
+
+<p>All the necessary microformats-tagged markup must be enclosed in a block with class <code>h-entry</code>.</p>
+
+<blockquote>
+  <p><a href="http://microformats.org/wiki/h-entry">h-entry</a> is the microformats2 vocabulary for marking up blog posts on web sites. It can also be used to mark-up any other episodic or time series based content.</p>
+</blockquote>
+
+<h4 id="h-card">h-card</h4>
+
+<p>An <a href="http://microformats.org/wiki/h-card">h-card</a> is for marking up people and organizations, often used on home pages and individual blog posts. This is my h-card for single pages:</p>
+
+<pre><code class="language-html">&lt;div class="h-entry"&gt;
+  &lt;span class="p-author h-card"&gt;
+    &lt;img class="u-photo" src="{{ site.url }}/assets/images/favicons/favicon.svg" alt="Minutes to Midnight's avatar" width="24" height="24"&gt;
+    &lt;a class="p-name" href="{{ site.url }}/about/" rel="author"&gt;Simone Silvestroni ({{ site.title }})&lt;/a&gt;
+    &lt;span class="p-note"&gt;{{ site.description }}&lt;/span&gt;
+    &lt;a rel="me" class="u-url u-uid" href="{{ site.url }}{{ page.url }}"&gt;Permalink&lt;/a&gt;
+  &lt;/span&gt;
+&lt;/div&gt;
+</code></pre>
+
+<p>I have a tweaked version that I use on blog posts, containing the time it's published and a few more information:</p>
+
+<pre><code class="language-html">&lt;article class="h-entry"&gt;
+  &lt;header&gt;
+    &lt;time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated"&gt;
+      &lt;a rel="me" class="u-url u-uid" href="{{ site.url }}{{ page.url }}" title="Permalink"&gt;{{ page.date | date: "%-d %B %Y" }}&lt;/a&gt;
+    &lt;/time&gt;
+    &lt;h1 class="p-name"&gt;{{ page.title }}&lt;/h1&gt;
+    &lt;p class="p-summary"&gt;{{ page.summary }}&lt;/p&gt;
+    &lt;span class="p-author h-card"&gt;
+      &lt;img class="u-photo" src="{{ site.url }}/assets/images/minutes-to-midnight-portrait.jpg" alt="Simone Silvestroni's avatar" width="28" height="28"&gt; by &lt;a class="p-name" href="{{ site.url }}/about/" rel="author"&gt;Simone Silvestroni&lt;/a&gt;
+      {% if page.replyto %} &lt;span&gt;in reply to &lt;a href="{{ page.replyto }}" class="u-in-reply-to"&gt;{{ page.replytouser }}&lt;/a&gt;&lt;/span&gt;{% endif -%}
+    &lt;/span&gt;
+  &lt;/header&gt;
+  [...]
+&lt;/article&gt;
+</code></pre>
+
+<p>A list of microformats classes I've been using in my pages and posts:</p>
+
+<ul class="list-hr-group">
+  <li><mark><code>p-author</code></mark> signals that’s me who’s writing the content.</li>
+  <li><mark><code>p-name</code></mark> is the equivalent of a heading, also used for names.</li>
+  <li><mark><code>u-photo</code></mark> marks my avatar.</li>
+  <li><mark><code>u-url</code></mark> is the current page’s permalink.</li>
+  <li><mark><code>dt-published</code></mark> is the time of publication.</li>
+  <li><mark><code>u-in-reply-to</code></mark> marks someone else's article that I'm <a href="https://indieweb.org/reply">replying to</a> with a webmention.</li>
+  <li><mark><code>u-like-of</code></mark> for <a href="https://indieweb.org/like">like types</a> of webmentions.<sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnote" rel="footnote">4</a></sup></li>
+  <li><mark><code>p-category</code></mark> for categories and tags.</li>
+  <li><mark><code>p-summary</code></mark> for the post excerpt.</li>
+  <li><mark><code>e-content</code></mark> wraps the main content of the post.</li>
+  <li><mark><code>u-syndication</code></mark> for links to other websites, if I <a href="https://indieweb.org/POSSE">cross-post</a>.</li>
+</ul>
+
+<h4 id="indiewebify">IndieWebify</h4>
+
+<p><a href="https://indiewebify.me/">IndieWebify</a> is a useful service that allows anyone to test IndieAuth implementations and validate h-card and h-entry before starting to send webmentions. Had I discovered it earlier, it would have saved me a few hours of debugging.</p>
+
+<blockquote>
+  <p>Without indieWebify I don’t think I would have been able to even get started implementing any of this stuff. <cite>David Yates</cite></p>
+</blockquote>
+
+<h2 id="using-notes-to-send-webmentions">Using notes to send webmentions</h2>
+
+<p>I chose to only support webmentions in the form of <em>replies</em> and <em>likes</em>, and avoid turning my personal website into a social media feed, which is too noise for me. To send replies and likes I’ve been using a different type of post, called <em>notes</em>, a <a href="https://indieweb.org/note">common format</a>. My notes layout is a shrinked version of a blog post. It only features an <code>&lt;article&gt;</code> element containing the same microformats, with a logic condition to check for the presence of either a <code>replyto</code> or a <code>likeof</code> parameter.</p>
+
+<p>I can quickly create a note, fill-in the required original URL of the post and the name of the person I'm interacting with, and write my response. In case I’m responding to someone who mentioned me from their blog, I also quote my original post, so that my comment would also appear on my site as a reply to the previous mention. Advantages of using a note to send a reply webmention:</p>
+
+<ul class="list-hr">
+  <li>Quick workflow.</li>
+  <li>Feels like a <em>separate entity</em> — which is how I perceive comments on the web.</li>
+  <li>Contained. Since the block tagged with <mark><code>e-content</code></mark> is what’s going to be fetched and printed on someone’s comment section, I like it to be straight to the point and as brief as possible. When I see webmentions that are basically complete long posts, I feel like they miss the point altogether.</li>
+</ul>
+
+<h2 id="sending-webmentions">Sending webmentions</h2>
+
+<p>Even though I could automate sending a webmention, I prefer to do it manually. <a href="https://telegraph.p3k.io/">Telegraph</a>, another free service built by Aaron Parecki, does the job. Logging in works the same as the other IndieWeb services, via IndieAuth. The dashboard has two tabs: one for finding links with potential webmention endpoints in a post, another for sending webmentions if I know both the source and the target URLs.</p>
+
+<p><img src="/assets/images/telegraph-dashboard.png" alt="Telegraph dashboard showing the two tabs Find Links and Send Webmention" width="720" height="217"></p>
+
+<h2 id="receiving-webmentions">Receiving webmentions</h2>
+
+<p>To receive webmentions I had initially implemented the popular <a href="https://github.com/PlaidWeb/webmention.js"><code>webmentions.js</code></a>. It pulled data from <code>webmention.io</code>, and added any results in the bottom section of blog posts, delimited by <code>&lt;div id="webmentions"&gt;&lt;/div&gt;</code>. The minified javascript was conditionally loaded in posts where webmentions could be received. Even though I did for a while, I later stopped collecting backfeed reactions and comments as webmentions bridged from Mastodon, due to privacy concerns.</p>
+
+<h3 id="get-notified-of-new-webmentions">Get notified of new webmentions</h3>
+
+<p>I monitor incoming webmentions using an RSS feed provided by <code>webmention.io</code>. The <a href="https://webmention.io/settings"><em>Mentions Feed</em> section</a> has two links. The one at the bottom, complete with my token, is an Atom feed URL which I added to my RSS reader. Arguably the simplest solution, it fits with my workflow.</p>
+
+<h3 id="why-im-not-showing-webmentions">Why I'm not showing webmentions</h3>
+
+<p>I subsequently dropped <code>webmentions.js</code>, which removed all comments from my posts. I still get notified of new mentions, and read them in my feed reader. Moreover, my site can still send them — however, I wanted to stop perpetuating any ego-boosting behaviour on the internet (number of replies, likes, reposts). In my opinion, these things don't add valuable insights to a blog post. On the other hand, <em>private communication</em> does. I don't mind how other people show my replies on their websites, but I prefer to keep mine quiet. The decision allowed me to completely remove javascript from the codebase, which was something I wanted to achieve.</p>
+
+<aside class="warning">
+  <h3>Useful articles</h3>
+  <ul class="list-hr">
+    <li><a href="https://aaronparecki.com/2018/06/30/11/your-first-webmention"><em>Sending your First Webmention from Scratch</em></a>, by Aaron Parecki</li>
+    <li><a href="https://blog.omgmog.net/post/adding-support-for-webmentions/"><em>Adding support for Webmentions</em></a>, by Max Glenister</li>
+    <li><a href="https://keithjgrant.com/posts/2019/02/adding-webmention-support-to-a-static-site/">A<em>dding Webmention Support to a Static Site</em></a>, by Keith J. Grant</li>
+    <li><a href="https://davidyat.es/2019/06/24/indieweb/"><em>Untangling the IndieWeb</em></a>, by David Yates</li>
+    <li><a href="https://petermolnar.net/article/old-web-new-web-indie-web/"><em>Old Web, New Web, Indie Web</em></a>, by Peter Molnar</li>
+    <li><a href="https://vincentp.me/articles/2018/11/14/20-00/"><em>Implementing the IndieWeb on a static website</em></a>, by Vincent Pickering</li>
+    <li><a href="https://brainbaking.com/post/2021/05/beyond-webmention-io/"><em>Host your own webmention receiver</em></a>, by Wouter Groeneveld</li>
+  </ul>
+</aside>
+
+<h2 id="results">Results</h2>
+
+<p>Webmentions<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">5</a></sup> pushed me towards the concept of a <a href="https://benhoyt.com/writings/the-small-web-is-beautiful/">small web</a>, free from corporate interference. It matches the way I approach the internet and communication in general, and despite a few implementation hiccups I'm happy to be part of a larger independent community.</p>
+
+<h4 id="footnotes">Footnotes</h4>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><a href="https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet/"><em>Webmentions: Enabling Better Communication on the Internet</em></a>, published 19 July 2018. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>See my article <a href="https://minutestomidnight.co.uk/blog/escape-from-social-media/"><em>Escape from social media</em></a> and the follow-up <a href="https://minutestomidnight.co.uk/blog/life-after-social-networks/"><em>Life after social networks</em></a>. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>See also <a href="https://davidyat.es/2019/06/24/indieweb/#implementation-pain-points">this post by David Yates</a>. <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:5" role="doc-endnote">
+      <p>There are other types of webmention: <a href="https://indieweb.org/repost">repost</a>, <a href="https://indieweb.org/rsvp">RSVP</a>, <a href="https://indieweb.org/bookmark">bookmark</a>, <a href="https://indieweb.org/follow">follow</a> — but I don’t use them. <a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:4" role="doc-endnote">
+      <p>A list of tools and people who are using webmentions can be <a href="https://indieweb.org/Webmention">found on the IndieWeb wiki</a>. <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+	<footer>
+		<p>Comments? <a href="mailto:hello@minutestomidnight.co.uk?subject=IndieWeb%20and%20webmentions%20for%20my%20static%20site" title="Reply to this post">Reply via email</a>.</p>
+		<ul class="taxonomy">
+			<li><a href="/blog/tag/dev-project/"><span>DEV PROJECT</span></a>
+			<li><a href="/blog/tag/indieweb/"><span>INDIEWEB</span></a>
+			<li><a href="/blog/tag/internet/"><span>INTERNET</span></a>
+			<li><a href="/blog/tag/web-development/"><span>WEB DEVELOPMENT</span></a></li>
+		</ul>
+	</footer>
+</article>
+<div class="pagination">
+	<a class="pagination-prev" href="https://minutestomidnight.co.uk/blog/automation-for-my-blog-publishing-workflow/">
+		<span>&larr;&nbsp;Older</span>
+		<span>Automation for my static blog publishing workflow</span>
+	</a><a class="pagination-next" href="https://minutestomidnight.co.uk/blog/ungoogled-chromium/">
+		<span>Newer&nbsp;&rarr;</span>
+		<span>Ungoogled Chromium</span>
+	</a>
+</div>
+	</main>
+	<footer id="footer">
+		<nav aria-label="Secondary navigation">
+			<ul>
+				<li><a href="https://minutestomidnight.co.uk/sound-design/#original-music">My music</a></li>
+				<li><a href="https://minutestomidnight.co.uk/now/">Now</a></li>
+				<li><a href="https://minutestomidnight.co.uk/blogroll/">Blogroll</a></li>
+				<li><a href="https://minutestomidnight.co.uk/sitemap/">Sitemap</a></li>
+				<li><a href="https://minutestomidnight.co.uk/search/">Search</a></li>
+				</ul>
+		</nav>
+		<p><a href="https://minutestomidnight.co.uk/colophon/#copyright">&copy; 2024 + CC BY 4.0</a></p>
+		<p>Handcrafted using Jekyll 4.3.3, Liquid, and the M2M CSS framework. Typefaces: <em>Rubik, with a touch of serif</em>. Info about <a href="https://minutestomidnight.co.uk/colophon/#about-the-website">the website</a>, <a href="https://minutestomidnight.co.uk/colophon/#accessibility-and-sustainability">accessibility &amp; sustainability</a>, and <a href="https://minutestomidnight.co.uk/colophon/#privacy">privacy</a>.</p>
+		<hr>
+		<nav aria-label="Footer navigation">
+			<ul>
+				<li><a href="https://themarkup.org/blacklight?location=eu&device=desktop&force=false&url=minutestomidnight.co.uk">No tracking</a></li>
+				<li><a href="#top">&uarr;&nbsp;Back to top</a></li>
+			</ul>
+		</nav>
+	</footer>
+</body>
+</html>

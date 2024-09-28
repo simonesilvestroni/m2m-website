@@ -1,0 +1,5 @@
+.jekyll-cache/
+.jekyll-metadata
+.DS_Store
+Gemfile.lock
+site/
