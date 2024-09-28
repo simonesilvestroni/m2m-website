@@ -14,7 +14,7 @@
         <header>
           <h1><xsl:value-of select="/rss/channel/title"/></h1>
           <div class="aboutfeeds">
-            <p>This is a web feed that can be viewed in the browser. <strong>Subscribe for free</strong> by copying the URL <code><mark>minutestomidnight.co.uk/feed.xml</mark></code> into your RSS reader. If you need to know more, read <a href="https://en.wikipedia.org/wiki/RSS">this page on Wikipedia</a>.</p>
+            <p>This is a web feed that can be viewed in the browser. <strong>Subscribe for free</strong> by copying the URL <code><mark>minutestomidnight.co.uk/feed.xml</mark></code> into your RSS reader. If you need to know more, read <a href="https://www.thisdaysportion.com/about/what-is-rss/">this article by Leon Paternoster</a>.</p>
             <p>Read how <a href="/blog/build-a-human-readable-rss-with-jekyll/">I made this feed <strong>human-readable</strong></a>.</p>
           </div>
           <div class="head">
