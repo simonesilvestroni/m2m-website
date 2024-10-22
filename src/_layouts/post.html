@@ -5,11 +5,8 @@ layout: default
 	<header>
 		<h1>{{ page.title }}</h1>
 	</header>
-	{% if page.summary != "" and page.summary != nil %}
-	<p class="highlight"><span>{{ page.summary }}</span></p>
-	{% endif %}
 	<div class="author">
-		<a href="{{ site.url }}/about/"><img src="{{ site.url }}/assets/images/minutes-to-midnight-portrait.jpg" alt="{{ site.author.name }}" width="48" height="48"></a>{% if page.coauthor %}&nbsp;&amp;&nbsp;<a href="{{ page.coauthorlink }}">{{ page.coauthor }}</a>{% endif %}&nbsp;&nbsp;<a href="{{ site.url }}{{ page.url }}" title="Permalink"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %b %Y" }}</time></a>
+		<a href="{{ site.url }}/about/"><img src="{{ site.url }}/assets/images/minutes-to-midnight-portrait.jpg" alt="{{ site.author.name }}" width="40" height="40"></a>{% if page.coauthor %}&nbsp;&amp;&nbsp;<a href="{{ page.coauthorlink }}">{{ page.coauthor }}</a>{% endif %}&nbsp;&nbsp;<a href="{{ site.url }}{{ page.url }}" title="Permalink"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %b %Y" }}</time></a>
 	</div>
 	{%- if page.featimage == true %}
 	<figure class="fullscreen">
@@ -19,6 +16,9 @@ layout: default
 		{%- endif %}
 	</figure>
 	{%- endif %}
+	{% if page.summary != "" and page.summary != nil %}
+	<p>{{ page.summary }}</p>
+	{% endif %}
 	{{ content }}
 	<footer>
 		<p>Comments? <a href="mailto:{{ site.author.email }}?subject={{ page.title | uri_escape }}" title="Reply to this post">Reply via email</a>.</p>

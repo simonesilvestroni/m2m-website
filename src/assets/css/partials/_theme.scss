@@ -1,6 +1,6 @@
 @if $theme == true {
 	// ------------------------------------
-	// Variables
+	// Colours
 	// ------------------------------------
 	$colour-day: #fff;
 	$colour-night: #000;
@@ -26,6 +26,9 @@
 	// Root
 	// ------------------------------------
 	:root {
+		--colour-day: #{$colour-day};
+		--colour-night: #{$colour-night};
+		--colour-light: #{$colour-light};
 		--border-radius-standard: 0.5rem;
 		--border-radius-double: 1rem;
 		--nav-gap: 1.5rem;
@@ -34,7 +37,11 @@
 	// Dark theme
 	// ----------------------------------------
 	// @media (prefers-color-scheme: dark) {
-	// 	:root {}
+	// 	:root {
+	// 		--colour-day: #{$colour-night};
+	// 		--colour-night: #{$colour-day};
+	// 		--colour-light: #{$colour-dim};
+	// 	}
 	// 	img, video { opacity: 0.8; }
 	// }
 
@@ -42,7 +49,7 @@
 	// Main DOM elements
 	// ------------------------------------
 	html {
-		background: $colour-light url('/assets/images/dirt.png');
+		background: var(--colour-light) url('/assets/images/dirt.png');
 		background-repeat: no-repeat;
 		background-size: 1250px 800px;
 		background-position: 20% 3rem;
@@ -54,16 +61,16 @@
 		background-size: 100% 65rem;
 		background-repeat: no-repeat;
 	}
-	body > header {
-		text-align: center;
-		a {
-			display: inline-block;
-		}
-		img {
-			display: inline-block;
-			vertical-align: sub;
-		}
-	}
+	// body > header {
+	// 	text-align: center;
+	// 	a {
+	// 		display: inline-block;
+	// 	}
+	// 	img {
+	// 		display: inline-block;
+	// 		vertical-align: sub;
+	// 	}
+	// }
 	body > footer {
 		position: relative;
 		background: $colour-day-transparent;
@@ -103,6 +110,7 @@
 	// ------------------------------------
 	// Layout
 	// ------------------------------------
+	body > header,
 	body > footer,
 	main > aside,
 	main > section,
@@ -117,9 +125,10 @@
 	// ------------------------------------
 	// Headings
 	// ------------------------------------
-	// h1, h2, h3, h4, h5, h6 {
-	// 	font-family: var(--font-secondary);
-	// }
+	h1 {
+		font-size: calc(2.2rem + 0.45vw);
+		font-weight: normal !important;
+	}
 	// h1 as logo in homepage
 	body.homepage h1 {
 		margin: auto;
@@ -129,10 +138,6 @@
 		@media (min-width: 575px) {
 			width: calc(100% - 20vw);
 		}
-	}
-	// h1 in pages and posts
-	h1 {
-		text-align: center;
 	}
 
 	// ------------------------------------
@@ -189,20 +194,16 @@
 	}
 
 	// ------------------------------------
-	// h-card
+	// Author
 	// ------------------------------------
 	// h-card in homepage
-	body.homepage .avatar {
-		width: calc(3rem + 20vw);
-		margin: 3rem auto 0 auto;
-		border-radius: .5rem;
-		transform: rotateZ(357deg);
-	}
-	// h-card in blog posts
+	// body.homepage .avatar {
+	// 	display: inline;
+	// 	margin-block-start: 1.5rem;
+	// }
 	body.post {
 	 .author {
 	 	@extend %small;
-	 	text-align: center;
 		margin-block-end: 1.5rem;
 			a {
 				display: inline-block;
@@ -225,11 +226,10 @@
 		margin-block: 2rem;
 		// Avatar
 		img {
-			width: calc(60px + 5vw);
+			width: calc(40px + 5vw);
 			border-radius: 30em;
 		}
 		p {
-			// font-family: var(--font-secondary);
 			flex: 2;
 			margin: 0;
 		}
@@ -470,24 +470,24 @@
 	// ------------------------------------
 	// Highlighted blocks
 	// ------------------------------------
-	.highlight {
-		margin-block: 3rem;
-		margin-inline: -3rem;
-		padding: 3rem;
-		transform: rotateZ(358deg);
-		background: transparent url('../images/scratches-invert.png');
-		@media (max-width: 960px) {
-			padding: calc(1rem + 2vw);
-			margin-inline: calc(-1rem - 2vw);
-		}
-		span {
-			display: block;
-			transform: rotateZ(2deg);
-		}
-		aside & {
-			margin-block-end: 0;
-		}
-	}
+	// .highlight {
+	// 	margin-block: 3rem;
+	// 	margin-inline: -3rem;
+	// 	padding: 3rem;
+	// 	transform: rotateZ(358deg);
+	// 	background: transparent url('../images/scratches-invert.png');
+	// 	@media (max-width: 960px) {
+	// 		padding: calc(1rem + 2vw);
+	// 		margin-inline: calc(-1rem - 2vw);
+	// 	}
+	// 	span {
+	// 		display: block;
+	// 		transform: rotateZ(2deg);
+	// 	}
+	// 	aside & {
+	// 		margin-block-end: 0;
+	// 	}
+	// }
 
 	// ------------------------------------
 	// Audio player
@@ -571,7 +571,6 @@
 		font-size: larger;
 		p:has(&) {
 			display: flex;
-			justify-content: center;
 			margin-block-start: 4rem;
 			margin-block-end: 2rem;
 		}

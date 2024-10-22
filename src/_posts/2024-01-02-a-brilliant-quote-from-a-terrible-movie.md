@@ -3,6 +3,7 @@ title: A brilliant quote from a terrible movie
 date: '2024-01-02 12:40:55'
 last_modified_at: '2024-01-02 12:40:58'
 tags:
+  - 'cinema'
   - 'internet'
   - 'social media'
 summary: "The Christmas movie <em>Serendipity</em>, that I'm very sorry to have inflicted on both my wife and myself, was released in 2001, preceding the current state of the web by a couple of decades. It had a single highlight, when the character played by Jeremy Piven erupted in a fantastic rant."

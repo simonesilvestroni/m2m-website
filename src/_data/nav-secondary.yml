@@ -1,8 +1,6 @@
 menu:
   - name: My music
     link: /sound-design/#original-music
-  - name: Now
-    link: /now/
   - name: Blogroll
     link: /blogroll/
   - name: Sitemap

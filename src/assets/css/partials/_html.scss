@@ -115,7 +115,7 @@ article {
 // $HEADINGS
 // -------------------------------- */
 // Size
-h1 { font-size: calc(1.5rem + 0.35vw) }
+h1 { font-size: calc(1.8rem + 0.45vw) }
 h2 { font-size: calc(1.3rem + 0.20vw) }
 h3 { font-size: calc(1.2rem + 0.20vw) }
 h4 { font-size: calc(1.1rem + 0.20vw) }
@@ -171,8 +171,7 @@ nav[aria-label="Main navigation"],
 nav[aria-label="Secondary navigation"] {
 	// Nav layout
 	display: flex;
-	align-items: center;
-	justify-content: center;
+	align-items: flex-start;
 	margin-block-start: 1rem;
 	// Nav list
 	ul {
