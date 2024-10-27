@@ -27,8 +27,11 @@
 	// ------------------------------------
 	:root {
 		--colour-day: #{$colour-day};
+		--colour-dim: #{$colour-dim};
+		--colour-extra: #{$colour-extra};
 		--colour-night: #{$colour-night};
 		--colour-light: #{$colour-light};
+		--colour-transparent: #{$colour-day-transparent}
 		--border-radius-standard: 0.5rem;
 		--border-radius-double: 1rem;
 		--nav-gap: 1.5rem;
@@ -543,10 +546,8 @@
 	// ------------------------------------
 	%button {
 		font-family: var(--font-primary);
-		text-transform: lowercase;
-		font-variant: small-caps;
+		text-transform: uppercase;
 		text-decoration: none;
-		border-radius: 10rem;
 		padding-inline: 1rem;
 		padding-block: 0.5rem;
 		&:hover {
@@ -561,14 +562,15 @@
 	%cta {
 		@extend %button;
 		font-weight: bold;
+		color: var(--colour-day);
 		letter-spacing: 1px;
-		padding-inline: 2rem;
-		padding-block: 1rem;
-		background-color: $colour-day-transparent;
+		padding-inline: 1.25rem;
+		padding-block: 0.75rem;
+		background-color: var(--colour-dim);
 	}
 	.cta {
 		@extend %cta;
-		font-size: larger;
+		font-size: smaller;
 		p:has(&) {
 			display: flex;
 			margin-block-start: 4rem;

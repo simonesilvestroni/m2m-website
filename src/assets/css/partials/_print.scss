@@ -1,1 +1,59 @@
-@if $print == true {}
+@if $print == true {
+  @media print {
+    html,
+    body {
+      background: white;
+    }
+    body::before,
+    body > footer,
+    p:has(a.cta),
+    nav[aria-label="Main navigation"],
+    nav[aria-label="Secondary navigation"],
+    div.pagination,
+    .last-update,
+    body.post .author a:first-child {
+      display: none;
+    }
+    section,
+    article {
+	    > * + * {
+		    margin-block-start: 1rem;
+	    }
+	    + h2,
+	    + h3,
+	    + h4,
+	    + h5,
+	    + h6 {
+	    	margin-block-start: 0;
+	    }
+	    h2,
+	    h3,
+	    h4,
+	    h5,
+	    h6 {
+	    	margin-block-start: 1rem;
+	    }
+    }
+    body.post article footer {
+      border-bottom: none;
+      > p {
+        display: none;
+      }
+    }
+    blockquote {
+      > p {
+        background-color: white;
+        border-left: 3px solid var(--colour-extra);
+      }
+    }
+    body.homepage .list-table {
+      margin-block-end: 3rem;
+    }
+    details {
+      border-color: #f5f5f5;
+    }
+    details[open] {
+      background-color: #f5f5f5;
+    }
+  }
+}
