@@ -1,48 +1,40 @@
 ---
 title: A personal manifesto
 date: '2023-04-20 15:23:01'
-last_modified_at: '2024-06-24 10:14:20'
+last_modified_at: '2024-11-30 23:47:45'
 tags:
-  - 'accessibility'
   - 'featured'
-  - 'indieweb'
-  - 'internet'
   - 'personal'
-  - 'social media'
-  - 'sustainability'
-  - 'walled gardens'
-summary: 'After ditching the concept of <em>personal brand</em>, here I go with a few principles I stand for. Is there a point in hiding behind a mask?'
+summary: 'After ditching the concept of <em>personal brand</em>, here I go with what I stand for. Is there a point in hiding behind a mask?'
 permalink: /personal-manifesto/
 ---
-Most of the following points are interconnected, glued together by an attention to *mental health*. Modern capitalism has made a point in exploiting stress and weakness to relentlessly extract money from people. I find it disgraceful, and my hope is that more folks will take decisive steps to safeguard their well-being.
+Leading a quiet life in a time where noise, toxic controversy and anger have become dominant, is a struggle. Capitalism seems to favour abject things like patriarchy, racism, sexism, homophobia, and an incessant rush to accumulate wealth at the expense of people and the environment.
 
-## Be real
+I refuse to contribute to this hive mind mentality, especially when fuelled by soulless corporations. 
 
-I don't need to project a successful persona. This website represents myself, therefore owning both the code and the content has a [real meaning](https://anhvn.com/posts/2021/2021-12-14-i-love-my-website/). I first created my website in 1997, and the blog in 2002, while changing domain, design and content several times over the years. This is my *personal place*, therefore I don't cater to a specific category of people. [Being a brand is a thing of the past]({{ site.url }}/blog/de-brand/).
+While my small-town boy introversion is challenging in a raucous world, it has brilliant side effects. Helped by an eidetic memory, and the ability to hyper focus, I can dig deep into several interests, learning and honing new crafts over time. The result is a capacity to jump comfortably between creativity and tech.
 
-## Be kind
+The other side of the coin is that I had not been always this clear about what I am or what I want. Graduated from music school, I acquired production chops during the 1990s, moving to the big city to work as a print designer and editor to fund my music dreams. Excited by web design as a natural evolution of the publishing industry, I built my first site in 1997.
 
-Should be a given, but unfortunately, it *needs to be said*: I try to listen to everybody (except fascists), without being self-righteous and judgmental. Also, when I make a mistake, I'm able to apologise and correct myself. I rarely swear online, but I'm never afraid to call a spade a spade.
+Shortly after, I received an invite for a job interview with a company that was looking for a web developer who could also understand design. As they were starting production on a platform video game, I landed the [double role of sound and web designer]({{ site.url }}/blog/joining-playstos/), bringing my duality to a full circle.
 
-## Privilege
+## What I Care About
 
-I despise patriarchy, racism, sexism, homophobia. Even though I relentlessly refuse to participate in locker room talk, I'm well aware of the advantages I have as a white man raised in a Western country.
+I care about accessibility, <a href="{{ site.url }}/blog/tag/sustainability/">sustainability</a>, the environment. I consider this site a part of the renaissance of what is now called the <em>small web</em>, which is the philosophy that was behind the web when I started.
 
-## Distraction
-
-I refuse to be part of services profiting from people being distracted, envious and anxious. For this, I quit mainstream social media. Even though I still have a YouTube account, I don’t interact on the site, preferring RSS instead.
-
-## News
+Modern capitalism has made a point in exploiting stress and weakness to relentlessly extract money from people. I find it disgraceful, and my hope is that more folks will take decisive steps to safeguard their well-being. I refuse to be part of services profiting from people being distracted, envious and anxious. For this, I quit mainstream social media. Even though I still have a YouTube account, I don’t interact on the site, preferring RSS instead.
 
 I stopped following the news, which doesn't mean I ignore what's happening in the world. A system based on creating anxiety, fake urgency, and designed to keep people on their toes stays out of my life. If it's not an in-depth analysis, a long-form article or a book, it doesn't get my attention.
+
+I don't feel the need to project a _persona_, successful or otherwise. This website represents myself, therefore owning both the code and the content has a real meaning. I started this blog in March 2002, while changing domain, design and content many times over the years. It's a *personal place*, therefore I don't cater to a specific category of people. [Being a brand is a thing of the past]({{ site.url }}/blog/de-brand/).
+
+Should be a given, but unfortunately, it *needs to be said*: I try to listen to everybody — except fascists — without being self-righteous or judgmental. Also, when I make a mistake, I'm able to apologise and correct myself. I rarely swear online, but I'm never afraid to call a spade a spade.
+
+I despise patriarchy, racism, sexism, homophobia. Even though I relentlessly refuse to participate in locker room talk, I'm well aware of the advantages I have as a white man raised in a Western country.
 
 ## Corporate web
 
 As a gen X, I started hanging around the internet in the 1990s. <abbr title="Internet Relay Chat">IRC</abbr>, <abbr title="Bulletin Board System">BBS</abbr>es, Usenet newsgroups, Eudora, Fort&eacute; Agent — those things. I dislike all facets of the current corporate-led internet, or whatever else turned the so-called _web 1.0_ into the current dystopia. Having to set up multiple systems in order to browse the internet in peace, without being tracked, bombarded by ads, pop-ups, modal windows and whatnot, is *not fun*. I'll never support this crap.
-
-## Decentralisation
-
-I think of this site as part of the [small web](https://ar.al/2020/08/07/what-is-the-small-web/), and the [Indieweb](https://indieweb.org/). I don't feel the need for a comment system, however, I can send and receive [webmentions](https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet/). Private conversations are more in line with my spirit. For ephemeral discussions online, I use [Mastodon](https://sonomu.club/@m2m).
 
 ## Sustainability
 
@@ -72,7 +64,7 @@ Rather than buy the shiny new object, I prefer to [maintain and repair](https://
 
 ## I pay for what I use
 
-I don't pirate software. I support <abbr title="Free and Open-Source Software">FOSS</abbr> projects, including the Mastodon instance that hosts my account, *and* closed-source software built by small companies with a well-thought business model. None of them have a marketing department gaslighting their customers or plastering ads everywhere. A few examples: [Cockos](https://cockos.com/), [Tokyo Dawn Labs](https://www.tokyodawn.net/tokyo-dawn-labs/), [Sublime HQ](https://www.sublimehq.com/), [iA Writer](https://ia.net/writer).
+I don't pirate software. I support <abbr title="Free and Open-Source Software">FOSS</abbr> projects, *and* closed-source software built by small companies with a well-thought business model. None of them have a marketing department gaslighting their customers or plastering ads everywhere. A few examples: [Cockos](https://cockos.com/), [Tokyo Dawn Labs](https://www.tokyodawn.net/tokyo-dawn-labs/), [Sublime HQ](https://www.sublimehq.com/), [iA Writer](https://ia.net/writer).
 
 <aside>
   <blockquote>

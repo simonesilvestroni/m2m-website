@@ -10,8 +10,8 @@ title: 'Minutes to Midnight'
 tagline: 'Web designer & music producer'
 timezone: Europe/London
 logo: '/assets/images/m2m-og-image.png'
-typeface: 'IBM Plex Sans, with a touch of serif'
-typeface-preload: 'ibmplexsans-regular.woff2'
+typeface: 'Rubik, with a touch of serif'
+typeface-preload: 'rubik-regular.woff2'
 jekyll-version: '4.3.3'
 
 # -------------------
@@ -50,8 +50,6 @@ link:
 # About
 # -------------------
 description: "A gen X with a straight to the point attitude. Based in the UK, I play bass and design sound under the moniker Minutes to Midnight."
-intro: "Based in the UK, I play bass and <a href='/sound-design/'>design sound</a> under the moniker <em>Minutes to Midnight</em>."
-indepth: "A gen X with a straight to the point attitude."
 keywords:
   minutes to midnight,
   simone silvestroni,
