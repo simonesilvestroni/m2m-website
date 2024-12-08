@@ -6,7 +6,7 @@ layout: default
 		<h1>{{ page.title }}</h1>
 	</header>
 	<div class="author">
-		<a href="{{ site.url }}/about/"><img src="{{ site.url }}/assets/images/minutes-to-midnight-portrait.jpg" alt="{{ site.author.name }}" width="40" height="40"></a>{% if page.coauthor %}&nbsp;&amp;&nbsp;<a href="{{ page.coauthorlink }}">{{ page.coauthor }}</a>{% endif %}&nbsp;&nbsp;<a href="{{ site.url }}{{ page.url }}" title="Permalink"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %b %Y" }}</time></a>
+		<a href="{{ site.url }}"><img src="{{ site.url }}/assets/images/minutes-to-midnight-portrait.jpg" alt="{{ site.author.name }}" width="40" height="40"></a>{% if page.coauthor %}&nbsp;&amp;&nbsp;<a href="{{ page.coauthorlink }}">{{ page.coauthor }}</a>{% endif %}&nbsp;&nbsp;<a href="{{ site.url }}{{ page.url }}" title="Permalink"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateCreated">{{ page.date | date: "%-d %b %Y" }}</time></a>
 	</div>
 	{%- if page.featimage == true %}
 	<figure class="fullscreen">

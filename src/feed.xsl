@@ -37,7 +37,7 @@
           </xsl:for-each>
         </main>
         <footer>
-          <p>© 2002-2024 <a href="/about/">Simone Silvestroni</a>. Blog posts are licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 license</a>. The text copy can be used, including commercially, provided that a proper attribution to me is given, including a link to <code>minutestomidnight.co.uk</code>.</p>
+          <p>© 2002-2024 <a href="/">Simone Silvestroni</a>. Blog posts are licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 license</a>. The text copy can be used, including commercially, provided that a proper attribution to me is given, including a link to <code>minutestomidnight.co.uk</code>.</p>
         </footer>
       </body>
     </html>

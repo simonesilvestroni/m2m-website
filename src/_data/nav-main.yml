@@ -1,9 +1,7 @@
 menu:
-  - name: About
-    link: /about/
   - name: Blog
-    link: /blog/
-  - name: Contact
-    link: /contact/
+    url: /blog/
+  - name: Search
+    url: /search/
   - name: <img class="logo-rss" src="/assets/images/rss.svg" alt="RSS" width="20" height="20">
-    link: /feed.xml
+    url: /feed.xml

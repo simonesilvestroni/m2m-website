@@ -10,8 +10,8 @@ title: 'Minutes to Midnight'
 tagline: 'Web designer & music producer'
 timezone: Europe/London
 logo: '/assets/images/m2m-og-image.png'
-typeface: 'Rubik, with a touch of serif'
-typeface-preload: 'rubik-regular.woff2'
+typeface: 'IBM Plex Mono, with a touch of serif'
+typeface-preload: 'ibmplexmono-regular.woff2'
 jekyll-version: '4.3.3'
 
 # -------------------

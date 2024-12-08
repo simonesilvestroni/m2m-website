@@ -33,6 +33,7 @@ Shortly after, Covid arrived. A few months and several chats later, Emilio start
 > I’ve been collaborating with Gianluca for twenty years, somehow picking up Simone’s baton right after he left Ravenna in the mid-Nineties. When we met last year, in a foggy wintry night, we couldn’t possibly know that a global pandemic was around the corner, nor that we would have worked together remotely, despite ironically living so close.
 > <cite>Emilio Albertoni</cite>
 
+{: .fullscreen }
 ![Control room in the Loto Recording Studio](/assets/images/loto-studio.jpg){: width="1080" height="667" }
 *Loto studio, where Emilio and I used to work*
 
@@ -76,4 +77,4 @@ Gianluca Lo Presti
 
 ### Production
 
-Produced by Emilio Albertoni and Simone Silvestroni / Mixed and mastered by Simone Silvestroni / &copy;&nbsp;2020 Gianluca Lo Presti / &copy;&nbsp;2021 Remix produced and arranged by Emilio Albertoni and Simone Silvestroni / ℗&nbsp;2019 Minutes to Midnight (sound recording copyright).
+Produced by Emilio Albertoni and Simone Silvestroni / Mixed and mastered by Simone Silvestroni / &copy;&nbsp;2020 Gianluca Lo Presti / &copy;&nbsp;2021 Remix produced and arranged by Emilio Albertoni and Simone Silvestroni / ℗&nbsp;2021 Minutes to Midnight (sound recording copyright).

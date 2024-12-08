@@ -132,7 +132,7 @@ The game was [released on 27 June 2006](https://www.mobygames.com/game/34741/ruf
 
 ## Why I didn't join another game company
 
-To recover from the burnout, I'd decided to turn most of my interest to web design and development. What started as time off the game industry turned into [a different kind of career]({{ site.url }}/about/). I kept working with audio production, until I founded Minutes to Midnight after moving to the UK. Besides working as a mixing engineer, I wrote an autobiographical concept album where a few songs were made of [unused music]({{ site.url }}/blog/skinny-kid-song-backstory/) from the Playstos years. Initially conceived as a theatrical piece, and released at the end of 2019, it rekindled my passion for audio-visual narration, prompting me to go back to game audio.
+To recover from the burnout, I'd decided to turn most of my interest to web design and development. What started as time off the game industry turned into [a different kind of career]({{ site.url }}/personal-manifesto/). I kept working with audio production, until I founded Minutes to Midnight after moving to the UK. Besides working as a mixing engineer, I wrote an autobiographical concept album where a few songs were made of [unused music]({{ site.url }}/blog/skinny-kid-song-backstory/) from the Playstos years. Initially conceived as a theatrical piece, and released at the end of 2019, it rekindled my passion for audio-visual narration, prompting me to go back to game audio.
 
 While I'd been updating my skills by studying Wwise, FMOD and their integration with modern game engines, I got to work as a [sound designer for Paris-based Amuse Animations]({{ site.url }}/blog/car-city-cartoon/).
 

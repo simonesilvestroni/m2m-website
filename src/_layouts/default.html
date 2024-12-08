@@ -63,11 +63,18 @@
 		<a href="#footer">Skip to footer</a>
 	</div>
 	<header>
-		<a href="{{ site.url }}"><img src="{{ site.url }}/assets/images/m2m-nav-logo.svg" alt="Back to the homepage" width="32" height="32"></a>
 		<nav aria-label="Main navigation">
 			<ul>
-				{% for item in site.data.nav-main.menu -%}
-				<li><a{% if page.url contains item.link %} class="current"{% endif %} href="{{ item.link }}">{{ main-nav-icon }}{{ item.name }}</a></li>
+				<li><a href='{{ site.url }}'{% if page.url == '/' %} class='current' aria-current='page'{% endif %}>Home</a></li>
+				{%- for link in site.data.nav-main.menu -%}
+				{% assign class = nil %}
+				{%- if page.url == link.url %}
+				{% assign class = ' class="current"' %}
+				{% assign aria = ' aria-current="page"' %}
+				{%- elsif page.url contains link.url %}
+				{% assign class = ' class="parent"' %}
+				{% endif %}
+				<li><a{{ class }}{{ aria }} href="{{ link.url }}">{{ link.name }}</a></li>
 				{%- endfor %}
 			</ul>
 		</nav>
@@ -79,12 +86,13 @@
 		<nav aria-label="Secondary navigation">
 			<ul>
 				{% for item in site.data.nav-secondary.menu -%}
-				<li><a{% if page.url contains item.link %} class="current"{% endif %} href="{{ site.url }}{{ item.link }}">{{ item.name }}</a></li>
+				<li><a{%- if page.url == item.link %} aria-current="page"{% endif %} href="{{ site.url }}{{ item.link }}">{{ item.name }}</a></li>
 				{% endfor -%}
 			</ul>
 		</nav>
-		<p><a href="{{ site.url }}/colophon/#copyright">&copy; {{ site.time | date: "%Y"}} + CC BY 4.0</a></p>
-		<p>Handcrafted using Jekyll {{ site.jekyll-version }}, Liquid, and the M2M CSS framework.{%- if site.typeface != "" and site.typeface != nil %} Typefaces: {{ site.typeface }}.{% endif %} Info about <a href="{{ site.url }}/colophon/#about-the-website">the website</a>, <a href="{{ site.url }}/colophon/#accessibility-and-sustainability">accessibility &amp; sustainability</a>, and <a href="{{ site.url }}/colophon/#privacy">privacy</a>.</p>
+		<div><img src="{{ site.url }}/assets/images/m2m-logo-full.svg" alt="Minutes to Midnight" width='340'><br></div>
+		<p>&copy; {{ site.time | date: "%Y"}} + CC BY 4.0</p>
+		<p>Handcrafted using Jekyll {{ site.jekyll-version }}, Liquid, and the M2M CSS framework.{%- if site.typeface != "" and site.typeface != nil %} Typefaces: {{ site.typeface }}.{% endif %} All info about the website, its accessibility, sustainability, privacy, and copyright, can be found <a href="{{ site.url }}/colophon/">in the colophon</a>.</p>
 		<hr>
 		<nav aria-label="Footer navigation">
 			<ul>

@@ -49,8 +49,8 @@
 - /electronic-press-kit/ /epk/
 - /ethics/ /personal-manifesto/
 - /files/ /
-- /follow/ /contact/
-- /gallery/ /about/
+- /follow/ /
+- /gallery/ /
 - /how-i-use-internet/ /blog/how-i-use-internet/
 - /more-link/ /sitemap/
 - /more-links/ /sitemap/
@@ -63,11 +63,11 @@
 - /manifesto/ /personal-manifesto/
 - /newsletter/ /blog/
 - /newsletter.xml /feed.xml
-- /pgp/ /contact/
-- /photos/ /about/
+- /pgp/ /
+- /photos/ /
 - /portfolio/ /blog/
 - /privacy-policy/ /colophon/
-- /press-photos/ /about/
+- /press-photos/ /
 - /production-mix/ /sound-design/
 - /projects/ /blog/
 - /projects/sound-design/ /sound-design/
@@ -78,7 +78,7 @@
 - /projects/project-management/ /blog/project-management/
 - /project-management/ /blog/project-management/
 - /projects/sound-design/vocal-editing/ /blog/vocal-editing/
-- /resume/ /about/
+- /resume/ /
 - /review-skinny-kid-novamusic-blog/ /blog/review-skinny-kid-novamusic/
 - /rss/ /feed.xml
 - /skinny-kid/ /blog/skinny-kid-song-backstory/
@@ -164,3 +164,5 @@
 - /sound-design/callum-gardner-debut-single/ /blog/callum-gardner-debut-single/
 - /sound-design/ciara-clifford-album-strings-production/ /blog/strings-production-for-ciara-cliffords-new-album/
 - /sound-design/funky-bacterium-antiquity-song-co-production/ /blog/co-production-funky-bacterium-antiquity/
+- /about/ /
+- /contact/ /

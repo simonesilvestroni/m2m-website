@@ -13,13 +13,13 @@ After an inconclusive poll on Mastodon, where the question ‘*should I merge my
 
 My solution was to keep the *personal* approach dominant. After porting all the case studies over from my web development work site, I created two landing pages, one for each professional side: [sound design](https://sound.minutestomidnight.co.uk) and [web development](https://dev.minutestomidnight.co.uk). Structured as proper CVs,[^1] they live in subdomains, allowing me to send a single link to recruiters or whoever might be interested in the minutiae of my work life.
 
-I've come to detest personal websites that look like a business card, where the owner's job role is shouted in gigantic typefaces on a full-screen "hero header". Marketing lingo[^2] coupled with corporate-like design are creeping up everywhere on the internet, and I want to stay out of it. My website continues to be personal, while still offering ways to find out what I do for work. By refusing to cater for a specific category of people, I'm trying to keep it true to who *I am*, and what *I do*, without thinking if that should represent a public persona or not. 
+I've come to detest personal websites that look like a business card, where the owner's job role is shouted in gigantic typefaces on a full-screen "hero header". Marketing lingo[^2] coupled with corporate-like design are creeping up everywhere on the internet, and I want to stay out of it. My website continues to be personal, while still offering ways to find out what I do for work. By refusing to cater for a specific category of people, I'm trying to keep it true to who *I am*, and what *I do*, without thinking if that should represent a public persona or not.
 
 I enjoyed reading [*Which self is this?* by Rachel Kwon](https://kwon.nyc/notes/which-self-is-this/), and while I understand the fundamental question underlining the post, my way out is to embrace the *wholeness*.
 
 ## Changes
 
-Work-related posts have several point of entry, without being accessible from the main navigation. To reinforce the concept of [duality that has always accompanied me]({{ site.url }}/about/), all the case studies, redesigned and optimised, are now regular [blog posts]({{ site.url }}/blog/).
+Work-related posts have several point of entry, without being accessible from the main navigation. To reinforce the concept of [duality that has always accompanied me]({{ site.url }}/personal-manifesto/), all the case studies, redesigned and optimised, are now regular [blog posts]({{ site.url }}/blog/).
 
 Soundcloud and personal YouTube embeds have been replaced by standard HTML `<audio>` and `<video>` objects. Having already wiped out a large amount of unwanted third-party bloat, I'm going to keep going by replacing the remaining YouTube videos with equivalent from Invidious instances.
 

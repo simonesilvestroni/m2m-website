@@ -6,6 +6,11 @@ tags:
   - 'cinema'
   - 'personal'
 summary: "Finally managed to (re)watch the film <em>Love and Human Remains</em> on DVD, a favourite of mine since 1993 that I haven't seen in a very long time. Eager to compare my memories of it with the real thing, it didn't disappoint."
+featimage: true
+featimage-name: 'love-and-human-remains.jpg'
+featimage-alt: Frame taken from the movie Love and Human Remains
+featimage-width: 957
+featimage-height: 573
 ---
 I absolutely love the story, the characters, the dialogues, the music. Surprising how I never knew it was set in Edmonton, Canada — I guess when watching films that have been dubbed in another language, multiple layers of meaning are irremediably lost.
 
